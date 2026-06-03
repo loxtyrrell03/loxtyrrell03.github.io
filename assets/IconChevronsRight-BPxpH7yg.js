@@ -1,1 +1,0 @@
-import{S as e}from"./treeReducer-C4UYeo-c.js";var o=[["path",{d:"M7 7l5 5l-5 5",key:"svg-0"}],["path",{d:"M13 7l5 5l-5 5",key:"svg-1"}]],r=e("outline","chevrons-right","ChevronsRight",o);export{r as t};
