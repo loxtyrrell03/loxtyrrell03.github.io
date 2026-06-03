@@ -1,0 +1,84 @@
+[Event "BCF-chT3W 2324 (4NCL)"]
+[Site "England"]
+[Date "2024.03.10"]
+[Round "8.45"]
+[White "Gagan, BR."]
+[Black "Holroyd Doveton, Nathaniel"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "1961"]
+[BlackElo "1706"]
+[PlyCount "41"]
+
+1. d4 e6 2. Bf4 c5 3. e3 cxd4 4. exd4 Qb6 5. Bc1 Nf6 6. Nf3 Nc6 7. c3 Be7 8. Bd3 d5 9. O-O O-O 10. Re1 Bd7 11. Nbd2 Rfc8 12. Qe2 Qd8 13. Nf1 a6 14. Ng3 Na5 15. Ne5 b5 16. Nh5 Nxh5 17. Bxh7+ Kxh7 18. Qxh5+ Kg8 19. Qxf7+ Kh8 20. Nxd7 Qe8 21. Qxe6 1-0
+
+[Event "BCF-chT3W 2324 (4NCL)"]
+[Site "England"]
+[Date "2024.03.09"]
+[Round "7.35"]
+[White "Fellowes, Billy"]
+[Black "Gagan, BR."]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2084"]
+[BlackElo "1961"]
+[PlyCount "158"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nc3 d5 4. e3 c6 5. Be2 Qa5 6. Qd2 Bg7 7. h4 h5 8. Nf3 Bg4 9. O-O Bxf3 10. Bxf3 Nbd7 11. Rfd1 Qd8 12. b4 O-O 13. b5 Re8 14. bxc6 bxc6 15. e4 e5 16. dxe5 Nxe5 17. Bxe5 Rxe5 18. Rab1 Qe7 19. exd5 cxd5 20. Nxd5 Nxd5 21. Bxd5 Rf8 22. Qf4 Rf5 23. Qg3 Kh7 24. Re1 Be5 25. Qh3 Qf6 26. Bf3 Rf4 27. Re4 Rxe4 28. Bxe4 Qf4 29. Bd3 Bd4 30. Rf1 Bf6 31. g3 Qa4 32. Re1 a5 33. Qg2 Qxa2 34. Qc6 Kg7 35. Re4 Qa1+ 36. Kg2 Qc3 37. Qb7 Qc8 38. Qb6 Qa8 39. Kh2 Rb8 40. Qd6 Rd8 41. Qf4 Re8 42. Rc4 Qd5 43. Ra4 Re1 44. Be4 Qc5 45. Kg2 Ra1 46. Rxa1 Bxa1 47. Qd2 Bd4 48. c4 a4 49. Qa2 a3 50. Bb1 Qc6+ 51. f3 Qe6 52. Qd2 Qxc4 53. Ba2 Qc5 54. Qe2 Qc1 55. Bd5 Qg1+ 56. Kh3 Bf2 57. Qe5+ Kh7 58. g4 Qf1+ 59. Kh2 Bg1+ 60. Kg3 Qf2+ 61. Kh3 hxg4+ 62. fxg4 a2 63. Bxa2 Qxa2 64. h5 Qb3+ 65. Kg2 Be3 66. Qf6 Qd5+ 67. Kh2 gxh5 68. Qe7 Bf4+ 69. Kg1 Bg5 70. Qb4 Qd1+ 71. Kh2 Qxg4 72. Qb1+ Kg7 73. Qb2+ Bf6 74. Qb7 Be5+ 75. Kh1 Qd1+ 76. Kg2 Qe2+ 77. Kg1 Bd4+ 78. Kh1 Qf1+ 79. Kh2 Be5# 0-1
+
+[Event "BCF-chT3W 2324 (4NCL)"]
+[Site "England"]
+[Date "2024.02.11"]
+[Round "6.64"]
+[White "Latypova, Olga L"]
+[Black "Gagan, BR."]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "1684"]
+[BlackElo "1961"]
+[PlyCount "79"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4 a5 9. g3 a4 10. Bd3 a3 11. Ne2 axb2 12. Bxb2 Qa5+ 13. Kf2 Ba3 14. Bc3 Qa7 15. Qb3 f6 16. Kg2 Qa4 17. Bb5 Qa7 18. Rhe1 O-O 19. Nc1 fxe5 20. fxe5 Rxf3 21. Kxf3 Nxd4+ 22. Bxd4 Qxd4 23. Nd3 Nc5 24. Qd1 Ne4 25. Kg2 Ra5 26. Qc2 Nc3 27. Be8 b6 28. Rf1 Ba6 29. Rf3 g5 30. Nf2 Rc5 31. Re1 Ne4 32. Qb3 Bb4 33. Rxe4 Qa1 34. Nd1 Ba5 35. Rg4 h6 36. Bf7+ Kh8 37. Bxe6 Bc4 38. Rxc4 dxc4 39. Rf8+ Kg7 40. Rg8+ 1-0
+
+[Event "BCF-chT3W 2324 (4NCL)"]
+[Site "England"]
+[Date "2024.02.10"]
+[Round "5.54"]
+[White "Gagan, BR."]
+[Black "Foster, Timothy"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1961"]
+[BlackElo "1975"]
+[PlyCount "162"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 g6 4. e3 Bg7 5. h4 h5 6. Nf3 O-O 7. Ne5 c5 8. Qd2 cxd4 9. exd4 Nc6 10. Be2 Bf5 11. Nxc6 bxc6 12. f3 c5 13. dxc5 d4 14. Nb5 Nd5 15. Bg5 Ne3 16. Bd3 Bxd3 17. cxd3 Nxg2+ 18. Qxg2 Qa5+ 19. Qd2 Qxb5 20. Rc1 Rfc8 21. Qc2 Rc6 22. Kf2 Bf6 23. a4 Qa6 24. b4 Bxg5 25. hxg5 Re6 26. b5 Qa5 27. Rhe1 Rxe1 28. Rxe1 Qc7 29. Kg1 Qg3+ 30. Kf1 Qxf3+ 31. Qf2 Qxd3+ 32. Kg1 Re8 33. Rf1 Rf8 34. Qf4 Qc4 35. c6 Qxa4 36. c7 Qc4 37. Rc1 Qe6 38. Qxd4 Rc8 39. Rc6 Qg4+ 40. Qxg4 hxg4 41. Kg2 Kf8 42. Kg3 Ke8 43. Rc1 Kd7 44. Rf1 Rxc7 45. Rxf7 Ke6 46. Rf4 Rc5 47. Kxg4 Rxb5 48. Re4+ Re5 49. Ra4 a5 50. Rc4 Kd5 51. Rc7 Kd6 52. Ra7 e6 53. Kf4 Rf5+ 54. Kg4 Rc5 55. Rg7 a4 56. Rxg6 Ra5 57. Rg8 a3 58. Rd8+ Ke7 59. Rd1 a2 60. Ra1 Kf7 61. Kh5 Kg7 62. Kg4 Kg6 63. Kf4 e5+ 64. Ke4 Kxg5 65. Rg1+ Kf6 66. Rf1+ Ke6 67. Ra1 Ra4+ 68. Kd3 Kd5 69. Kc3 e4 70. Kb2 Kd4 71. Rd1+ Ke3 72. Ka1 Ke2 73. Rh1 e3 74. Rh2+ Kd1 75. Rh1+ Kd2 76. Rc1 e2 77. Rc2+ Ke3 78. Rc3+ Kf2 79. Rc2 Kf1 80. Rxe2 Kxe2 81. Kb2 a1=Q+ 0-1
+
+[Event "BCF-chT3W 2324 (4NCL)"]
+[Site "England"]
+[Date "2024.01.07"]
+[Round "4.65"]
+[White "Walner, Milenko"]
+[Black "Gagan, BR."]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "1786"]
+[BlackElo "1888"]
+[PlyCount "115"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. Bd3 c5 5. e5 Nfd7 6. c3 Nc6 7. Ne2 cxd4 8. cxd4 f6 9. Nf4 Nxd4 10. Qh5+ Ke7 11. exf6+ Nxf6 12. Ng6+ hxg6 13. Qxh8 Kf7 14. Qh4 e5 15. Nb3 Nxb3 16. axb3 Bf5 17. Bxf5 gxf5 18. Bg5 Qb6 19. Bxf6 Bb4+ 20. Kf1 gxf6 21. Qh5+ Ke6 22. g4 Qb5+ 23. Kg2 fxg4 24. Qxg4+ Kf7 25. Qh5+ Ke6 26. Qg4+ Kf7 27. Qh5+ Ke7 28. Qh7+ Kd6 29. Qf7 Qd3 30. Qxf6+ Kd7 31. Qf7+ Be7 32. Rhd1 Qe4+ 33. f3 Qe2+ 34. Kg3 d4 35. Re1 Rg8+ 36. Qxg8 Bh4+ 37. Kh3 Bxe1 38. Qd5+ Ke7 39. Qxb7+ Kf6 40. Ra6+ Kg5 41. Qe7+ Kf4 42. Rf6+ Ke3 43. Qxe5+ Kd3 44. Qb5+ Kd2 45. Qb4+ Kc2 46. Qc4+ Qxc4 47. bxc4 Bb4 48. Ra6 Bc5 49. b4 Bxb4 50. Rxa7 Kb3 51. Rc7 d3 52. c5 Kc4 53. c6 Bc5 54. Rd7 Bd4 55. c7 d2 56. c8=Q+ Kd3 57. Rxd4+ Kxd4 58. Kg4 1-0
+
+[Event "BCF-chT3W 2324 (4NCL)"]
+[Site "England"]
+[Date "2024.01.06"]
+[Round "3.65"]
+[White "Gagan, BR."]
+[Black "Flynn, David"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "1888"]
+[BlackElo "1901"]
+[PlyCount "89"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 a6 4. e3 Bf5 5. f3 e6 6. g4 Bg6 7. h4 h6 8. Bd3 Bxd3 9. cxd3 Bd6 10. Nge2 Nc6 11. Kf2 Bxf4 12. Nxf4 Qd6 13. g5 Nd7 14. g6 Nxd4 15. gxf7+ Kxf7 16. Qg1 Rhg8 17. Qg6+ Ke7 18. Qg4 Nc6 19. d4 Nf6 20. Qg6 Kd7 21. Rag1 Ne7 22. Qc2 Raf8 23. Ke2 Kc8 24. Nd3 Nd7 25. f4 Nc6 26. a3 Nb6 27. h5 Qd7 28. Nb1 Rf5 29. Nc5 Qf7 30. Rg6 Rxh5 31. Rxh5 Nxd4+ 32. exd4 Qxf4 33. Nxe6 Re8 34. Rf5 Qh2+ 35. Rf2 Qd6 36. Qf5 Kb8 37. Kf1 Nc4 38. Kg1 Ne3 39. Qf7 Re7 40. Qf8+ Ka7 41. Nf4 Qd7 42. Nc3 Ng4 43. Re2 Rf7 44. Qc5+ b6 45. Qxd5 1-0
+
