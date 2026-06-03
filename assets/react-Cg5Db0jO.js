@@ -1,1 +1,0 @@
-import{r as u}from"./chunk-Dv1cbSuN.js";import{d as s}from"./index-DcJ6LNeB.js";var r=u(s(),1),n=t=>t;function c(t,e=n){const a=r.useSyncExternalStore(t.subscribe,r.useCallback(()=>e(t.getState()),[t,e]),r.useCallback(()=>e(t.getInitialState()),[t,e]));return r.useDebugValue(a),a}export{c as t};
