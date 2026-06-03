@@ -1,1 +1,0 @@
-import{S as o}from"./treeReducer-lERps9sf.js";var a=[["path",{d:"M19 18a3.5 3.5 0 0 0 0 -7h-1a5 4.5 0 0 0 -11 -2a4.6 4.4 0 0 0 -2.1 8.4",key:"svg-0"}],["path",{d:"M12 13l0 9",key:"svg-1"}],["path",{d:"M9 19l3 3l3 -3",key:"svg-2"}]],e=o("outline","cloud-download","CloudDownload",a);export{e as t};
