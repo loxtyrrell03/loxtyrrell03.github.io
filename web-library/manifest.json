@@ -1,0 +1,2727 @@
+{
+  "version": 1,
+  "generatedAt": "2026-06-03T21:02:14.146Z",
+  "sourceName": "EnCroissant",
+  "files": [
+    {
+      "type": "file",
+      "name": "game 1",
+      "filename": "game 1.pgn",
+      "extension": "pgn",
+      "path": "Blindfold games/game 1.pgn",
+      "url": "files/Blindfold%20games/game%201.pgn",
+      "lastModified": 1779035667331.0115,
+      "sizeBytes": 910
+    },
+    {
+      "type": "file",
+      "name": "Black against the london system",
+      "filename": "Black against the london system.pgn",
+      "extension": "pgn",
+      "path": "General repertoire/Black rep/Black against the london system.pgn",
+      "url": "files/General%20repertoire/Black%20rep/Black%20against%20the%20london%20system.pgn",
+      "lastModified": 1780089917147.119,
+      "sizeBytes": 2476
+    },
+    {
+      "type": "file",
+      "name": "Black trompowsky repertoire",
+      "filename": "Black trompowsky repertoire.pgn",
+      "extension": "pgn",
+      "path": "General repertoire/Black rep/Black trompowsky repertoire.pgn",
+      "url": "files/General%20repertoire/Black%20rep/Black%20trompowsky%20repertoire.pgn",
+      "lastModified": 1779781653750.7866,
+      "sizeBytes": 1308
+    },
+    {
+      "type": "file",
+      "name": "c5! against the london",
+      "filename": "c5! against the london.pgn",
+      "extension": "pgn",
+      "path": "General repertoire/Black rep/c5! against the london.pgn",
+      "url": "files/General%20repertoire/Black%20rep/c5!%20against%20the%20london.pgn",
+      "lastModified": 1779780651081.9229,
+      "sizeBytes": 1228
+    },
+    {
+      "type": "file",
+      "name": "Modern Austrian attack or 3 pawns attack",
+      "filename": "Modern Austrian attack or 3 pawns attack.pgn",
+      "extension": "pgn",
+      "path": "General repertoire/Black rep/Modern Austrian attack or 3 pawns attack.pgn",
+      "url": "files/General%20repertoire/Black%20rep/Modern%20Austrian%20attack%20or%203%20pawns%20attack.pgn",
+      "lastModified": 1779402333983.523,
+      "sizeBytes": 2861
+    },
+    {
+      "type": "file",
+      "name": "Pirc and modern",
+      "filename": "Pirc and modern.pgn",
+      "extension": "pgn",
+      "path": "General repertoire/Black rep/Pirc and modern.pgn",
+      "url": "files/General%20repertoire/Black%20rep/Pirc%20and%20modern.pgn",
+      "lastModified": 1778162159434.877,
+      "sizeBytes": 3487
+    },
+    {
+      "type": "file",
+      "name": "Catalan accepted as white",
+      "filename": "Catalan accepted as white.pgn",
+      "extension": "pgn",
+      "path": "General repertoire/White  rep/Catalan accepted as white.pgn",
+      "url": "files/General%20repertoire/White%20%20rep/Catalan%20accepted%20as%20white.pgn",
+      "lastModified": 1779404859925.5378,
+      "sizeBytes": 1864
+    },
+    {
+      "type": "file",
+      "name": "Catalan not accepted",
+      "filename": "Catalan not accepted.pgn",
+      "extension": "pgn",
+      "path": "General repertoire/White  rep/Catalan not accepted.pgn",
+      "url": "files/General%20repertoire/White%20%20rep/Catalan%20not%20accepted.pgn",
+      "lastModified": 1779574269192.0498,
+      "sizeBytes": 285
+    },
+    {
+      "type": "file",
+      "name": "Reti, Nf3, d5, c4",
+      "filename": "Reti, Nf3, d5, c4.pgn",
+      "extension": "pgn",
+      "path": "General repertoire/White  rep/Reti, Nf3, d5, c4.pgn",
+      "url": "files/General%20repertoire/White%20%20rep/Reti%2C%20Nf3%2C%20d5%2C%20c4.pgn",
+      "lastModified": 1778086455155.325,
+      "sizeBytes": 3829
+    },
+    {
+      "type": "file",
+      "name": "01 2022-12-29 Yu, Yangyi Nakamura, Hikaru",
+      "filename": "01 2022-12-29 Yu, Yangyi Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/01 2022-12-29 Yu, Yangyi Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/01%202022-12-29%20Yu%2C%20Yangyi%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927168.9587,
+      "sizeBytes": 835
+    },
+    {
+      "type": "file",
+      "name": "02 2016-10-27 Carlsen, Magnus Nakamura, Hikaru",
+      "filename": "02 2016-10-27 Carlsen, Magnus Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/02 2016-10-27 Carlsen, Magnus Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/02%202016-10-27%20Carlsen%2C%20Magnus%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927186.7253,
+      "sizeBytes": 548
+    },
+    {
+      "type": "file",
+      "name": "03 2023-07-21 Carlsen, Magnus Nakamura, Hikaru",
+      "filename": "03 2023-07-21 Carlsen, Magnus Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/03 2023-07-21 Carlsen, Magnus Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/03%202023-07-21%20Carlsen%2C%20Magnus%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927200.2163,
+      "sizeBytes": 900
+    },
+    {
+      "type": "file",
+      "name": "04 2023-07-21 Carlsen, Magnus Nakamura, Hikaru",
+      "filename": "04 2023-07-21 Carlsen, Magnus Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/04 2023-07-21 Carlsen, Magnus Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/04%202023-07-21%20Carlsen%2C%20Magnus%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927214.8125,
+      "sizeBytes": 1081
+    },
+    {
+      "type": "file",
+      "name": "05 2023-07-21 Carlsen, Magnus Nakamura, Hikaru",
+      "filename": "05 2023-07-21 Carlsen, Magnus Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/05 2023-07-21 Carlsen, Magnus Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/05%202023-07-21%20Carlsen%2C%20Magnus%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927232.5264,
+      "sizeBytes": 823
+    },
+    {
+      "type": "file",
+      "name": "06 2023-07-21 Carlsen, Magnus Nakamura, Hikaru",
+      "filename": "06 2023-07-21 Carlsen, Magnus Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/06 2023-07-21 Carlsen, Magnus Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/06%202023-07-21%20Carlsen%2C%20Magnus%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927248.2263,
+      "sizeBytes": 681
+    },
+    {
+      "type": "file",
+      "name": "07 2023-07-20 Firouzja, Alireza Nakamura, Hikaru",
+      "filename": "07 2023-07-20 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/07 2023-07-20 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/07%202023-07-20%20Firouzja%2C%20Alireza%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927264.7688,
+      "sizeBytes": 941
+    },
+    {
+      "type": "file",
+      "name": "08 2023-07-20 Firouzja, Alireza Nakamura, Hikaru",
+      "filename": "08 2023-07-20 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/08 2023-07-20 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/08%202023-07-20%20Firouzja%2C%20Alireza%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927282.2117,
+      "sizeBytes": 1233
+    },
+    {
+      "type": "file",
+      "name": "09 2023-09-26 Giri, Anish Nakamura, Hikaru",
+      "filename": "09 2023-09-26 Giri, Anish Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/09 2023-09-26 Giri, Anish Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/09%202023-09-26%20Giri%2C%20Anish%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927303.7637,
+      "sizeBytes": 778
+    },
+    {
+      "type": "file",
+      "name": "10 2024-06-13 Firouzja, Alireza Nakamura, Hikaru",
+      "filename": "10 2024-06-13 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/10 2024-06-13 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/10%202024-06-13%20Firouzja%2C%20Alireza%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927320.9133,
+      "sizeBytes": 709
+    },
+    {
+      "type": "file",
+      "name": "11 2024-06-13 Firouzja, Alireza Nakamura, Hikaru",
+      "filename": "11 2024-06-13 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/11 2024-06-13 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/11%202024-06-13%20Firouzja%2C%20Alireza%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927337.7708,
+      "sizeBytes": 574
+    },
+    {
+      "type": "file",
+      "name": "12 2022-08-30 Vachier Lagrave, Maxime Nakamura, Hikaru",
+      "filename": "12 2022-08-30 Vachier Lagrave, Maxime Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/12 2022-08-30 Vachier Lagrave, Maxime Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/12%202022-08-30%20Vachier%20Lagrave%2C%20Maxime%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1779488949858.4937,
+      "sizeBytes": 831
+    },
+    {
+      "type": "file",
+      "name": "13 2020-01-05 Nepomniachtchi, Ian Nakamura, Hikaru",
+      "filename": "13 2020-01-05 Nepomniachtchi, Ian Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/13 2020-01-05 Nepomniachtchi, Ian Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/13%202020-01-05%20Nepomniachtchi%2C%20Ian%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927371.583,
+      "sizeBytes": 1342
+    },
+    {
+      "type": "file",
+      "name": "14 2020-01-05 Nepomniachtchi, Ian Nakamura, Hikaru",
+      "filename": "14 2020-01-05 Nepomniachtchi, Ian Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/14 2020-01-05 Nepomniachtchi, Ian Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/14%202020-01-05%20Nepomniachtchi%2C%20Ian%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927387.9363,
+      "sizeBytes": 1007
+    },
+    {
+      "type": "file",
+      "name": "15 2013-05-07 Radjabov, Teimour Nakamura, Hikaru",
+      "filename": "15 2013-05-07 Radjabov, Teimour Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/15 2013-05-07 Radjabov, Teimour Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/15%202013-05-07%20Radjabov%2C%20Teimour%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927403.0437,
+      "sizeBytes": 1073
+    },
+    {
+      "type": "file",
+      "name": "16 2021-12-02 Giri, Anish Nakamura, Hikaru",
+      "filename": "16 2021-12-02 Giri, Anish Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/16 2021-12-02 Giri, Anish Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/16%202021-12-02%20Giri%2C%20Anish%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927418.86,
+      "sizeBytes": 609
+    },
+    {
+      "type": "file",
+      "name": "17 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru",
+      "filename": "17 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/17 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/17%202023-09-20%20Vachier%20Lagrave%2C%20Maxime%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927435.4102,
+      "sizeBytes": 827
+    },
+    {
+      "type": "file",
+      "name": "18 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru",
+      "filename": "18 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/18 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/18%202023-09-20%20Vachier%20Lagrave%2C%20Maxime%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927452.6257,
+      "sizeBytes": 1697
+    },
+    {
+      "type": "file",
+      "name": "19 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru",
+      "filename": "19 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/19 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/19%202023-09-20%20Vachier%20Lagrave%2C%20Maxime%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927467.3896,
+      "sizeBytes": 609
+    },
+    {
+      "type": "file",
+      "name": "20 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru",
+      "filename": "20 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/20 2023-09-20 Vachier Lagrave, Maxime Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/20%202023-09-20%20Vachier%20Lagrave%2C%20Maxime%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927485.834,
+      "sizeBytes": 907
+    },
+    {
+      "type": "file",
+      "name": "21 2021-04-30 Mamedyarov, Shakhriyar Nakamura, Hikaru",
+      "filename": "21 2021-04-30 Mamedyarov, Shakhriyar Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/21 2021-04-30 Mamedyarov, Shakhriyar Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/21%202021-04-30%20Mamedyarov%2C%20Shakhriyar%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927500.8992,
+      "sizeBytes": 636
+    },
+    {
+      "type": "file",
+      "name": "22 2020-12-12 So, Wesley Nakamura, Hikaru",
+      "filename": "22 2020-12-12 So, Wesley Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/22 2020-12-12 So, Wesley Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/22%202020-12-12%20So%2C%20Wesley%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927518.753,
+      "sizeBytes": 839
+    },
+    {
+      "type": "file",
+      "name": "23 2020-12-12 So, Wesley Nakamura, Hikaru",
+      "filename": "23 2020-12-12 So, Wesley Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/23 2020-12-12 So, Wesley Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/23%202020-12-12%20So%2C%20Wesley%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927535.368,
+      "sizeBytes": 1228
+    },
+    {
+      "type": "file",
+      "name": "24 2022-12-12 Aronian, Levon Nakamura, Hikaru",
+      "filename": "24 2022-12-12 Aronian, Levon Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/24 2022-12-12 Aronian, Levon Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/24%202022-12-12%20Aronian%2C%20Levon%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927550.3308,
+      "sizeBytes": 580
+    },
+    {
+      "type": "file",
+      "name": "25 2022-11-22 Duda, Jan Krzysztof Nakamura, Hikaru",
+      "filename": "25 2022-11-22 Duda, Jan Krzysztof Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/25 2022-11-22 Duda, Jan Krzysztof Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/25%202022-11-22%20Duda%2C%20Jan%20Krzysztof%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927564.8262,
+      "sizeBytes": 699
+    },
+    {
+      "type": "file",
+      "name": "26 2021-04-07 Firouzja, Alireza Nakamura, Hikaru",
+      "filename": "26 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/26 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/26%202021-04-07%20Firouzja%2C%20Alireza%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927580.6333,
+      "sizeBytes": 508
+    },
+    {
+      "type": "file",
+      "name": "27 2021-04-07 Firouzja, Alireza Nakamura, Hikaru",
+      "filename": "27 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/27 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/27%202021-04-07%20Firouzja%2C%20Alireza%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927595.2988,
+      "sizeBytes": 1086
+    },
+    {
+      "type": "file",
+      "name": "28 2021-04-07 Firouzja, Alireza Nakamura, Hikaru",
+      "filename": "28 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/28 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/28%202021-04-07%20Firouzja%2C%20Alireza%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927612.3115,
+      "sizeBytes": 994
+    },
+    {
+      "type": "file",
+      "name": "29 2021-04-07 Firouzja, Alireza Nakamura, Hikaru",
+      "filename": "29 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/29 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/29%202021-04-07%20Firouzja%2C%20Alireza%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927626.396,
+      "sizeBytes": 1094
+    },
+    {
+      "type": "file",
+      "name": "30 2021-04-07 Firouzja, Alireza Nakamura, Hikaru",
+      "filename": "30 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/30 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/30%202021-04-07%20Firouzja%2C%20Alireza%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927640.0415,
+      "sizeBytes": 507
+    },
+    {
+      "type": "file",
+      "name": "31 2021-04-07 Firouzja, Alireza Nakamura, Hikaru",
+      "filename": "31 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/31 2021-04-07 Firouzja, Alireza Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/31%202021-04-07%20Firouzja%2C%20Alireza%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927654.9717,
+      "sizeBytes": 1293
+    },
+    {
+      "type": "file",
+      "name": "32 2012-09-03 Naiditsch, Arkadij Nakamura, Hikaru",
+      "filename": "32 2012-09-03 Naiditsch, Arkadij Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/32 2012-09-03 Naiditsch, Arkadij Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/32%202012-09-03%20Naiditsch%2C%20Arkadij%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927669.1155,
+      "sizeBytes": 701
+    },
+    {
+      "type": "file",
+      "name": "33 2022-12-13 Maghsoodloo, Parham Nakamura, Hikaru",
+      "filename": "33 2022-12-13 Maghsoodloo, Parham Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/33 2022-12-13 Maghsoodloo, Parham Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/33%202022-12-13%20Maghsoodloo%2C%20Parham%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927682.7947,
+      "sizeBytes": 973
+    },
+    {
+      "type": "file",
+      "name": "34 2022-08-30 Shankland, Samuel L Nakamura, Hikaru",
+      "filename": "34 2022-08-30 Shankland, Samuel L Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/34 2022-08-30 Shankland, Samuel L Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/34%202022-08-30%20Shankland%2C%20Samuel%20L%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927698.8103,
+      "sizeBytes": 949
+    },
+    {
+      "type": "file",
+      "name": "35 2023-12-05 Deac, Bogdan Daniel Nakamura, Hikaru",
+      "filename": "35 2023-12-05 Deac, Bogdan Daniel Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/35 2023-12-05 Deac, Bogdan Daniel Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/35%202023-12-05%20Deac%2C%20Bogdan%20Daniel%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927713.3767,
+      "sizeBytes": 766
+    },
+    {
+      "type": "file",
+      "name": "36 2019-12-04 Duda, Jan Krzysztof Nakamura, Hikaru",
+      "filename": "36 2019-12-04 Duda, Jan Krzysztof Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/36 2019-12-04 Duda, Jan Krzysztof Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/36%202019-12-04%20Duda%2C%20Jan%20Krzysztof%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927728.5217,
+      "sizeBytes": 721
+    },
+    {
+      "type": "file",
+      "name": "37 2024-06-11 Nihal, Sarin Nakamura, Hikaru",
+      "filename": "37 2024-06-11 Nihal, Sarin Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/37 2024-06-11 Nihal, Sarin Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/37%202024-06-11%20Nihal%2C%20Sarin%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927743.3628,
+      "sizeBytes": 560
+    },
+    {
+      "type": "file",
+      "name": "38 2024-06-11 Nihal, Sarin Nakamura, Hikaru",
+      "filename": "38 2024-06-11 Nihal, Sarin Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/38 2024-06-11 Nihal, Sarin Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/38%202024-06-11%20Nihal%2C%20Sarin%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927758.01,
+      "sizeBytes": 857
+    },
+    {
+      "type": "file",
+      "name": "39 2021-04-13 Andreikin, Dmitry Nakamura, Hikaru",
+      "filename": "39 2021-04-13 Andreikin, Dmitry Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/39 2021-04-13 Andreikin, Dmitry Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/39%202021-04-13%20Andreikin%2C%20Dmitry%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927773.5684,
+      "sizeBytes": 1002
+    },
+    {
+      "type": "file",
+      "name": "40 2022-09-27 Van Foreest, Jorden Nakamura, Hikaru",
+      "filename": "40 2022-09-27 Van Foreest, Jorden Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/40 2022-09-27 Van Foreest, Jorden Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/40%202022-09-27%20Van%20Foreest%2C%20Jorden%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927787.505,
+      "sizeBytes": 731
+    },
+    {
+      "type": "file",
+      "name": "41 2022-11-08 Xiong, Jeffery Nakamura, Hikaru",
+      "filename": "41 2022-11-08 Xiong, Jeffery Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/41 2022-11-08 Xiong, Jeffery Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/41%202022-11-08%20Xiong%2C%20Jeffery%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927802.5376,
+      "sizeBytes": 797
+    },
+    {
+      "type": "file",
+      "name": "42 2022-08-23 Xiong, Jeffery Nakamura, Hikaru",
+      "filename": "42 2022-08-23 Xiong, Jeffery Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/42 2022-08-23 Xiong, Jeffery Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/42%202022-08-23%20Xiong%2C%20Jeffery%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927817.0183,
+      "sizeBytes": 615
+    },
+    {
+      "type": "file",
+      "name": "43 2020-10-20 Artemiev, Vladislav Nakamura, Hikaru",
+      "filename": "43 2020-10-20 Artemiev, Vladislav Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/43 2020-10-20 Artemiev, Vladislav Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/43%202020-10-20%20Artemiev%2C%20Vladislav%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927831.7126,
+      "sizeBytes": 1071
+    },
+    {
+      "type": "file",
+      "name": "44 2020-12-19 Xiong, Jeffery Nakamura, Hikaru",
+      "filename": "44 2020-12-19 Xiong, Jeffery Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/44 2020-12-19 Xiong, Jeffery Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/44%202020-12-19%20Xiong%2C%20Jeffery%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927847.3008,
+      "sizeBytes": 676
+    },
+    {
+      "type": "file",
+      "name": "45 2018-02-24 Adhiban, Baskaran Nakamura, Hikaru",
+      "filename": "45 2018-02-24 Adhiban, Baskaran Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/45 2018-02-24 Adhiban, Baskaran Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/45%202018-02-24%20Adhiban%2C%20Baskaran%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927864.705,
+      "sizeBytes": 650
+    },
+    {
+      "type": "file",
+      "name": "46 2021-11-12 Svidler, Peter Nakamura, Hikaru",
+      "filename": "46 2021-11-12 Svidler, Peter Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/46 2021-11-12 Svidler, Peter Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/46%202021-11-12%20Svidler%2C%20Peter%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927880.4788,
+      "sizeBytes": 736
+    },
+    {
+      "type": "file",
+      "name": "47 2021-11-11 Svidler, Peter Nakamura, Hikaru",
+      "filename": "47 2021-11-11 Svidler, Peter Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/47 2021-11-11 Svidler, Peter Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/47%202021-11-11%20Svidler%2C%20Peter%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927895.8154,
+      "sizeBytes": 807
+    },
+    {
+      "type": "file",
+      "name": "48 2021-11-11 Svidler, Peter Nakamura, Hikaru",
+      "filename": "48 2021-11-11 Svidler, Peter Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/48 2021-11-11 Svidler, Peter Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/48%202021-11-11%20Svidler%2C%20Peter%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927911.4204,
+      "sizeBytes": 693
+    },
+    {
+      "type": "file",
+      "name": "49 2021-11-11 Svidler, Peter Nakamura, Hikaru",
+      "filename": "49 2021-11-11 Svidler, Peter Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/49 2021-11-11 Svidler, Peter Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/49%202021-11-11%20Svidler%2C%20Peter%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927926.1157,
+      "sizeBytes": 509
+    },
+    {
+      "type": "file",
+      "name": "50 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru",
+      "filename": "50 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/50 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/50%202024-06-12%20Naroditsky%2C%20Daniel%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927940.2224,
+      "sizeBytes": 1207
+    },
+    {
+      "type": "file",
+      "name": "51 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru",
+      "filename": "51 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/51 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/51%202024-06-12%20Naroditsky%2C%20Daniel%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927956.1294,
+      "sizeBytes": 1266
+    },
+    {
+      "type": "file",
+      "name": "52 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru",
+      "filename": "52 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/52 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/52%202024-06-12%20Naroditsky%2C%20Daniel%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927970.9414,
+      "sizeBytes": 1155
+    },
+    {
+      "type": "file",
+      "name": "53 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru",
+      "filename": "53 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/53 2024-06-12 Naroditsky, Daniel Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/53%202024-06-12%20Naroditsky%2C%20Daniel%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086927986.0251,
+      "sizeBytes": 908
+    },
+    {
+      "type": "file",
+      "name": "54 2022-10-11 Mamedov, Rauf Nakamura, Hikaru",
+      "filename": "54 2022-10-11 Mamedov, Rauf Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/54 2022-10-11 Mamedov, Rauf Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/54%202022-10-11%20Mamedov%2C%20Rauf%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928001.532,
+      "sizeBytes": 961
+    },
+    {
+      "type": "file",
+      "name": "55 2022-12-01 Sethuraman, SP. Nakamura, Hikaru",
+      "filename": "55 2022-12-01 Sethuraman, SP. Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/55 2022-12-01 Sethuraman, SP. Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/55%202022-12-01%20Sethuraman%2C%20SP.%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928015.669,
+      "sizeBytes": 1117
+    },
+    {
+      "type": "file",
+      "name": "56 2022-03-01 Matlakov, Maxim Nakamura, Hikaru",
+      "filename": "56 2022-03-01 Matlakov, Maxim Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/56 2022-03-01 Matlakov, Maxim Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/56%202022-03-01%20Matlakov%2C%20Maxim%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1779489283386.1138,
+      "sizeBytes": 802
+    },
+    {
+      "type": "file",
+      "name": "57 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru",
+      "filename": "57 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/57 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/57%202023-07-18%20Martinez%20Alcantara%2C%20Jose%20Eduardo%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928045.8828,
+      "sizeBytes": 905
+    },
+    {
+      "type": "file",
+      "name": "58 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru",
+      "filename": "58 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/58 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/58%202023-07-18%20Martinez%20Alcantara%2C%20Jose%20Eduardo%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928059.6497,
+      "sizeBytes": 1421
+    },
+    {
+      "type": "file",
+      "name": "59 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru",
+      "filename": "59 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/59 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/59%202023-07-18%20Martinez%20Alcantara%2C%20Jose%20Eduardo%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928074.208,
+      "sizeBytes": 791
+    },
+    {
+      "type": "file",
+      "name": "60 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru",
+      "filename": "60 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/60 2023-07-18 Martinez Alcantara, Jose Eduardo Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/60%202023-07-18%20Martinez%20Alcantara%2C%20Jose%20Eduardo%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928088.035,
+      "sizeBytes": 647
+    },
+    {
+      "type": "file",
+      "name": "61 2024-06-10 Paravyan, David Nakamura, Hikaru",
+      "filename": "61 2024-06-10 Paravyan, David Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/61 2024-06-10 Paravyan, David Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/61%202024-06-10%20Paravyan%2C%20David%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928103.56,
+      "sizeBytes": 682
+    },
+    {
+      "type": "file",
+      "name": "62 2024-06-10 Paravyan, David Nakamura, Hikaru",
+      "filename": "62 2024-06-10 Paravyan, David Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/62 2024-06-10 Paravyan, David Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/62%202024-06-10%20Paravyan%2C%20David%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928118.533,
+      "sizeBytes": 1002
+    },
+    {
+      "type": "file",
+      "name": "63 2024-06-10 Paravyan, David Nakamura, Hikaru",
+      "filename": "63 2024-06-10 Paravyan, David Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/63 2024-06-10 Paravyan, David Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/63%202024-06-10%20Paravyan%2C%20David%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928134.0947,
+      "sizeBytes": 743
+    },
+    {
+      "type": "file",
+      "name": "64 2024-06-10 Paravyan, David Nakamura, Hikaru",
+      "filename": "64 2024-06-10 Paravyan, David Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/64 2024-06-10 Paravyan, David Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/64%202024-06-10%20Paravyan%2C%20David%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928148.2693,
+      "sizeBytes": 411
+    },
+    {
+      "type": "file",
+      "name": "65 2024-06-10 Paravyan, David Nakamura, Hikaru",
+      "filename": "65 2024-06-10 Paravyan, David Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/65 2024-06-10 Paravyan, David Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/65%202024-06-10%20Paravyan%2C%20David%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928163.2166,
+      "sizeBytes": 701
+    },
+    {
+      "type": "file",
+      "name": "66 2022-11-22 Chigaev, Maksim Nakamura, Hikaru",
+      "filename": "66 2022-11-22 Chigaev, Maksim Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/66 2022-11-22 Chigaev, Maksim Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/66%202022-11-22%20Chigaev%2C%20Maksim%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928178.102,
+      "sizeBytes": 994
+    },
+    {
+      "type": "file",
+      "name": "67 2021-04-06 Sjugirov, Sanan Nakamura, Hikaru",
+      "filename": "67 2021-04-06 Sjugirov, Sanan Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/67 2021-04-06 Sjugirov, Sanan Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/67%202021-04-06%20Sjugirov%2C%20Sanan%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928192.122,
+      "sizeBytes": 688
+    },
+    {
+      "type": "file",
+      "name": "68 2024-05-07 Ragger, Markus Nakamura, Hikaru",
+      "filename": "68 2024-05-07 Ragger, Markus Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/68 2024-05-07 Ragger, Markus Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/68%202024-05-07%20Ragger%2C%20Markus%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928205.7065,
+      "sizeBytes": 964
+    },
+    {
+      "type": "file",
+      "name": "69 2024-06-10 Yoo, Christopher Woojin Nakamura, Hikaru",
+      "filename": "69 2024-06-10 Yoo, Christopher Woojin Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/69 2024-06-10 Yoo, Christopher Woojin Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/69%202024-06-10%20Yoo%2C%20Christopher%20Woojin%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928220.9268,
+      "sizeBytes": 611
+    },
+    {
+      "type": "file",
+      "name": "70 2024-06-10 Yoo, Christopher Woojin Nakamura, Hikaru",
+      "filename": "70 2024-06-10 Yoo, Christopher Woojin Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/70 2024-06-10 Yoo, Christopher Woojin Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/70%202024-06-10%20Yoo%2C%20Christopher%20Woojin%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928235.6782,
+      "sizeBytes": 712
+    },
+    {
+      "type": "file",
+      "name": "71 2024-03-19 Pranav, V. Nakamura, Hikaru",
+      "filename": "71 2024-03-19 Pranav, V. Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/71 2024-03-19 Pranav, V. Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/71%202024-03-19%20Pranav%2C%20V.%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928250.6482,
+      "sizeBytes": 497
+    },
+    {
+      "type": "file",
+      "name": "72 2024-02-20 Kuzubov, Yuriy Nakamura, Hikaru",
+      "filename": "72 2024-02-20 Kuzubov, Yuriy Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/72 2024-02-20 Kuzubov, Yuriy Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/72%202024-02-20%20Kuzubov%2C%20Yuriy%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928263.804,
+      "sizeBytes": 604
+    },
+    {
+      "type": "file",
+      "name": "73 2018-02-24 Cornette, Matthieu Nakamura, Hikaru",
+      "filename": "73 2018-02-24 Cornette, Matthieu Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/73 2018-02-24 Cornette, Matthieu Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/73%202018-02-24%20Cornette%2C%20Matthieu%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928279.16,
+      "sizeBytes": 669
+    },
+    {
+      "type": "file",
+      "name": "74 2023-06-06 Chigaev, Maksim Nakamura, Hikaru",
+      "filename": "74 2023-06-06 Chigaev, Maksim Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/74 2023-06-06 Chigaev, Maksim Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/74%202023-06-06%20Chigaev%2C%20Maksim%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928292.473,
+      "sizeBytes": 689
+    },
+    {
+      "type": "file",
+      "name": "75 2024-03-19 Vokhidov, Shamsiddin Nakamura, Hikaru",
+      "filename": "75 2024-03-19 Vokhidov, Shamsiddin Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/75 2024-03-19 Vokhidov, Shamsiddin Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/75%202024-03-19%20Vokhidov%2C%20Shamsiddin%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928306.688,
+      "sizeBytes": 1093
+    },
+    {
+      "type": "file",
+      "name": "76 2024-02-27 Jumabayev, Rinat Nakamura, Hikaru",
+      "filename": "76 2024-02-27 Jumabayev, Rinat Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/76 2024-02-27 Jumabayev, Rinat Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/76%202024-02-27%20Jumabayev%2C%20Rinat%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928321.3257,
+      "sizeBytes": 807
+    },
+    {
+      "type": "file",
+      "name": "77 2021-11-09 Tari, Aryan Nakamura, Hikaru",
+      "filename": "77 2021-11-09 Tari, Aryan Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/77 2021-11-09 Tari, Aryan Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/77%202021-11-09%20Tari%2C%20Aryan%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928337.0059,
+      "sizeBytes": 646
+    },
+    {
+      "type": "file",
+      "name": "78 2022-06-07 Paravyan, David Nakamura, Hikaru",
+      "filename": "78 2022-06-07 Paravyan, David Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/78 2022-06-07 Paravyan, David Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/78%202022-06-07%20Paravyan%2C%20David%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928350.7437,
+      "sizeBytes": 913
+    },
+    {
+      "type": "file",
+      "name": "79 2021-08-17 Sarana, Alexey Nakamura, Hikaru",
+      "filename": "79 2021-08-17 Sarana, Alexey Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/79 2021-08-17 Sarana, Alexey Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/79%202021-08-17%20Sarana%2C%20Alexey%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928365.3804,
+      "sizeBytes": 784
+    },
+    {
+      "type": "file",
+      "name": "80 2021-01-12 Kuzubov, Yuriy Nakamura, Hikaru",
+      "filename": "80 2021-01-12 Kuzubov, Yuriy Nakamura, Hikaru.pgn",
+      "extension": "pgn",
+      "path": "Hikaru Modern/pirc games/80 2021-01-12 Kuzubov, Yuriy Nakamura, Hikaru.pgn",
+      "url": "files/Hikaru%20Modern/pirc%20games/80%202021-01-12%20Kuzubov%2C%20Yuriy%20Nakamura%2C%20Hikaru.pgn",
+      "lastModified": 1777086928381.1384,
+      "sizeBytes": 907
+    },
+    {
+      "type": "file",
+      "name": "Black prep Ifan",
+      "filename": "Black prep Ifan.pgn",
+      "extension": "pgn",
+      "path": "Ifan prep/Black prep Ifan.pgn",
+      "url": "files/Ifan%20prep/Black%20prep%20Ifan.pgn",
+      "lastModified": 1778002640088.8455,
+      "sizeBytes": 2081
+    },
+    {
+      "type": "file",
+      "name": "White prep ifan",
+      "filename": "White prep ifan.pgn",
+      "extension": "pgn",
+      "path": "Ifan prep/White prep ifan.pgn",
+      "url": "files/Ifan%20prep/White%20prep%20ifan.pgn",
+      "lastModified": 1778427937272.632,
+      "sizeBytes": 1749
+    },
+    {
+      "type": "file",
+      "name": "01 2020-04-22 Caruana, Fabiano Carlsen, Magnus",
+      "filename": "01 2020-04-22 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/01 2020-04-22 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/01%202020-04-22%20Caruana%2C%20Fabiano%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777092121250.8667,
+      "sizeBytes": 1042
+    },
+    {
+      "type": "file",
+      "name": "02 2019-06-28 Caruana, Fabiano Carlsen, Magnus",
+      "filename": "02 2019-06-28 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/02 2019-06-28 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/02%202019-06-28%20Caruana%2C%20Fabiano%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777092193542.684,
+      "sizeBytes": 1047
+    },
+    {
+      "type": "file",
+      "name": "03 2015-06-19 Anand, Viswanathan Carlsen, Magnus",
+      "filename": "03 2015-06-19 Anand, Viswanathan Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/03 2015-06-19 Anand, Viswanathan Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/03%202015-06-19%20Anand%2C%20Viswanathan%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777092544313.9482,
+      "sizeBytes": 6621
+    },
+    {
+      "type": "file",
+      "name": "04 2022-12-30 Caruana, Fabiano Carlsen, Magnus",
+      "filename": "04 2022-12-30 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/04 2022-12-30 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/04%202022-12-30%20Caruana%2C%20Fabiano%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810621.998,
+      "sizeBytes": 809
+    },
+    {
+      "type": "file",
+      "name": "05 2015-08-24 Caruana, Fabiano Carlsen, Magnus",
+      "filename": "05 2015-08-24 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/05 2015-08-24 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/05%202015-08-24%20Caruana%2C%20Fabiano%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810638.152,
+      "sizeBytes": 15847
+    },
+    {
+      "type": "file",
+      "name": "06 2016-06-09 Caruana, Fabiano Carlsen, Magnus",
+      "filename": "06 2016-06-09 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/06 2016-06-09 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/06%202016-06-09%20Caruana%2C%20Fabiano%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810653.7087,
+      "sizeBytes": 787
+    },
+    {
+      "type": "file",
+      "name": "07 2015-04-17 Anand, Viswanathan Carlsen, Magnus",
+      "filename": "07 2015-04-17 Anand, Viswanathan Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/07 2015-04-17 Anand, Viswanathan Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/07%202015-04-17%20Anand%2C%20Viswanathan%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810667.052,
+      "sizeBytes": 3852
+    },
+    {
+      "type": "file",
+      "name": "08 2019-12-04 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "08 2019-12-04 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/08 2019-12-04 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/08%202019-12-04%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810681.6257,
+      "sizeBytes": 785
+    },
+    {
+      "type": "file",
+      "name": "09 2019-12-04 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "09 2019-12-04 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/09 2019-12-04 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/09%202019-12-04%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810698.3977,
+      "sizeBytes": 3402
+    },
+    {
+      "type": "file",
+      "name": "10 2019-12-03 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "10 2019-12-03 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/10 2019-12-03 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/10%202019-12-03%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810714.6006,
+      "sizeBytes": 6009
+    },
+    {
+      "type": "file",
+      "name": "11 2021-02-07 Nepomniachtchi, Ian Carlsen, Magnus",
+      "filename": "11 2021-02-07 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/11 2021-02-07 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/11%202021-02-07%20Nepomniachtchi%2C%20Ian%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810729.635,
+      "sizeBytes": 657
+    },
+    {
+      "type": "file",
+      "name": "12 2021-02-12 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "12 2021-02-12 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/12 2021-02-12 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/12%202021-02-12%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810743.275,
+      "sizeBytes": 1045
+    },
+    {
+      "type": "file",
+      "name": "13 2021-02-11 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "13 2021-02-11 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/13 2021-02-11 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/13%202021-02-11%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810756.8162,
+      "sizeBytes": 1102
+    },
+    {
+      "type": "file",
+      "name": "14 2020-11-28 Nepomniachtchi, Ian Carlsen, Magnus",
+      "filename": "14 2020-11-28 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/14 2020-11-28 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/14%202020-11-28%20Nepomniachtchi%2C%20Ian%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810772.041,
+      "sizeBytes": 705
+    },
+    {
+      "type": "file",
+      "name": "15 2020-11-28 Nepomniachtchi, Ian Carlsen, Magnus",
+      "filename": "15 2020-11-28 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/15 2020-11-28 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/15%202020-11-28%20Nepomniachtchi%2C%20Ian%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810786.8127,
+      "sizeBytes": 693
+    },
+    {
+      "type": "file",
+      "name": "16 2020-12-12 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "16 2020-12-12 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/16 2020-12-12 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/16%202020-12-12%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810801.365,
+      "sizeBytes": 721
+    },
+    {
+      "type": "file",
+      "name": "17 2020-12-12 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "17 2020-12-12 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/17 2020-12-12 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/17%202020-12-12%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810816.3318,
+      "sizeBytes": 789
+    },
+    {
+      "type": "file",
+      "name": "18 2016-06-11 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "18 2016-06-11 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/18 2016-06-11 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/18%202016-06-11%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810831.5686,
+      "sizeBytes": 1006
+    },
+    {
+      "type": "file",
+      "name": "19 2016-06-09 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "19 2016-06-09 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/19 2016-06-09 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/19%202016-06-09%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810846.5256,
+      "sizeBytes": 2618
+    },
+    {
+      "type": "file",
+      "name": "20 2016-12-30 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "20 2016-12-30 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/20 2016-12-30 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/20%202016-12-30%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810862.6572,
+      "sizeBytes": 717
+    },
+    {
+      "type": "file",
+      "name": "21 2017-06-23 Caruana, Fabiano Carlsen, Magnus",
+      "filename": "21 2017-06-23 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/21 2017-06-23 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/21%202017-06-23%20Caruana%2C%20Fabiano%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810879.8953,
+      "sizeBytes": 3871
+    },
+    {
+      "type": "file",
+      "name": "22 2017-06-07 Caruana, Fabiano Carlsen, Magnus",
+      "filename": "22 2017-06-07 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/22 2017-06-07 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/22%202017-06-07%20Caruana%2C%20Fabiano%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810895.0469,
+      "sizeBytes": 730
+    },
+    {
+      "type": "file",
+      "name": "23 2022-02-22 Giri, Anish Carlsen, Magnus",
+      "filename": "23 2022-02-22 Giri, Anish Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/23 2022-02-22 Giri, Anish Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/23%202022-02-22%20Giri%2C%20Anish%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810910.5562,
+      "sizeBytes": 771
+    },
+    {
+      "type": "file",
+      "name": "24 2021-12-04 Nepomniachtchi, Ian Carlsen, Magnus",
+      "filename": "24 2021-12-04 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/24 2021-12-04 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/24%202021-12-04%20Nepomniachtchi%2C%20Ian%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810927.8655,
+      "sizeBytes": 5326
+    },
+    {
+      "type": "file",
+      "name": "25 2021-12-01 Nepomniachtchi, Ian Carlsen, Magnus",
+      "filename": "25 2021-12-01 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/25 2021-12-01 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/25%202021-12-01%20Nepomniachtchi%2C%20Ian%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810943.0925,
+      "sizeBytes": 12501
+    },
+    {
+      "type": "file",
+      "name": "26 2021-11-28 Nepomniachtchi, Ian Carlsen, Magnus",
+      "filename": "26 2021-11-28 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/26 2021-11-28 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/26%202021-11-28%20Nepomniachtchi%2C%20Ian%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810959.7664,
+      "sizeBytes": 20721
+    },
+    {
+      "type": "file",
+      "name": "27 2021-11-26 Nepomniachtchi, Ian Carlsen, Magnus",
+      "filename": "27 2021-11-26 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/27 2021-11-26 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/27%202021-11-26%20Nepomniachtchi%2C%20Ian%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810975.3062,
+      "sizeBytes": 18559
+    },
+    {
+      "type": "file",
+      "name": "28 2023-02-28 Firouzja, Alireza Carlsen, Magnus",
+      "filename": "28 2023-02-28 Firouzja, Alireza Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/28 2023-02-28 Firouzja, Alireza Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/28%202023-02-28%20Firouzja%2C%20Alireza%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088810989.9612,
+      "sizeBytes": 973
+    },
+    {
+      "type": "file",
+      "name": "29 2013-05-13 Karjakin, Sergey Carlsen, Magnus",
+      "filename": "29 2013-05-13 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/29 2013-05-13 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/29%202013-05-13%20Karjakin%2C%20Sergey%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811005.2307,
+      "sizeBytes": 8413
+    },
+    {
+      "type": "file",
+      "name": "30 2021-03-19 Nepomniachtchi, Ian Carlsen, Magnus",
+      "filename": "30 2021-03-19 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/30 2021-03-19 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/30%202021-03-19%20Nepomniachtchi%2C%20Ian%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811024.387,
+      "sizeBytes": 979
+    },
+    {
+      "type": "file",
+      "name": "31 2021-03-19 Nepomniachtchi, Ian Carlsen, Magnus",
+      "filename": "31 2021-03-19 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/31 2021-03-19 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/31%202021-03-19%20Nepomniachtchi%2C%20Ian%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811039.395,
+      "sizeBytes": 2022
+    },
+    {
+      "type": "file",
+      "name": "32 2021-03-18 Nepomniachtchi, Ian Carlsen, Magnus",
+      "filename": "32 2021-03-18 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/32 2021-03-18 Nepomniachtchi, Ian Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/32%202021-03-18%20Nepomniachtchi%2C%20Ian%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811056.5261,
+      "sizeBytes": 467
+    },
+    {
+      "type": "file",
+      "name": "33 2020-09-18 So, Wesley Carlsen, Magnus",
+      "filename": "33 2020-09-18 So, Wesley Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/33 2020-09-18 So, Wesley Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/33%202020-09-18%20So%2C%20Wesley%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811073.0867,
+      "sizeBytes": 576
+    },
+    {
+      "type": "file",
+      "name": "34 2018-06-07 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "34 2018-06-07 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/34 2018-06-07 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/34%202018-06-07%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811090.3667,
+      "sizeBytes": 415
+    },
+    {
+      "type": "file",
+      "name": "35 2021-09-03 Aronian, Levon Carlsen, Magnus",
+      "filename": "35 2021-09-03 Aronian, Levon Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/35 2021-09-03 Aronian, Levon Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/35%202021-09-03%20Aronian%2C%20Levon%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811107.4626,
+      "sizeBytes": 743
+    },
+    {
+      "type": "file",
+      "name": "36 2021-09-03 Aronian, Levon Carlsen, Magnus",
+      "filename": "36 2021-09-03 Aronian, Levon Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/36 2021-09-03 Aronian, Levon Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/36%202021-09-03%20Aronian%2C%20Levon%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811124.188,
+      "sizeBytes": 959
+    },
+    {
+      "type": "file",
+      "name": "37 2021-09-02 Aronian, Levon Carlsen, Magnus",
+      "filename": "37 2021-09-02 Aronian, Levon Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/37 2021-09-02 Aronian, Levon Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/37%202021-09-02%20Aronian%2C%20Levon%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811139.8896,
+      "sizeBytes": 752
+    },
+    {
+      "type": "file",
+      "name": "38 2017-08-02 Caruana, Fabiano Carlsen, Magnus",
+      "filename": "38 2017-08-02 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/38 2017-08-02 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/38%202017-08-02%20Caruana%2C%20Fabiano%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811155.6523,
+      "sizeBytes": 750
+    },
+    {
+      "type": "file",
+      "name": "39 2022-12-18 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "39 2022-12-18 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/39 2022-12-18 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/39%202022-12-18%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811170.0503,
+      "sizeBytes": 787
+    },
+    {
+      "type": "file",
+      "name": "40 2022-12-18 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "40 2022-12-18 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/40 2022-12-18 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/40%202022-12-18%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811184.9094,
+      "sizeBytes": 699
+    },
+    {
+      "type": "file",
+      "name": "41 2022-12-18 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "41 2022-12-18 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/41 2022-12-18 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/41%202022-12-18%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811198.875,
+      "sizeBytes": 982
+    },
+    {
+      "type": "file",
+      "name": "42 2022-12-18 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "42 2022-12-18 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/42 2022-12-18 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/42%202022-12-18%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811216.6196,
+      "sizeBytes": 809
+    },
+    {
+      "type": "file",
+      "name": "43 2022-12-18 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "43 2022-12-18 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/43 2022-12-18 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/43%202022-12-18%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811232.6724,
+      "sizeBytes": 849
+    },
+    {
+      "type": "file",
+      "name": "44 2023-06-01 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "44 2023-06-01 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/44 2023-06-01 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/44%202023-06-01%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811247.6401,
+      "sizeBytes": 595
+    },
+    {
+      "type": "file",
+      "name": "45 2015-12-10 Giri, Anish Carlsen, Magnus",
+      "filename": "45 2015-12-10 Giri, Anish Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/45 2015-12-10 Giri, Anish Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/45%202015-12-10%20Giri%2C%20Anish%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811263.6711,
+      "sizeBytes": 851
+    },
+    {
+      "type": "file",
+      "name": "46 2021-07-02 Aronian, Levon Carlsen, Magnus",
+      "filename": "46 2021-07-02 Aronian, Levon Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/46 2021-07-02 Aronian, Levon Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/46%202021-07-02%20Aronian%2C%20Levon%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811282.3535,
+      "sizeBytes": 983
+    },
+    {
+      "type": "file",
+      "name": "47 2021-07-01 Aronian, Levon Carlsen, Magnus",
+      "filename": "47 2021-07-01 Aronian, Levon Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/47 2021-07-01 Aronian, Levon Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/47%202021-07-01%20Aronian%2C%20Levon%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811300.1914,
+      "sizeBytes": 801
+    },
+    {
+      "type": "file",
+      "name": "48 2021-03-17 Aronian, Levon Carlsen, Magnus",
+      "filename": "48 2021-03-17 Aronian, Levon Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/48 2021-03-17 Aronian, Levon Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/48%202021-03-17%20Aronian%2C%20Levon%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811315.7368,
+      "sizeBytes": 722
+    },
+    {
+      "type": "file",
+      "name": "49 2021-03-16 Aronian, Levon Carlsen, Magnus",
+      "filename": "49 2021-03-16 Aronian, Levon Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/49 2021-03-16 Aronian, Levon Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/49%202021-03-16%20Aronian%2C%20Levon%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811330.7368,
+      "sizeBytes": 606
+    },
+    {
+      "type": "file",
+      "name": "50 2017-06-25 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "50 2017-06-25 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/50 2017-06-25 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/50%202017-06-25%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811346.0564,
+      "sizeBytes": 618
+    },
+    {
+      "type": "file",
+      "name": "51 2022-01-17 Duda, Jan Krzysztof Carlsen, Magnus",
+      "filename": "51 2022-01-17 Duda, Jan Krzysztof Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/51 2022-01-17 Duda, Jan Krzysztof Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/51%202022-01-17%20Duda%2C%20Jan%20Krzysztof%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811359.4202,
+      "sizeBytes": 677
+    },
+    {
+      "type": "file",
+      "name": "52 2023-01-22 Caruana, Fabiano Carlsen, Magnus",
+      "filename": "52 2023-01-22 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/52 2023-01-22 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/52%202023-01-22%20Caruana%2C%20Fabiano%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811374.3848,
+      "sizeBytes": 608
+    },
+    {
+      "type": "file",
+      "name": "53 2022-12-13 Caruana, Fabiano Carlsen, Magnus",
+      "filename": "53 2022-12-13 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/53 2022-12-13 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/53%202022-12-13%20Caruana%2C%20Fabiano%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811388.38,
+      "sizeBytes": 741
+    },
+    {
+      "type": "file",
+      "name": "54 2016-11-15 Karjakin, Sergey Carlsen, Magnus",
+      "filename": "54 2016-11-15 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/54 2016-11-15 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/54%202016-11-15%20Karjakin%2C%20Sergey%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811402.8638,
+      "sizeBytes": 8149
+    },
+    {
+      "type": "file",
+      "name": "55 2016-11-12 Karjakin, Sergey Carlsen, Magnus",
+      "filename": "55 2016-11-12 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/55 2016-11-12 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/55%202016-11-12%20Karjakin%2C%20Sergey%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811419.0417,
+      "sizeBytes": 4397
+    },
+    {
+      "type": "file",
+      "name": "56 2016-11-30 Karjakin, Sergey Carlsen, Magnus",
+      "filename": "56 2016-11-30 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/56 2016-11-30 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/56%202016-11-30%20Karjakin%2C%20Sergey%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811433.3054,
+      "sizeBytes": 5398
+    },
+    {
+      "type": "file",
+      "name": "57 2016-11-30 Karjakin, Sergey Carlsen, Magnus",
+      "filename": "57 2016-11-30 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/57 2016-11-30 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/57%202016-11-30%20Karjakin%2C%20Sergey%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811446.9128,
+      "sizeBytes": 4438
+    },
+    {
+      "type": "file",
+      "name": "58 2018-05-29 Karjakin, Sergey Carlsen, Magnus",
+      "filename": "58 2018-05-29 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/58 2018-05-29 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/58%202018-05-29%20Karjakin%2C%20Sergey%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811461.9563,
+      "sizeBytes": 728
+    },
+    {
+      "type": "file",
+      "name": "59 2017-09-30 Caruana, Fabiano Carlsen, Magnus",
+      "filename": "59 2017-09-30 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/59 2017-09-30 Caruana, Fabiano Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/59%202017-09-30%20Caruana%2C%20Fabiano%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811476.8376,
+      "sizeBytes": 6132
+    },
+    {
+      "type": "file",
+      "name": "60 2010-10-21 Anand, Viswanathan Carlsen, Magnus",
+      "filename": "60 2010-10-21 Anand, Viswanathan Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/60 2010-10-21 Anand, Viswanathan Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/60%202010-10-21%20Anand%2C%20Viswanathan%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811490.6558,
+      "sizeBytes": 3766
+    },
+    {
+      "type": "file",
+      "name": "61 2010-10-15 Anand, Viswanathan Carlsen, Magnus",
+      "filename": "61 2010-10-15 Anand, Viswanathan Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/61 2010-10-15 Anand, Viswanathan Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/61%202010-10-15%20Anand%2C%20Viswanathan%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811504.9924,
+      "sizeBytes": 2136
+    },
+    {
+      "type": "file",
+      "name": "62 2010-08-30 Anand, Viswanathan Carlsen, Magnus",
+      "filename": "62 2010-08-30 Anand, Viswanathan Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/62 2010-08-30 Anand, Viswanathan Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/62%202010-08-30%20Anand%2C%20Viswanathan%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811519.9204,
+      "sizeBytes": 552
+    },
+    {
+      "type": "file",
+      "name": "63 2016-11-26 Karjakin, Sergey Carlsen, Magnus",
+      "filename": "63 2016-11-26 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/63 2016-11-26 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/63%202016-11-26%20Karjakin%2C%20Sergey%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811535.817,
+      "sizeBytes": 14813
+    },
+    {
+      "type": "file",
+      "name": "64 2016-11-23 Karjakin, Sergey Carlsen, Magnus",
+      "filename": "64 2016-11-23 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/64 2016-11-23 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/64%202016-11-23%20Karjakin%2C%20Sergey%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811550.6106,
+      "sizeBytes": 7721
+    },
+    {
+      "type": "file",
+      "name": "65 2016-11-18 Karjakin, Sergey Carlsen, Magnus",
+      "filename": "65 2016-11-18 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/65 2016-11-18 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/65%202016-11-18%20Karjakin%2C%20Sergey%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811566.0818,
+      "sizeBytes": 8202
+    },
+    {
+      "type": "file",
+      "name": "66 2018-04-25 Karjakin, Sergey Carlsen, Magnus",
+      "filename": "66 2018-04-25 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/66 2018-04-25 Karjakin, Sergey Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/66%202018-04-25%20Karjakin%2C%20Sergey%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811582.7327,
+      "sizeBytes": 575
+    },
+    {
+      "type": "file",
+      "name": "67 2013-03-21 Svidler, Peter Carlsen, Magnus",
+      "filename": "67 2013-03-21 Svidler, Peter Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/67 2013-03-21 Svidler, Peter Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/67%202013-03-21%20Svidler%2C%20Peter%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811597.9204,
+      "sizeBytes": 7969
+    },
+    {
+      "type": "file",
+      "name": "68 2023-02-08 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "68 2023-02-08 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/68 2023-02-08 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/68%202023-02-08%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811611.301,
+      "sizeBytes": 476
+    },
+    {
+      "type": "file",
+      "name": "69 2023-09-22 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "69 2023-09-22 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/69 2023-09-22 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/69%202023-09-22%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811626.094,
+      "sizeBytes": 749
+    },
+    {
+      "type": "file",
+      "name": "70 2023-09-22 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "70 2023-09-22 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/70 2023-09-22 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/70%202023-09-22%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811640.3699,
+      "sizeBytes": 988
+    },
+    {
+      "type": "file",
+      "name": "71 2023-09-22 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "71 2023-09-22 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/71 2023-09-22 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/71%202023-09-22%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811653.8103,
+      "sizeBytes": 751
+    },
+    {
+      "type": "file",
+      "name": "72 2023-09-22 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "72 2023-09-22 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/72 2023-09-22 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/72%202023-09-22%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811667.8323,
+      "sizeBytes": 2255
+    },
+    {
+      "type": "file",
+      "name": "73 2023-09-22 Nakamura, Hikaru Carlsen, Magnus",
+      "filename": "73 2023-09-22 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/73 2023-09-22 Nakamura, Hikaru Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/73%202023-09-22%20Nakamura%2C%20Hikaru%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811683.1614,
+      "sizeBytes": 1073
+    },
+    {
+      "type": "file",
+      "name": "74 2022-07-23 Dominguez Perez, Leinier Carlsen, Magnus",
+      "filename": "74 2022-07-23 Dominguez Perez, Leinier Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/74 2022-07-23 Dominguez Perez, Leinier Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/74%202022-07-23%20Dominguez%20Perez%2C%20Leinier%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811698.0957,
+      "sizeBytes": 884
+    },
+    {
+      "type": "file",
+      "name": "75 2021-12-30 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "75 2021-12-30 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/75 2021-12-30 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/75%202021-12-30%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811712.2014,
+      "sizeBytes": 771
+    },
+    {
+      "type": "file",
+      "name": "76 2021-09-27 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "76 2021-09-27 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/76 2021-09-27 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/76%202021-09-27%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811727.2292,
+      "sizeBytes": 612
+    },
+    {
+      "type": "file",
+      "name": "77 2021-09-27 Vachier Lagrave, Maxime Carlsen, Magnus",
+      "filename": "77 2021-09-27 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/77 2021-09-27 Vachier Lagrave, Maxime Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/77%202021-09-27%20Vachier%20Lagrave%2C%20Maxime%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811741.4617,
+      "sizeBytes": 711
+    },
+    {
+      "type": "file",
+      "name": "78 2021-03-20 So, Wesley Carlsen, Magnus",
+      "filename": "78 2021-03-20 So, Wesley Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/78 2021-03-20 So, Wesley Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/78%202021-03-20%20So%2C%20Wesley%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811755.609,
+      "sizeBytes": 900
+    },
+    {
+      "type": "file",
+      "name": "79 2016-06-11 Topalov, Veselin Carlsen, Magnus",
+      "filename": "79 2016-06-11 Topalov, Veselin Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/79 2016-06-11 Topalov, Veselin Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/79%202016-06-11%20Topalov%2C%20Veselin%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811771.5154,
+      "sizeBytes": 806
+    },
+    {
+      "type": "file",
+      "name": "80 2016-06-10 Topalov, Veselin Carlsen, Magnus",
+      "filename": "80 2016-06-10 Topalov, Veselin Carlsen, Magnus.pgn",
+      "extension": "pgn",
+      "path": "Magnus Black e4 e5 spanish with a6/80 2016-06-10 Topalov, Veselin Carlsen, Magnus.pgn",
+      "url": "files/Magnus%20Black%20e4%20e5%20spanish%20with%20a6/80%202016-06-10%20Topalov%2C%20Veselin%20Carlsen%2C%20Magnus.pgn",
+      "lastModified": 1777088811786.2183,
+      "sizeBytes": 1533
+    },
+    {
+      "type": "file",
+      "name": "0041 2026.05.30 My classical games - Jonathan Rubeck vs Lachlan 0-1",
+      "filename": "0041 2026.05.30 My classical games - Jonathan Rubeck vs Lachlan 0-1.pgn",
+      "extension": "pgn",
+      "path": "My classical games/0041 2026.05.30 My classical games - Jonathan Rubeck vs Lachlan 0-1.pgn",
+      "url": "files/My%20classical%20games/0041%202026.05.30%20My%20classical%20games%20-%20Jonathan%20Rubeck%20vs%20Lachlan%200-1.pgn",
+      "lastModified": 1780498407432.757,
+      "sizeBytes": 6432
+    },
+    {
+      "type": "file",
+      "name": "2024.11.19 My classical games - Lachlan vs steve cunliffe (2000) 1 2 - 1 2 Unknown - Unknown",
+      "filename": "2024.11.19 My classical games - Lachlan vs steve cunliffe (2000) 1 2 - 1 2 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2024.11.19 My classical games - Lachlan vs steve cunliffe (2000) 1 2 - 1 2 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2024.11.19%20My%20classical%20games%20-%20Lachlan%20vs%20steve%20cunliffe%20(2000)%201%202%20-%201%202%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1780408974104.497,
+      "sizeBytes": 2822
+    },
+    {
+      "type": "file",
+      "name": "2025.04.14 My classical games - Lachlan vs surag prabhu 1718 1-0 Anonymous - Anonymous",
+      "filename": "2025.04.14 My classical games - Lachlan vs surag prabhu 1718 1-0 Anonymous - Anonymous.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2025.04.14 My classical games - Lachlan vs surag prabhu 1718 1-0 Anonymous - Anonymous.pgn",
+      "url": "files/My%20classical%20games/2025.04.14%20My%20classical%20games%20-%20Lachlan%20vs%20surag%20prabhu%201718%201-0%20Anonymous%20-%20Anonymous.pgn",
+      "lastModified": 1780408974104.497,
+      "sizeBytes": 2154
+    },
+    {
+      "type": "file",
+      "name": "2025.11.11 My classical games - Lachlan vs Mike gale 1 2,1 2 Unknown - Unknown",
+      "filename": "2025.11.11 My classical games - Lachlan vs Mike gale 1 2,1 2 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2025.11.11 My classical games - Lachlan vs Mike gale 1 2,1 2 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2025.11.11%20My%20classical%20games%20-%20Lachlan%20vs%20Mike%20gale%201%202%2C1%202%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169131.0117,
+      "sizeBytes": 4201
+    },
+    {
+      "type": "file",
+      "name": "2026.02.28 My classical games - George bowkett vs Lachlan Tyrrell (1-0), queen's gambit harrwitz variation Unknown - Unk",
+      "filename": "2026.02.28 My classical games - George bowkett vs Lachlan Tyrrell (1-0), queen's gambit harrwitz variation Unknown - Unk.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.02.28 My classical games - George bowkett vs Lachlan Tyrrell (1-0), queen's gambit harrwitz variation Unknown - Unk.pgn",
+      "url": "files/My%20classical%20games/2026.02.28%20My%20classical%20games%20-%20George%20bowkett%20vs%20Lachlan%20Tyrrell%20(1-0)%2C%20queen's%20gambit%20harrwitz%20variation%20Unknown%20-%20Unk.pgn",
+      "lastModified": 1779961169132.0144,
+      "sizeBytes": 3337
+    },
+    {
+      "type": "file",
+      "name": "2026.02.28 My classical games - Kam Choo yin (1755) vs Lachlan tyrrell 0-1 Unknown - Unknown",
+      "filename": "2026.02.28 My classical games - Kam Choo yin (1755) vs Lachlan tyrrell 0-1 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.02.28 My classical games - Kam Choo yin (1755) vs Lachlan tyrrell 0-1 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.02.28%20My%20classical%20games%20-%20Kam%20Choo%20yin%20(1755)%20vs%20Lachlan%20tyrrell%200-1%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169135.5276,
+      "sizeBytes": 3289
+    },
+    {
+      "type": "file",
+      "name": "2026.02.28 My classical games - Kam choo yin vs lachlan tyrrell 0-1 english opening Unknown - Unknown",
+      "filename": "2026.02.28 My classical games - Kam choo yin vs lachlan tyrrell 0-1 english opening Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.02.28 My classical games - Kam choo yin vs lachlan tyrrell 0-1 english opening Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.02.28%20My%20classical%20games%20-%20Kam%20choo%20yin%20vs%20lachlan%20tyrrell%200-1%20english%20opening%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169133.017,
+      "sizeBytes": 2735
+    },
+    {
+      "type": "file",
+      "name": "2026.02.28 My classical games - Lachlan (1848) vs Lucas Zheng (1756) 1-0 Unknown - Unknown",
+      "filename": "2026.02.28 My classical games - Lachlan (1848) vs Lucas Zheng (1756) 1-0 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.02.28 My classical games - Lachlan (1848) vs Lucas Zheng (1756) 1-0 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.02.28%20My%20classical%20games%20-%20Lachlan%20(1848)%20vs%20Lucas%20Zheng%20(1756)%201-0%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169135.5276,
+      "sizeBytes": 2144
+    },
+    {
+      "type": "file",
+      "name": "2026.02.28 My classical games - Lachlan vs jonathan james (2043) (1 2 - 1 2) Unknown - Unknown",
+      "filename": "2026.02.28 My classical games - Lachlan vs jonathan james (2043) (1 2 - 1 2) Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.02.28 My classical games - Lachlan vs jonathan james (2043) (1 2 - 1 2) Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20jonathan%20james%20(2043)%20(1%202%20-%201%202)%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169135.5276,
+      "sizeBytes": 2274
+    },
+    {
+      "type": "file",
+      "name": "2026.02.28 My classical games - Lachlan vs ken Hannah 1707 (1-0) Unknown - Unknown",
+      "filename": "2026.02.28 My classical games - Lachlan vs ken Hannah 1707 (1-0) Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.02.28 My classical games - Lachlan vs ken Hannah 1707 (1-0) Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20ken%20Hannah%201707%20(1-0)%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169134.0198,
+      "sizeBytes": 1204
+    },
+    {
+      "type": "file",
+      "name": "2026.02.28 My classical games - Lachlan vs Piotr graczyk 1-0 Unknown - Unknown",
+      "filename": "2026.02.28 My classical games - Lachlan vs Piotr graczyk 1-0 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.02.28 My classical games - Lachlan vs Piotr graczyk 1-0 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20Piotr%20graczyk%201-0%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169132.0144,
+      "sizeBytes": 1390
+    },
+    {
+      "type": "file",
+      "name": "2026.02.28 My classical games - Lachlan vs Russel Dodington (0-1) (1784) Unknown - Unknown",
+      "filename": "2026.02.28 My classical games - Lachlan vs Russel Dodington (0-1) (1784) Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.02.28 My classical games - Lachlan vs Russel Dodington (0-1) (1784) Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20Russel%20Dodington%20(0-1)%20(1784)%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169134.0198,
+      "sizeBytes": 3036
+    },
+    {
+      "type": "file",
+      "name": "2026.02.28 My classical games - Lachlan vs Steve jones 1-0 Unknown - Unknown",
+      "filename": "2026.02.28 My classical games - Lachlan vs Steve jones 1-0 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.02.28 My classical games - Lachlan vs Steve jones 1-0 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20Steve%20jones%201-0%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169134.0198,
+      "sizeBytes": 2106
+    },
+    {
+      "type": "file",
+      "name": "2026.03.03 My classical games - Lachlan vs Andrew divetta (1893) 1-0 Unknown - Unknown",
+      "filename": "2026.03.03 My classical games - Lachlan vs Andrew divetta (1893) 1-0 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.03.03 My classical games - Lachlan vs Andrew divetta (1893) 1-0 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.03.03%20My%20classical%20games%20-%20Lachlan%20vs%20Andrew%20divetta%20(1893)%201-0%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169137.036,
+      "sizeBytes": 6358
+    },
+    {
+      "type": "file",
+      "name": "2026.03.07 My classical games - Lachlan tyrrell vs Daniel katchi 1-0 Unknown - Unknown",
+      "filename": "2026.03.07 My classical games - Lachlan tyrrell vs Daniel katchi 1-0 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.03.07 My classical games - Lachlan tyrrell vs Daniel katchi 1-0 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.03.07%20My%20classical%20games%20-%20Lachlan%20tyrrell%20vs%20Daniel%20katchi%201-0%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169137.036,
+      "sizeBytes": 2433
+    },
+    {
+      "type": "file",
+      "name": "2026.03.07 My classical games - Prabu Vismith vs Lachlan (1 2) Unknown - Unknown",
+      "filename": "2026.03.07 My classical games - Prabu Vismith vs Lachlan (1 2) Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.03.07 My classical games - Prabu Vismith vs Lachlan (1 2) Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.03.07%20My%20classical%20games%20-%20Prabu%20Vismith%20vs%20Lachlan%20(1%202)%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169138.418,
+      "sizeBytes": 3671
+    },
+    {
+      "type": "file",
+      "name": "2026.03.08 My classical games - Lachlan vs Ethan mcgrath 1-0 Unknown - Unknown",
+      "filename": "2026.03.08 My classical games - Lachlan vs Ethan mcgrath 1-0 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.03.08 My classical games - Lachlan vs Ethan mcgrath 1-0 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.03.08%20My%20classical%20games%20-%20Lachlan%20vs%20Ethan%20mcgrath%201-0%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169139.4456,
+      "sizeBytes": 1649
+    },
+    {
+      "type": "file",
+      "name": "2026.03.08 My classical games - Wutong Chen vs Lachlan (0-1) Unknown - Unknown",
+      "filename": "2026.03.08 My classical games - Wutong Chen vs Lachlan (0-1) Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.03.08 My classical games - Wutong Chen vs Lachlan (0-1) Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.03.08%20My%20classical%20games%20-%20Wutong%20Chen%20vs%20Lachlan%20(0-1)%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169139.4456,
+      "sizeBytes": 4734
+    },
+    {
+      "type": "file",
+      "name": "2026.03.09 My classical games - Lucas zheng vs Lachlan (0-1) Unknown - Unknown",
+      "filename": "2026.03.09 My classical games - Lucas zheng vs Lachlan (0-1) Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.03.09 My classical games - Lucas zheng vs Lachlan (0-1) Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.03.09%20My%20classical%20games%20-%20Lucas%20zheng%20vs%20Lachlan%20(0-1)%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169140.455,
+      "sizeBytes": 4898
+    },
+    {
+      "type": "file",
+      "name": "2026.03.16 My classical games - lachlan vs zack wilkins 1-0 Unknown - Unknown",
+      "filename": "2026.03.16 My classical games - lachlan vs zack wilkins 1-0 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.03.16 My classical games - lachlan vs zack wilkins 1-0 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.03.16%20My%20classical%20games%20-%20lachlan%20vs%20zack%20wilkins%201-0%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169140.455,
+      "sizeBytes": 4656
+    },
+    {
+      "type": "file",
+      "name": "2026.04.03 My classical games - lachlan vs dale westcott, welsh open championship 2026 0-1 annotations, no clock Unknown",
+      "filename": "2026.04.03 My classical games - lachlan vs dale westcott, welsh open championship 2026 0-1 annotations, no clock Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.04.03 My classical games - lachlan vs dale westcott, welsh open championship 2026 0-1 annotations, no clock Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.04.03%20My%20classical%20games%20-%20lachlan%20vs%20dale%20westcott%2C%20welsh%20open%20championship%202026%200-1%20annotations%2C%20no%20clock%20Unknown.pgn",
+      "lastModified": 1779961169142.5632,
+      "sizeBytes": 5353
+    },
+    {
+      "type": "file",
+      "name": "2026.04.03 My classical games - Luc zimmer vs lachlan 0-1 welsh championship open Unknown - Unknown",
+      "filename": "2026.04.03 My classical games - Luc zimmer vs lachlan 0-1 welsh championship open Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.04.03 My classical games - Luc zimmer vs lachlan 0-1 welsh championship open Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.04.03%20My%20classical%20games%20-%20Luc%20zimmer%20vs%20lachlan%200-1%20welsh%20championship%20open%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169141.554,
+      "sizeBytes": 1666
+    },
+    {
+      "type": "file",
+      "name": "2026.05.05 My classical games - Ifan vs Lachlan 1 2 1 2 Unknown - Unknown",
+      "filename": "2026.05.05 My classical games - Ifan vs Lachlan 1 2 1 2 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.05 My classical games - Ifan vs Lachlan 1 2 1 2 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.05%20My%20classical%20games%20-%20Ifan%20vs%20Lachlan%201%202%201%202%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169146.0178,
+      "sizeBytes": 3664
+    },
+    {
+      "type": "file",
+      "name": "2026.05.07 My classical games - Jonathan james vs lachlan 1 2, 1 2 Unknown - Unknown",
+      "filename": "2026.05.07 My classical games - Jonathan james vs lachlan 1 2, 1 2 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.07 My classical games - Jonathan james vs lachlan 1 2, 1 2 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.07%20My%20classical%20games%20-%20Jonathan%20james%20vs%20lachlan%201%202%2C%201%202%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169147.0828,
+      "sizeBytes": 5338
+    },
+    {
+      "type": "file",
+      "name": "2026.05.09 My classical games - Lachlan vs Reginald Mba 0-1 Unknown - Unknown",
+      "filename": "2026.05.09 My classical games - Lachlan vs Reginald Mba 0-1 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.09 My classical games - Lachlan vs Reginald Mba 0-1 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.09%20My%20classical%20games%20-%20Lachlan%20vs%20Reginald%20Mba%200-1%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779970714261.6565,
+      "sizeBytes": 2432
+    },
+    {
+      "type": "file",
+      "name": "2026.05.22 My classical games - Lachlan vs Steven Holmes 1-0 Unknown - Unknown",
+      "filename": "2026.05.22 My classical games - Lachlan vs Steven Holmes 1-0 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.22 My classical games - Lachlan vs Steven Holmes 1-0 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.22%20My%20classical%20games%20-%20Lachlan%20vs%20Steven%20Holmes%201-0%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169148.5005,
+      "sizeBytes": 1792
+    },
+    {
+      "type": "file",
+      "name": "2026.05.23 My classical games - Joel Green vs Lachlan 0-1 Unknown - Unknown",
+      "filename": "2026.05.23 My classical games - Joel Green vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.23 My classical games - Joel Green vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.23%20My%20classical%20games%20-%20Joel%20Green%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169149.504,
+      "sizeBytes": 3972
+    },
+    {
+      "type": "file",
+      "name": "2026.05.23 My classical games - Nicolas rojas vs Lachlan 0-1 Unknown - Unknown",
+      "filename": "2026.05.23 My classical games - Nicolas rojas vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.23 My classical games - Nicolas rojas vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.23%20My%20classical%20games%20-%20Nicolas%20rojas%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1780408974171.0977,
+      "sizeBytes": 7940
+    },
+    {
+      "type": "file",
+      "name": "2026.05.24 My classical games - Lachlan vs joythika 1 2 Unknown - Unknown",
+      "filename": "2026.05.24 My classical games - Lachlan vs joythika 1 2 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.24 My classical games - Lachlan vs joythika 1 2 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.24%20My%20classical%20games%20-%20Lachlan%20vs%20joythika%201%202%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169150.5217,
+      "sizeBytes": 3858
+    },
+    {
+      "type": "file",
+      "name": "2026.05.24 My classical games - Michael Hughes vs Lachlan 0-1 Unknown - Unknown",
+      "filename": "2026.05.24 My classical games - Michael Hughes vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.24 My classical games - Michael Hughes vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.24%20My%20classical%20games%20-%20Michael%20Hughes%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779961169150.5217,
+      "sizeBytes": 2588
+    },
+    {
+      "type": "file",
+      "name": "2026.05.26 My classical games - Verma schlock vs Lachlan 1-0 Unknown - Unknown",
+      "filename": "2026.05.26 My classical games - Verma schlock vs Lachlan 1-0 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.26 My classical games - Verma schlock vs Lachlan 1-0 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.26%20My%20classical%20games%20-%20Verma%20schlock%20vs%20Lachlan%201-0%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779970844017.973,
+      "sizeBytes": 2762
+    },
+    {
+      "type": "file",
+      "name": "2026.05.27 My classical games - IM Peter larger vs Lachlan tyrrell Unknown - Unknown",
+      "filename": "2026.05.27 My classical games - IM Peter larger vs Lachlan tyrrell Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.27 My classical games - IM Peter larger vs Lachlan tyrrell Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.27%20My%20classical%20games%20-%20IM%20Peter%20larger%20vs%20Lachlan%20tyrrell%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1779967690182.57,
+      "sizeBytes": 2972
+    },
+    {
+      "type": "file",
+      "name": "2026.05.27 My classical games - Peter hazel vs Lachlan Tyrrell Unknown - Unknown",
+      "filename": "2026.05.27 My classical games - Peter hazel vs Lachlan Tyrrell Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.27 My classical games - Peter hazel vs Lachlan Tyrrell Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.27%20My%20classical%20games%20-%20Peter%20hazel%20vs%20Lachlan%20Tyrrell%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1780408974177.0786,
+      "sizeBytes": 913
+    },
+    {
+      "type": "file",
+      "name": "2026.05.30 My classical games - Josh sharma vs Lachlan 0-1 Unknown - Unknown",
+      "filename": "2026.05.30 My classical games - Josh sharma vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.30 My classical games - Josh sharma vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.30%20My%20classical%20games%20-%20Josh%20sharma%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1780496352751.5623,
+      "sizeBytes": 4131
+    },
+    {
+      "type": "file",
+      "name": "2026.05.30 My classical games - Lachlan vs Adam Sieczkowski 1 2 Unknown - Unknown",
+      "filename": "2026.05.30 My classical games - Lachlan vs Adam Sieczkowski 1 2 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.30 My classical games - Lachlan vs Adam Sieczkowski 1 2 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.30%20My%20classical%20games%20-%20Lachlan%20vs%20Adam%20Sieczkowski%201%202%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1780408974186.8025,
+      "sizeBytes": 5082
+    },
+    {
+      "type": "file",
+      "name": "2026.05.31 My classical games - Lachlan vs IM Peter large 1 2 Unknown - Unknown",
+      "filename": "2026.05.31 My classical games - Lachlan vs IM Peter large 1 2 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.31 My classical games - Lachlan vs IM Peter large 1 2 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.31%20My%20classical%20games%20-%20Lachlan%20vs%20IM%20Peter%20large%201%202%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1780408974188.2002,
+      "sizeBytes": 6248
+    },
+    {
+      "type": "file",
+      "name": "2026.05.31 My classical games - Lachlan vs Jia Arn yeung 0-1 Unknown - Unknown",
+      "filename": "2026.05.31 My classical games - Lachlan vs Jia Arn yeung 0-1 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/2026.05.31 My classical games - Lachlan vs Jia Arn yeung 0-1 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/2026.05.31%20My%20classical%20games%20-%20Lachlan%20vs%20Jia%20Arn%20yeung%200-1%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1780500109596.246,
+      "sizeBytes": 8412
+    },
+    {
+      "type": "file",
+      "name": "My classical games 2026.03.08 Binx, Michael - Tyrrell, Lachlan",
+      "filename": "My classical games 2026.03.08 Binx, Michael - Tyrrell, Lachlan.pgn",
+      "extension": "pgn",
+      "path": "My classical games/My classical games 2026.03.08 Binx, Michael - Tyrrell, Lachlan.pgn",
+      "url": "files/My%20classical%20games/My%20classical%20games%202026.03.08%20Binx%2C%20Michael%20-%20Tyrrell%2C%20Lachlan.pgn",
+      "lastModified": 1780408974126.5674,
+      "sizeBytes": 6617
+    },
+    {
+      "type": "file",
+      "name": "My classical games 2026.04.03 Tyrrell, Lachlan Baly Hughes - Westcott, Dale Round 1.12",
+      "filename": "My classical games 2026.04.03 Tyrrell, Lachlan Baly Hughes - Westcott, Dale Round 1.12.pgn",
+      "extension": "pgn",
+      "path": "My classical games/My classical games 2026.04.03 Tyrrell, Lachlan Baly Hughes - Westcott, Dale Round 1.12.pgn",
+      "url": "files/My%20classical%20games/My%20classical%20games%202026.04.03%20Tyrrell%2C%20Lachlan%20Baly%20Hughes%20-%20Westcott%2C%20Dale%20Round%201.12.pgn",
+      "lastModified": 1780408974147.2058,
+      "sizeBytes": 4350
+    },
+    {
+      "type": "file",
+      "name": "My classical games 2026.04.04 Harrison, Oliver - Tyrrell, Lachlan Baly Hughes",
+      "filename": "My classical games 2026.04.04 Harrison, Oliver - Tyrrell, Lachlan Baly Hughes.pgn",
+      "extension": "pgn",
+      "path": "My classical games/My classical games 2026.04.04 Harrison, Oliver - Tyrrell, Lachlan Baly Hughes.pgn",
+      "url": "files/My%20classical%20games/My%20classical%20games%202026.04.04%20Harrison%2C%20Oliver%20-%20Tyrrell%2C%20Lachlan%20Baly%20Hughes.pgn",
+      "lastModified": 1780408974151.5938,
+      "sizeBytes": 4392
+    },
+    {
+      "type": "file",
+      "name": "My classical games 2026.04.04 Tyrrell, Lachlan Baly Hughes - George, Naveen Daniel Round 3.14",
+      "filename": "My classical games 2026.04.04 Tyrrell, Lachlan Baly Hughes - George, Naveen Daniel Round 3.14.pgn",
+      "extension": "pgn",
+      "path": "My classical games/My classical games 2026.04.04 Tyrrell, Lachlan Baly Hughes - George, Naveen Daniel Round 3.14.pgn",
+      "url": "files/My%20classical%20games/My%20classical%20games%202026.04.04%20Tyrrell%2C%20Lachlan%20Baly%20Hughes%20-%20George%2C%20Naveen%20Daniel%20Round%203.14.pgn",
+      "lastModified": 1780408974144.6704,
+      "sizeBytes": 2712
+    },
+    {
+      "type": "file",
+      "name": "My classical games 2026.04.05 Tyrrell, Lachlan Baly Hughes - Tapp, James Round 5.4",
+      "filename": "My classical games 2026.04.05 Tyrrell, Lachlan Baly Hughes - Tapp, James Round 5.4.pgn",
+      "extension": "pgn",
+      "path": "My classical games/My classical games 2026.04.05 Tyrrell, Lachlan Baly Hughes - Tapp, James Round 5.4.pgn",
+      "url": "files/My%20classical%20games/My%20classical%20games%202026.04.05%20Tyrrell%2C%20Lachlan%20Baly%20Hughes%20-%20Tapp%2C%20James%20Round%205.4.pgn",
+      "lastModified": 1780408974154.4602,
+      "sizeBytes": 3212
+    },
+    {
+      "type": "file",
+      "name": "My classical games 2026.04.06 Hammett, Scott - Tyrrell, Lachlan Baly Hughes Round 6.11",
+      "filename": "My classical games 2026.04.06 Hammett, Scott - Tyrrell, Lachlan Baly Hughes Round 6.11.pgn",
+      "extension": "pgn",
+      "path": "My classical games/My classical games 2026.04.06 Hammett, Scott - Tyrrell, Lachlan Baly Hughes Round 6.11.pgn",
+      "url": "files/My%20classical%20games/My%20classical%20games%202026.04.06%20Hammett%2C%20Scott%20-%20Tyrrell%2C%20Lachlan%20Baly%20Hughes%20Round%206.11.pgn",
+      "lastModified": 1780408974152.4497,
+      "sizeBytes": 3983
+    },
+    {
+      "type": "file",
+      "name": "My classical games 2026.04.06 Thomas, Mark - Tyrrell, Lachlan Baly Hughes Round 7.7",
+      "filename": "My classical games 2026.04.06 Thomas, Mark - Tyrrell, Lachlan Baly Hughes Round 7.7.pgn",
+      "extension": "pgn",
+      "path": "My classical games/My classical games 2026.04.06 Thomas, Mark - Tyrrell, Lachlan Baly Hughes Round 7.7.pgn",
+      "url": "files/My%20classical%20games/My%20classical%20games%202026.04.06%20Thomas%2C%20Mark%20-%20Tyrrell%2C%20Lachlan%20Baly%20Hughes%20Round%207.7.pgn",
+      "lastModified": 1780408974158.0754,
+      "sizeBytes": 4606
+    },
+    {
+      "type": "file",
+      "name": "My classical games 2026.04.20 Me - Me",
+      "filename": "My classical games 2026.04.20 Me - Me.pgn",
+      "extension": "pgn",
+      "path": "My classical games/My classical games 2026.04.20 Me - Me.pgn",
+      "url": "files/My%20classical%20games/My%20classical%20games%202026.04.20%20Me%20-%20Me.pgn",
+      "lastModified": 1779961169146.0178,
+      "sizeBytes": 3789
+    },
+    {
+      "type": "file",
+      "name": "Peter G Large games (776)",
+      "filename": "Peter G Large games (776).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/01 2183 - Large, Peter G [cc Plimsol high]/Peter G Large games (776).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/01%202183%20-%20Large%2C%20Peter%20G%20%5Bcc%20Plimsol%20high%5D/Peter%20G%20Large%20games%20(776).pgn",
+      "lastModified": 1780074007838.264,
+      "sizeBytes": 1345185
+    },
+    {
+      "type": "file",
+      "name": "Peter Large match prep report",
+      "filename": "Peter Large match prep report.pdf",
+      "extension": "pdf",
+      "path": "Oxford FIDE Congress U2300 player games/01 2183 - Large, Peter G [cc Plimsol high]/Peter Large match prep report.pdf",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/01%202183%20-%20Large%2C%20Peter%20G%20%5Bcc%20Plimsol%20high%5D/Peter%20Large%20match%20prep%20report.pdf",
+      "lastModified": 1780064472423.3496,
+      "sizeBytes": 4578
+    },
+    {
+      "type": "file",
+      "name": "peter white prep",
+      "filename": "peter white prep.pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/01 2183 - Large, Peter G [cc Plimsol high]/peter white prep.pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/01%202183%20-%20Large%2C%20Peter%20G%20%5Bcc%20Plimsol%20high%5D/peter%20white%20prep.pgn",
+      "lastModified": 1780216276259.989,
+      "sizeBytes": 678
+    },
+    {
+      "type": "file",
+      "name": "Arya Cont games (252)",
+      "filename": "Arya Cont games (252).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/02 2169 - Cont, Arya [cc none credible]/Arya Cont games (252).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/02%202169%20-%20Cont%2C%20Arya%20%5Bcc%20none%20credible%5D/Arya%20Cont%20games%20(252).pgn",
+      "lastModified": 1780074008089.8933,
+      "sizeBytes": 547049
+    },
+    {
+      "type": "file",
+      "name": "Arya Cont match prep report",
+      "filename": "Arya Cont match prep report.pdf",
+      "extension": "pdf",
+      "path": "Oxford FIDE Congress U2300 player games/02 2169 - Cont, Arya [cc none credible]/Arya Cont match prep report.pdf",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/02%202169%20-%20Cont%2C%20Arya%20%5Bcc%20none%20credible%5D/Arya%20Cont%20match%20prep%20report.pdf",
+      "lastModified": 1780062284327.9822,
+      "sizeBytes": 12662
+    },
+    {
+      "type": "file",
+      "name": "Steven Kawuma match prep report",
+      "filename": "Steven Kawuma match prep report.pdf",
+      "extension": "pdf",
+      "path": "Oxford FIDE Congress U2300 player games/03 2164 - Kawuma, Steven Male [cc none credible]/Steven Kawuma match prep report.pdf",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/03%202164%20-%20Kawuma%2C%20Steven%20Male%20%5Bcc%20none%20credible%5D/Steven%20Kawuma%20match%20prep%20report.pdf",
+      "lastModified": 1780062284423.833,
+      "sizeBytes": 12111
+    },
+    {
+      "type": "file",
+      "name": "Steven Male Kawuma games (174)",
+      "filename": "Steven Male Kawuma games (174).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/03 2164 - Kawuma, Steven Male [cc none credible]/Steven Male Kawuma games (174).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/03%202164%20-%20Kawuma%2C%20Steven%20Male%20%5Bcc%20none%20credible%5D/Steven%20Male%20Kawuma%20games%20(174).pgn",
+      "lastModified": 1780068533088.908,
+      "sizeBytes": 186478
+    },
+    {
+      "type": "file",
+      "name": "Sooraj M R games (315)",
+      "filename": "Sooraj M R games (315).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/04 2147 - Sooraj M R [cc none credible]/Sooraj M R games (315).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/04%202147%20-%20Sooraj%20M%20R%20%5Bcc%20none%20credible%5D/Sooraj%20M%20R%20games%20(315).pgn",
+      "lastModified": 1780068538595.7139,
+      "sizeBytes": 788727
+    },
+    {
+      "type": "file",
+      "name": "Sooraj Raju match prep report",
+      "filename": "Sooraj Raju match prep report.pdf",
+      "extension": "pdf",
+      "path": "Oxford FIDE Congress U2300 player games/04 2147 - Sooraj M R [cc none credible]/Sooraj Raju match prep report.pdf",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/04%202147%20-%20Sooraj%20M%20R%20%5Bcc%20none%20credible%5D/Sooraj%20Raju%20match%20prep%20report.pdf",
+      "lastModified": 1780062284597.717,
+      "sizeBytes": 11934
+    },
+    {
+      "type": "file",
+      "name": "Hayk Mesropyan games (241)",
+      "filename": "Hayk Mesropyan games (241).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/05 2134 - Mesropyan, Hayk [cc none credible]/Hayk Mesropyan games (241).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/05%202134%20-%20Mesropyan%2C%20Hayk%20%5Bcc%20none%20credible%5D/Hayk%20Mesropyan%20games%20(241).pgn",
+      "lastModified": 1780216984541.2874,
+      "sizeBytes": 684248
+    },
+    {
+      "type": "file",
+      "name": "Hayk Mesropyan match prep report",
+      "filename": "Hayk Mesropyan match prep report.pdf",
+      "extension": "pdf",
+      "path": "Oxford FIDE Congress U2300 player games/05 2134 - Mesropyan, Hayk [cc none credible]/Hayk Mesropyan match prep report.pdf",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/05%202134%20-%20Mesropyan%2C%20Hayk%20%5Bcc%20none%20credible%5D/Hayk%20Mesropyan%20match%20prep%20report.pdf",
+      "lastModified": 1780062284743.9905,
+      "sizeBytes": 12010
+    },
+    {
+      "type": "file",
+      "name": "Josh Sharma games (85)",
+      "filename": "Josh Sharma games (85).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/06 2042 - Sharma, Josh [cc none credible]/Josh Sharma games (85).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/06%202042%20-%20Sharma%2C%20Josh%20%5Bcc%20none%20credible%5D/Josh%20Sharma%20games%20(85).pgn",
+      "lastModified": 1780073669189.879,
+      "sizeBytes": 147068
+    },
+    {
+      "type": "file",
+      "name": "Josh Sharma match prep report",
+      "filename": "Josh Sharma match prep report.pdf",
+      "extension": "pdf",
+      "path": "Oxford FIDE Congress U2300 player games/06 2042 - Sharma, Josh [cc none credible]/Josh Sharma match prep report.pdf",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/06%202042%20-%20Sharma%2C%20Josh%20%5Bcc%20none%20credible%5D/Josh%20Sharma%20match%20prep%20report.pdf",
+      "lastModified": 1780061374886.8462,
+      "sizeBytes": 26363
+    },
+    {
+      "type": "file",
+      "name": "sharma black prep",
+      "filename": "sharma black prep.pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/06 2042 - Sharma, Josh [cc none credible]/sharma black prep.pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/06%202042%20-%20Sharma%2C%20Josh%20%5Bcc%20none%20credible%5D/sharma%20black%20prep.pgn",
+      "lastModified": 1780156754912.3472,
+      "sizeBytes": 2393
+    },
+    {
+      "type": "file",
+      "name": "sharma white prep",
+      "filename": "sharma white prep.pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/06 2042 - Sharma, Josh [cc none credible]/sharma white prep.pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/06%202042%20-%20Sharma%2C%20Josh%20%5Bcc%20none%20credible%5D/sharma%20white%20prep.pgn",
+      "lastModified": 1780045083005.5884,
+      "sizeBytes": 95
+    },
+    {
+      "type": "file",
+      "name": "Noah Bevis games (235)",
+      "filename": "Noah Bevis games (235).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/07 2019 - Bevis, Noah [cc none credible]/Noah Bevis games (235).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/07%202019%20-%20Bevis%2C%20Noah%20%5Bcc%20none%20credible%5D/Noah%20Bevis%20games%20(235).pgn",
+      "lastModified": 1780068549483.7705,
+      "sizeBytes": 759402
+    },
+    {
+      "type": "file",
+      "name": "Noah Bevis match prep report",
+      "filename": "Noah Bevis match prep report.pdf",
+      "extension": "pdf",
+      "path": "Oxford FIDE Congress U2300 player games/07 2019 - Bevis, Noah [cc none credible]/Noah Bevis match prep report.pdf",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/07%202019%20-%20Bevis%2C%20Noah%20%5Bcc%20none%20credible%5D/Noah%20Bevis%20match%20prep%20report.pdf",
+      "lastModified": 1780062284907.4246,
+      "sizeBytes": 12464
+    },
+    {
+      "type": "file",
+      "name": "Adam Sieczkowski games (319)",
+      "filename": "Adam Sieczkowski games (319).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/08 2012 - Sieczkowski, Adam [cc adamsieczkowski low]/Adam Sieczkowski games (319).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/08%202012%20-%20Sieczkowski%2C%20Adam%20%5Bcc%20adamsieczkowski%20low%5D/Adam%20Sieczkowski%20games%20(319).pgn",
+      "lastModified": 1780074008206.8335,
+      "sizeBytes": 469837
+    },
+    {
+      "type": "file",
+      "name": "Adam Sieczkowski match prep report",
+      "filename": "Adam Sieczkowski match prep report.pdf",
+      "extension": "pdf",
+      "path": "Oxford FIDE Congress U2300 player games/08 2012 - Sieczkowski, Adam [cc adamsieczkowski low]/Adam Sieczkowski match prep report.pdf",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/08%202012%20-%20Sieczkowski%2C%20Adam%20%5Bcc%20adamsieczkowski%20low%5D/Adam%20Sieczkowski%20match%20prep%20report.pdf",
+      "lastModified": 1780062285087.7976,
+      "sizeBytes": 12317
+    },
+    {
+      "type": "file",
+      "name": "adam white",
+      "filename": "adam white.pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/08 2012 - Sieczkowski, Adam [cc adamsieczkowski low]/adam white.pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/08%202012%20-%20Sieczkowski%2C%20Adam%20%5Bcc%20adamsieczkowski%20low%5D/adam%20white.pgn",
+      "lastModified": 1780143346756.9316,
+      "sizeBytes": 507
+    },
+    {
+      "type": "file",
+      "name": "Jonathan Rubeck games (213)",
+      "filename": "Jonathan Rubeck games (213).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/09 1894 - Rubeck, Jonathan [cc none credible]/Jonathan Rubeck games (213).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/09%201894%20-%20Rubeck%2C%20Jonathan%20%5Bcc%20none%20credible%5D/Jonathan%20Rubeck%20games%20(213).pgn",
+      "lastModified": 1780068560411.0095,
+      "sizeBytes": 453540
+    },
+    {
+      "type": "file",
+      "name": "Jonathan Rubeck match prep report",
+      "filename": "Jonathan Rubeck match prep report.pdf",
+      "extension": "pdf",
+      "path": "Oxford FIDE Congress U2300 player games/09 1894 - Rubeck, Jonathan [cc none credible]/Jonathan Rubeck match prep report.pdf",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/09%201894%20-%20Rubeck%2C%20Jonathan%20%5Bcc%20none%20credible%5D/Jonathan%20Rubeck%20match%20prep%20report.pdf",
+      "lastModified": 1780062285224.048,
+      "sizeBytes": 12430
+    },
+    {
+      "type": "file",
+      "name": "Ivan Georgiev games (7)",
+      "filename": "Ivan Georgiev games (7).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/10 1863 - Georgiev, Ivan [cc ivan_georgiev low]/Ivan Georgiev games (7).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/10%201863%20-%20Georgiev%2C%20Ivan%20%5Bcc%20ivan_georgiev%20low%5D/Ivan%20Georgiev%20games%20(7).pgn",
+      "lastModified": 1780068561466.7341,
+      "sizeBytes": 6000
+    },
+    {
+      "type": "file",
+      "name": "Ivan Georgiev match prep report",
+      "filename": "Ivan Georgiev match prep report.pdf",
+      "extension": "pdf",
+      "path": "Oxford FIDE Congress U2300 player games/10 1863 - Georgiev, Ivan [cc ivan_georgiev low]/Ivan Georgiev match prep report.pdf",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/10%201863%20-%20Georgiev%2C%20Ivan%20%5Bcc%20ivan_georgiev%20low%5D/Ivan%20Georgiev%20match%20prep%20report.pdf",
+      "lastModified": 1780062285252.5547,
+      "sizeBytes": 8963
+    },
+    {
+      "type": "file",
+      "name": "black prep simon",
+      "filename": "black prep simon.pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/11 1842 - Redmill, Simon [cc simonredmill high]/black prep simon.pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/11%201842%20-%20Redmill%2C%20Simon%20%5Bcc%20simonredmill%20high%5D/black%20prep%20simon.pgn",
+      "lastModified": 1780089531624.7957,
+      "sizeBytes": 760
+    },
+    {
+      "type": "file",
+      "name": "Simon Redmill games (11)",
+      "filename": "Simon Redmill games (11).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/11 1842 - Redmill, Simon [cc simonredmill high]/Simon Redmill games (11).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/11%201842%20-%20Redmill%2C%20Simon%20%5Bcc%20simonredmill%20high%5D/Simon%20Redmill%20games%20(11).pgn",
+      "lastModified": 1780068561705.2197,
+      "sizeBytes": 41313
+    },
+    {
+      "type": "file",
+      "name": "Simon Redmill match prep report",
+      "filename": "Simon Redmill match prep report.pdf",
+      "extension": "pdf",
+      "path": "Oxford FIDE Congress U2300 player games/11 1842 - Redmill, Simon [cc simonredmill high]/Simon Redmill match prep report.pdf",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/11%201842%20-%20Redmill%2C%20Simon%20%5Bcc%20simonredmill%20high%5D/Simon%20Redmill%20match%20prep%20report.pdf",
+      "lastModified": 1780062285277.6162,
+      "sizeBytes": 8776
+    },
+    {
+      "type": "file",
+      "name": "Rufus Behr games (8)",
+      "filename": "Rufus Behr games (8).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/12 1789 - Behr, Rufus [cc none credible]/Rufus Behr games (8).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/12%201789%20-%20Behr%2C%20Rufus%20%5Bcc%20none%20credible%5D/Rufus%20Behr%20games%20(8).pgn",
+      "lastModified": 1780068561883.538,
+      "sizeBytes": 13360
+    },
+    {
+      "type": "file",
+      "name": "Anum Sheikh games (450)",
+      "filename": "Anum Sheikh games (450).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/13 1780 - Sheikh, Anum [cc none credible]/Anum Sheikh games (450).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/13%201780%20-%20Sheikh%2C%20Anum%20%5Bcc%20none%20credible%5D/Anum%20Sheikh%20games%20(450).pgn",
+      "lastModified": 1780074008346.6106,
+      "sizeBytes": 834309
+    },
+    {
+      "type": "file",
+      "name": "Jeffrey Bryant games (30)",
+      "filename": "Jeffrey Bryant games (30).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/14 1777 - Bryant, Jeffrey [cc none credible]/Jeffrey Bryant games (30).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/14%201777%20-%20Bryant%2C%20Jeffrey%20%5Bcc%20none%20credible%5D/Jeffrey%20Bryant%20games%20(30).pgn",
+      "lastModified": 1780068571437.5796,
+      "sizeBytes": 64839
+    },
+    {
+      "type": "file",
+      "name": "Thang Tran games (0)",
+      "filename": "Thang Tran games (0).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/15 1757 - Tran, Thang [cc none credible]/Thang Tran games (0).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/15%201757%20-%20Tran%2C%20Thang%20%5Bcc%20none%20credible%5D/Thang%20Tran%20games%20(0).pgn",
+      "lastModified": 1780068571558.526,
+      "sizeBytes": 64
+    },
+    {
+      "type": "file",
+      "name": "Charles A Sturt games (42)",
+      "filename": "Charles A Sturt games (42).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/16 1747 - Sturt, Charles A [cc none credible]/Charles A Sturt games (42).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/16%201747%20-%20Sturt%2C%20Charles%20A%20%5Bcc%20none%20credible%5D/Charles%20A%20Sturt%20games%20(42).pgn",
+      "lastModified": 1780068572078.2778,
+      "sizeBytes": 38856
+    },
+    {
+      "type": "file",
+      "name": "Yvon Van Neerven games (186)",
+      "filename": "Yvon Van Neerven games (186).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/17 1735 - Van Neerven, Yvon [cc none credible]/Yvon Van Neerven games (186).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/17%201735%20-%20Van%20Neerven%2C%20Yvon%20%5Bcc%20none%20credible%5D/Yvon%20Van%20Neerven%20games%20(186).pgn",
+      "lastModified": 1780068575119.9238,
+      "sizeBytes": 453034
+    },
+    {
+      "type": "file",
+      "name": "Francesco Poderico games (56)",
+      "filename": "Francesco Poderico games (56).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/18 1707 - Poderico, Francesco [cc none credible]/Francesco Poderico games (56).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/18%201707%20-%20Poderico%2C%20Francesco%20%5Bcc%20none%20credible%5D/Francesco%20Poderico%20games%20(56).pgn",
+      "lastModified": 1780068576646.3655,
+      "sizeBytes": 93463
+    },
+    {
+      "type": "file",
+      "name": "Anirudh Muppidi games (14)",
+      "filename": "Anirudh Muppidi games (14).pgn",
+      "extension": "pgn",
+      "path": "Oxford FIDE Congress U2300 player games/19 1630 - Muppidi, Anirudh [cc none credible]/Anirudh Muppidi games (14).pgn",
+      "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/19%201630%20-%20Muppidi%2C%20Anirudh%20%5Bcc%20none%20credible%5D/Anirudh%20Muppidi%20games%20(14).pgn",
+      "lastModified": 1780068577071.1526,
+      "sizeBytes": 12071
+    },
+    {
+      "type": "file",
+      "name": "#13",
+      "filename": "#13.pgn",
+      "extension": "pgn",
+      "path": "stoyko excercises calculation book/#13.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/%2313.pgn",
+      "lastModified": 1779997782863.6162,
+      "sizeBytes": 883
+    },
+    {
+      "type": "file",
+      "name": "#14",
+      "filename": "#14.pgn",
+      "extension": "pgn",
+      "path": "stoyko excercises calculation book/#14.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/%2314.pgn",
+      "lastModified": 1780000157587.0547,
+      "sizeBytes": 2637
+    },
+    {
+      "type": "file",
+      "name": "2026.05.16_Loxi-ty - Chess_Eye_of_the_Tiger 1-0",
+      "filename": "2026.05.16_Loxi-ty - Chess_Eye_of_the_Tiger 1-0.pgn",
+      "extension": "pgn",
+      "path": "Summer serious rapid games + analysis/2026.05.16_Loxi-ty - Chess_Eye_of_the_Tiger 1-0.pgn",
+      "url": "files/Summer%20serious%20rapid%20games%20%2B%20analysis/2026.05.16_Loxi-ty%20-%20Chess_Eye_of_the_Tiger%201-0.pgn",
+      "lastModified": 1778954756117.737,
+      "sizeBytes": 4305
+    },
+    {
+      "type": "file",
+      "name": "2026.05.16_Takaru0 - Loxi-ty 1-0",
+      "filename": "2026.05.16_Takaru0 - Loxi-ty 1-0.pgn",
+      "extension": "pgn",
+      "path": "Summer serious rapid games + analysis/2026.05.16_Takaru0 - Loxi-ty 1-0.pgn",
+      "url": "files/Summer%20serious%20rapid%20games%20%2B%20analysis/2026.05.16_Takaru0%20-%20Loxi-ty%201-0.pgn",
+      "lastModified": 1778949006492.2402,
+      "sizeBytes": 4513
+    },
+    {
+      "type": "file",
+      "name": "2026.05.17_Loxi-ty - ashesds 1-0",
+      "filename": "2026.05.17_Loxi-ty - ashesds 1-0.pgn",
+      "extension": "pgn",
+      "path": "Summer serious rapid games + analysis/2026.05.17_Loxi-ty - ashesds 1-0.pgn",
+      "url": "files/Summer%20serious%20rapid%20games%20%2B%20analysis/2026.05.17_Loxi-ty%20-%20ashesds%201-0.pgn",
+      "lastModified": 1779060511886.36,
+      "sizeBytes": 7292
+    },
+    {
+      "type": "file",
+      "name": "2026.05.18_Loxi-ty - talaicito 0-1",
+      "filename": "2026.05.18_Loxi-ty - talaicito 0-1.pgn",
+      "extension": "pgn",
+      "path": "Summer serious rapid games + analysis/2026.05.18_Loxi-ty - talaicito 0-1.pgn",
+      "url": "files/Summer%20serious%20rapid%20games%20%2B%20analysis/2026.05.18_Loxi-ty%20-%20talaicito%200-1.pgn",
+      "lastModified": 1779198250077.3772,
+      "sizeBytes": 7105
+    },
+    {
+      "type": "file",
+      "name": "2026.05.18_Loxi-ty - wuzzle7 1-0",
+      "filename": "2026.05.18_Loxi-ty - wuzzle7 1-0.pgn",
+      "extension": "pgn",
+      "path": "Summer serious rapid games + analysis/2026.05.18_Loxi-ty - wuzzle7 1-0.pgn",
+      "url": "files/Summer%20serious%20rapid%20games%20%2B%20analysis/2026.05.18_Loxi-ty%20-%20wuzzle7%201-0.pgn",
+      "lastModified": 1779193501228.7507,
+      "sizeBytes": 1983
+    },
+    {
+      "type": "file",
+      "name": "2026.05.18_wuzzle7 - Loxi-ty 1-0",
+      "filename": "2026.05.18_wuzzle7 - Loxi-ty 1-0.pgn",
+      "extension": "pgn",
+      "path": "Summer serious rapid games + analysis/2026.05.18_wuzzle7 - Loxi-ty 1-0.pgn",
+      "url": "files/Summer%20serious%20rapid%20games%20%2B%20analysis/2026.05.18_wuzzle7%20-%20Loxi-ty%201-0.pgn",
+      "lastModified": 1779121925704.583,
+      "sizeBytes": 3187
+    },
+    {
+      "type": "file",
+      "name": "2026.05.19_Pataskam - Loxi-ty 1-0",
+      "filename": "2026.05.19_Pataskam - Loxi-ty 1-0.pgn",
+      "extension": "pgn",
+      "path": "Summer serious rapid games + analysis/2026.05.19_Pataskam - Loxi-ty 1-0.pgn",
+      "url": "files/Summer%20serious%20rapid%20games%20%2B%20analysis/2026.05.19_Pataskam%20-%20Loxi-ty%201-0.pgn",
+      "lastModified": 1779204901981.2058,
+      "sizeBytes": 1878
+    },
+    {
+      "type": "file",
+      "name": "Romperekextreme vs loxi-ty 0-1",
+      "filename": "Romperekextreme vs loxi-ty 0-1.pgn",
+      "extension": "pgn",
+      "path": "Summer serious rapid games + analysis/Romperekextreme vs loxi-ty 0-1.pgn",
+      "url": "files/Summer%20serious%20rapid%20games%20%2B%20analysis/Romperekextreme%20vs%20loxi-ty%200-1.pgn",
+      "lastModified": 1778794932137.4526,
+      "sizeBytes": 5587
+    },
+    {
+      "type": "file",
+      "name": "Catalan",
+      "filename": "Catalan.pgn",
+      "extension": "pgn",
+      "path": "Weak openings training/black/Catalan.pgn",
+      "url": "files/Weak%20openings%20training/black/Catalan.pgn",
+      "lastModified": 1778951043101.2559,
+      "sizeBytes": 1175
+    },
+    {
+      "type": "file",
+      "name": "Center Game",
+      "filename": "Center Game.pgn",
+      "extension": "pgn",
+      "path": "Weak openings training/black/Center Game.pgn",
+      "url": "files/Weak%20openings%20training/black/Center%20Game.pgn",
+      "lastModified": 1778800884471.8708,
+      "sizeBytes": 498
+    },
+    {
+      "type": "file",
+      "name": "Italian Game",
+      "filename": "Italian Game.pgn",
+      "extension": "pgn",
+      "path": "Weak openings training/black/Italian Game.pgn",
+      "url": "files/Weak%20openings%20training/black/Italian%20Game.pgn",
+      "lastModified": 1778800884454.9924,
+      "sizeBytes": 8479
+    },
+    {
+      "type": "file",
+      "name": "Queens Gambit",
+      "filename": "Queens Gambit.pgn",
+      "extension": "pgn",
+      "path": "Weak openings training/black/Queens Gambit.pgn",
+      "url": "files/Weak%20openings%20training/black/Queens%20Gambit.pgn",
+      "lastModified": 1778800884460.7996,
+      "sizeBytes": 9283
+    },
+    {
+      "type": "file",
+      "name": "Ruy Lopez",
+      "filename": "Ruy Lopez.pgn",
+      "extension": "pgn",
+      "path": "Weak openings training/black/Ruy Lopez.pgn",
+      "url": "files/Weak%20openings%20training/black/Ruy%20Lopez.pgn",
+      "lastModified": 1778800884467.3545,
+      "sizeBytes": 6434
+    },
+    {
+      "type": "file",
+      "name": "Scotch Game",
+      "filename": "Scotch Game.pgn",
+      "extension": "pgn",
+      "path": "Weak openings training/black/Scotch Game.pgn",
+      "url": "files/Weak%20openings%20training/black/Scotch%20Game.pgn",
+      "lastModified": 1778800884469.8655,
+      "sizeBytes": 1563
+    },
+    {
+      "type": "file",
+      "name": "Grunfeld Defense",
+      "filename": "Grunfeld Defense.pgn",
+      "extension": "pgn",
+      "path": "Weak openings training/whites/Grunfeld Defense.pgn",
+      "url": "files/Weak%20openings%20training/whites/Grunfeld%20Defense.pgn",
+      "lastModified": 1778800884410.3567,
+      "sizeBytes": 4948
+    },
+    {
+      "type": "file",
+      "name": "Queens Gambit",
+      "filename": "Queens Gambit.pgn",
+      "extension": "pgn",
+      "path": "Weak openings training/whites/Queens Gambit.pgn",
+      "url": "files/Weak%20openings%20training/whites/Queens%20Gambit.pgn",
+      "lastModified": 1778801565518.1592,
+      "sizeBytes": 3785
+    },
+    {
+      "type": "file",
+      "name": "Sicilian Defense",
+      "filename": "Sicilian Defense.pgn",
+      "extension": "pgn",
+      "path": "Weak openings training/whites/Sicilian Defense.pgn",
+      "url": "files/Weak%20openings%20training/whites/Sicilian%20Defense.pgn",
+      "lastModified": 1778800884428.609,
+      "sizeBytes": 13161
+    },
+    {
+      "type": "file",
+      "name": "Slav Defense",
+      "filename": "Slav Defense.pgn",
+      "extension": "pgn",
+      "path": "Weak openings training/whites/Slav Defense.pgn",
+      "url": "files/Weak%20openings%20training/whites/Slav%20Defense.pgn",
+      "lastModified": 1778800884449.011,
+      "sizeBytes": 5231
+    },
+    {
+      "type": "file",
+      "name": "Zukertort Opening",
+      "filename": "Zukertort Opening.pgn",
+      "extension": "pgn",
+      "path": "Weak openings training/whites/Zukertort Opening.pgn",
+      "url": "files/Weak%20openings%20training/whites/Zukertort%20Opening.pgn",
+      "lastModified": 1778800884443.69,
+      "sizeBytes": 18284
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[Event "My classical games: Lachlan vs Ethan mcgrath 1-0"]
+[Site "Unknown"]
+[Date "2026.03.08"]
+[Round ""]
+[White "Lachlan Tyrrell"]
+[Black "Ethan McGrath"]
+[Result "1-0"]
+[ECO "D90"]
+[PlyCount "45"]
+
+1. Nf3 { [%eval 0.1] } Nf6 { [%eval 0.18] } (1... c5 2. e4 d6 3. d4 cxd4) 2. d4 { [%eval 0.11] } g6 { [%eval 0.22] } 3. c4 { [%eval 0.2] } Bg7 { [%eval 0.27] } 4. Nc3 { [%eval 0.17] } d5 { [%eval 0.29] } 5. cxd5 { [%eval 0.3] } Nxd5 { [%eval 0.26] } (5... Bf5) 6. e4 { [%eval 0.29] } Nb6?! { [%eval 0.86] } { Inaccuracy. Nxc3 was best. } (6... Nxc3 7. bxc3 c5 8. Be3 Qa5 9. Qd2 Nc6 10. Rb1 cxd4 11. cxd4) 7. a4 { [%eval 0.71] } a5 { [%eval 0.91] } 8. h3 { [%eval 0.9] } O-O { [%eval 0.9] } 9. Be2 { [%eval 0.97] } N8d7 { [%eval 1.51] } 10. O-O { [%eval 1.62] } c6 { [%eval 1.66] } 11. Be3 { [%eval 1.58] } e5 { [%eval 1.91] } 12. d5 { [%eval 1.9] } (12. Nxe5 Nxe5 13. dxe5 Qxd1 14. Rfxd1 Bxe5 15. Bxb6) (12. dxe5 Re8) 12... cxd5 { [%eval 2.17] } 13. exd5 { [%eval 2.15] } Nf6 { [%eval 2.17] } 14. Qb3 { [%eval 2.31] } Nfxd5? { [%eval 3.95] } { Mistake. Nbd7 was best. } (14... Nbd7 15. Ng5 (15. Rfd1) 15... b6 (15... h6 16. Ne6 fxe6 17. dxe6 Kh8 18. Rfd1 Qe7 19. exd7 Bxd7 20. Qxb7) 16. Ne6 fxe6 17. dxe6 Kh8 18. exd7 Bxd7 19. Rfd1 Rb8 20. Nb5) 15. Nxd5 { [%eval 3.86] } Be6 { [%eval 4.04] } 16. Qxb6 { [%eval 4.14] } Bxd5 { [%eval 4.06] } 17. Rfd1 { [%eval 4.08] } Qxb6 { [%eval 4.04] } (17... Qd7) 18. Bxb6 { [%eval 4.11] } Bc6 { [%eval 4.51] } 19. b3 { [%eval 4.5] } f5 { [%eval 4.78] } 20. Bc4+ { [%eval 4.69] } Kh8 { [%eval 4.62] } 21. Ng5 { [%eval 4.69] } Be8 (21... h5 22. Rd6 Rf6 23. Rad1) 22. Ne6 { [%cal Gf8g8] } e4 23. Nxf8 *
