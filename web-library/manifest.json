@@ -1,7 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-12T11:56:31.385Z",
+  "generatedAt": "2026-06-12T20:02:55.348Z",
   "sourceName": "EnCroissant",
+  "pinnedPaths": [
+    "My classical games",
+    "My classical games/2026.05.24 Lachlan Tyrrell - Joythika.pgn",
+    "Oxford FIDE Congress U2300 player games"
+  ],
   "files": [
     {
       "type": "file",
