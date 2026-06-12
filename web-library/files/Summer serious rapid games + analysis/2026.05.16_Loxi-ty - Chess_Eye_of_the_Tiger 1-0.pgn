@@ -1,0 +1,23 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.05.16"]
+[Round "-"]
+[White "Loxi-ty"]
+[Black "Chess_Eye_of_the_Tiger"]
+[Result "1-0"]
+[WhiteElo "2300"]
+[BlackElo "2330"]
+[Orientation "white"]
+[TimeControl "900+10"]
+[CurrentPosition "2rqr1k1/pp3pp1/2pBpn1p/3p4/2PP1QP1/3BPP1P/PP6/3R1RK1 b - - 0 19"]
+[Timezone "UTC"]
+[ECO "D11"]
+[ECOUrl "https://www.chess.com/openings/Slav-Defense-Modern-Quiet-Pin-Defense...6.Qxf3-e6-7.Nc3-Bb4"]
+[Termination "Loxi-ty won by resignation"]
+[StartTime "17:04:22"]
+[EndDate "2026.05.16"]
+[EndTime "17:22:37"]
+[Link "https://www.chess.com/game/live/168799326006"]
+
+1. Nf3 {[%clk 0:15:05.1] } d5 {[%clk 0:15:08.2] } 2. d4 {[%clk 0:15:12.1] } Nf6 {[%clk 0:15:14.6] } 3. c4 {[%clk 0:15:21.1] } c6 {[%clk 0:15:21.8] } 4. e3 {[%clk 0:15:29.3] entering the slav quiet variation} Bg4 {[%clk 0:15:26.9] } 5. Nc3 {[%clk 0:15:30.6] } e6 {[%clk 0:15:21.3] } 6. h3 {[%clk 0:15:35.7] } Bxf3 {[%clk 0:15:07.3] } 7. Qxf3 {[%clk 0:15:43] } Bb4 {[%clk 0:15:07.4] } 8. Bd2 {[%clk 0:14:21.5] bd3 is the top engine move here rather than bd2, I didn't go bd3 because I thought the nbd7 and then e5 would come with extra punch as the knight then forks my queen and bishop.}  (8. Bd3  Nbd7 9. cxd5! {I did actually consider ths line which the engine says is best, the point being that now there is no e5 break.} exd5 {I looked at cxd5 rather than exd5}  (9... cxd5  10. Bd2 e5 11. dxe5 Nxe5 12. Bb5+! {The reason this break doesn't work as well is because of a check which I missed. Now black is stranded with an isolani under not great conditions.} Nc6 13. Rd1)) O-O {[%clk 0:14:27.7] } 9. Be2 {[%clk 0:13:55.7] } Nbd7 {[%clk 0:14:13] } 10. Rd1?! {[%clk 0:11:41.6] }  (10. O-O  Ne4 {best was to castle but I saw ghosts with this line} 11. Nxe4  (11. Be1! {realising that white doesn't actually have to take and can simiply keep the bishop pair on the board}  f5 12. Nxe4 dxe4 13. Qg3) dxe4 {appearrs that I'm just losing material here.}) Rc8 {[%clk 0:14:18.9] } 11. O-O {[%clk 0:11:43.2] } Bxc3 {[%clk 0:12:41.1] } 12. Bxc3 {[%clk 0:11:35.9] } Ne4 {[%clk 0:12:43.6] } 13. Bb4 {[%clk 0:11:20.3] } Re8 {[%clk 0:12:47.5] } 14. Bd3 {[%clk 0:08:58.1] here I thought for a long time and considered g4 rather than bd3 which was the correct move. }  (14. g4?!  e5! {I didn't see e5 after g4 but if I did I would have instantly rejected g4. g4 is way too premature and allows black to explode the centre with an initiative. }  (14... Qh4 {this is the line I calculated but it relies on black not playing the best moves. }  15. Kg2 Ng5 16. Qg3)) Ndf6 {[%clk 0:12:34.2] [%cal Gf3e2]}  (14... f5 {I was worried about f5 here but assumed it probably wasn't great for black long term and I was right.}  15. Qf4! {after f5, qf4 controls the dark squares very well and any kingside attack by black would be superficial. qf4 comes with the idea of f3 too to kick the knight away and also cover the g3 square. } Ndf6 16. f3!) 15. g4?! {[%clk 0:08:53.1] I played this as I knew this was a common theme in certain lines out of this opening, but that was really the only reason I chose this, it's actually an innacuracy in this position - don't rely on opening plans unless the same position comes up on the board, play chess before trying to memorise positions and force those ideas on the board. This is also not so favouorable because of the number of minor pieces on the board - 2 minor pieces have already been traded, which makes any spatial advantage less effective. This idea works better when more minor pieces are on the board and haven't been traded.}  (15. Qe2! {the engine wants to put the bishop all the way back to e1! to prepare f3 and a queenside pawn expansion!}  Qc7 16. Be1 {[%cal Ga2a3,Gb2b4]} dxc4  (16... h5  17. Rc1) 17. Bxc4) h6 {[%clk 0:12:34.9] } 16. Qf4? {[%clk 0:08:20.9] }  (16. Qg2! {more accurate was Qg2 so that h3 is covered after f3 ng5. }  Qb6 17. Ba3 Qd8 18. f3 Ng5 19. h4 {with the queen on g2 there is no nh3 +. This is what I missed when I played qf4. }) Qb6 {[%clk 0:12:28.6] } 17. Ba3 {[%clk 0:08:13.1] } Qd8 {[%clk 0:10:50.7] } 18. f3 {[%clk 0:07:32.4] } Nd6?? {[%clk 0:10:30] a one move blundner ends the game}  (18... Ng5  19. Qg3 {[%cal Gh3h4,Gf3f4]the line I had in mind} dxc4 20. Bc2 Nd5 21. f4 Nh7 22. e4 Nc7 {[%cal Ga3b4,Gb4c3]}) 19. Bxd6 {[%clk 0:07:32.7] } 1-0
+

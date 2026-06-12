@@ -1,0 +1,13 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Orientation "white"]
+[SetUp "1"]
+[FEN "2kr3r/p1bb2pp/2p5/4pq2/B1N1R3/BPPQ4/P5PP/7K w - - 0 1"]
+
+1. Nd6+ {solution. I completely missed Bb5! with the idea of adding an attacker to the e3 square while threatening mate. } Bxd6  (1... Kb8 {this variation i evaluated correctly, but it relies on black incorrectly responding with Kg1}  2. Qa6 Bc8 3. Rb4+ Bb6 4. Rxb6+ axb6 5. Qxb6+ Ka8 6. Bxc6+ Bb7 7. Qxb7#) 2. Qa6+!  (2. Bxd6?? {this is the follow up that I saw, I didn't even consider the intermediate Qh3, expand candidate moves when multiple forcing options are available. }  Be8! {the only move for black that equalizes/saves him, I correctly evaluated that all the other moves were losing but incorrectly evaluated this was still winning for white. }  (2... Rdf8  )  (2... Rde8  )  (2... Be6  3. Qa6+ Kd7 4. Qxc6# {this I correctly saw. }) 3. Qa6+ Kd7 4. Qxc6+ Ke6 5. Rxe5+ {this is the line that I saw, and evaluated that white must be better. But I completely missed that the bishop is still attacking my queen, due to visualisation fog. } Qxe5 6. Bxe5+ Bxc6) Kc7 3. Qxa7+ Kc8 4. Bb5!! {[%cal Ga7a6,Ga6d6,Ga3d6]} cxb5  (4... Rdf8  5. Qa8+ Kc7 6. Qa5+ Kb7 7. Ba6+ Ka8) 5. Qa6+ Kc7 6. Bxd6# {overall lesson: expand candidate moves at any point in a variation tree when there are multiple forcing options checks captures or threats. Get better at visualisation without fog, will need to do more blindfold games to train this. } 1-0
+

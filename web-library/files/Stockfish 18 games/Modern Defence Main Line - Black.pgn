@@ -1,0 +1,284 @@
+[Event "Stockfish 18 Opening Practice"]
+[Site "Local En Croissant"]
+[Date "2026.06.06"]
+[Round "1"]
+[White "Stockfish 11"]
+[Black "Stockfish 18"]
+[Result "0-1"]
+[Orientation "black"]
+[TimeControl "300ms per generated move"]
+[Opening "Modern Defence"]
+[Variation "Main Line with 4.f4"]
+[LearningSide "Black"]
+[FixedOpening "e4 g6 d4 Bg7 Nc3 d6 f4"]
+[EngineWhite "Stockfish 11 WASM"]
+[EngineBlack "Stockfish 18"]
+[Generator "scripts/generate-stockfish-opening-games.py"]
+[Variety "MultiPV 4, top moves within 45 cp for first 12 generated plies"]
+[Termination "Checkmate"]
+[GeneratedPlies "99"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 Nd7 6. e5 Nh6 7. h4 c5 8. h5 O-O 9. hxg6 hxg6 10. d5 dxe5 11. fxe5 Ng4 12. Qe2 Qb6 13. e6 Ndf6 14. Ne5 Nxe5 15. Qxe5 Nh5 16. Qg5 Bf6 17. Qg4 Qb4 18. Qxb4 cxb4 19. Ne4 fxe6 20. Bc4 b5 21. Bxb5 exd5 22. Bc6 dxe4 23. Bd5+ Rf7 24. Bxa8 Ng3 25. Rh6 Kg7 26. Bd5 Rf8 27. Rh2 g5 28. Bc4 Bg4 29. Bd2 Rc8 30. Bb5 Rxc2 31. Rb1 Bd4 32. Ba4 Rc5 33. Rh3 Rf5 34. Rxg3 Bf2+ 35. Kf1 Bxg3+ 36. Kg1 Bf2+ 37. Kf1 Bc5+ 38. Ke1 Bf2+ 39. Kf1 e3 40. Bd1 Bxd1 41. Rxd1 exd2 42. Ke2 Be1 43. Rb1 Kf6 44. b3 Rc5 45. Rd1 Ke5 46. Rxe1 dxe1=Q+ 47. Kxe1 Ke4 48. Kd2 g4 49. Kd1 Ke3 50. g3 Rc8 51. a3 bxa3 52. b4 a2 53. b5 a1=Q# 0-1
+
+[Event "Stockfish 18 Opening Practice"]
+[Site "Local En Croissant"]
+[Date "2026.06.06"]
+[Round "2"]
+[White "Stockfish 11"]
+[Black "Stockfish 18"]
+[Result "0-1"]
+[Opening "Modern Defence"]
+[Variation "Main Line with 4.f4"]
+[LearningSide "Black"]
+[FixedOpening "e4 g6 d4 Bg7 Nc3 d6 f4"]
+[TimeControl "300ms per generated move"]
+[EngineWhite "Stockfish 11 WASM"]
+[EngineBlack "Stockfish 18"]
+[Generator "scripts/generate-stockfish-opening-games.py"]
+[Variety "MultiPV 4, top moves within 45 cp for first 12 generated plies"]
+[Termination "Checkmate"]
+[GeneratedPlies "61"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. a3 b5 6. Nf3 e6 7. h4 Nd7 8. h5 Nh6 9.
+Rh4 Bb7 10. Be3 f5 11. Ng5 Qe7 12. d5 fxe4 13. g4 e5 14. fxe5 Nxe5 15. Ncxe4
+O-O 16. Be2 Rae8 17. Rh3 gxh5 18. Rxh5 Bc8 19. Bd4 Bxg4 20. Bxe5 Qxe5 21. Bxg4
+Qg3+ 22. Kd2 Qf4+ 23. Kd3 Nxg4 24. Qe1 Ne5+ 25. Kc3 Nf3+ 26. Kb4 Nxe1 27. Rxe1
+Qe5 28. c3 Qxd5 29. Ka5 Qb3 30. Nf6+ Bxf6 31. Kxa6 Ra8+ 32. Kb7 Rab8+ 33. Kxc7
+Qc4+ 34. Kd7 Rfd8# 0-1
+
+[Event "Stockfish 18 Opening Practice"]
+[Site "Local En Croissant"]
+[Date "2026.06.06"]
+[Round "3"]
+[White "Stockfish 11"]
+[Black "Stockfish 18"]
+[Result "0-1"]
+[Opening "Modern Defence"]
+[Variation "Main Line with 4.f4"]
+[LearningSide "Black"]
+[FixedOpening "e4 g6 d4 Bg7 Nc3 d6 f4"]
+[TimeControl "300ms per generated move"]
+[EngineWhite "Stockfish 11 WASM"]
+[EngineBlack "Stockfish 18"]
+[Generator "scripts/generate-stockfish-opening-games.py"]
+[Variety "MultiPV 4, top moves within 45 cp for first 12 generated plies"]
+[Termination "Checkmate"]
+[GeneratedPlies "105"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. e5 dxe5 6. fxe5 c5 7. dxc5 Qxd1+ 8.
+Nxd1 Nd7 9. Nf3 Nxe5 10. Nxe5 Bxe5 11. g3 Be6 12. Bg2 O-O-O 13. Nf2 Bd5 14.
+Bxd5 Rxd5 15. Nd3 Nf6 16. Bd2 Ne4 17. O-O-O Nxd2 18. Rxd2 Bg7 19. Re1 Bh6 20.
+Nf4 Rxd2 21. Kxd2 Rd8+ 22. Kc3 e5 23. Nd3 f5 24. a4 Bg7 25. Kb3 e4 26. Nf4 Be5
+27. Rh1 Bxf4 28. gxf4 Rd2 29. c3 g5 30. fxg5 f4 31. Re1 e3 32. c4 Rxh2 33. Ra1
+e2 34. Kc3 f3 35. Kd3 Rf2 36. Kd2 Rf1 37. Re1 a5 38. c6 bxc6 39. b3 Kc7 40. c5
+Kd7 41. Rxe2 fxe2 42. Kxe2 Rb1 43. Ke3 Rb2 44. Kf4 Ke7 45. Ke4 Ke6 46. b4 Rxb4+
+47. Kf3 Rb3+ 48. Kf2 Kf5 49. Ke1 Rb2 50. Kd1 Kxg5 51. Ke1 h5 52. Kd1 h4 53. Kc1
+Rg2 54. Kb1 h3 55. Ka1 h2 56. Kb1 h1=Q# 0-1
+
+[Event "Stockfish 18 Opening Practice"]
+[Site "Local En Croissant"]
+[Date "2026.06.06"]
+[Round "4"]
+[White "Stockfish 11"]
+[Black "Stockfish 18"]
+[Result "0-1"]
+[Opening "Modern Defence"]
+[Variation "Main Line with 4.f4"]
+[LearningSide "Black"]
+[FixedOpening "e4 g6 d4 Bg7 Nc3 d6 f4"]
+[TimeControl "300ms per generated move"]
+[EngineWhite "Stockfish 11 WASM"]
+[EngineBlack "Stockfish 18"]
+[Generator "scripts/generate-stockfish-opening-games.py"]
+[Variety "MultiPV 4, top moves within 45 cp for first 12 generated plies"]
+[Termination "Checkmate"]
+[GeneratedPlies "143"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. a4 e6 6. Be3 Nc6 7. Be2 b6 8. Nf3 Nf6
+9. e5 Nd5 10. Nxd5 exd5 11. O-O O-O 12. Bf2 f6 13. Bg3 Bf5 14. exd6 Qxd6 15. c3
+Qd7 16. Nd2 Rfe8 17. Bf3 h5 18. Qb3 Ne7 19. a5 b5 20. Qd1 Bd3 21. Re1 Nf5 22.
+Nb3 Be4 23. Nc5 Qc6 24. Bf2 Bxf3 25. Qxf3 Bf8 26. Rad1 Kf7 27. h3 h4 28. Rf1
+Bxc5 29. dxc5 Re4 30. Qd3 Rd8 31. Rfe1 Rde8 32. Rf1 Rd8 33. Rfe1 Rxf4 34. b4
+Rc4 35. Kh2 Rf4 36. Kg1 Qd7 37. Re2 c6 38. Rde1 g5 39. Kh1 Rh8 40. Qd2 Rh6 41.
+Qd3 Rh7 42. Kh2 Rh5 43. Kg1 Rh7 44. Bd4 Rg7 45. Be3 Re4 46. Bf2 Rf4 47. Qd2 Rg6
+48. Be3 Re4 49. Bf2 Rxe2 50. Qxe2 Ng7 51. Kf1 Rh6 52. Bd4 Rh8 53. Qg4 Qxg4 54.
+hxg4 Re8 55. Rxe8 Nxe8 56. g3 h3 57. Kf2 f5 58. gxf5 g4 59. Bh8 Ng7 60. Kg1
+Nxf5 61. Be5 Ke6 62. Bh8 Nxg3 63. Bd4 Ne2+ 64. Kf2 Nxd4 65. cxd4 Kf6 66. Kf1 g3
+67. Kg1 Kf5 68. Kf1 Kf4 69. Kg1 g2 70. Kf2 Ke4 71. Kg1 Ke3 72. Kh2 Kf2 73. Kxh3
+g1=Q 74. Kh4 Qg6 75. Kh3 Qh5# 0-1
+
+[Event "Stockfish 18 Opening Practice"]
+[Site "Local En Croissant"]
+[Date "2026.06.06"]
+[Round "5"]
+[White "Stockfish 11"]
+[Black "Stockfish 18"]
+[Result "0-1"]
+[Opening "Modern Defence"]
+[Variation "Main Line with 4.f4"]
+[LearningSide "Black"]
+[FixedOpening "e4 g6 d4 Bg7 Nc3 d6 f4"]
+[TimeControl "300ms per generated move"]
+[EngineWhite "Stockfish 11 WASM"]
+[EngineBlack "Stockfish 18"]
+[Generator "scripts/generate-stockfish-opening-games.py"]
+[Variety "MultiPV 4, top moves within 45 cp for first 12 generated plies"]
+[Termination "Checkmate"]
+[GeneratedPlies "111"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Nf3 d5 6. e5 Bf8 7. h3 Qb6 8. Bd2 e6
+9. a3 h5 10. a4 a5 11. Bd3 Na6 12. Qe2 Nb4 13. O-O-O h4 14. Be1 Qd8 15. Bf2
+Nxd3+ 16. Rxd3 Be7 17. Qe1 b5 18. Rd1 Ba6 19. b3 Rh5 20. Be3 Nh6 21. Kb2 Nf5
+22. Bd2 Ng3 23. Rh2 b4 24. Na2 c5 25. dxc5 Be2 26. Rc1 d4 27. c6 Qb6 28. Qf2
+Bc5 29. c7 Rc8 30. Nxh4 d3 31. Qxg3 Bf2 32. Qf3 Bxf3 33. Nxf3 Rxc7 34. g4 Rh8
+35. cxd3 Kd7 36. Kb1 Rxc1+ 37. Bxc1 Rc8 38. d4 Bg3 39. Rd2 Bxf4 40. Rf2 Qc6 41.
+Ne1 Qh1 42. Rxf4 Qxe1 43. h4 Ke8 44. d5 Qg3 45. Ka1 Rxc1+ 46. Nxc1 Qxf4 47. Kb2
+Qxe5+ 48. Ka2 Qe4 49. Kb2 Qxd5 50. Kc2 Qg2+ 51. Kb1 Qe4+ 52. Ka1 Qc2 53. Na2
+Qxb3 54. h5 Qc2 55. hxg6 b3 56. gxf7+ Kxf7 57. Nc3 b2+ 58. Ka2 b1=Q+ 59. Ka3
+Qxc3# 0-1
+
+[Event "Stockfish 18 Opening Practice"]
+[Site "Local En Croissant"]
+[Date "2026.06.06"]
+[Round "6"]
+[White "Stockfish 11"]
+[Black "Stockfish 18"]
+[Result "0-1"]
+[Opening "Modern Defence"]
+[Variation "Main Line with 4.f4"]
+[LearningSide "Black"]
+[FixedOpening "e4 g6 d4 Bg7 Nc3 d6 f4"]
+[TimeControl "300ms per generated move"]
+[EngineWhite "Stockfish 11 WASM"]
+[EngineBlack "Stockfish 18"]
+[Generator "scripts/generate-stockfish-opening-games.py"]
+[Variety "MultiPV 4, top moves within 45 cp for first 12 generated plies"]
+[Termination "Checkmate"]
+[GeneratedPlies "155"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 e6 6. Nf3 Nf6 7. Bb5 O-O 8. O-O
+Bd7 9. Be2 Ng4 10. Bc1 Nh6 11. e5 Nb4 12. Ne4 Bc6 13. Neg5 Qd7 14. c4 Bxf3 15.
+Nxf3 Rad8 16. Qb3 c5 17. d5 a5 18. Rd1 Nf5 19. a3 a4 20. Qc3 Na6 21. g4 Nd4 22.
+Nxd4 cxd4 23. Qxd4 Nc5 24. Rb1 b6 25. Qf2 dxe5 26. Be3 exf4 27. Bxf4 Rfe8 28.
+Bf3 e5 29. Bg5 Rc8 30. h3 e4 31. Be2 Re5 32. Bf6 e3 33. Qh4 Bxf6 34. Qxf6 Rce8
+35. Qh4 Ne4 36. Kg2 b5 37. Rd4 Nd2 38. Re1 bxc4 39. Qf6 Rxd5 40. Rxd5 Qxd5+ 41.
+Bf3 Nxf3 42. Qxf3 Re4 43. Kg1 Qd3 44. Re2 Re8 45. Kg2 Re6 46. Kg1 h6 47. Kg2
+Kg7 48. h4 Qd6 49. Kh3 Qd4 50. h5 Qd3 51. Kg2 g5 52. Kg3 c3 53. bxc3 Qxc3 54.
+Qd5 Qc7+ 55. Kg2 Qf4 56. Qf3 Qd6 57. Re1 Qxa3 58. Kh3 Qb2 59. Re2 Qc1 60. Kg3
+a3 61. Kh3 Qb1 62. Qd5 Rf6 63. Qg2 Rf2 64. Rxf2 exf2 65. Qxf2 Qh1+ 66. Kg3 Qh4+
+67. Kg2 Qxf2+ 68. Kxf2 a2 69. Ke1 Kg8 70. Ke2 Kh7 71. Ke3 a1=Q 72. Kd2 Qa5+ 73.
+Kc1 Qc3+ 74. Kd1 Qb2 75. Ke1 Kg7 76. Kf1 Qd2 77. Kg1 Kf6 78. Kh1 Ke5 79. Kg1
+Kf4 80. Kf1 Kf3 81. Kg1 Qg2# 0-1
+
+[Event "Stockfish 18 Opening Practice"]
+[Site "Local En Croissant"]
+[Date "2026.06.06"]
+[Round "7"]
+[White "Stockfish 11"]
+[Black "Stockfish 18"]
+[Result "0-1"]
+[Orientation "black"]
+[TimeControl "300ms per generated move"]
+[Opening "Modern Defence"]
+[Variation "Main Line with 4.f4"]
+[LearningSide "Black"]
+[FixedOpening "e4 g6 d4 Bg7 Nc3 d6 f4"]
+[EngineWhite "Stockfish 11 WASM"]
+[EngineBlack "Stockfish 18"]
+[Generator "scripts/generate-stockfish-opening-games.py"]
+[Variety "MultiPV 4, top moves within 45 cp for first 12 generated plies"]
+[Termination "Checkmate"]
+[GeneratedPlies "159"]
+
+{[%eval +0.33] } 1. e4 {[%eval +0.41] } g6 {[%eval +0.74] } 2. d4 {[%eval +0.70] } Bg7 {[%eval +0.70] } 3. Nc3 {[%eval +0.69] } d6 {[%eval +0.74] } 4. f4 {[%eval +0.63] } a6 {[%eval +0.70] } 5. a3?! {[%eval +0.15] }  (5. Nf3  b5 6. Bd3 Bb7 7. a4 b4 8. Ne2 c5 9. c3 cxd4) e6 {[%eval +0.58] } 6. Qd3 {[%eval +0.38] } b5 {[%eval +0.41] } 7. Be2 {[%eval +0.32] } Ne7 {[%eval +0.45] } 8. h4 {[%eval +0.50] } Nbc6 {[%eval +0.72] } 9. Be3 {[%eval +0.66] } b4 {[%eval +1.00] } 10. axb4 {[%eval +1.01] } Nxb4 {[%eval +1.01] } 11. Qd2 {[%eval +1.00] } h5 {[%eval +1.00] } 12. Nf3 {[%eval +0.92] } a5 {[%eval +1.02] } 13. O-O {[%eval +0.93] } O-O {[%eval +0.94] } 14. Ng5 {[%eval +0.45] } d5 {[%eval +0.44] } 15. e5 {[%eval +0.29] } Nf5 {[%eval +0.23] } 16. Bf2 {[%eval +0.25] } Ba6 {[%eval +0.35] } 17. Bxa6 {[%eval +0.33] } Rxa6 {[%eval +0.29] } 18. Na4 {[%eval +0.25] } Ra8 {[%eval +0.34] } 19. Nc5 {[%eval 0.00] } Re8 {[%eval +0.18] } 20. Nb3?! {[%eval -0.46] }  (20. c3  Nc6 21. g4 hxg4 22. h5 gxh5 23. Kg2 Bf8 24. Rh1 Bxc5) Bf8 {[%eval -0.46] } 21. Rxa5 {[%eval -0.51] } Rxa5 {[%eval -0.51] } 22. Nxa5 {[%eval -0.46] } Qb8 {[%eval -0.45] } 23. Ra1 {[%eval -0.50] } Qb5 {[%eval -0.47] } 24. Nb3 {[%eval -0.52] } Qc4 {[%eval -0.40] } 25. Rc1 {[%eval -0.76] } Ra8 {[%eval -0.79] } 26. Nc5 {[%eval -0.97] } Bxc5 {[%eval -0.91] } 27. b3 {[%eval -1.01] } Qb5 {[%eval -0.99] } 28. dxc5 {[%eval -0.89] } Ra2 {[%eval -0.86] } 29. Nf3 {[%eval -0.99] } Nc6 {[%eval -1.05] } 30. g3 {[%eval -1.30] } Kg7 {[%eval -1.35] } 31. Kg2 {[%eval -1.46] } Qb7 {[%eval -1.37] } 32. Bg1 {[%eval -1.81] } Qa8 {[%eval -1.75] } 33. Kh3 {[%eval -1.84] } Qa3 {[%eval -2.02] } 34. Rb1 {[%eval -2.07] } Nb4 {[%eval -2.08] } 35. Ne1 {[%eval -2.05] } Qa6!? {[%eval -2.13] } 36. Rc1 {[%eval -2.02] } Qa3 {[%eval -1.85] } 37. Rb1 {[%eval -1.89] } Qa6!? {[%eval -1.82] } 38. Rc1!? {[%eval -1.81] } Qf1+ {[%eval -1.74] } 39. Qg2 {[%eval -1.85] } Qb5 {[%eval -1.31] } 40. Qd2 {[%eval -1.69] } Na6 {[%eval -2.03] } 41. Nd3 {[%eval -2.62] } Qxb3 {[%eval -2.64] } 42. cxb3 {[%eval -2.36] } Rxd2 {[%eval -2.57] } 43. Ne1 {[%eval -2.46] } Nb4 {[%eval -2.41] } 44. Rb1 {[%eval -2.45] } Kf8 {[%eval -2.37] } 45. Nf3 {[%eval -2.34] } Ra2 {[%eval -2.30] } 46. Rc1 {[%eval -2.47] } Rb2 {[%eval -2.62] } 47. Nd4?! {[%eval -3.43] }  (47. Ra1  Ke7 48. Ra8 Rxb3 49. Kg2 Nc2 50. Bf2 Rc3 51. Ng5 Nce3+) Nxd4 {[%eval -3.38] } 48. Bxd4 {[%eval -3.29] } Rxb3 {[%eval -3.03] } 49. Rc3? {[%eval -4.88] }  (49. Ra1  Nc6 50. Bf2 Ke8 51. Ra8+ Rb8 52. Ra2 Kd7 53. Kg2 Rb4) Rxc3! {[%eval -4.77] } 50. Bxc3 {[%eval -4.79] } Na6 {[%eval -4.50] } 51. g4 {[%eval -4.69] } Ke7 {[%eval -4.32] } 52. c6 {[%eval -4.83] } Nb8 {[%eval -4.75] } 53. Bb4+ {[%eval -4.78] } Ke8 {[%eval -4.61] } 54. Bc5 {[%eval -4.94] } Nxc6 {[%eval -4.74] } 55. Kg2 {[%eval -4.79] } Kd7 {[%eval -4.43] } 56. gxh5 {[%eval -5.53] } gxh5 {[%eval -5.28] } 57. Kg1 {[%eval -6.13] } Ke8 {[%eval -5.62] } 58. Kf1 {[%eval -6.01] } Ne7 {[%eval -5.35] } 59. Bxe7?! {[%eval -11.55] }  (59. f5  exf5 60. e6 fxe6 61. Ke2 Ng6 62. Kd3 Ne5+ 63. Kd4 Nc6+) Kxe7! {[%eval -10.82] } 60. Kg2 {[%eval -12.97] } Kf8 {[%eval -81.15] } 61. Kf2 {[%eval -18.90] } c6 {[%eval -78.14] } 62. Kf3 {[%eval -13.19] } c5 {[%eval -7.92] } 63. Ke2 {[%eval -10.67] } Ke7 {[%eval -9.09] } 64. Kd2 {[%eval -10.01] } Kf8?! {[%eval -6.72] } 65. Ke2 {[%eval -9.02] } c4 {[%eval -8.28] } 66. Kf3 {[%eval -9.12] } Kg7 {[%eval -9.00] } 67. Ke2 {[%eval #-18] } Kg6 {[%eval #-17] } 68. Ke1 {[%eval #-17] } Kf5 {[%eval #-16] } 69. Kd2 {[%eval #-15] } d4 {[%eval #-15] } 70. Ke2 {[%eval #-14] } Kg4 {[%eval #-15] } 71. Kd1 {[%eval #-15] } c3 {[%eval #-14] } 72. Ke2 {[%eval #-12] } Kxf4 {[%eval #-14] } 73. Kd1 {[%eval #-10] } Ke3 {[%eval #-12] } 74. Kc2 {[%eval #-12] } Ke2 {[%eval #-11] } 75. Kc1 {[%eval #-7] } d3 {[%eval #-6] } 76. Kb1 {[%eval #-6] } Kd1 {[%eval #-7] } 77. Ka2 {[%eval #-7] } c2 {[%eval #-6] } 78. Kb3 {[%eval #-6] } d2!? {[%eval #-5] } 79. Kc3 {[%eval #-5] } c1=Q+ {[%eval #-4] } 80. Kb4 {[%eval #-4] } Ke2 {[%eval #-3] } 81. Kb5 {[%eval #-3] } d1=Q {[%eval #-2] } 82. Kb6 {[%eval #-2] } Qb3+ {[%eval #-1] } 83. Ka5 {[%eval #-1] } Qa1# 0-1
+
+[Event "Stockfish 18 Opening Practice"]
+[Site "Local En Croissant"]
+[Date "2026.06.06"]
+[Round "8"]
+[White "Stockfish 11"]
+[Black "Stockfish 18"]
+[Result "1/2-1/2"]
+[Opening "Modern Defence"]
+[Variation "Main Line with 4.f4"]
+[LearningSide "Black"]
+[FixedOpening "e4 g6 d4 Bg7 Nc3 d6 f4"]
+[TimeControl "300ms per generated move"]
+[EngineWhite "Stockfish 11 WASM"]
+[EngineBlack "Stockfish 18"]
+[Generator "scripts/generate-stockfish-opening-games.py"]
+[Variety "MultiPV 4, top moves within 45 cp for first 12 generated plies"]
+[Termination "Threefold Repetition"]
+[GeneratedPlies "132"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. a4 b6 6. Bc4 e6 7. Nf3 c6 8. f5 exf5
+9. Bg5 Ne7 10. O-O f6 11. Bf4 d5 12. exd5 cxd5 13. Bd3 Nbc6 14. Bd2 Nb4 15. Be2
+Nbc6 16. Na2 O-O 17. b4 Be6 18. Re1 Bf7 19. b5 axb5 20. Bxb5 Na5 21. Bb4 Nc8
+22. Qc1 Nd6 23. Nc3 Qb8 24. Qa3 Rd8 25. Bxd6 Rxd6 26. Rab1 Qc7 27. Bd3 Qd8 28.
+Nb5 Rd7 29. Qb2 Bf8 30. Re2 Nb7 31. Ra1 Kg7 32. Qb3 Na5 33. Qb2 Nc4 34. Qc1 Re7
+35. Rxe7 Qxe7 36. Ne1 Be8 37. g3 f4 38. gxf4 Bxb5 39. axb5 Rxa1 40. Qxa1 Qe3+
+41. Kh1 Qxf4 42. Ng2 Qg4 43. Qf1 Qxd4 44. Nf4 Qe5 45. Bxc4 Qe4+ 46. Qg2 Qxc4
+47. Ne6+ Kf7 48. Nxf8 Kxf8 49. Qf2 Kf7 50. Qxb6 Qf1+ 51. Qg1 Qf3+ 52. Qg2 Qxg2+
+53. Kxg2 Ke6 54. Kf2 Kd6 55. Ke3 Kc5 56. h3 h5 57. b6 Kxb6 58. Kd4 g5 59. Kxd5
+f5 60. Ke5 f4 61. Ke4 h4 62. Kf3 Kb5 63. Ke2 Kb4 64. Ke1 Kc4 65. Ke2 Kc3 66.
+Kf1 Kxc2 67. Ke1 Kc3 68. Kf1 Kc2 69. Kf2 Kb3 70. Kf1 1/2-1/2
+
+[Event "Stockfish 18 Opening Practice"]
+[Site "Local En Croissant"]
+[Date "2026.06.06"]
+[Round "9"]
+[White "Stockfish 11"]
+[Black "Stockfish 18"]
+[Result "0-1"]
+[Opening "Modern Defence"]
+[Variation "Main Line with 4.f4"]
+[LearningSide "Black"]
+[FixedOpening "e4 g6 d4 Bg7 Nc3 d6 f4"]
+[TimeControl "300ms per generated move"]
+[EngineWhite "Stockfish 11 WASM"]
+[EngineBlack "Stockfish 18"]
+[Generator "scripts/generate-stockfish-opening-games.py"]
+[Variety "MultiPV 4, top moves within 45 cp for first 12 generated plies"]
+[Termination "Checkmate"]
+[GeneratedPlies "113"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Be2 b5 6. h4 Nd7 7. e5 h5 8. Qd3 Nh6
+9. a4 b4 10. Nd5 c5 11. Bf3 Rb8 12. e6 fxe6 13. Qxg6+ Kf8 14. Rh3 exd5 15. Rg3
+Ng4 16. Bxg4 hxg4 17. Rxg4 Rg8 18. Rg5 Qe8 19. Qxe8+ Kxe8 20. Nf3 Nf6 21. dxc5
+Ne4 22. Rxd5 Be6 23. Rd3 Nxc5 24. Rd2 Bf6 25. Ng5 Bf5 26. g3 Rc8 27. Rg2 Bg4
+28. Nh7 Bd4 29. Ng5 Bf6 30. Nh7 Ne4 31. Nxf6+ exf6 32. h5 Rh8 33. Rh2 Rxh5 34.
+Rxh5 Bxh5 35. c3 Kd7 36. Bd2 Bf3 37. Be3 bxc3 38. bxc3 Rh8 39. Bg1 Rb8 40. Kf1
+Rb2 41. Bd4 Re2 42. Kg1 Rg2+ 43. Kf1 Nd2+ 44. Ke1 Re2+ 45. Kd1 Nb3 46. Bxf6
+Nxa1 47. Bd4 Rb2+ 48. Ke1 Re2+ 49. Kd1 Rh2+ 50. Ke1 Nc2+ 51. Kf1 Nxd4 52. cxd4
+Rb2 53. f5 Ke7 54. Ke1 Kf6 55. Kf1 Kxf5 56. Kg1 Kg4 57. Kf1 a5 58. Ke1 Kxg3 59.
+d5 Ra2 60. Kf1 Ra1# 0-1
+
+[Event "Stockfish 18 Opening Practice"]
+[Site "Local En Croissant"]
+[Date "2026.06.06"]
+[Round "10"]
+[White "Stockfish 11"]
+[Black "Stockfish 18"]
+[Result "0-1"]
+[Opening "Modern Defence"]
+[Variation "Main Line with 4.f4"]
+[LearningSide "Black"]
+[FixedOpening "e4 g6 d4 Bg7 Nc3 d6 f4"]
+[TimeControl "300ms per generated move"]
+[EngineWhite "Stockfish 11 WASM"]
+[EngineBlack "Stockfish 18"]
+[Generator "scripts/generate-stockfish-opening-games.py"]
+[Variety "MultiPV 4, top moves within 45 cp for first 12 generated plies"]
+[Termination "Checkmate"]
+[GeneratedPlies "103"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c6 6. a3 O-O 7. Bd3 Qb6 8. O-O
+Nh5 9. Na4 Qa5 10. c4 Bg4 11. e5 dxe5 12. fxe5 Qd8 13. Be3 Nd7 14. c5 f6 15.
+Qb3+ e6 16. Bc4 Bxf3 17. Bxe6+ Kh8 18. Rxf3 fxe5 19. Rxf8+ Nxf8 20. d5 Nf4 21.
+Bxf4 exf4 22. Qxb7 f3 23. gxf3 cxd5 24. Bxd5 Qg5+ 25. Kh1 Rd8 26. f4 Qxd5+ 27.
+Qxd5 Rxd5 28. Rc1 Bd4 29. c6 Rd8 30. Nc3 Ne6 31. f5 gxf5 32. Re1 Bxc3 33. Rxe6
+Bxb2 34. Re7 Bd4 35. a4 Rc8 36. Re6 Kg7 37. h4 Bc5 38. Kg2 Bf8 39. Re5 Kf6 40.
+Rb5 Rc7 41. Rb7 Rxb7 42. cxb7 Bd6 43. Kh3 Bb8 44. Kg2 Ke5 45. Kf1 Ke4 46. a5 a6
+47. Ke2 f4 48. Kf1 Ke3 49. Ke1 f3 50. Kd1 f2 51. Kc2 f1=Q 52. h5 Qd3+ 53. Kc1
+Qb3 54. h6 Qa2 55. Kd1 Qd2# 0-1
+

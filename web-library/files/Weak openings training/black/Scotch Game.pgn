@@ -1,0 +1,44 @@
+[Event "Weak Black Repertoire - Scotch Game"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "1"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Scotch Game: Mieses Variation"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Nb6 {Plan gap: They made
+a normal move, but their score here is 33% across 6 games. Study the plans after Nb6. 6 games; Last played
+2026-03-20 (2 months ago); result 33% Deck games: 6; 33% score; study move: Nb6.} *
+
+[Event "Weak Black Repertoire - Scotch Game"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "2"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Scotch Game: Scotch Gambit"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. Ng5 d5 {Plan gap: They made a normal move, but their score here
+is 0% across 3 games. Study the plans after d5. 3 games; Last played 2026-04-02 (43 days ago); result 0%
+Deck games: 3; 0% score; study move: d5.} *
+
+[Event "Weak Black Repertoire - Scotch Game"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "3"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Scotch Game: Scotch Gambit"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. Ng5 d5 6. exd5 Na5 {Plan gap: They made a normal move, but
+their score here is 0% across 3 games. Study the plans after Na5. 3 games; Last played 2026-04-02 (43 days
+ago); result 0% Deck games: 3; 0% score; study move: Na5.} *

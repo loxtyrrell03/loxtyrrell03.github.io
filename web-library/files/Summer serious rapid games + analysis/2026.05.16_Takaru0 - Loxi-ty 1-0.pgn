@@ -1,0 +1,23 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.05.16"]
+[Round "-"]
+[White "Takaru0"]
+[Black "Loxi-ty"]
+[Result "1-0"]
+[WhiteElo "2332"]
+[BlackElo "2291"]
+[Orientation "black"]
+[TimeControl "900+10"]
+[CurrentPosition "r6k/pp2b1p1/2p1p3/3q3B/3P4/1R4PQ/P2B1P1P/6K1 b - - 0 26"]
+[Timezone "UTC"]
+[ECO "E00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Declined-Catalan-Opening...6.Bg2-c6-7.O-O-O-O"]
+[Termination "Takaru0 won by resignation"]
+[StartTime "15:20:37"]
+[EndDate "2026.05.16"]
+[EndTime "15:52:08"]
+[Link "https://www.chess.com/game/live/168794960194"]
+
+1. d4 {[%clk 0:15:09.6] lesson for the game: learn the catalan accepted line! develop first before getting greedy, especially in rapid where finding the perfect defence to get away with a clean pawn is very difficult practically } Nf6 {[%clk 0:15:05.9] } 2. c4 {[%clk 0:15:18.2] } e6 {[%clk 0:15:13.3] } 3. g3 {[%clk 0:15:27.6] } d5 {[%clk 0:15:04.2] } 4. Bg2 {[%clk 0:15:36.4] } Bb4+ {[%clk 0:15:08.3] } 5. Bd2 {[%clk 0:15:18.2] } Be7 {[%clk 0:15:15.9] } 6. Nf3 {[%clk 0:15:20.4] } c6 {[%clk 0:15:20.2] going for the closed catalan, a line which I've studied but practically speakingn this is just pleasant for white and black will be just slightly worse but not losing for a long time - find a better line, accepted catalan or perhaps avoid is by playing the KID} 7. O-O {[%clk 0:14:40] } O-O {[%clk 0:14:46.5] } 8. cxd5?! {[%clk 0:14:13.8] releasing the tension and helping me develop? now we enter a carlsbad structure. } exd5 {[%clk 0:14:40.2] } 9. Nc3 {[%clk 0:14:20.4] } Re8 {[%clk 0:14:32.1] }  (9... Bf5! {the computer just wants the very natural bf5, playing rock solid, not sure why I didn't want to play this move}  ) 10. Ne5 {[%clk 0:14:05.1] hoping for and f4 setup, stonewall-esque. Perhaps better was to go nbd7 rather than getting greedy with the queen and trying to be fancy. Black is already slightly behind in development and moving the queen out to win a pawn gives white some good time to increase that lead. } Qb6?! {[%clk 0:13:14.7] }  (10... Be6!  ) 11. e3 {[%clk 0:13:01.5] } Qxb2 {[%clk 0:12:04] } 12. Rb1 {[%clk 0:13:08.8] } Qa3 {[%clk 0:12:04.2] I think black is slightly better here but only if I can consolidate and develop pieces quickly. } 13. Qc2 {[%clk 0:12:49.8] } Nbd7?! {[%clk 0:10:56.9] I think this was a mistake in hindsight, it allows white to win time with nxd7 and my knight has to undevelop, then white can strike in the centre with a big initiative and my light squared bishop is still stuck defending b7. Perhaps na6 was better? controling the b4 square too. }  (13... Na6  14. Rb3 Qd6 {black consolidates here, in such positions, quick development is crucial without giving your opponent free tempi. }) 14. Nxd7 {[%clk 0:10:32.2] } Nxd7 {[%clk 0:11:02.7] } 15. e4 {[%clk 0:10:38.1] } dxe4 {[%clk 0:10:16.6] } 16. Nxe4 {[%clk 0:10:33.9] [%cal Gd7b6]} Nf6 {[%clk 0:09:53.6] }  (16... Nb6! {blocking the rook from b7 and freeing the light squared bishop, I completely missed this idea. }  ) 17. Rfe1 {[%clk 0:10:24.8] } Nxe4 {[%clk 0:07:11.8] }  (17... Be6! {best was to simply give up the b7 pawn which I did consider, fast development super important - the general rule to not trade and give your opponent free time is what costed me. }  ) 18. Bxe4 {[%clk 0:09:19.8] [%cal Gd2b4]} Be6 {[%clk 0:06:38.8] I thought there were bb4 tactics in the air, so thought it was better to develop and potentially give up my queenside pawns and hope for an equal-ish endgame. }  (18... h6  19. Bh7+ Kh8 20. Bb4!! {This is the tactic I was scared of and stopped calculating at immediately - I thought it was completely lost for black and black loses a queen, but I didn't see the brilliannt follow up: } Bf5!! {now the rook on d1 is defended and black develops with tempo, this will result in equal trades.}) 19. Bxh7+ {[%clk 0:08:03.5] } Kh8 {[%clk 0:06:27.7] } 20. Rxe6!! {[%clk 0:05:40.6] completely missed by me} fxe6 {[%clk 0:06:16.6] } 21. Bg6 {[%clk 0:05:39.8] } Rf8? {[%clk 0:05:10.9] }  (21... Qf3! {giving back the exchange was probably best, which I did consider but thought I could get away with not doing so but completely missed white's in between move cutting my queen off from f3. }  ) 22. Rb3! {[%clk 0:05:44] } Qd6 {[%clk 0:03:43.9] } 23. Qd1 {[%clk 0:05:49.1] } Qd5 {[%clk 0:03:12.3] }  (23... Rf5  24. Qg4 Qd8) 24. Qg4 {[%clk 0:05:31.5] black is just completely lost now. } Rf5 {[%clk 0:01:34.4] } 25. Qh3+ {[%clk 0:05:31.5] } Rh5 {[%clk 0:01:42.3] } 26. Bxh5 {[%clk 0:05:40.3] } 1-0
+
