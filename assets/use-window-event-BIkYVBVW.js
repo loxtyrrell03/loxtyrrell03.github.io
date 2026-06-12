@@ -1,1 +1,0 @@
-import{r as o}from"./chunk-Dv1cbSuN.js";import{d as n}from"./index-DC1OaEXa.js";var a=o(n(),1);function m(r,e,t){(0,a.useEffect)(()=>(window.addEventListener(r,e,t),()=>window.removeEventListener(r,e,t)),[r,e])}export{m as t};
