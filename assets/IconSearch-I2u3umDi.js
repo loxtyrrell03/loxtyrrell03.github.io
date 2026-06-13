@@ -1,1 +1,0 @@
-import{P as a}from"./score-Cl5hg5L8.js";var e=[["path",{d:"M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0",key:"svg-0"}],["path",{d:"M21 21l-6 -6",key:"svg-1"}]],r=a("outline","search","Search",e);export{r as t};

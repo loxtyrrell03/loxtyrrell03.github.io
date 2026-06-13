@@ -1,9 +1,9 @@
 {
   "version": 1,
   "maxPly": 80,
-  "gameCount": 234,
-  "positionCount": 9697,
-  "latestDate": "2026.05.04",
+  "gameCount": 246,
+  "positionCount": 10404,
+  "latestDate": "2026.06.06",
   "shards": [
     "00.json",
     "01.json",
