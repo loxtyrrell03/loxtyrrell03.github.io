@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-13T23:00:30.012Z",
+  "generatedAt": "2026-06-14T14:05:16.321Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -275,8 +275,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Personal/My classical games/chunk-001.pgn",
       "url": "files/Databases/Desktop/Personal/My%20classical%20games/chunk-001.pgn",
-      "lastModified": 1781373723528.132,
-      "sizeBytes": 160717
+      "lastModified": 1781445760996.9907,
+      "sizeBytes": 166130
     },
     {
       "type": "file",
@@ -957,16 +957,6 @@
       "url": "files/My%20classical%20games/0042%202026.05.30%20My%20classical%20games%20-%20Josh%20sharma%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
       "lastModified": 1780771233911.8828,
       "sizeBytes": 4245
-    },
-    {
-      "type": "file",
-      "name": "0043 2026.05.30 My classical games - Lachlan vs Adam Sieczkowski 1 2 My classical games Lachlan vs Adam Sieczkowski 1 2",
-      "filename": "0043 2026.05.30 My classical games - Lachlan vs Adam Sieczkowski 1 2 My classical games Lachlan vs Adam Sieczkowski 1 2.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0043 2026.05.30 My classical games - Lachlan vs Adam Sieczkowski 1 2 My classical games Lachlan vs Adam Sieczkowski 1 2.pgn",
-      "url": "files/My%20classical%20games/0043%202026.05.30%20My%20classical%20games%20-%20Lachlan%20vs%20Adam%20Sieczkowski%201%202%20My%20classical%20games%20Lachlan%20vs%20Adam%20Sieczkowski%201%202.pgn",
-      "lastModified": 1781196999187.623,
-      "sizeBytes": 8578
     },
     {
       "type": "file",
