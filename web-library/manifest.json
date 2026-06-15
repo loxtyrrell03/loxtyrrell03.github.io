@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T17:41:58.665Z",
+  "generatedAt": "2026-06-15T17:55:35.221Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -500,13 +500,23 @@
     },
     {
       "type": "file",
+      "name": "KID against the london system but with Nc6!",
+      "filename": "KID against the london system but with Nc6!.pgn",
+      "extension": "pgn",
+      "path": "General repertoire/Black rep/London system as black/KID against the london system but with Nc6!.pgn",
+      "url": "files/General%20repertoire/Black%20rep/London%20system%20as%20black/KID%20against%20the%20london%20system%20but%20with%20Nc6!.pgn",
+      "lastModified": 1781545971356.9148,
+      "sizeBytes": 273
+    },
+    {
+      "type": "file",
       "name": "King's indian defence against the london system",
       "filename": "King's indian defence against the london system.pgn",
       "extension": "pgn",
       "path": "General repertoire/Black rep/London system as black/King's indian defence against the london system.pgn",
       "url": "files/General%20repertoire/Black%20rep/London%20system%20as%20black/King's%20indian%20defence%20against%20the%20london%20system.pgn",
-      "lastModified": 1780089917147.119,
-      "sizeBytes": 2476
+      "lastModified": 1781545685567.354,
+      "sizeBytes": 2490
     },
     {
       "type": "file",
