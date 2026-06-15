@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-14T14:05:16.321Z",
+  "generatedAt": "2026-06-15T17:34:11.891Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -25,7 +25,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
-      "lastModified": 1781365550654.586,
+      "lastModified": 1781478085630.2422,
       "sizeBytes": 26211805
     },
     {
@@ -35,7 +35,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
-      "lastModified": 1781365550654.586,
+      "lastModified": 1781478085630.2422,
       "sizeBytes": 26213603
     },
     {
@@ -45,8 +45,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
-      "lastModified": 1781365550654.586,
-      "sizeBytes": 3531749
+      "lastModified": 1781478085630.2422,
+      "sizeBytes": 3563677
     },
     {
       "type": "file",
@@ -55,8 +55,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
-      "lastModified": 1781301240872.3538,
-      "sizeBytes": 24244708
+      "lastModified": 1781482441159.5938,
+      "sizeBytes": 24272152
     },
     {
       "type": "file",
@@ -275,8 +275,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Personal/My classical games/chunk-001.pgn",
       "url": "files/Databases/Desktop/Personal/My%20classical%20games/chunk-001.pgn",
-      "lastModified": 1781445760996.9907,
-      "sizeBytes": 166130
+      "lastModified": 1781455278464.609,
+      "sizeBytes": 166146
     },
     {
       "type": "file",
@@ -490,16 +490,6 @@
     },
     {
       "type": "file",
-      "name": "kann sicilian as black",
-      "filename": "kann sicilian as black.pgn",
-      "extension": "pgn",
-      "path": "General repertoire/Black rep/kann sicilian as black.pgn",
-      "url": "files/General%20repertoire/Black%20rep/kann%20sicilian%20as%20black.pgn",
-      "lastModified": 1781391221444.182,
-      "sizeBytes": 259
-    },
-    {
-      "type": "file",
       "name": "c5! against the london",
       "filename": "c5! against the london.pgn",
       "extension": "pgn",
@@ -543,8 +533,8 @@
       "name": "Modern Austrian attack or 3 pawns attack",
       "filename": "Modern Austrian attack or 3 pawns attack.pgn",
       "extension": "pgn",
-      "path": "General repertoire/Black rep/Modern Austrian attack or 3 pawns attack.pgn",
-      "url": "files/General%20repertoire/Black%20rep/Modern%20Austrian%20attack%20or%203%20pawns%20attack.pgn",
+      "path": "General repertoire/Black rep/Pirc and modern/Modern Austrian attack or 3 pawns attack.pgn",
+      "url": "files/General%20repertoire/Black%20rep/Pirc%20and%20modern/Modern%20Austrian%20attack%20or%203%20pawns%20attack.pgn",
       "lastModified": 1779402333983.523,
       "sizeBytes": 2861
     },
@@ -553,10 +543,20 @@
       "name": "Pirc and modern",
       "filename": "Pirc and modern.pgn",
       "extension": "pgn",
-      "path": "General repertoire/Black rep/Pirc and modern.pgn",
-      "url": "files/General%20repertoire/Black%20rep/Pirc%20and%20modern.pgn",
+      "path": "General repertoire/Black rep/Pirc and modern/Pirc and modern.pgn",
+      "url": "files/General%20repertoire/Black%20rep/Pirc%20and%20modern/Pirc%20and%20modern.pgn",
       "lastModified": 1778162159434.877,
       "sizeBytes": 3487
+    },
+    {
+      "type": "file",
+      "name": "kann sicilian as black",
+      "filename": "kann sicilian as black.pgn",
+      "extension": "pgn",
+      "path": "General repertoire/Black rep/sicilian/kann sicilian as black.pgn",
+      "url": "files/General%20repertoire/Black%20rep/sicilian/kann%20sicilian%20as%20black.pgn",
+      "lastModified": 1781391221444.182,
+      "sizeBytes": 259
     },
     {
       "type": "file",
@@ -3387,6 +3387,16 @@
       "url": "files/stoyko%20excercises%20calculation%20book/%2318.pgn",
       "lastModified": 1781388197529.1714,
       "sizeBytes": 1071
+    },
+    {
+      "type": "file",
+      "name": "#19",
+      "filename": "#19.pgn",
+      "extension": "pgn",
+      "path": "stoyko excercises calculation book/#19.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/%2319.pgn",
+      "lastModified": 1781479439144.4807,
+      "sizeBytes": 1486
     },
     {
       "type": "file",

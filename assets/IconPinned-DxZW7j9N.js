@@ -1,1 +1,0 @@
-import{P as e}from"./score-qnxFRL3B.js";var n=[["path",{d:"M9 4v6l-2 4v2h10v-2l-2 -4v-6",key:"svg-0"}],["path",{d:"M12 16l0 5",key:"svg-1"}],["path",{d:"M8 4l8 0",key:"svg-2"}]],a=e("outline","pinned","Pinned",n);export{a as t};
