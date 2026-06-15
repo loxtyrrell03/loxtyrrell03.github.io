@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T18:06:37.245Z",
+  "generatedAt": "2026-06-15T18:19:13.570Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -500,6 +500,16 @@
     },
     {
       "type": "file",
+      "name": "Jobava london as black",
+      "filename": "Jobava london as black.pgn",
+      "extension": "pgn",
+      "path": "General repertoire/Black rep/London system as black/Jobava london as black.pgn",
+      "url": "files/General%20repertoire/Black%20rep/London%20system%20as%20black/Jobava%20london%20as%20black.pgn",
+      "lastModified": 1781547405885.1062,
+      "sizeBytes": 145
+    },
+    {
+      "type": "file",
       "name": "KID against the london system but with Nc6!",
       "filename": "KID against the london system but with Nc6!.pgn",
       "extension": "pgn",
@@ -515,8 +525,8 @@
       "extension": "pgn",
       "path": "General repertoire/Black rep/London system as black/King's indian defence against the london system.pgn",
       "url": "files/General%20repertoire/Black%20rep/London%20system%20as%20black/King's%20indian%20defence%20against%20the%20london%20system.pgn",
-      "lastModified": 1781546664857.4536,
-      "sizeBytes": 2758
+      "lastModified": 1781547360506.523,
+      "sizeBytes": 2759
     },
     {
       "type": "file",
