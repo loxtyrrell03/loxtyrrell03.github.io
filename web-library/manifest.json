@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T18:38:58.536Z",
+  "generatedAt": "2026-06-15T21:26:25.742Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -505,8 +505,8 @@
       "extension": "pgn",
       "path": "General repertoire/Black rep/London system as black/Jobava london as black.pgn",
       "url": "files/General%20repertoire/Black%20rep/London%20system%20as%20black/Jobava%20london%20as%20black.pgn",
-      "lastModified": 1781547405885.1062,
-      "sizeBytes": 145
+      "lastModified": 1781558610701.2058,
+      "sizeBytes": 576
     },
     {
       "type": "file",
