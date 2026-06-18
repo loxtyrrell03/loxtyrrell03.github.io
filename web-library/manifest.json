@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-18T15:13:11.962Z",
+  "generatedAt": "2026-06-18T15:20:56.511Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -495,8 +495,8 @@
       "extension": "pgn",
       "path": "General repertoire/Black rep/e4 e5/evans gambit.pgn",
       "url": "files/General%20repertoire/Black%20rep/e4%20e5/evans%20gambit.pgn",
-      "lastModified": 1781795455116.616,
-      "sizeBytes": 365
+      "lastModified": 1781795915058.7,
+      "sizeBytes": 546
     },
     {
       "type": "file",
