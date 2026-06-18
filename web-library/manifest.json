@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-18T15:02:13.307Z",
+  "generatedAt": "2026-06-18T15:13:11.962Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -495,8 +495,8 @@
       "extension": "pgn",
       "path": "General repertoire/Black rep/e4 e5/evans gambit.pgn",
       "url": "files/General%20repertoire/Black%20rep/e4%20e5/evans%20gambit.pgn",
-      "lastModified": 1781794452919.9624,
-      "sizeBytes": 95
+      "lastModified": 1781795455116.616,
+      "sizeBytes": 365
     },
     {
       "type": "file",
@@ -505,8 +505,8 @@
       "extension": "pgn",
       "path": "General repertoire/Black rep/e4 e5/spanish game with a6.pgn",
       "url": "files/General%20repertoire/Black%20rep/e4%20e5/spanish%20game%20with%20a6.pgn",
-      "lastModified": 1781794805512.167,
-      "sizeBytes": 657
+      "lastModified": 1781795231510.8264,
+      "sizeBytes": 756
     },
     {
       "type": "file",
