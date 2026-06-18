@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-15T22:13:50.619Z",
+  "generatedAt": "2026-06-18T14:46:24.593Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -25,7 +25,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
-      "lastModified": 1781544837149.1194,
+      "lastModified": 1781741470432.9885,
       "sizeBytes": 26211805
     },
     {
@@ -35,7 +35,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
-      "lastModified": 1781544837149.1194,
+      "lastModified": 1781741470432.9885,
       "sizeBytes": 26213603
     },
     {
@@ -45,8 +45,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
-      "lastModified": 1781544837149.1194,
-      "sizeBytes": 3592853
+      "lastModified": 1781741470432.9885,
+      "sizeBytes": 3630101
     },
     {
       "type": "file",
@@ -55,8 +55,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
-      "lastModified": 1781548482475.8826,
-      "sizeBytes": 24288861
+      "lastModified": 1781793602313.212,
+      "sizeBytes": 24314879
     },
     {
       "type": "file",
@@ -3353,8 +3353,8 @@
       "name": "#13",
       "filename": "#13.pgn",
       "extension": "pgn",
-      "path": "stoyko excercises calculation book/#13.pgn",
-      "url": "files/stoyko%20excercises%20calculation%20book/%2313.pgn",
+      "path": "stoyko excercises calculation book/Candidate moves/#13.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/Candidate%20moves/%2313.pgn",
       "lastModified": 1779997782863.6162,
       "sizeBytes": 883
     },
@@ -3363,8 +3363,8 @@
       "name": "#14",
       "filename": "#14.pgn",
       "extension": "pgn",
-      "path": "stoyko excercises calculation book/#14.pgn",
-      "url": "files/stoyko%20excercises%20calculation%20book/%2314.pgn",
+      "path": "stoyko excercises calculation book/Candidate moves/#14.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/Candidate%20moves/%2314.pgn",
       "lastModified": 1780000157587.0547,
       "sizeBytes": 2637
     },
@@ -3373,8 +3373,8 @@
       "name": "#15",
       "filename": "#15.pgn",
       "extension": "pgn",
-      "path": "stoyko excercises calculation book/#15.pgn",
-      "url": "files/stoyko%20excercises%20calculation%20book/%2315.pgn",
+      "path": "stoyko excercises calculation book/Candidate moves/#15.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/Candidate%20moves/%2315.pgn",
       "lastModified": 1780594076093.1223,
       "sizeBytes": 1529
     },
@@ -3383,8 +3383,8 @@
       "name": "#16",
       "filename": "#16.pgn",
       "extension": "pgn",
-      "path": "stoyko excercises calculation book/#16.pgn",
-      "url": "files/stoyko%20excercises%20calculation%20book/%2316.pgn",
+      "path": "stoyko excercises calculation book/Candidate moves/#16.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/Candidate%20moves/%2316.pgn",
       "lastModified": 1780673482510.74,
       "sizeBytes": 3195
     },
@@ -3393,8 +3393,8 @@
       "name": "#17",
       "filename": "#17.pgn",
       "extension": "pgn",
-      "path": "stoyko excercises calculation book/#17.pgn",
-      "url": "files/stoyko%20excercises%20calculation%20book/%2317.pgn",
+      "path": "stoyko excercises calculation book/Candidate moves/#17.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/Candidate%20moves/%2317.pgn",
       "lastModified": 1781125149397.0918,
       "sizeBytes": 3182
     },
@@ -3403,8 +3403,8 @@
       "name": "#18",
       "filename": "#18.pgn",
       "extension": "pgn",
-      "path": "stoyko excercises calculation book/#18.pgn",
-      "url": "files/stoyko%20excercises%20calculation%20book/%2318.pgn",
+      "path": "stoyko excercises calculation book/Candidate moves/#18.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/Candidate%20moves/%2318.pgn",
       "lastModified": 1781388197529.1714,
       "sizeBytes": 1071
     },
@@ -3413,10 +3413,30 @@
       "name": "#19",
       "filename": "#19.pgn",
       "extension": "pgn",
-      "path": "stoyko excercises calculation book/#19.pgn",
-      "url": "files/stoyko%20excercises%20calculation%20book/%2319.pgn",
+      "path": "stoyko excercises calculation book/Candidate moves/#19.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/Candidate%20moves/%2319.pgn",
       "lastModified": 1781479439144.4807,
       "sizeBytes": 1486
+    },
+    {
+      "type": "file",
+      "name": "#20",
+      "filename": "#20.pgn",
+      "extension": "pgn",
+      "path": "stoyko excercises calculation book/Candidate moves/#20.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/Candidate%20moves/%2320.pgn",
+      "lastModified": 1781743168039.106,
+      "sizeBytes": 1428
+    },
+    {
+      "type": "file",
+      "name": "#21",
+      "filename": "#21.pgn",
+      "extension": "pgn",
+      "path": "stoyko excercises calculation book/Candidate moves/#21.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/Candidate%20moves/%2321.pgn",
+      "lastModified": 1781743209048.8242,
+      "sizeBytes": 95
     },
     {
       "type": "file",
