@@ -1,0 +1,62 @@
+[Event "Round 9: Li, Harry - Verbytski, Oleg"]
+[Site "https://lichess.org/broadcast/v-mindsports-international-2025/round-9/YKJCoXfN/eMzGsJzb"]
+[Date "????.??.??"]
+[Round "9.22"]
+[White "Li, Harry"]
+[Black "Verbytski, Oleg"]
+[Result "1-0"]
+[WhiteElo "2242"]
+[WhiteFideId "430145"]
+[BlackElo "2002"]
+[BlackFideId "495506"]
+[Variant "Standard"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+[BroadcastName "V Mindsports International 2025"]
+[BroadcastURL "https://lichess.org/broadcast/v-mindsports-international-2025/round-9/YKJCoXfN"]
+[GameURL "https://lichess.org/broadcast/v-mindsports-international-2025/round-9/YKJCoXfN/eMzGsJzb"]
+
+1. e4 { [%eval 0.18] [%clk 1:30:58] } 1... c5 { [%eval 0.24] [%clk 1:30:57] }
+2. Nf3 { [%eval 0.2] [%clk 1:31:22] } 2... d6 { [%eval 0.31] [%clk 1:31:23] }
+3. d4 { [%eval 0.22] [%clk 1:31:49] } 3... cxd4 { [%eval 0.19] [%clk 1:31:51] }
+4. Nxd4 { [%eval 0.18] [%clk 1:32:15] } 4... Nf6
+{ [%eval 0.31] [%clk 1:32:17] } 5. Nc3 { [%eval 0.32] [%clk 1:32:42] } 5... a6
+{ [%eval 0.25] [%clk 1:32:42] } 6. Bc4 { [%eval 0.03] [%clk 1:32:55] } 6... e6
+{ [%eval 0.06] [%clk 1:32:07] } 7. Be3 { [%eval 0.0] [%clk 1:33:04] } 7... Be7
+{ [%eval 0.14] [%clk 1:30:45] } 8. Bb3 { [%eval 0.17] [%clk 1:33:18] } 8... O-O
+{ [%eval 0.39] [%clk 1:27:10] } 9. f3 { [%eval -0.15] [%clk 1:29:28] } 9... b5
+{ [%eval 0.17] [%clk 1:25:52] } 10. a3 { [%eval 0.26] [%clk 1:29:47] } 10...
+Qc7 { [%eval 0.5] [%clk 1:25:12] } 11. g4 { [%eval 0.37] [%clk 1:29:11] } 11...
+Bb7 { [%eval 0.43] [%clk 1:21:00] } 12. Qd2 { [%eval 0.35] [%clk 1:23:57] }
+12... Nc6 { [%eval 0.53] [%clk 1:20:40] } 13. O-O-O
+{ [%eval 0.41] [%clk 1:23:58] } 13... Nd7 { [%eval 0.53] [%clk 1:19:02] } 14.
+h4 { [%eval 0.39] [%clk 1:20:48] } 14... Nce5 { [%eval 0.43] [%clk 1:11:30] }
+15. Bg5 { [%eval 0.49] [%clk 1:05:40] } 15... Nb6
+{ [%eval 0.47] [%clk 1:09:47] } 16. Qe2 { [%eval 0.28] [%clk 0:57:22] } 16...
+Rac8 { [%eval 0.4] [%clk 1:07:14] } 17. f4 { [%eval 0.3] [%clk 0:53:21] } 17...
+Nec4 { [%eval 0.52] [%clk 1:04:28] } 18. Rh3 { [%eval 0.28] [%clk 0:43:44] }
+18... d5 { [%eval 0.21] [%clk 1:01:39] } 19. Bxe7
+{ [%eval 0.21] [%clk 0:40:32] } 19... Qxe7 { [%eval 0.26] [%clk 1:01:55] } 20.
+g5 $4 { [%eval -1.42] Blunder. Bxc4 was best. [%clk 0:29:13] } 20... b4 $2
+{ [%eval 0.12] Mistake. dxe4 was best. [%clk 0:56:22] } 21. axb4
+{ [%eval 0.06] [%clk 0:29:40] } 21... Qxb4 { [%eval 0.17] [%clk 0:56:50] } 22.
+Na2 { [%eval 0.17] [%clk 0:25:44] } 22... Qc5 { [%eval 0.41] [%clk 0:49:02] }
+23. e5 { [%eval 0.64] [%clk 0:22:02] } 23... a5 { [%eval 1.13] [%clk 0:46:38] }
+24. g6 { [%eval 0.95] [%clk 0:21:56] } 24... h6 { [%eval 0.94] [%clk 0:26:49] }
+25. gxf7+ { [%eval 0.96] [%clk 0:22:12] } 25... Rxf7
+{ [%eval 1.05] [%clk 0:27:06] } 26. c3 $6
+{ [%eval 0.03] Inaccuracy. Rg3 was best. [%clk 0:13:15] } 26... Rxf4 $2
+{ [%eval 1.6] Mistake. Nd7 was best. [%clk 0:21:02] } 27. Rg3 $6
+{ [%eval 0.57] Inaccuracy. Nxe6 was best. [%clk 0:11:06] } 27... Rf7 $6
+{ [%eval 1.38] Inaccuracy. Qe7 was best. [%clk 0:13:53] } 28. Rdg1
+{ [%eval 1.53] [%clk 0:10:32] } 28... Qe7 { [%eval 1.76] [%clk 0:12:32] } 29.
+Bc2 { [%eval 1.82] [%clk 0:09:50] } 29... Nxb2 $4
+{ [%eval 4.98] Blunder. Nd7 was best. [%clk 0:10:22] } 30. Kxb2
+{ [%eval 4.87] [%clk 0:08:45] } 30... Nc4+ { [%eval 5.08] [%clk 0:10:25] } 31.
+Ka1 { [%eval 5.04] [%clk 0:09:13] } 31... Ba6 $6
+{ [%eval 6.51] Inaccuracy. Kf8 was best. [%clk 0:10:41] } 32. Qd3
+{ [%eval 6.03] [%clk 0:07:42] } 32... Qa3 $4
+{ [%eval #5] Checkmate is now unavoidable. Kf8 was best. [%clk 0:10:55] } 33.
+Rxg7+ { [%eval #4] [%clk 0:07:47] } 33... Rxg7 { [%eval #4] [%clk 0:11:12] }
+34. Qh7+ { [%eval #3] [%clk 0:08:13] } 34... Kf8 { [%eval #3] [%clk 0:11:39] }
+35. Qh8+ { [%eval #2] [%clk 0:08:04] } 1-0

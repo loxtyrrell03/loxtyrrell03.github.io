@@ -1,0 +1,28 @@
+[Event "5th 4NCL Online Congress"]
+[Site "Online - https://lichess.org/"]
+[Date "2021.02.21"]
+[Round "5"]
+[White "Duffell, Andrew"]
+[Black "Verbytski, Oleg"]
+[Result "0-1"]
+[Board "8"]
+[ECO "A00"]
+[WhiteElo "1612"]
+[BlackElo "1352"]
+[PlyCount "132"]
+[EventDate "2021.02.19"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[BlackFideId "495506"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 Bg4 8. h3 Bxf3
+9. Qxf3 Nbd7 10. Be2 Qb6 11. O-O Rac8 12. f5 Ne5 13. Qg3 Qb4 14. a3 Qb3 15. Bd1
+Qxc4 16. Be2 Qb3 17. Bd1 Qb6 18. h4 Rfd8 19. fxg6 fxg6 20. h5 Nxh5 21. Bxh5
+gxh5 22. Rf5 Rf8 23. Rxh5 Ng6 24. Ne2 c4+ 25. Be3 Qxb2 26. Re1 a6 27. Nf4 Nxf4
+28. Bxf4 Qf6 29. Rf5 Qd4+ 30. Be3 Qxe4 31. Rxf8+ Rxf8 32. Bh6 Qd4+ 33. Kh2 Rf7
+34. Re3 Kh8 35. Rf3 Rxf3 36. Bxg7+ Qxg7 37. Qxf3 Qe5+ 38. Kh1 Qf6 39. Qg4 c3
+40. Qc8+ Kg7 41. Qg4+ Kf7 42. Qh5+ Kf8 43. Qg4 Qh6+ 44. Kg1 Qe3+ 45. Kh2 Qc5
+46. Qf5+ Ke8 47. Qc2 Qxd5 48. Qxc3 Qe5+ 49. Qxe5 dxe5 50. Kg3 Kd7 51. Kf3 Kd6
+52. Ke4 e6 53. g4 a5 54. g5 b5 55. Kd3 Kd5 56. Kc3 e4 57. Kd2 b4 58. a4 b3 59.
+Kc3 e3 60. Kd3 b2 61. Kc2 e2 62. Kxb2 e1=Q 63. g6 Qd2+ 64. Ka1 Kc4 65. gxh7 Kb3
+66. h8=Q Qd1# 0-1

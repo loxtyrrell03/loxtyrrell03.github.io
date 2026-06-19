@@ -1,0 +1,64 @@
+[Event "ECF English Open Championship 2025"]
+[Site "Kenilworth, Warwickshire, United Kingdom"]
+[Date "2025.07.18"]
+[Round "1.4"]
+[White "Verbytski, Oleg"]
+[Black "Royal, Shreyas"]
+[Result "0-1"]
+[WhiteElo "1998"]
+[WhiteFideId "495506"]
+[BlackElo "2484"]
+[BlackTitle "GM"]
+[BlackFideId "448869"]
+[TimeControl "G90 + 30 Secs/move"]
+[Variant "Standard"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[StudyName "Round 1"]
+[ChapterName "Verbytski, Oleg - Royal, Shreyas"]
+[UTCDate "2025.07.18"]
+[UTCTime "09:21:13"]
+[BroadcastName "ECF English Championship 2025 | Open"]
+[BroadcastURL "https://lichess.org/broadcast/ecf-english-championship-2025--open/round-1/QuX52tMU"]
+[GameURL "https://lichess.org/broadcast/ecf-english-championship-2025--open/round-1/QuX52tMU/6SZy8e3f"]
+
+1. e4 { [%eval 0.18] [%clk 1:30:56] } 1... c6 { [%eval 0.23] [%clk 1:30:52] }
+2. d4 { [%eval 0.24] [%clk 1:31:19] } 2... d5 { [%eval 0.24] [%clk 1:31:17] }
+3. Nc3 { [%eval 0.22] [%clk 1:30:52] } 3... dxe4
+{ [%eval 0.18] [%clk 1:31:41] } 4. Nxe4 { [%eval 0.28] [%clk 1:31:17] } 4...
+Nf6 { [%eval 0.31] [%clk 1:32:08] } 5. Nxf6+ { [%eval 0.29] [%clk 1:31:32] }
+5... exf6 { [%eval 0.22] [%clk 1:32:32] } 6. c3 { [%eval 0.22] [%clk 1:31:58] }
+6... Bd6 { [%eval 0.3] [%clk 1:32:57] } 7. Bd3 { [%eval 0.25] [%clk 1:32:22] }
+7... O-O { [%eval 0.37] [%clk 1:33:17] } 8. Qc2 { [%eval 0.29] [%clk 1:32:49] }
+8... Re8+ { [%eval 0.38] [%clk 1:33:42] } 9. Be3 { [%eval 0.3] [%clk 1:32:47] }
+9... h5 { [%eval 0.35] [%clk 1:31:01] } 10. O-O-O
+{ [%eval 0.08] [%clk 1:33:02] } 10... Nd7 { [%eval 0.37] [%clk 1:29:57] } 11.
+Nf3 { [%eval 0.27] [%clk 1:31:49] } 11... Nf8 { [%eval 0.25] [%clk 1:29:30] }
+12. h3 { [%eval 0.24] [%clk 1:22:02] } 12... Be6
+{ [%eval 0.31] [%clk 1:28:11] } 13. g4 { [%eval 0.0] [%clk 1:18:45] } 13... Bd5
+{ [%eval 0.0] [%clk 1:25:40] } 14. Nh4 { [%eval -0.03] [%clk 1:18:48] } 14...
+Bxh1 { [%eval -0.17] [%clk 1:21:41] } 15. Rxh1 { [%eval -0.23] [%clk 1:19:13] }
+15... Qc7 $6 { [%eval 0.62] Inaccuracy. g5 was best. [%clk 1:15:27] } 16. gxh5
+{ [%eval 0.29] [%clk 1:16:23] } 16... Bf4 $6
+{ [%eval 1.31] Inaccuracy. c5 was best. [%clk 1:10:31] } 17. Nf5 $6
+{ [%eval 0.56] Inaccuracy. Qe2 was best. [%clk 1:15:34] } 17... g6
+{ [%eval 0.53] [%clk 1:07:06] } 18. Rg1 { [%eval 0.5] [%clk 1:13:21] } 18...
+Kh8 { [%eval 0.5] [%clk 1:05:28] } 19. Nh4 $4
+{ [%eval -4.15] Blunder. Qd2 was best. [%clk 1:04:23] } 19... Rxe3
+{ [%eval -3.99] [%clk 1:05:10] } 20. fxe3 { [%eval -3.91] [%clk 1:01:08] }
+20... Bxe3+ { [%eval -4.18] [%clk 1:04:53] } 21. Kb1
+{ [%eval -3.96] [%clk 1:01:35] } 21... Bxg1 { [%eval -4.05] [%clk 1:05:12] }
+22. Qc1 $6 { [%eval -6.15] Inaccuracy. hxg6 was best. [%clk 1:02:03] } 22...
+Qg3 { [%eval -6.05] [%clk 1:05:18] } 23. Nxg6+ { [%eval -6.58] [%clk 1:01:23] }
+23... Nxg6 { [%eval -6.61] [%clk 1:04:39] } 24. Qh6+
+{ [%eval -6.49] [%clk 1:00:34] } 24... Kg8 { [%eval -6.55] [%clk 1:05:08] } 25.
+Bc4 { [%eval -6.51] [%clk 1:00:53] } 25... Nf8 { [%eval -6.55] [%clk 1:04:15] }
+26. Qxf6 { [%eval -6.48] [%clk 1:00:50] } 26... Qg7
+{ [%eval -5.35] [%clk 1:04:40] } 27. Qf4 { [%eval -5.77] [%clk 1:00:41] } 27...
+Re8 { [%eval -5.36] [%clk 1:04:54] } 28. Kc2 { [%eval -6.31] [%clk 1:01:01] }
+28... Qh7+ { [%eval -6.16] [%clk 1:04:27] } 29. Kb3
+{ [%eval -6.15] [%clk 1:01:26] } 29... b5 { [%eval -6.08] [%clk 1:04:33] } 30.
+Qg3+ { [%eval -6.53] [%clk 1:01:26] } 30... Qg7 { [%eval -6.6] [%clk 1:04:55] }
+31. Bxf7+ { [%eval -7.04] [%clk 1:01:48] } 31... Kxf7
+{ [%eval -7.01] [%clk 1:05:20] } 32. Qc7+ { [%eval -7.1] [%clk 1:02:11] } 32...
+Kg8 { [%eval -7.28] [%clk 1:05:41] } 0-1

@@ -1,0 +1,47 @@
+[Event "Uk Chess Challenge Under 8"]
+[Site "Blenheim Palace, United Kingdom"]
+[Date "????.??.??"]
+[Round "7.6"]
+[White "Veselow, Zoe"]
+[Black "Verbytski, Oleg"]
+[Result "0-1"]
+[WhiteElo "0"]
+[BlackElo "1169"]
+[TimeControl "G:25 + 10"]
+[Variant "Standard"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+[StudyName "Round 7"]
+[ChapterName "Veselow, Zoe - Verbytski, Oleg"]
+[BroadcastName "2021 UK Chess Challenge Terafinal Under 8"]
+[BroadcastURL "https://lichess.org/broadcast/2021-uk-chess-challenge-terafinal-under-8/round-7/mdiX2cEP"]
+[GameURL "https://lichess.org/broadcast/2021-uk-chess-challenge-terafinal-under-8/round-7/mdiX2cEP/1yxdFEEf"]
+[BlackFideId "495506"]
+
+1. e4 { [%clk 0:25:16] } 1... c5 { [%clk 0:25:19] } 2. Nf3 { [%clk 0:25:22] }
+2... d6 { [%clk 0:25:28] } 3. Bb5+ { [%clk 0:25:28] } 3... Bd7
+{ [%clk 0:25:36] } 4. Bxd7+ { [%clk 0:25:31] } 4... Qxd7 { [%clk 0:25:43] } 5.
+O-O { [%clk 0:25:33] } 5... Nc6 { [%clk 0:25:48] } 6. c3 { [%clk 0:25:12] }
+6... Nf6 { [%clk 0:25:48] } 7. Qe2 { [%clk 0:25:14] } 7... e6
+{ [%clk 0:25:52] } 8. d4 { [%clk 0:25:18] } 8... cxd4 { [%clk 0:25:59] } 9.
+cxd4 { [%clk 0:25:24] } 9... Be7 { [%clk 0:26:06] } 10. Nc3 { [%clk 0:25:12] }
+10... O-O { [%clk 0:25:28] } 11. h3 { [%clk 0:25:07] } 11... d5
+{ [%clk 0:24:18] } 12. e5 { [%clk 0:24:53] } 12... Ne8 { [%clk 0:24:26] } 13.
+Be3 { [%clk 0:24:55] } 13... Nc7 { [%clk 0:24:04] } 14. Rac1 { [%clk 0:24:30] }
+14... Rac8 { [%clk 0:23:45] } 15. Qd2 { [%clk 0:23:39] } 15... f6
+{ [%clk 0:23:03] } 16. exf6 { [%clk 0:23:34] } 16... Bxf6 { [%clk 0:23:05] }
+17. Bg5 { [%clk 0:21:04] } 17... Bxg5 { [%clk 0:22:17] } 18. Nxg5
+{ [%clk 0:20:43] } 18... Rf5 { [%clk 0:20:08] } 19. Nf3 { [%clk 0:20:34] }
+19... Rcf8 { [%clk 0:20:10] } 20. Rfe1 { [%clk 0:19:36] } 20... Qf7
+{ [%clk 0:16:41] } 21. Rcd1 { [%clk 0:18:46] } 21... a6 { [%clk 0:15:26] } 22.
+Rf1 { [%clk 0:17:50] } 22... Rxf3 { [%clk 0:10:43] } 23. gxf3
+{ [%clk 0:17:35] } 23... Qg6+ { [%clk 0:10:51] } 24. Kh2 { [%clk 0:17:09] }
+24... Rxf3 { [%clk 0:10:58] } 25. Ne2 { [%clk 0:15:01] } 25... Nb5
+{ [%clk 0:10:17] } 26. Ng3 { [%clk 0:09:52] } 26... Nbxd4 { [%clk 0:10:02] }
+27. Qc1 { [%clk 0:09:22] } 27... Nf5 { [%clk 0:07:20] } 28. Nxf5
+{ [%clk 0:06:48] } 28... Qxf5 { [%clk 0:07:26] } 29. Kg1 { [%clk 0:05:54] }
+29... Rxh3 { [%clk 0:06:44] } 30. f3 { [%clk 0:04:40] } 30... Qe5
+{ [%clk 0:06:06] } 31. Qd2 { [%clk 0:04:16] } 31... Nd4 { [%clk 0:05:39] } 32.
+f4 { [%clk 0:03:48] } 32... Qe4 { [%clk 0:05:29] } 33. Qg2 { [%clk 0:02:06] }
+33... Ne2+ { [%clk 0:05:37] } 34. Kf2 { [%clk 0:02:09] } 34... Qe3+
+{ [%clk 0:05:44] } 0-1

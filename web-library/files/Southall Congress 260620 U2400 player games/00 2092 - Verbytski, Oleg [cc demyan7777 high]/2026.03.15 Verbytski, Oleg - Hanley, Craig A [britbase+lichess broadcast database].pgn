@@ -1,0 +1,93 @@
+[Event "Round 9: Verbytski, Oleg - Hanley, Craig A"]
+[Site "https://lichess.org/broadcast/british-rapidplay-championship-2026--boards-1-100/round-9/LCWtyAp1/D4Htxcgc"]
+[Date "2026.03.15"]
+[Round "9.8"]
+[White "Verbytski, Oleg"]
+[Black "Hanley, Craig A"]
+[Result "0-1"]
+[WhiteElo "2118"]
+[WhiteFideId "495506"]
+[BlackElo "2416"]
+[BlackTitle "IM"]
+[BlackFideId "408514"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Venice System"]
+[UTCDate "2026.03.15"]
+[UTCTime "12:27:50"]
+[BroadcastName "British Rapidplay Championship 2026 | Boards 1-100"]
+[BroadcastURL "https://lichess.org/broadcast/british-rapidplay-championship-2026--boards-1-100/round-9/LCWtyAp1"]
+[GameURL "https://lichess.org/broadcast/british-rapidplay-championship-2026--boards-1-100/round-9/LCWtyAp1/D4Htxcgc"]
+
+1. e4 { [%eval 0.18] [%clk 0:15:17] } 1... c5 { [%eval 0.25] [%clk 0:15:18] }
+2. Nf3 { [%eval 0.2] [%clk 0:15:26] } 2... a6 { [%eval 0.47] [%clk 0:15:23] }
+3. c3 { [%eval 0.28] [%clk 0:15:35] } 3... e6 { [%eval 0.39] [%clk 0:15:29] }
+4. d4 { [%eval 0.28] [%clk 0:15:44] } 4... d5 { [%eval 0.26] [%clk 0:15:37] }
+5. e5 { [%eval 0.25] [%clk 0:15:53] } 5... Bd7 { [%eval 0.47] [%clk 0:15:28] }
+6. Bd3 { [%eval 0.39] [%clk 0:16:02] } 6... Bb5 { [%eval 0.86] [%clk 0:15:04] }
+7. Bxb5+ { [%eval 0.78] [%clk 0:16:10] } 7... axb5
+{ [%eval 0.82] [%clk 0:15:13] } 8. dxc5 { [%eval 0.88] [%clk 0:16:19] } 8...
+Bxc5 { [%eval 0.95] [%clk 0:15:21] } 9. b4 { [%eval 0.99] [%clk 0:16:27] } 9...
+Ba7 { [%eval 1.0] [%clk 0:15:26] } 10. Na3 { [%eval 1.0] [%clk 0:16:32] } 10...
+Nc6 { [%eval 1.26] [%clk 0:15:34] } 11. Nxb5 { [%eval 1.18] [%clk 0:16:27] }
+11... Bb8 { [%eval 1.26] [%clk 0:15:42] } 12. Qe2
+{ [%eval 1.09] [%clk 0:16:36] } 12... h6 { [%eval 1.15] [%clk 0:14:46] } 13.
+Nbd4 { [%eval 0.77] [%clk 0:14:30] } 13... Nge7 { [%eval 1.03] [%clk 0:14:48] }
+14. O-O { [%eval 0.75] [%clk 0:14:10] } 14... Qd7
+{ [%eval 0.76] [%clk 0:14:05] } 15. b5 { [%eval 0.37] [%clk 0:13:11] } 15...
+Na5 { [%eval 0.5] [%clk 0:14:03] } 16. Nd2 $6
+{ [%eval -0.46] Inaccuracy. h4 was best. [%clk 0:13:14] } 16... Qc7
+{ [%eval -0.44] [%clk 0:13:17] } 17. Ba3 $2
+{ [%eval -1.58] Mistake. Qd3 was best. [%clk 0:09:46] } 17... Qxc3
+{ [%eval -1.6] [%clk 0:11:40] } 18. Bxe7 { [%eval -1.64] [%clk 0:09:36] } 18...
+Qxd4 { [%eval -1.6] [%clk 0:11:30] } 19. Bd6 { [%eval -1.59] [%clk 0:07:55] }
+19... Bxd6 { [%eval -1.49] [%clk 0:10:48] } 20. exd6
+{ [%eval -1.49] [%clk 0:08:04] } 20... O-O { [%eval -1.52] [%clk 0:10:56] } 21.
+Rac1 { [%eval -1.49] [%clk 0:08:03] } 21... Qf4
+{ [%eval -1.51] [%clk 0:10:19] } 22. d7 { [%eval -1.7] [%clk 0:07:02] } 22...
+Rfd8 { [%eval -1.43] [%clk 0:09:37] } 23. Nf3 $6
+{ [%eval -2.07] Inaccuracy. g3 was best. [%clk 0:06:54] } 23... Nc4
+{ [%eval -1.94] [%clk 0:09:12] } 24. Rfd1 { [%eval -1.98] [%clk 0:07:01] }
+24... Nb6 { [%eval -1.91] [%clk 0:07:47] } 25. Rc3
+{ [%eval -2.24] [%clk 0:05:23] } 25... Nxd7 { [%eval -2.36] [%clk 0:07:33] }
+26. Nd4 { [%eval -2.87] [%clk 0:05:18] } 26... Ne5
+{ [%eval -2.65] [%clk 0:04:10] } 27. Rg3 $6
+{ [%eval -3.39] Inaccuracy. g3 was best. [%clk 0:04:46] } 27... Rac8
+{ [%eval -2.76] [%clk 0:04:02] } 28. h3 { [%eval -2.72] [%clk 0:04:32] } 28...
+Rc4 { [%eval -2.79] [%clk 0:04:00] } 29. Nb3 { [%eval -3.06] [%clk 0:04:15] }
+29... Rdc8 { [%eval -2.82] [%clk 0:03:54] } 30. Re3
+{ [%eval -2.99] [%clk 0:03:16] } 30... Ng6 { [%eval -2.96] [%clk 0:03:34] } 31.
+g3 { [%eval -2.9] [%clk 0:03:14] } 31... Qf5 { [%eval -2.8] [%clk 0:03:16] }
+32. h4 { [%eval -2.72] [%clk 0:02:29] } 32... h5
+{ [%eval -2.8] [%clk 0:03:07] } 33. Nd4 { [%eval -3.25] [%clk 0:02:31] } 33...
+Qg4 { [%eval -3.25] [%clk 0:03:04] } 34. Qxg4 { [%eval -3.15] [%clk 0:02:22] }
+34... hxg4 { [%eval -3.23] [%clk 0:03:13] } 35. Ra3
+{ [%eval -3.58] [%clk 0:02:18] } 35... Ne5 { [%eval -3.71] [%clk 0:03:18] } 36.
+Kg2 { [%eval -3.64] [%clk 0:02:21] } 36... Rb4 { [%eval -3.74] [%clk 0:03:11] }
+37. Rb3 { [%eval -3.63] [%clk 0:01:32] } 37... Rcc4
+{ [%eval -3.84] [%clk 0:03:09] } 38. Rxb4 { [%eval -3.79] [%clk 0:01:33] }
+38... Rxb4 { [%eval -3.66] [%clk 0:03:18] } 39. Rd2
+{ [%eval -4.13] [%clk 0:01:35] } 39... Nc4 { [%eval -3.89] [%clk 0:03:17] } 40.
+Rd3 { [%eval -4.38] [%clk 0:01:40] } 40... Rb2 { [%eval -4.27] [%clk 0:03:10] }
+41. a3 { [%eval -4.3] [%clk 0:00:50] } 41... Ra2
+{ [%eval -3.92] [%clk 0:03:13] } 42. Rb3 { [%eval -4.23] [%clk 0:00:58] } 42...
+Nxa3 { [%eval -4.43] [%clk 0:03:15] } 43. b6 { [%eval -4.35] [%clk 0:00:56] }
+43... Nc4 { [%eval -4.26] [%clk 0:03:23] } 44. Nb5
+{ [%eval -4.75] [%clk 0:01:04] } 44... Ra6 { [%eval -4.63] [%clk 0:02:51] } 45.
+Nc7 { [%eval -5.5] [%clk 0:00:26] } 45... Rxb6 { [%eval -5.44] [%clk 0:02:49] }
+46. Rxb6 { [%eval -5.31] [%clk 0:00:25] } 46... Nxb6
+{ [%eval -4.94] [%clk 0:02:57] } 47. Nb5 { [%eval -5.39] [%clk 0:00:30] } 47...
+Nc4 { [%eval -5.21] [%clk 0:03:06] } 48. Nd4 { [%eval -5.6] [%clk 0:00:37] }
+48... Nd2 { [%eval -5.44] [%clk 0:02:45] } 49. h5
+{ [%eval -6.05] [%clk 0:00:40] } 49... Kh7 { [%eval -5.85] [%clk 0:02:53] } 50.
+Nb5 { [%eval -6.13] [%clk 0:00:47] } 50... b6 { [%eval -5.89] [%clk 0:02:43] }
+51. Nd6 { [%eval -6.38] [%clk 0:00:54] } 51... f6
+{ [%eval -6.08] [%clk 0:02:31] } 52. f3 $6
+{ [%eval -8.39] Inaccuracy. Nb5 was best. [%clk 0:00:57] } 52... gxf3+
+{ [%eval -7.55] [%clk 0:02:36] } 53. Kg1 { [%eval -6.69] [%clk 0:01:00] } 53...
+d4 { [%eval -6.4] [%clk 0:02:40] } 54. Nb5 { [%eval -8.39] [%clk 0:01:07] }
+54... e5 { [%eval -8.11] [%clk 0:02:48] } 55. Kf2
+{ [%eval -6.87] [%clk 0:01:16] } 55... Kh6 { [%eval -6.75] [%clk 0:02:56] } 56.
+g4 { [%eval -6.65] [%clk 0:01:24] } 56... Kg5 { [%eval -6.38] [%clk 0:03:05] }
+57. Nd6 $6 { [%eval -9.68] Inaccuracy. Kg3 was best. [%clk 0:01:17] } 0-1

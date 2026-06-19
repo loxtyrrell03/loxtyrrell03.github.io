@@ -1,0 +1,60 @@
+[Event "Round 4: Verbytski, Oleg - Mokhber-Garcia, Sebastian"]
+[Site "https://lichess.org/broadcast/2025-london-chess-classic--super-rapidplay/round-4/4CdTfhLa/RwfGxBgi"]
+[Date "2025.12.06"]
+[Round "4.14"]
+[White "Verbytski, Oleg"]
+[Black "Mokhber-Garcia, Sebastian"]
+[Result "1-0"]
+[WhiteElo "2172"]
+[WhiteFideId "495506"]
+[BlackElo "1927"]
+[BlackFideId "499269"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[UTCDate "2025.12.06"]
+[UTCTime "16:08:10"]
+[BroadcastName "2025 London Chess Classic | Super Rapidplay"]
+[BroadcastURL "https://lichess.org/broadcast/2025-london-chess-classic--super-rapidplay/round-4/4CdTfhLa"]
+[GameURL "https://lichess.org/broadcast/2025-london-chess-classic--super-rapidplay/round-4/4CdTfhLa/RwfGxBgi"]
+
+1. e4 { [%eval 0.18] [%clk 0:15:19] } 1... e5 { [%eval 0.22] [%clk 0:15:15] }
+2. Nf3 { [%eval 0.18] [%clk 0:15:19] } 2... Nc6 { [%eval 0.21] [%clk 0:15:24] }
+3. Bc4 { [%eval 0.11] [%clk 0:15:25] } 3... Nf6 { [%eval 0.1] [%clk 0:15:33] }
+4. d3 { [%eval 0.09] [%clk 0:15:34] } 4... Bc5 { [%eval 0.1] [%clk 0:15:42] }
+5. c3 { [%eval 0.17] [%clk 0:15:38] } 5... d6 { [%eval 0.18] [%clk 0:15:50] }
+6. O-O { [%eval 0.22] [%clk 0:15:41] } 6... a6 { [%eval 0.14] [%clk 0:15:58] }
+7. a4 { [%eval 0.12] [%clk 0:15:48] } 7... Ba7 { [%eval 0.14] [%clk 0:16:05] }
+8. a5 { [%eval 0.18] [%clk 0:15:51] } 8... h6 { [%eval 0.24] [%clk 0:16:10] }
+9. Re1 { [%eval -0.09] [%clk 0:15:52] } 9... O-O
+{ [%eval 0.13] [%clk 0:16:08] } 10. h3 { [%eval 0.17] [%clk 0:15:49] } 10...
+Kh8 { [%eval 0.17] [%clk 0:16:17] } 11. Be3 { [%eval 0.0] [%clk 0:15:46] }
+11... Bxe3 { [%eval 0.07] [%clk 0:16:14] } 12. Rxe3
+{ [%eval 0.13] [%clk 0:15:51] } 12... Ng8 { [%eval 0.3] [%clk 0:15:57] } 13. d4
+{ [%eval 0.43] [%clk 0:15:25] } 13... Qe7 { [%eval 0.8] [%clk 0:16:03] } 14.
+Qb3 { [%eval 0.73] [%clk 0:14:57] } 14... f5 { [%eval 1.02] [%clk 0:15:54] }
+15. exf5 { [%eval 1.1] [%clk 0:14:24] } 15... Bxf5
+{ [%eval 1.11] [%clk 0:16:00] } 16. dxe5 { [%eval 1.14] [%clk 0:09:46] } 16...
+Nxe5 { [%eval 1.49] [%clk 0:14:55] } 17. Nbd2 { [%eval 1.38] [%clk 0:08:47] }
+17... Qd7 { [%eval 1.73] [%clk 0:13:54] } 18. Nxe5
+{ [%eval 1.74] [%clk 0:08:17] } 18... dxe5 { [%eval 1.71] [%clk 0:14:01] } 19.
+Nf3 { [%eval 1.73] [%clk 0:08:11] } 19... e4 { [%eval 1.41] [%clk 0:14:09] }
+20. Nd4 { [%eval 1.29] [%clk 0:07:10] } 20... Bh7 $2
+{ [%eval 2.89] Mistake. Nf6 was best. [%clk 0:14:17] } 21. Ne6
+{ [%eval 3.04] [%clk 0:05:31] } 21... Rfb8 { [%eval 3.62] [%clk 0:13:27] } 22.
+Rd1 { [%eval 3.44] [%clk 0:05:34] } 22... Qe7 { [%eval 3.41] [%clk 0:13:30] }
+23. Rg3 { [%eval 3.36] [%clk 0:05:29] } 23... g5
+{ [%eval 3.65] [%clk 0:12:50] } 24. h4 { [%eval 3.44] [%clk 0:05:23] } 24...
+Bf5 { [%eval 4.06] [%clk 0:10:14] } 25. hxg5 { [%eval 3.9] [%clk 0:05:31] }
+25... Bxe6 { [%eval 4.8] [%clk 0:10:22] } 26. Bxe6
+{ [%eval 5.07] [%clk 0:05:40] } 26... Rd8 { [%eval 4.76] [%clk 0:10:32] } 27.
+Bxg8 { [%eval 4.55] [%clk 0:04:42] } 27... Rxg8 { [%eval 5.37] [%clk 0:10:27] }
+28. Qxb7 { [%eval 5.27] [%clk 0:04:27] } 28... hxg5 $6
+{ [%eval 7.88] Inaccuracy. e3 was best. [%clk 0:05:28] } 29. Qc6
+{ [%eval 7.83] [%clk 0:04:21] } 29... g4 { [%eval 7.78] [%clk 0:03:17] } 30.
+Rd7 { [%eval 7.31] [%clk 0:02:58] } 30... Qg5 $2
+{ [%eval #8] Checkmate is now unavoidable. Qxd7 was best. [%clk 0:02:56] } 31.
+Rxg4 { [%eval #7] [%clk 0:03:01] } 31... Qc1+ { [%eval #6] [%clk 0:00:22] } 32.
+Kh2 { [%eval #5] [%clk 0:03:10] } 32... Rxg4 { [%eval #3] [%clk 0:00:14] } 33.
+Qf6+ { [%eval #2] [%clk 0:03:12] } 1-0

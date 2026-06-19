@@ -1,0 +1,26 @@
+[Event "1st 4NCL Spring Online Congress"]
+[Site "Online - https://lichess.org/"]
+[Date "2021.03.30"]
+[Round "5"]
+[White "Verbytski, Oleg"]
+[Black "Mitchell, Ian"]
+[Result "0-1"]
+[Board "21"]
+[ECO "A00"]
+[WhiteElo "1336"]
+[BlackElo "1520"]
+[PlyCount "106"]
+[EventDate "2021.02.02"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[WhiteFideId "495506"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. Bd3
+Bxd3 9. Qxd3 e6 10. Be3 Ngf6 11. O-O-O Ng4 12. Rhe1 Bb4 13. c3 Bd6 14. Nf5 Bf8
+15. Qc2 Qa5 16. Bf4 Qxa2 17. Nd6+ Bxd6 18. Bxd6 Qd5 19. Bg3 O-O 20. Rh1 a5 21.
+Qe2 a4 22. Ng5 Ngf6 23. Nf3 a3 24. Kb1 axb2 25. Qxb2 Qf5+ 26. Kc1 Ra7 27. Kd2
+Ne4+ 28. Ke3 Ndf6 29. Ne5 Nd5+ 30. Ke2 Nexc3+ 31. Kd2 Ra2 32. Qxa2 Nxa2 33. Ra1
+Nab4 34. Rhc1 Qe4 35. f3 Qxd4+ 36. Ke2 Qb2+ 37. Ke1 Nc2+ 38. Rxc2 Qxa1+ 39. Kf2
+Qd4+ 40. Ke2 Qe3+ 41. Kf1 Qb3 42. Re2 Nc3 43. Re1 Rd8 44. Kg1 Rd1 45. Kh2 Rxe1
+46. Bxe1 Ne2 47. Bf2 Qb2 48. Ng4 f5 49. Ne3 Qe5+ 50. Kh1 Ng3+ 51. Kg1 f4 52.
+Ng4 Qa1+ 53. Kh2 Qh1# 0-1

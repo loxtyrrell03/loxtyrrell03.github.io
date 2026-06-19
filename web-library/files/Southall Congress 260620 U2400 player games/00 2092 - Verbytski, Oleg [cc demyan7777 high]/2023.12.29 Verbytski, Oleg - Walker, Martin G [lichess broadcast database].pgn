@@ -1,0 +1,59 @@
+[Event "Caplin Hastings Masters 2023"]
+[Site "Horntye Sports Complex, Hastings, United Kingdom"]
+[Date "2023.12.29"]
+[Round "2.27"]
+[White "Verbytski, Oleg"]
+[Black "Walker, Martin G"]
+[Result "1/2-1/2"]
+[WhiteElo "1771"]
+[WhiteFideId "495506"]
+[BlackElo "2090"]
+[BlackTitle "FM"]
+[BlackFideId "410969"]
+[TimeControl "40 moves in 100 mins + 50 mins, 30 sec increment from start."]
+[Variant "Standard"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[StudyName "Round 2"]
+[ChapterName "Verbytski, Oleg - Walker, Martin G"]
+[BroadcastName "Caplin Hastings Masters"]
+[BroadcastURL "https://lichess.org/broadcast/caplin-hastings-masters/round-2/6g7UUqL2"]
+[GameURL "https://lichess.org/broadcast/caplin-hastings-masters/round-2/6g7UUqL2/0BGRaXlt"]
+
+1. e4 { [%eval 0.2] [%clk 1:40:59] } 1... Nf6 { [%eval 0.29] [%clk 1:40:55] }
+2. Nc3 { [%eval 0.0] [%clk 1:41:23] } 2... d5 { [%eval 0.17] [%clk 1:41:20] }
+3. e5 { [%eval 0.0] [%clk 1:41:50] } 3... Nfd7 { [%eval 0.31] [%clk 1:41:45] }
+4. d4 { [%eval 0.0] [%clk 1:42:17] } 4... c5 { [%eval 0.0] [%clk 1:41:49] } 5.
+f4 { [%eval 0.0] [%clk 1:42:41] } 5... cxd4 { [%eval 0.46] [%clk 1:41:56] } 6.
+Nb5 { [%eval 0.42] [%clk 1:43:05] } 6... e6 { [%eval 0.43] [%clk 1:40:59] } 7.
+Nxd4 { [%eval 0.25] [%clk 1:43:25] } 7... Nc6 { [%eval 0.57] [%clk 1:41:16] }
+8. Ngf3 { [%eval 0.41] [%clk 1:43:35] } 8... Qb6
+{ [%eval 0.62] [%clk 1:38:37] } 9. c3 { [%eval 0.45] [%clk 1:43:15] } 9... Be7
+{ [%eval 0.57] [%clk 1:33:57] } 10. Be2 { [%eval 0.46] [%clk 1:43:01] } 10...
+O-O { [%eval 0.45] [%clk 1:32:01] } 11. O-O { [%eval 0.49] [%clk 1:43:09] }
+11... Nc5 { [%eval 0.52] [%clk 1:30:57] } 12. Rb1
+{ [%eval 0.49] [%clk 1:39:59] } 12... Bd7 { [%eval 0.42] [%clk 1:29:40] } 13.
+Be3 { [%eval 0.42] [%clk 1:40:03] } 13... Ne4 { [%eval 0.42] [%clk 1:27:29] }
+14. Bd3 { [%eval 0.54] [%clk 1:38:42] } 14... Rac8
+{ [%eval 0.52] [%clk 1:23:52] } 15. Bxe4 { [%eval 0.07] [%clk 1:38:10] } 15...
+dxe4 { [%eval 0.04] [%clk 1:24:12] } 16. Nd2 { [%eval 0.21] [%clk 1:38:27] }
+16... Nxd4 { [%eval 0.14] [%clk 1:20:10] } 17. Bxd4
+{ [%eval 0.04] [%clk 1:38:41] } 17... Qa6 { [%eval 0.05] [%clk 1:18:46] } 18.
+Nxe4 { [%eval 0.18] [%clk 1:35:37] } 18... Bc6 { [%eval 0.11] [%clk 1:07:09] }
+19. Nf6+ { [%eval 0.2] [%clk 1:30:51] } 19... Kh8
+{ [%eval 0.1] [%clk 0:58:53] } 20. Nh5 { [%eval -0.01] [%clk 1:30:29] } 20...
+Qxa2 { [%eval 0.0] [%clk 0:56:21] } 21. Qg4 { [%eval -0.47] [%clk 1:29:35] }
+21... Rg8 { [%eval -0.55] [%clk 0:56:02] } 22. Qh3
+{ [%eval -1.1] [%clk 1:19:18] } 22... Be4 $6
+{ [%eval -0.37] Inaccuracy. g6 was best. [%clk 0:42:30] } 23. Rbe1
+{ [%eval -0.47] [%clk 1:18:09] } 23... Bg6 { [%eval 0.0] [%clk 0:27:24] } 24.
+Rf2 { [%eval 0.01] [%clk 1:17:33] } 24... Bxh5 { [%eval -0.19] [%clk 0:19:04] }
+25. Qxh5 { [%eval -0.2] [%clk 1:17:56] } 25... g6
+{ [%eval -0.14] [%clk 0:19:30] } 26. Qf3 { [%eval -0.13] [%clk 1:14:09] } 26...
+Qa6 { [%eval 0.01] [%clk 0:18:54] } 27. Rd1 { [%eval 0.0] [%clk 1:12:54] }
+27... Rgd8 { [%eval 0.13] [%clk 0:19:11] } 28. h3
+{ [%eval 0.13] [%clk 1:06:14] } 28... Rd5 { [%eval 0.22] [%clk 0:16:41] } 29.
+Rfd2 { [%eval 0.04] [%clk 1:03:18] } 29... Rcd8
+{ [%eval -0.15] [%clk 0:15:46] } 30. Qf2 { [%eval 0.01] [%clk 1:03:19] } 30...
+Qa4 { [%eval -0.09] [%clk 0:15:12] } 31. Kh2 { [%eval -0.08] [%clk 1:02:18] }
+31... a6 { [%eval 0.06] [%clk 0:06:55] } 1/2-1/2

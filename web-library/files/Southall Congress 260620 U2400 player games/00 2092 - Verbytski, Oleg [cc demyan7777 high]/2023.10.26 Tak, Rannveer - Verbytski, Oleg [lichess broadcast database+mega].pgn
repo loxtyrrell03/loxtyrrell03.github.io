@@ -1,0 +1,74 @@
+[Event "WCCC 2023 - Open U10"]
+[Site "Sharm El Sheikh, Egypt"]
+[Date "2023.10.26"]
+[Round "11.12"]
+[White "Tak, Rannveer"]
+[Black "Verbytski, Oleg"]
+[Result "0-1"]
+[WhiteElo "1515"]
+[WhiteFideId "14346613"]
+[BlackElo "1878"]
+[BlackFideId "495506"]
+[TimeControl "1:30:00 +30"]
+[Variant "Standard"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Korchnoi Defense"]
+[StudyName "Round 11"]
+[ChapterName "Tak, Rannveer - Verbytski, Oleg"]
+[BroadcastName "FIDE World Cadets Chess Championships 2023 | Open u10"]
+[BroadcastURL "https://lichess.org/broadcast/fide-world-cadets-chess-championships-2023--open-u10/round-11/tQQRWYu4"]
+[GameURL "https://lichess.org/broadcast/fide-world-cadets-chess-championships-2023--open-u10/round-11/tQQRWYu4/Bjm65TR1"]
+
+1. e4 { [%eval 0.36] [%clk 1:30:58] } 1... c5 { [%eval 0.32] [%clk 1:30:55] }
+2. Nc3 { [%eval 0.24] [%clk 1:31:12] } 2... e6 { [%eval 0.45] [%clk 1:31:19] }
+3. g3 { [%eval 0.0] [%clk 1:31:36] } 3... d5 { [%eval 0.0] [%clk 1:31:45] } 4.
+Bg2 { [%eval -0.2] [%clk 1:31:59] } 4... d4 { [%eval -0.32] [%clk 1:32:10] } 5.
+Nce2 { [%eval -0.37] [%clk 1:32:25] } 5... Be7 { [%eval -0.22] [%clk 1:32:32] }
+6. d3 { [%eval -0.22] [%clk 1:32:50] } 6... Nc6
+{ [%eval -0.25] [%clk 1:32:51] } 7. f4 { [%eval -0.31] [%clk 1:33:16] } 7... f5
+{ [%eval -0.29] [%clk 1:33:17] } 8. e5 { [%eval -0.32] [%clk 1:32:20] } 8...
+Nh6 $6 { [%eval 0.48] Inaccuracy. Qd7 was best. [%clk 1:33:39] } 9. Nf3 $6
+{ [%eval -0.36] Inaccuracy. Bxc6+ was best. [%clk 1:31:45] } 9... O-O
+{ [%eval -0.39] [%clk 1:33:35] } 10. O-O { [%eval -0.34] [%clk 1:31:35] } 10...
+Qd7 { [%eval -0.39] [%clk 1:32:06] } 11. c3 { [%eval -0.34] [%clk 1:22:26] }
+11... dxc3 { [%eval -0.31] [%clk 1:27:47] } 12. bxc3
+{ [%eval -0.31] [%clk 1:22:35] } 12... b6 { [%eval -0.3] [%clk 1:27:28] } 13.
+d4 { [%eval -0.52] [%clk 1:22:16] } 13... Bb7 { [%eval -0.43] [%clk 1:26:54] }
+14. Ba3 { [%eval -0.93] [%clk 1:02:01] } 14... c4 $6
+{ [%eval 0.11] Inaccuracy. Rfd8 was best. [%clk 1:20:46] } 15. Bxe7 $6
+{ [%eval -0.6] Inaccuracy. Bc1 was best. [%clk 1:01:47] } 15... Nxe7
+{ [%eval -0.6] [%clk 1:21:07] } 16. Qd2 { [%eval -0.75] [%clk 1:00:36] } 16...
+Nd5 { [%eval -0.53] [%clk 1:19:15] } 17. h3 { [%eval -0.72] [%clk 1:00:29] }
+17... b5 { [%eval -0.73] [%clk 1:17:28] } 18. a3
+{ [%eval -0.75] [%clk 1:00:14] } 18... a5 { [%eval -0.79] [%clk 1:16:32] } 19.
+Rab1 { [%eval -0.85] [%clk 0:55:11] } 19... Rfc8
+{ [%eval -0.99] [%clk 1:13:54] } 20. Rfc1 { [%eval -0.88] [%clk 0:54:14] }
+20... Ba6 $6 { [%eval -0.1] Inaccuracy. Rab8 was best. [%clk 1:10:54] } 21. Ng5
+$6 { [%eval -0.71] Inaccuracy. Ne1 was best. [%clk 0:51:37] } 21... Rab8
+{ [%eval -0.75] [%clk 1:06:54] } 22. Kh2 { [%eval -0.71] [%clk 0:46:03] } 22...
+Qe7 $4 { [%eval 0.96] Blunder. Bb7 was best. [%clk 1:00:15] } 23. Bxd5
+{ [%eval 0.91] [%clk 0:44:49] } 23... exd5 { [%eval 0.88] [%clk 1:00:39] } 24.
+Ra1 { [%eval 0.74] [%clk 0:44:32] } 24... Nf7 { [%eval 1.0] [%clk 1:00:17] }
+25. Nxf7 { [%eval 0.57] [%clk 0:44:38] } 25... Kxf7 $6
+{ [%eval 1.55] Inaccuracy. Qxf7 was best. [%clk 0:59:47] } 26. Ng1 $6
+{ [%eval 0.72] Inaccuracy. g4 was best. [%clk 0:44:15] } 26... Rh8
+{ [%eval 0.97] [%clk 0:54:49] } 27. Nf3 { [%eval 0.87] [%clk 0:44:29] } 27...
+h6 $6 { [%eval 1.57] Inaccuracy. Rhf8 was best. [%clk 0:55:13] } 28. Re1
+{ [%eval 1.65] [%clk 0:44:49] } 28... Qe6 $6
+{ [%eval 2.48] Inaccuracy. Bc8 was best. [%clk 0:53:12] } 29. Reb1 $6
+{ [%eval 1.37] Inaccuracy. Nh4 was best. [%clk 0:30:11] } 29... g6
+{ [%eval 1.63] [%clk 0:45:08] } 30. a4 $6
+{ [%eval 0.65] Inaccuracy. Nh4 was best. [%clk 0:30:08] } 30... bxa4
+{ [%eval 0.76] [%clk 0:45:31] } 31. Rxb8 { [%eval 0.32] [%clk 0:27:28] } 31...
+Rxb8 { [%eval 0.24] [%clk 0:44:01] } 32. Rxa4 { [%eval 0.23] [%clk 0:27:42] }
+32... Qb6 { [%eval 0.18] [%clk 0:44:27] } 33. Qa2
+{ [%eval 0.0] [%clk 0:25:31] } 33... Qb2+ { [%eval 0.18] [%clk 0:44:47] } 34.
+Qxb2 { [%eval 0.14] [%clk 0:24:06] } 34... Rxb2+
+{ [%eval 0.26] [%clk 0:44:03] } 35. Kg1 { [%eval 0.39] [%clk 0:23:35] } 35...
+Rb5 { [%eval 0.25] [%clk 0:44:15] } 36. Nd2 { [%eval 0.11] [%clk 0:22:47] }
+36... Bc8 { [%eval 0.15] [%clk 0:42:19] } 37. Nf3 $4
+{ [%eval -1.92] Blunder. Kf2 was best. [%clk 0:07:59] } 37... Bd7
+{ [%eval -1.88] [%clk 0:42:04] } 38. Ra2 { [%eval -2.15] [%clk 0:05:38] } 38...
+a4 { [%eval -2.11] [%clk 0:39:19] } 39. Nd2 { [%eval -2.43] [%clk 0:05:13] }
+39... Rb3 { [%eval -2.17] [%clk 0:39:43] } 40. Rc2
+{ [%eval -1.96] [%clk 0:01:05] } 40... a3 { [%eval -2.17] [%clk 0:34:45] } 0-1

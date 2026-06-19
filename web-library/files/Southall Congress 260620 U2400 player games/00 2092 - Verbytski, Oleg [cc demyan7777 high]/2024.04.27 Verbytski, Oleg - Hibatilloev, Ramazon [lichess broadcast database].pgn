@@ -1,0 +1,41 @@
+[Event "Round 10: Verbytski, Oleg - Hibatilloev, Ramazon"]
+[Site "?"]
+[Date "2024.04.27"]
+[Round "?"]
+[White "Verbytski, Oleg"]
+[Black "Hibatilloev, Ramazon"]
+[Result "1-0"]
+[WhiteElo "2051"]
+[WhiteFideId "495506"]
+[BlackElo "1572"]
+[BlackFideId "14229978"]
+[Variant "Standard"]
+[ECO "B35"]
+[Opening "Sicilian Defense: Accelerated Dragon, Modern Bc4 Variation"]
+[StudyName "Round 10"]
+[ChapterName "Verbytski, Oleg - Hibatilloev, Ramazon"]
+[UTCDate "2024.04.27"]
+[UTCTime "14:57:10"]
+[BroadcastName "FIDE World Cadet Rapid Championships 2024 | U12"]
+[BroadcastURL "https://lichess.org/broadcast/fide-world-cadet-rapid-championships-2024--u12/round-10/s8qqfpvP"]
+[GameURL "https://lichess.org/broadcast/fide-world-cadet-rapid-championships-2024--u12/round-10/s8qqfpvP/cQwtJ6ej"]
+
+1. e4 { [%eval 0.16] [%clk 0:15:09] } 1... c5 { [%eval 0.34] [%clk 0:15:09] }
+2. Nf3 { [%eval 0.23] [%clk 0:15:13] } 2... Nc6 { [%eval 0.42] [%clk 0:15:12] }
+3. d4 { [%eval 0.31] [%clk 0:15:16] } 3... cxd4 { [%eval 0.23] [%clk 0:15:17] }
+4. Nxd4 { [%eval 0.3] [%clk 0:15:20] } 4... g6 { [%eval 0.39] [%clk 0:15:21] }
+5. Nc3 { [%eval 0.39] [%clk 0:15:23] } 5... Bg7 { [%eval 0.24] [%clk 0:15:26] }
+6. Be3 { [%eval 0.3] [%clk 0:15:24] } 6... Nf6 { [%eval 0.24] [%clk 0:15:30] }
+7. Bc4 { [%eval 0.2] [%clk 0:15:23] } 7... O-O { [%eval 0.16] [%clk 0:15:34] }
+8. f3 { [%eval -0.1] [%clk 0:15:26] } 8... Qb6 { [%eval -0.12] [%clk 0:15:39] }
+9. Qd2 $2 { [%eval -1.28] Mistake. Bb3 was best. [%clk 0:13:05] } 9... Nxe4
+{ [%eval -1.2] [%clk 0:15:39] } 10. Nxc6 { [%eval -1.02] [%clk 0:13:06] } 10...
+Nxd2 { [%eval -0.98] [%clk 0:15:19] } 11. Nxe7+
+{ [%eval -0.96] [%clk 0:12:59] } 11... Kh8 { [%eval -0.85] [%clk 0:15:23] } 12.
+Bxb6 { [%eval -0.93] [%clk 0:13:02] } 12... Nxc4
+{ [%eval -0.95] [%clk 0:15:15] } 13. Bf2 { [%eval -1.21] [%clk 0:11:57] } 13...
+Re8 $6 { [%eval -0.25] Inaccuracy. Nxb2 was best. [%clk 0:15:14] } 14. Nd5
+{ [%eval -0.12] [%clk 0:12:01] } 14... Bxb2 { [%eval -0.07] [%clk 0:13:35] }
+15. Rb1 { [%eval 0.03] [%clk 0:11:19] } 15... Ba3 $4
+{ [%eval #3] Checkmate is now unavoidable. Kg7 was best. [%clk 0:13:30] } 16.
+Bd4+ { [%eval #2] [%clk 0:11:22] } 1-0

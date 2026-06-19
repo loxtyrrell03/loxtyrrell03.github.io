@@ -1,0 +1,47 @@
+[Event "2025 FIDE World Rapid Team Championschip matches 11-18"]
+[Site "London, United Kingdom"]
+[Date "2025.06.11"]
+[Round "1.21"]
+[White "Verbytski, Oleg"]
+[Black "Cuenca Jimenez, Jose Fernando"]
+[Result "0-1"]
+[WhiteElo "2090"]
+[WhiteTeam "Chess Trust Accelerators"]
+[WhiteFideId "495506"]
+[BlackElo "2459"]
+[BlackTitle "GM"]
+[BlackTeam "Duobeniajan Costa Calida ESJ"]
+[BlackFideId "2255570"]
+[TimeControl "15' + 10'"]
+[Variant "Standard"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+[StudyName "Round 1"]
+[ChapterName "Verbytski, Oleg - Cuenca Jimenez, Jose Fernando"]
+[UTCDate "2025.06.11"]
+[UTCTime "13:14:23"]
+[BroadcastName "FIDE World Rapid & Blitz Team Championships 2025 | Rapid (Matches 11-20)"]
+[BroadcastURL "https://lichess.org/broadcast/fide-world-rapid--blitz-team-championships-2025--rapid-matches-11-20/round-1/MPH8rCrQ"]
+[GameURL "https://lichess.org/broadcast/fide-world-rapid--blitz-team-championships-2025--rapid-matches-11-20/round-1/MPH8rCrQ/g3VrwkT6"]
+
+1. e4 { [%eval 0.18] [%clk 0:15:18] } 1... c5 { [%eval 0.25] [%clk 0:15:18] }
+2. Nf3 { [%eval 0.2] [%clk 0:15:27] } 2... Nc6 { [%eval 0.25] [%clk 0:15:26] }
+3. d4 { [%eval 0.27] [%clk 0:15:36] } 3... cxd4 { [%eval 0.27] [%clk 0:15:34] }
+4. Nxd4 { [%eval 0.21] [%clk 0:15:44] } 4... e5 { [%eval 0.42] [%clk 0:15:43] }
+5. Nb5 { [%eval 0.35] [%clk 0:15:53] } 5... d6 { [%eval 0.37] [%clk 0:15:52] }
+6. N1c3 { [%eval 0.25] [%clk 0:15:57] } 6... a6 { [%eval 0.38] [%clk 0:16:00] }
+7. Na3 { [%eval 0.3] [%clk 0:16:06] } 7... Be7 { [%eval 0.26] [%clk 0:16:08] }
+8. Nd5 { [%eval 0.22] [%clk 0:16:02] } 8... Nf6 { [%eval 0.22] [%clk 0:16:16] }
+9. Be3 { [%eval -0.14] [%clk 0:16:06] } 9... Nxd5
+{ [%eval -0.1] [%clk 0:14:10] } 10. exd5 { [%eval -0.07] [%clk 0:16:12] } 10...
+Nd4 { [%eval -0.08] [%clk 0:14:07] } 11. Bxd4 { [%eval -0.29] [%clk 0:15:55] }
+11... exd4 { [%eval -0.27] [%clk 0:14:15] } 12. Qxd4
+{ [%eval -0.66] [%clk 0:15:58] } 12... O-O { [%eval -0.8] [%clk 0:14:14] } 13.
+Be2 $6 { [%eval -1.44] Inaccuracy. O-O-O was best. [%clk 0:12:23] } 13... Bf6
+{ [%eval -1.35] [%clk 0:13:19] } 14. Qb4 { [%eval -1.54] [%clk 0:11:09] } 14...
+Re8 { [%eval -1.39] [%clk 0:10:01] } 15. c3 $4
+{ [%eval -4.14] Blunder. Nc4 was best. [%clk 0:08:51] } 15... Qe7
+{ [%eval -4.35] [%clk 0:09:18] } 16. Qc4 { [%eval -4.68] [%clk 0:08:42] } 16...
+Bf5 { [%eval -4.64] [%clk 0:09:16] } 17. Kf1 $6
+{ [%eval -5.94] Inaccuracy. O-O was best. [%clk 0:04:05] } 17... Rac8
+{ [%eval -5.71] [%clk 0:08:43] } 0-1

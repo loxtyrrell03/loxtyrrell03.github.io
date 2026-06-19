@@ -1,0 +1,23 @@
+[Event "1st 4NCL Spring Online Congress"]
+[Site "Online - https://lichess.org/"]
+[Date "2021.02.16"]
+[Round "2"]
+[White "O'sullivan, Christopher"]
+[Black "Verbytski, Oleg"]
+[Result "1-0"]
+[Board "8"]
+[ECO "A00"]
+[WhiteElo "1579"]
+[BlackElo "1336"]
+[PlyCount "67"]
+[EventDate "2021.02.02"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[BlackFideId "495506"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 Nf6 4. e4 d6 5. Be2 O-O 6. Be3 e5 7. d5 a5 8. g4 Na6
+9. g5 Nd7 10. h4 Ndc5 11. h5 Qe7 12. hxg6 fxg6 13. Nf3 Bg4 14. Rg1 Bxf3 15.
+Bxf3 Nb4 16. Be2 b6 17. a3 Nba6 18. Qc2 Qf7 19. O-O-O Qd7 20. Rg3 c6 21. Rh1
+cxd5 22. Nxd5 Rab8 23. Bg4 Qa7 24. f3 Bh8 25. Rgh3 Rf7 26. Qh2 Re8 27. Rh6 Qb7
+28. Rxg6+ Kf8 29. Qh6+ Bg7 30. Qxh7 Nb3+ 31. Kb1 Rc7 32. Be6 Rf7 33. Qh8+ Bxh8
+34. Rxh8# 1-0
