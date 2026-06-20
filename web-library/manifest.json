@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-19T23:52:13.927Z",
+  "generatedAt": "2026-06-20T10:47:53.501Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -112,8 +112,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Georgiev, Ivan/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Georgiev%2C%20Ivan/chunk-001.pgn",
-      "lastModified": 1781126808147.7048,
-      "sizeBytes": 28625
+      "lastModified": 1781913286758.7354,
+      "sizeBytes": 73035
     },
     {
       "type": "file",
@@ -1294,16 +1294,6 @@
       "url": "files/My%20classical%20games/My%20classical%20games%200029%202026.04.20%20Me%20-%20Me.pgn",
       "lastModified": 1780636300262.843,
       "sizeBytes": 3794
-    },
-    {
-      "type": "file",
-      "name": "Oleg white prep",
-      "filename": "Oleg white prep.pgn",
-      "extension": "pgn",
-      "path": "Oleg white prep.pgn",
-      "url": "files/Oleg%20white%20prep.pgn",
-      "lastModified": 1781911453537.792,
-      "sizeBytes": 201
     },
     {
       "type": "file",
@@ -11477,6 +11467,16 @@
     },
     {
       "type": "file",
+      "name": "Oleg white prep",
+      "filename": "Oleg white prep.pgn",
+      "extension": "pgn",
+      "path": "Southall Congress 260620 U2400 player games/00 2092 - Verbytski, Oleg [cc demyan7777 high]/Oleg white prep.pgn",
+      "url": "files/Southall%20Congress%20260620%20U2400%20player%20games/00%202092%20-%20Verbytski%2C%20Oleg%20%5Bcc%20demyan7777%20high%5D/Oleg%20white%20prep.pgn",
+      "lastModified": 1781911453537.792,
+      "sizeBytes": 201
+    },
+    {
+      "type": "file",
       "name": "1996. . Bloch, Michael - Figeac, Aurelien [mega]",
       "filename": "1996. . Bloch, Michael - Figeac, Aurelien [mega].pgn",
       "extension": "pgn",
@@ -19224,6 +19224,16 @@
       "url": "files/stoyko%20excercises%20calculation%20book/Candidate%20moves/%2321.pgn",
       "lastModified": 1781743209048.8242,
       "sizeBytes": 95
+    },
+    {
+      "type": "file",
+      "name": "#2",
+      "filename": "#2.pgn",
+      "extension": "pgn",
+      "path": "stoyko excercises calculation book/Comparison/#2.pgn",
+      "url": "files/stoyko%20excercises%20calculation%20book/Comparison/%232.pgn",
+      "lastModified": 1781915655056.8035,
+      "sizeBytes": 3422
     },
     {
       "type": "file",
