@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-21T16:08:25.770Z",
+  "generatedAt": "2026-06-21T16:15:55.056Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -163,8 +163,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Poderico, Francesco/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Poderico%2C%20Francesco/chunk-001.pgn",
-      "lastModified": 1781136921804.094,
-      "sizeBytes": 99482
+      "lastModified": 1782058193387.5232,
+      "sizeBytes": 143892
     },
     {
       "type": "file",
@@ -13053,8 +13053,8 @@
       "extension": "pgn",
       "path": "Southall Congress 260620 U2400 player games/02 2004 - Onuoha, Obioma [cc obiosky high]/obioma black.pgn",
       "url": "files/Southall%20Congress%20260620%20U2400%20player%20games/02%202004%20-%20Onuoha%2C%20Obioma%20%5Bcc%20obiosky%20high%5D/obioma%20black.pgn",
-      "lastModified": 1782057358202.4124,
-      "sizeBytes": 511
+      "lastModified": 1782058237838.3325,
+      "sizeBytes": 547
     },
     {
       "type": "file",
