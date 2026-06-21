@@ -1,8 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-21T15:46:18.683Z",
+  "generatedAt": "2026-06-21T16:08:25.770Z",
   "sourceName": "EnCroissant",
-  "pinnedPaths": [],
+  "pinnedPaths": [
+    "My classical games",
+    "My classical games/2026.05.24 Lachlan Tyrrell - Joythika.pgn",
+    "Oxford FIDE Congress U2300 player games",
+    "Southall Congress 260620 U2400 player games/01 2088 - Figeac, Aurelien [cc no chess.com match]/Figeac black prep.pgn",
+    "Southall Congress 260620 U2400 player games/01 2088 - Figeac, Aurelien [cc no chess.com match]/Figeac white prep.pgn",
+    "Southall Congress 260620 U2400 player games/02 2004 - Onuoha, Obioma [cc obiosky high]/obioma black.pgn",
+    "Southall Congress 260620 U2400 player games/02 2004 - Onuoha, Obioma [cc obiosky high]/obioma white.pgn",
+    "Southall Congress 260620 U2400 player games/03 1956 - Lapidus, Alexey M. [cc alex_lapidus high]/alexey black prep.pgn",
+    "Southall Congress 260620 U2400 player games/03 1956 - Lapidus, Alexey M. [cc alex_lapidus high]/alexey white prep.pgn",
+    "Southall Congress 260620 U2400 player games/03 1956 - Lapidus, Alexey M. [cc alex_lapidus high]/Southall U2400 style report - Lapidus, Alexey M.pdf",
+    "Southall Congress 260620 U2400 player games/04 1900 - Mokhber-Garcia, Sebastian [cc Sebastian443 high]/sebastian white prep.pgn"
+  ],
   "files": [
     {
       "type": "file",
@@ -21,7 +33,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
-      "lastModified": 1781901644533.0317,
+      "lastModified": 1782056771584.368,
       "sizeBytes": 26211805
     },
     {
@@ -31,7 +43,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
-      "lastModified": 1781901644533.0317,
+      "lastModified": 1782056771584.368,
       "sizeBytes": 26213603
     },
     {
@@ -41,8 +53,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
-      "lastModified": 1781901644533.0317,
-      "sizeBytes": 3664129
+      "lastModified": 1782056771584.368,
+      "sizeBytes": 3669696
     },
     {
       "type": "file",
@@ -271,8 +283,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Personal/My classical games/chunk-001.pgn",
       "url": "files/Databases/Desktop/Personal/My%20classical%20games/chunk-001.pgn",
-      "lastModified": 1781886887514.7188,
-      "sizeBytes": 166177
+      "lastModified": 1782056766068.4744,
+      "sizeBytes": 177506
     },
     {
       "type": "file",
@@ -1196,13 +1208,53 @@
     },
     {
       "type": "file",
-      "name": "0046 2026.06.11 My classical games - Chapter 46 Unknown - Unknown",
-      "filename": "0046 2026.06.11 My classical games - Chapter 46 Unknown - Unknown.pgn",
+      "name": "0046 2026.06.11 My classical games - Yawar vs lachlan 0-1 Unknown - Unknown",
+      "filename": "0046 2026.06.11 My classical games - Yawar vs lachlan 0-1 Unknown - Unknown.pgn",
       "extension": "pgn",
-      "path": "My classical games/0046 2026.06.11 My classical games - Chapter 46 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0046%202026.06.11%20My%20classical%20games%20-%20Chapter%2046%20Unknown%20-%20Unknown.pgn",
+      "path": "My classical games/0046 2026.06.11 My classical games - Yawar vs lachlan 0-1 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/0046%202026.06.11%20My%20classical%20games%20-%20Yawar%20vs%20lachlan%200-1%20Unknown%20-%20Unknown.pgn",
       "lastModified": 1781372946569.2646,
       "sizeBytes": 9670
+    },
+    {
+      "type": "file",
+      "name": "0047 2026.06.20 My classical games - Lachlan vs Paul Colburn 1-0 Unknown - Unknown",
+      "filename": "0047 2026.06.20 My classical games - Lachlan vs Paul Colburn 1-0 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/0047 2026.06.20 My classical games - Lachlan vs Paul Colburn 1-0 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/0047%202026.06.20%20My%20classical%20games%20-%20Lachlan%20vs%20Paul%20Colburn%201-0%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1782056767078.3213,
+      "sizeBytes": 3605
+    },
+    {
+      "type": "file",
+      "name": "0048 2026.06.20 My classical games - Alexey lapidus vs Lachlan 0-1 Unknown - Unknown",
+      "filename": "0048 2026.06.20 My classical games - Alexey lapidus vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/0048 2026.06.20 My classical games - Alexey lapidus vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/0048%202026.06.20%20My%20classical%20games%20-%20Alexey%20lapidus%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1782056767080.3337,
+      "sizeBytes": 3700
+    },
+    {
+      "type": "file",
+      "name": "0049 2026.06.21 My classical games - Lachlan tyrrell vs Sebastian mohkber 1-0 Unknown - Unknown",
+      "filename": "0049 2026.06.21 My classical games - Lachlan tyrrell vs Sebastian mohkber 1-0 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/0049 2026.06.21 My classical games - Lachlan tyrrell vs Sebastian mohkber 1-0 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/0049%202026.06.21%20My%20classical%20games%20-%20Lachlan%20tyrrell%20vs%20Sebastian%20mohkber%201-0%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1782056767082.345,
+      "sizeBytes": 3316
+    },
+    {
+      "type": "file",
+      "name": "0050 2026.06.21 My classical games - Amogh Gupta vs Lachlan 0-1 Unknown - Unknown",
+      "filename": "0050 2026.06.21 My classical games - Amogh Gupta vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "extension": "pgn",
+      "path": "My classical games/0050 2026.06.21 My classical games - Amogh Gupta vs Lachlan 0-1 Unknown - Unknown.pgn",
+      "url": "files/My%20classical%20games/0050%202026.06.21%20My%20classical%20games%20-%20Amogh%20Gupta%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
+      "lastModified": 1782056767085.2322,
+      "sizeBytes": 694
     },
     {
       "type": "file",
@@ -13001,8 +13053,8 @@
       "extension": "pgn",
       "path": "Southall Congress 260620 U2400 player games/02 2004 - Onuoha, Obioma [cc obiosky high]/obioma black.pgn",
       "url": "files/Southall%20Congress%20260620%20U2400%20player%20games/02%202004%20-%20Onuoha%2C%20Obioma%20%5Bcc%20obiosky%20high%5D/obioma%20black.pgn",
-      "lastModified": 1781910250710.1792,
-      "sizeBytes": 166
+      "lastModified": 1782057358202.4124,
+      "sizeBytes": 511
     },
     {
       "type": "file",
