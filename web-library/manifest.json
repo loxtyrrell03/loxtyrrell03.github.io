@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-21T16:15:55.056Z",
+  "generatedAt": "2026-06-22T18:57:43.976Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -33,7 +33,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
-      "lastModified": 1782056771584.368,
+      "lastModified": 1782154273439.947,
       "sizeBytes": 26211805
     },
     {
@@ -43,7 +43,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
-      "lastModified": 1782056771584.368,
+      "lastModified": 1782154273439.947,
       "sizeBytes": 26213603
     },
     {
@@ -53,8 +53,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
-      "lastModified": 1782056771584.368,
-      "sizeBytes": 3669696
+      "lastModified": 1782154273439.947,
+      "sizeBytes": 3714276
     },
     {
       "type": "file",
@@ -283,8 +283,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Personal/My classical games/chunk-001.pgn",
       "url": "files/Databases/Desktop/Personal/My%20classical%20games/chunk-001.pgn",
-      "lastModified": 1782056766068.4744,
-      "sizeBytes": 177506
+      "lastModified": 1782154299805.5542,
+      "sizeBytes": 179780
     },
     {
       "type": "file",
