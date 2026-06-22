@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T19:57:11.008Z",
+  "generatedAt": "2026-06-22T20:25:25.432Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -63,7 +63,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
-      "lastModified": 1782157880475.4646,
+      "lastModified": 1782159638902.731,
       "sizeBytes": 24396027
     },
     {
@@ -1233,8 +1233,8 @@
       "extension": "pgn",
       "path": "My classical games/0048 2026.06.20 My classical games - Alexey lapidus vs Lachlan 0-1 Unknown - Unknown.pgn",
       "url": "files/My%20classical%20games/0048%202026.06.20%20My%20classical%20games%20-%20Alexey%20lapidus%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1782157986325.27,
-      "sizeBytes": 4213
+      "lastModified": 1782159074325.9277,
+      "sizeBytes": 4226
     },
     {
       "type": "file",
