@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T22:02:09.380Z",
+  "generatedAt": "2026-06-22T22:13:20.225Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -513,8 +513,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Southall Congress 260620 U2400/01 Figeac, Aurelien/01 Figeac, Aurelien - Southall U2400 OTB prep/chunk-001.pgn",
       "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/01%20Figeac%2C%20Aurelien/01%20Figeac%2C%20Aurelien%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1781903462127.13,
-      "sizeBytes": 45028
+      "lastModified": 1782165819807.2576,
+      "sizeBytes": 113745
     },
     {
       "type": "file",
@@ -523,7 +523,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma/02 Onuoha, Obioma - Chess.com obiosky/chunk-001.pgn",
       "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma/02%20Onuoha%2C%20Obioma%20-%20Chess.com%20obiosky/chunk-001.pgn",
-      "lastModified": 1781884920781.408,
+      "lastModified": 1782166180036.101,
       "sizeBytes": 26214185
     },
     {
@@ -533,8 +533,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma/02 Onuoha, Obioma - Chess.com obiosky/chunk-002.pgn",
       "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma/02%20Onuoha%2C%20Obioma%20-%20Chess.com%20obiosky/chunk-002.pgn",
-      "lastModified": 1781884920781.408,
-      "sizeBytes": 1815476
+      "lastModified": 1782166180036.101,
+      "sizeBytes": 1884193
     },
     {
       "type": "file",
@@ -883,7 +883,7 @@
       "extension": "pgn",
       "path": "My classical games/0005 2026.02.28 My classical games - Lachlan vs Piotr graczyk 1-0 Unknown - Unknown.pgn",
       "url": "files/My%20classical%20games/0005%202026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20Piotr%20graczyk%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1782165301893.4353,
+      "lastModified": 1782165751503.204,
       "sizeBytes": 1416
     },
     {
