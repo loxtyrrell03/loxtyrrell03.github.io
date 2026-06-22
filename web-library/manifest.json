@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T20:25:25.432Z",
+  "generatedAt": "2026-06-22T20:42:58.715Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -193,8 +193,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Sharma, Josh/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Sharma%2C%20Josh/chunk-001.pgn",
-      "lastModified": 1781367340906.3452,
-      "sizeBytes": 144386
+      "lastModified": 1782159983280.9236,
+      "sizeBytes": 188796
     },
     {
       "type": "file",
@@ -273,8 +273,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/oxford fide congress u2300 prep - Sharma, Josh/chunk-001.pgn",
       "url": "files/Databases/Desktop/oxford%20fide%20congress%20u2300%20prep%20-%20Sharma%2C%20Josh/chunk-001.pgn",
-      "lastModified": 1781370946144.3123,
-      "sizeBytes": 144104
+      "lastModified": 1782160840285.996,
+      "sizeBytes": 188514
     },
     {
       "type": "file",
