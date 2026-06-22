@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T21:44:52.250Z",
+  "generatedAt": "2026-06-22T22:02:09.380Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -133,8 +133,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Large, Peter G/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Large%2C%20Peter%20G/chunk-001.pgn",
-      "lastModified": 1781378512536.104,
-      "sizeBytes": 754946
+      "lastModified": 1782165411302.9546,
+      "sizeBytes": 799356
     },
     {
       "type": "file",
@@ -223,8 +223,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Sooraj M R/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Sooraj%20M%20R/chunk-001.pgn",
-      "lastModified": 1781377895918.621,
-      "sizeBytes": 655195
+      "lastModified": 1782164895135.941,
+      "sizeBytes": 699605
     },
     {
       "type": "file",
@@ -233,8 +233,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Sturt, Charles A/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Sturt%2C%20Charles%20A/chunk-001.pgn",
-      "lastModified": 1781377936673.0344,
-      "sizeBytes": 55841
+      "lastModified": 1782165047198.6404,
+      "sizeBytes": 100251
     },
     {
       "type": "file",
@@ -243,8 +243,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Van Neerven, Yvon/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Van%20Neerven%2C%20Yvon/chunk-001.pgn",
-      "lastModified": 1781378150011.7466,
-      "sizeBytes": 376869
+      "lastModified": 1782165287915.28,
+      "sizeBytes": 421279
     },
     {
       "type": "file",
@@ -253,8 +253,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/oxford fide congress u2300 prep - Large, Peter G/chunk-001.pgn",
       "url": "files/Databases/Desktop/oxford%20fide%20congress%20u2300%20prep%20-%20Large%2C%20Peter%20G/chunk-001.pgn",
-      "lastModified": 1781379970850.2366,
-      "sizeBytes": 1095546
+      "lastModified": 1782165504940.2402,
+      "sizeBytes": 1139956
     },
     {
       "type": "file",
@@ -263,8 +263,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/oxford fide congress u2300 prep - Mesropyan, Hayk/chunk-001.pgn",
       "url": "files/Databases/Desktop/oxford%20fide%20congress%20u2300%20prep%20-%20Mesropyan%2C%20Hayk/chunk-001.pgn",
-      "lastModified": 1781380420146.3877,
-      "sizeBytes": 561517
+      "lastModified": 1782165524265.1533,
+      "sizeBytes": 605927
     },
     {
       "type": "file",
@@ -493,8 +493,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Southall Congress 260620 U2400/00 Verbytski, Oleg/00 Verbytski, Oleg - Southall U2400 OTB prep/chunk-001.pgn",
       "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/00%20Verbytski%2C%20Oleg/00%20Verbytski%2C%20Oleg%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1781911768127.4424,
-      "sizeBytes": 1352506
+      "lastModified": 1782165568072.9097,
+      "sizeBytes": 1421223
     },
     {
       "type": "file",
@@ -503,8 +503,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Southall Congress 260620 U2400/00 Verbytski, Oleg/06 Verbytski, Oleg - Chess.com demyan7777/chunk-001.pgn",
       "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/00%20Verbytski%2C%20Oleg/06%20Verbytski%2C%20Oleg%20-%20Chess.com%20demyan7777/chunk-001.pgn",
-      "lastModified": 1781910884338.304,
-      "sizeBytes": 2279560
+      "lastModified": 1782165668204.111,
+      "sizeBytes": 2348277
     },
     {
       "type": "file",
@@ -883,8 +883,8 @@
       "extension": "pgn",
       "path": "My classical games/0005 2026.02.28 My classical games - Lachlan vs Piotr graczyk 1-0 Unknown - Unknown.pgn",
       "url": "files/My%20classical%20games/0005%202026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20Piotr%20graczyk%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169132.0144,
-      "sizeBytes": 1390
+      "lastModified": 1782165301893.4353,
+      "sizeBytes": 1416
     },
     {
       "type": "file",
