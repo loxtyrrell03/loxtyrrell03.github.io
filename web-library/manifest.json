@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-23T14:40:09.013Z",
+  "generatedAt": "2026-06-23T15:26:49.663Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -623,8 +623,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian/04 Mokhber-Garcia, Sebastian - Southall U2400 OTB prep/chunk-001.pgn",
       "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1781903474545.2695,
-      "sizeBytes": 942311
+      "lastModified": 1782227087514.5164,
+      "sizeBytes": 1010690
     },
     {
       "type": "file",
@@ -633,8 +633,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Southall Congress 260620 U2400/05 Balmond, Tom/05 Balmond, Tom - Chess.com Tom_Balmond/chunk-001.pgn",
       "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/05%20Balmond%2C%20Tom/05%20Balmond%2C%20Tom%20-%20Chess.com%20Tom_Balmond/chunk-001.pgn",
-      "lastModified": 1781885333337.702,
-      "sizeBytes": 3024352
+      "lastModified": 1782227999500.7754,
+      "sizeBytes": 3093069
     },
     {
       "type": "file",
@@ -643,8 +643,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Southall Congress 260620 U2400/05 Balmond, Tom/05 Balmond, Tom - Southall U2400 OTB prep/chunk-001.pgn",
       "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/05%20Balmond%2C%20Tom/05%20Balmond%2C%20Tom%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1781903477444.541,
-      "sizeBytes": 241888
+      "lastModified": 1782228271812.6917,
+      "sizeBytes": 310605
     },
     {
       "type": "file",
