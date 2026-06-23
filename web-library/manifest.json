@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-23T20:07:47.931Z",
+  "generatedAt": "2026-06-23T21:32:28.802Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -63,8 +63,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
-      "lastModified": 1782245030992.7517,
-      "sizeBytes": 24402362
+      "lastModified": 1782248668856.0452,
+      "sizeBytes": 24410796
     },
     {
       "type": "file",
