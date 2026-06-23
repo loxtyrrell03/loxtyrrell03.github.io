@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-22T22:13:20.225Z",
+  "generatedAt": "2026-06-23T11:35:20.019Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -63,8 +63,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
-      "lastModified": 1782159638902.731,
-      "sizeBytes": 24396027
+      "lastModified": 1782213106174.3838,
+      "sizeBytes": 24397162
     },
     {
       "type": "file",
@@ -543,8 +543,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma/02 Onuoha, Obioma - Lichess obiosky/chunk-001.pgn",
       "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma/02%20Onuoha%2C%20Obioma%20-%20Lichess%20obiosky/chunk-001.pgn",
-      "lastModified": 1781912288371.327,
-      "sizeBytes": 6649191
+      "lastModified": 1782167044285.4226,
+      "sizeBytes": 6691003
     },
     {
       "type": "file",
@@ -553,8 +553,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma/02 Onuoha, Obioma - Southall U2400 OTB prep/chunk-001.pgn",
       "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma/02%20Onuoha%2C%20Obioma%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1781903464400.6057,
-      "sizeBytes": 284054
+      "lastModified": 1782214075058.239,
+      "sizeBytes": 352771
     },
     {
       "type": "file",
