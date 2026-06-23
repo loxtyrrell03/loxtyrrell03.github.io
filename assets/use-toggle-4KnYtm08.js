@@ -1,0 +1,1 @@
+import{r as s}from"./chunk-Dv1cbSuN.js";import{d as u}from"./index-BkYELrlO.js";var a=s(u(),1);function m(n=[!1,!0]){const[[t],c]=(0,a.useReducer)((e,r)=>{const i=r instanceof Function?r(e[0]):r,o=Math.abs(e.indexOf(i));return e.slice(o).concat(e.slice(0,o))},n);return[t,c]}export{m as t};
