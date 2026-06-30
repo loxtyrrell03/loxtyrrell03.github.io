@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-23T21:32:28.802Z",
+  "generatedAt": "2026-06-30T10:38:23.850Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -3525,6 +3525,106 @@
       "url": "files/Oxford%20FIDE%20Congress%20U2300%20player%20games/19%201630%20-%20Muppidi%2C%20Anirudh%20%5Bcc%20none%20credible%5D/Anirudh%20Muppidi%20games%20(14).pgn",
       "lastModified": 1780068577071.1526,
       "sizeBytes": 12071
+    },
+    {
+      "type": "file",
+      "name": "chess_results_world_rapid_team_sameera",
+      "filename": "chess_results_world_rapid_team_sameera.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/_downloads/chess_results_world_rapid_team_sameera.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/chess_results_world_rapid_team_sameera.pgn",
+      "lastModified": 1782815725082.3647,
+      "sizeBytes": 0
+    },
+    {
+      "type": "file",
+      "name": "lichess_broadcast_2024-10_sameera_hits",
+      "filename": "lichess_broadcast_2024-10_sameera_hits.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/_downloads/lichess_broadcast_2024-10_sameera_hits.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/lichess_broadcast_2024-10_sameera_hits.pgn",
+      "lastModified": 1782815594133.9631,
+      "sizeBytes": 47328
+    },
+    {
+      "type": "file",
+      "name": "lichess_broadcast_2025-06_sameera_hits",
+      "filename": "lichess_broadcast_2025-06_sameera_hits.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/_downloads/lichess_broadcast_2025-06_sameera_hits.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/lichess_broadcast_2025-06_sameera_hits.pgn",
+      "lastModified": 1782815582111.8352,
+      "sizeBytes": 36158
+    },
+    {
+      "type": "file",
+      "name": "lichess_broadcast_2025-09_sameera_hits",
+      "filename": "lichess_broadcast_2025-09_sameera_hits.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/_downloads/lichess_broadcast_2025-09_sameera_hits.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/lichess_broadcast_2025-09_sameera_hits.pgn",
+      "lastModified": 1782815574004.3643,
+      "sizeBytes": 31157
+    },
+    {
+      "type": "file",
+      "name": "lichess_broadcast_2025-12_sameera_hits",
+      "filename": "lichess_broadcast_2025-12_sameera_hits.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/_downloads/lichess_broadcast_2025-12_sameera_hits.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/lichess_broadcast_2025-12_sameera_hits.pgn",
+      "lastModified": 1782815567953.8284,
+      "sizeBytes": 12944
+    },
+    {
+      "type": "file",
+      "name": "lichess_broadcast_2026-01_sameera_hits",
+      "filename": "lichess_broadcast_2026-01_sameera_hits.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/_downloads/lichess_broadcast_2026-01_sameera_hits.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/lichess_broadcast_2026-01_sameera_hits.pgn",
+      "lastModified": 1782815565651.9338,
+      "sizeBytes": 12657
+    },
+    {
+      "type": "file",
+      "name": "lichess_broadcast_2026-02_sameera_hits",
+      "filename": "lichess_broadcast_2026-02_sameera_hits.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/_downloads/lichess_broadcast_2026-02_sameera_hits.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/lichess_broadcast_2026-02_sameera_hits.pgn",
+      "lastModified": 1782815564039.475,
+      "sizeBytes": 13201
+    },
+    {
+      "type": "file",
+      "name": "lichess_broadcast_2026-03_sameera_hits",
+      "filename": "lichess_broadcast_2026-03_sameera_hits.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/_downloads/lichess_broadcast_2026-03_sameera_hits.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/lichess_broadcast_2026-03_sameera_hits.pgn",
+      "lastModified": 1782815562666.422,
+      "sizeBytes": 17200
+    },
+    {
+      "type": "file",
+      "name": "lichess_broadcast_2026-04_sameera_hits",
+      "filename": "lichess_broadcast_2026-04_sameera_hits.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/_downloads/lichess_broadcast_2026-04_sameera_hits.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/lichess_broadcast_2026-04_sameera_hits.pgn",
+      "lastModified": 1782815560918.018,
+      "sizeBytes": 24607
+    },
+    {
+      "type": "file",
+      "name": "lichess_broadcast_all_sameera_hits",
+      "filename": "lichess_broadcast_all_sameera_hits.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/_downloads/lichess_broadcast_all_sameera_hits.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/lichess_broadcast_all_sameera_hits.pgn",
+      "lastModified": 1782815645484.0974,
+      "sizeBytes": 195252
     },
     {
       "type": "file",
