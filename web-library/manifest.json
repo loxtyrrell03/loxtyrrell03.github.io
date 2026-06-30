@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-30T10:38:23.850Z",
+  "generatedAt": "2026-06-30T10:45:10.309Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -485,6 +485,26 @@
       "url": "files/Databases/Desktop/Repertoires/Loxi-ty%20repertoire/chunk-004.pgn",
       "lastModified": 1781905860719.2815,
       "sizeBytes": 21647160
+    },
+    {
+      "type": "file",
+      "name": "chunk-001",
+      "filename": "chunk-001.pgn",
+      "extension": "pgn",
+      "path": "Databases/Desktop/Sameera Kodukula Prep/Online Accounts/00 Kodukula, Sameera - Lichess SameeraKodukula historical stale-tos/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/Online%20Accounts/00%20Kodukula%2C%20Sameera%20-%20Lichess%20SameeraKodukula%20historical%20stale-tos/chunk-001.pgn",
+      "lastModified": 1782816053611.5195,
+      "sizeBytes": 168477
+    },
+    {
+      "type": "file",
+      "name": "chunk-001",
+      "filename": "chunk-001.pgn",
+      "extension": "pgn",
+      "path": "Databases/Desktop/Sameera Kodukula Prep/OTB Prep/00 Kodukula, Sameera - Sameera Kodukula OTB prep/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/OTB%20Prep/00%20Kodukula%2C%20Sameera%20-%20Sameera%20Kodukula%20OTB%20prep/chunk-001.pgn",
+      "lastModified": 1782816144311.7605,
+      "sizeBytes": 26731
     },
     {
       "type": "file",
@@ -3625,6 +3645,46 @@
       "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/lichess_broadcast_all_sameera_hits.pgn",
       "lastModified": 1782815645484.0974,
       "sizeBytes": 195252
+    },
+    {
+      "type": "file",
+      "name": "SameeraKodukula_lichess_raw",
+      "filename": "SameeraKodukula_lichess_raw.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/_downloads/SameeraKodukula_lichess_raw.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/_downloads/SameeraKodukula_lichess_raw.pgn",
+      "lastModified": 1782816047772.8926,
+      "sizeBytes": 231228
+    },
+    {
+      "type": "file",
+      "name": "2026.01.31 Kodukula, Sameera - Lupu, Tudor [excluded empty lichess broadcast]",
+      "filename": "2026.01.31 Kodukula, Sameera - Lupu, Tudor [excluded empty lichess broadcast].pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [li SameeraKodukula high stale cc none]/_excluded_empty_pgns_20260630/2026.01.31 Kodukula, Sameera - Lupu, Tudor [excluded empty lichess broadcast].pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bli%20SameeraKodukula%20high%20stale%20cc%20none%5D/_excluded_empty_pgns_20260630/2026.01.31%20Kodukula%2C%20Sameera%20-%20Lupu%2C%20Tudor%20%5Bexcluded%20empty%20lichess%20broadcast%5D.pgn",
+      "lastModified": 1782816022029.8486,
+      "sizeBytes": 857
+    },
+    {
+      "type": "file",
+      "name": "Kodukula, Sameera games (33)",
+      "filename": "Kodukula, Sameera games (33).pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [li SameeraKodukula high stale cc none]/Kodukula, Sameera games (33).pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bli%20SameeraKodukula%20high%20stale%20cc%20none%5D/Kodukula%2C%20Sameera%20games%20(33).pgn",
+      "lastModified": 1782816143715.8914,
+      "sizeBytes": 52114
+    },
+    {
+      "type": "file",
+      "name": "SameeraKodukula lichess historical standard games (297)",
+      "filename": "SameeraKodukula lichess historical standard games (297).pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [li SameeraKodukula high stale cc none]/online-accounts/SameeraKodukula lichess historical standard games (297).pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bli%20SameeraKodukula%20high%20stale%20cc%20none%5D/online-accounts/SameeraKodukula%20lichess%20historical%20standard%20games%20(297).pgn",
+      "lastModified": 1782816048330.2898,
+      "sizeBytes": 228694
     },
     {
       "type": "file",
