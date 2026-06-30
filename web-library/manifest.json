@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-30T10:53:26.256Z",
+  "generatedAt": "2026-06-30T10:59:18.628Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -485,6 +485,16 @@
       "url": "files/Databases/Desktop/Repertoires/Loxi-ty%20repertoire/chunk-004.pgn",
       "lastModified": 1781905860719.2815,
       "sizeBytes": 21647160
+    },
+    {
+      "type": "file",
+      "name": "chunk-001",
+      "filename": "chunk-001.pgn",
+      "extension": "pgn",
+      "path": "Databases/Desktop/Sameera Kodukula Prep/Lichess Broadcast/00 Kodukula, Sameera - Lichess broadcast games/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/Lichess%20Broadcast/00%20Kodukula%2C%20Sameera%20-%20Lichess%20broadcast%20games/chunk-001.pgn",
+      "lastModified": 1782817105638.0813,
+      "sizeBytes": 26731
     },
     {
       "type": "file",
@@ -3685,6 +3695,16 @@
       "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bli%20SameeraKodukula%20high%20stale%20cc%20none%5D/online-accounts/SameeraKodukula%20lichess%20historical%20standard%20games%20(297).pgn",
       "lastModified": 1782816048330.2898,
       "sizeBytes": 228694
+    },
+    {
+      "type": "file",
+      "name": "sameera white",
+      "filename": "sameera white.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/sameera white.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/sameera%20white.pgn",
+      "lastModified": 1782816934746.6147,
+      "sizeBytes": 134
     },
     {
       "type": "file",
