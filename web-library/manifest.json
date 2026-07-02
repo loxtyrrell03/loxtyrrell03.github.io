@@ -1,11 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-30T10:59:18.628Z",
+  "generatedAt": "2026-07-02T11:05:12.744Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
     "My classical games/2026.05.24 Lachlan Tyrrell - Joythika.pgn",
     "Oxford FIDE Congress U2300 player games",
+    "Sameera Kodukula prep player games",
     "Southall Congress 260620 U2400 player games/01 2088 - Figeac, Aurelien [cc no chess.com match]/Figeac black prep.pgn",
     "Southall Congress 260620 U2400 player games/01 2088 - Figeac, Aurelien [cc no chess.com match]/Figeac white prep.pgn",
     "Southall Congress 260620 U2400 player games/02 2004 - Onuoha, Obioma [cc obiosky high]/obioma black.pgn",
@@ -33,7 +34,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
-      "lastModified": 1782816485085.8623,
+      "lastModified": 1782989937536.7112,
       "sizeBytes": 26211805
     },
     {
@@ -43,7 +44,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
-      "lastModified": 1782816485085.8623,
+      "lastModified": 1782989937536.7112,
       "sizeBytes": 26213603
     },
     {
@@ -53,8 +54,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
-      "lastModified": 1782816485085.8623,
-      "sizeBytes": 3738390
+      "lastModified": 1782989937536.7112,
+      "sizeBytes": 3831912
     },
     {
       "type": "file",
@@ -283,7 +284,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Personal/My classical games/chunk-001.pgn",
       "url": "files/Databases/Desktop/Personal/My%20classical%20games/chunk-001.pgn",
-      "lastModified": 1782154299805.5542,
+      "lastModified": 1782818265371.452,
       "sizeBytes": 179780
     },
     {
@@ -491,19 +492,19 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Sameera Kodukula Prep/Lichess Broadcast/00 Kodukula, Sameera - Lichess broadcast games/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/Lichess%20Broadcast/00%20Kodukula%2C%20Sameera%20-%20Lichess%20broadcast%20games/chunk-001.pgn",
-      "lastModified": 1782817105638.0813,
-      "sizeBytes": 26731
+      "path": "Databases/Desktop/Sameera Kodukula Prep/00 Kodukula, Sameera/00 Kodukula, Sameera - Lichess broadcast games/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/00%20Kodukula%2C%20Sameera/00%20Kodukula%2C%20Sameera%20-%20Lichess%20broadcast%20games/chunk-001.pgn",
+      "lastModified": 1782916518641.9468,
+      "sizeBytes": 95448
     },
     {
       "type": "file",
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Sameera Kodukula Prep/Online Accounts/00 Kodukula, Sameera - Lichess SameeraKodukula historical stale-tos/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/Online%20Accounts/00%20Kodukula%2C%20Sameera%20-%20Lichess%20SameeraKodukula%20historical%20stale-tos/chunk-001.pgn",
-      "lastModified": 1782816053611.5195,
+      "path": "Databases/Desktop/Sameera Kodukula Prep/00 Kodukula, Sameera/00 Kodukula, Sameera - Lichess SameeraKodukula/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/00%20Kodukula%2C%20Sameera/00%20Kodukula%2C%20Sameera%20-%20Lichess%20SameeraKodukula/chunk-001.pgn",
+      "lastModified": 1782912636518.8987,
       "sizeBytes": 168477
     },
     {
@@ -511,10 +512,20 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Sameera Kodukula Prep/OTB Prep/00 Kodukula, Sameera - Sameera Kodukula OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/OTB%20Prep/00%20Kodukula%2C%20Sameera%20-%20Sameera%20Kodukula%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1782816144311.7605,
+      "path": "Databases/Desktop/Sameera Kodukula Prep/00 Kodukula, Sameera/00 Kodukula, Sameera - OTB prep/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/00%20Kodukula%2C%20Sameera/00%20Kodukula%2C%20Sameera%20-%20OTB%20prep/chunk-001.pgn",
+      "lastModified": 1782912631206.765,
       "sizeBytes": 26731
+    },
+    {
+      "type": "file",
+      "name": "chunk-001",
+      "filename": "chunk-001.pgn",
+      "extension": "pgn",
+      "path": "Databases/Desktop/Sameera Kodukula Prep/00 Kodukula, Sameera/00 Kodukula, Sameera - World Chess 853760/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/00%20Kodukula%2C%20Sameera/00%20Kodukula%2C%20Sameera%20-%20World%20Chess%20853760/chunk-001.pgn",
+      "lastModified": 1782917500443.5042,
+      "sizeBytes": 3498317
     },
     {
       "type": "file",
@@ -1368,11 +1379,11 @@
     },
     {
       "type": "file",
-      "name": "My classical games 0029 2026.04.20 Lachlan vs mike gale",
-      "filename": "My classical games 0029 2026.04.20 Lachlan vs mike gale.pgn",
+      "name": "My classical games 0029 2026.04.20 Me - Me",
+      "filename": "My classical games 0029 2026.04.20 Me - Me.pgn",
       "extension": "pgn",
-      "path": "My classical games/My classical games 0029 2026.04.20 Lachlan vs mike gale.pgn",
-      "url": "files/My%20classical%20games/My%20classical%20games%200029%202026.04.20%20Lachlan%20vs%20mike%20gale.pgn",
+      "path": "My classical games/My classical games 0029 2026.04.20 Me - Me.pgn",
+      "url": "files/My%20classical%20games/My%20classical%20games%200029%202026.04.20%20Me%20-%20Me.pgn",
       "lastModified": 1780636300262.843,
       "sizeBytes": 3794
     },
@@ -3671,18 +3682,38 @@
       "name": "2026.01.31 Kodukula, Sameera - Lupu, Tudor [excluded empty lichess broadcast]",
       "filename": "2026.01.31 Kodukula, Sameera - Lupu, Tudor [excluded empty lichess broadcast].pgn",
       "extension": "pgn",
-      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [li SameeraKodukula high stale cc none]/_excluded_empty_pgns_20260630/2026.01.31 Kodukula, Sameera - Lupu, Tudor [excluded empty lichess broadcast].pgn",
-      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bli%20SameeraKodukula%20high%20stale%20cc%20none%5D/_excluded_empty_pgns_20260630/2026.01.31%20Kodukula%2C%20Sameera%20-%20Lupu%2C%20Tudor%20%5Bexcluded%20empty%20lichess%20broadcast%5D.pgn",
+      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [wc 853760 high recent li stale cc none]/_excluded_empty_pgns_20260630/2026.01.31 Kodukula, Sameera - Lupu, Tudor [excluded empty lichess broadcast].pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bwc%20853760%20high%20recent%20li%20stale%20cc%20none%5D/_excluded_empty_pgns_20260630/2026.01.31%20Kodukula%2C%20Sameera%20-%20Lupu%2C%20Tudor%20%5Bexcluded%20empty%20lichess%20broadcast%5D.pgn",
       "lastModified": 1782816022029.8486,
       "sizeBytes": 857
+    },
+    {
+      "type": "file",
+      "name": "Kodukula, Sameera - Lichess SameeraKodukula games (297)",
+      "filename": "Kodukula, Sameera - Lichess SameeraKodukula games (297).pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [wc 853760 high recent li stale cc none]/Kodukula, Sameera - Lichess SameeraKodukula games (297).pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bwc%20853760%20high%20recent%20li%20stale%20cc%20none%5D/Kodukula%2C%20Sameera%20-%20Lichess%20SameeraKodukula%20games%20(297).pgn",
+      "lastModified": 1782912630171.199,
+      "sizeBytes": 228694
+    },
+    {
+      "type": "file",
+      "name": "Kodukula, Sameera - World Chess 853760 games (1519)",
+      "filename": "Kodukula, Sameera - World Chess 853760 games (1519).pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [wc 853760 high recent li stale cc none]/Kodukula, Sameera - World Chess 853760 games (1519).pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bwc%20853760%20high%20recent%20li%20stale%20cc%20none%5D/Kodukula%2C%20Sameera%20-%20World%20Chess%20853760%20games%20(1519).pgn",
+      "lastModified": 1782913627622.9673,
+      "sizeBytes": 4117213
     },
     {
       "type": "file",
       "name": "Kodukula, Sameera games (33)",
       "filename": "Kodukula, Sameera games (33).pgn",
       "extension": "pgn",
-      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [li SameeraKodukula high stale cc none]/Kodukula, Sameera games (33).pgn",
-      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bli%20SameeraKodukula%20high%20stale%20cc%20none%5D/Kodukula%2C%20Sameera%20games%20(33).pgn",
+      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [wc 853760 high recent li stale cc none]/Kodukula, Sameera games (33).pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bwc%20853760%20high%20recent%20li%20stale%20cc%20none%5D/Kodukula%2C%20Sameera%20games%20(33).pgn",
       "lastModified": 1782816143715.8914,
       "sizeBytes": 52114
     },
@@ -3691,10 +3722,30 @@
       "name": "SameeraKodukula lichess historical standard games (297)",
       "filename": "SameeraKodukula lichess historical standard games (297).pgn",
       "extension": "pgn",
-      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [li SameeraKodukula high stale cc none]/online-accounts/SameeraKodukula lichess historical standard games (297).pgn",
-      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bli%20SameeraKodukula%20high%20stale%20cc%20none%5D/online-accounts/SameeraKodukula%20lichess%20historical%20standard%20games%20(297).pgn",
+      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [wc 853760 high recent li stale cc none]/online-accounts/SameeraKodukula lichess historical standard games (297).pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bwc%20853760%20high%20recent%20li%20stale%20cc%20none%5D/online-accounts/SameeraKodukula%20lichess%20historical%20standard%20games%20(297).pgn",
       "lastModified": 1782816048330.2898,
       "sizeBytes": 228694
+    },
+    {
+      "type": "file",
+      "name": "WorldChess 853760 standard human games (1519)",
+      "filename": "WorldChess 853760 standard human games (1519).pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/00 1858 - Kodukula, Sameera [wc 853760 high recent li stale cc none]/online-accounts/WorldChess 853760 standard human games (1519).pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/00%201858%20-%20Kodukula%2C%20Sameera%20%5Bwc%20853760%20high%20recent%20li%20stale%20cc%20none%5D/online-accounts/WorldChess%20853760%20standard%20human%20games%20(1519).pgn",
+      "lastModified": 1782913627617.9272,
+      "sizeBytes": 4117213
+    },
+    {
+      "type": "file",
+      "name": "sameera black",
+      "filename": "sameera black.pgn",
+      "extension": "pgn",
+      "path": "Sameera Kodukula prep player games/sameera black.pgn",
+      "url": "files/Sameera%20Kodukula%20prep%20player%20games/sameera%20black.pgn",
+      "lastModified": 1782917828032.8213,
+      "sizeBytes": 443
     },
     {
       "type": "file",
@@ -3703,8 +3754,8 @@
       "extension": "pgn",
       "path": "Sameera Kodukula prep player games/sameera white.pgn",
       "url": "files/Sameera%20Kodukula%20prep%20player%20games/sameera%20white.pgn",
-      "lastModified": 1782816934746.6147,
-      "sizeBytes": 134
+      "lastModified": 1782917133363.071,
+      "sizeBytes": 815
     },
     {
       "type": "file",
