@@ -1,0 +1,16 @@
+[Event "My classical games: George bowkett vs Lachlan Tyrrell (1-0), queen's gambit harrwitz variation"]
+[Site "Unknown"]
+[Date "2026.02.28"]
+[Round ""]
+[White "George Bowkett"]
+[Black "Lachlan Tyrrell"]
+[Result "1-0"]
+[ECO "D37"]
+[PlyCount "107"]
+
+1. d4 { lessons for this game:
+- always be concrete especially in classical chess.
+- always stay focused, especially in winning positions, you must be ruthless and always play the best move.
+- don't disregard your opponent's plans
+- in the queen's gambit, nbd7 is generally favourable over nc6 as it prepares to recapture on c5 with the knight rather than the bishop and doesn't block the scope of the fianchettoed bishop } (1. g3 d5 2. Nf3) 1... d5 2. c4 e6 (2... dxc4) 3. Nc3 Nf6 4. Bf4 Be7 5. Nf3 O-O 6. e3 b6 7. Bd3 dxc4 8. Bxc4 Bb7 9. a3 c5 10. Nb5?! { Inaccuracy. O-O was best. } (10. O-O) 10... a6 11. Nc3 (11. Nc7) 11... b5 12. Bd3 Nc6 { an innacuracy, nd7 is better, preparing to meet dxc5 with nxc5 and also keeping the light squared bishop's scope open. } (12... c4 13. Bc2) 13. dxc5 Bxc5 14. Rc1 Be7 15. O-O Nh5 16. Ne2 Nxf4 17. Nxf4 Bf6 18. Qc2 (18. Qe2) 18... g6 19. Rfd1 (19. Be4 Rc8 20. Qe2) 19... Qe7 20. Be4 Rac8 21. Qe2 Bg7 { an innacuracy, na5, targetting weak light squares on the queenside was better } (21... Na5 22. Bxb7 Qxb7) 22. Ne1 Ne5 23. Bxb7 Qxb7 24. Ned3?! { Inaccuracy. b3 was best. } (24. b3) 24... Nc4 25. Rc2?! { Inaccuracy. b3 was best. } (25. b3) 25... e5 26. Nh3 Rfd8 27. e4 Rd4 28. f3 Rcd8 29. Nhf2 (29. Nb4) 29... Bh6? { Mistake. Qb6 was best. } { bh6 is a major mistake. White's plan is to go Nb4 and nd5, blocking up the rook battery. qb6 stops this tactically but bh6 ignores white's plan. Mistake: relaxing when I have a positional advantage, not calculating properly.
+best is to go qb6 and then qd6, paralyzing, white's pieces, followed by flank pawn play to gain space. } (29... Qa7) (29... Qb6 30. Kh1 Qd6 31. h3 (31. Rc3 Bh6 32. h3 a5 33. Kh2 a4 34. h4 Qe7 35. g3) 31... h5) (29... Qd7) (29... Rxd3) 30. Nb4 Qa7 (30... Ne3 31. Rxd4 exd4 32. Rc5) 31. Rxd4 Qxd4?? { Blunder. exd4 was best. } { game losing blunder, played too quickly. exd4 is best as nc6 can be met with d3, nxd3 is not possible due to the pin which i overlooked in the game. } (31... exd4 32. Nc6 (32. Nfd3) 32... d3 33. Qd2 (33. Qd1 dxc2 34. Qxd8+ Kg7)) 32. Nc6 Qd6 33. Nxd8 Qxd8 34. Qd3 Qe7?! { Inaccuracy. Qa5 was best. } (34... Qa5 35. Nd1 Qe1+ 36. Qf1 Qh4 37. Qe2 Qd8 38. Kh1 Bg5 39. g3 h5 40. Rc3) 35. Ng4?! { Inaccuracy. b3 was best. } (35. b3 Nxa3 36. Rc8+ Bf8 37. Qd8 Qxd8 38. Rxd8 Nc2 39. Nd3 Kg7 40. Ra8 Nd4) 35... Qa7+?! { Inaccuracy. Bg5 was best. } (35... Bg5 36. Nf2 Kg7 37. Nd1 h5 38. g3 h4 39. Kg2 Qe6 40. gxh4 Bxh4 41. a4) 36. Kf1 Bf8 37. b3 Nxa3 38. Rc8 Qd4 39. Nf6+ (39. Qxd4 exd4 40. Ke2 Nb1) 39... Kg7 40. Qxd4 exd4 41. Nd5 Nb1 42. Ke2 a5 43. Kd3 a4 44. bxa4 bxa4 45. Ra8 (45. Kxd4) 45... a3 46. Kxd4 Nd2 47. Kc3 Nf1 48. h4 Bd6 49. Kd3 Ng3 (49... Kh6) 50. f4 (50. Ra6 Bc5 51. Kc4 Bf2 52. Rxa3 (52. f4 Kh6) 52... Nh5 (52... Kh6 53. f4)) 50... Kh6?! { Inaccuracy. h5 was best. } { bf8 is better, as kh6 removes the f8 escape square for the bishop. } (50... h5 51. e5 Bf8 52. Ra7 Bc5 53. Ra5 Bf8 54. Kc4 Ne4 55. Ra8 Nd2+ 56. Kd4) 51. e5 Bc5 52. Kc4 Bf2 53. Rxa3 Ne4 (53... Nf5 54. Rf3 (54. Nf6 Bxh4 55. Rh3 Kg7 56. g3 (56. g4))) 54. Rh3 *

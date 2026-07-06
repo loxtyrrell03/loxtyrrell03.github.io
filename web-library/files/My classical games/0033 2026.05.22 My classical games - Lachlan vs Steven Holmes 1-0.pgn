@@ -1,0 +1,11 @@
+[Event "My classical games: Lachlan vs Steven Holmes 1-0"]
+[Site "Unknown"]
+[Date "2026.05.22"]
+[Round ""]
+[White "Lachlan Tyrrell"]
+[Black "Steven Holmes"]
+[Result "1-0"]
+[ECO "A04"]
+[PlyCount "37"]
+
+1. Nf3 { [%eval 0.1] } f5 { [%eval 0.54] } 2. d4 { [%eval 0.58] } e6 { [%eval 0.53] } 3. Bf4 { [%eval 0.41] } Nf6 { [%eval 0.46] } 4. a3 { [%eval 0.29] } Be7 { [%eval 0.4] } 5. c4 { [%eval 0.51] } b6 { [%eval 0.55] } 6. Nc3 { [%eval 0.41] } Bb7 { [%eval 0.58] [%csl Ge6] } 7. d5 { [%eval 0.29] } exd5?! { [%eval 0.97] } { Inaccuracy. Ne4 was best. } (7... Ne4 8. Nxe4 fxe4 9. Nd2 O-O 10. e3 exd5 11. cxd5 Bxd5 12. Qc2) 8. cxd5 { [%eval 1.24] } d6? { [%eval 2.57] } { Mistake. Nh5 was best. } (8... Nh5 9. Be5) 9. Nd4 { [%eval 2.57] } Nxd5?! { [%eval 3.45] } { Inaccuracy. Qc8 was best. } (9... Qc8 10. Ne6 Na6 11. e3 g6 12. Bb5+ c6 13. dxc6 Bxc6 14. Qb3 Nc5 15. Nxc5) 10. Nxd5 { [%eval 3.41] } Bxd5 { [%eval 3.37] } 11. Nxf5 { [%eval 3.39] } Bf7?! { [%eval 4.45] } { Inaccuracy. Be4 was best. } (11... Be4 12. Nxg7+ Kf7 13. Nh5 Nd7 14. e3 Nf6 15. Ng3 Bg6 16. Bh6 Qd7 17. Be2) 12. Nxg7+ { [%eval 4.39] } Kf8 { [%eval 4.31] } 13. Bh6 { [%eval 4.27] } Kg8 { [%eval 4.75] } 14. e4 { [%eval 4.78] } Bf6?! { [%eval 6.64] } { Inaccuracy. Nd7 was best. } (14... Nd7 15. Nf5 Nf6 16. Bb5 Bf8 17. Bg5 h6 18. Bh4 c5 19. O-O a6 20. Bc6) 15. Qg4 { [%eval 6.69] } Bg6?! { [%eval 10.02] } { Inaccuracy. Kf8 was best. } (15... Kf8 16. Ne6+ Ke7 17. Nxd8 Rxd8 18. Bg5 Nd7 19. Bxf6+ Nxf6 20. Qe2 Rg8 21. f3) 16. Bc4+ { [%eval 8.67] } Bf7? { [%eval #4] } { Checkmate is now unavoidable. d5 was best. } (16... d5 17. Bxd5+ Qxd5 18. exd5 Nd7 19. Qxd7 Bxb2 20. O-O Bc3 21. Rad1 Rf8 22. Qe6+) 17. Ne6+ { [%eval #3] } Bg5 { [%eval #3] } 18. Nxd8 { [%eval #2] } d5 { [%eval #2] } 19. Qxg5+ { [%eval #1] } *
