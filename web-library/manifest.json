@@ -1,21 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-06T13:16:54.265Z",
+  "generatedAt": "2026-07-13T10:10:11.428Z",
   "sourceName": "EnCroissant",
-  "pinnedPaths": [
-    "My classical games",
-    "My classical games/2026.05.24 Lachlan Tyrrell - Joythika.pgn",
-    "Oxford FIDE Congress U2300 player games",
-    "Sameera Kodukula prep player games",
-    "Southall Congress 260620 U2400 player games/01 2088 - Figeac, Aurelien [cc no chess.com match]/Figeac black prep.pgn",
-    "Southall Congress 260620 U2400 player games/01 2088 - Figeac, Aurelien [cc no chess.com match]/Figeac white prep.pgn",
-    "Southall Congress 260620 U2400 player games/02 2004 - Onuoha, Obioma [cc obiosky high]/obioma black.pgn",
-    "Southall Congress 260620 U2400 player games/02 2004 - Onuoha, Obioma [cc obiosky high]/obioma white.pgn",
-    "Southall Congress 260620 U2400 player games/03 1956 - Lapidus, Alexey M. [cc alex_lapidus high]/alexey black prep.pgn",
-    "Southall Congress 260620 U2400 player games/03 1956 - Lapidus, Alexey M. [cc alex_lapidus high]/alexey white prep.pgn",
-    "Southall Congress 260620 U2400 player games/03 1956 - Lapidus, Alexey M. [cc alex_lapidus high]/Southall U2400 style report - Lapidus, Alexey M.pdf",
-    "Southall Congress 260620 U2400 player games/04 1900 - Mokhber-Garcia, Sebastian [cc Sebastian443 high]/sebastian white prep.pgn"
-  ],
+  "pinnedPaths": [],
   "files": [
     {
       "type": "file",
@@ -32,9 +19,19 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
+      "path": "Databases/Desktop/loxty_chesscom/chunk-001.pgn",
+      "url": "files/Databases/Desktop/loxty_chesscom/chunk-001.pgn",
+      "lastModified": 1783340883913.156,
+      "sizeBytes": 107608
+    },
+    {
+      "type": "file",
+      "name": "chunk-001",
+      "filename": "chunk-001.pgn",
+      "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
-      "lastModified": 1782989937536.7112,
+      "lastModified": 1783632805081.33,
       "sizeBytes": 26211805
     },
     {
@@ -44,7 +41,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
-      "lastModified": 1782989937536.7112,
+      "lastModified": 1783632805081.33,
       "sizeBytes": 26213603
     },
     {
@@ -54,8 +51,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
-      "lastModified": 1782989937536.7112,
-      "sizeBytes": 3831912
+      "lastModified": 1783632805081.33,
+      "sizeBytes": 4103640
     },
     {
       "type": "file",
@@ -64,8 +61,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Online Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
       "url": "files/Databases/Desktop/Online%20Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
-      "lastModified": 1782248668856.0452,
-      "sizeBytes": 24410796
+      "lastModified": 1783635578575.8071,
+      "sizeBytes": 24575267
     },
     {
       "type": "file",
@@ -74,8 +71,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Behr, Rufus/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Behr%2C%20Rufus/chunk-001.pgn",
-      "lastModified": 1781911076122.5247,
-      "sizeBytes": 77628
+      "lastModified": 1783341842659.4333,
+      "sizeBytes": 132998
     },
     {
       "type": "file",
@@ -94,8 +91,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Bryant, Jeffrey/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Bryant%2C%20Jeffrey/chunk-001.pgn",
-      "lastModified": 1781912347242.3977,
-      "sizeBytes": 122569
+      "lastModified": 1783341953252.0076,
+      "sizeBytes": 177939
     },
     {
       "type": "file",
@@ -104,8 +101,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Cont, Arya/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Cont%2C%20Arya/chunk-001.pgn",
-      "lastModified": 1781912783072.4165,
-      "sizeBytes": 503579
+      "lastModified": 1783342580518.5642,
+      "sizeBytes": 558949
     },
     {
       "type": "file",
@@ -114,8 +111,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Georgiev, Ivan/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Georgiev%2C%20Ivan/chunk-001.pgn",
-      "lastModified": 1781913286758.7354,
-      "sizeBytes": 73035
+      "lastModified": 1783344754851.1946,
+      "sizeBytes": 128405
     },
     {
       "type": "file",
@@ -154,8 +151,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Muppidi, Anirudh/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Muppidi%2C%20Anirudh/chunk-001.pgn",
-      "lastModified": 1782027501244.5537,
-      "sizeBytes": 79165
+      "lastModified": 1783636132479.6877,
+      "sizeBytes": 134535
     },
     {
       "type": "file",
@@ -164,8 +161,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Poderico, Francesco/chunk-001.pgn",
       "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Poderico%2C%20Francesco/chunk-001.pgn",
-      "lastModified": 1782058193387.5232,
-      "sizeBytes": 143892
+      "lastModified": 1783636257522.8225,
+      "sizeBytes": 199262
     },
     {
       "type": "file",
@@ -284,8 +281,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Personal/My classical games/chunk-001.pgn",
       "url": "files/Databases/Desktop/Personal/My%20classical%20games/chunk-001.pgn",
-      "lastModified": 1782818265371.452,
-      "sizeBytes": 179780
+      "lastModified": 1783337591548.53,
+      "sizeBytes": 182704
     },
     {
       "type": "file",
@@ -304,8 +301,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Reference/Master games 2026-04-25 04-14/chunk-001.pgn",
       "url": "files/Databases/Desktop/Reference/Master%20games%202026-04-25%2004-14/chunk-001.pgn",
-      "lastModified": 1781888996923.0334,
-      "sizeBytes": 138182
+      "lastModified": 1783113946595.6704,
+      "sizeBytes": 193552
     },
     {
       "type": "file",
@@ -314,8 +311,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Reference/Master games 2026-04-25 05-22/chunk-001.pgn",
       "url": "files/Databases/Desktop/Reference/Master%20games%202026-04-25%2005-22/chunk-001.pgn",
-      "lastModified": 1781891532514.399,
-      "sizeBytes": 7974601
+      "lastModified": 1783129909313.1655,
+      "sizeBytes": 8029971
     },
     {
       "type": "file",
@@ -324,7 +321,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/Carlsen, Magnus repertoire/chunk-001.pgn",
       "url": "files/Databases/Desktop/Repertoires/Carlsen%2C%20Magnus%20repertoire/chunk-001.pgn",
-      "lastModified": 1781891998695.313,
+      "lastModified": 1783135412063.855,
       "sizeBytes": 26214106
     },
     {
@@ -334,7 +331,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/Carlsen, Magnus repertoire/chunk-002.pgn",
       "url": "files/Databases/Desktop/Repertoires/Carlsen%2C%20Magnus%20repertoire/chunk-002.pgn",
-      "lastModified": 1781891998695.313,
+      "lastModified": 1783135412063.855,
       "sizeBytes": 26214128
     },
     {
@@ -344,8 +341,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/Carlsen, Magnus repertoire/chunk-003.pgn",
       "url": "files/Databases/Desktop/Repertoires/Carlsen%2C%20Magnus%20repertoire/chunk-003.pgn",
-      "lastModified": 1781891998695.313,
-      "sizeBytes": 13402988
+      "lastModified": 1783135412063.855,
+      "sizeBytes": 13458358
     },
     {
       "type": "file",
@@ -354,7 +351,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-001.pgn",
       "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-001.pgn",
-      "lastModified": 1781892507166.599,
+      "lastModified": 1783138825803.843,
       "sizeBytes": 26214377
     },
     {
@@ -364,7 +361,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-002.pgn",
       "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-002.pgn",
-      "lastModified": 1781892507166.599,
+      "lastModified": 1783138825803.843,
       "sizeBytes": 26214298
     },
     {
@@ -374,7 +371,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-003.pgn",
       "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-003.pgn",
-      "lastModified": 1781892507166.599,
+      "lastModified": 1783138825803.843,
       "sizeBytes": 26214288
     },
     {
@@ -384,7 +381,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-004.pgn",
       "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-004.pgn",
-      "lastModified": 1781892507166.599,
+      "lastModified": 1783138825803.843,
       "sizeBytes": 26214168
     },
     {
@@ -394,7 +391,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-005.pgn",
       "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-005.pgn",
-      "lastModified": 1781892507166.599,
+      "lastModified": 1783138825803.843,
       "sizeBytes": 26214282
     },
     {
@@ -404,7 +401,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-006.pgn",
       "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-006.pgn",
-      "lastModified": 1781892507166.599,
+      "lastModified": 1783138825803.843,
       "sizeBytes": 26214291
     },
     {
@@ -414,7 +411,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-007.pgn",
       "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-007.pgn",
-      "lastModified": 1781892507166.599,
+      "lastModified": 1783138825803.843,
       "sizeBytes": 26214348
     },
     {
@@ -424,7 +421,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-008.pgn",
       "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-008.pgn",
-      "lastModified": 1781892507166.599,
+      "lastModified": 1783138825803.843,
       "sizeBytes": 26214195
     },
     {
@@ -434,7 +431,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-009.pgn",
       "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-009.pgn",
-      "lastModified": 1781892507166.599,
+      "lastModified": 1783138825803.843,
       "sizeBytes": 26214241
     },
     {
@@ -444,8 +441,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-010.pgn",
       "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-010.pgn",
-      "lastModified": 1781892507166.599,
-      "sizeBytes": 7502136
+      "lastModified": 1783138825803.843,
+      "sizeBytes": 7557506
     },
     {
       "type": "file",
@@ -454,7 +451,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/Loxi-ty repertoire/chunk-001.pgn",
       "url": "files/Databases/Desktop/Repertoires/Loxi-ty%20repertoire/chunk-001.pgn",
-      "lastModified": 1781905860719.2815,
+      "lastModified": 1783341255408.0398,
       "sizeBytes": 26214351
     },
     {
@@ -464,7 +461,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/Loxi-ty repertoire/chunk-002.pgn",
       "url": "files/Databases/Desktop/Repertoires/Loxi-ty%20repertoire/chunk-002.pgn",
-      "lastModified": 1781905860719.2815,
+      "lastModified": 1783341255408.0398,
       "sizeBytes": 26214348
     },
     {
@@ -474,7 +471,7 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/Loxi-ty repertoire/chunk-003.pgn",
       "url": "files/Databases/Desktop/Repertoires/Loxi-ty%20repertoire/chunk-003.pgn",
-      "lastModified": 1781905860719.2815,
+      "lastModified": 1783341255408.0398,
       "sizeBytes": 26214143
     },
     {
@@ -484,8 +481,8 @@
       "extension": "pgn",
       "path": "Databases/Desktop/Repertoires/Loxi-ty repertoire/chunk-004.pgn",
       "url": "files/Databases/Desktop/Repertoires/Loxi-ty%20repertoire/chunk-004.pgn",
-      "lastModified": 1781905860719.2815,
-      "sizeBytes": 21647160
+      "lastModified": 1783341255408.0398,
+      "sizeBytes": 21702530
     },
     {
       "type": "file",
@@ -879,16 +876,6 @@
     },
     {
       "type": "file",
-      "name": "0001 2025.04.14 My classical games - Lachlan vs surag prabhu 1718 1-0 Anonymous - Anonymous",
-      "filename": "0001 2025.04.14 My classical games - Lachlan vs surag prabhu 1718 1-0 Anonymous - Anonymous.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0001 2025.04.14 My classical games - Lachlan vs surag prabhu 1718 1-0 Anonymous - Anonymous.pgn",
-      "url": "files/My%20classical%20games/0001%202025.04.14%20My%20classical%20games%20-%20Lachlan%20vs%20surag%20prabhu%201718%201-0%20Anonymous%20-%20Anonymous.pgn",
-      "lastModified": 1780408974104.497,
-      "sizeBytes": 2154
-    },
-    {
-      "type": "file",
       "name": "0001 2025.04.14 My classical games - Lachlan vs surag prabhu 1718 1-0",
       "filename": "0001 2025.04.14 My classical games - Lachlan vs surag prabhu 1718 1-0.pgn",
       "extension": "pgn",
@@ -896,16 +883,6 @@
       "url": "files/My%20classical%20games/0001%202025.04.14%20My%20classical%20games%20-%20Lachlan%20vs%20surag%20prabhu%201718%201-0.pgn",
       "lastModified": 1780408974104.497,
       "sizeBytes": 2154
-    },
-    {
-      "type": "file",
-      "name": "0002 2024.11.19 My classical games - Lachlan vs steve cunliffe (2000) 1 2 - 1 2 Unknown - Unknown",
-      "filename": "0002 2024.11.19 My classical games - Lachlan vs steve cunliffe (2000) 1 2 - 1 2 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0002 2024.11.19 My classical games - Lachlan vs steve cunliffe (2000) 1 2 - 1 2 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0002%202024.11.19%20My%20classical%20games%20-%20Lachlan%20vs%20steve%20cunliffe%20(2000)%201%202%20-%201%202%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780408974104.497,
-      "sizeBytes": 2822
     },
     {
       "type": "file",
@@ -919,16 +896,6 @@
     },
     {
       "type": "file",
-      "name": "0003 2026.02.28 My classical games - Lachlan vs jonathan james (2043) (1 2 - 1 2) Unknown - Unknown",
-      "filename": "0003 2026.02.28 My classical games - Lachlan vs jonathan james (2043) (1 2 - 1 2) Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0003 2026.02.28 My classical games - Lachlan vs jonathan james (2043) (1 2 - 1 2) Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0003%202026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20jonathan%20james%20(2043)%20(1%202%20-%201%202)%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780782731159.9038,
-      "sizeBytes": 2334
-    },
-    {
-      "type": "file",
       "name": "0003 2026.02.28 My classical games - Lachlan vs jonathan james (2043) (1 2 - 1 2)",
       "filename": "0003 2026.02.28 My classical games - Lachlan vs jonathan james (2043) (1 2 - 1 2).pgn",
       "extension": "pgn",
@@ -936,16 +903,6 @@
       "url": "files/My%20classical%20games/0003%202026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20jonathan%20james%20(2043)%20(1%202%20-%201%202).pgn",
       "lastModified": 1780782731159.9038,
       "sizeBytes": 2334
-    },
-    {
-      "type": "file",
-      "name": "0004 2026.02.28 My classical games - George bowkett vs Lachlan Tyrrell (1-0), queen's gambit harrwitz variation Unknown",
-      "filename": "0004 2026.02.28 My classical games - George bowkett vs Lachlan Tyrrell (1-0), queen's gambit harrwitz variation Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0004 2026.02.28 My classical games - George bowkett vs Lachlan Tyrrell (1-0), queen's gambit harrwitz variation Unknown.pgn",
-      "url": "files/My%20classical%20games/0004%202026.02.28%20My%20classical%20games%20-%20George%20bowkett%20vs%20Lachlan%20Tyrrell%20(1-0)%2C%20queen's%20gambit%20harrwitz%20variation%20Unknown.pgn",
-      "lastModified": 1779961169132.0144,
-      "sizeBytes": 3337
     },
     {
       "type": "file",
@@ -959,16 +916,6 @@
     },
     {
       "type": "file",
-      "name": "0005 2026.02.28 My classical games - Lachlan vs Piotr graczyk 1-0 Unknown - Unknown",
-      "filename": "0005 2026.02.28 My classical games - Lachlan vs Piotr graczyk 1-0 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0005 2026.02.28 My classical games - Lachlan vs Piotr graczyk 1-0 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0005%202026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20Piotr%20graczyk%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1782165751503.204,
-      "sizeBytes": 1416
-    },
-    {
-      "type": "file",
       "name": "0005 2026.02.28 My classical games - Lachlan vs Piotr graczyk 1-0",
       "filename": "0005 2026.02.28 My classical games - Lachlan vs Piotr graczyk 1-0.pgn",
       "extension": "pgn",
@@ -976,16 +923,6 @@
       "url": "files/My%20classical%20games/0005%202026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20Piotr%20graczyk%201-0.pgn",
       "lastModified": 1782165751503.204,
       "sizeBytes": 1416
-    },
-    {
-      "type": "file",
-      "name": "0006 2026.02.28 My classical games - Kam choo yin vs lachlan tyrrell 0-1 english opening Unknown - Unknown",
-      "filename": "0006 2026.02.28 My classical games - Kam choo yin vs lachlan tyrrell 0-1 english opening Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0006 2026.02.28 My classical games - Kam choo yin vs lachlan tyrrell 0-1 english opening Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0006%202026.02.28%20My%20classical%20games%20-%20Kam%20choo%20yin%20vs%20lachlan%20tyrrell%200-1%20english%20opening%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169133.017,
-      "sizeBytes": 2735
     },
     {
       "type": "file",
@@ -999,16 +936,6 @@
     },
     {
       "type": "file",
-      "name": "0007 2025.11.11 My classical games - Lachlan vs Mike gale 1 2,1 2 Unknown - Unknown",
-      "filename": "0007 2025.11.11 My classical games - Lachlan vs Mike gale 1 2,1 2 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0007 2025.11.11 My classical games - Lachlan vs Mike gale 1 2,1 2 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0007%202025.11.11%20My%20classical%20games%20-%20Lachlan%20vs%20Mike%20gale%201%202%2C1%202%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169131.0117,
-      "sizeBytes": 4201
-    },
-    {
-      "type": "file",
       "name": "0007 2025.11.11 My classical games - Lachlan vs Mike gale 1 2,1 2",
       "filename": "0007 2025.11.11 My classical games - Lachlan vs Mike gale 1 2,1 2.pgn",
       "extension": "pgn",
@@ -1016,16 +943,6 @@
       "url": "files/My%20classical%20games/0007%202025.11.11%20My%20classical%20games%20-%20Lachlan%20vs%20Mike%20gale%201%202%2C1%202.pgn",
       "lastModified": 1779961169131.0117,
       "sizeBytes": 4201
-    },
-    {
-      "type": "file",
-      "name": "0008 2026.02.28 My classical games - Lachlan vs ken Hannah 1707 (1-0) Unknown - Unknown",
-      "filename": "0008 2026.02.28 My classical games - Lachlan vs ken Hannah 1707 (1-0) Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0008 2026.02.28 My classical games - Lachlan vs ken Hannah 1707 (1-0) Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0008%202026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20ken%20Hannah%201707%20(1-0)%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169134.0198,
-      "sizeBytes": 1204
     },
     {
       "type": "file",
@@ -1039,16 +956,6 @@
     },
     {
       "type": "file",
-      "name": "0009 2026.02.28 My classical games - Lachlan vs Steve jones 1-0 Unknown - Unknown",
-      "filename": "0009 2026.02.28 My classical games - Lachlan vs Steve jones 1-0 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0009 2026.02.28 My classical games - Lachlan vs Steve jones 1-0 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0009%202026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20Steve%20jones%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169134.0198,
-      "sizeBytes": 2106
-    },
-    {
-      "type": "file",
       "name": "0009 2026.02.28 My classical games - Lachlan vs Steve jones 1-0",
       "filename": "0009 2026.02.28 My classical games - Lachlan vs Steve jones 1-0.pgn",
       "extension": "pgn",
@@ -1056,16 +963,6 @@
       "url": "files/My%20classical%20games/0009%202026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20Steve%20jones%201-0.pgn",
       "lastModified": 1779961169134.0198,
       "sizeBytes": 2106
-    },
-    {
-      "type": "file",
-      "name": "0010 2026.02.28 My classical games - Lachlan vs Russel Dodington (0-1) (1784) Unknown - Unknown",
-      "filename": "0010 2026.02.28 My classical games - Lachlan vs Russel Dodington (0-1) (1784) Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0010 2026.02.28 My classical games - Lachlan vs Russel Dodington (0-1) (1784) Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0010%202026.02.28%20My%20classical%20games%20-%20Lachlan%20vs%20Russel%20Dodington%20(0-1)%20(1784)%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169134.0198,
-      "sizeBytes": 3036
     },
     {
       "type": "file",
@@ -1079,16 +976,6 @@
     },
     {
       "type": "file",
-      "name": "0011 2026.02.28 My classical games - Lachlan (1848) vs Lucas Zheng (1756) 1-0 Unknown - Unknown",
-      "filename": "0011 2026.02.28 My classical games - Lachlan (1848) vs Lucas Zheng (1756) 1-0 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0011 2026.02.28 My classical games - Lachlan (1848) vs Lucas Zheng (1756) 1-0 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0011%202026.02.28%20My%20classical%20games%20-%20Lachlan%20(1848)%20vs%20Lucas%20Zheng%20(1756)%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169135.5276,
-      "sizeBytes": 2144
-    },
-    {
-      "type": "file",
       "name": "0011 2026.02.28 My classical games - Lachlan (1848) vs Lucas Zheng (1756) 1-0",
       "filename": "0011 2026.02.28 My classical games - Lachlan (1848) vs Lucas Zheng (1756) 1-0.pgn",
       "extension": "pgn",
@@ -1096,16 +983,6 @@
       "url": "files/My%20classical%20games/0011%202026.02.28%20My%20classical%20games%20-%20Lachlan%20(1848)%20vs%20Lucas%20Zheng%20(1756)%201-0.pgn",
       "lastModified": 1779961169135.5276,
       "sizeBytes": 2144
-    },
-    {
-      "type": "file",
-      "name": "0012 2026.02.28 My classical games - Kam Choo yin (1755) vs Lachlan tyrrell 0-1 Unknown - Unknown",
-      "filename": "0012 2026.02.28 My classical games - Kam Choo yin (1755) vs Lachlan tyrrell 0-1 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0012 2026.02.28 My classical games - Kam Choo yin (1755) vs Lachlan tyrrell 0-1 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0012%202026.02.28%20My%20classical%20games%20-%20Kam%20Choo%20yin%20(1755)%20vs%20Lachlan%20tyrrell%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169135.5276,
-      "sizeBytes": 3289
     },
     {
       "type": "file",
@@ -1119,16 +996,6 @@
     },
     {
       "type": "file",
-      "name": "0013 2026.03.03 My classical games - Lachlan vs Andrew divetta (1893) 1-0 Unknown - Unknown",
-      "filename": "0013 2026.03.03 My classical games - Lachlan vs Andrew divetta (1893) 1-0 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0013 2026.03.03 My classical games - Lachlan vs Andrew divetta (1893) 1-0 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0013%202026.03.03%20My%20classical%20games%20-%20Lachlan%20vs%20Andrew%20divetta%20(1893)%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169137.036,
-      "sizeBytes": 6358
-    },
-    {
-      "type": "file",
       "name": "0013 2026.03.03 My classical games - Lachlan vs Andrew divetta (1893) 1-0",
       "filename": "0013 2026.03.03 My classical games - Lachlan vs Andrew divetta (1893) 1-0.pgn",
       "extension": "pgn",
@@ -1139,16 +1006,6 @@
     },
     {
       "type": "file",
-      "name": "0014 2026.03.07 My classical games - Prabu Vismith vs Lachlan (1 2) Unknown - Unknown",
-      "filename": "0014 2026.03.07 My classical games - Prabu Vismith vs Lachlan (1 2) Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0014 2026.03.07 My classical games - Prabu Vismith vs Lachlan (1 2) Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0014%202026.03.07%20My%20classical%20games%20-%20Prabu%20Vismith%20vs%20Lachlan%20(1%202)%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169138.418,
-      "sizeBytes": 3671
-    },
-    {
-      "type": "file",
       "name": "0014 2026.03.07 My classical games - Prabu Vismith vs Lachlan (1 2)",
       "filename": "0014 2026.03.07 My classical games - Prabu Vismith vs Lachlan (1 2).pgn",
       "extension": "pgn",
@@ -1156,16 +1013,6 @@
       "url": "files/My%20classical%20games/0014%202026.03.07%20My%20classical%20games%20-%20Prabu%20Vismith%20vs%20Lachlan%20(1%202).pgn",
       "lastModified": 1779961169138.418,
       "sizeBytes": 3671
-    },
-    {
-      "type": "file",
-      "name": "0015 2026.03.07 My classical games - Lachlan tyrrell vs Daniel katchi 1-0 Unknown - Unknown",
-      "filename": "0015 2026.03.07 My classical games - Lachlan tyrrell vs Daniel katchi 1-0 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0015 2026.03.07 My classical games - Lachlan tyrrell vs Daniel katchi 1-0 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0015%202026.03.07%20My%20classical%20games%20-%20Lachlan%20tyrrell%20vs%20Daniel%20katchi%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169137.036,
-      "sizeBytes": 2433
     },
     {
       "type": "file",
@@ -1189,16 +1036,6 @@
     },
     {
       "type": "file",
-      "name": "0017 2026.03.08 My classical games - Lachlan vs Ethan mcgrath 1-0 Unknown - Unknown",
-      "filename": "0017 2026.03.08 My classical games - Lachlan vs Ethan mcgrath 1-0 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0017 2026.03.08 My classical games - Lachlan vs Ethan mcgrath 1-0 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0017%202026.03.08%20My%20classical%20games%20-%20Lachlan%20vs%20Ethan%20mcgrath%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169139.4456,
-      "sizeBytes": 1649
-    },
-    {
-      "type": "file",
       "name": "0017 2026.03.08 My classical games - Lachlan vs Ethan mcgrath 1-0",
       "filename": "0017 2026.03.08 My classical games - Lachlan vs Ethan mcgrath 1-0.pgn",
       "extension": "pgn",
@@ -1206,16 +1043,6 @@
       "url": "files/My%20classical%20games/0017%202026.03.08%20My%20classical%20games%20-%20Lachlan%20vs%20Ethan%20mcgrath%201-0.pgn",
       "lastModified": 1779961169139.4456,
       "sizeBytes": 1649
-    },
-    {
-      "type": "file",
-      "name": "0018 2026.03.08 My classical games - Wutong Chen vs Lachlan (0-1) Unknown - Unknown",
-      "filename": "0018 2026.03.08 My classical games - Wutong Chen vs Lachlan (0-1) Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0018 2026.03.08 My classical games - Wutong Chen vs Lachlan (0-1) Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0018%202026.03.08%20My%20classical%20games%20-%20Wutong%20Chen%20vs%20Lachlan%20(0-1)%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169139.4456,
-      "sizeBytes": 4734
     },
     {
       "type": "file",
@@ -1229,16 +1056,6 @@
     },
     {
       "type": "file",
-      "name": "0019 2026.03.09 My classical games - Lucas zheng vs Lachlan (0-1) Unknown - Unknown",
-      "filename": "0019 2026.03.09 My classical games - Lucas zheng vs Lachlan (0-1) Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0019 2026.03.09 My classical games - Lucas zheng vs Lachlan (0-1) Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0019%202026.03.09%20My%20classical%20games%20-%20Lucas%20zheng%20vs%20Lachlan%20(0-1)%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169140.455,
-      "sizeBytes": 4898
-    },
-    {
-      "type": "file",
       "name": "0019 2026.03.09 My classical games - Lucas zheng vs Lachlan (0-1)",
       "filename": "0019 2026.03.09 My classical games - Lucas zheng vs Lachlan (0-1).pgn",
       "extension": "pgn",
@@ -1246,16 +1063,6 @@
       "url": "files/My%20classical%20games/0019%202026.03.09%20My%20classical%20games%20-%20Lucas%20zheng%20vs%20Lachlan%20(0-1).pgn",
       "lastModified": 1779961169140.455,
       "sizeBytes": 4898
-    },
-    {
-      "type": "file",
-      "name": "0020 2026.03.16 My classical games - lachlan vs zack wilkins 1-0 Unknown - Unknown",
-      "filename": "0020 2026.03.16 My classical games - lachlan vs zack wilkins 1-0 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0020 2026.03.16 My classical games - lachlan vs zack wilkins 1-0 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0020%202026.03.16%20My%20classical%20games%20-%20lachlan%20vs%20zack%20wilkins%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169140.455,
-      "sizeBytes": 4656
     },
     {
       "type": "file",
@@ -1269,16 +1076,6 @@
     },
     {
       "type": "file",
-      "name": "0021 2026.04.03 My classical games - lachlan vs dale westcott, welsh open championship 2026 0-1 annotations, no clock Un",
-      "filename": "0021 2026.04.03 My classical games - lachlan vs dale westcott, welsh open championship 2026 0-1 annotations, no clock Un.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0021 2026.04.03 My classical games - lachlan vs dale westcott, welsh open championship 2026 0-1 annotations, no clock Un.pgn",
-      "url": "files/My%20classical%20games/0021%202026.04.03%20My%20classical%20games%20-%20lachlan%20vs%20dale%20westcott%2C%20welsh%20open%20championship%202026%200-1%20annotations%2C%20no%20clock%20Un.pgn",
-      "lastModified": 1780636300247.7861,
-      "sizeBytes": 5324
-    },
-    {
-      "type": "file",
       "name": "0021 2026.04.03 My classical games - lachlan vs dale westcott, welsh open championship 2026 0-1 annotations, no clock",
       "filename": "0021 2026.04.03 My classical games - lachlan vs dale westcott, welsh open championship 2026 0-1 annotations, no clock.pgn",
       "extension": "pgn",
@@ -1286,16 +1083,6 @@
       "url": "files/My%20classical%20games/0021%202026.04.03%20My%20classical%20games%20-%20lachlan%20vs%20dale%20westcott%2C%20welsh%20open%20championship%202026%200-1%20annotations%2C%20no%20clock.pgn",
       "lastModified": 1780636300247.7861,
       "sizeBytes": 5324
-    },
-    {
-      "type": "file",
-      "name": "0022 2026.04.03 My classical games - Luc zimmer vs lachlan 0-1 welsh championship open Unknown - Unknown",
-      "filename": "0022 2026.04.03 My classical games - Luc zimmer vs lachlan 0-1 welsh championship open Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0022 2026.04.03 My classical games - Luc zimmer vs lachlan 0-1 welsh championship open Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0022%202026.04.03%20My%20classical%20games%20-%20Luc%20zimmer%20vs%20lachlan%200-1%20welsh%20championship%20open%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169141.554,
-      "sizeBytes": 1666
     },
     {
       "type": "file",
@@ -1379,16 +1166,6 @@
     },
     {
       "type": "file",
-      "name": "0030 2026.05.05 My classical games - Ifan vs Lachlan 1 2 1 2 Unknown - Unknown",
-      "filename": "0030 2026.05.05 My classical games - Ifan vs Lachlan 1 2 1 2 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0030 2026.05.05 My classical games - Ifan vs Lachlan 1 2 1 2 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0030%202026.05.05%20My%20classical%20games%20-%20Ifan%20vs%20Lachlan%201%202%201%202%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780795677383.8594,
-      "sizeBytes": 3685
-    },
-    {
-      "type": "file",
       "name": "0030 2026.05.05 My classical games - Ifan vs Lachlan 1 2 1 2",
       "filename": "0030 2026.05.05 My classical games - Ifan vs Lachlan 1 2 1 2.pgn",
       "extension": "pgn",
@@ -1396,16 +1173,6 @@
       "url": "files/My%20classical%20games/0030%202026.05.05%20My%20classical%20games%20-%20Ifan%20vs%20Lachlan%201%202%201%202.pgn",
       "lastModified": 1780795677383.8594,
       "sizeBytes": 3685
-    },
-    {
-      "type": "file",
-      "name": "0031 2026.05.07 My classical games - Jonathan james vs lachlan 1 2, 1 2 Unknown - Unknown",
-      "filename": "0031 2026.05.07 My classical games - Jonathan james vs lachlan 1 2, 1 2 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0031 2026.05.07 My classical games - Jonathan james vs lachlan 1 2, 1 2 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0031%202026.05.07%20My%20classical%20games%20-%20Jonathan%20james%20vs%20lachlan%201%202%2C%201%202%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169147.0828,
-      "sizeBytes": 5338
     },
     {
       "type": "file",
@@ -1419,16 +1186,6 @@
     },
     {
       "type": "file",
-      "name": "0032 2026.05.09 My classical games - Lachlan vs Reginald Mba 0-1 Unknown - Unknown",
-      "filename": "0032 2026.05.09 My classical games - Lachlan vs Reginald Mba 0-1 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0032 2026.05.09 My classical games - Lachlan vs Reginald Mba 0-1 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0032%202026.05.09%20My%20classical%20games%20-%20Lachlan%20vs%20Reginald%20Mba%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780791396509.5222,
-      "sizeBytes": 3180
-    },
-    {
-      "type": "file",
       "name": "0032 2026.05.09 My classical games - Lachlan vs Reginald Mba 0-1",
       "filename": "0032 2026.05.09 My classical games - Lachlan vs Reginald Mba 0-1.pgn",
       "extension": "pgn",
@@ -1436,16 +1193,6 @@
       "url": "files/My%20classical%20games/0032%202026.05.09%20My%20classical%20games%20-%20Lachlan%20vs%20Reginald%20Mba%200-1.pgn",
       "lastModified": 1780791396509.5222,
       "sizeBytes": 3180
-    },
-    {
-      "type": "file",
-      "name": "0033 2026.05.22 My classical games - Lachlan vs Steven Holmes 1-0 Unknown - Unknown",
-      "filename": "0033 2026.05.22 My classical games - Lachlan vs Steven Holmes 1-0 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0033 2026.05.22 My classical games - Lachlan vs Steven Holmes 1-0 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0033%202026.05.22%20My%20classical%20games%20-%20Lachlan%20vs%20Steven%20Holmes%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169148.5005,
-      "sizeBytes": 1792
     },
     {
       "type": "file",
@@ -1459,16 +1206,6 @@
     },
     {
       "type": "file",
-      "name": "0034 2026.05.23 My classical games - Joel Green vs Lachlan 0-1 Unknown - Unknown",
-      "filename": "0034 2026.05.23 My classical games - Joel Green vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0034 2026.05.23 My classical games - Joel Green vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0034%202026.05.23%20My%20classical%20games%20-%20Joel%20Green%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780785544802.1008,
-      "sizeBytes": 3842
-    },
-    {
-      "type": "file",
       "name": "0034 2026.05.23 My classical games - Joel Green vs Lachlan 0-1",
       "filename": "0034 2026.05.23 My classical games - Joel Green vs Lachlan 0-1.pgn",
       "extension": "pgn",
@@ -1476,16 +1213,6 @@
       "url": "files/My%20classical%20games/0034%202026.05.23%20My%20classical%20games%20-%20Joel%20Green%20vs%20Lachlan%200-1.pgn",
       "lastModified": 1780785544802.1008,
       "sizeBytes": 3842
-    },
-    {
-      "type": "file",
-      "name": "0035 2026.05.23 My classical games - Nicolas rojas vs Lachlan 0-1 Unknown - Unknown",
-      "filename": "0035 2026.05.23 My classical games - Nicolas rojas vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0035 2026.05.23 My classical games - Nicolas rojas vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0035%202026.05.23%20My%20classical%20games%20-%20Nicolas%20rojas%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780785707979.412,
-      "sizeBytes": 7663
     },
     {
       "type": "file",
@@ -1499,16 +1226,6 @@
     },
     {
       "type": "file",
-      "name": "0036 2026.05.24 My classical games - Michael Hughes vs Lachlan 0-1 Unknown - Unknown",
-      "filename": "0036 2026.05.24 My classical games - Michael Hughes vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0036 2026.05.24 My classical games - Michael Hughes vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0036%202026.05.24%20My%20classical%20games%20-%20Michael%20Hughes%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169150.5217,
-      "sizeBytes": 2588
-    },
-    {
-      "type": "file",
       "name": "0036 2026.05.24 My classical games - Michael Hughes vs Lachlan 0-1",
       "filename": "0036 2026.05.24 My classical games - Michael Hughes vs Lachlan 0-1.pgn",
       "extension": "pgn",
@@ -1516,16 +1233,6 @@
       "url": "files/My%20classical%20games/0036%202026.05.24%20My%20classical%20games%20-%20Michael%20Hughes%20vs%20Lachlan%200-1.pgn",
       "lastModified": 1779961169150.5217,
       "sizeBytes": 2588
-    },
-    {
-      "type": "file",
-      "name": "0037 2026.05.26 My classical games - Verma schlock vs Lachlan 1-0 Unknown - Unknown",
-      "filename": "0037 2026.05.26 My classical games - Verma schlock vs Lachlan 1-0 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0037 2026.05.26 My classical games - Verma schlock vs Lachlan 1-0 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0037%202026.05.26%20My%20classical%20games%20-%20Verma%20schlock%20vs%20Lachlan%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780771378855.133,
-      "sizeBytes": 2823
     },
     {
       "type": "file",
@@ -1539,16 +1246,6 @@
     },
     {
       "type": "file",
-      "name": "0038 2026.05.27 My classical games - Peter hazel vs Lachlan Tyrrell Unknown - Unknown",
-      "filename": "0038 2026.05.27 My classical games - Peter hazel vs Lachlan Tyrrell Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0038 2026.05.27 My classical games - Peter hazel vs Lachlan Tyrrell Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0038%202026.05.27%20My%20classical%20games%20-%20Peter%20hazel%20vs%20Lachlan%20Tyrrell%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780749856689.329,
-      "sizeBytes": 941
-    },
-    {
-      "type": "file",
       "name": "0038 2026.05.27 My classical games - Peter hazel vs Lachlan Tyrrell",
       "filename": "0038 2026.05.27 My classical games - Peter hazel vs Lachlan Tyrrell.pgn",
       "extension": "pgn",
@@ -1556,16 +1253,6 @@
       "url": "files/My%20classical%20games/0038%202026.05.27%20My%20classical%20games%20-%20Peter%20hazel%20vs%20Lachlan%20Tyrrell.pgn",
       "lastModified": 1780749856689.329,
       "sizeBytes": 941
-    },
-    {
-      "type": "file",
-      "name": "0039 2026.05.27 My classical games - IM Peter larger vs Lachlan tyrrell Unknown - Unknown",
-      "filename": "0039 2026.05.27 My classical games - IM Peter larger vs Lachlan tyrrell Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0039 2026.05.27 My classical games - IM Peter larger vs Lachlan tyrrell Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0039%202026.05.27%20My%20classical%20games%20-%20IM%20Peter%20larger%20vs%20Lachlan%20tyrrell%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780772265657.5955,
-      "sizeBytes": 1926
     },
     {
       "type": "file",
@@ -1579,16 +1266,6 @@
     },
     {
       "type": "file",
-      "name": "0040 2026.05.24 My classical games - Lachlan vs joythika 1 2 Unknown - Unknown",
-      "filename": "0040 2026.05.24 My classical games - Lachlan vs joythika 1 2 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0040 2026.05.24 My classical games - Lachlan vs joythika 1 2 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0040%202026.05.24%20My%20classical%20games%20-%20Lachlan%20vs%20joythika%201%202%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1779961169150.5217,
-      "sizeBytes": 3858
-    },
-    {
-      "type": "file",
       "name": "0040 2026.05.24 My classical games - Lachlan vs joythika 1 2",
       "filename": "0040 2026.05.24 My classical games - Lachlan vs joythika 1 2.pgn",
       "extension": "pgn",
@@ -1596,16 +1273,6 @@
       "url": "files/My%20classical%20games/0040%202026.05.24%20My%20classical%20games%20-%20Lachlan%20vs%20joythika%201%202.pgn",
       "lastModified": 1779961169150.5217,
       "sizeBytes": 3858
-    },
-    {
-      "type": "file",
-      "name": "0041 2026.05.30 My classical games - Jonathan Rubeck vs Lachlan 0-1 Unknown - Unknown",
-      "filename": "0041 2026.05.30 My classical games - Jonathan Rubeck vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0041 2026.05.30 My classical games - Jonathan Rubeck vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0041%202026.05.30%20My%20classical%20games%20-%20Jonathan%20Rubeck%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780636300286.8108,
-      "sizeBytes": 3509
     },
     {
       "type": "file",
@@ -1619,16 +1286,6 @@
     },
     {
       "type": "file",
-      "name": "0042 2026.05.30 My classical games - Josh sharma vs Lachlan 0-1 Unknown - Unknown",
-      "filename": "0042 2026.05.30 My classical games - Josh sharma vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0042 2026.05.30 My classical games - Josh sharma vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0042%202026.05.30%20My%20classical%20games%20-%20Josh%20sharma%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780771233911.8828,
-      "sizeBytes": 4245
-    },
-    {
-      "type": "file",
       "name": "0042 2026.05.30 My classical games - Josh sharma vs Lachlan 0-1",
       "filename": "0042 2026.05.30 My classical games - Josh sharma vs Lachlan 0-1.pgn",
       "extension": "pgn",
@@ -1636,16 +1293,6 @@
       "url": "files/My%20classical%20games/0042%202026.05.30%20My%20classical%20games%20-%20Josh%20sharma%20vs%20Lachlan%200-1.pgn",
       "lastModified": 1780771233911.8828,
       "sizeBytes": 4245
-    },
-    {
-      "type": "file",
-      "name": "0043 2026.05.30 My classical games - Lachlan vs Adam Sieczkowski 1 2 Unknown - Unknown",
-      "filename": "0043 2026.05.30 My classical games - Lachlan vs Adam Sieczkowski 1 2 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0043 2026.05.30 My classical games - Lachlan vs Adam Sieczkowski 1 2 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0043%202026.05.30%20My%20classical%20games%20-%20Lachlan%20vs%20Adam%20Sieczkowski%201%202%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1781300477361.6416,
-      "sizeBytes": 5082
     },
     {
       "type": "file",
@@ -1659,16 +1306,6 @@
     },
     {
       "type": "file",
-      "name": "0044 2026.05.31 My classical games - Lachlan vs IM Peter large 1 2 Unknown - Unknown",
-      "filename": "0044 2026.05.31 My classical games - Lachlan vs IM Peter large 1 2 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0044 2026.05.31 My classical games - Lachlan vs IM Peter large 1 2 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0044%202026.05.31%20My%20classical%20games%20-%20Lachlan%20vs%20IM%20Peter%20large%201%202%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780657546523.9128,
-      "sizeBytes": 8954
-    },
-    {
-      "type": "file",
       "name": "0044 2026.05.31 My classical games - Lachlan vs IM Peter large 1 2",
       "filename": "0044 2026.05.31 My classical games - Lachlan vs IM Peter large 1 2.pgn",
       "extension": "pgn",
@@ -1676,16 +1313,6 @@
       "url": "files/My%20classical%20games/0044%202026.05.31%20My%20classical%20games%20-%20Lachlan%20vs%20IM%20Peter%20large%201%202.pgn",
       "lastModified": 1780657546523.9128,
       "sizeBytes": 8954
-    },
-    {
-      "type": "file",
-      "name": "0045 2026.05.31 My classical games - Lachlan vs Jia Arn yeung 0-1 Unknown - Unknown",
-      "filename": "0045 2026.05.31 My classical games - Lachlan vs Jia Arn yeung 0-1 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0045 2026.05.31 My classical games - Lachlan vs Jia Arn yeung 0-1 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0045%202026.05.31%20My%20classical%20games%20-%20Lachlan%20vs%20Jia%20Arn%20yeung%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1780636300295.7776,
-      "sizeBytes": 4752
     },
     {
       "type": "file",
@@ -1699,16 +1326,6 @@
     },
     {
       "type": "file",
-      "name": "0046 2026.06.11 My classical games - Yawar vs lachlan 0-1 Unknown - Unknown",
-      "filename": "0046 2026.06.11 My classical games - Yawar vs lachlan 0-1 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0046 2026.06.11 My classical games - Yawar vs lachlan 0-1 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0046%202026.06.11%20My%20classical%20games%20-%20Yawar%20vs%20lachlan%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1781372946569.2646,
-      "sizeBytes": 9670
-    },
-    {
-      "type": "file",
       "name": "0046 2026.06.11 My classical games - Yawar vs lachlan 0-1",
       "filename": "0046 2026.06.11 My classical games - Yawar vs lachlan 0-1.pgn",
       "extension": "pgn",
@@ -1716,16 +1333,6 @@
       "url": "files/My%20classical%20games/0046%202026.06.11%20My%20classical%20games%20-%20Yawar%20vs%20lachlan%200-1.pgn",
       "lastModified": 1781372946569.2646,
       "sizeBytes": 9670
-    },
-    {
-      "type": "file",
-      "name": "0047 2026.06.20 My classical games - Lachlan vs Paul Colburn 1-0 Unknown - Unknown",
-      "filename": "0047 2026.06.20 My classical games - Lachlan vs Paul Colburn 1-0 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0047 2026.06.20 My classical games - Lachlan vs Paul Colburn 1-0 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0047%202026.06.20%20My%20classical%20games%20-%20Lachlan%20vs%20Paul%20Colburn%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1782056767078.3213,
-      "sizeBytes": 3605
     },
     {
       "type": "file",
@@ -1739,16 +1346,6 @@
     },
     {
       "type": "file",
-      "name": "0048 2026.06.20 My classical games - Alexey lapidus vs Lachlan 0-1 Unknown - Unknown",
-      "filename": "0048 2026.06.20 My classical games - Alexey lapidus vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0048 2026.06.20 My classical games - Alexey lapidus vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0048%202026.06.20%20My%20classical%20games%20-%20Alexey%20lapidus%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1782232145709.2852,
-      "sizeBytes": 7454
-    },
-    {
-      "type": "file",
       "name": "0048 2026.06.20 My classical games - Alexey lapidus vs Lachlan 0-1",
       "filename": "0048 2026.06.20 My classical games - Alexey lapidus vs Lachlan 0-1.pgn",
       "extension": "pgn",
@@ -1756,16 +1353,6 @@
       "url": "files/My%20classical%20games/0048%202026.06.20%20My%20classical%20games%20-%20Alexey%20lapidus%20vs%20Lachlan%200-1.pgn",
       "lastModified": 1782232145709.2852,
       "sizeBytes": 7454
-    },
-    {
-      "type": "file",
-      "name": "0049 2026.06.21 My classical games - Lachlan tyrrell vs Sebastian mohkber 1-0 Unknown - Unknown",
-      "filename": "0049 2026.06.21 My classical games - Lachlan tyrrell vs Sebastian mohkber 1-0 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0049 2026.06.21 My classical games - Lachlan tyrrell vs Sebastian mohkber 1-0 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0049%202026.06.21%20My%20classical%20games%20-%20Lachlan%20tyrrell%20vs%20Sebastian%20mohkber%201-0%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1782056767082.345,
-      "sizeBytes": 3316
     },
     {
       "type": "file",
@@ -1779,16 +1366,6 @@
     },
     {
       "type": "file",
-      "name": "0050 2026.06.21 My classical games - Amogh Gupta vs Lachlan 0-1 Unknown - Unknown",
-      "filename": "0050 2026.06.21 My classical games - Amogh Gupta vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0050 2026.06.21 My classical games - Amogh Gupta vs Lachlan 0-1 Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0050%202026.06.21%20My%20classical%20games%20-%20Amogh%20Gupta%20vs%20Lachlan%200-1%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1782056767085.2322,
-      "sizeBytes": 694
-    },
-    {
-      "type": "file",
       "name": "0050 2026.06.21 My classical games - Amogh Gupta vs Lachlan 0-1",
       "filename": "0050 2026.06.21 My classical games - Amogh Gupta vs Lachlan 0-1.pgn",
       "extension": "pgn",
@@ -1796,16 +1373,6 @@
       "url": "files/My%20classical%20games/0050%202026.06.21%20My%20classical%20games%20-%20Amogh%20Gupta%20vs%20Lachlan%200-1.pgn",
       "lastModified": 1782056767085.2322,
       "sizeBytes": 694
-    },
-    {
-      "type": "file",
-      "name": "0051 2026.06.21 My classical games - Lachlan vs oleg Unknown - Unknown",
-      "filename": "0051 2026.06.21 My classical games - Lachlan vs oleg Unknown - Unknown.pgn",
-      "extension": "pgn",
-      "path": "My classical games/0051 2026.06.21 My classical games - Lachlan vs oleg Unknown - Unknown.pgn",
-      "url": "files/My%20classical%20games/0051%202026.06.21%20My%20classical%20games%20-%20Lachlan%20vs%20oleg%20Unknown%20-%20Unknown.pgn",
-      "lastModified": 1782234352982.705,
-      "sizeBytes": 3670
     },
     {
       "type": "file",
@@ -1834,98 +1401,8 @@
       "extension": "pgn",
       "path": "My classical games/0053 2026.07.02 My classical games - Lachlan vs sameera kodukala 1-0.pgn",
       "url": "files/My%20classical%20games/0053%202026.07.02%20My%20classical%20games%20-%20Lachlan%20vs%20sameera%20kodukala%201-0.pgn",
-      "lastModified": 1783115556568.452,
-      "sizeBytes": 2687
-    },
-    {
-      "type": "file",
-      "name": "My classical games 0016 2026.03.08 Binx, Michael - Tyrrell, Lachlan",
-      "filename": "My classical games 0016 2026.03.08 Binx, Michael - Tyrrell, Lachlan.pgn",
-      "extension": "pgn",
-      "path": "My classical games/My classical games 0016 2026.03.08 Binx, Michael - Tyrrell, Lachlan.pgn",
-      "url": "files/My%20classical%20games/My%20classical%20games%200016%202026.03.08%20Binx%2C%20Michael%20-%20Tyrrell%2C%20Lachlan.pgn",
-      "lastModified": 1780749856621.7773,
-      "sizeBytes": 6617
-    },
-    {
-      "type": "file",
-      "name": "My classical games 0023 2026.04.04 Tyrrell, Lachlan Baly Hughes - George, Naveen Daniel Round 3.14",
-      "filename": "My classical games 0023 2026.04.04 Tyrrell, Lachlan Baly Hughes - George, Naveen Daniel Round 3.14.pgn",
-      "extension": "pgn",
-      "path": "My classical games/My classical games 0023 2026.04.04 Tyrrell, Lachlan Baly Hughes - George, Naveen Daniel Round 3.14.pgn",
-      "url": "files/My%20classical%20games/My%20classical%20games%200023%202026.04.04%20Tyrrell%2C%20Lachlan%20Baly%20Hughes%20-%20George%2C%20Naveen%20Daniel%20Round%203.14.pgn",
-      "lastModified": 1780408974144.6704,
-      "sizeBytes": 2712
-    },
-    {
-      "type": "file",
-      "name": "My classical games 0024 2026.04.03 Tyrrell, Lachlan Baly Hughes - Westcott, Dale Round 1.12",
-      "filename": "My classical games 0024 2026.04.03 Tyrrell, Lachlan Baly Hughes - Westcott, Dale Round 1.12.pgn",
-      "extension": "pgn",
-      "path": "My classical games/My classical games 0024 2026.04.03 Tyrrell, Lachlan Baly Hughes - Westcott, Dale Round 1.12.pgn",
-      "url": "files/My%20classical%20games/My%20classical%20games%200024%202026.04.03%20Tyrrell%2C%20Lachlan%20Baly%20Hughes%20-%20Westcott%2C%20Dale%20Round%201.12.pgn",
-      "lastModified": 1780778777719.7659,
-      "sizeBytes": 4203
-    },
-    {
-      "type": "file",
-      "name": "My classical games 0025 2026.04.04 Harrison, Oliver - Tyrrell, Lachlan Baly Hughes",
-      "filename": "My classical games 0025 2026.04.04 Harrison, Oliver - Tyrrell, Lachlan Baly Hughes.pgn",
-      "extension": "pgn",
-      "path": "My classical games/My classical games 0025 2026.04.04 Harrison, Oliver - Tyrrell, Lachlan Baly Hughes.pgn",
-      "url": "files/My%20classical%20games/My%20classical%20games%200025%202026.04.04%20Harrison%2C%20Oliver%20-%20Tyrrell%2C%20Lachlan%20Baly%20Hughes.pgn",
-      "lastModified": 1780408974151.5938,
-      "sizeBytes": 4392
-    },
-    {
-      "type": "file",
-      "name": "My classical games 0026 2026.04.06 Hammett, Scott - Tyrrell, Lachlan Baly Hughes Round 6.11",
-      "filename": "My classical games 0026 2026.04.06 Hammett, Scott - Tyrrell, Lachlan Baly Hughes Round 6.11.pgn",
-      "extension": "pgn",
-      "path": "My classical games/My classical games 0026 2026.04.06 Hammett, Scott - Tyrrell, Lachlan Baly Hughes Round 6.11.pgn",
-      "url": "files/My%20classical%20games/My%20classical%20games%200026%202026.04.06%20Hammett%2C%20Scott%20-%20Tyrrell%2C%20Lachlan%20Baly%20Hughes%20Round%206.11.pgn",
-      "lastModified": 1780408974152.4497,
-      "sizeBytes": 3983
-    },
-    {
-      "type": "file",
-      "name": "My classical games 0027 2026.04.05 Tyrrell, Lachlan Baly Hughes - Tapp, James Round 5.4",
-      "filename": "My classical games 0027 2026.04.05 Tyrrell, Lachlan Baly Hughes - Tapp, James Round 5.4.pgn",
-      "extension": "pgn",
-      "path": "My classical games/My classical games 0027 2026.04.05 Tyrrell, Lachlan Baly Hughes - Tapp, James Round 5.4.pgn",
-      "url": "files/My%20classical%20games/My%20classical%20games%200027%202026.04.05%20Tyrrell%2C%20Lachlan%20Baly%20Hughes%20-%20Tapp%2C%20James%20Round%205.4.pgn",
-      "lastModified": 1780408974154.4602,
-      "sizeBytes": 3212
-    },
-    {
-      "type": "file",
-      "name": "My classical games 0028 2026.04.06 Thomas, Mark - Tyrrell, Lachlan Baly Hughes Round 7.7",
-      "filename": "My classical games 0028 2026.04.06 Thomas, Mark - Tyrrell, Lachlan Baly Hughes Round 7.7.pgn",
-      "extension": "pgn",
-      "path": "My classical games/My classical games 0028 2026.04.06 Thomas, Mark - Tyrrell, Lachlan Baly Hughes Round 7.7.pgn",
-      "url": "files/My%20classical%20games/My%20classical%20games%200028%202026.04.06%20Thomas%2C%20Mark%20-%20Tyrrell%2C%20Lachlan%20Baly%20Hughes%20Round%207.7.pgn",
-      "lastModified": 1780793381572.586,
-      "sizeBytes": 3846
-    },
-    {
-      "type": "file",
-      "name": "My classical games 0029 2026.04.20 Me - Me",
-      "filename": "My classical games 0029 2026.04.20 Me - Me.pgn",
-      "extension": "pgn",
-      "path": "My classical games/My classical games 0029 2026.04.20 Me - Me.pgn",
-      "url": "files/My%20classical%20games/My%20classical%20games%200029%202026.04.20%20Me%20-%20Me.pgn",
-      "lastModified": 1780636300262.843,
-      "sizeBytes": 3794
-    },
-    {
-      "type": "file",
-      "name": "My classical games 0052 2026.06.22 Tyrrell, Lachlan Baly Hughes - Mokhber-Garcia, Sebastian",
-      "filename": "My classical games 0052 2026.06.22 Tyrrell, Lachlan Baly Hughes - Mokhber-Garcia, Sebastian.pgn",
-      "extension": "pgn",
-      "path": "My classical games/My classical games 0052 2026.06.22 Tyrrell, Lachlan Baly Hughes - Mokhber-Garcia, Sebastian.pgn",
-      "url": "files/My%20classical%20games/My%20classical%20games%200052%202026.06.22%20Tyrrell%2C%20Lachlan%20Baly%20Hughes%20-%20Mokhber-Garcia%2C%20Sebastian.pgn",
-      "lastModified": 1782154300469.1377,
-      "sizeBytes": 965
+      "lastModified": 1783805629388.751,
+      "sizeBytes": 2818
     },
     {
       "type": "file",
