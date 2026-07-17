@@ -1,0 +1,1 @@
+import{St as t}from"./http-CpHS-Gg9.js";async function p(n,o){await t("plugin:opener|open_url",{url:n,with:o})}async function e(n,o){await t("plugin:opener|open_path",{path:n,with:o})}export{p as n,e as t};
