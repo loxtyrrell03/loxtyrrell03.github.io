@@ -1,0 +1,73 @@
+[Event "ECF Coventry International 2025"]
+[Site "https://lichess.org/broadcast/ecf-coventry-international-2025--open/round-6/neAB8UMA/2FIrrbx8"]
+[Date "2025.10.29"]
+[Round "6.24"]
+[White "Verbytski, Oleg"]
+[Black "Sandhu, Manvith"]
+[Result "1-0"]
+[WhiteElo "2092"]
+[WhiteFideId "495506"]
+[BlackElo "1937"]
+[BlackFideId "458872"]
+[TimeControl "G90' + 30 per move"]
+[Variant "Standard"]
+[ECO "B43"]
+[Opening "Sicilian Defense: Kan Variation, Knight Variation"]
+[UTCDate "2025.10.29"]
+[UTCTime "14:45:12"]
+[BroadcastName "ECF Coventry International 2025 | Open"]
+[BroadcastURL "https://lichess.org/broadcast/ecf-coventry-international-2025--open/round-6/neAB8UMA"]
+[GameURL "https://lichess.org/broadcast/ecf-coventry-international-2025--open/round-6/neAB8UMA/2FIrrbx8"]
+
+1. e4 { [%eval 0.18] [%clk 1:30:50] } 1... c5 { [%eval 0.24] [%clk 1:30:56] }
+2. Nf3 { [%eval 0.2] [%clk 1:31:08] } 2... e6 { [%eval 0.28] [%clk 1:31:21] }
+3. d4 { [%eval 0.4] [%clk 1:30:49] } 3... cxd4 { [%eval 0.29] [%clk 1:31:45] }
+4. Nxd4 { [%eval 0.34] [%clk 1:31:07] } 4... a6 { [%eval 0.42] [%clk 1:32:12] }
+5. Nc3 { [%eval 0.35] [%clk 1:31:26] } 5... Qc7 { [%eval 0.39] [%clk 1:32:36] }
+6. Be3 { [%eval 0.0] [%clk 1:26:16] } 6... Nf6 { [%eval 0.0] [%clk 1:32:58] }
+7. Bd3 { [%eval 0.0] [%clk 1:15:26] } 7... Bb4 { [%eval 0.39] [%clk 1:29:47] }
+8. Ne2 { [%eval -0.02] [%clk 1:14:59] } 8... O-O
+{ [%eval -0.07] [%clk 1:27:37] } 9. O-O { [%eval -0.03] [%clk 1:10:33] } 9...
+Ng4 { [%eval 0.09] [%clk 1:17:29] } 10. Bf4 { [%eval 0.17] [%clk 1:09:01] }
+10... Bd6 { [%eval 0.5] [%clk 1:17:14] } 11. Bxd6
+{ [%eval 0.54] [%clk 1:05:06] } 11... Qxd6 { [%eval 0.56] [%clk 1:17:17] } 12.
+Ng3 { [%eval 0.64] [%clk 1:05:25] } 12... Ne5 { [%eval 0.58] [%clk 1:16:29] }
+13. Be2 { [%eval 0.51] [%clk 1:03:43] } 13... Qb6
+{ [%eval 0.83] [%clk 1:13:14] } 14. b3 { [%eval 0.59] [%clk 0:55:08] } 14... d6
+{ [%eval 0.92] [%clk 1:12:13] } 15. Kh1 { [%eval 0.59] [%clk 0:53:05] } 15...
+Nbd7 $6 { [%eval 1.25] Inaccuracy. Qa5 was best. [%clk 1:09:07] } 16. f4
+{ [%eval 1.12] [%clk 0:49:31] } 16... Ng6 { [%eval 1.11] [%clk 1:09:17] } 17.
+Qd2 { [%eval 0.58] [%clk 0:49:35] } 17... Qc7 $6
+{ [%eval 1.31] Inaccuracy. Nf6 was best. [%clk 0:59:45] } 18. Nh5
+{ [%eval 1.26] [%clk 0:39:49] } 18... f5 $4
+{ [%eval 3.22] Blunder. Kh8 was best. [%clk 0:27:49] } 19. exf5
+{ [%eval 3.12] [%clk 0:39:00] } 19... exf5 { [%eval 3.92] [%clk 0:28:07] } 20.
+Nd5 { [%eval 3.89] [%clk 0:34:51] } 20... Qd8 { [%eval 3.77] [%clk 0:15:38] }
+21. Bc4 { [%eval 3.35] [%clk 0:33:28] } 21... b5 $6
+{ [%eval 4.25] Inaccuracy. Kh8 was best. [%clk 0:08:15] } 22. Qd4
+{ [%eval 4.01] [%clk 0:30:53] } 22... Nde5 { [%eval 4.43] [%clk 0:04:54] } 23.
+fxe5 { [%eval 4.44] [%clk 0:29:54] } 23... dxe5 { [%eval 4.29] [%clk 0:02:18] }
+24. Nb6+ { [%eval 3.73] [%clk 0:26:42] } 24... bxc4
+{ [%eval 3.41] [%clk 0:02:36] } 25. Qxd8 { [%eval 3.45] [%clk 0:27:09] } 25...
+Rxd8 { [%eval 3.55] [%clk 0:03:00] } 26. Nxa8 { [%eval 3.46] [%clk 0:27:36] }
+26... Bb7 { [%eval 4.02] [%clk 0:02:49] } 27. Rad1
+{ [%eval 3.99] [%clk 0:18:06] } 27... Rxa8 { [%eval 3.97] [%clk 0:03:11] } 28.
+Rd7 { [%eval 3.92] [%clk 0:18:24] } 28... Be4 { [%eval 3.81] [%clk 0:03:03] }
+29. Rxg7+ { [%eval 3.92] [%clk 0:18:26] } 29... Kh8
+{ [%eval 4.15] [%clk 0:03:27] } 30. Rd1 { [%eval 4.21] [%clk 0:16:12] } 30...
+Nf4 { [%eval 4.06] [%clk 0:03:15] } 31. Rdd7 { [%eval 4.18] [%clk 0:16:28] }
+31... Nxh5 { [%eval 4.35] [%clk 0:02:16] } 32. Rxh7+
+{ [%eval 4.35] [%clk 0:15:43] } 32... Kg8 { [%eval 4.11] [%clk 0:02:42] } 33.
+Rxh5 { [%eval 4.16] [%clk 0:16:07] } 33... Bxc2 { [%eval 4.37] [%clk 0:02:46] }
+34. bxc4 { [%eval 4.52] [%clk 0:16:15] } 34... Rb8
+{ [%eval 4.79] [%clk 0:02:53] } 35. h4 { [%eval 4.8] [%clk 0:16:04] } 35... e4
+{ [%eval 5.07] [%clk 0:03:00] } 36. Rg5+ { [%eval 5.07] [%clk 0:15:08] } 36...
+Kh8 { [%eval 4.94] [%clk 0:03:04] } 37. Rxf5 { [%eval 5.07] [%clk 0:15:15] }
+37... Re8 { [%eval 5.24] [%clk 0:03:24] } 38. Rff7
+{ [%eval 5.27] [%clk 0:15:01] } 38... Rc8 { [%eval 5.15] [%clk 0:02:49] } 39.
+Rfe7 { [%eval 5.23] [%clk 0:14:40] } 39... Kg8 { [%eval 5.36] [%clk 0:02:58] }
+40. h5 { [%eval 5.07] [%clk 0:15:01] } 40... Kf8 $4
+{ [%eval #4] Checkmate is now unavoidable. e3 was best. [%clk 0:03:16] } 41. h6
+$4
+{ [%eval 5.39] Lost forced checkmate sequence. Rh7 was best. [%clk 0:14:28] }
+1-0

@@ -1,0 +1,43 @@
+[Event "Uk Chess Challenge Under 8"]
+[Site "Blenheim Palace, United Kingdom"]
+[Date "????.??.??"]
+[Round "5.5"]
+[White "Deepak Ambattu, Rithvik"]
+[Black "Verbytski, Oleg"]
+[Result "1-0"]
+[WhiteElo "0"]
+[BlackElo "1169"]
+[TimeControl "G:25 + 10"]
+[Variant "Standard"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+[StudyName "Round 5"]
+[ChapterName "Deepak Ambattu, Rithvik - Verbytski, Oleg"]
+[BroadcastName "2021 UK Chess Challenge Terafinal Under 8"]
+[BroadcastURL "https://lichess.org/broadcast/2021-uk-chess-challenge-terafinal-under-8/round-5/FnNIyVbo"]
+[GameURL "https://lichess.org/broadcast/2021-uk-chess-challenge-terafinal-under-8/round-5/FnNIyVbo/6yx0eTeW"]
+[BlackFideId "495506"]
+
+1. e4 { [%clk 0:25:17] } 1... c5 { [%clk 0:25:20] } 2. d4 { [%clk 0:25:26] }
+2... cxd4 { [%clk 0:25:27] } 3. c3 { [%clk 0:25:35] } 3... Nf6
+{ [%clk 0:25:35] } 4. e5 { [%clk 0:25:44] } 4... Nd5 { [%clk 0:25:43] } 5. cxd4
+{ [%clk 0:25:51] } 5... d6 { [%clk 0:25:51] } 6. Nf3 { [%clk 0:25:50] } 6...
+Nc6 { [%clk 0:26:00] } 7. Bc4 { [%clk 0:25:46] } 7... Nb6 { [%clk 0:26:07] } 8.
+Bb3 { [%clk 0:25:51] } 8... Bg4 { [%clk 0:26:13] } 9. Bxf7+ { [%clk 0:25:30] }
+9... Kxf7 { [%clk 0:26:10] } 10. Ng5+ { [%clk 0:25:38] } 10... Ke8
+{ [%clk 0:26:02] } 11. Qxg4 { [%clk 0:25:06] } 11... dxe5 { [%clk 0:25:42] }
+12. O-O { [%clk 0:23:35] } 12... Qxd4 { [%clk 0:25:39] } 13. Qf3
+{ [%clk 0:22:59] } 13... Qd5 { [%clk 0:25:41] } 14. Qg4 { [%clk 0:21:48] }
+14... Nd4 { [%clk 0:24:54] } 15. Nc3 { [%clk 0:21:43] } 15... Qd6
+{ [%clk 0:24:52] } 16. Be3 { [%clk 0:21:27] } 16... Rd8 { [%clk 0:24:27] } 17.
+Rad1 { [%clk 0:21:18] } 17... Qf6 { [%clk 0:24:30] } 18. Bxd4
+{ [%clk 0:21:05] } 18... Rxd4 { [%clk 0:24:37] } 19. Nb5 { [%clk 0:20:34] }
+19... Rxd1 { [%clk 0:23:24] } 20. Rxd1 { [%clk 0:20:21] } 20... Qc6
+{ [%clk 0:23:16] } 21. Qf5 { [%clk 0:19:54] } 21... Nd5 { [%clk 0:22:32] } 22.
+Qf7+ { [%clk 0:19:40] } 22... Kd7 { [%clk 0:22:34] } 23. Rxd5+
+{ [%clk 0:19:43] } 23... Kc8 { [%clk 0:22:43] } 24. Nxa7+ { [%clk 0:19:48] }
+24... Kb8 { [%clk 0:22:50] } 25. Nxc6+ { [%clk 0:19:55] } 25... bxc6
+{ [%clk 0:22:54] } 26. Qe8+ { [%clk 0:19:52] } 26... Kb7 { [%clk 0:23:03] } 27.
+Rd7+ { [%clk 0:19:50] } 27... Kb6 { [%clk 0:23:11] } 28. Qb8+
+{ [%clk 0:19:57] } 28... Kc5 { [%clk 0:23:19] } 29. Ne6+ { [%clk 0:20:05] }
+29... Kc4 { [%clk 0:23:28] } 30. Qb3# { [%clk 0:20:11] } 1-0

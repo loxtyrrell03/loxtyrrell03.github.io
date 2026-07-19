@@ -1,0 +1,64 @@
+[Event "Round 3: Verbytski, Oleg - Boswell, Jacob Connor"]
+[Site "?"]
+[Date "2024.06.21"]
+[Round "?"]
+[White "Verbytski, Oleg"]
+[Black "Boswell, Jacob Connor"]
+[Result "1-0"]
+[WhiteElo "2008"]
+[WhiteFideId "495506"]
+[BlackElo "2274"]
+[BlackFideId "427110"]
+[Variant "Standard"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+[StudyName "Round 3"]
+[ChapterName "Verbytski, Oleg - Boswell, Jacob Connor"]
+[UTCDate "2024.06.21"]
+[UTCTime "08:11:50"]
+[BroadcastName "English Championships 2024 | Open"]
+[BroadcastURL "https://lichess.org/broadcast/english-championships-2024--open/round-3/gVdEAnMA"]
+[GameURL "https://lichess.org/broadcast/english-championships-2024--open/round-3/gVdEAnMA/c0qUNHOj"]
+
+1. e4 { [%clk 1:30:58] } 1... c5 { [%clk 1:29:31] } 2. Nf3 { [%clk 1:31:24] }
+2... Nc6 { [%clk 1:29:55] } 3. d4 { [%clk 1:31:50] } 3... cxd4
+{ [%clk 1:30:19] } 4. Nxd4 { [%clk 1:32:16] } 4... e5 { [%clk 1:30:40] } 5. Nb5
+{ [%clk 1:32:30] } 5... d6 { [%clk 1:30:53] } 6. N1c3 { [%clk 1:32:55] } 6...
+a6 { [%clk 1:30:29] } 7. Na3 { [%clk 1:33:18] } 7... Be7 { [%clk 1:30:39] } 8.
+Be3 { [%clk 1:29:45] } 8... Nf6 { [%clk 1:24:18] } 9. Nc4 { [%clk 1:17:56] }
+9... O-O { [%clk 1:04:49] } 10. Bb6 { [%clk 1:13:12] } 10... Qd7
+{ [%clk 1:01:57] } 11. f3 { [%clk 1:06:52] } 11... Rb8 { [%clk 1:01:10] } 12.
+Qd2 { [%clk 1:03:08] } 12... Bd8 { [%clk 0:47:00] } 13. Be3 { [%clk 0:55:04] }
+13... b5 { [%clk 0:31:51] } 14. Nxd6 { [%clk 0:52:23] } 14... Ba5
+{ [%clk 0:30:32] } 15. Nxc8 { [%clk 0:48:39] } 15... Qxc8 { [%clk 0:31:00] }
+16. Bd3 { [%clk 0:46:01] } 16... Rd8 { [%clk 0:28:38] } 17. O-O
+{ [%clk 0:43:35] } 17... Rb7 { [%clk 0:22:38] } 18. Qf2 { [%clk 0:40:23] }
+18... Nb4 { [%clk 0:19:27] } 19. Rfd1 { [%clk 0:32:20] } 19... Rbd7
+{ [%clk 0:19:35] } 20. Bg5 { [%clk 0:31:08] } 20... Qc6 { [%clk 0:17:22] } 21.
+Qg3 { [%clk 0:28:22] } 21... h6 { [%clk 0:14:04] } 22. Bh4 { [%clk 0:24:05] }
+22... Qe6 { [%clk 0:09:08] } 23. Rac1 { [%clk 0:14:07] } 23... g5
+{ [%clk 0:06:10] } 24. Bxg5 { [%clk 0:13:48] } 24... hxg5 { [%clk 0:06:32] }
+25. Qxg5+ { [%clk 0:14:12] } 25... Kh8 { [%clk 0:05:45] } 26. Qh4+
+{ [%clk 0:13:22] } 26... Nh7 { [%clk 0:05:37] } 27. Nd5 { [%clk 0:13:38] }
+27... f6 { [%clk 0:04:26] } 28. a3 { [%clk 0:12:39] } 28... Nxd5
+{ [%clk 0:04:03] } 29. exd5 { [%clk 0:12:57] } 29... Qxd5 { [%clk 0:04:26] }
+30. Qh6 { [%clk 0:09:28] } 30... Qg8 { [%clk 0:02:32] } 31. Rf1
+{ [%clk 0:08:15] } 31... Qg5 { [%clk 0:02:46] } 32. Qh3 { [%clk 0:08:15] }
+32... Bd2 { [%clk 0:02:23] } 33. Rcd1 { [%clk 0:08:28] } 33... Rg7
+{ [%clk 0:01:58] } 34. f4 { [%clk 0:08:41] } 34... Bxf4 { [%clk 0:00:43] } 35.
+Bxh7 { [%clk 0:08:30] } 35... Be3+ { [%clk 0:00:32] } 36. Kh1
+{ [%clk 0:08:50] } 36... Rd4 { [%clk 0:00:41] } 37. Be4+ { [%clk 0:08:17] }
+37... Kg8 { [%clk 0:00:56] } 38. Rxd4 { [%clk 0:08:04] } 38... Bxd4
+{ [%clk 0:00:32] } 39. Qc8+ { [%clk 0:08:29] } 39... Kf7 { [%clk 0:00:58] } 40.
+Qd7+ { [%clk 0:08:54] } 40... Kf8 { [%clk 0:01:19] } 41. Qe6 { [%clk 0:07:34] }
+41... Bf2 { [%clk 0:01:00] } 42. Qc8+ { [%clk 0:05:18] } 42... Ke7
+{ [%clk 0:00:50] } 43. Qc7+ { [%clk 0:05:27] } 43... Kf8 { [%clk 0:01:04] } 44.
+Qd8+ { [%clk 0:05:49] } 44... Kf7 { [%clk 0:01:28] } 45. Qd3 { [%clk 0:05:25] }
+45... Qe3 { [%clk 0:01:05] } 46. Qd5+ { [%clk 0:05:02] } 46... Kf8
+{ [%clk 0:00:33] } 47. Rd1 { [%clk 0:05:11] } 47... Qb6 { [%clk 0:00:37] } 48.
+Qa8+ { [%clk 0:05:22] } 48... Ke7 { [%clk 0:00:47] } 49. Qc8 { [%clk 0:05:22] }
+49... Bd4 { [%clk 0:00:36] } 50. c3 { [%clk 0:05:33] } 50... f5
+{ [%clk 0:00:33] } 51. Qxf5 { [%clk 0:05:32] } 51... Rf7 { [%clk 0:00:31] } 52.
+Qg5+ { [%clk 0:05:48] } 52... Ke8 { [%clk 0:00:32] } 53. cxd4
+{ [%clk 0:06:04] } 53... Qxd4 { [%clk 0:00:50] } 54. Qg8+ { [%clk 0:06:28] }
+54... Ke7 { [%clk 0:01:06] } 55. Qxf7+ { [%clk 0:06:53] } 1-0

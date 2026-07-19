@@ -1,0 +1,65 @@
+[Event "Round 9: Verbytski, Oleg - Gormally, Daniel W"]
+[Site "?"]
+[Date "2025.03.02"]
+[Round "9.5"]
+[White "Verbytski, Oleg"]
+[Black "Gormally, Daniel W"]
+[Result "0-1"]
+[WhiteElo "1910"]
+[WhiteFideId "495506"]
+[BlackElo "2462"]
+[BlackTitle "GM"]
+[BlackFideId "406465"]
+[TimeControl "15+10"]
+[Variant "Standard"]
+[ECO "B59"]
+[Opening "Sicilian Defense: Boleslavsky Variation"]
+[StudyName "Round 9"]
+[ChapterName "Verbytski, Oleg - Gormally, Daniel W"]
+[BroadcastName "British Rapidplay Championship 2025 | Boards 1-80"]
+[BroadcastURL "https://lichess.org/broadcast/british-rapidplay-championship-2025--boards-1-80/round-9/ikKvHZZg"]
+[GameURL "https://lichess.org/broadcast/british-rapidplay-championship-2025--boards-1-80/round-9/ikKvHZZg/DYIrafHJ"]
+
+1. e4 { [%eval 0.18] [%clk 0:15:19] } 1... c5 { [%eval 0.25] [%clk 0:15:19] }
+2. Nf3 { [%eval 0.2] [%clk 0:15:27] } 2... d6 { [%eval 0.22] [%clk 0:15:27] }
+3. d4 { [%eval 0.22] [%clk 0:15:36] } 3... cxd4 { [%eval 0.19] [%clk 0:15:36] }
+4. Nxd4 { [%eval 0.18] [%clk 0:15:45] } 4... Nf6
+{ [%eval 0.25] [%clk 0:15:45] } 5. Nc3 { [%eval 0.32] [%clk 0:15:52] } 5... Nc6
+{ [%eval 0.4] [%clk 0:15:54] } 6. Be2 { [%eval 0.17] [%clk 0:15:44] } 6... e5
+{ [%eval 0.17] [%clk 0:16:01] } 7. Nb3 { [%eval 0.14] [%clk 0:15:53] } 7... a5
+{ [%eval 0.25] [%clk 0:16:10] } 8. a4 { [%eval 0.15] [%clk 0:15:59] } 8... Be6
+{ [%eval 0.29] [%clk 0:16:17] } 9. Be3 { [%eval 0.27] [%clk 0:16:06] } 9... Be7
+{ [%eval 0.35] [%clk 0:16:08] } 10. Bf3 { [%eval 0.0] [%clk 0:16:09] } 10...
+O-O { [%eval 0.41] [%clk 0:16:12] } 11. O-O { [%eval 0.0] [%clk 0:16:16] }
+11... Nb4 { [%eval 0.0] [%clk 0:16:16] } 12. Bg5
+{ [%eval -0.47] [%clk 0:14:49] } 12... Rc8 { [%eval -0.57] [%clk 0:16:06] } 13.
+Qd2 { [%eval -1.1] [%clk 0:14:01] } 13... Qb6 { [%eval -0.57] [%clk 0:16:06] }
+14. Rfd1 $2 { [%eval -2.31] Mistake. Be3 was best. [%clk 0:13:25] } 14... Nxc2
+{ [%eval -2.25] [%clk 0:15:52] } 15. Qxc2 { [%eval -2.33] [%clk 0:12:03] }
+15... Bxb3 { [%eval -2.22] [%clk 0:16:00] } 16. Qd2
+{ [%eval -2.48] [%clk 0:12:12] } 16... Bxd1 { [%eval -2.6] [%clk 0:15:41] } 17.
+Rxd1 { [%eval -2.5] [%clk 0:12:17] } 17... Qb4 { [%eval -2.42] [%clk 0:15:44] }
+18. Bg4 $6 { [%eval -3.34] Inaccuracy. Qe2 was best. [%clk 0:11:30] } 18... Rc4
+{ [%eval -3.21] [%clk 0:15:29] } 19. Bf5 { [%eval -3.76] [%clk 0:11:21] } 19...
+Rd4 { [%eval -3.72] [%clk 0:15:11] } 20. Qe2 { [%eval -3.81] [%clk 0:10:50] }
+20... Rxd1+ { [%eval -3.73] [%clk 0:15:01] } 21. Nxd1
+{ [%eval -3.77] [%clk 0:10:49] } 21... Qxa4 { [%eval -3.65] [%clk 0:15:06] }
+22. g3 { [%eval -3.86] [%clk 0:10:47] } 22... h6
+{ [%eval -3.76] [%clk 0:13:09] } 23. Bxf6 { [%eval -3.83] [%clk 0:09:56] }
+23... Bxf6 { [%eval -3.72] [%clk 0:13:18] } 24. Nc3
+{ [%eval -3.69] [%clk 0:10:05] } 24... Qb3 { [%eval -3.53] [%clk 0:13:03] } 25.
+Nd5 { [%eval -3.85] [%clk 0:10:13] } 25... Bd8 { [%eval -3.74] [%clk 0:13:09] }
+26. h4 { [%eval -4.36] [%clk 0:09:14] } 26... Bb6
+{ [%eval -4.53] [%clk 0:11:54] } 27. Kg2 { [%eval -4.09] [%clk 0:09:17] } 27...
+Bd4 { [%eval -4.44] [%clk 0:12:01] } 28. Nf6+ { [%eval -4.55] [%clk 0:06:10] }
+28... Kh8 { [%eval -4.59] [%clk 0:10:24] } 29. Qh5 $6
+{ [%eval -6.43] Inaccuracy. Nd7 was best. [%clk 0:06:07] } 29... Qxb2
+{ [%eval -6.34] [%clk 0:10:10] } 30. Ng4 { [%eval -6.34] [%clk 0:06:16] } 30...
+Qd2 { [%eval -6.39] [%clk 0:10:04] } 31. Kh3 { [%eval -6.74] [%clk 0:05:01] }
+31... a4 { [%eval -6.85] [%clk 0:09:10] } 32. Bh7
+{ [%eval -8.68] [%clk 0:04:56] } 32... a3 { [%eval -8.72] [%clk 0:07:54] } 33.
+Qf5 { [%eval -9.85] [%clk 0:04:13] } 33... a2 { [%eval -10.95] [%clk 0:07:39] }
+34. Bg8 { [%eval -12.07] [%clk 0:04:14] } 34... g6
+{ [%eval -11.8] [%clk 0:07:19] } 35. Qf6+ { [%eval -12.56] [%clk 0:04:11] }
+35... Kxg8 { [%eval -11.0] [%clk 0:07:27] } 36. f4 $6
+{ [%eval #-7] Checkmate is now unavoidable. h5 was best. [%clk 0:04:10] } 0-1

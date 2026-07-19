@@ -1,0 +1,69 @@
+[Event "ECF English Open Championship 2025"]
+[Site "Kenilworth, Warwickshire, United Kingdom"]
+[Date "2025.07.20"]
+[Round "7.31"]
+[White "Verbytski, Oleg"]
+[Black "Watson, Jacob"]
+[Result "1-0"]
+[WhiteElo "1998"]
+[WhiteFideId "495506"]
+[BlackElo "1918"]
+[BlackFideId "445037"]
+[TimeControl "G90 + 30 Secs/move"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Mikenas Variation"]
+[UTCDate "2025.07.20"]
+[UTCTime "19:40:08"]
+[BroadcastName "ECF English Championship 2025 | Open"]
+[BroadcastURL "https://lichess.org/broadcast/ecf-english-championship-2025-open/round-7/wEw4jEKj"]
+[GameURL "https://lichess.org/broadcast/ecf-english-championship-2025-open/round-7/wEw4jEKj/dA6qlbc7"]
+
+1. e4 { [%eval 0.18] [%clk 1:30:53] } 1... Nc6 { [%eval 0.42] [%clk 1:30:47] }
+2. d4 { [%eval 0.25] [%clk 1:31:02] } 2... d6 { [%eval 0.64] [%clk 1:30:30] }
+3. Nf3 { [%eval 0.48] [%clk 1:31:00] } 3... Nf6 { [%eval 0.59] [%clk 1:30:38] }
+4. Nc3 { [%eval 0.51] [%clk 1:31:22] } 4... Bg4 { [%eval 0.67] [%clk 1:30:37] }
+5. Be3 { [%eval 0.58] [%clk 1:31:01] } 5... e6 { [%eval 0.64] [%clk 1:24:59] }
+6. Bb5 { [%eval 0.32] [%clk 1:27:27] } 6... a6 { [%eval 0.43] [%clk 1:25:18] }
+7. Ba4 { [%eval 0.14] [%clk 1:27:46] } 7... Nd7 $6
+{ [%eval 0.9] Inaccuracy. d5 was best. [%clk 1:21:34] } 8. h3
+{ [%eval 0.76] [%clk 1:26:07] } 8... Bh5 { [%eval 1.27] [%clk 1:19:06] } 9. d5
+{ [%eval 1.23] [%clk 1:21:35] } 9... exd5 $6
+{ [%eval 2.38] Inaccuracy. Na5 was best. [%clk 1:12:42] } 10. Qxd5
+{ [%eval 2.33] [%clk 1:18:55] } 10... Bxf3 { [%eval 2.52] [%clk 1:09:12] } 11.
+gxf3 { [%eval 2.41] [%clk 1:19:22] } 11... Nce5 { [%eval 2.65] [%clk 1:09:26] }
+12. Qxb7 { [%eval 2.57] [%clk 1:16:23] } 12... Rb8 $6
+{ [%eval 3.32] Inaccuracy. Qc8 was best. [%clk 1:09:14] } 13. Bxd7+
+{ [%eval 2.89] [%clk 1:16:32] } 13... Nxd7 { [%eval 2.94] [%clk 1:09:39] } 14.
+Qc6 { [%eval 2.83] [%clk 1:07:45] } 14... Be7 { [%eval 2.9] [%clk 1:09:05] }
+15. Bd4 { [%eval 2.37] [%clk 1:05:57] } 15... O-O
+{ [%eval 2.3] [%clk 1:08:33] } 16. O-O-O { [%eval 2.31] [%clk 1:05:23] } 16...
+Bf6 { [%eval 2.55] [%clk 1:07:04] } 17. Bxf6 { [%eval 2.58] [%clk 1:04:59] }
+17... Nxf6 { [%eval 2.53] [%clk 1:07:29] } 18. Rhg1
+{ [%eval 2.6] [%clk 1:02:07] } 18... Qe7 { [%eval 2.89] [%clk 1:04:12] } 19.
+Qxa6 { [%eval 2.72] [%clk 1:01:31] } 19... Qe5 { [%eval 3.07] [%clk 1:02:58] }
+20. Qd3 { [%eval 3.02] [%clk 1:00:24] } 20... Rb6
+{ [%eval 3.59] [%clk 0:58:17] } 21. Qd4 { [%eval 3.72] [%clk 0:59:57] } 21...
+Qxd4 { [%eval 3.83] [%clk 0:55:05] } 22. Rxd4 { [%eval 3.64] [%clk 1:00:22] }
+22... Rfb8 { [%eval 4.07] [%clk 0:55:04] } 23. b3
+{ [%eval 4.11] [%clk 1:00:51] } 23... Ra6 { [%eval 3.93] [%clk 0:52:47] } 24.
+a4 { [%eval 4.11] [%clk 1:00:16] } 24... Nd7 { [%eval 4.23] [%clk 0:50:04] }
+25. Rgd1 { [%eval 4.32] [%clk 0:58:19] } 25... Kf8
+{ [%eval 4.09] [%clk 0:46:02] } 26. Nb5 { [%eval 4.15] [%clk 0:52:14] } 26...
+Nc5 { [%eval 4.64] [%clk 0:43:17] } 27. Rc4 { [%eval 4.61] [%clk 0:50:00] }
+27... Rb7 { [%eval 4.67] [%clk 0:38:34] } 28. e5
+{ [%eval 5.06] [%clk 0:48:45] } 28... Ke7 { [%eval 5.1] [%clk 0:36:49] } 29.
+exd6+ { [%eval 5.13] [%clk 0:49:03] } 29... cxd6
+{ [%eval 4.97] [%clk 0:37:12] } 30. Nxd6 { [%eval 4.91] [%clk 0:48:21] } 30...
+Rxd6 { [%eval 5.37] [%clk 0:37:11] } 31. Rxc5 { [%eval 5.38] [%clk 0:48:40] }
+31... Rh6 { [%eval 5.51] [%clk 0:37:35] } 32. Rg1
+{ [%eval 4.84] [%clk 0:46:47] } 32... Rxh3 { [%eval 4.82] [%clk 0:37:37] } 33.
+Rxg7 { [%eval 4.68] [%clk 0:46:56] } 33... Kf6 { [%eval 4.91] [%clk 0:37:45] }
+34. Rg3 { [%eval 4.86] [%clk 0:47:08] } 34... Rh1+
+{ [%eval 5.03] [%clk 0:38:10] } 35. Kb2 { [%eval 4.96] [%clk 0:47:32] } 35...
+h5 { [%eval 5.29] [%clk 0:35:15] } 36. Rgg5 { [%eval 5.14] [%clk 0:44:55] }
+36... h4 { [%eval 5.2] [%clk 0:35:18] } 37. Rh5 { [%eval 5.16] [%clk 0:45:22] }
+37... Rb4 { [%eval 5.6] [%clk 0:34:58] } 38. Rcf5+
+{ [%eval 5.21] [%clk 0:41:41] } 38... Kg6 { [%eval 5.9] [%clk 0:33:22] } 39.
+Rfg5+ { [%eval 5.89] [%clk 0:41:29] } 39... Kf6 { [%eval 5.81] [%clk 0:33:40] }
+40. Rg4 { [%eval 5.74] [%clk 0:41:57] } 1-0

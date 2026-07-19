@@ -1,0 +1,67 @@
+[Event "Round 8: Verbytski, Oleg - Zhang, Junyi"]
+[Site "https://lichess.org/broadcast/hastings-international-chess-congress-2025-masters/round-8/gBceAXow/NHqdo7L8"]
+[Date "2026.01.01"]
+[Round "8.19"]
+[White "Verbytski, Oleg"]
+[Black "Zhang, Junyi"]
+[Result "1-0"]
+[WhiteElo "2059"]
+[WhiteFideId "495506"]
+[BlackElo "2171"]
+[BlackTitle "CM"]
+[BlackFideId "494437"]
+[Variant "Standard"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Four Knights Variation, Cobra Variation"]
+[UTCDate "2026.01.01"]
+[UTCTime "15:01:40"]
+[BroadcastName "Hastings International Chess Congress 2025: Masters"]
+[BroadcastURL "https://lichess.org/broadcast/hastings-international-chess-congress-2025-masters/round-8/gBceAXow"]
+[GameURL "https://lichess.org/broadcast/hastings-international-chess-congress-2025-masters/round-8/gBceAXow/NHqdo7L8"]
+
+1. e4 { [%eval 0.18] [%clk 1:30:40] } 1... c5 { [%eval 0.25] [%clk 1:31:00] }
+2. Nf3 { [%eval 0.2] [%clk 1:30:56] } 2... e6 { [%eval 0.28] [%clk 1:31:30] }
+3. d4 { [%eval 0.4] [%clk 1:31:07] } 3... cxd4 { [%eval 0.29] [%clk 1:31:59] }
+4. Nxd4 { [%eval 0.33] [%clk 1:31:29] } 4... Nf6
+{ [%eval 0.29] [%clk 1:32:28] } 5. Nc3 { [%eval 0.24] [%clk 1:31:49] } 5... Nc6
+{ [%eval 0.35] [%clk 1:32:56] } 6. Ndb5 { [%eval 0.25] [%clk 1:31:54] } 6...
+Bc5 { [%eval 0.29] [%clk 1:33:17] } 7. Bf4 { [%eval 0.46] [%clk 1:29:15] } 7...
+O-O { [%eval 0.3] [%clk 1:33:41] } 8. Bc7 { [%eval 0.49] [%clk 1:29:41] } 8...
+Qe7 { [%eval 0.53] [%clk 1:34:04] } 9. Bd6 { [%eval 0.63] [%clk 1:30:00] } 9...
+Bxd6 { [%eval 0.44] [%clk 1:34:24] } 10. Qxd6 { [%eval 0.39] [%clk 1:29:14] }
+10... Qd8 { [%eval 0.47] [%clk 1:34:50] } 11. O-O-O
+{ [%eval 0.38] [%clk 1:28:57] } 11... a6 { [%eval 0.44] [%clk 1:35:11] } 12.
+Nd4 { [%eval 0.44] [%clk 1:27:59] } 12... Ne7 { [%eval 0.48] [%clk 1:35:28] }
+13. h4 { [%eval 0.45] [%clk 1:27:06] } 13... b5 { [%eval 0.45] [%clk 1:35:51] }
+14. Nb3 { [%eval 0.45] [%clk 1:22:50] } 14... Ne8
+{ [%eval 0.65] [%clk 1:31:21] } 15. Qd2 { [%eval 0.59] [%clk 1:18:30] } 15...
+Qc7 { [%eval 0.54] [%clk 1:26:29] } 16. h5 { [%eval 0.55] [%clk 1:10:42] }
+16... h6 { [%eval 0.53] [%clk 1:24:49] } 17. g4 { [%eval 0.58] [%clk 1:07:06] }
+17... d6 $6 { [%eval 1.48] Inaccuracy. Bb7 was best. [%clk 1:20:55] } 18. Bd3
+$6 { [%eval 0.65] Inaccuracy. a3 was best. [%clk 0:57:22] } 18... Bb7 $6
+{ [%eval 1.4] Inaccuracy. b4 was best. [%clk 1:17:28] } 19. g5
+{ [%eval 1.4] [%clk 0:54:01] } 19... hxg5 { [%eval 1.54] [%clk 1:17:16] } 20.
+Qxg5 { [%eval 1.57] [%clk 0:54:16] } 20... b4 { [%eval 1.5] [%clk 1:17:35] }
+21. Ne2 { [%eval 1.6] [%clk 0:46:31] } 21... a5 { [%eval 1.85] [%clk 1:16:19] }
+22. Nbd4 { [%eval 1.86] [%clk 0:39:22] } 22... Ba6 $2
+{ [%eval 3.34] Mistake. a4 was best. [%clk 1:05:43] } 23. Bxa6
+{ [%eval 3.25] [%clk 0:34:14] } 23... Rxa6 { [%eval 3.25] [%clk 1:03:58] } 24.
+h6 { [%eval 3.26] [%clk 0:34:10] } 24... g6 { [%eval 3.14] [%clk 1:02:45] } 25.
+Nf4 { [%eval 3.08] [%clk 0:34:26] } 25... Qb7 $4
+{ [%eval 6.93] Blunder. d5 was best. [%clk 0:43:09] } 26. h7+
+{ [%eval 6.83] [%clk 0:32:01] } 26... Kh8 { [%eval 6.86] [%clk 0:39:34] } 27.
+Ndxe6 { [%eval 7.24] [%clk 0:31:46] } 27... fxe6
+{ [%eval 7.18] [%clk 0:32:17] } 28. Qxe7 { [%eval 7.11] [%clk 0:30:52] } 28...
+Qxe7 { [%eval 7.12] [%clk 0:31:02] } 29. Nxg6+ { [%eval 7.05] [%clk 0:31:19] }
+29... Kg7 { [%eval 6.94] [%clk 0:31:25] } 30. Nxe7
+{ [%eval 6.76] [%clk 0:31:37] } 30... Kf7 { [%eval 6.79] [%clk 0:31:51] } 31.
+Ng8 { [%eval 5.44] [%clk 0:29:52] } 31... Rxg8 { [%eval 5.33] [%clk 0:31:49] }
+32. hxg8=Q+ { [%eval 5.35] [%clk 0:30:16] } 32... Kxg8
+{ [%eval 5.37] [%clk 0:32:13] } 33. Rdg1+ { [%eval 5.33] [%clk 0:30:33] } 33...
+Kf8 { [%eval 5.51] [%clk 0:32:35] } 34. Rh8+ { [%eval 5.5] [%clk 0:30:08] }
+34... Kf7 { [%eval 5.65] [%clk 0:32:56] } 35. Rh7+
+{ [%eval 5.54] [%clk 0:30:18] } 35... Kf8 { [%eval 5.5] [%clk 0:33:19] } 36.
+Rg6 { [%eval 5.53] [%clk 0:29:05] } 36... Rc6 { [%eval 5.71] [%clk 0:33:02] }
+37. Rxe6 { [%eval 6.49] [%clk 0:28:38] } 37... Ng7
+{ [%eval 6.76] [%clk 0:33:20] } 38. Rg6 { [%eval 6.44] [%clk 0:28:32] } 38...
+Ne8 { [%eval 7.89] [%clk 0:33:42] } 39. e5 { [%eval 7.6] [%clk 0:28:29] } 1-0

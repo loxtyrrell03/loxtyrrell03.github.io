@@ -1,0 +1,211 @@
+[Event "Weak Opening GM Lesson - e6 Sicilians for White"]
+[Site "https://www.youtube.com/watch?v=ihv2TK04WPg"]
+[Date "2021.06.21"]
+[Round "1"]
+[White "White repertoire"]
+[Black "e6 Sicilian"]
+[Result "*"]
+[Annotator "GM Daniel Naroditsky videos"]
+[Orientation "white"]
+[Opening "Sicilian Defense: French / Taimanov / Kan"]
+[SourceTitle "Master Class | Open Sicilian | Chess Speedrun | Grandmaster Naroditsky"]
+[SourceURL "https://www.youtube.com/watch?v=ihv2TK04WPg"]
+
+1. Nf3 c5
+2. e4 e6
+(2... Qc7
+{Early queen/Kan move order. Keep normal Open Sicilian development.}
+3. d4 cxd4
+4. Nxd4 a6
+5. Nc3 e6
+6. Bd3)
+3. d4 cxd4
+4. Nxd4 Nf6
+5. Bd3
+{Weak-deck reference. `Bd3` defends e4, prepares castling, and aims at h7 before Black gets comfortable `...d5` play.}
+5... Nc6
+6. Nxc6
+{Damage the queenside structure and choose a plan instead of memorizing a huge Taimanov tree.}
+6... bxc6
+7. O-O d5
+8. e5 Nd7
+9. Re1 Be7
+10. Qg4
+{Plan: use the e5 space, bring a rook to e1, and create kingside questions before Black's bishops coordinate.} *
+
+[Event "Weak Opening GM Lesson - Kan and Drazic Move Orders"]
+[Site "https://www.youtube.com/watch?v=ihv2TK04WPg"]
+[Date "2021.06.21"]
+[Round "2"]
+[White "White repertoire"]
+[Black "Kan / Drazic"]
+[Result "*"]
+[Annotator "GM Daniel Naroditsky video"]
+[Orientation "white"]
+[Opening "Sicilian Defense: Kan / Drazic"]
+
+1. Nf3 c5
+2. e4 a6
+3. d4 e6
+4. Nc3
+{The weak deck flags this as the reference against early `...a6`: develop the knight and keep an Open Sicilian center.}
+4... cxd4
+5. Nxd4 Qc7
+6. Bd3 Nf6
+7. O-O d6
+8. Qe2 Be7
+{You have reached a Kan/Scheveningen shell. Develop first; then choose f4, Be3, or c4 depending on Black's setup.} *
+
+[Event "Weak Opening GM Lesson - Nc6 d6 and Bc4 Open Sicilian"]
+[Site "https://www.youtube.com/watch?v=ihv2TK04WPg"]
+[Date "2021.06.21"]
+[Round "3"]
+[White "White repertoire"]
+[Black "Nc6 / d6 Sicilian"]
+[Result "*"]
+[Annotator "GM Daniel Naroditsky video"]
+[Orientation "white"]
+[Opening "Sicilian Defense: Open"]
+
+1. Nf3 c5
+2. e4 Nc6
+3. d4 cxd4
+4. Nxd4 Nf6
+5. Nc3 d6
+(5... e5
+{Sveshnikov/Lasker-Pelikan branch.}
+6. Ndb5 d6
+7. Bg5 a6
+8. Na3 b5
+9. Bxf6 Qxf6
+10. Nd5
+{The weak-deck `Bg5` idea: trade the f6 knight when useful and occupy d5.})
+6. Bc4
+{Weak-deck reference. Develop actively, pressure f7 and d5, and make Black prove the center is safe.}
+6... e6
+7. Bb3 Be7
+8. O-O O-O
+9. Be3
+{Healthy Open Sicilian setup: bishop on b3, castle, Be3, Qe2/Qf3, and rooks to d1/e1 depending on Black's center.} *
+
+[Event "Weak Opening GM Lesson - Four Knights and Exchange"]
+[Site "https://www.youtube.com/watch?v=ihv2TK04WPg"]
+[Date "2021.06.21"]
+[Round "4"]
+[White "White repertoire"]
+[Black "Four Knights / Taimanov"]
+[Result "*"]
+[Annotator "GM Daniel Naroditsky video"]
+[Orientation "white"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1. Nf3 c5
+2. e4 Nc6
+3. d4 cxd4
+4. Nxd4 Nf6
+5. Nc3 e6
+6. Nxc6 bxc6
+7. e5 Nd5
+8. Ne4 Qc7
+9. f4
+{The Exchange/Four-Knights reminder: after `Nxc6` and `e5`, use the e4 square and play around Black's damaged c-pawns.} *
+
+[Event "Weak Opening GM Lesson - Maroczy Bind"]
+[Site "https://www.youtube.com/watch?v=YzI6qI-33_U"]
+[Date "2023.03.06"]
+[Round "5"]
+[White "White repertoire"]
+[Black "Accelerated / Hyperaccelerated Dragon"]
+[Result "*"]
+[Annotator "GM Daniel Naroditsky video"]
+[Orientation "white"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maroczy Bind"]
+[SourceTitle "Understanding the Accelerated Dragon!! | Open Sicilian | GM Naroditsky's Theory Speed Run"]
+[SourceURL "https://www.youtube.com/watch?v=YzI6qI-33_U"]
+
+1. Nf3 c5
+2. e4 Nc6
+3. d4 cxd4
+4. Nxd4 g6
+(4... d6
+5. c4 g6
+6. Be3 Bg7
+7. Nc3 Nf6
+8. Be2 O-O
+9. O-O Bd7
+10. Qd2
+{Same weak-deck Maroczy shell against the `...d6` move order.})
+5. c4
+{Naroditsky notes that strong players usually choose the Maroczy Bind against the Accelerated Dragon. The point is to clamp down on `...d5`.}
+5... Bg7
+6. Be3 Nf6
+7. Nc3 O-O
+8. Be2 d6
+9. O-O Bd7
+10. Qd2
+{Connect rooks, support Bh6 ideas, and prepare Rfd1 or Rac1. The bind is about control, not a quick mate.} *
+
+[Event "Weak Opening GM Lesson - Najdorf and Dragon Branches"]
+[Site "https://www.youtube.com/watch?v=zEqoGIgzk1E"]
+[Date "2023.07.15"]
+[Round "6"]
+[White "White repertoire"]
+[Black "Najdorf / Dragon"]
+[Result "*"]
+[Annotator "GM Daniel Naroditsky videos"]
+[Orientation "white"]
+[Opening "Sicilian Defense: Najdorf and Dragon"]
+[SourceTitle "Unveiling the Strategy | Sicilian Najdorf | GM Naroditsky's Theory Speed Run; Dragon Masterclass"]
+[SourceURL "https://www.youtube.com/watch?v=zEqoGIgzk1E"]
+[SecondarySourceURL "https://www.youtube.com/watch?v=kYbh2NTFsS8"]
+
+1. Nf3 c5
+2. e4 d6
+3. d4 cxd4
+4. Nxd4 Nf6
+5. Nc3 a6
+(5... g6
+{Dragon branch from the weak deck.}
+6. Be2 Bg7
+7. O-O O-O
+8. Be3 Nc6
+9. Qd2
+{The calmer Dragon setup: castle short, develop smoothly, then decide how sharp you want the game to become.})
+6. Be3
+{English Attack shell. Naroditsky explains that `...a6` supports `...e5`, `...b5`, and many later queenside ideas; your setup must be purposeful.}
+6... e6
+7. f3 Be7
+8. Qd2 O-O
+9. O-O-O
+{If Black castles short, your plan is Kb1, g4, h4, and kingside pressure while respecting `...b5` counterplay.} *
+
+[Event "Weak Opening GM Lesson - Modern Sicilian and Marshall Reminder"]
+[Site "https://www.youtube.com/watch?v=ihv2TK04WPg"]
+[Date "2021.06.21"]
+[Round "7"]
+[White "White repertoire"]
+[Black "Modern / Marshall"]
+[Result "*"]
+[Annotator "GM Daniel Naroditsky video"]
+[Orientation "white"]
+[Opening "Sicilian Defense: Miscellaneous"]
+
+1. e4 c5
+2. Nf3 d6
+(2... e6
+3. d4 d5
+4. exd5 exd5
+5. Bb5+
+{Marshall Counterattack reminder. Give the check, develop quickly, and do not let Black get a comfortable IQP position for free.}
+5... Nc6
+6. O-O Be7
+7. Re1 Nf6)
+3. d4 cxd4
+4. Nxd4 Nf6
+5. Bd3
+{Modern/Scheveningen-style weak-deck branch. `Bd3` supports e4 and prepares a calmer kingside setup.}
+5... g6
+6. O-O Bg7
+7. c3 O-O
+8. Re1 Nc6
+{Sicilian summary: `Bd3` mostly belongs against e6/Kan/Scheveningen structures; `Nc3` is the default against Najdorf and most `...d6` systems; `c4` is your Maroczy answer to Dragon fianchetto systems; `Bg5` versus Sveshnikov aims for d5 control.} *

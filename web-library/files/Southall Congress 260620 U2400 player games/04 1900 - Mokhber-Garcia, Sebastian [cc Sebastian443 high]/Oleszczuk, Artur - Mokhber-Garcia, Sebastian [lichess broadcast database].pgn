@@ -1,0 +1,18 @@
+[Event "Round 6: Oleszczuk, Artur - Mokhber-Garcia, Sebastian"]
+[Site "https://lichess.org/broadcast/v-mindsports-international-2025/round-6/GOWtCqlQ/ZOly2bO8"]
+[Round "6.9"]
+[White "Oleszczuk, Artur"]
+[Black "Mokhber-Garcia, Sebastian"]
+[Result "1/2-1/2"]
+[WhiteElo "1867"]
+[WhiteFideId "41834330"]
+[BlackElo "1963"]
+[BlackFideId "499269"]
+[Variant "Standard"]
+[ECO "C21"]
+[Opening "Danish Gambit"]
+[BroadcastName "V Mindsports International 2025"]
+[BroadcastURL "https://lichess.org/broadcast/v-mindsports-international-2025/round-6/GOWtCqlQ"]
+[GameURL "https://lichess.org/broadcast/v-mindsports-international-2025/round-6/GOWtCqlQ/ZOly2bO8"]
+
+1. e4 { [%eval 0.18] [%clk 1:30:46] } 1... e5 { [%eval 0.22] [%clk 1:21:44] } 2. d4 { [%eval -0.11] [%clk 1:31:04] } 2... exd4 { [%eval -0.02] [%clk 1:22:09] } 3. c3 { [%eval -0.28] [%clk 1:31:28] } 3... Qe7 { [%eval -0.31] [%clk 1:22:20] } 4. cxd4 { [%eval -0.24] [%clk 1:31:51] } 4... Qxe4+ { [%eval -0.26] [%clk 1:22:37] } 5. Be3 { [%eval -0.26] [%clk 1:32:17] } 5... Nf6 { [%eval -0.17] [%clk 1:22:58] } 6. Nc3 { [%eval -0.32] [%clk 1:32:14] } 6... Bb4 { [%eval -0.15] [%clk 1:23:09] } 7. Nf3 { [%eval -0.2] [%clk 1:31:56] } 7... Nd5 { [%eval -0.19] [%clk 1:23:05] } 8. Qd2 { [%eval -0.24] [%clk 1:31:45] } 8... Nxc3? { [%eval 1.29] } { Mistake. Qe7 was best. } { [%clk 1:22:41] } 9. bxc3 { [%eval 1.32] [%clk 1:32:08] } 9... Ba5 { [%eval 1.39] [%clk 1:23:01] } 10. Bd3 { [%eval 1.65] [%clk 1:32:04] } 10... Qe7? { [%eval 3.51] } { Mistake. Qc6 was best. } { [%clk 1:23:24] } 11. O-O { [%eval 3.52] [%clk 1:32:21] } 11... O-O { [%eval 3.33] [%clk 1:23:23] } 12. Rfe1 { [%eval 3.12] [%clk 1:27:56] } 12... Qa3?? { [%eval 6.7] } { Blunder. d5 was best. } { [%clk 1:23:46] } 13. Bh6 { [%eval 6.42] [%clk 1:21:36] } 13... f6?! { [%eval 10.25] } { Inaccuracy. g6 was best. } { [%clk 1:16:26] } 14. Ne5? { [%eval 5.0] } { Mistake. Qf4 was best. } { [%clk 1:08:41] } 14... d5 { [%eval 5.2] [%clk 1:13:03] } 15. Bxg7 { [%eval 4.98] [%clk 1:05:36] } 15... Kxg7 { [%eval 4.87] [%clk 1:12:04] } 16. Re3?? { [%eval -0.7] } { Blunder. Qf4 was best. } { [%clk 1:02:38] } 16... fxe5 { [%eval -0.77] [%clk 1:11:21] } 17. Rg3+ { [%eval -1.0] [%clk 1:01:56] } 17... Kf7 { [%eval -0.77] [%clk 1:10:07] } 18. Qh6? { [%eval -2.54] } { Mistake. Qg5 was best. } { [%clk 0:59:02] } 18... e4?? { [%eval 0.0] } { Blunder. Ke8 was best. } { [%clk 1:09:34] } 19. Rg7+ { [%eval 0.0] [%clk 0:56:05] } 19... Ke8 { [%eval 0.0] [%clk 1:09:43] } 20. Qh5+ { [%eval 0.0] [%clk 0:54:41] } 20... Kd8 { [%eval 0.0] [%clk 1:09:43] } 21. Qg5+ { [%eval 0.0] [%clk 0:50:46] } 21... Ke8 { [%eval 0.0] [%clk 1:09:40] } 22. Qh5+ { [%eval 0.0] [%clk 0:41:12] } 1/2-1/2

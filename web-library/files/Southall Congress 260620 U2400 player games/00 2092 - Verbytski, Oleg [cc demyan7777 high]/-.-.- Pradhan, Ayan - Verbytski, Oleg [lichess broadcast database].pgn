@@ -1,0 +1,53 @@
+[Event "British Junior Blitz: Open Under 8"]
+[Site "Kents Hill Park, Milton Keynes, United Kingdom"]
+[Date "????.??.??"]
+[Round "7.3"]
+[White "Pradhan, Ayan"]
+[Black "Verbytski, Oleg"]
+[Result "0-1"]
+[WhiteElo "0"]
+[BlackElo "1280"]
+[TimeControl "G: 3 minutes + 2 seconds added per move"]
+[Variant "Standard"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[StudyName "Round 7"]
+[ChapterName "Pradhan, Ayan - Verbytski, Oleg"]
+[BroadcastName "British Junior Blitz: Open Under 8"]
+[BroadcastURL "https://lichess.org/broadcast/british-junior-blitz-open-under-8/round-7/yzV5Z0DG"]
+[GameURL "https://lichess.org/broadcast/british-junior-blitz-open-under-8/round-7/yzV5Z0DG/HXUitp3i"]
+[BlackFideId "495506"]
+
+1. e4 { [%eval 0.23] [%clk 0:03:02] } 1... c5 { [%eval 0.32] [%clk 0:03:03] }
+2. Nc3 { [%eval 0.24] } 2... e6 { [%eval 0.13] [%clk 0:03:04] } 3. Nge2
+{ [%eval 0.25] [%clk 0:02:58] } 3... Nc6 { [%eval 0.44] [%clk 0:03:05] } 4. d3
+$6 { [%eval -0.33] Inaccuracy. d4 was best. [%clk 0:02:57] } 4... Nf6
+{ [%eval 0.09] [%clk 0:03:06] } 5. Bg5 $6
+{ [%eval -0.63] Inaccuracy. g3 was best. [%clk 0:02:57] } 5... Be7
+{ [%eval -0.66] [%clk 0:03:07] } 6. Qd2 { [%eval -1.12] [%clk 0:02:52] } 6...
+d5 $6 { [%eval -0.49] Inaccuracy. h6 was best. [%clk 0:03:08] } 7. exd5
+{ [%eval -0.64] [%clk 0:02:49] } 7... exd5 { [%eval -0.95] [%clk 0:03:02] } 8.
+d4 { [%eval -0.61] [%clk 0:02:49] } 8... c4 $2
+{ [%eval 0.79] Mistake. O-O was best. [%clk 0:03:00] } 9. Nf4 $6
+{ [%eval 0.04] Inaccuracy. g3 was best. [%clk 0:02:44] } 9... Be6
+{ [%eval 0.52] [%clk 0:02:55] } 10. Nxe6 { [%eval 0.22] [%clk 0:02:41] } 10...
+fxe6 { [%eval 0.24] } 11. Be2 $6
+{ [%eval -0.38] Inaccuracy. g3 was best. [%clk 0:02:41] } 11... O-O
+{ [%eval -0.43] [%clk 0:02:51] } 12. O-O $6
+{ [%eval -1.14] Inaccuracy. Bf3 was best. [%clk 0:02:40] } 12... a6 $2
+{ [%eval 0.05] Mistake. Qb6 was best. [%clk 0:02:43] } 13. b3 $4
+{ [%eval -3.43] Blunder. Qe3 was best. [%clk 0:02:38] } 13... b5 $4
+{ [%eval -0.08] Blunder. Bb4 was best. [%clk 0:02:43] } 14. a4 $2
+{ [%eval -1.25] Mistake. bxc4 was best. [%clk 0:02:36] } 14... b4
+{ [%eval -1.23] [%clk 0:02:44] } 15. Nd1 $4
+{ [%eval -6.45] Blunder. Qe3 was best. } 15... Ne4 { [%eval -6.33] } 16. Qe3 $6
+{ [%eval -10.0] Inaccuracy. Bxe7 was best. [%clk 0:02:02] } 16... Bxg5
+{ [%eval -9.73] [%clk 0:02:34] } 17. f4 { [%eval -10.56] [%clk 0:02:03] } 17...
+Bf6 { [%eval -10.38] [%clk 0:02:27] } 18. Kh1 { [%eval -10.69] [%clk 0:01:49] }
+18... Bxd4 { [%eval -10.87] [%clk 0:02:27] } 19. Qh3
+{ [%eval -10.57] [%clk 0:01:44] } 19... Qf6 { [%eval -9.54] [%clk 0:02:15] }
+20. Ra2 { [%eval -9.41] [%clk 0:01:34] } 20... c3 { [%clk 0:02:13] } 21. Bg4
+{ [%clk 0:01:29] } 21... Rae8 { [%clk 0:02:12] } 22. f5 { [%clk 0:01:20] }
+22... Nd2 { [%clk 0:02:09] } 23. Rf4 { [%clk 0:01:10] } 23... exf5
+{ [%clk 0:02:07] } 24. g3 { [%clk 0:00:51] } 24... Re1+ { [%clk 0:02:08] } 25.
+Kg2 { [%clk 0:00:50] } 25... Rg1# { [%clk 0:02:05] } 0-1

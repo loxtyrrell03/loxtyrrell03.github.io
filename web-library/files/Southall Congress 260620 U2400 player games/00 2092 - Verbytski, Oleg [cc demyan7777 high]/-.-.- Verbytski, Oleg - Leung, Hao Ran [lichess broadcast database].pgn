@@ -1,0 +1,65 @@
+[Event "Round 5: Verbytski, Oleg - Leung, Hao Ran"]
+[Site "https://lichess.org/broadcast/v-mindsports-international-2025/round-5/tAXcKKz5/SXsJ2ZPR"]
+[Date "????.??.??"]
+[Round "5.5"]
+[White "Verbytski, Oleg"]
+[Black "Leung, Hao Ran"]
+[Result "1-0"]
+[WhiteElo "2002"]
+[WhiteFideId "495506"]
+[BlackElo "1915"]
+[BlackFideId "6012620"]
+[Variant "Standard"]
+[ECO "B19"]
+[Opening "Caro-Kann Defense: Classical Variation, Lobron System"]
+[BroadcastName "V Mindsports International 2025"]
+[BroadcastURL "https://lichess.org/broadcast/v-mindsports-international-2025/round-5/tAXcKKz5"]
+[GameURL "https://lichess.org/broadcast/v-mindsports-international-2025/round-5/tAXcKKz5/SXsJ2ZPR"]
+
+1. e4 { [%eval 0.18] [%clk 1:30:57] } 1... c6 { [%eval 0.23] [%clk 1:30:58] }
+2. d4 { [%eval 0.24] [%clk 1:31:19] } 2... d5 { [%eval 0.24] [%clk 1:31:26] }
+3. Nc3 { [%eval 0.23] [%clk 1:31:30] } 3... dxe4
+{ [%eval 0.18] [%clk 1:31:51] } 4. Nxe4 { [%eval 0.28] [%clk 1:31:56] } 4...
+Bf5 { [%eval 0.25] [%clk 1:32:11] } 5. Ng3 { [%eval 0.14] [%clk 1:32:22] } 5...
+Bg6 { [%eval 0.28] [%clk 1:32:39] } 6. h4 { [%eval 0.21] [%clk 1:32:46] } 6...
+h6 { [%eval 0.14] [%clk 1:33:06] } 7. Nf3 { [%eval 0.14] [%clk 1:33:09] } 7...
+Nd7 { [%eval 0.2] [%clk 1:33:16] } 8. h5 { [%eval 0.38] [%clk 1:33:34] } 8...
+Bh7 { [%eval 0.35] [%clk 1:33:42] } 9. Bd3 { [%eval 0.32] [%clk 1:34:00] } 9...
+Bxd3 { [%eval 0.32] [%clk 1:34:09] } 10. Qxd3 { [%eval 0.35] [%clk 1:34:25] }
+10... Ngf6 { [%eval 0.54] [%clk 1:34:16] } 11. Bd2
+{ [%eval 0.38] [%clk 1:34:38] } 11... e6 { [%eval 0.39] [%clk 1:34:38] } 12.
+O-O-O { [%eval 0.18] [%clk 1:34:24] } 12... Be7 { [%eval 0.25] [%clk 1:34:29] }
+13. Qe2 { [%eval 0.2] [%clk 1:34:36] } 13... O-O
+{ [%eval 0.26] [%clk 1:33:57] } 14. Nf1 { [%eval 0.24] [%clk 1:35:01] } 14...
+Qb6 { [%eval 0.32] [%clk 1:15:46] } 15. g4 { [%eval 0.37] [%clk 1:33:27] }
+15... Qa6 $6 { [%eval 0.93] Inaccuracy. Nh7 was best. [%clk 1:16:09] } 16. Qxa6
+{ [%eval 0.88] [%clk 1:31:33] } 16... bxa6 { [%eval 0.99] [%clk 1:16:37] } 17.
+Rg1 { [%eval 0.89] [%clk 1:28:25] } 17... Rfe8 { [%eval 1.01] [%clk 1:04:40] }
+18. Ne5 { [%eval 1.02] [%clk 1:25:28] } 18... c5
+{ [%eval 0.94] [%clk 1:03:16] } 19. Nxd7 { [%eval 0.96] [%clk 1:19:46] } 19...
+Nxd7 { [%eval 1.04] [%clk 1:03:44] } 20. Be3 { [%eval 0.7] [%clk 1:18:43] }
+20... cxd4 { [%eval 0.71] [%clk 1:03:00] } 21. Bxd4
+{ [%eval 0.67] [%clk 1:14:57] } 21... e5 $6
+{ [%eval 1.32] Inaccuracy. Red8 was best. [%clk 0:56:07] } 22. Be3
+{ [%eval 1.32] [%clk 1:13:17] } 22... Nb6 { [%eval 1.41] [%clk 0:56:17] } 23.
+Ng3 { [%eval 1.44] [%clk 1:05:05] } 23... Nc4 { [%eval 1.5] [%clk 0:54:14] }
+24. Nf5 { [%eval 1.47] [%clk 1:05:08] } 24... Nxe3
+{ [%eval 1.55] [%clk 0:53:41] } 25. Nxe7+ { [%eval 1.67] [%clk 1:05:30] } 25...
+Rxe7 { [%eval 1.67] [%clk 0:54:07] } 26. fxe3 { [%eval 1.58] [%clk 1:05:56] }
+26... Rb7 $6 { [%eval 2.24] Inaccuracy. Rc8 was best. [%clk 0:50:05] } 27. Rd5
+{ [%eval 2.41] [%clk 0:55:04] } 27... Rab8 { [%eval 2.76] [%clk 0:48:47] } 28.
+b3 { [%eval 2.72] [%clk 0:55:19] } 28... Rb5 { [%eval 3.19] [%clk 0:48:58] }
+29. Rgd1 { [%eval 3.25] [%clk 0:54:41] } 29... a5
+{ [%eval 3.8] [%clk 0:37:35] } 30. c4 { [%eval 3.85] [%clk 0:47:34] } 30...
+Rxd5 { [%eval 3.81] [%clk 0:37:51] } 31. Rxd5 { [%eval 3.74] [%clk 0:48:02] }
+31... a4 { [%eval 3.65] [%clk 0:38:04] } 32. Kc2
+{ [%eval 3.77] [%clk 0:48:07] } 32... axb3+ { [%eval 3.66] [%clk 0:38:25] } 33.
+axb3 { [%eval 3.78] [%clk 0:48:36] } 33... f6 $6
+{ [%eval 4.74] Inaccuracy. Re8 was best. [%clk 0:38:21] } 34. Rd7
+{ [%eval 4.53] [%clk 0:48:05] } 34... a6 { [%eval 4.89] [%clk 0:38:17] } 35.
+Ra7 { [%eval 4.77] [%clk 0:46:43] } 35... Rb6 { [%eval 5.72] [%clk 0:38:42] }
+36. Kc3 { [%eval 5.58] [%clk 0:46:43] } 36... Rd6
+{ [%eval 5.59] [%clk 0:35:40] } 37. c5 { [%eval 5.69] [%clk 0:46:54] } 37...
+Rd1 { [%eval 5.53] [%clk 0:35:33] } 38. Kc2 { [%eval 5.59] [%clk 0:45:38] }
+38... Rg1 $6 { [%eval 7.37] Inaccuracy. Rd8 was best. [%clk 0:35:27] } 39. c6
+{ [%eval 6.93] [%clk 0:45:55] } 1-0

@@ -1,0 +1,784 @@
+[Event "BCF-chT4S 1819 (4NCL)"]
+[Site "England"]
+[Date "2018.11.17"]
+[Round "1.99"]
+[White "Priest, Christopher Pa"]
+[Black "Sturt, Charles A"]
+[Result "0-1"]
+[SourceFile "2018.11.17 Priest, Christopher Pa - Sturt, Charles A [local Mega].pgn"]
+[Title "2018.11.17 Priest, Christopher Pa - Sturt, Charles A 0-1"]
+[ECO "A40"]
+[WhiteElo "1690"]
+[BlackElo "1682"]
+[PlyCount "48"]
+
+{[%evp 0,48,23,23,45,13,78,-26,-28,-58,-65,-86,-86,-62,-57,-60,-53,-151,-161,-224,-239,-336,-280,-341,-280,-279,-292,-293,-306,-310,-301,-282,-246,-212,-212,-215,-166,-177,-182,-179,-190,-236,-180,-224,-175,-158,-187,-328,-288,-466,-481]} 1. d4 e6 2. Bf4 f5 3. e4 fxe4 4. Qh5+ g6 5. Qe5 Nf6 6. Qxc7 Qxc7 7. Bxc7 Nc6 8. c3 d6 9. b4 b6 10. f3 Kd7 11. fxe4 Nxe4 12. Bd3 Nf6 13. Bxd6 Bxd6 14. Nf3 Bb7 15. Nbd2 Ng4 16. O-O Raf8 17. Rae1 Ne7 18. h3 Nh6 19. Ng5 Rxf1+ 20. Nxf1 a6 21. Rxe6 Bf4 22. Rxb6 Kc7 23. Nf7 Rf8 24. Rf6 Rxf7 0-1
+
+
+[Event "BCF-chT4S 1819 (4NCL)"]
+[Site "England"]
+[Date "2018.11.18"]
+[Round "2.25"]
+[White "Burke, Steven J"]
+[Black "Sturt, Charles A"]
+[Result "1-0"]
+[SourceFile "2018.11.18 Burke, Steven J - Sturt, Charles A [local Mega].pgn"]
+[Title "2018.11.18 Burke, Steven J - Sturt, Charles A 1-0"]
+[ECO "C01"]
+[WhiteElo "1952"]
+[BlackElo "1682"]
+[PlyCount "103"]
+
+1. d4 e6 2. e4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Ne7 6. c3 h6 7. Qc2 Be6 8. O-O Nd7 9. Re1 c6 10. Nbd2 Qc7 11. Nf1 O-O-O 12. a4 Rdg8 13. b3 g5 14. Ba3 Ng6 15. Rxe6 fxe6 16. Bxd6 Qxd6 17. Bxg6 h5 18. Re1 Rh6 19. Bd3 h4 20. Ne5 Nxe5 21. Rxe5 h3 22. g3 Qf8 23. Be2 g4 24. Ne3 Rhg6 25. Nxg4 Rxg4 26. Bxg4 Rxg4 27. Qe2 Qa3 28. Kf1 Re4 29. Rxe4 dxe4 30. Qxe4 Qxb3 31. Ke2 Qxa4 32. Qxe6+ Kc7 33. Kd2 Qb5 34. Qe7+ Kb6 35. Qb4 Qxb4 36. cxb4 Kc7 37. g4 Kd6 38. f4 Ke6 39. Kd3 a6 40. Kc4 b6 41. f5+ Kf6 42. d5 cxd5+ 43. Kxd5 a5 44. bxa5 bxa5 45. Kc4 Kg5 46. Kb5 Kxg4 47. f6 Kf3 48. f7 Kg2 49. f8=Q Kxh2 50. Qf2+ Kh1 51. Kxa5 h2 52. Qf1# 1-0
+
+
+[Event "BCF-chT4S 1819 (4NCL)"]
+[Site "England"]
+[Date "2019.02.09"]
+[Round "5.56"]
+[White "Kolani, Arjun"]
+[Black "Sturt, Charles A"]
+[Result "1-0"]
+[SourceFile "2019.02.09 Kolani, Arjun - Sturt, Charles A [local Mega].pgn"]
+[Title "2019.02.09 Kolani, Arjun - Sturt, Charles A 1-0"]
+[ECO "C13"]
+[WhiteElo "1589"]
+[BlackElo "1682"]
+[PlyCount "47"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. Nf3 f5 8. Ned2 a6 9. c3 b5 10. Ne5 Bf6 11. Ndf3 Bb7 12. Be2 Nd7 13. Nd3 Qe7 14. O-O O-O-O 15. Re1 h5 16. a4 bxa4 17. Rxa4 Rdg8 18. Nb4 Qf8 19. Bxa6 Qg7 20. g3 h4 21. Qe2 Bxa6 22. Qxa6+ Kd8 23. Nc6+ Ke8 24. Qc8+ 1-0
+
+
+[Event "BCF-chT4S 1819 (4NCL)"]
+[Site "England"]
+[Date "2019.02.10"]
+[Round "6.76"]
+[White "Sturt, Charles A"]
+[Black "Pal, Rohan"]
+[Result "1/2-1/2"]
+[SourceFile "2019.02.10 Sturt, Charles A - Pal, Rohan [local Mega].pgn"]
+[Title "2019.02.10 Sturt, Charles A - Pal, Rohan 1/2-1/2"]
+[ECO "C30"]
+[WhiteElo "1682"]
+[BlackElo "1568"]
+[PlyCount "56"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nc6 5. Bb5 Bg4 6. Na4 Bb6 7. Nxb6 axb6 8. f5 Qf6 9. d3 Ne7 10. h3 Bxf3 11. Qxf3 O-O-O 12. h4 g6 13. Bg5 Qg7 14. f6 Qf8 15. fxe7 Nxe7 16. Bf6 Rg8 17. g4 c6 18. Ba4 Rd7 19. O-O-O Kc7 20. d4 exd4 21. Bxd4 b5 22. Bb3 c5 23. Qc3 Nc6 24. Be3 c4 25. Bxc4 bxc4 26. Qxc4 Qe7 27. Qb3 Qxe4 28. Rhf1 Qe6 1/2-1/2
+
+
+[Event "BCF-chT4S 1819 (4NCL)"]
+[Site "England"]
+[Date "2019.05.06"]
+[Round "11.36"]
+[White "Adaway, William"]
+[Black "Sturt, Charles A"]
+[Result "1-0"]
+[SourceFile "2019.05.06 Adaway, William - Sturt, Charles A [local Mega].pgn"]
+[Title "2019.05.06 Adaway, William - Sturt, Charles A 1-0"]
+[ECO "C01"]
+[WhiteElo "1863"]
+[BlackElo "1682"]
+[PlyCount "43"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 c6 5. Bd3 Bd6 6. O-O Ne7 7. c3 Bf5 8. Bxf5 Nxf5 9. Re1+ Ne7 10. Bg5 f6 11. Bh4 O-O 12. Qc2 Qc8 13. Bg3 Nf5 14. Nbd2 Nxg3 15. hxg3 c5 16. Nf1 Nc6 17. dxc5 Bxc5 18. Rad1 Bb6 19. Qb3 Qc7 20. Qxd5+ Kh8 21. Qd7 Qxg3 22. Nxg3 1-0
+
+
+[Event "London Classic op U1750 11th"]
+[Site "London"]
+[Date "2019.12.02"]
+[Round "1"]
+[White "Sturt, Charles A"]
+[Black "Ainscow, Faye"]
+[Result "1/2-1/2"]
+[SourceFile "2019.12.02 Sturt, Charles A - Ainscow, Faye [local Mega].pgn"]
+[Title "2019.12.02 Sturt, Charles A - Ainscow, Faye 1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "1622"]
+[BlackElo "1359"]
+[PlyCount "127"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 e6 5. Nf3 Nf6 6. Bg5 Be7 7. O-O h6 8. Bh4 Nc6 9. c3 Bd7 10. Ne5 O-O 11. f4 Ne4 12. Bxe7 Nxe7 13. Nd2 f5 14. Nxd7 Qxd7 15. Qe2 a6 16. Rae1 Rf6 17. Nf3 Ng6 18. Ne5 Qe8 19. Bxe4 fxe4 20. Qe3 Rd8 21. Rf2 Ne7 22. g4 h5 23. h3 hxg4 24. hxg4 Rh6 25. Rh2 Rxh2 26. Kxh2 g6 27. Qh3 Kg7 28. Kg3 Qh8 29. Rh1 Qxh3+ 30. Rxh3 Rh8 31. Rxh8 Kxh8 32. Nf7+ Kg7 33. Nd6 b5 34. Ne8+ Kf7 35. Nc7 Nc6 36. Nxa6 Ke7 37. Nb4 Na7 38. Nc2 Kf6 39. b4 Nc8 40. Ne3 Nd6 41. Kh4 Nf7 42. f5 gxf5 43. gxf5 Nd6 44. fxe6 Kxe6 45. Kg5 Nf7+ 46. Kf4 Nd6 47. Kg4 Nf7 48. Nd1 Nd6 49. Nb2 Kd7 50. Kf4 Nf7 51. a4 bxa4 52. Nxa4 Nd6 53. Nb2 Nb5 54. Nd1 Kd6 55. Ke3 Na3 56. Nb2 Kc6 57. c4 Nc2+ 58. Kf4 Nxb4 59. c5 Na6 60. Nd1 Nxc5 61. dxc5 Kxc5 62. Ke3 Kc4 63. Nf2 Kc3 64. Nxe4+ 1/2-1/2
+
+
+[Event "London Classic op U1750 11th"]
+[Site "London"]
+[Date "2019.12.03"]
+[Round "2"]
+[White "McGill, Brendan"]
+[Black "Sturt, Charles A"]
+[Result "1/2-1/2"]
+[SourceFile "2019.12.03 McGill, Brendan - Sturt, Charles A [local Mega].pgn"]
+[Title "2019.12.03 McGill, Brendan - Sturt, Charles A 1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "1441"]
+[BlackElo "1622"]
+[PlyCount "75"]
+
+1. d4 e6 2. Nf3 d5 3. Bf4 c5 4. c3 Nc6 5. e3 Bd6 6. Bxd6 Qxd6 7. Bd3 Nh6 8. Nbd2 c4 9. Bc2 Bd7 10. e4 f6 11. h3 O-O-O 12. b4 Nf7 13. Ba4 Rhe8 14. b5 Na5 15. Rb1 b6 16. O-O g5 17. Ra1 h5 18. Ne1 g4 19. Nc2 gxh3 20. g3 Rg8 21. Qxh5 Rxg3+ 22. Kh1 Rg2 23. Qxh3 Rh8 24. Qxh8+ Nxh8 25. Kxg2 Qf4 26. Rad1 dxe4 27. Rh1 Qg4+ 28. Kf1 Qxd1+ 29. Kg2 Qg4+ 30. Kf1 Ng6 31. Ne3 Qg5 32. Nxe4 Qf4 33. Ng3 Qf3 34. Bc2 Nf4 35. Rh8+ Kc7 36. Be4 Ng6 37. Bxf3 Nxh8 38. a4 1/2-1/2
+
+
+[Event "London Classic op U1750 11th"]
+[Site "London"]
+[Date "2019.12.04"]
+[Round "3"]
+[White "Sturt, Charles A"]
+[Black "Sartain, Patrick"]
+[Result "1-0"]
+[SourceFile "2019.12.04 Sturt, Charles A - Sartain, Patrick [local Mega].pgn"]
+[Title "2019.12.04 Sturt, Charles A - Sartain, Patrick 1-0"]
+[ECO "B08"]
+[WhiteElo "1622"]
+[BlackElo "1476"]
+[PlyCount "89"]
+
+1. e4 d6 2. Nf3 g6 3. d4 Bg7 4. Bc4 Nf6 5. Nc3 O-O 6. O-O a6 7. a3 b5 8. Ba2 Bb7 9. Qe2 Nh5 10. e5 Qd7 11. Ne4 Kh8 12. Nfg5 f5 13. exf6 Bxf6 14. Nf7+ Rxf7 15. Bxf7 e6 16. Nxf6 Qxf7 17. Ne4 Nd7 18. Ng5 Qe8 19. Nxe6 Bd5 20. Re1 c6 21. Nc7 Qxe2 22. Rxe2 Rf8 23. Re7 Ndf6 24. Bh6 Rg8 25. f3 g5 26. Rae1 g4 27. Nxd5 cxd5 28. Kf2 gxf3 29. gxf3 Rg6 30. Bd2 Ng7 31. Rg1 Kg8 32. Rxg6 hxg6 33. Ra7 Nf5 34. c3 Ne8 35. Bg5 Kf8 36. Rxa6 Nc7 37. Ra7 Ne6 38. h4 Ke8 39. Rb7 Nd8 40. Rb8 Ne7 41. Bxe7 Kxe7 42. Rxd8 Kxd8 43. Kg3 Ke7 44. Kg4 Kf6 45. f4 1-0
+
+
+[Event "11th CSC London Chess Classic"]
+[Site "Olympia Conference Centre, London"]
+[Date "2019.12.04"]
+[Round "3"]
+[Board "15"]
+[White "Sturt, Charles A"]
+[Black "Sartain, Patrick P"]
+[Result "1-0"]
+[SourceFile "2019.12.04 Sturt, Charles A - Sartain, Patrick P [chess-results].pgn"]
+[Title "2019.12.04 Sturt, Charles A - Sartain, Patrick P 1-0"]
+[ECO "A00"]
+[WhiteElo "1622"]
+[BlackElo "1476"]
+[PlyCount "89"]
+[EventDate "2019.12.02"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 d6 2. Nf3 g6 3. d4 Bg7 4. Bc4 Nf6 5. Nc3 O-O 6. O-O a6 7. a3 b5 8. Ba2
+Bb7 9. Qe2 Nh5 10. e5 Qd7 11. Ne4 Kh8 12. Nfg5 f5 13. exf6 Bxf6 14. Nf7+ Rxf7
+15. Bxf7 e6 16. Nxf6 Qxf7 17. Ne4 Nd7 18. Ng5 Qe8 19. Nxe6 Bd5 20. Re1 c6 21.
+Nc7 Qxe2 22. Rxe2 Rf8 23. Re7 Ndf6 24. Bh6 Rg8 25. f3 g5 26. Rae1 g4 27. Nxd5
+cxd5 28. Kf2 gxf3 29. gxf3 Rg6 30. Bd2 Ng7 31. Rg1 Kg8 32. Rxg6 hxg6 33. Ra7
+Nf5 34. c3 Ne8 35. Bg5 Kf8 36. Rxa6 Nc7 37. Ra7 Ne6 38. h4 Ke8 39. Rb7 Nd8 40.
+Rb8 Ne7 41. Bxe7 Kxe7 42. Rxd8 Kxd8 43. Kg3 Ke7 44. Kg4 Kf6 45. f4  1-0
+
+
+[Event "London Classic op U1750 11th"]
+[Site "London"]
+[Date "2019.12.05"]
+[Round "4"]
+[White "Badacsonyi, Frankie"]
+[Black "Sturt, Charles A"]
+[Result "1/2-1/2"]
+[SourceFile "2019.12.05 Badacsonyi, Frankie - Sturt, Charles A [local Mega].pgn"]
+[Title "2019.12.05 Badacsonyi, Frankie - Sturt, Charles A 1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "1531"]
+[BlackElo "1622"]
+[PlyCount "75"]
+
+1. d4 e6 2. Nf3 d5 3. c4 dxc4 4. e3 c5 5. Bxc4 Nf6 6. O-O Nc6 7. dxc5 Bxc5 8. Qxd8+ Kxd8 9. b3 a6 10. Rd1+ Ke7 11. Bb2 b5 12. Be2 Bb7 13. Nbd2 Rac8 14. Bxf6+ gxf6 15. Ne4 Ba3 16. Ne1 Ne5 17. Ng3 h5 18. Bxh5 f5 19. Be2 Rh7 20. Nd3 Nxd3 21. Bxd3 Rch8 22. h3 Rg7 23. Bxf5 Bxg2 24. Bxe6 Bf3 25. Bg4 Bxg4 26. hxg4 Rxg4 27. Kf1 Ke6 28. Ke2 Rc8 29. Kf3 Rg5 30. Ne2 Rf5+ 31. Nf4+ Ke7 32. Rd4 Rc2 33. Re4+ Kf6 34. Rh1 Kg7 35. Kg4 Rfc5 36. Nh5+ Kg6 37. Nf4+ Kg7 38. Nh5+ 1/2-1/2
+
+
+[Event "BCF-chT4S 1920 (4NCL)"]
+[Site "England"]
+[Date "2020.01.11"]
+[Round "3.143"]
+[White "Sturt, Charles A"]
+[Black "Agnihotri, Akaash"]
+[Result "1-0"]
+[SourceFile "2020.01.11 Sturt, Charles A - Agnihotri, Akaash [local Mega].pgn"]
+[Title "2020.01.11 Sturt, Charles A - Agnihotri, Akaash 1-0"]
+[ECO "C50"]
+[WhiteElo "1416"]
+[BlackElo "1532"]
+[PlyCount "49"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O h6 6. e5 Nh7 7. Nxd4 Nxe5 8. Re1 d6 9. f4 Qf6 10. Nc3 Be7 11. fxe5 dxe5 12. Rf1 Qb6 13. Bxf7+ Kd8 14. Be3 exd4 15. Bxd4 Qd6 16. Bxg7 Rf8 17. Bxh6 Rxf7 18. Rxf7 Nf6 19. Qxd6+ cxd6 20. Re1 Ng8 21. Rfxe7 Nxe7 22. Bg5 Bf5 23. Rxe7 Bd7 24. Nd5 Rc8 25. Re6# 1-0
+
+
+[Event "BCF-chT4S 1920 (4NCL)"]
+[Site "England"]
+[Date "2020.01.12"]
+[Round "4.124"]
+[White "Sturt, Charles A"]
+[Black "Balakrishnan, Kathirvel"]
+[Result "1-0"]
+[SourceFile "2020.01.12 Sturt, Charles A - Balakrishnan, Kathirvel [local Mega].pgn"]
+[Title "2020.01.12 Sturt, Charles A - Balakrishnan, Kathirvel 1-0"]
+[ECO "C01"]
+[WhiteElo "1416"]
+[BlackElo "1579"]
+[PlyCount "57"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nf6 5. Ne2 Bd6 6. Bf4 Be6 7. Qd2 Nc6 8. c3 Ne7 9. Bxd6 Qxd6 10. Qf4 Qb6 11. Qc1 Bf5 12. Nf4 O-O 13. Be2 c5 14. dxc5 Qxc5 15. O-O Ng6 16. Nh5 Ne4 17. Nd2 Rfe8 18. Nb3 Qb6 19. Nd4 Bd7 20. Qc2 Rac8 21. Rad1 Ne5 22. Ng3 Nxg3 23. hxg3 Nc6 24. Nxc6 Bxc6 25. Rd4 Bb5 26. Bxb5 Qxb5 27. Rfd1 Re2 28. Rxd5 Qe8 29. Qxe2 1-0
+
+
+[Event "BCF-chT4S 1920 (4NCL)"]
+[Site "England"]
+[Date "2020.02.08"]
+[Round "5.121"]
+[White "Sturt, Charles A"]
+[Black "Sloan, Cecil"]
+[Result "1/2-1/2"]
+[SourceFile "2020.02.08 Sturt, Charles A - Sloan, Cecil [local Mega].pgn"]
+[Title "2020.02.08 Sturt, Charles A - Sloan, Cecil 1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1416"]
+[BlackElo "1735"]
+[PlyCount "108"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Bf4 c6 6. Nf3 Bg4 7. Be2 e6 8. O-O Bd6 9. Ne5 Bxe2 10. Nxe2 O-O 11. Bg5 Be7 12. c3 Nbd7 13. f4 Nd5 14. Bxe7 Qxe7 15. Qb3 Nxe5 16. dxe5 Rfd8 17. Rf3 Rd7 18. Nd4 Rad8 19. a3 Qc5 20. h3 Qb6 21. Qxb6 Nxb6 22. b3 a6 23. f5 exf5 24. Nxf5 Nc8 25. Raf1 Rd1 26. b4 Rxf1+ 27. Kxf1 Kf8 28. Ke2 g6 29. Nh6 Rd7 30. e6 Re7 31. Rxf7+ Rxf7 32. exf7 Nd6 33. Kd3 Nxf7 34. Nxf7 Kxf7 35. Kd4 Ke6 36. Kc5 Kd7 37. Kb6 Kc8 38. c4 Kb8 39. a4 Kc8 40. b5 axb5 41. axb5 cxb5 42. cxb5 Kb8 43. h4 h6 44. g4 Kc8 45. Kc5 Kd7 46. Kb6 Kc8 47. Kc5 Kd7 48. Kd5 b6 49. Ke5 Ke7 50. Kd5 Kd7 51. Ke5 Ke7 52. g5 h5 53. Kd5 Kd7 54. Ke5 Ke7 1/2-1/2
+
+
+[Event "BCF-chT4S 1920 (4NCL)"]
+[Site "England"]
+[Date "2020.02.09"]
+[Round "6.131"]
+[White "Neatherway, A Philip"]
+[Black "Sturt, Charles A"]
+[Result "0-1"]
+[SourceFile "2020.02.09 Neatherway, A Philip - Sturt, Charles A [local Mega].pgn"]
+[Title "2020.02.09 Neatherway, A Philip - Sturt, Charles A 0-1"]
+[ECO "C06"]
+[WhiteElo "1822"]
+[BlackElo "1416"]
+[PlyCount "39"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4 f6 9. Nf4 Nxd4 10. Qh5+ Ke7 11. Ng6+ hxg6 12. Qxh8 Nxe5 13. Bb1 Qc7 14. Kd1 Bd7 15. Nb3 Ba4 16. Qh3 Rc8 17. Bd2 Qc4 18. Bc3 Bxb3+ 19. axb3 Qe2+ 20. Kc1 0-1
+
+
+[Event "BCF-chT4 1920 (4NCL) online"]
+[Site "Lichess.org INT"]
+[Date "2020.04.07"]
+[Round "1.144"]
+[White "Sturt, Charles A"]
+[Black "Ratnesan, Radha"]
+[Result "0-1"]
+[SourceFile "2020.04.07 Sturt, Charles A - Ratnesan, Radha [local Mega].pgn"]
+[Title "2020.04.07 Sturt, Charles A - Ratnesan, Radha 0-1"]
+[ECO "C01"]
+[WhiteElo "1615"]
+[BlackElo "1682"]
+[PlyCount "58"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Ne2 Nf6 7. O-O O-O 8. Bf4 Bxf4 9. Nxf4 Qd6 10. Nh5 Ne7 11. Nxf6+ Qxf6 12. Qh5 Bf5 13. Bxf5 Nxf5 14. Nd2 Rfe8 15. Rae1 Re6 16. Nf3 Rb6 17. Re5 g6 18. Qg5 Qxg5 19. Nxg5 f6 20. Rxf5 gxf5 21. Nh3 Rxb2 22. Nf4 c6 23. g3 Rxa2 24. Re1 Kf7 25. Rb1 b5 26. c4 dxc4 27. d5 c3 28. dxc6 c2 29. Rc1 Rc8 0-1
+
+
+[Event "BCF-chT4 1920 (4NCL) online"]
+[Site "Lichess.org INT"]
+[Date "2020.04.28"]
+[Round "4.54"]
+[White "Hilditch Love, Daniel"]
+[Black "Sturt, Charles A"]
+[Result "1-0"]
+[SourceFile "2020.04.28 Hilditch Love, Daniel - Sturt, Charles A [local Mega].pgn"]
+[Title "2020.04.28 Hilditch Love, Daniel - Sturt, Charles A 1-0"]
+[ECO "A04"]
+[WhiteElo "1585"]
+[BlackElo "1615"]
+[PlyCount "125"]
+
+1. Nf3 f5 2. e3 d6 3. d4 e6 4. b3 Nf6 5. Nbd2 Ne4 6. Bb2 Be7 7. Bd3 Nxd2 8. Qxd2 O-O 9. c4 a5 10. h3 Qe8 11. O-O Bf6 12. e4 Qh5 13. exf5 exf5 14. d5 Nd7 15. Bxf6 gxf6 16. Qf4 Ne5 17. Be2 Nxf3+ 18. Bxf3 Qg5 19. Qg3 f4 20. Qxg5+ fxg5 21. Rfe1 Bf5 22. Re7 Rf7 23. Rae1 b6 24. Kh2 Kf8 25. R7e2 a4 26. Bh5 axb3 27. Bxf7 bxa2 28. Ra1 Bb1 29. Bh5 Ra4 30. Re8+ Kg7 31. Be2 h6 32. Re7+ Kf6 33. Re6+ Kg7 34. g3 f3 35. Bxf3 Rxc4 36. Re7+ Kf6 37. Re6+ Kg7 38. Re3 b5 39. Be2 Rc5 40. Bd3 Rxd5 41. Bxb1 axb1=Q 42. Rxb1 c6 43. Rc3 Rc5 44. Rxc5 dxc5 45. Rd1 Kf6 46. Rd6+ Ke5 47. Rxc6 Kd4 48. Kg2 b4 49. Kf1 b3 50. Ke2 b2 51. Rb6 Kc3 52. f4 gxf4 53. gxf4 c4 54. f5 Kc2 55. f6 b1=Q 56. Rxb1 Kxb1 57. f7 c3 58. f8=Q c2 59. Qxh6 Kb2 60. h4 Kc3 61. Qd2+ Kb2 62. h5 Ka1 63. Qc1+ 1-0
+
+
+[Event "London Mindsports Rapid"]
+[Site "London"]
+[Date "2022.09.11"]
+[Round "1.9"]
+[White "Large, Peter G"]
+[Black "Sturt, Charles A"]
+[Result "1-0"]
+[SourceFile "2022.09.11 Large, Peter G - Sturt, Charles A [local Mega].pgn"]
+[Title "2022.09.11 Large, Peter G - Sturt, Charles A 1-0"]
+[ECO "C19"]
+[WhiteElo "2138"]
+[BlackElo "1407"]
+[PlyCount "47"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. a4 Nbc6 8. Nf3 Bd7 9. Bd3 Ng6 10. h4 h6 11. h5 Nge7 12. O-O Qc7 13. Re1 Na5 14. Bf4 c4 15. Bf1 b6 16. g3 g5 17. Bc1 Nec6 18. Nh2 O-O 19. Ng4 Kg7 20. f4 gxf4 21. Bxf4 Rh8 22. Qd2 Ne7 23. Bxh6+ Kg8 24. Nf6# 1-0
+
+
+[Event "London Mindsports Rapid"]
+[Site "London"]
+[Date "2022.09.11"]
+[Round "6.12"]
+[White "Sturt, Charles A"]
+[Black "Merriman, James"]
+[Result "0-1"]
+[SourceFile "2022.09.11 Sturt, Charles A - Merriman, James [local Mega].pgn"]
+[Title "2022.09.11 Sturt, Charles A - Merriman, James 0-1"]
+[ECO "C01"]
+[WhiteElo "1407"]
+[BlackElo "1703"]
+[PlyCount "40"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Bd3 Ne7 6. c4 dxc4 7. Bxc4 O-O 8. h3 Nbc6 9. O-O Bf5 10. a3 Qd7 11. Nc3 Rad8 12. Bg5 h6 13. Bh4 Ng6 14. Bxd8 Rxd8 15. Bd3 Bxh3 16. Bxg6 Qg4 17. Bxf7+ Kh8 18. Nh4 Qxh4 19. Qf3 Bh2+ 20. Kh1 Bg4 0-1
+
+
+[Event "London Mindsports Rapid"]
+[Site "London"]
+[Date "2022.09.11"]
+[Round "5.11"]
+[White "Wilks, Simon"]
+[Black "Sturt, Charles A"]
+[Result "1/2-1/2"]
+[SourceFile "2022.09.11 Wilks, Simon - Sturt, Charles A [local Mega].pgn"]
+[Title "2022.09.11 Wilks, Simon - Sturt, Charles A 1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "1943"]
+[BlackElo "1407"]
+[PlyCount "82"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Qe7+ 6. Ne2 Nf6 7. a3 Bxc3+ 8. bxc3 O-O 9. O-O Bg4 10. f3 Bh5 11. Bg5 Bg6 12. Ng3 Bxd3 13. Qxd3 Nbd7 14. Rfe1 Qd8 15. Nf5 Re8 16. Kf1 Rxe1+ 17. Rxe1 Qf8 18. Bc1 Re8 19. Re2 Nb6 20. Bg5 Nbd7 21. a4 a6 22. Bf4 Rxe2 23. Qxe2 Ne8 24. Ne7+ Kh8 25. Nxd5 c6 26. Nb4 Ndf6 27. Qe5 Kg8 28. a5 h6 29. h4 Nd7 30. Qe3 Nef6 31. Be5 Qd8 32. Bxf6 Nxf6 33. Qe5 Nd5 34. Nd3 Qxa5 35. c4 Qa1+ 36. Kf2 Nf6 37. Qb8+ Kh7 38. Qe5 Qc3 39. Qf5+ Kg8 40. Qc8+ Kh7 41. Qf5+ Kg8 1/2-1/2
+
+
+[Event "BCF-chT4 2223 (4NCL)"]
+[Site "England"]
+[Date "2022.11.05"]
+[Round "1.46"]
+[White "Sturt, Charles A"]
+[Black "Hutchinson, Joel"]
+[Result "0-1"]
+[SourceFile "2022.11.05 Sturt, Charles A - Hutchinson, Joel [local Mega].pgn"]
+[Title "2022.11.05 Sturt, Charles A - Hutchinson, Joel 0-1"]
+[ECO "B22"]
+[WhiteElo "1600"]
+[BlackElo "1857"]
+[PlyCount "112"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. Nxd4 d6 7. Qh5 g6 8. Bb5+ Bd7 9. Qe2 dxe5 10. Qxe5 Qf6 11. Qxf6 Nxf6 12. O-O Be7 13. Re1 O-O 14. Bh6 Rd8 15. h3 Bxb5 16. Nxb5 Nc6 17. a4 Rd3 18. Nd2 Rad8 19. Nc4 a6 20. Nba3 Bc5 21. Nc2 Bf8 22. Bxf8 Kxf8 23. Kf1 Ne8 24. Re3 Rxe3 25. N2xe3 Ke7 26. Ke2 Nc7 27. a5 e5 28. Rd1 Rxd1 29. Kxd1 f5 30. b4 Ke6 31. Kd2 h5 32. Nb6 f4 33. Nd1 e4 34. g3 g5 35. Ke2 Nd5 36. Nc4 Na7 37. Nd2 Ke5 38. Nc4+ Ke6 39. Nd2 Kf5 40. g4+ hxg4 41. hxg4+ Ke5 42. Nc4+ Ke6 43. Nd2 Nf6 44. f3 e3 45. Nb3 Nd7 46. Nd4+ Kd5 47. Nf5 Nb5 48. Kd3 Ne5+ 49. Ke2 Kc4 50. Nfxe3+ fxe3 51. Kxe3 Nxc3 52. Nxc3 Kxc3 53. Ke4 Nxf3 54. Kxf3 Kxb4 55. Ke4 Kxa5 56. Kf5 b5 0-1
+
+
+[Event "BCF-chT4 2223 (4NCL)"]
+[Site "England"]
+[Date "2022.11.06"]
+[Round "2.106"]
+[White "Fraser, Chris A"]
+[Black "Sturt, Charles A"]
+[Result "0-1"]
+[SourceFile "2022.11.06 Fraser, Chris A - Sturt, Charles A [local Mega].pgn"]
+[Title "2022.11.06 Fraser, Chris A - Sturt, Charles A 0-1"]
+[ECO "B28"]
+[WhiteElo "1551"]
+[BlackElo "1600"]
+[PlyCount "94"]
+
+1. e4 c5 2. Nc3 a6 3. Nf3 b5 4. d4 cxd4 5. Nxd4 e5 6. Nb3 Bb7 7. Nd5 d6 8. g3 Nf6 9. Bg2 Nxd5 10. exd5 Be7 11. Qg4 Bf6 12. O-O h5 13. Qb4 h4 14. Na5 Bc8 15. Be3 Qc7 16. Nc6 a5 17. Qe4 Nxc6 18. dxc6 Be6 19. Qd3 Bc4 20. Qd2 Bxf1 21. Rxf1 b4 22. Bg5 Ke7 23. Bxh4 Bxh4 24. gxh4 f6 25. Qd3 Rxh4 26. Qg6 Kf8 27. Bd5 Rh6 28. Qf5 Qc8 29. Qe6 Qxe6 30. Bxe6 Ke7 31. Bd7 Ra7 32. Rd1 Rxd7 33. cxd7 Kxd7 34. Rd5 Rg6+ 35. Kf1 a4 36. Ra5 b3 37. cxb3 axb3 38. axb3 Kc6 39. b4 d5 40. Rc5+ Kd6 41. Rc2 Rg4 42. b5 Rb4 43. Rc6+ Kd7 44. Rc5 d4 45. Rc2 Rxb5 46. Ke2 Rb3 47. f3 d3+ 0-1
+
+
+[Event "BCF-chT4 2223 (4NCL)"]
+[Site "England"]
+[Date "2023.01.07"]
+[Round "3.66"]
+[White "Sturt, Charles A"]
+[Black "Rao, Saachi"]
+[Result "1-0"]
+[SourceFile "2023.01.07 Sturt, Charles A - Rao, Saachi [local Mega].pgn"]
+[Title "2023.01.07 Sturt, Charles A - Rao, Saachi 1-0"]
+[ECO "B21"]
+[WhiteElo "1600"]
+[BlackElo "859"]
+[PlyCount "45"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 Bg4 7. Bxf7+ Kxf7 8. Ng5+ Ke8 9. Qxg4 Nf6 10. Qd1 h6 11. Ne6 Qd7 12. Nd5 Kf7 13. Ndf4 g5 14. Nxf8 Kxf8 15. Ng6+ Kg7 16. Nxh8 Kxh8 17. h4 Rg8 18. hxg5 Nxe4 19. Rxh6+ Kg7 20. Qh5 Kf8 21. Rh7 Qe8 22. Qh6+ Rg7 23. Qxg7# 1-0
+
+
+[Event "BCF-chT4 2223 (4NCL)"]
+[Site "England"]
+[Date "2023.01.08"]
+[Round "4.45"]
+[White "Sturt, Charles A"]
+[Black "Bentley, Alex"]
+[Result "1/2-1/2"]
+[SourceFile "2023.01.08 Sturt, Charles A - Bentley, Alex [local Mega].pgn"]
+[Title "2023.01.08 Sturt, Charles A - Bentley, Alex 1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "1600"]
+[BlackElo "1752"]
+[PlyCount "118"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 Nc6 5. c4 g6 6. Nf3 Bg7 7. Nc3 d6 8. O-O Nf6 9. h3 O-O 10. Be3 Nd7 11. Rc1 b6 12. Qe2 Bb7 13. Rfd1 Nc5 14. Bb1 Qd7 15. Ng5 h6 16. Nf3 Rad8 17. Nd4 Ne6 18. Nxc6 Bxc6 19. b4 Qb7 20. b5 Bd7 21. Nd5 Bc8 22. f4 Nc5 23. Bd4 Be6 24. Bxg7 Kxg7 25. f5 Bxd5 26. exd5 Rde8 27. Qg4 Qc8 28. Qg3 g5 29. h4 Rg8 30. f6+ exf6 31. Qxd6 Ne4 32. Bxe4 Rxe4 33. hxg5 hxg5 34. Rf1 Qc5+ 35. Qxc5 bxc5 36. g3 Re5 37. a4 f5 38. a5 Kf6 39. Rb1 Re4 40. Rfc1 Ke5 41. b6 axb6 42. axb6 Rb8 43. b7 Kd6 44. Rb6+ Kd7 45. Kf2 f4 46. g4 Ree8 47. Rcb1 Re4 48. Rc1 Ree8 49. Rc2 Rh8 50. Kg2 Rh4 51. Kf3 f5 52. gxf5 Rh3+ 53. Kg2 g4 54. Rcb2 Rbh8 55. b8=Q Rg3+ 56. Kf1 Rh1+ 57. Ke2 Rh2+ 58. Kf1 Rh1+ 59. Ke2 Rh2+ 1/2-1/2
+
+
+[Event "BCF-chT4 2223 (4NCL)"]
+[Site "England"]
+[Date "2023.02.04"]
+[Round "5.34"]
+[White "Sturt, Charles A"]
+[Black "MacLannan, Richard"]
+[Result "0-1"]
+[SourceFile "2023.02.04 Sturt, Charles A - MacLannan, Richard [local Mega].pgn"]
+[Title "2023.02.04 Sturt, Charles A - MacLannan, Richard 0-1"]
+[ECO "C48"]
+[WhiteElo "1600"]
+[BlackElo "1811"]
+[PlyCount "126"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxe5 Nxb5 6. Nxb5 c6 7. Nc3 d5 8. exd5 Nxd5 9. Nxd5 Qxd5 10. O-O Bd6 11. Re1 O-O 12. d4 c5 13. Nf3 Bg4 14. dxc5 Qxd1 15. Rxd1 Bxc5 16. Be3 Bxe3 17. fxe3 Rfe8 18. Kf2 Rac8 19. Rd2 f6 20. Nd4 Rc5 21. h3 Bh5 22. Nf3 Re7 23. Rad1 Kf7 24. c3 Rb5 25. c4 Rc5 26. Rd5 Bxf3 27. Kxf3 Rxc4 28. Rd7 Rc2 29. R1d2 Rxd2 30. Rxd2 Ke6 31. e4 Rc7 32. g4 Rc5 33. Kf4 Rc1 34. Rd8 Rc2 35. Re8+ Kf7 36. Rd8 Rxb2 37. Rd7+ Kf8 38. Kf5 Rb6 39. h4 Rb5+ 40. Kf4 h5 41. gxh5 Rxh5 42. Rxb7 Ra5 43. Rb2 Kf7 44. h5 Kg8 45. Rh2 Kh7 46. Ke3 Kh6 47. Kf4 Re5 48. Rh3 a5 49. Rb3 Kxh5 50. a4 g5+ 51. Kf3 g4+ 52. Kg3 Rxe4 53. Rb5+ Re5 54. Rb8 Kg5 55. Rg8+ Kf5 56. Rxg4 Re3+ 57. Kh4 Re4 58. Rxe4 Kxe4 59. Kg3 f5 60. Kf2 Kf4 61. Kf1 Ke3 62. Ke1 f4 63. Kf1 Kf3 0-1
+
+
+[Event "BCF-chT4 2223 (4NCL)"]
+[Site "England"]
+[Date "2023.02.05"]
+[Round "6.54"]
+[White "Chan, Michelle Ngo Yu"]
+[Black "Sturt, Charles A"]
+[Result "0-1"]
+[SourceFile "2023.02.05 Chan, Michelle Ngo Yu - Sturt, Charles A [local Mega].pgn"]
+[Title "2023.02.05 Chan, Michelle Ngo Yu - Sturt, Charles A 0-1"]
+[ECO "B28"]
+[WhiteElo "1586"]
+[BlackElo "1600"]
+[PlyCount "52"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Bb4 7. Bd2 d6 8. Bd3 Be6 9. O-O Nbd7 10. a3 Bxc3 11. Bxc3 Nc5 12. Ng5 O-O 13. Nxe6 fxe6 14. f3 Qb6 15. Kh1 Nxd3 16. Qxd3 Rad8 17. Rfd1 d5 18. exd5 Rxd5 19. Qe2 e4 20. fxe4 Rg5 21. Bb4 Ng4 22. h3 Nf2+ 23. Kh2 Nxd1 24. Bxf8 Ne3 25. Qf3 Rxg2+ 26. Kh1 Qc7 0-1
+
+
+[Event "BCF-chT4 2223 (4NCL)"]
+[Site "England"]
+[Date "2023.03.25"]
+[Round "7.42"]
+[White "Sturt, Charles A"]
+[Black "Fletcher, John T"]
+[Result "0-1"]
+[SourceFile "2023.03.25 Sturt, Charles A - Fletcher, John T [local Mega].pgn"]
+[Title "2023.03.25 Sturt, Charles A - Fletcher, John T 0-1"]
+[ECO "D35"]
+[WhiteElo "1600"]
+[BlackElo "2014"]
+[PlyCount "95"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 h6 7. Bf4 O-O 8. Qc2 c6 9. Rb1 Ne4 10. Bd3 f5 11. b4 a5 12. bxa5 Qxa5 13. Bxe4 fxe4 14. Ne2 Nd7 15. O-O b5 16. Nxe4 Qxa2 17. Rb2 Qa4 18. Qxc6 dxe4 19. Qe6+ Rf7 20. Qxe4 b4 21. Qg6 Nf8 22. Qg3 Ra6 23. d5 Rg6 24. Qf3 b3 25. Nc3 Qc4 26. e4 Bg4 27. Qe3 Bc5 28. Qd2 Ba3 29. Bg3 Bxb2 30. Qxb2 Rb6 31. f3 Bc8 32. Rc1 Ba6 33. d6 Rc6 34. e5 Ne6 35. Qd2 Qd3 36. Qb2 Nd4 37. Kh1 Nc2 38. e6 Qxc3 39. Qxc3 Rxc3 40. exf7+ Kxf7 41. h4 Ke6 42. Rb1 Bc4 43. Kh2 Rd3 44. Bf4 Kd7 45. Be5 g6 46. Bf4 h5 47. Kg3 Nd4 48. Rc1 0-1
+
+
+[Event "BCF-chT4 2223 (4NCL)"]
+[Site "England"]
+[Date "2023.03.26"]
+[Round "8.43"]
+[White "Sturt, Charles A"]
+[Black "Stayt, James N"]
+[Result "1/2-1/2"]
+[SourceFile "2023.03.26 Sturt, Charles A - Stayt, James N [local Mega].pgn"]
+[Title "2023.03.26 Sturt, Charles A - Stayt, James N 1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "1600"]
+[BlackElo "1901"]
+[PlyCount "53"]
+
+1. d4 Nf6 2. Nc3 d5 3. e4 Nxe4 4. Nxe4 dxe4 5. Bc4 g6 6. c3 Bg7 7. Qe2 Nd7 8. f3 exf3 9. Nxf3 Nf6 10. Ne5 O-O 11. O-O c6 12. g4 Nd5 13. h3 Be6 14. Bd3 Qb6 15. a3 Rad8 16. Rf2 Qc7 17. Bd2 Qc8 18. Re1 Nb6 19. b4 Nd7 20. Nf3 h6 21. Bxg6 Bxg4 22. Bxf7+ Rxf7 23. hxg4 Rdf8 24. Qe6 Nb6 25. Qxc8 Nxc8 26. Ref1 Nd6 27. Nh4 1/2-1/2
+
+
+[Event "Central London Chess Congress April 2023 - Major U2000"]
+[Site "London"]
+[Date "2023.04.21"]
+[Round "1"]
+[Board "2"]
+[White "Hall, Antony"]
+[Black "Sturt, Charles"]
+[Result "1-0"]
+[SourceFile "2023.04.21 Hall, Antony - Sturt, Charles [chess-results].pgn"]
+[Title "2023.04.21 Hall, Antony - Sturt, Charles 1-0"]
+[ECO ""]
+[WhiteElo "1817"]
+[BlackElo "1624"]
+[PlyCount "40"]
+[EventDate "2023.04.21"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O d6 6. Nxd4 Be7 7. Nc3 Bg4 8. f3
+Bh5 9. Be3 Ne5 10. Be2 Qd7 11. g4 Nfxg4 12. fxg4 Bxg4 13. Bxg4 Nxg4 14. Bf4 g5 15.
+Bd2 h5 16. Qf3 Nh6 17. Nd5 O-O-O 18. Nxe7+ Qxe7 19. Nf5 Qf6 20. Bc3 Qg6  1-0
+
+
+[Event "Central London Chess Congress April 2023 - Major U2000"]
+[Site "London"]
+[Date "2023.04.22"]
+[Round "3"]
+[Board "8"]
+[White "Srivastava, Siddhartha Shankar"]
+[Black "Sturt, Charles"]
+[Result "0-1"]
+[SourceFile "2023.04.22 Srivastava, Siddhartha Shankar - Sturt, Charles [chess-results].pgn"]
+[Title "2023.04.22 Srivastava, Siddhartha Shankar - Sturt, Charles 0-1"]
+[ECO "C62"]
+[WhiteElo "1270"]
+[BlackElo "1624"]
+[PlyCount "68"]
+[EventDate "2023.04.21"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. O-O exd4 6. Nxd4 Nf6 7. Bg5 Nxd4 8. Bxd7+
+Qxd7 9. Qxd4 Be7 10. Nc3 Qg4 11. Qa4+ c6 12. Bxf6 Bxf6 13. Nd5 Bd8 14. Ne3 Qf4 15.
+g3 Qf6 16. e5 Qxe5 17. Ng4 Qf5 18. Rfe1+ Kd7 19. Qb4 Kc7 20. Rad1 Qc5 21. Qf4 f5
+22. Ne3 g5 23. Qxf5 Qxf5 24. Nxf5 d5 25. Re6 Rf8 26. g4 h5 27. h3 hxg4 28. hxg4 a5
+29. Rde1 a4 30. Rg6 Bf6 31. b3 axb3 32. axb3 Kd7 33. Re6 Kxe6 34. Nd4+ Kd7  0-1
+
+
+[Event "Central London Chess Congress April 2023 - Major U2000"]
+[Site "London"]
+[Date "2023.04.22"]
+[Round "2"]
+[Board "12"]
+[White "Sturt, Charles"]
+[Black "Riggs, Samuel"]
+[Result "1-0"]
+[SourceFile "2023.04.22 Sturt, Charles - Riggs, Samuel [chess-results].pgn"]
+[Title "2023.04.22 Sturt, Charles - Riggs, Samuel 1-0"]
+[ECO "A48"]
+[WhiteElo "1624"]
+[BlackElo "1516"]
+[PlyCount "81"]
+[EventDate "2023.04.21"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. Nf3 g6 3. b4 Bg7 4. Bb2 O-O 5. e3 d6 6. Nbd2 Nbd7 7. Be2 c5 8. bxc5
+dxc5 9. c3 cxd4 10. cxd4 b6 11. O-O Bb7 12. a4 Re8 13. Nc4 Rc8 14. Nfd2 Qc7 15. Ba3
+Ne4 16. Nxe4 Bxe4 17. Qd2 Qb7 18. f3 Bd5 19. Rac1 Qb8 20. Nb2 e5 21. Bb5 Qb7 22.
+e4 Bc6 23. d5 Bxb5 24. axb5 a6 25. Nc4 Qb8 26. Nd6 Rxc1 27. Qxc1 Rd8 28. bxa6 Nc5
+29. Bxc5 bxc5 30. Nb7 Rc8 31. d6 Bf6 32. Qc4 Qa7 33. Rb1 Rc6 34. Ra1 Qa8 35. g3 Bd8
+36. Nxd8 Qxd8 37. a7 Qa8 38. Qd5 Kf8 39. Qxe5 Kg8 40. d7 Re6 41. Qb8+  1-0
+
+
+[Event "Central London Chess Congress April 2023 - Major U2000"]
+[Site "London"]
+[Date "2023.04.23"]
+[Round "5"]
+[Board "4"]
+[White "Llewellyn, Julian"]
+[Black "Sturt, Charles"]
+[Result "1-0"]
+[SourceFile "2023.04.23 Llewellyn, Julian - Sturt, Charles [chess-results].pgn"]
+[Title "2023.04.23 Llewellyn, Julian - Sturt, Charles 1-0"]
+[ECO "C45"]
+[WhiteElo "1597"]
+[BlackElo "1624"]
+[PlyCount "107"]
+[EventDate "2023.04.21"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Bb6 6. Nf5 Qf6 7. Bxb6 axb6 8.
+Nc3 Nge7 9. Ne3 O-O 10. Be2 d6 11. O-O Nd4 12. Ned5 Nxd5 13. Nxd5 Nxe2+ 14. Qxe2
+Qd8 15. a3 Re8 16. Qd3 Be6 17. Nc3 Bd7 18. f4 Bc6 19. Rae1 Qf6 20. Re3 Ra5 21. f5
+Rae5 22. Rfe1 Qe7 23. R3e2 Kf8 24. g3 d5 25. exd5 Qc5+ 26. Kf1 Rxe2 27. Rxe2 Rxe2
+28. Qxe2 Bxd5 29. Nxd5 Qxd5 30. Qd3 Qxd3+ 31. cxd3 Ke7 32. Kf2 Kf6 33. g4 Ke5 34.
+Ke3 Kd5 35. b3 Ke5 36. d4+ Kd5 37. Kd3 b5 38. Ke3 g6 39. fxg6 fxg6 40. h4 h5 41.
+gxh5 gxh5 42. Kd3 c6 43. Ke3 c5 44. dxc5 Kxc5 45. Ke4 b6 46. Ke5 Kc6 47. b4 Kc7 48.
+Kf6 Kd6 49. Kg5 Ke5 50. Kxh5 Kf6 51. Kh6 Kf5 52. Kg7 Kg4 53. Kf6 Kxh4 54. Ke6  1-0
+
+
+[Event "Central London Chess Congress April 2023 - Major U2000"]
+[Site "London"]
+[Date "2023.04.23"]
+[Round "4"]
+[Board "5"]
+[White "Sturt, Charles"]
+[Black "Bassa, Hugo"]
+[Result "1/2-1/2"]
+[SourceFile "2023.04.23 Sturt, Charles - Bassa, Hugo [chess-results].pgn"]
+[Title "2023.04.23 Sturt, Charles - Bassa, Hugo 1/2-1/2"]
+[ECO "D36"]
+[WhiteElo "1624"]
+[BlackElo "1683"]
+[PlyCount "200"]
+[EventDate "2023.04.21"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. cxd5 exd5 6. e3 c6 7. Bd3 O-O 8. Qc2 Nbd7
+9. Nf3 Re8 10. Rb1 h6 11. Bh4 Ne4 12. Bxe7 Qxe7 13. b4 Nb6 14. Bxe4 dxe4 15. Nd2
+Bf5 16. Ne2 Nd5 17. Qb2 b5 18. O-O h5 19. Rfc1 Rac8 20. Rc5 h4 21. Nc3 Red8 22. Nxd5
+Rxd5 23. Rbc1 Bd7 24. Rxd5 cxd5 25. Rc5 Rxc5 26. bxc5 h3 27. Qc1 Qg5 28. Qf1 Qg6
+29. Kh1 Qa6 30. Qb1 hxg2+ 31. Kg1 Bg4 32. Qb3 Qc6 33. Qa3 a6 34. Qa5 Qc8 35. Qb6
+Bh3 36. Nb1 Qg4 37. Nc3 Kh7 38. a3 f5 39. Qb8 a5 40. c6 b4 41. axb4 axb4 42. Qxb4
+f4 43. Qd6 fxe3 44. fxe3 Qf5 45. Qf4 Qxf4 46. exf4 e3 47. c7 Kg6 48. Ne2 Kf7 49.
+f5 Bxf5 50. Kxg2 Ke7 51. Ng3 Be6 52. Kf3 Kd7 53. Kxe3 Kxc7 54. Kf4 Kd7 55. h4 Ke7
+56. Ke5 Kf7 57. Nh5 Bg4 58. Nf4 Bf3 59. Nxd5 Kg6 60. Nf4+ Kh6 61. Kf5 Bc6 62. h5
+Bd7+ 63. Ke5 Kg5 64. d5 Bc8 65. Ne6+ Kxh5 66. Nxg7+ Kg6 67. Ne6 Kf7 68. Nf4 Ke7 69.
+Nd3 Kd7 70. Nb2 Ke7 71. Nc4 Bb7 72. d6+ Ke8 73. Nb6 Bc6 74. Kf6 Kf8 75. Nd5 Ke8 76.
+Nf4 Kd7 77. Ke5 Ba4 78. Kd5 Ke8 79. Kc5 Bd7 80. Nd5 Kf7 81. Nc7 Kf6 82. Kd4 Kf7 83.
+Na6 Bb5 84. Nb8 Ke6 85. Kc5 Be8 86. Nc6 Bd7 87. Nb8 Be8 88. Nc6 Bd7 89. Nd4+ Ke5
+90. Nb3 Ba4 91. Na5 Bd7 92. Nb7 Be8 93. Kb6 Kd5 94. Kc7 Bb5 95. Nd8 Be8 96. Nf7 Ke6
+97. Nh6 Bb5 98. Ng8 Kf7 99. Ne7 Be8 100. Nf5 Bb5  1/2-1/2
+
+
+[Event "BCF-chT4 2223 (4NCL)"]
+[Site "England"]
+[Date "2023.04.29"]
+[Round "9.76"]
+[White "Sturt, Charles A"]
+[Black "Saharkar, Sharvari"]
+[Result "1-0"]
+[SourceFile "2023.04.29 Sturt, Charles A - Saharkar, Sharvari [local Mega].pgn"]
+[Title "2023.04.29 Sturt, Charles A - Saharkar, Sharvari 1-0"]
+[ECO "B40"]
+[WhiteElo "1600"]
+[BlackElo "1391"]
+[PlyCount "83"]
+
+1. d4 c5 2. e4 e6 3. Nf3 g6 4. Nc3 Bg7 5. Be3 Nc6 6. Qd2 Nge7 7. dxc5 b6 8. cxb6 axb6 9. Be2 Bb7 10. O-O O-O 11. Bh6 f5 12. Bxg7 Kxg7 13. exf5 Nxf5 14. Nb5 Qe7 15. Rfd1 d5 16. Nbd4 Ncxd4 17. Nxd4 e5 18. Nxf5+ Rxf5 19. Bf3 Rd8 20. a4 Qh4 21. a5 e4 22. Qd4+ Kf8 23. g3 Qe7 24. Bxe4 Rf6 25. Bg2 Rc8 26. Re1 Qf7 27. a6 Ba8 28. Qd2 Rd8 29. Re2 Bc6 30. Rae1 Bb5 31. Qb4+ Kg8 32. Qxb5 Kf8 33. Qb4+ Kg8 34. Qa4 Kf8 35. c3 Rc8 36. Qa3+ Kg8 37. Qe7 Rc7 38. Qxf7+ Kxf7 39. Bxd5+ Kf8 40. Re8+ Kg7 41. R1e7+ Kh6 42. Rxc7 1-0
+
+
+[Event "BCF-chT4 2223 (4NCL)"]
+[Site "England"]
+[Date "2023.04.30"]
+[Round "10.56"]
+[White "Butcher, Nathaniel"]
+[Black "Sturt, Charles A"]
+[Result "0-1"]
+[SourceFile "2023.04.30 Butcher, Nathaniel - Sturt, Charles A [local Mega].pgn"]
+[Title "2023.04.30 Butcher, Nathaniel - Sturt, Charles A 0-1"]
+[ECO "B14"]
+[WhiteElo "1450"]
+[BlackElo "1600"]
+[PlyCount "124"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. Nf3 Nc6 7. Bg5 Be7 8. Qb3 O-O 9. Qc2 dxc4 10. Rd1 Nb4 11. Qb1 Nd3+ 12. Bxd3 cxd3 13. Qxd3 Nd5 14. Bxe7 Qxe7 15. Nxd5 exd5+ 16. Qe3 Re8 17. Qxe7 Rxe7+ 18. Kd2 Bg4 19. Rde1 Rxe1 20. Rxe1 Bxf3 21. gxf3 Kf8 22. Rc1 Ke8 23. Rc7 Rb8 24. Rc5 Rd8 25. Rc7 Rd7 26. Rxd7 Kxd7 27. Ke3 Ke6 28. Kf4 Kf6 29. Kg4 h5+ 30. Kf4 g5+ 31. Kg3 Kf5 32. h3 h4+ 33. Kg2 Kf4 34. a3 b5 35. b3 a5 36. b4 axb4 37. axb4 f6 38. Kf1 Kxf3 39. Ke1 Ke4 40. Ke2 Kxd4 41. Kf3 Kc3 42. Kg4 d4 43. f4 d3 44. fxg5 fxg5 45. Kxg5 d2 46. Kxh4 d1=Q 47. Kg5 Kxb4 48. h4 Kc4 49. h5 Qxh5+ 50. Kxh5 b4 51. Kg5 b3 52. Kf5 b2 53. Ke5 b1=Q 54. Kd6 Qb5 55. Ke6 Qc5 56. Kf7 Qd6 57. Kg8 Qe6+ 58. Kh8 Qe7 59. Kg8 Kd4 60. Kh8 Ke5 61. Kg8 Kf6 62. Kh8 Qg7# 0-1
+
+
+[Event "BCF-chT4 2223 (4NCL)"]
+[Site "England"]
+[Date "2023.05.01"]
+[Round "11.46"]
+[White "Sturt, Charles A"]
+[Black "Portman, Carl S"]
+[Result "1/2-1/2"]
+[SourceFile "2023.05.01 Sturt, Charles A - Portman, Carl S [local Mega].pgn"]
+[Title "2023.05.01 Sturt, Charles A - Portman, Carl S 1/2-1/2"]
+[ECO "D52"]
+[WhiteElo "1600"]
+[BlackElo "1930"]
+[PlyCount "54"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c6 4. Nf3 Nf6 5. Bg5 Nbd7 6. e3 Bb4 7. a3 Bxc3+ 8. bxc3 Qa5 9. Qb3 Ne4 10. Qb4 Qxb4 11. cxb4 Nxg5 12. Nxg5 h6 13. Nf3 a6 14. c5 g5 15. g4 f6 16. h4 gxh4 17. Rxh4 e5 18. dxe5 Nxe5 19. Nxe5 fxe5 20. g5 Kf7 21. gxh6 Kg6 22. Bh3 Rxh6 23. Rxh6+ Kxh6 24. Bxc8 Rxc8 25. Ke2 Kg6 26. Rg1+ Kf6 27. Rh1 Kg6 1/2-1/2
+
+
+[Event "BCF-chT4S 2324 (4NCL)"]
+[Site "England"]
+[Date "2023.11.18"]
+[Round "1.32"]
+[White "Sturt, Charles A"]
+[Black "Walentowicz, Stefan"]
+[Result "1/2-1/2"]
+[SourceFile "2023.11.18 Sturt, Charles A - Walentowicz, Stefan [local Mega].pgn"]
+[Title "2023.11.18 Sturt, Charles A - Walentowicz, Stefan 1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "1627"]
+[BlackElo "1873"]
+[PlyCount "93"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 c5 4. b3 e6 5. Nbd2 Nc6 6. Bb2 Be7 7. Bd3 cxd4 8. exd4 O-O 9. O-O Qc7 10. c4 b6 11. Rc1 Qb7 12. Ne5 Bd7 13. f4 Rac8 14. Rf3 Nb4 15. Bb1 Bc6 16. a3 dxc4 17. axb4 Bxf3 18. Qxf3 Qxf3 19. Nexf3 cxb3 20. b5 Nd5 21. g3 Rxc1+ 22. Bxc1 Nc3 23. Bd3 Rc8 24. Nxb3 Kf8 25. Ne5 Nd5 26. Bd2 Bb4 27. Nc6 Bxd2 28. Nxd2 Rc7 29. Ne4 Ne7 30. Nb4 Rd7 31. Nc6 Nf5 32. Kf2 Nxd4 33. Ne5 Rc7 34. Nd2 h6 35. Bc4 Ke7 36. Nef3 Nxf3 37. Kxf3 f5 38. h4 Kf6 39. Ke3 Ke7 40. Kd3 Kd6 41. Nf3 Re7 42. Kd4 Rc7 43. h5 Re7 44. Ne5 Rc7 45. Nc6 Rd7 46. Ne5 Rc7 47. Nf3 1/2-1/2
+
+
+[Event "BCF-chT4S 2324 (4NCL)"]
+[Site "England"]
+[Date "2023.11.19"]
+[Round "2.33"]
+[White "Sefton, Adam"]
+[Black "Sturt, Charles A"]
+[Result "1-0"]
+[SourceFile "2023.11.19 Sefton, Adam - Sturt, Charles A [local Mega].pgn"]
+[Title "2023.11.19 Sefton, Adam - Sturt, Charles A 1-0"]
+[ECO "E90"]
+[WhiteElo "1802"]
+[BlackElo "1627"]
+[PlyCount "139"]
+
+1. Nf3 d6 2. d4 g6 3. c4 Nf6 4. Nc3 Bg7 5. e4 O-O 6. h3 c6 7. Be3 Qa5 8. Qd2 a6 9. Rb1 e5 10. Bd3 exd4 11. Nxd4 c5 12. Nde2 Nc6 13. a3 Ne5 14. Nf4 Be6 15. Qe2 Nc6 16. O-O Rfe8 17. Rfd1 Rad8 18. Qf1 h6 19. Nfd5 Bxd5 20. exd5 Ne7 21. Bc2 Nc8 22. Bf4 Nd7 23. b4 Qxa3 24. Rb3 Qxb3 25. Bxb3 Bxc3 26. bxc5 Nxc5 27. Bxh6 Kh7 28. Bg5 Rd7 29. Bc2 f6 30. Be3 Rde7 31. Kh2 b6 32. Bxc5 bxc5 33. Bxg6+ Kxg6 34. Qd3+ Kg7 35. Qxc3 Re4 36. Ra1 Nb6 37. Qg3+ Kf7 38. Qxd6 Nxc4 39. Qxc5 Nd2 40. Qa7+ R8e7 41. Qxa6 Rd4 42. Qc6 Rc4 43. Qb5 Rd4 44. Rc1 Kg6 45. Rc3 Re1 46. Rg3+ Kh6 47. f3 Nf1+ 48. Kg1 Nxg3+ 49. Kf2 Red1 50. Kxg3 Rxd5 51. Qc6 Rd6 52. Qe8 R1d5 53. h4 Rd8 54. Qe3+ Kg6 55. Kh3 Re5 56. Qb3 Red5 57. g4 Rd3 58. Qb1 Kg7 59. Kg3 Rd1 60. Qe4 R1d4 61. Qe7+ Kg8 62. Qxf6 R8d6 63. Qg5+ Kf7 64. h5 R4d5 65. Qf4+ Kg7 66. g5 Rd1 67. Qe5+ Kg8 68. Qe8+ Kh7 69. Qf7+ Kh8 70. Qf8+ 1-0
+
+
+[Event "BCF-chT4S 2324 (4NCL)"]
+[Site "England"]
+[Date "2024.01.06"]
+[Round "3.127"]
+[White "Doherty, Paul D"]
+[Black "Sturt, Charles A"]
+[Result "1-0"]
+[SourceFile "2024.01.06 Doherty, Paul D - Sturt, Charles A [local Mega].pgn"]
+[Title "2024.01.06 Doherty, Paul D - Sturt, Charles A 1-0"]
+[ECO "B07"]
+[WhiteElo "1793"]
+[BlackElo "1618"]
+[PlyCount "209"]
+
+1. e4 d6 2. Nc3 c6 3. f4 Nd7 4. Nf3 e5 5. Bc4 Nb6 6. Bb3 Bg4 7. fxe5 Qc7 8. O-O dxe5 9. Qe1 Bxf3 10. Rxf3 Bc5+ 11. Kh1 Nf6 12. d3 O-O-O 13. Bg5 Qe7 14. Qh4 Nbd7 15. Ne2 h6 16. Bd2 g5 17. Qg3 Rh7 18. a4 Qd6 19. Bc4 Nxe4 20. Qe1 Nxd2 21. Qxd2 e4 22. Rxf7 Rxf7 23. Bxf7 Ne5 24. Ba2 exd3 25. Ng3 Ng4 26. Rf1 Be3 27. Qa5 c5 28. cxd3 Nf2+ 29. Kg1 Ng4+ 30. Kh1 Kb8 31. h3 b6 32. Qe1 Nf2+ 33. Kh2 Qd4 34. Nf5 Qf4+ 35. Ng3 Nxd3 36. Rxf4 Nxe1 37. Re4 Bd2 38. Re2 Bb4 39. Nf5 h5 40. Ne7 Kc7 41. Nd5+ Rxd5 42. Bxd5 Nd3 43. Bf7 h4 44. b3 a5 45. Re6 c4 46. bxc4 Bd6+ 47. Kg1 Nc5 48. Rg6 Nxa4 49. Rxg5 Bg3 50. Kf1 Nc5 51. Bg6 Ne6 52. Rf5 Nc5 53. Ke2 Ne6 54. Kd1 Nf4 55. Rf7+ Kd6 56. Be4 Kc5 57. Rf6 Kxc4 58. Rxb6 Kd4 59. Bf3 Ke3 60. Rb2 Nd3 61. Re2+ Kd4 62. Kc2 Ne5 63. Kb3 Nd3 64. Ka4 Be1 65. Re4+ Kc5 66. Re8 Bb4 67. Be2 Nf4 68. Bf3 Kb6 69. Re4 Nd3 70. Re6+ Kc5 71. Bb7 Nf4 72. Rc6+ Kd4 73. Kb5 Ke5 74. Rh6 Be1 75. Rh8 Ne6 76. Re8 Kd6 77. Rg8 Nf4 78. Rg4 Bg3 79. Kxa5 Ke5 80. Rg8 Kd4 81. Re8 Nd3 82. Kb6 Ne5 83. Re7 Ke3 84. Kc5 Kf2 85. Kd4 Ng6 86. Rf7+ Nf4 87. Ke5 Ke3 88. Kf5 Kf2 89. Kg4 Ke3 90. Rf5 Ne2 91. Rf3+ Kd2 92. Rxg3 hxg3 93. Bf3 Nd4 94. Kxg3 Ke3 95. h4 Ne6 96. h5 Kd4 97. Kg4 Ke5 98. h6 Kf6 99. Be4 Ng5 100. Bb1 Nf7 101. Kh5 Nh8 102. g4 Nf7 103. Bg6 Nh8 104. g5+ Ke7 105. h7 1-0
+
+
+[Event "BCF-chT4S 2324 (4NCL)"]
+[Site "England"]
+[Date "2024.01.07"]
+[Round "4.121"]
+[White "Sturt, Charles A"]
+[Black "Mouskos, Mia"]
+[Result "1-0"]
+[SourceFile "2024.01.07 Sturt, Charles A - Mouskos, Mia [local Mega].pgn"]
+[Title "2024.01.07 Sturt, Charles A - Mouskos, Mia 1-0"]
+[ECO "D05"]
+[WhiteElo "1618"]
+[BlackElo "1486"]
+[PlyCount "57"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Bd3 c5 5. b3 Nc6 6. Bb2 Be7 7. Nbd2 O-O 8. c4 cxd4 9. exd4 a6 10. Rc1 Nb4 11. Bb1 Re8 12. a3 Nc6 13. O-O Bf8 14. Qc2 g6 15. Ne5 Nxe5 16. dxe5 Nh5 17. Rfd1 Nf4 18. Nf3 Bh6 19. Rd4 Nxg2 20. Kxg2 Bxc1 21. Qxc1 Kg7 22. Rh4 h5 23. Qf4 Qb6 24. Qf6+ Kg8 25. Rf4 Qd8 26. cxd5 Qd7 27. Ng5 Rf8 28. Bxg6 Qxd5+ 29. Be4 1-0
+
+
+[Event "BCF-chT4S 2324 (4NCL)"]
+[Site "England"]
+[Date "2024.02.10"]
+[Round "5.34"]
+[White "Echavarria Hidalgo, Fernando"]
+[Black "Sturt, Charles A"]
+[Result "1/2-1/2"]
+[SourceFile "2024.02.10 Echavarria Hidalgo, Fernando - Sturt, Charles A [local Mega].pgn"]
+[Title "2024.02.10 Echavarria Hidalgo, Fernando - Sturt, Charles A 1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "1775"]
+[BlackElo "1617"]
+[PlyCount "105"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Bd7 7. O-O Rc8 8. a3 c4 9. Kh1 Nge7 10. Nh4 g5 11. Nf3 h6 12. Qc2 Ng6 13. g3 Na5 14. Be3 Nb3 15. Ra2 Ba4 16. Nbd2 Qc6 17. Qb1 Be7 18. Nxb3 Bxb3 19. Ra1 Qa4 20. Bd1 Bxd1 21. Qxd1 Qxd1 22. Raxd1 g4 23. Ng1 h5 24. f4 h4 25. Kg2 h3+ 26. Kh1 Rh5 27. Ne2 Kd7 28. Nc1 b5 29. Na2 a5 30. Rb1 a4 31. Nb4 Bxb4 32. axb4 Ne7 33. Bd2 Nf5 34. Kg1 Rc6 35. Kf2 Rh8 36. Ra1 Ke7 37. Rfe1 Ra8 38. Reb1 Rca6 39. Kg1 Kf8 40. Ra3 Kg7 41. Kf2 Kg6 42. Kg1 Ne7 43. Re1 Kf5 44. Kf2 Rh8 45. Raa1 Rg8 46. Ra3 Ng6 47. Kg1 Ne7 48. Kf2 Rh8 49. Kg1 Kg6 50. Raa1 Rh5 51. Ra3 Rf5 52. Raa1 Ng8 53. Ra3 1/2-1/2
+
+
+[Event "BCF-chT4S 2324 (4NCL)"]
+[Site "England"]
+[Date "2024.02.11"]
+[Round "6.24"]
+[White "Sturt, Charles A"]
+[Black "Zeidler, Sven P"]
+[Result "0-1"]
+[SourceFile "2024.02.11 Sturt, Charles A - Zeidler, Sven P [local Mega].pgn"]
+[Title "2024.02.11 Sturt, Charles A - Zeidler, Sven P 0-1"]
+[ECO "A83"]
+[WhiteElo "1617"]
+[BlackElo "2202"]
+[PlyCount "84"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 c6 5. d5 Qa5 6. Bxf6 exf6 7. Bc4 Bb4 8. Ne2 Qc5 9. Bb3 Na6 10. O-O f5 11. a3 Ba5 12. d6 Rf8 13. Ba2 Qe5 14. b4 Bb6 15. Na4 Rf6 16. Nxb6 axb6 17. c3 Rxd6 18. Qb3 Kd8 19. Nd4 Rh6 20. Qg8+ Kc7 21. f4 Qf6 22. h3 Rb8 23. Qb3 d5 24. Rae1 Be6 25. a4 Rg8 26. Qc2 Bd7 27. Qf2 g5 28. Re3 g4 29. Rg3 Rgg6 30. Qe3 gxh3 31. Rxh3 Qg7 32. Rf2 Rxh3 33. Qxh3 Rg3 34. Nxf5 Bxf5 35. Qxf5 Rxc3 36. Qe5+ Qxe5 37. fxe5 Nxb4 38. Rf7+ Kd8 39. Rxb7 Nxa2 40. Rxb6 e3 41. Rb2 Rc1+ 42. Kh2 Nc3 0-1
+
+
+[Event "2026 Isle of Wight Chess Tournament"]
+[Site "Isle of Wight"]
+[Date "2026.02.21"]
+[Round "2"]
+[Board "6"]
+[White "Sturt, Charles A"]
+[Black "Collins, Nigel"]
+[Result "1-0"]
+[SourceFile "2026.02.21 Sturt, Charles A - Collins, Nigel [chess-results].pgn"]
+[Title "2026.02.21 Sturt, Charles A - Collins, Nigel 1-0"]
+[ECO ""]
+[WhiteElo "1770"]
+[BlackElo "1536"]
+[PlyCount "0"]
+[EventDate "2026.02.20"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. Nf3 g6 3. b4 Bg7 4. Bb2 O-O 5. Nbd2 d5 6. e3 Nbd7 7. c4 c6 8. Be2 Re8
+9. O-O b6 10. Qb3 Bb7 11. Rfc1 Rc8 12. c5 b5 13. a4 a6 14. axb5 axb5 15. Ra7 Qc7
+16. Rca1 Ra8 17. h3 Rxa7 18. Rxa7 Ra8 19. Rxa8+ Bxa8 20. Qa3 Qb8 21. Bd3 Bb7 22.
+Qa1 Qa8 23. Qxa8+ Bxa8 24. g4 Ne8 25. g5 h6 26. h4 Nc7 27. Ne5 Bxe5 28. dxe5 hxg5
+29. hxg5 Ne6 30. f4 Kg7 31. Nf3 f6 32. exf6+ exf6 33. gxf6+ Nxf6 34. Ne5 g5 35. Nd7
+d4 36. Nxf6 Kxf6 37. f5 Nc7 38. Bxd4+ Kf7 39. e4 Bb7 40. Kg2 Bc8 41. Kg3 Ne8 42.
+Kg4 Ng7 43. Bxg7 Kxg7 44. Kxg5 Bd7 45. e5 Kf8 46. e6 Be8 47. f6 Bg6 48. Bxg6  1-0

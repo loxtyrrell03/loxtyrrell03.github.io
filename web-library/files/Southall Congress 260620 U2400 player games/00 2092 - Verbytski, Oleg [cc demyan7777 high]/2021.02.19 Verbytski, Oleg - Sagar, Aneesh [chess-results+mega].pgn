@@ -1,0 +1,28 @@
+[Event "5th 4NCL Online Congress"]
+[Site "Online - https://lichess.org/"]
+[Date "2021.02.19"]
+[Round "1"]
+[White "Verbytski, Oleg"]
+[Black "Sagar, Aneesh"]
+[Result "1-0"]
+[Board "23"]
+[ECO "A00"]
+[WhiteElo "1352"]
+[BlackElo "1516"]
+[PlyCount "139"]
+[EventDate "2021.02.19"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+[WhiteFideId "495506"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O Re8 9. Bg5 d6 10. Qd2 Be6 11. a3 Ba5 12. b4 Bb6 13. Rad1 Qe7 14. Kh1
+Rad8 15. f4 h6 16. Bh4 Bg4 17. h3 Bxd1 18. Rxd1 Qe6 19. Re1 Rd7 20. e5 Nd5 21.
+exd6 Be3 22. f5 Qe5 23. Nxd5 cxd5 24. Qe2 d4 25. Qg4 Rxd6 26. Bg3 Qf6 27. Bxd6
+Qxd6 28. Qf3 Rd8 29. Qe4 Qd5 30. Qxd5 Rxd5 31. g4 Kf8 32. Kg2 c5 33. Kf3 cxb4
+34. axb4 Bd2 35. Ra1 Rd7 36. b5 Bc3 37. Ra6 Ke7 38. Be4 Bd2 39. Ke2 Be3 40. Kd3
+Rc7 41. Ke2 Kd8 42. Kf3 Ke7 43. h4 Rd7 44. Bc6 Rc7 45. c3 Bg1 46. c4 Kd6 47.
+Ke4 Kc5 48. Kd3 Bf2 49. h5 Re7 50. Be4 Rc7 51. f6 gxf6 52. Rxf6 Be3 53. Bd5 Bg5
+54. Rxf7 Rxf7 55. Bxf7 Be3 56. Kc2 Kb6 57. Bg6 Kc5 58. Bd3 Kb6 59. Kb3 Bf4 60.
+Kb4 Bd2+ 61. Kb3 Bc3 62. g5 Bd2 63. g6 a5 64. g7 a4+ 65. Kxa4 Bb4 66. Kxb4 Kb7
+67. g8=Q Ka7 68. Qf7+ Kb8 69. b6 Kc8 70. Qc7# 1-0

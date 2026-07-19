@@ -1,0 +1,57 @@
+[Event "ECF Coventry International 2025"]
+[Site "https://lichess.org/broadcast/ecf-coventry-international-2025--open/round-2/I2TPOj0F/eFY65gbw"]
+[Date "2025.10.26"]
+[Round "2.22"]
+[White "Manickam, Saravanna Bava"]
+[Black "Verbytski, Oleg"]
+[Result "0-1"]
+[WhiteElo "1808"]
+[WhiteFideId "461636"]
+[BlackElo "2092"]
+[BlackFideId "495506"]
+[TimeControl "G90' + 30 per move"]
+[Variant "Standard"]
+[ECO "D59"]
+[Opening "Queen's Gambit Declined: Tartakower Defense, Makogonov Exchange Variation"]
+[UTCDate "2025.10.26"]
+[UTCTime "15:10:20"]
+[BroadcastName "ECF Coventry International 2025 | Open"]
+[BroadcastURL "https://lichess.org/broadcast/ecf-coventry-international-2025--open/round-2/I2TPOj0F"]
+[GameURL "https://lichess.org/broadcast/ecf-coventry-international-2025--open/round-2/I2TPOj0F/eFY65gbw"]
+
+1. d4 { [%eval 0.17] [%clk 1:30:53] } 1... d5 { [%eval 0.18] [%clk 1:30:43] }
+2. c4 { [%eval 0.18] [%clk 1:31:17] } 2... e6 { [%eval 0.17] [%clk 1:30:48] }
+3. Nf3 { [%eval 0.11] [%clk 1:31:29] } 3... Nf6 { [%eval 0.17] [%clk 1:31:02] }
+4. Bg5 { [%eval -0.11] [%clk 1:31:28] } 4... Be7
+{ [%eval 0.17] [%clk 1:31:20] } 5. e3 { [%eval 0.07] [%clk 1:31:23] } 5... h6
+{ [%eval 0.17] [%clk 1:31:42] } 6. Bh4 { [%eval 0.08] [%clk 1:31:08] } 6... O-O
+{ [%eval 0.07] [%clk 1:31:55] } 7. Nc3 { [%eval 0.09] [%clk 1:31:17] } 7... b6
+{ [%eval 0.05] [%clk 1:31:12] } 8. cxd5 { [%eval 0.07] [%clk 1:31:24] } 8...
+Nxd5 { [%eval 0.02] [%clk 1:30:10] } 9. Bxe7 { [%eval 0.04] [%clk 1:30:27] }
+9... Qxe7 { [%eval 0.1] [%clk 1:30:32] } 10. Nxd5
+{ [%eval 0.13] [%clk 1:27:43] } 10... exd5 { [%eval 0.14] [%clk 1:30:53] } 11.
+Be2 { [%eval 0.06] [%clk 1:28:06] } 11... Be6 { [%eval 0.0] [%clk 1:31:01] }
+12. Rc1 { [%eval 0.0] [%clk 1:25:46] } 12... c5 { [%eval 0.0] [%clk 1:31:06] }
+13. b3 { [%eval 0.0] [%clk 1:16:40] } 13... Nd7 { [%eval 0.0] [%clk 1:31:22] }
+14. O-O { [%eval 0.0] [%clk 1:16:40] } 14... a5 { [%eval 0.0] [%clk 1:27:40] }
+15. Bb5 { [%eval 0.0] [%clk 1:13:10] } 15... Nf6 { [%eval 0.0] [%clk 1:25:07] }
+16. Ne5 { [%eval 0.0] [%clk 1:09:33] } 16... Rfc8
+{ [%eval 0.0] [%clk 1:20:24] } 17. f4 { [%eval -0.12] [%clk 0:48:37] } 17... g6
+{ [%eval 0.0] [%clk 1:15:16] } 18. g4 { [%eval 0.0] [%clk 0:36:39] } 18... Bd7
+{ [%eval 0.0] [%clk 1:00:42] } 19. Bxd7 { [%eval 0.0] [%clk 0:26:48] } 19...
+Nxd7 { [%eval 0.0] [%clk 1:01:02] } 20. Nxd7 $6
+{ [%eval -0.64] Inaccuracy. Qf3 was best. [%clk 0:21:05] } 20... Qxd7
+{ [%eval -0.87] [%clk 1:01:30] } 21. Qf3 { [%eval -1.1] [%clk 0:20:42] } 21...
+cxd4 { [%eval -1.24] [%clk 0:53:05] } 22. exd4 $6
+{ [%eval -2.39] Inaccuracy. Rcd1 was best. [%clk 0:19:36] } 22... Rxc1
+{ [%eval -2.52] [%clk 0:53:25] } 23. Rxc1 { [%eval -2.17] [%clk 0:19:35] }
+23... Re8 { [%eval -2.47] [%clk 0:53:45] } 24. f5
+{ [%eval -2.31] [%clk 0:12:03] } 24... Re4 { [%eval -2.13] [%clk 0:50:48] } 25.
+Rd1 $6 { [%eval -2.81] Inaccuracy. fxg6 was best. [%clk 0:11:33] } 25... Qd6
+{ [%eval -2.42] [%clk 0:50:12] } 26. h3 { [%eval -2.45] [%clk 0:06:01] } 26...
+Rf4 { [%eval -1.98] [%clk 0:48:27] } 27. Qe3 { [%eval -1.85] [%clk 0:06:04] }
+27... gxf5 $2 { [%eval -0.29] Mistake. Re4 was best. [%clk 0:42:56] } 28. gxf5
+$4 { [%eval -2.66] Blunder. Qe5 was best. [%clk 0:03:16] } 28... Rxf5
+{ [%eval -2.53] [%clk 0:43:20] } 29. Rf1 $4
+{ [%eval -9.73] Blunder. Kh1 was best. [%clk 0:03:38] } 29... Qg6+
+{ [%eval -9.41] [%clk 0:43:40] } 0-1

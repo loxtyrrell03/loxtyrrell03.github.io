@@ -1,0 +1,13 @@
+[Event "Paris GCT rapid"]
+[Site "Paris"]
+[Date "2016.06.09"]
+[Round "2"]
+[White "Vachier Lagrave, Maxime"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteElo "2789"]
+[BlackElo "2855"]
+[ECO "C84"]
+[PlyCount "52"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 {The classical Arkhangelsk has gone a little bit out of tfashion, but still Carlsen sometimes plays it.} (6... Bc5 {is more popular nowadays.}) 7. Nc3 Be7 8. d3 O-O 9. a3 Nd4 ({A few days before Vachier had a game with} 9... d6 10. Re1 Qd7 11. Ne2 Nd8 12. Ng3 Ne6 13. c3 c5 14. d4 c4 15. Bc2 Qc7 16. Nf5 Rfe8 17. Nxe7+ Qxe7 18. Nh4 g6 19. d5 Nf4 20. g3 Nh3+ 21. Kg2 Bc8 22. a4 Bd7 23. f3 Nh5 24. Be3 N3f4+ 25. Kh1 $14 {Vachier Lagrave-Stevic, Drancy 2016, and White had a comfortable position which he later managed to win.}) 10. Nxd4 ({In the same tournament Caruana played} 10. Ba2 {against Carlsen,} Nxf3+ 11. Qxf3 d6 12. Bg5 Qd7 {and White should have played the natural} 13. Rfe1 {with a balanced middlegame.} (13. Ne2? {was a mistake by} Nxe4! 14. Bxe7 Nc5! 15. Bd5 Bxd5 16. Qxd5 Qxe7 $17 {Caruana-Carlsen, Paris rapid 2016, and Black is a  up without any compensation for White.})) ({If White captures the  with} 10. Nxe5 Nxb3 11. cxb3 d5 $132 {with great counterplay for the .}) 10... exd4 11. Nd5 Nxd5 12. exd5 $146 {A novelty by Vachier Lagrave.} (12. Bxd5 Bxd5 13. exd5 f5 (13... c6!?) 14. Bf4 g5 15. Be5 Bc5 16. b4 d6 17. Bg3 Bb6 18. f4 g4 $11 {T.Gara-Zhukova, Kragujevac 2015, with a nearly equal position.}) 12... c5 13. dxc6 ({The developing} 13. Bf4 {was the alternative move.}) 13... dxc6 14. Re1 c5 15. a4?! {A typical move, but at this moment it is an inaccuracy.} ({The natural} 15. Bf4 {was important and the position is balanced.}) 15... Bd6! $15 {After this move Black controls the important b8-h2 diagonal and he has a space advantage on the queenside.} 16. Qh5 Qc7 17. c3?! {A dubious move, which allows Black's  advance on the queenside.} ({White should have played} 17. Bd5 Bxd5 18. Qxd5 Rad8 $15 {and Black is slightly better.}) 17... c4! {Black's  structure is very flexible on the queenside, so now he is ready to push them.} 18. Bc2 g6 {An important intermediate move, which avoids White's threats on h7.} 19. Qh3 dxc3 20. axb5?! {Another inaccuracy, but White's position was already difficult.} ({In the event of} 20. bxc3 cxd3 21. Bxd3 Qxc3 $17 {and Black has a healthy  up.}) 20... Rfe8! $19 {A great intermediate move, which is based on White's weak back rank. White is helpless.} 21. Re3 cxb2 22. Bxb2 c3 23. Bc1 axb5 24. Rxa8 Rxa8 25. Bb3 Bf4 26. Re1 Ra1 {Very nice game by Carlsen!} 0-1

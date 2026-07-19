@@ -1,0 +1,50 @@
+[Event "Round 5: Belin, Anton - Verbytski, Oleg"]
+[Site "https://lichess.org/broadcast/12th-chessmates-international-tournament/round-5/HiFCPwcI/OQtTKd7d"]
+[Date "2025.03.23"]
+[Round "5.9"]
+[White "Belin, Anton"]
+[Black "Verbytski, Oleg"]
+[Result "1/2-1/2"]
+[WhiteElo "2035"]
+[WhiteTeam "LSJ Sachsen-Anhalt"]
+[WhiteFideId "34610952"]
+[BlackElo "2111"]
+[BlackTeam "England"]
+[BlackFideId "495506"]
+[Variant "Standard"]
+[ECO "B53"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+[BroadcastName "12th ChessMates International Tournament"]
+[BroadcastURL "https://lichess.org/broadcast/12th-chessmates-international-tournament/round-5/HiFCPwcI"]
+[GameURL "https://lichess.org/broadcast/12th-chessmates-international-tournament/round-5/HiFCPwcI/OQtTKd7d"]
+
+1. e4 { [%eval 0.18] [%clk 1:50:16] } 1... c5 { [%eval 0.25] [%clk 1:50:11] }
+2. Nf3 { [%eval 0.2] [%clk 1:50:13] } 2... d6 { [%eval 0.22] [%clk 1:50:17] }
+3. d4 { [%eval 0.22] [%clk 1:49:44] } 3... cxd4 { [%eval 0.19] [%clk 1:50:25] }
+4. Qxd4 { [%eval 0.07] [%clk 1:49:40] } 4... Nf6
+{ [%eval 0.04] [%clk 1:50:32] } 5. Bb5+ { [%eval 0.0] [%clk 1:48:00] } 5... Bd7
+{ [%eval 0.0] [%clk 1:50:38] } 6. Bxd7+ { [%eval 0.0] [%clk 1:47:22] } 6...
+Nbxd7 { [%eval 0.03] [%clk 1:50:44] } 7. c4 { [%eval -0.07] [%clk 1:42:49] }
+7... g6 { [%eval 0.0] [%clk 1:50:45] } 8. Nc3 { [%eval 0.13] [%clk 1:41:01] }
+8... a6 { [%eval -0.03] [%clk 1:50:25] } 9. O-O { [%eval 0.04] [%clk 1:38:05] }
+9... Bg7 { [%eval -0.02] [%clk 1:50:21] } 10. Be3
+{ [%eval -0.18] [%clk 1:34:03] } 10... O-O { [%eval 0.01] [%clk 1:50:01] } 11.
+Qd3 { [%eval 0.0] [%clk 1:33:27] } 11... Ng4 { [%eval -0.01] [%clk 1:47:47] }
+12. Bd4 { [%eval -0.11] [%clk 1:31:33] } 12... Nge5
+{ [%eval 0.31] [%clk 1:47:24] } 13. Nxe5 { [%eval 0.31] [%clk 1:30:55] } 13...
+Nxe5 { [%eval 0.37] [%clk 1:47:29] } 14. Bxe5 { [%eval -0.14] [%clk 1:29:54] }
+14... Bxe5 { [%eval -0.08] [%clk 1:47:34] } 15. Rad1
+{ [%eval -0.26] [%clk 1:28:45] } 15... Rc8 { [%eval -0.2] [%clk 1:46:12] } 16.
+Nd5 { [%eval -0.46] [%clk 1:20:35] } 16... e6 { [%eval -0.53] [%clk 1:37:54] }
+17. Ne3 { [%eval -0.63] [%clk 1:20:29] } 17... Qa5
+{ [%eval -0.45] [%clk 1:37:39] } 18. Qb1 { [%eval -0.73] [%clk 1:15:29] } 18...
+Bf4 { [%eval -0.65] [%clk 1:32:43] } 19. b3 { [%eval -0.77] [%clk 1:10:28] }
+19... Bxe3 { [%eval -0.23] [%clk 1:30:41] } 20. fxe3
+{ [%eval -0.25] [%clk 1:10:36] } 20... Rfd8 { [%eval -0.17] [%clk 1:27:12] }
+21. Qb2 { [%eval -0.21] [%clk 1:09:18] } 21... Qg5
+{ [%eval -0.06] [%clk 1:25:13] } 22. Kh1 { [%eval -0.29] [%clk 1:08:25] } 22...
+Rc7 { [%eval -0.12] [%clk 1:19:27] } 23. Qf2 { [%eval -0.24] [%clk 1:06:25] }
+23... Rcd7 { [%eval -0.12] [%clk 1:17:45] } 24. Qf4
+{ [%eval -0.16] [%clk 1:05:39] } 24... Qe7 { [%eval -0.11] [%clk 1:07:56] } 25.
+Qf3 { [%eval -0.31] [%clk 0:57:54] } 25... Qg5 { [%eval -0.11] [%clk 1:07:12] }
+1/2-1/2

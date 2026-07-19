@@ -1,0 +1,41 @@
+[Event "Uk Chess Challenge Under 8"]
+[Site "Blenheim Palace, United Kingdom"]
+[Date "????.??.??"]
+[Round "4.3"]
+[White "Verbytski, Oleg"]
+[Black "Sivanandan, Bodhana"]
+[Result "1-0"]
+[WhiteElo "1169"]
+[BlackElo "0"]
+[TimeControl "G:25 + 10"]
+[Variant "Standard"]
+[ECO "B07"]
+[Opening "Czech Defense"]
+[StudyName "Round 4"]
+[ChapterName "Verbytski, Oleg - Sivanandan, Bodhana"]
+[BroadcastName "2021 UK Chess Challenge Terafinal Under 8"]
+[BroadcastURL "https://lichess.org/broadcast/2021-uk-chess-challenge-terafinal-under-8/round-4/srJLTaiB"]
+[GameURL "https://lichess.org/broadcast/2021-uk-chess-challenge-terafinal-under-8/round-4/srJLTaiB/xiT2vS1h"]
+[WhiteFideId "495506"]
+
+1. e4 { [%clk 0:25:18] } 1... d6 { [%clk 0:25:16] } 2. d4 { [%clk 0:25:26] }
+2... Nf6 { [%clk 0:25:22] } 3. Nc3 { [%clk 0:25:35] } 3... c6
+{ [%clk 0:25:29] } 4. f4 { [%clk 0:25:42] } 4... Qa5 { [%clk 0:25:35] } 5. Nf3
+{ [%clk 0:25:50] } 5... Nxe4 { [%clk 0:25:40] } 6. Bd2 { [%clk 0:25:50] } 6...
+Nxd2 { [%clk 0:25:38] } 7. Qxd2 { [%clk 0:25:58] } 7... Qc7 { [%clk 0:25:45] }
+8. Bd3 { [%clk 0:26:02] } 8... Bg4 { [%clk 0:25:47] } 9. O-O { [%clk 0:26:09] }
+9... e6 { [%clk 0:25:46] } 10. Rae1 { [%clk 0:26:10] } 10... Be7
+{ [%clk 0:25:51] } 11. h3 { [%clk 0:25:34] } 11... Bxf3 { [%clk 0:25:31] } 12.
+Rxf3 { [%clk 0:25:42] } 12... O-O { [%clk 0:25:23] } 13. f5 { [%clk 0:25:25] }
+13... exf5 { [%clk 0:24:42] } 14. Bxf5 { [%clk 0:25:32] } 14... d5
+{ [%clk 0:24:15] } 15. Ref1 { [%clk 0:24:12] } 15... Nd7 { [%clk 0:24:12] } 16.
+Qf2 { [%clk 0:22:35] } 16... Nf6 { [%clk 0:23:48] } 17. g4 { [%clk 0:22:20] }
+17... h6 { [%clk 0:23:18] } 18. Qg2 { [%clk 0:21:23] } 18... Qb6
+{ [%clk 0:23:12] } 19. Ne2 { [%clk 0:19:51] } 19... Bd6 { [%clk 0:22:59] } 20.
+h4 { [%clk 0:19:16] } 20... Ne4 { [%clk 0:22:49] } 21. g5 { [%clk 0:19:05] }
+21... hxg5 { [%clk 0:22:49] } 22. hxg5 { [%clk 0:19:10] } 22... Nd2
+{ [%clk 0:22:44] } 23. Qh3 { [%clk 0:18:36] } 23... g6 { [%clk 0:22:33] } 24.
+Qh6 { [%clk 0:17:17] } 24... Nxf3+ { [%clk 0:21:55] } 25. Rxf3
+{ [%clk 0:17:22] } 25... Qb5 { [%clk 0:21:37] } 26. Rh3 { [%clk 0:16:20] }
+26... Bh2+ { [%clk 0:21:40] } 27. Rxh2 { [%clk 0:16:23] } 27... Qxe2
+{ [%clk 0:21:31] } 28. Qh7# { [%clk 0:16:19] } 1-0

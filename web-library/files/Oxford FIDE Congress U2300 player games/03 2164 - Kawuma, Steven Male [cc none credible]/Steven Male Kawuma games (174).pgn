@@ -1,0 +1,3464 @@
+[Event "Olympiad-34"]
+[Site "Istanbul"]
+[Date "2000.10.30"]
+[Round "3.4"]
+[White "Kawuma, Steven Male"]
+[Black "Hernandez, Hector Lagos"]
+[Result "0-1"]
+[SourceFile "2000.10.30 Kawuma, Steven Male - Hernandez, Hector Lagos [local Mega].pgn"]
+[Title "2000.10.30 Kawuma, Steven Male - Hernandez, Hector Lagos 0-1"]
+[ECO "B95"]
+[WhiteElo "2020"]
+[PlyCount "100"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7 8. O-O-O Nbd7 9. Bc4 Nc5 10. Bxf6 Bxf6 11. Bb3 Qc7 12. f4 b5 13. f5 Nxb3+ 14. axb3 Bd7 15. g4 Rc8 16. g5 Be5 17. Rhf1 O-O 18. Rf2 Qc5 19. Nce2 a5 20. Rdf1 exf5 21. exf5 a4 22. b4 Qc4 23. Rf3 Ra8 24. Kb1 Ra7 25. Rd1 Rfa8 26. Ra3 Re8 27. Ka1 g6 28. f6 Bg4 29. Re1 Raa8 30. Re3 Bxe2 31. R1xe2 a3 32. Rxe5 dxe5 33. Nb3 axb2+ 34. Kxb2 e4 35. Re3 Qe6 36. c3 Qe5 37. h4 Red8 38. Qe1 Re8 39. Nc5 Qd5 40. Nb3 Ra4 41. Qd2 Qe6 42. Qd4 h5 43. Nc1 Kh7 44. Qd1 Rea8 45. Qb3 Qd7 46. Kc2 Ra3 47. Qb2 Qe6 48. Kd1 Ra2 49. Qb3 Qd7+ 50. Rd3 Qg4+ 0-1
+
+
+[Event "Olympiad-34"]
+[Site "Istanbul"]
+[Date "2000.10.31"]
+[Round "4.4"]
+[White "Manzanilla, Ernesto"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2000.10.31 Manzanilla, Ernesto - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2000.10.31 Manzanilla, Ernesto - Kawuma, Steven Male 0-1"]
+[ECO "B32"]
+[WhiteElo "2155"]
+[BlackElo "2020"]
+[PlyCount "74"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. c3 d3 5. c4 d6 6. Bxd3 g6 7. Nc3 Bg7 8. O-O a6 9. Qe2 Bg4 10. h3 Nd4 11. Qd1 Nxf3+ 12. gxf3 Bxh3 13. Re1 Nf6 14. Bf4 Nh5 15. Bh2 Rc8 16. f4 Be6 17. Qe2 O-O 18. Rad1 Nf6 19. f5 Bd7 20. Bb1 gxf5 21. exf5 Re8 22. Ne4 Qa5 23. Ng3 b5 24. b3 bxc4 25. bxc4 Qc5 26. Bd3 Rb8 27. Rb1 Rxb1 28. Rxb1 Bc6 29. Nh5 Nxh5 30. Qxh5 Bd4 31. Bg3 Bf6 32. Kf1 Qd4 33. Qe2 Kh8 34. Qe3 Qg4 35. Ke1 Bc3+ 36. Kf1 Bf3 37. Qh6 Bf6 0-1
+
+
+[Event "Olympiad-34"]
+[Site "Istanbul"]
+[Date "2000.11.01"]
+[Round "5.4"]
+[White "Kawuma, Steven Male"]
+[Black "Mawed, Mohamed"]
+[Result "1-0"]
+[SourceFile "2000.11.01 Kawuma, Steven Male - Mawed, Mohamed [local Mega].pgn"]
+[Title "2000.11.01 Kawuma, Steven Male - Mawed, Mohamed 1-0"]
+[ECO "C77"]
+[WhiteElo "2020"]
+[PlyCount "69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. c3 b5 7. Bb3 Qe7 8. Bg5 h6 9. Bc1 d6 10. Nbd2 Bb6 11. Nf1 Ng4 12. Be3 Nxe3 13. Nxe3 Bxe3 14. fxe3 Na5 15. Bc2 Nb7 16. O-O Be6 17. d4 f6 18. Nh4 Qf7 19. a4 O-O 20. axb5 axb5 21. d5 Bd7 22. b4 Kh7 23. Nf5 g6 24. Nh4 Qe7 25. Qe2 g5 26. Nf5 Qf7 27. Ng3 g4 28. Bd3 h5 29. Bxb5 h4 30. Bxd7 hxg3 31. Qxg4 gxh2+ 32. Kxh2 Rxa1 33. Rxa1 Rh8 34. Bf5+ Kh6 35. Rh1 1-0
+
+
+[Event "Olympiad-34"]
+[Site "Istanbul"]
+[Date "2000.11.02"]
+[Round "6.4"]
+[White "Kawuma, Steven Male"]
+[Black "Trejos Perez, Jose Enrique"]
+[Result "1/2-1/2"]
+[SourceFile "2000.11.02 Kawuma, Steven Male - Trejos Perez, Jose Enrique [local Mega].pgn"]
+[Title "2000.11.02 Kawuma, Steven Male - Trejos Perez, Jose Enrique 1/2-1/2"]
+[ECO "B75"]
+[WhiteElo "2020"]
+[PlyCount "148"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Bc4 Bd7 9. Bb3 Rc8 10. Qd2 Ne5 11. Qe2 Qa5 12. O-O-O a6 13. Kb1 b5 14. Bc1 O-O 15. g4 Rc5 16. h4 Rfc8 17. h5 Rxc3 18. bxc3 Nc4 19. Bxc4 bxc4 20. Qe1 Ba4 21. Bb2 Rb8 22. Ka1 Nd7 23. hxg6 hxg6 24. Qd2 Nc5 25. Rb1 e5 26. Ba3 Rxb1+ 27. Rxb1 exd4 28. Rb8+ Bf8 29. Qxd4 Bxc2 30. Bxc5 Qxc5 31. Qxc5 dxc5 32. g5 Ba4 33. e5 Bb5 34. f4 Kg7 35. Kb2 Kg8 36. Kc2 Kg7 37. Kd2 Kg8 38. Ke3 Kg7 39. Kf3 Be7 40. Ke4 Bc6+ 41. Ke3 Bb5 42. Rc8 Ba4 43. Ke4 Bc2+ 44. Kd5 a5 45. Rc7 Kf8 46. Rc8+ Kg7 47. Kc6 a4 48. Rc7 Kf8 49. Rc8+ Kg7 50. Re8 Bf8 51. Rd8 Bb3 52. Rd2 Be7 53. Kd7 Kf8 54. Rb2 a3 55. Rh2 Ba4+ 56. Kc7 Ke8 57. Rh8+ Bf8 58. Rh1 Ke7 59. Rb1 Bb3 60. Ra1 Ba4 61. Kb6 Ke6 62. Ka5 Bc2 63. Rc1 Bd3 64. Rh1 Bc2 65. Rc1 Bb3 66. Ra1 Kd5 67. Kb5 Ke4 68. axb3 cxb3 69. Kc4 b2 70. Re1+ Kxf4 71. Kb3 c4+ 72. Ka2 Kf5 73. Rf1+ Kxe5 74. Rxf7 Bc5 1/2-1/2
+
+
+[Event "Olympiad-34"]
+[Site "Istanbul"]
+[Date "2000.11.06"]
+[Round "9.4"]
+[White "Athukorala, Anuradha B"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2000.11.06 Athukorala, Anuradha B - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2000.11.06 Athukorala, Anuradha B - Kawuma, Steven Male 0-1"]
+[ECO "E12"]
+[BlackElo "2020"]
+[PlyCount "112"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 b6 4. a3 Bb7 5. Nc3 Be7 6. Bf4 d6 7. e3 Nbd7 8. Bd3 Nh5 9. Bg3 c5 10. d5 exd5 11. cxd5 a6 12. Nd2 g6 13. Be2 Nxg3 14. hxg3 b5 15. Nf3 Bf6 16. Qd2 Qe7 17. Rd1 Bg7 18. Rh4 Nf6 19. Qc2 O-O 20. Ng1 Rac8 21. Qb1 Rfe8 22. Bf3 Qd7 23. Rd2 a5 24. Qd1 c4 25. a4 b4 26. Nb5 Rc5 27. e4 g5 28. Rh2 g4 29. Re2 gxf3 30. gxf3 Ba6 31. Kf1 c3 32. bxc3 Rxb5 33. axb5 Bxb5 34. cxb4 axb4 35. Qb1 Qb7 36. Kg2 Bxe2 37. Nxe2 Qb6 38. Nf4 b3 39. Rh1 b2 40. Nd3 Rb8 41. Re1 Qb3 42. Rh1 Rc8 43. Nxb2 Rb8 44. Rc1 Ne8 45. e5 Bxe5 46. Rh1 Nf6 47. g4 Qxb2 48. Qf5 Bd4 49. Rf1 Qa2 50. g5 Qxd5 51. Qh3 Qxg5+ 52. Kh1 Qh5 53. Qxh5 Nxh5 54. f4 Nxf4 55. f3 Rb2 56. Rc1 Nh5 0-1
+
+
+[Event "Olympiad-34"]
+[Site "Istanbul"]
+[Date "2000.11.07"]
+[Round "10.4"]
+[White "Al Zendani, Zendan"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2000.11.07 Al Zendani, Zendan - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2000.11.07 Al Zendani, Zendan - Kawuma, Steven Male 1-0"]
+[ECO "B33"]
+[WhiteElo "2224"]
+[BlackElo "2020"]
+[PlyCount "99"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8. exd5 Ne7 9. c3 Nf5 10. Bd3 a6 11. Na3 g6 12. Nc4 Bg7 13. O-O O-O 14. a4 Nh6 15. f4 f6 16. Qb3 Qe7 17. Qb4 Nf7 18. b3 Rb8 19. Ba3 Rd8 20. fxe5 fxe5 21. Ra2 Bf8 22. Raf2 Nh6 23. Nxe5 Qxe5 24. Rxf8+ Rxf8 25. Rxf8+ Kxf8 26. Qxd6+ Qxd6 27. Bxd6+ Ke8 28. Bxb8 Bg4 29. a5 Nf5 30. Kf2 Ne7 31. c4 Bd1 32. b4 Kd7 33. Be5 Bb3 34. g4 Ba2 35. Ke3 Bb3 36. Kd4 Bd1 37. g5 Bf3 38. Bf6 Nc8 39. c5 Bg2 40. b5 axb5 41. Bxb5+ Kc7 42. d6+ Nxd6 43. Be5 Kc8 44. cxd6 Bh3 45. Bf6 Bg4 46. h4 Bh3 47. Ke5 Bf5 48. h5 Bg4 49. h6 Bh3 50. Bc4 1-0
+
+
+[Event "Olympiad-34"]
+[Site "Istanbul"]
+[Date "2000.11.08"]
+[Round "11.4"]
+[White "Kawuma, Steven Male"]
+[Black "Bussachini, Michel"]
+[Result "1-0"]
+[SourceFile "2000.11.08 Kawuma, Steven Male - Bussachini, Michel [local Mega].pgn"]
+[Title "2000.11.08 Kawuma, Steven Male - Bussachini, Michel 1-0"]
+[ECO "C77"]
+[WhiteElo "2020"]
+[BlackElo "2068"]
+[PlyCount "61"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 b5 7. Bb3 Be7 8. Nbd2 O-O 9. Nf1 d5 10. Qe2 dxe4 11. dxe4 Bd6 12. Ng3 Na5 13. Bc2 h6 14. O-O Re8 15. Rd1 Nc4 16. a4 Bg4 17. b3 Nb6 18. axb5 axb5 19. Rxa8 Nxa8 20. Qxb5 Bxf3 21. gxf3 Qc8 22. Kg2 Kh7 23. Be3 g6 24. Qc4 Kg7 25. b4 h5 26. Bb3 Rf8 27. h4 Nd7 28. Qd3 Nab6 29. Qd2 Rd8 30. Bh6+ Kg8 31. Bg5 1-0
+
+
+[Event "Olympiad-34"]
+[Site "Istanbul"]
+[Date "2000.11.09"]
+[Round "12.4"]
+[White "Wolf, Richard"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2000.11.09 Wolf, Richard - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2000.11.09 Wolf, Richard - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B33"]
+[BlackElo "2020"]
+[PlyCount "111"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. Bg5 h6 8. Bxf6 Bxc3+ 9. bxc3 Qxf6 10. Be2 O-O 11. O-O Ne7 12. Qd2 d6 13. Rad1 Rd8 14. f4 Ng6 15. f5 Ne7 16. c4 b6 17. Qb4 Bb7 18. Bd3 Kh7 19. a4 Nc6 20. Qe1 Rg8 21. Rf3 Rh8 22. Bf1 Rhd8 23. Rfd3 a5 24. c3 Na7 25. Qe3 Nc8 26. R3d2 Bc6 27. Ra2 Ra7 28. Bd3 Rc7 29. Nd2 Rg8 30. Rf1 Bd7 31. Qg3 Be8 32. h4 g6 33. fxg6+ Qxg6 34. Qxg6+ fxg6 35. Kh2 Kg7 36. Raa1 Rf8 37. Rxf8 Kxf8 38. Bc2 Kg7 39. Rb1 Rf7 40. Rf1 Ne7 41. Kg3 Nc6 42. Rb1 Rb7 43. Nf1 Nb8 44. Ne3 Na6 45. Nd5 Nc5 46. Rxb6 Rxb6 47. Nxb6 Kf7 48. Kf3 Kf6 49. Kg4 Bc6 50. Kf3 Kf7 51. Ke3 Bb7 52. Nd5 Bc8 53. Kf3 Be6 54. Ke3 Bd7 55. Nb6 Be8 56. Kf3 1/2-1/2
+
+
+[Event "Olympiad-34"]
+[Site "Istanbul"]
+[Date "2000.11.10"]
+[Round "13.4"]
+[White "Mundle, Kurt"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2000.11.10 Mundle, Kurt - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2000.11.10 Mundle, Kurt - Kawuma, Steven Male 0-1"]
+[ECO "E12"]
+[BlackElo "2020"]
+[PlyCount "66"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. Bg5 Be7 6. e3 h6 7. Bh4 d6 8. Bd3 Nbd7 9. O-O O-O 10. Nd2 c5 11. f3 cxd4 12. exd4 d5 13. cxd5 Nxd5 14. Bxe7 Qxe7 15. Nxd5 Bxd5 16. Be4 Qb4 17. Bxd5 Qxd4+ 18. Rf2 exd5 19. Nb3 Qe5 20. Re2 Qd6 21. Qd4 Nf6 22. Rd1 Rfe8 23. Red2 Re5 24. Qc3 Rae8 25. Rd3 Rh5 26. g3 Re2 27. R3d2 Rhxh2 28. Qc8+ Qf8 29. Qc2 Qe8 30. Qd3 Qe5 31. f4 Rhg2+ 32. Kf1 Rgf2+ 33. Kg1 Qh5 0-1
+
+
+[Event "Olympiad-34"]
+[Site "Istanbul"]
+[Date "2000.11.12"]
+[Round "14.4"]
+[White "Kawuma, Steven Male"]
+[Black "Alemu, Fikreselassie"]
+[Result "0-1"]
+[SourceFile "2000.11.12 Kawuma, Steven Male - Alemu, Fikreselassie [local Mega].pgn"]
+[Title "2000.11.12 Kawuma, Steven Male - Alemu, Fikreselassie 0-1"]
+[ECO "B95"]
+[WhiteElo "2020"]
+[PlyCount "108"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qd2 Be7 8. O-O-O Qc7 9. f4 h6 10. Bxf6 gxf6 11. Qf2 Nc6 12. Qg3 Bd7 13. Qg7 Rf8 14. Qxh6 O-O-O 15. Nxc6 Bxc6 16. f5 Kb8 17. Qf4 Rc8 18. Bd3 Rg8 19. g3 Qb6 20. Rhe1 Rh8 21. h4 Bd7 22. Qe3 Qa5 23. Bf1 Rcg8 24. Be2 Bc6 25. Bc4 Bd7 26. Kb1 Rg4 27. Be2 Rgg8 28. h5 Bc6 29. g4 Bf8 30. Rh1 Bh6 31. Qf3 Qe5 32. Rhf1 Bg5 33. a3 Re8 34. Bd3 Rhg8 35. Qf2 Kc7 36. Qe2 Bh6 37. Rg1 Rg5 38. Rdf1 Bf8 39. Rh1 Bh6 40. Rh3 Reg8 41. Rg1 Qc5 42. Rgg3 Kb8 43. Nd1 R5g7 44. fxe6 fxe6 45. Nf2 Bf4 46. Rf3 Be5 47. Bc4 d5 48. exd5 exd5 49. Bb3 Bd7 50. h6 Rh7 51. Qd3 Rgh8 52. Bxd5 Bd4 53. Rh5 Qb6 54. Nd1 Bxg4 0-1
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.10.26"]
+[Round "1.3"]
+[White "Kawuma, Steven Male"]
+[Black "Bluvshtein, Mark"]
+[Result "1/2-1/2"]
+[SourceFile "2002.10.26 Kawuma, Steven Male - Bluvshtein, Mark [local Mega].pgn"]
+[Title "2002.10.26 Kawuma, Steven Male - Bluvshtein, Mark 1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2053"]
+[BlackElo "2449"]
+[PlyCount "63"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 Nc6 7. d4 cxd4 8. Nxd4 g6 9. f3 Bg7 10. Be3 O-O 11. Rc1 a6 12. O-O Nxd4 13. Bxd4 b5 14. Nd5 Nxd5 15. cxd5 Rfc8 16. Bxg7 Kxg7 17. Qd4+ f6 18. Qe3 Rxc1 19. Rxc1 Rc8 20. Rxc8 Qxc8 21. b4 Qc2 22. a3 Qb1+ 23. Kf2 Qb2+ 24. Kg1 Kf7 25. h3 g5 26. h4 gxh4 27. Qh6 Qxa3 28. Qxh7+ Ke8 29. Qg8+ Kd7 30. Qe6+ Kd8 31. Qg8+ Kc7 32. Qe8 1/2-1/2
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.10.27"]
+[Round "2.3"]
+[White "Kawuma, Steven Male"]
+[Black "Doghri, Nabil"]
+[Result "1/2-1/2"]
+[SourceFile "2002.10.27 Kawuma, Steven Male - Doghri, Nabil [local Mega].pgn"]
+[Title "2002.10.27 Kawuma, Steven Male - Doghri, Nabil 1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2053"]
+[BlackElo "2325"]
+[PlyCount "94"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. d4 cxd4 7. Nxd4 Qb6 8. Bxc6 dxc6 9. c3 O-O 10. Qc2 Qc7 11. h3 e5 12. Ne2 Re8 13. Nd2 h6 14. a4 Nh7 15. b3 Be6 16. Bb2 h5 17. Rad1 h4 18. c4 Ng5 19. c5 Qe7 20. Kh2 Qf6 21. f4 Nh7 22. Bxe5 Qe7 23. Bxg7 Kxg7 24. Nf3 Rad8 25. b4 Kg8 26. Ned4 Bc8 27. e5 Nf8 28. Qf2 a5 29. b5 Qxc5 30. Qxh4 Rd5 31. bxc6 bxc6 32. Rc1 Qa3 33. Nxc6 Ne6 34. Ra1 Qf8 35. Red1 Rxd1 36. Rxd1 Bb7 37. Nfd4 Qc5 38. f5 Nxd4 39. Nxd4 Qxe5+ 40. Qg3 Qxg3+ 41. Kxg3 Rd8 42. fxg6 fxg6 43. Kf2 Bc6 44. Ke3 Bxg2 45. Rg1 Re8+ 46. Kd2 Be4 47. Rg5 Ra8 1/2-1/2
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.10.28"]
+[Round "3.3"]
+[White "Al Bahadly, Amjad Ali Mohammed"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2002.10.28 Al Bahadly, Amjad Ali Mohammed - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2002.10.28 Al Bahadly, Amjad Ali Mohammed - Kawuma, Steven Male 1-0"]
+[ECO "A47"]
+[WhiteElo "2246"]
+[BlackElo "2053"]
+[PlyCount "128"]
+
+1. Nf3 Nf6 2. d4 e6 3. e3 b6 4. Bd3 Bb7 5. Nbd2 c5 6. O-O Nc6 7. a3 Be7 8. c4 O-O 9. b3 Qc7 10. Bb2 Rad8 11. Qc2 h6 12. Rac1 Qb8 13. Rfd1 Rc8 14. Qb1 Rfd8 15. Qa1 Na5 16. e4 cxd4 17. Nxd4 Qa8 18. f3 Qb8 19. b4 Nc6 20. N2b3 Nh5 21. Nxc6 Bxc6 22. b5 Bb7 23. Bf1 Bg5 24. Rc2 Be3+ 25. Kh1 f6 26. e5 fxe5 27. Bxe5 d6 28. Bd4 Bf4 29. Bg1 e5 30. Bd3 Qc7 31. Bg6 Nf6 32. Nd2 Qe7 33. a4 Qe6 34. a5 Bxd2 35. Rcxd2 Rxc4 36. axb6 axb6 37. Qa7 Qe7 38. Qxb6 d5 39. Re1 Rcc8 40. Bf5 Rd6 41. Qe3 Re8 42. Qb3 Rdd8 43. Bg6 Rf8 44. Rde2 Nd7 45. Bb1 Kh8 46. Qc2 e4 47. Qc7 Ba8 48. fxe4 Rc8 49. Qa7 dxe4 50. Bxe4 Qd6 51. b6 Bxe4 52. Rxe4 Nf6 53. Re7 Ra8 54. Qc7 Qd2 55. R7e2 Qd5 56. b7 Rab8 57. Re7 Qd2 58. Qe5 Qd4 59. Bxd4 Rg8 60. Qxb8 Kh7 61. Rxg7+ Rxg7 62. Qc8 Rg6 63. Qf5 Kh8 64. Re7 Rg8 1-0
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.10.29"]
+[Round "4.2"]
+[White "Chau, Sau Ming"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2002.10.29 Chau, Sau Ming - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2002.10.29 Chau, Sau Ming - Kawuma, Steven Male 1-0"]
+[ECO "E15"]
+[WhiteElo "2055"]
+[BlackElo "2053"]
+[PlyCount "81"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 d5 6. cxd5 exd5 7. Bg2 Bd6 8. O-O Qe7 9. Re1 O-O 10. e4 Nxe4 11. Nxe4 dxe4 12. Ng5 Bb7 13. Nxe4 Bc6 14. Bg5 Qd7 15. Rc1 f6 16. Be3 a5 17. Qc2 Bb4 18. Red1 Ra7 19. d5 Ba4 20. b3 Bb5 21. d6 c5 22. Qb2 Bc6 23. a3 Qe6 24. axb4 Bxe4 25. Bxe4 Qxe4 26. bxc5 bxc5 27. Rxc5 Rb7 28. Rxa5 Nc6 29. Rad5 Ne5 30. Qb1 Nf3+ 31. Kh1 Qb4 32. Qf5 Ne5 33. d7 Rd8 34. Bc5 Qb5 35. Qe6+ Kh8 36. Bb6 Rxb6 37. Qe7 Qxd5+ 38. Rxd5 Rbb8 39. b4 Nc6 40. Qd6 Nxb4 41. Qxb8 1-0
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.10.30"]
+[Round "5.3"]
+[White "Makatia, Alexander Pani"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2002.10.30 Makatia, Alexander Pani - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2002.10.30 Makatia, Alexander Pani - Kawuma, Steven Male 0-1"]
+[ECO "A47"]
+[BlackElo "2053"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O Be7 6. Nbd2 c5 7. c3 d5 8. Ne5 O-O 9. Qe2 Nc6 10. f4 Nd7 11. Rf3 f5 12. Rh3 Nf6 13. Ndf3 Ne4 14. Bd2 a5 15. Be1 Nb8 16. a3 c4 17. Bc2 b5 18. Nd2 Qe8 19. g4 Nc6 20. Nxc6 Bxc6 21. gxf5 exf5 22. Nxe4 fxe4 23. Qg2 b4 24. Bd1 bxa3 25. bxa3 Rb8 26. Bg4 Bd7 27. Rg3 Bf6 28. Qh3 Bxg4 29. Rxg4 Rb3 30. Bh4 Bxh4 31. Rxh4 Rxc3 32. Rxh7 Qg6+ 33. Kh1 Qxh7 34. Qe6+ Kh8 35. Qe7 Rb8 36. Rg1 Rc2 0-1
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.10.31"]
+[Round "6.3"]
+[White "Kawuma, Steven Male"]
+[Black "Lungu, Nase"]
+[Result "0-1"]
+[SourceFile "2002.10.31 Kawuma, Steven Male - Lungu, Nase [local Mega].pgn"]
+[Title "2002.10.31 Kawuma, Steven Male - Lungu, Nase 0-1"]
+[ECO "A34"]
+[WhiteElo "2053"]
+[BlackElo "2282"]
+[PlyCount "90"]
+
+1. e4 c5 2. Nf3 e6 3. c4 Nc6 4. Be2 Nf6 5. Nc3 d5 6. exd5 exd5 7. d4 cxd4 8. Nxd4 dxc4 9. Nxc6 Qxd1+ 10. Nxd1 bxc6 11. O-O Be6 12. Ne3 c3 13. bxc3 Bc5 14. Bf3 Rc8 15. Nc2 O-O 16. Nd4 Bd5 17. Nb3 Bb6 18. Be2 Rce8 19. Ba6 Re4 20. Bd3 Rg4 21. g3 Rd8 22. Bf5 Rc4 23. Bb2 Ne4 24. Rac1 Re8 25. Bxe4 Rcxe4 26. Nd4 Bxa2 27. f3 Re2 28. Rf2 Bc4 29. Rc2 Re1+ 30. Kg2 h5 31. Rcd2 g5 32. Kh3 Bxd4 33. Rxd4 Bf1+ 34. Rxf1 Rxf1 35. c4 Rf2 36. Bc3 Rc2 37. Ba1 f6 38. Rd1 Ree2 39. Rh1 Kf7 40. Bd4 Kg6 41. Bxa7 f5 42. Bg1 Ra2 43. c5 g4+ 44. fxg4 hxg4+ 45. Kh4 Ra7 0-1
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.11.01"]
+[Round "7.3"]
+[White "Feio, Amilcar Batista"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2002.11.01 Feio, Amilcar Batista - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2002.11.01 Feio, Amilcar Batista - Kawuma, Steven Male 0-1"]
+[ECO "B33"]
+[WhiteElo "2191"]
+[BlackElo "2053"]
+[PlyCount "104"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. Bg5 h6 8. Bxf6 Bxc3+ 9. bxc3 Qxf6 10. Qd2 a5 11. Bc4 O-O 12. O-O d6 13. Rad1 Rd8 14. Nc1 Be6 15. Bxe6 Qxe6 16. Qd5 Qc8 17. f4 Ne7 18. Qd2 Qc5+ 19. Kh1 Rac8 20. Ne2 Qc4 21. Qe3 Qxa2 22. f5 f6 23. Rf3 Qxc2 24. Rdf1 d5 25. Ng3 d4 26. cxd4 Rxd4 27. Nh5 Kf7 28. Rg3 Rg8 29. h3 Qxe4 30. Qb3+ Qd5 31. Qb6 Qc6 32. Qb3+ Qc4 33. Qb1 b5 34. Rc1 Qd5 35. Rgc3 Rd8 36. Rc5 Qxc5 37. Rxc5 Rd1+ 38. Qxd1 Rxd1+ 39. Kh2 Rd5 40. Rc7 b4 41. Nxg7 Kxg7 42. Rxe7+ Kf8 43. Rb7 e4 44. g4 Rd4 45. Kg3 a4 46. h4 a3 47. g5 fxg5 48. hxg5 hxg5 49. Kg4 e3+ 50. Kxg5 e2 51. Rb8+ Kf7 52. Rb7+ Ke8 0-1
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.11.02"]
+[Round "8.2"]
+[White "Kawuma, Steven Male"]
+[Black "Theerapappisit, Wisuwat"]
+[Result "1-0"]
+[SourceFile "2002.11.02 Kawuma, Steven Male - Theerapappisit, Wisuwat [local Mega].pgn"]
+[Title "2002.11.02 Kawuma, Steven Male - Theerapappisit, Wisuwat 1-0"]
+[ECO "B52"]
+[WhiteElo "2053"]
+[BlackElo "2188"]
+[PlyCount "138"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. Nc3 g6 7. d4 cxd4 8. Nxd4 Bg7 9. Nde2 Nf6 10. f3 O-O 11. Be3 Rfe8 12. O-O Rad8 13. Qd2 a6 14. Rac1 Ne5 15. b3 b5 16. cxb5 axb5 17. Nd4 Rb8 18. Qe2 b4 19. Ncb5 Rb7 20. Rc2 d5 21. Bf4 Nxf3+ 22. gxf3 e5 23. Nc6 exf4 24. e5 Rb6 25. Nbd4 Qb7 26. Qd2 Nh5 27. Re1 Bf8 28. Qc1 Qd7 29. Kg2 g5 30. Qd1 Ng7 31. Qd3 Ra8 32. h3 Rba6 33. Ree2 Rb6 34. Rc1 h6 35. Kh2 Rba6 36. Rcc2 Rb6 37. Re1 Re8 38. Rg1 Be7 39. h4 Ra8 40. Nf5 Rxc6 41. Nxe7+ Qxe7 42. Rxc6 Rxa2+ 43. Rg2 Rxg2+ 44. Kxg2 Qxe5 45. Rc8+ Ne8 46. Qb5 Kf8 47. Qxb4+ Kg7 48. Qd2 Nd6 49. Rc3 Nf5 50. hxg5 hxg5 51. Kf2 Ne3 52. Rc1 Qf6 53. Rg1 Qe5 54. b4 Nc4 55. Qe2 Qd4+ 56. Kg2 Ne3+ 57. Kh1 g4 58. b5 g3 59. Rb1 Qb6 60. Qb2+ d4 61. Kg1 Kg6 62. Qa2 Kf6 63. Qa6 Nd5 64. Rc1 Ke5 65. Qxb6 Nxb6 66. Rc5+ Nd5 67. b6 d3 68. b7 d2 69. b8=Q+ Ke6 1-0
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.11.04"]
+[Round "9.2"]
+[White "Ramsingh, Yogendranath"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2002.11.04 Ramsingh, Yogendranath - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2002.11.04 Ramsingh, Yogendranath - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B55"]
+[WhiteElo "2200"]
+[BlackElo "2053"]
+[PlyCount "121"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Nb3 d5 7. Bg5 Be6 8. exd5 Bxd5 9. Bxf6 gxf6 10. Bd3 Be6 11. O-O f5 12. N1d2 Bh6 13. Qe1 O-O 14. Kh1 Kh8 15. Nc4 Qf6 16. Nc5 Bc8 17. Rd1 b6 18. Nb3 Rg8 19. Rf2 Bg5 20. Re2 Qh6 21. Nbd2 b5 22. Nxe5 Nxe5 23. Rxe5 Bf4 24. h3 Bxe5 25. Qxe5+ Qg7 26. Qxg7+ Kxg7 27. Nb3 Rd8 28. Re1 Rd5 29. f4 Be6 30. Kg1 Kf6 31. Kf2 Rc8 32. Ke3 Re8 33. Kf2 a6 34. Nd2 Bd7 35. Rxe8 Bxe8 36. a3 Bc6 37. Ke3 Rd8 38. g3 Bg2 39. h4 Bd5 40. b3 Rg8 41. Kf2 Re8 42. c4 Be4 43. Be2 bxc4 44. Bxc4 a5 45. a4 Bc6 46. Nf1 Rd8 47. Ke2 Bd5 48. Bxd5 Rxd5 49. Ne3 Rc5 50. Nc4 Ke6 51. Kd3 Kd5 52. Ne3+ Kc6 53. Kd4 h5 54. Kd3 Kb6 55. Kd4 Kc6 56. Kd3 Kd6 57. Kd4 f6 58. Nc4+ Kc6 59. Ne3 Kd6 60. Nc4+ Kc6 61. Ne3 1/2-1/2
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.11.05"]
+[Round "10.2"]
+[White "Kawuma, Steven Male"]
+[Black "Abdul Gaffar, Jamal"]
+[Result "1-0"]
+[SourceFile "2002.11.05 Kawuma, Steven Male - Abdul Gaffar, Jamal [local Mega].pgn"]
+[Title "2002.11.05 Kawuma, Steven Male - Abdul Gaffar, Jamal 1-0"]
+[ECO "C62"]
+[WhiteElo "2053"]
+[PlyCount "111"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. c3 Bd7 5. Ba4 Nge7 6. d3 Ng6 7. Be3 Be7 8. Bc2 O-O 9. Nbd2 f5 10. Bb3+ Kh8 11. Nf1 f4 12. Bd2 Bg4 13. Qe2 a5 14. h3 Bh5 15. N1h2 a4 16. Be6 Nh4 17. Rg1 Rf6 18. Bg4 Bxg4 19. hxg4 Nxf3+ 20. Qxf3 Qd7 21. O-O-O Qe6 22. Kb1 g5 23. g3 b5 24. gxf4 exf4 25. d4 Na5 26. Qd3 Nc4 27. Rde1 Rff8 28. Nf3 Nxd2+ 29. Qxd2 Qg6 30. Ka1 Rfe8 31. Rh1 Bf8 32. Qe2 a3 33. b3 b4 34. cxb4 d5 35. e5 Bxb4 36. Rc1 Rac8 37. Qc2 Re6 38. Nxg5 Bc3+ 39. Kb1 Qxc2+ 40. Rxc2 Rg6 41. Nxh7 Bxd4 42. Nf6+ Kg7 43. Rh7+ Kf8 44. Rh8+ Kg7 45. Rxc8 Bxe5 46. Nh5+ Kf7 47. f3 Re6 48. R2xc7+ Bxc7 49. Rxc7+ Kf8 50. Nxf4 Re1+ 51. Rc1 Re3 52. Rf1 d4 53. Kc2 Kf7 54. Kd2 Re8 55. Ne2 Rd8 56. Kd3 1-0
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.11.06"]
+[Round "11.2"]
+[White "Vella, Duncan"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2002.11.06 Vella, Duncan - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2002.11.06 Vella, Duncan - Kawuma, Steven Male 0-1"]
+[ECO "B53"]
+[WhiteElo "2200"]
+[BlackElo "2053"]
+[PlyCount "28"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. d4 cxd4 5. Qxd4 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6 8. Bg5 e6 9. O-O-O Be7 10. Rhe1 Qc7 11. Nd5 exd5 12. exd5 Nxd5 13. Bxe7 Nxe7 14. Rxe7+ Kxe7 0-1
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.11.07"]
+[Round "12.3"]
+[White "Warner, Delisle"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2002.11.07 Warner, Delisle - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2002.11.07 Warner, Delisle - Kawuma, Steven Male 1/2-1/2"]
+[ECO "A67"]
+[WhiteElo "2232"]
+[BlackElo "2053"]
+[PlyCount "109"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+ Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nb4 12. Re1 f6 13. Be3 b6 14. Nd2 Qc7 15. h4 a6 16. Bf1 Re8 17. h5 Nf8 18. Bc4 Bd7 19. g4 f5 20. e5 b5 21. axb5 axb5 22. Nxb5 Bxb5 23. Bxb5 Rxa1 24. Qxa1 Rb8 25. Qa4 dxe5 26. Rc1 exf4 27. Bxc5 Bd4+ 28. Bxd4 Qxc1+ 29. Nf1 Qc7 30. Qxb4 Qb7 31. hxg6 hxg6 32. Qd6 Qxb5 33. gxf5 gxf5 34. Qe5 Rb7 35. Qxf5 Qe8 36. Qxf4 Qg6+ 37. Qg3 Rd7 38. Qxg6+ Nxg6 39. Ne3 Nf4 40. Kf2 Nxd5 41. Ng4 Kf8 42. Kf3 Ke7 43. Ne5 Rb7 44. Ke4 Ke6 45. Nd3 Nf6+ 46. Bxf6 Kxf6 47. b4 Ke7 48. Kd5 Rd7+ 49. Kc4 Kd8 50. Nc5 Rd1 51. Kb5 Kc7 52. Na6+ Kb7 53. Nc5+ Kc7 54. Na6+ Kb7 55. Nc5+ 1/2-1/2
+
+
+[Event "Olympiad-35"]
+[Site "Bled"]
+[Date "2002.11.10"]
+[Round "14.2"]
+[White "Alemu, Fikreselassie"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2002.11.10 Alemu, Fikreselassie - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2002.11.10 Alemu, Fikreselassie - Kawuma, Steven Male 1-0"]
+[ECO "E18"]
+[BlackElo "2053"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 Bb7 8. Bg2 O-O 9. O-O Ne4 10. Nxe4 Bxe4 11. Bc3 d5 12. cxd5 exd5 13. Bb2 c5 14. Rc1 f6 15. e3 a5 16. Qe2 Na6 17. Rfd1 Qd7 18. Ne1 Bxg2 19. Nxg2 Rfd8 20. Nf4 g5 21. Nh5 Qe6 22. Qf3 Kf7 23. g4 a4 24. Ng3 axb3 25. axb3 Nc7 26. e4 Ra2 27. Ba1 Kg8 28. Re1 Qf7 29. Nf5 Bf8 30. e5 fxe5 31. Rxe5 Re8 32. Qe3 Rxe5 33. Qxe5 c4 34. bxc4 dxc4 35. d5 Qxd5 36. Qh8+ Kf7 37. Qxh7+ Ke8 38. Qxc7 Bc5 39. Re1+ Kf8 40. Qg7# 1-0
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.15"]
+[Round "1"]
+[Board "1"]
+[White "Miezis, Normunds"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2004.10.15 Miezis, Normunds - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2004.10.15 Miezis, Normunds - Kawuma, Steven Male 1-0"]
+[ECO "A34"]
+[WhiteElo "2524"]
+[BlackElo "2141"]
+[PlyCount "81"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Latvia"]
+[BlackTeam "Uganda"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 Nc6 4.Bg2 e6 5.e4 Be7 6.f4 d6 7.Nge2 Nd4 8.d3 a6 9.O-O
+Qc7 10.h3 Bd7 11.Be3 e5 12.a4 h6 13.a5 Bd8 14.Bd2 Qc8 15.Kh2 Rb8 16.Nxd4 cxd4
+17.Na4 Bxa4 18.Rxa4 O-O 19.Bb4 Qe6 20.fxe5 Qxe5 21.Rf5 Qe6 22.Qg1 g6 23.Rf1 Qe5
+24.Bd2 b5 25.axb6 Rxb6 26.b4 h5 27.Ra5 Qe6 28.Qxd4 Nd7 29.Bh6 Bf6 30.Rxf6 Qxf6
+{#} 31.e5 dxe5 32.Qxd7 Rd8 33.Qc7 Rbd6 34.h4 Rxd3 35.Qxe5 Qxe5 36.Rxe5 Rb3
+37.Bg5 Rd6 38.Re8+ Kg7 39.Bf4 Rd7 40.c5 Rxb4 41.c6  1-0
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.15"]
+[Round "1"]
+[White "Miezis, Normunds"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2004.10.15 Miezis, Normunds - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2004.10.15 Miezis, Normunds - Kawuma, Steven Male 1-0"]
+[ECO "A36"]
+[WhiteElo "2524"]
+[BlackElo "2141"]
+[PlyCount "81"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 Nc6 4. Bg2 e6 5. e4 Be7 6. f4 d6 7. Nge2 Nd4 8. d3 a6 9. O-O Qc7 10. h3 Bd7 11. Be3 e5 12. a4 h6 13. a5 Bd8 14. Bd2 Qc8 15. Kh2 Rb8 16. Nxd4 cxd4 17. Na4 Bxa4 18. Rxa4 O-O 19. Bb4 Qe6 20. fxe5 Qxe5 21. Rf5 Qe6 22. Qg1 g6 23. Rf1 Qe5 24. Bd2 b5 25. axb6 Rxb6 26. b4 h5 27. Ra5 Qe6 28. Qxd4 Nd7 29. Bh6 Bf6 30. Rxf6 Qxf6 31. e5 dxe5 32. Qxd7 Rd8 33. Qc7 Rbd6 34. h4 Rxd3 35. Qxe5 Qxe5 36. Rxe5 Rb3 37. Bg5 Rd6 38. Re8+ Kg7 39. Bf4 Rd7 40. c5 Rxb4 41. c6 1-0
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.16"]
+[Round "2"]
+[Board "1"]
+[White "Kawuma, Steven Male"]
+[Black "Del Rio Angelis, Salvador G"]
+[Result "1/2-1/2"]
+[SourceFile "2004.10.16 Kawuma, Steven Male - Del Rio Angelis, Salvador G [chess-results].pgn"]
+[Title "2004.10.16 Kawuma, Steven Male - Del Rio Angelis, Salvador G 1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2141"]
+[BlackElo "2491"]
+[PlyCount "83"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Spain C"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.dxc5 Bxc5 7.Bd3 f6 8.b4 Bb6 9.b5
+Na5 10.O-O f5 11.a4 Ne7 12.Nbd2 Rc8 13.Bb2 O-O 14.Rc1 Ng6 15.Re1 Bc5 16.Nb3 Nxb3
+17.Qxb3 Qb6 18.Rc2 Rfd8 19.c4 d4 20.Rd2 Be8 21.g3 Nf8 22.Bf1 Bh5 23.Bg2 a5
+24.Red1 Ng6 25.Bxd4 Bxd4 26.Rxd4 Rxd4 27.Rxd4 Bxf3 28.Rd6 Qc5 29.Qxf3 Nxe5
+30.Qxb7 Ng4 31.Qb6 Qxb6 32.Rxb6 Rxc4 33.Bf1 Rxa4 34.Rxe6 Rb4 35.b6 a4 36.Bc4 Kf8
+37.Bd5 Nf6 38.Bf3 Kf7 39.Rc6 a3 40.Rc7+ Kg6 41.Ra7 Rxb6 42.Rxa3  1/2-1/2
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.16"]
+[Round "2"]
+[White "Kawuma, Steven Male"]
+[Black "Del Rio de Angelis, Salvador Gabriel"]
+[Result "1/2-1/2"]
+[SourceFile "2004.10.16 Kawuma, Steven Male - Del Rio de Angelis, Salvador Gabriel [local Mega].pgn"]
+[Title "2004.10.16 Kawuma, Steven Male - Del Rio de Angelis, Salvador Gabriel 1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2141"]
+[BlackElo "2491"]
+[PlyCount "83"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. dxc5 Bxc5 7. Bd3 f6 8. b4 Bb6 9. b5 Na5 10. O-O f5 11. a4 Ne7 12. Nbd2 Rc8 13. Bb2 O-O 14. Rc1 Ng6 15. Re1 Bc5 16. Nb3 Nxb3 17. Qxb3 Qb6 18. Rc2 Rfd8 19. c4 d4 20. Rd2 Be8 21. g3 Nf8 22. Bf1 Bh5 23. Bg2 a5 24. Red1 Ng6 25. Bxd4 Bxd4 26. Rxd4 Rxd4 27. Rxd4 Bxf3 28. Rd6 Qc5 29. Qxf3 Nxe5 30. Qxb7 Ng4 31. Qb6 Qxb6 32. Rxb6 Rxc4 33. Bf1 Rxa4 34. Rxe6 Rb4 35. b6 a4 36. Bc4 Kf8 37. Bd5 Nf6 38. Bf3 Kf7 39. Rc6 a3 40. Rc7+ Kg6 41. Ra7 Rxb6 42. Rxa3 1/2-1/2
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.17"]
+[Round "3"]
+[Board "1"]
+[White "Mannhart, Marcel"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2004.10.17 Mannhart, Marcel - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2004.10.17 Mannhart, Marcel - Kawuma, Steven Male 1-0"]
+[ECO "A00"]
+[WhiteElo "2191"]
+[BlackElo "2141"]
+[PlyCount "139"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Liechtenstein"]
+[BlackTeam "Uganda"]
+
+1.Nc3 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Bg5 Qa5 6.Bxf6 gxf6 7.Nb3 Qd8 8.e3 Bg7
+9.Qh5 d6 10.O-O-O Ne5 11.h3 O-O 12.f4 Ng6 13.Be2 Bd7 14.h4 f5 15.Qg5 h6 16.Qg3
+Re8 17.h5 Nf8 18.Bf3 Rb8 19.Nd5 e6 20.Nc3 d5 21.Qf2 b5 22.g4 fxg4 23.Bxg4 f5
+24.Bf3 Qc7 25.Rhg1 Re7 26.Rg2 Kh8 27.Nd4 b4 28.Nce2 a5 29.Kb1 a4 30.Qh4 Rf7
+31.Qe1 Bc8 32.Qd2 Ba6 33.Nc1 Bc4 34.b3 Bb5 35.Be2 Bxe2 36.Ncxe2 Qb6 37.Nf3 Nd7
+38.Rdg1 Qc7 39.Ned4 Nc5 40.Ne5 Bxe5 41.fxe5 Ne4 42.Qd3 Ng5 43.Rxg5 hxg5 44.Nxe6
+Qxe5 45.Nxg5 Re7 46.Qa6 Rg7 47.bxa4 Qxe3 48.Qh6+ Kg8 49.Rg3 Qe1+ 50.Kb2 Qe5+
+51.Kb1 Qe1+ 52.Kb2 Qe5+ 53.Kb1 Re8 54.Qc6 Qe1+ 55.Kb2 Qe5+ 56.Kb1 f4 57.Nf3 Qe6
+58.Rxg7+ Kxg7 59.Qc7+ Qf7 60.h6+ Kf8 61.Qd6+ Kg8 62.Ng5 Re1+ 63.Kb2 Qe7 64.Qg6+
+Kh8 65.Nf7+ Qxf7 66.Qxf7 Rg1 67.Qxf4 Kh7 68.a5 Rg6 69.Qf7+ Kxh6 70.Qxg6+  1-0
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.17"]
+[Round "3"]
+[White "Mannhart, Marcel"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2004.10.17 Mannhart, Marcel - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2004.10.17 Mannhart, Marcel - Kawuma, Steven Male 1-0"]
+[ECO "A00"]
+[WhiteElo "2191"]
+[BlackElo "2141"]
+[PlyCount "139"]
+
+1. Nc3 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Bg5 Qa5 6. Bxf6 gxf6 7. Nb3 Qd8 8. e3 Bg7 9. Qh5 d6 10. O-O-O Ne5 11. h3 O-O 12. f4 Ng6 13. Be2 Bd7 14. h4 f5 15. Qg5 h6 16. Qg3 Re8 17. h5 Nf8 18. Bf3 Rb8 19. Nd5 e6 20. Nc3 d5 21. Qf2 b5 22. g4 fxg4 23. Bxg4 f5 24. Bf3 Qc7 25. Rhg1 Re7 26. Rg2 Kh8 27. Nd4 b4 28. Nce2 a5 29. Kb1 a4 30. Qh4 Rf7 31. Qe1 Bc8 32. Qd2 Ba6 33. Nc1 Bc4 34. b3 Bb5 35. Be2 Bxe2 36. Ncxe2 Qb6 37. Nf3 Nd7 38. Rdg1 Qc7 39. Ned4 Nc5 40. Ne5 Bxe5 41. fxe5 Ne4 42. Qd3 Ng5 43. Rxg5 hxg5 44. Nxe6 Qxe5 45. Nxg5 Re7 46. Qa6 Rg7 47. bxa4 Qxe3 48. Qh6+ Kg8 49. Rg3 Qe1+ 50. Kb2 Qe5+ 51. Kb1 Qe1+ 52. Kb2 Qe5+ 53. Kb1 Re8 54. Qc6 Qe1+ 55. Kb2 Qe5+ 56. Kb1 f4 57. Nf3 Qe6 58. Rxg7+ Kxg7 59. Qc7+ Qf7 60. h6+ Kf8 61. Qd6+ Kg8 62. Ng5 Re1+ 63. Kb2 Qe7 64. Qg6+ Kh8 65. Nf7+ Qxf7 66. Qxf7 Rg1 67. Qxf4 Kh7 68. a5 Rg6 69. Qf7+ Kxh6 70. Qxg6+ 1-0
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.18"]
+[Round "4"]
+[Board "1"]
+[White "Kawuma, Steven Male"]
+[Black "Gillani, Tunveer"]
+[Result "0-1"]
+[SourceFile "2004.10.18 Kawuma, Steven Male - Gillani, Tunveer [chess-results].pgn"]
+[Title "2004.10.18 Kawuma, Steven Male - Gillani, Tunveer 0-1"]
+[ECO "B00"]
+[WhiteElo "2141"]
+[BlackElo "2277"]
+[PlyCount "118"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Pakistan"]
+
+1.e4 Nc6 2.Nf3 g6 3.d4 Bg7 4.Be3 d6 5.Qd2 Nf6 6.Nc3 O-O 7.O-O-O Ng4 8.Bg5 f6
+9.Bf4 e5 10.dxe5 dxe5 11.Qe2 Qe7 12.Bd2 Be6 13.h3 Nh6 14.Nd5 Qf7 15.Be3 Rfc8
+16.Qd2 Qf8 17.Bc4 Kh8 18.g4 Nf7 19.g5 fxg5 20.h4 Nd6 21.Be2 Nxe4 22.Qe1 g4
+23.Ng5 Nxg5 24.hxg5 Nd4 25.Nf4 Nxe2+ 26.Nxe2 Bxa2 27.Rh4 Rd8 28.Rxd8 Rxd8
+29.Rxg4 Qd6 30.Ra4 Bd5 31.Rxa7 Bf3 32.Ra4 Qc6 33.Rh4 Qa6 34.Nc3 Qa1+ 35.Nb1 Rd1+
+36.Qxd1 Bxd1 37.Rb4 Bf3 38.Rb3 Qa8 39.Bc5 b6 40.Be7 Kg8 41.Rd3 Kf7 42.Bb4 Bg4
+43.f3 Bf5 44.Rc3 c5 45.Ra3 Qb7 46.Bd2 Bf8 47.Re3 Bd6 48.Nc3 Qa6 49.Kb1 Qf1+
+50.Ka2 Bxc2 51.b3 Qf2 52.Bc1 Bf5+ 53.Re2 Qxf3 54.Bb2 b5 55.Rh2 Qa8+ 56.Ba3 b4
+57.Nb5 Bf8 58.Rxh7+ Kg8 59.Ra7 Qe4  0-1
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.18"]
+[Round "4"]
+[White "Kawuma, Steven Male"]
+[Black "Gillani, Tunveer MD"]
+[Result "0-1"]
+[SourceFile "2004.10.18 Kawuma, Steven Male - Gillani, Tunveer MD [local Mega].pgn"]
+[Title "2004.10.18 Kawuma, Steven Male - Gillani, Tunveer MD 0-1"]
+[ECO "B06"]
+[WhiteElo "2141"]
+[BlackElo "2277"]
+[PlyCount "118"]
+
+1. e4 Nc6 2. Nf3 g6 3. d4 Bg7 4. Be3 d6 5. Qd2 Nf6 6. Nc3 O-O 7. O-O-O Ng4 8. Bg5 f6 9. Bf4 e5 10. dxe5 dxe5 11. Qe2 Qe7 12. Bd2 Be6 13. h3 Nh6 14. Nd5 Qf7 15. Be3 Rfc8 16. Qd2 Qf8 17. Bc4 Kh8 18. g4 Nf7 19. g5 fxg5 20. h4 Nd6 21. Be2 Nxe4 22. Qe1 g4 23. Ng5 Nxg5 24. hxg5 Nd4 25. Nf4 Nxe2+ 26. Nxe2 Bxa2 27. Rh4 Rd8 28. Rxd8 Rxd8 29. Rxg4 Qd6 30. Ra4 Bd5 31. Rxa7 Bf3 32. Ra4 Qc6 33. Rh4 Qa6 34. Nc3 Qa1+ 35. Nb1 Rd1+ 36. Qxd1 Bxd1 37. Rb4 Bf3 38. Rb3 Qa8 39. Bc5 b6 40. Be7 Kg8 41. Rd3 Kf7 42. Bb4 Bg4 43. f3 Bf5 44. Rc3 c5 45. Ra3 Qb7 46. Bd2 Bf8 47. Re3 Bd6 48. Nc3 Qa6 49. Kb1 Qf1+ 50. Ka2 Bxc2 51. b3 Qf2 52. Bc1 Bf5+ 53. Re2 Qxf3 54. Bb2 b5 55. Rh2 Qa8+ 56. Ba3 b4 57. Nb5 Bf8 58. Rxh7+ Kg8 59. Ra7 Qe4 0-1
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.20"]
+[Round "6"]
+[Board "1"]
+[White "Kawuma, Steven Male"]
+[Black "Williams, Leighton"]
+[Result "0-1"]
+[SourceFile "2004.10.20 Kawuma, Steven Male - Williams, Leighton [chess-results].pgn"]
+[Title "2004.10.20 Kawuma, Steven Male - Williams, Leighton 0-1"]
+[ECO "B07"]
+[WhiteElo "2141"]
+[BlackElo "2355"]
+[PlyCount "124"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Wales"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 Nbd7 4.Bc4 e5 5.a4 Be7 6.Nf3 O-O 7.O-O c6 8.Re1 Qc7 9.b3
+h6 10.Bb2 Nh7 11.Ne2 Bf6 12.Ng3 g6 13.Qd2 Ng5 14.Nxg5 Bxg5 15.Qd1 Re8 16.Bc1 Qd8
+17.Qf3 Qf6 18.Qxf6 Bxf6 19.Bxh6 exd4 20.Rad1 Ne5 21.Be2 c5 22.Bd2 Bd7 23.Rc1 a6
+24.f4 Nc6 25.Bd3 Kg7 26.Ne2 Rab8 27.c3 Bg4 28.h3 Bxe2 29.Rxe2 Na5 30.Bc4 b5
+31.axb5 axb5 32.Bd5 d3 33.Ree1 c4 34.bxc4 bxc4 35.Rcd1 Rb2 36.g4 Rxd2 37.Rxd2
+Bxc3 38.Red1 Bxd2 39.Rxd2 Rc8 40.Bxc4 Rxc4 41.Rxd3 Rxe4 42.Rxd6 Rxf4 43.Kg2 Nc4
+44.Rd7 Ne5 45.Ra7 g5 46.Kg3 Rf3+ 47.Kg2 Rb3 48.Ra5 f6 49.Ra7+ Kg6 50.Ra8 Nd3
+51.h4 Nf4+ 52.Kf2 gxh4 53.Rg8+ Kf7 54.Rh8 h3 55.Rh4 Nd3+ 56.Kg3 Ne5+ 57.Kf2 h2
+58.Kg2 Rb2+ 59.Kg3 Nxg4 60.Rh7+ Kg6 61.Rh4 f5 62.Rh8 Nh6  0-1
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.20"]
+[Round "6"]
+[White "Kawuma, Steven Male"]
+[Black "Williams, Leighton"]
+[Result "0-1"]
+[SourceFile "2004.10.20 Kawuma, Steven Male - Williams, Leighton [local Mega].pgn"]
+[Title "2004.10.20 Kawuma, Steven Male - Williams, Leighton 0-1"]
+[ECO "C41"]
+[WhiteElo "2141"]
+[BlackElo "2355"]
+[PlyCount "124"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. Bc4 e5 5. a4 Be7 6. Nf3 O-O 7. O-O c6 8. Re1 Qc7 9. b3 h6 10. Bb2 Nh7 11. Ne2 Bf6 12. Ng3 g6 13. Qd2 Ng5 14. Nxg5 Bxg5 15. Qd1 Re8 16. Bc1 Qd8 17. Qf3 Qf6 18. Qxf6 Bxf6 19. Bxh6 exd4 20. Rad1 Ne5 21. Be2 c5 22. Bd2 Bd7 23. Rc1 a6 24. f4 Nc6 25. Bd3 Kg7 26. Ne2 Rab8 27. c3 Bg4 28. h3 Bxe2 29. Rxe2 Na5 30. Bc4 b5 31. axb5 axb5 32. Bd5 d3 33. Ree1 c4 34. bxc4 bxc4 35. Rcd1 Rb2 36. g4 Rxd2 37. Rxd2 Bxc3 38. Red1 Bxd2 39. Rxd2 Rc8 40. Bxc4 Rxc4 41. Rxd3 Rxe4 42. Rxd6 Rxf4 43. Kg2 Nc4 44. Rd7 Ne5 45. Ra7 g5 46. Kg3 Rf3+ 47. Kg2 Rb3 48. Ra5 f6 49. Ra7+ Kg6 50. Ra8 Nd3 51. h4 Nf4+ 52. Kf2 gxh4 53. Rg8+ Kf7 54. Rh8 h3 55. Rh4 Nd3+ 56. Kg3 Ne5+ 57. Kf2 h2 58. Kg2 Rb2+ 59. Kg3 Nxg4 60. Rh7+ Kg6 61. Rh4 f5 62. Rh8 Nh6 0-1
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.23"]
+[Round "8"]
+[Board "1"]
+[White "Kawuma, Steven Male"]
+[Black "Maduro, Sherman"]
+[Result "1-0"]
+[SourceFile "2004.10.23 Kawuma, Steven Male - Maduro, Sherman [chess-results].pgn"]
+[Title "2004.10.23 Kawuma, Steven Male - Maduro, Sherman 1-0"]
+[ECO "C77"]
+[WhiteElo "2141"]
+[BlackElo "2116"]
+[PlyCount "93"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Neth. Antilles"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 Be7 7.c3 O-O 8.Nbd2 d6 9.Qe2
+Na5 10.Bc2 Re8 11.O-O h6 12.Rd1 c5 13.Nf1 Bf8 14.Ng3 g6 15.d4 cxd4 16.cxd4 Qc7
+17.d5 Bd7 18.Bd3 Nb7 19.Bd2 Rec8 20.b4 Qd8 21.h3 Bg7 22.Be3 Qe7 23.a4 Qe8
+24.Rdc1 Kh7 25.Rxc8 Rxc8 26.axb5 Bxb5 27.Bxb5 axb5 28.Ra7 Rb8 29.Qc2 Rc8 30.Qa2
+Rc7 31.Qa6 Qc8 32.Qxb5 Nd8 33.Rxc7 Qxc7 34.Qa5 Qc8 35.Qb6 Bf8 36.Kh2 Nd7 37.Qa7
+Qb7 38.Qa5 Qc8 39.Nd2 Be7 40.Qb5 Qb7 41.Qc4 Nb6 42.Qd3 Kg7 43.Nc4 Nxc4 44.Qxc4
+Qd7 45.b5 Nb7 46.Qc6 Nc5 47.Bxc5  1-0
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.23"]
+[Round "8"]
+[White "Kawuma, Steven Male"]
+[Black "Maduro, Sherman"]
+[Result "1-0"]
+[SourceFile "2004.10.23 Kawuma, Steven Male - Maduro, Sherman [local Mega].pgn"]
+[Title "2004.10.23 Kawuma, Steven Male - Maduro, Sherman 1-0"]
+[ECO "C77"]
+[WhiteElo "2141"]
+[BlackElo "2116"]
+[PlyCount "93"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. c3 O-O 8. Nbd2 d6 9. Qe2 Na5 10. Bc2 Re8 11. O-O h6 12. Rd1 c5 13. Nf1 Bf8 14. Ng3 g6 15. d4 cxd4 16. cxd4 Qc7 17. d5 Bd7 18. Bd3 Nb7 19. Bd2 Rec8 20. b4 Qd8 21. h3 Bg7 22. Be3 Qe7 23. a4 Qe8 24. Rdc1 Kh7 25. Rxc8 Rxc8 26. axb5 Bxb5 27. Bxb5 axb5 28. Ra7 Rb8 29. Qc2 Rc8 30. Qa2 Rc7 31. Qa6 Qc8 32. Qxb5 Nd8 33. Rxc7 Qxc7 34. Qa5 Qc8 35. Qb6 Bf8 36. Kh2 Nd7 37. Qa7 Qb7 38. Qa5 Qc8 39. Nd2 Be7 40. Qb5 Qb7 41. Qc4 Nb6 42. Qd3 Kg7 43. Nc4 Nxc4 44. Qxc4 Qd7 45. b5 Nb7 46. Qc6 Nc5 47. Bxc5 1-0
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.24"]
+[Round "9"]
+[Board "1"]
+[White "Olape, Bunmi"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2004.10.24 Olape, Bunmi - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2004.10.24 Olape, Bunmi - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2304"]
+[BlackElo "2141"]
+[PlyCount "89"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Nigeria"]
+[BlackTeam "Uganda"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Bxf6 gxf6
+9.Na3 b5 10.Nd5 f5 11.Bd3 Be6 12.c3 Bxd5 13.exd5 Ne7 14.Nc2 Bg7 15.a4 O-O
+16.axb5 axb5 17.Nb4 Qb6 18.Rxa8 Rxa8 19.O-O Qc5 20.Bc2 e4 21.Kh1 Re8 22.Qd2 Ng6
+23.Re1 Be5 24.g3 Bf6 25.Nc6 Ne5 26.Nxe5 Rxe5 27.Bb3 Kg7 28.Kg2 h6 29.h4 Re7
+30.Qf4 b4 31.Qxf5 bxc3 32.bxc3 Qxc3 33.Re3 Qe5 34.Qg4+ Kf8 35.Qc8+ Re8 36.Qg4
+Re7 37.Re2 h5 38.Qc8+ Re8 39.Qc1 Qf5 40.Qh6+ Kg8 41.Qe3 Bd4 42.Qg5+ Qxg5 43.hxg5
+Re5 44.Bc2 Rxg5 45.Rxe4  1/2-1/2
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.24"]
+[Round "9"]
+[White "Olape, Bunmi"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2004.10.24 Olape, Bunmi - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2004.10.24 Olape, Bunmi - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2304"]
+[BlackElo "2141"]
+[PlyCount "89"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. Bd3 Be6 12. c3 Bxd5 13. exd5 Ne7 14. Nc2 Bg7 15. a4 O-O 16. axb5 axb5 17. Nb4 Qb6 18. Rxa8 Rxa8 19. O-O Qc5 20. Bc2 e4 21. Kh1 Re8 22. Qd2 Ng6 23. Re1 Be5 24. g3 Bf6 25. Nc6 Ne5 26. Nxe5 Rxe5 27. Bb3 Kg7 28. Kg2 h6 29. h4 Re7 30. Qf4 b4 31. Qxf5 bxc3 32. bxc3 Qxc3 33. Re3 Qe5 34. Qg4+ Kf8 35. Qc8+ Re8 36. Qg4 Re7 37. Re2 h5 38. Qc8+ Re8 39. Qc1 Qf5 40. Qh6+ Kg8 41. Qe3 Bd4 42. Qg5+ Qxg5 43. hxg5 Re5 44. Bc2 Rxg5 45. Rxe4 1/2-1/2
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.25"]
+[Round "10"]
+[Board "1"]
+[White "Kawuma, Steven Male"]
+[Black "Matthews, Shane"]
+[Result "0-1"]
+[SourceFile "2004.10.25 Kawuma, Steven Male - Matthews, Shane [chess-results].pgn"]
+[Title "2004.10.25 Kawuma, Steven Male - Matthews, Shane 0-1"]
+[ECO "B43"]
+[WhiteElo "2141"]
+[BlackElo "2251"]
+[PlyCount "122"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Jamaica"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 b5 6.a3 Bb7 7.g3 d6 8.Bg2 Nd7 9.O-O
+Ngf6 10.f4 Rc8 11.Be3 Qc7 12.Qe2 Be7 13.Rae1 O-O 14.Kh1 Rfd8 15.Bg1 Qc4 16.Qf2
+Nc5 17.h3 d5 18.e5 Nfe4 19.Nxe4 Nxe4 20.Qe3 a5 21.h4 b4 22.axb4 axb4 23.f5 Bc5
+24.fxe6 fxe6 25.Rd1 Bxd4 26.Rxd4 Qxc2 27.Rfd1 Rf8 28.Bh3 Rce8 29.Bg2 Nf2+
+30.Bxf2 Rxf2 31.R1d2 Rxd2 32.Rxd2 Qc1+ 33.Kh2 Rf8 34.Qd4 b3 35.Bh3 Bc8 36.Bg2 h6
+37.Re2 Ba6 38.Rd2 Bf1 39.Bh1 Qb1 40.Qb6 Qf5 41.Qe3 Qh3+ 42.Kg1 Bc4 43.Bg2 Qf5
+44.Qd4 Qg6 45.Kh2 Bf1 46.Bh1 Qf5 47.Qe3 Bc4 48.Bg2 Kh8 49.Kg1 Qb1+ 50.Kh2 Qc1
+51.Qd4 Rf5 52.Rd1 Qc2 53.Rd2 Qb1 54.Bh3 Rf3 55.Bg2 Rd3 56.Rxd3 Bxd3 57.Qc5 Qxb2
+58.Qc8+ Kh7 59.Qxe6 Be4 60.Kh3 Bxg2+ 61.Kh2 Bf3+  0-1
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.25"]
+[Round "10"]
+[White "Kawuma, Steven Male"]
+[Black "Matthews, Shane"]
+[Result "0-1"]
+[SourceFile "2004.10.25 Kawuma, Steven Male - Matthews, Shane [local Mega].pgn"]
+[Title "2004.10.25 Kawuma, Steven Male - Matthews, Shane 0-1"]
+[ECO "B43"]
+[WhiteElo "2141"]
+[BlackElo "2251"]
+[PlyCount "122"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. a3 Bb7 7. g3 d6 8. Bg2 Nd7 9. O-O Ngf6 10. f4 Rc8 11. Be3 Qc7 12. Qe2 Be7 13. Rae1 O-O 14. Kh1 Rfd8 15. Bg1 Qc4 16. Qf2 Nc5 17. h3 d5 18. e5 Nfe4 19. Nxe4 Nxe4 20. Qe3 a5 21. h4 b4 22. axb4 axb4 23. f5 Bc5 24. fxe6 fxe6 25. Rd1 Bxd4 26. Rxd4 Qxc2 27. Rfd1 Rf8 28. Bh3 Rce8 29. Bg2 Nf2+ 30. Bxf2 Rxf2 31. R1d2 Rxd2 32. Rxd2 Qc1+ 33. Kh2 Rf8 34. Qd4 b3 35. Bh3 Bc8 36. Bg2 h6 37. Re2 Ba6 38. Rd2 Bf1 39. Bh1 Qb1 40. Qb6 Qf5 41. Qe3 Qh3+ 42. Kg1 Bc4 43. Bg2 Qf5 44. Qd4 Qg6 45. Kh2 Bf1 46. Bh1 Qf5 47. Qe3 Bc4 48. Bg2 Kh8 49. Kg1 Qb1+ 50. Kh2 Qc1 51. Qd4 Rf5 52. Rd1 Qc2 53. Rd2 Qb1 54. Bh3 Rf3 55. Bg2 Rd3 56. Rxd3 Bxd3 57. Qc5 Qxb2 58. Qc8+ Kh7 59. Qxe6 Be4 60. Kh3 Bxg2+ 61. Kh2 Bf3+ 0-1
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.26"]
+[Round "11"]
+[Board "1"]
+[White "Van Hoolandt, Patrick"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2004.10.26 Van Hoolandt, Patrick - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2004.10.26 Van Hoolandt, Patrick - Kawuma, Steven Male 0-1"]
+[ECO "A26"]
+[WhiteElo "2269"]
+[BlackElo "2141"]
+[PlyCount "144"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Monaco"]
+[BlackTeam "Uganda"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.d3 Nf6 6.Nf3 O-O 7.O-O d6 8.Rb1 Nh5 9.b4
+f5 10.Bg5 Qd7 11.b5 Ne7 12.Nd2 h6 13.Bxe7 Qxe7 14.a4 Rb8 15.Nd5 Qf7 16.a5 Nf6
+17.Qb3 Be6 18.Nb4 e4 19.a6 c5 20.bxc6 bxc6 21.Qc2 Rb6 22.dxe4 c5 23.Nd5 Rxa6
+24.exf5 Bxf5 25.e4 Be6 26.Rb3 Nxd5 27.cxd5 Bg4 28.f3 Bc8 29.Nc4 Qf6 30.f4 Ra1
+31.e5 Rxf1+ 32.Bxf1 dxe5 33.Nxe5 Qd6 34.Qxg6 Qxg6 35.Nxg6 Bd4+ 36.Kg2 Re8 37.d6
+Be6 38.Ne7+ Kf8 39.Rb7 Rd8 40.f5 Bf7 41.Ng6+ Bxg6 42.fxg6 Rxd6 43.Rf7+ Kg8
+44.Bd3 Bg7 45.Be4 Re6 46.Bb1 Rb6 47.Bd3 Rd6 48.Rf3 Rd4 49.Bf5 c4 50.Be6+ Kh8
+51.Ra3 c3 52.Rxa7 Rd8 53.Rc7 Re8 54.Bf5 Rf8 55.g4 Re8 56.Kf3 Kg8 57.Bd3 Rf8+
+58.Ke2 Re8+ 59.Kd1 Rd8 60.Kc2 Rf8 61.Bc4+ Kh8 62.Kd3 Rd8+ 63.Ke4 Rf8 64.Be6 Re8
+65.Kf5 Rf8+ 66.Bf7 Rb8 67.g5 hxg5 68.Kxg5 Be5 69.Be6 Bxc7 70.Bf5 Kg7 71.h4 Bd8+
+72.Kg4 Rb2  0-1
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.26"]
+[Round "11"]
+[White "Van Hoolandt, Patrick"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2004.10.26 Van Hoolandt, Patrick - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2004.10.26 Van Hoolandt, Patrick - Kawuma, Steven Male 0-1"]
+[ECO "A26"]
+[WhiteElo "2269"]
+[BlackElo "2141"]
+[PlyCount "144"]
+
+1. c4 e5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. d3 Nf6 6. Nf3 O-O 7. O-O d6 8. Rb1 Nh5 9. b4 f5 10. Bg5 Qd7 11. b5 Ne7 12. Nd2 h6 13. Bxe7 Qxe7 14. a4 Rb8 15. Nd5 Qf7 16. a5 Nf6 17. Qb3 Be6 18. Nb4 e4 19. a6 c5 20. bxc6 bxc6 21. Qc2 Rb6 22. dxe4 c5 23. Nd5 Rxa6 24. exf5 Bxf5 25. e4 Be6 26. Rb3 Nxd5 27. cxd5 Bg4 28. f3 Bc8 29. Nc4 Qf6 30. f4 Ra1 31. e5 Rxf1+ 32. Bxf1 dxe5 33. Nxe5 Qd6 34. Qxg6 Qxg6 35. Nxg6 Bd4+ 36. Kg2 Re8 37. d6 Be6 38. Ne7+ Kf8 39. Rb7 Rd8 40. f5 Bf7 41. Ng6+ Bxg6 42. fxg6 Rxd6 43. Rf7+ Kg8 44. Bd3 Bg7 45. Be4 Re6 46. Bb1 Rb6 47. Bd3 Rd6 48. Rf3 Rd4 49. Bf5 c4 50. Be6+ Kh8 51. Ra3 c3 52. Rxa7 Rd8 53. Rc7 Re8 54. Bf5 Rf8 55. g4 Re8 56. Kf3 Kg8 57. Bd3 Rf8+ 58. Ke2 Re8+ 59. Kd1 Rd8 60. Kc2 Rf8 61. Bc4+ Kh8 62. Kd3 Rd8+ 63. Ke4 Rf8 64. Be6 Re8 65. Kf5 Rf8+ 66. Bf7 Rb8 67. g5 hxg5 68. Kxg5 Be5 69. Be6 Bxc7 70. Bf5 Kg7 71. h4 Bd8+ 72. Kg4 Rb2 0-1
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.27"]
+[Round "12"]
+[Board "1"]
+[White "Kawuma, Steven Male"]
+[Black "Papatryfonos, Constantinos"]
+[Result "1/2-1/2"]
+[SourceFile "2004.10.27 Kawuma, Steven Male - Papatryfonos, Constantinos [chess-results].pgn"]
+[Title "2004.10.27 Kawuma, Steven Male - Papatryfonos, Constantinos 1/2-1/2"]
+[ECO "C70"]
+[WhiteElo "2141"]
+[BlackElo "2123"]
+[PlyCount "109"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Cyprus"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nge7 5.d3 g6 6.c3 Bg7 7.Nbd2 O-O 8.Qe2 d5 9.Nf1
+d4 10.Bd2 h6 11.Ng3 Be6 12.c4 Rb8 13.O-O f6 14.Rfc1 Qe8 15.b4 Nc8 16.Rab1 Nb6
+17.Bb3 Ne7 18.Qd1 Nd7 19.c5 Qf7 20.a4 Rfc8 21.Be1 Nf8 22.Nd2 Bxb3 23.Qxb3 Qxb3
+24.Rxb3 Ne6 25.Nc4 Bf8 26.Bd2 Kf7 27.Ne2 h5 28.f4 exf4 29.Nxf4 Nc6 30.Rf1 Nxf4
+31.Bxf4 Ke6 32.Bg3 Ne5 33.Nxe5 fxe5 34.Rb2 Be7 35.h3 b6 36.c6 b5 37.a5 Rf8 38.h4
+g5 39.hxg5 Bxg5 40.Rc2 Be3+ 41.Bf2 Rxf2 42.Rfxf2 Rf8 43.Kf1 Bxf2 44.Rxf2 Rxf2+
+45.Kxf2 Kf6 46.Kf3 Kg5 47.Kg3 h4+ 48.Kh3 Kh5 49.g3 hxg3 50.Kxg3 Kg5 51.Kf3 Kh4
+52.Kf2 Kg4 53.Kg2 Kg5 54.Kg3 Kh5 55.Kh3  1/2-1/2
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.27"]
+[Round "12"]
+[White "Kawuma, Steven Male"]
+[Black "Papatryfonos, Constantinos"]
+[Result "1/2-1/2"]
+[SourceFile "2004.10.27 Kawuma, Steven Male - Papatryfonos, Constantinos [local Mega].pgn"]
+[Title "2004.10.27 Kawuma, Steven Male - Papatryfonos, Constantinos 1/2-1/2"]
+[ECO "C70"]
+[WhiteElo "2141"]
+[BlackElo "2123"]
+[PlyCount "109"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. d3 g6 6. c3 Bg7 7. Nbd2 O-O 8. Qe2 d5 9. Nf1 d4 10. Bd2 h6 11. Ng3 Be6 12. c4 Rb8 13. O-O f6 14. Rfc1 Qe8 15. b4 Nc8 16. Rab1 Nb6 17. Bb3 Ne7 18. Qd1 Nd7 19. c5 Qf7 20. a4 Rfc8 21. Be1 Nf8 22. Nd2 Bxb3 23. Qxb3 Qxb3 24. Rxb3 Ne6 25. Nc4 Bf8 26. Bd2 Kf7 27. Ne2 h5 28. f4 exf4 29. Nxf4 Nc6 30. Rf1 Nxf4 31. Bxf4 Ke6 32. Bg3 Ne5 33. Nxe5 fxe5 34. Rb2 Be7 35. h3 b6 36. c6 b5 37. a5 Rf8 38. h4 g5 39. hxg5 Bxg5 40. Rc2 Be3+ 41. Bf2 Rxf2 42. Rfxf2 Rf8 43. Kf1 Bxf2 44. Rxf2 Rxf2+ 45. Kxf2 Kf6 46. Kf3 Kg5 47. Kg3 h4+ 48. Kh3 Kh5 49. g3 hxg3 50. Kxg3 Kg5 51. Kf3 Kh4 52. Kf2 Kg4 53. Kg2 Kg5 54. Kg3 Kh5 55. Kh3 1/2-1/2
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.28"]
+[Round "13"]
+[Board "1"]
+[White "Krylov, Sergey"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2004.10.28 Krylov, Sergey - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2004.10.28 Krylov, Sergey - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2407"]
+[BlackElo "2141"]
+[PlyCount "108"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "IBCA"]
+[BlackTeam "Uganda"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Rb8 13.Be2 Bg5 14.O-O a5 15.a3 Ne7
+16.Nce3 Be6 17.Qd3 Nxd5 18.Nxd5 Qd7 19.Rfd1 Kh8 20.Qg3 Bd8 21.h3 g6 22.Qd3 f5
+23.Bf3 Qf7 24.Qe2 Bh4 25.Rd2 Bg5 26.Rd3 Bh4 27.Rf1 Bd8 28.b4 axb4 29.cxb4 Bg5
+30.Rfd1 Rfc8 31.Ne3 Be7 32.exf5 gxf5 33.Bd5 Rg8 34.Bxe6 Qxe6 35.Rd5 f4 36.Ng4
+Rg5 37.Kh1 Rbg8 38.Rxb5 h5 39.Nh2 Qg6 40.Qf3 Rxg2 41.Ng4 Rxg4 42.hxg4 hxg4
+43.Qg2 Kg7 44.Qb7 Kf6 45.Rb6 Qh7+ 46.Kg1 Rh8 47.Rbxd6+ Bxd6 48.Rxd6+ Kf5
+49.Qxh7+ Rxh7 50.b5 Rc7 51.Rd1 Rc3 52.Ra1 Rb3 53.a4 Rb4 54.Kg2 Rb2  1/2-1/2
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.28"]
+[Round "13"]
+[White "Krylov, Sergey"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2004.10.28 Krylov, Sergey - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2004.10.28 Krylov, Sergey - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2407"]
+[BlackElo "2141"]
+[PlyCount "108"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. Be2 Bg5 14. O-O a5 15. a3 Ne7 16. Nce3 Be6 17. Qd3 Nxd5 18. Nxd5 Qd7 19. Rfd1 Kh8 20. Qg3 Bd8 21. h3 g6 22. Qd3 f5 23. Bf3 Qf7 24. Qe2 Bh4 25. Rd2 Bg5 26. Rd3 Bh4 27. Rf1 Bd8 28. b4 axb4 29. cxb4 Bg5 30. Rfd1 Rfc8 31. Ne3 Be7 32. exf5 gxf5 33. Bd5 Rg8 34. Bxe6 Qxe6 35. Rd5 f4 36. Ng4 Rg5 37. Kh1 Rbg8 38. Rxb5 h5 39. Nh2 Qg6 40. Qf3 Rxg2 41. Ng4 Rxg4 42. hxg4 hxg4 43. Qg2 Kg7 44. Qb7 Kf6 45. Rb6 Qh7+ 46. Kg1 Rh8 47. Rbxd6+ Bxd6 48. Rxd6+ Kf5 49. Qxh7+ Rxh7 50. b5 Rc7 51. Rd1 Rc3 52. Ra1 Rb3 53. a4 Rb4 54. Kg2 Rb2 1/2-1/2
+
+
+[Event "36th Chess Olympiad 2004"]
+[Site "Calvia, Mallorca (Spain)"]
+[Date "2004.10.29"]
+[Round "14"]
+[Board "1"]
+[White "Kawuma, Steven Male"]
+[Black "Bibby, Simon"]
+[Result "0-1"]
+[SourceFile "2004.10.29 Kawuma, Steven Male - Bibby, Simon [chess-results].pgn"]
+[Title "2004.10.29 Kawuma, Steven Male - Bibby, Simon 0-1"]
+[ECO "C02"]
+[WhiteElo "2141"]
+[BlackElo "2229"]
+[PlyCount "134"]
+[EventDate "2004.10.14"]
+[EventType "team"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Japan"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.cxd4 Bd7 8.O-O Nxd4
+9.Nxd4 Qxd4 10.Nc3 a6 11.Re1 Ne7 12.Qf3 Ng6 13.Bxg6 hxg6 14.Bf4 Be7 15.Bg3 Rc8
+16.Kh1 b5 17.Rad1 Qb4 18.Re2 Bc6 19.Qf4 Qxf4 20.Bxf4 b4 21.Nb1 Bb5 22.Red2 Kd7
+23.Be3 g5 24.g3 g4 25.Kg2 Rh5 26.Bf4 Rch8 27.h4 gxh3+ 28.Kh2 Rc8 29.g4 Rhh8
+30.a3 a5 31.Be3 Rc6 32.f3 f6 33.Bd4 fxe5 34.Bxe5 Bd6 35.f4 Ba4 36.Rf1 Rc4
+37.Rdf2 Bxe5 38.fxe5 Rxg4 39.Nd2 Rg2+ 40.Rxg2 hxg2+ 41.Kxg2 bxa3 42.bxa3 Rh5
+43.Nf3 Bc2 44.Kg3 Rf5 45.Rc1 Be4 46.Nd4 Rxe5 47.Nc6 Rf5 48.Nxa5 Rf3+ 49.Kg4 Rxa3
+50.Nb7 Bf5+ 51.Kf4 Ra4+ 52.Kf3 Rc4 53.Rg1 g6 54.Ra1 Rc7 55.Na5 e5 56.Ke3 d4+
+57.Kd2 Ra7 58.Ke2 Ke6 59.Kd2 Kd5 60.Ke2 g5 61.Kd2 Bg6 62.Ke2 Bh5+ 63.Kd2 Bf3
+64.Rf1 Rxa5 65.Rxf3 Ra2+ 66.Kc1 Rg2 67.Rf1 g4  0-1
+
+
+[Event "Olympiad-36"]
+[Site "Mallorca"]
+[Date "2004.10.29"]
+[Round "14"]
+[White "Kawuma, Steven Male"]
+[Black "Bibby, Simon"]
+[Result "0-1"]
+[SourceFile "2004.10.29 Kawuma, Steven Male - Bibby, Simon [local Mega].pgn"]
+[Title "2004.10.29 Kawuma, Steven Male - Bibby, Simon 0-1"]
+[ECO "C02"]
+[WhiteElo "2141"]
+[BlackElo "2229"]
+[PlyCount "134"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. cxd4 Bd7 8. O-O Nxd4 9. Nxd4 Qxd4 10. Nc3 a6 11. Re1 Ne7 12. Qf3 Ng6 13. Bxg6 hxg6 14. Bf4 Be7 15. Bg3 Rc8 16. Kh1 b5 17. Rad1 Qb4 18. Re2 Bc6 19. Qf4 Qxf4 20. Bxf4 b4 21. Nb1 Bb5 22. Red2 Kd7 23. Be3 g5 24. g3 g4 25. Kg2 Rh5 26. Bf4 Rch8 27. h4 gxh3+ 28. Kh2 Rc8 29. g4 Rhh8 30. a3 a5 31. Be3 Rc6 32. f3 f6 33. Bd4 fxe5 34. Bxe5 Bd6 35. f4 Ba4 36. Rf1 Rc4 37. Rdf2 Bxe5 38. fxe5 Rxg4 39. Nd2 Rg2+ 40. Rxg2 hxg2+ 41. Kxg2 bxa3 42. bxa3 Rh5 43. Nf3 Bc2 44. Kg3 Rf5 45. Rc1 Be4 46. Nd4 Rxe5 47. Nc6 Rf5 48. Nxa5 Rf3+ 49. Kg4 Rxa3 50. Nb7 Bf5+ 51. Kf4 Ra4+ 52. Kf3 Rc4 53. Rg1 g6 54. Ra1 Rc7 55. Na5 e5 56. Ke3 d4+ 57. Kd2 Ra7 58. Ke2 Ke6 59. Kd2 Kd5 60. Ke2 g5 61. Kd2 Bg6 62. Ke2 Bh5+ 63. Kd2 Bf3 64. Rf1 Rxa5 65. Rxf3 Ra2+ 66. Kc1 Rg2 67. Rf1 g4 0-1
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.21"]
+[Round "1"]
+[Board "1"]
+[White "Kawuma, Steven"]
+[Black "Miezis, Normunds"]
+[Result "0-1"]
+[SourceFile "2006.05.21 Kawuma, Steven - Miezis, Normunds [chess-results].pgn"]
+[Title "2006.05.21 Kawuma, Steven - Miezis, Normunds 0-1"]
+[ECO ""]
+[WhiteElo "2157"]
+[BlackElo "2496"]
+[PlyCount "104"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Latvia"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.g3 Nf6 6.Bg2 Nc6 7.O-O Qc7 8.Nc3 Bc5
+9.Nb3 Ba7 10.Qe2 Ne5 11.Be3 Bxe3 12.Qxe3 Nc4 13.Qc5 Qxc5 14.Nxc5 d6 15.e5 Nxe5
+16.Nxb7 Bxb7 17.Bxb7 Ra7 18.Bg2 Ke7 19.Rfe1 Rc7 20.Re2 Rhc8 21.f4 Nc4 22.Na4 Na5
+23.c3 g6 24.Rd1 Rd8 25.h3 h5 26.Rd4 d5 27.Kf2 Kf8 28.Bf3 Nc6 29.Rd1 Ne7 30.g4
+hxg4 31.hxg4 Kg7 32.Kg3 g5 33.fxg5 Nh7 34.Be4 Nxg5 35.Bd3 Rh8 36.b4 Rh3+ 37.Kg2
+Ng6 38.Bxg6 Kxg6 39.Rc2 Rc4 40.Rd4 Rxd4 41.cxd4 Rd3 42.Nc5 Rxd4 43.Nxa6 Rxg4+
+44.Kf1 d4 45.b5 Rf4+ 46.Ke1 Nf3+ 47.Ke2 Ne5 48.Ke1 d3 49.Rg2+ Kf5 50.b6 Nf3+
+51.Kf2 d2 52.Rg1 Nxg1+  0-1
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.05.21"]
+[Round "1"]
+[White "Kawuma, Steven Male"]
+[Black "Miezis, Normunds"]
+[Result "0-1"]
+[SourceFile "2006.05.21 Kawuma, Steven Male - Miezis, Normunds [local Mega].pgn"]
+[Title "2006.05.21 Kawuma, Steven Male - Miezis, Normunds 0-1"]
+[ECO "B47"]
+[WhiteElo "2157"]
+[BlackElo "2496"]
+[PlyCount "104"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. g3 Nf6 6. Bg2 Nc6 7. O-O Qc7 8. Nc3 Bc5 9. Nb3 Ba7 10. Qe2 Ne5 11. Be3 Bxe3 12. Qxe3 Nc4 13. Qc5 Qxc5 14. Nxc5 d6 15. e5 Nxe5 16. Nxb7 Bxb7 17. Bxb7 Ra7 18. Bg2 Ke7 19. Rfe1 Rc7 20. Re2 Rhc8 21. f4 Nc4 22. Na4 Na5 23. c3 g6 24. Rd1 Rd8 25. h3 h5 26. Rd4 d5 27. Kf2 Kf8 28. Bf3 Nc6 29. Rd1 Ne7 30. g4 hxg4 31. hxg4 Kg7 32. Kg3 g5 33. fxg5 Nh7 34. Be4 Nxg5 35. Bd3 Rh8 36. b4 Rh3+ 37. Kg2 Ng6 38. Bxg6 Kxg6 39. Rc2 Rc4 40. Rd4 Rxd4 41. cxd4 Rd3 42. Nc5 Rxd4 43. Nxa6 Rxg4+ 44. Kf1 d4 45. b5 Rf4+ 46. Ke1 Nf3+ 47. Ke2 Ne5 48. Ke1 d3 49. Rg2+ Kf5 50. b6 Nf3+ 51. Kf2 d2 52. Rg1 Nxg1+ 0-1
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.22"]
+[Round "2"]
+[Board "1"]
+[White "Yueh, Wei Po"]
+[Black "Kawuma, Steven"]
+[Result "1/2-1/2"]
+[SourceFile "2006.05.22 Yueh, Wei Po - Kawuma, Steven [chess-results].pgn"]
+[Title "2006.05.22 Yueh, Wei Po - Kawuma, Steven 1/2-1/2"]
+[ECO ""]
+[WhiteElo "2088"]
+[BlackElo "2157"]
+[PlyCount "47"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Chinese Taipei"]
+[BlackTeam "Uganda"]
+
+1.d4 Nf6 2.c4 c5 3.d5 d6 4.Nc3 e5 5.e4 g6 6.Be2 Bg7 7.Nf3 O-O 8.O-O h6 9.a3 Nh7
+10.b4 b6 11.Ne1 f5 12.f3 f4 13.Nd3 g5 14.Rb1 h5 15.bxc5 bxc5 16.Bd2 Nd7 17.h3
+Ndf6 18.Nf2 Ne8 19.Qa4 Rf6 20.Rb2 Bd7 21.Qa6 Rg6 22.Rfb1 Bf8 23.Nb5 g4 24.hxg4  1/2-1/2
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.05.22"]
+[Round "2"]
+[White "Yueh, Wei Po"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2006.05.22 Yueh, Wei Po - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2006.05.22 Yueh, Wei Po - Kawuma, Steven Male 1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "2088"]
+[BlackElo "2157"]
+[PlyCount "47"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 e5 5. e4 g6 6. Be2 Bg7 7. Nf3 O-O 8. O-O h6 9. a3 Nh7 10. b4 b6 11. Ne1 f5 12. f3 f4 13. Nd3 g5 14. Rb1 h5 15. bxc5 bxc5 16. Bd2 Nd7 17. h3 Ndf6 18. Nf2 Ne8 19. Qa4 Rf6 20. Rb2 Bd7 21. Qa6 Rg6 22. Rfb1 Bf8 23. Nb5 g4 24. hxg4 1/2-1/2
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.23"]
+[Round "3"]
+[Board "1"]
+[White "Hamad, Ahmad"]
+[Black "Kawuma, Steven"]
+[Result "1-0"]
+[SourceFile "2006.05.23 Hamad, Ahmad - Kawuma, Steven [chess-results].pgn"]
+[Title "2006.05.23 Hamad, Ahmad - Kawuma, Steven 1-0"]
+[ECO ""]
+[WhiteElo "2286"]
+[BlackElo "2157"]
+[PlyCount "89"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Syria"]
+[BlackTeam "Uganda"]
+
+1.d4 Nf6 2.Nc3 c5 3.dxc5 Qa5 4.Bd2 Qxc5 5.e4 a6 6.Be3 Qa5 7.f3 e6 8.a3 Be7 9.Bd3
+d6 10.f4 Nc6 11.b4 Qc7 12.Na4 Nd7 13.c4 Bh4+ 14.g3 Bf6 15.Rc1 Bd4 16.Qd2 b6
+17.Nf3 Bxe3 18.Qxe3 O-O 19.O-O Bb7 20.Rfd1 Rab8 21.Nc3 Ne7 22.Bb1 Rfd8 23.Nd5
+exd5 24.cxd5 Nc5 25.bxc5 bxc5 26.Ba2 Bc8 27.Rd2 Bg4 28.Kg2 Qd7 29.Ng1 Qa4 30.h3
+Bd7 31.Nf3 Rb6 32.g4 h5 33.Kg3 Re8 34.Rc4 Qb5 35.Qc3 Bc8 36.e5 hxg4 37.hxg4 Qd7
+38.e6 fxe6 39.dxe6 Qc7 40.Ng5 Rf8 41.Qd3 g6 42.Qe3 Nc6 43.e7 Re8 44.Rxc5+ Kg7
+45.Qc3+  1-0
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.05.23"]
+[Round "3"]
+[White "Hamad, Ahmad"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2006.05.23 Hamad, Ahmad - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2006.05.23 Hamad, Ahmad - Kawuma, Steven Male 1-0"]
+[ECO "A45"]
+[WhiteElo "2286"]
+[BlackElo "2157"]
+[PlyCount "89"]
+
+1. d4 Nf6 2. Nc3 c5 3. dxc5 Qa5 4. Bd2 Qxc5 5. e4 a6 6. Be3 Qa5 7. f3 e6 8. a3 Be7 9. Bd3 d6 10. f4 Nc6 11. b4 Qc7 12. Na4 Nd7 13. c4 Bh4+ 14. g3 Bf6 15. Rc1 Bd4 16. Qd2 b6 17. Nf3 Bxe3 18. Qxe3 O-O 19. O-O Bb7 20. Rfd1 Rab8 21. Nc3 Ne7 22. Bb1 Rfd8 23. Nd5 exd5 24. cxd5 Nc5 25. bxc5 bxc5 26. Ba2 Bc8 27. Rd2 Bg4 28. Kg2 Qd7 29. Ng1 Qa4 30. h3 Bd7 31. Nf3 Rb6 32. g4 h5 33. Kg3 Re8 34. Rc4 Qb5 35. Qc3 Bc8 36. e5 hxg4 37. hxg4 Qd7 38. e6 fxe6 39. dxe6 Qc7 40. Ng5 Rf8 41. Qd3 g6 42. Qe3 Nc6 43. e7 Re8 44. Rxc5+ Kg7 45. Qc3+ 1-0
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.24"]
+[Round "4"]
+[Board "1"]
+[White "Kawuma, Steven"]
+[Black "Mas, Hafizulhelmi"]
+[Result "0-1"]
+[SourceFile "2006.05.24 Kawuma, Steven - Mas, Hafizulhelmi [chess-results].pgn"]
+[Title "2006.05.24 Kawuma, Steven - Mas, Hafizulhelmi 0-1"]
+[ECO ""]
+[WhiteElo "2157"]
+[BlackElo "2412"]
+[PlyCount "60"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Malaysia"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3 Nbd7 8.f4 Nc5 9.e5
+Nfd7 10.exd6 Nf6 11.Be3 Bxd6 12.Qe2 Qc7 13.Rf1 O-O 14.O-O-O b5 15.g4 b4 16.g5
+bxc3 17.gxf6 cxb2+ 18.Kxb2 g6 19.Qg2 Bb7 20.Qh3 Ne4 21.Qh6 Nxf6 22.Rg1 Rfe8
+23.f5 Bf8 24.Qh4 Nd5 25.Bxd5 Bxd5 26.f6 Rec8 27.Qf2 Qc3+ 28.Kb1 Be4 29.Bf4 Ba3
+30.Bc1 Rab8+  0-1
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.05.24"]
+[Round "4"]
+[White "Kawuma, Steven Male"]
+[Black "Mas, Hafizulhelmi"]
+[Result "0-1"]
+[SourceFile "2006.05.24 Kawuma, Steven Male - Mas, Hafizulhelmi [local Mega].pgn"]
+[Title "2006.05.24 Kawuma, Steven Male - Mas, Hafizulhelmi 0-1"]
+[ECO "B86"]
+[WhiteElo "2157"]
+[BlackElo "2412"]
+[PlyCount "60"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8. f4 Nc5 9. e5 Nfd7 10. exd6 Nf6 11. Be3 Bxd6 12. Qe2 Qc7 13. Rf1 O-O 14. O-O-O b5 15. g4 b4 16. g5 bxc3 17. gxf6 cxb2+ 18. Kxb2 g6 19. Qg2 Bb7 20. Qh3 Ne4 21. Qh6 Nxf6 22. Rg1 Rfe8 23. f5 Bf8 24. Qh4 Nd5 25. Bxd5 Bxd5 26. f6 Rec8 27. Qf2 Qc3+ 28. Kb1 Be4 29. Bf4 Ba3 30. Bc1 Rab8+ 0-1
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.25"]
+[Round "5"]
+[Board "1"]
+[White "Jere, Daniel"]
+[Black "Kawuma, Steven"]
+[Result "1-0"]
+[SourceFile "2006.05.25 Jere, Daniel - Kawuma, Steven [chess-results].pgn"]
+[Title "2006.05.25 Jere, Daniel - Kawuma, Steven 1-0"]
+[ECO ""]
+[WhiteElo "2221"]
+[BlackElo "2157"]
+[PlyCount "67"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Zambia"]
+[BlackTeam "Uganda"]
+
+1.Nf3 Nf6 2.g3 c5 3.c4 Nc6 4.Bg2 g6 5.Nc3 Bg7 6.O-O b6 7.e3 Bb7 8.d4 O-O 9.d5
+Na5 10.Nd2 d6 11.Rb1 Ne8 12.Qc2 Qd7 13.b3 Nc7 14.Bb2 Rfc8 15.Nce4 Bxb2 16.Qxb2
+Ba6 17.h4 b5 18.Qc3 Nb7 19.h5 Qf5 20.hxg6 hxg6 21.f4 Qh5 22.Kf2 Qh8 23.Qc2 f6
+24.Rh1 Qg7 25.Nf3 Kf7 26.Rh7 Qxh7 27.Neg5+ fxg5 28.Nxg5+ Kg8 29.Nxh7 Kxh7
+30.Rh1+ Kg7 31.Qc3+ Kf7 32.Rh7+ Ke8 33.Qh8+ Kd7 34.Bh3+  1-0
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.05.25"]
+[Round "5"]
+[White "Jere, Daniel"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2006.05.25 Jere, Daniel - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2006.05.25 Jere, Daniel - Kawuma, Steven Male 1-0"]
+[ECO "A30"]
+[WhiteElo "2221"]
+[BlackElo "2157"]
+[PlyCount "67"]
+
+1. Nf3 Nf6 2. g3 c5 3. c4 Nc6 4. Bg2 g6 5. Nc3 Bg7 6. O-O b6 7. e3 Bb7 8. d4 O-O 9. d5 Na5 10. Nd2 d6 11. Rb1 Ne8 12. Qc2 Qd7 13. b3 Nc7 14. Bb2 Rfc8 15. Nce4 Bxb2 16. Qxb2 Ba6 17. h4 b5 18. Qc3 Nb7 19. h5 Qf5 20. hxg6 hxg6 21. f4 Qh5 22. Kf2 Qh8 23. Qc2 f6 24. Rh1 Qg7 25. Nf3 Kf7 26. Rh7 Qxh7 27. Neg5+ fxg5 28. Nxg5+ Kg8 29. Nxh7 Kxh7 30. Rh1+ Kg7 31. Qc3+ Kf7 32. Rh7+ Ke8 33. Qh8+ Kd7 34. Bh3+ 1-0
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.05.27"]
+[Round "6"]
+[White "Magana, Ben"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2006.05.27 Magana, Ben - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2006.05.27 Magana, Ben - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2200"]
+[BlackElo "2157"]
+[PlyCount "50"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 Bg4 6. Be2 e6 7. O-O Nf6 8. Na3 Be7 9. dxc5 Qxd1 10. Rxd1 Bxc5 11. Nc4 Rd8 12. Be3 Bxe3 13. Nxe3 Bh5 14. Rxd8+ Kxd8 15. Rd1+ Ke7 16. Kf1 Rd8 17. Rxd8 Nxd8 18. Ne5 Bxe2+ 19. Kxe2 Ne8 20. f4 f6 21. N5c4 Nc6 22. a4 Nd6 23. Nxd6 Kxd6 24. Nc4+ Kd5 25. Kd3 h6 1/2-1/2
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.27"]
+[Round "6"]
+[Board "1"]
+[White "Magana, Benjamin Omondi"]
+[Black "Kawuma, Steven"]
+[Result "1/2-1/2"]
+[SourceFile "2006.05.27 Magana, Benjamin Omondi - Kawuma, Steven [chess-results].pgn"]
+[Title "2006.05.27 Magana, Benjamin Omondi - Kawuma, Steven 1/2-1/2"]
+[ECO ""]
+[WhiteElo "2200"]
+[BlackElo "2157"]
+[PlyCount "50"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Kenya"]
+[BlackTeam "Uganda"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 d5 4.exd5 Qxd5 5.d4 Bg4 6.Be2 e6 7.O-O Nf6 8.Na3 Be7
+9.dxc5 Qxd1 10.Rxd1 Bxc5 11.Nc4 Rd8 12.Be3 Bxe3 13.Nxe3 Bh5 14.Rxd8+ Kxd8
+15.Rd1+ Ke7 16.Kf1 Rd8 17.Rxd8 Nxd8 18.Ne5 Bxe2+ 19.Kxe2 Ne8 20.f4 f6 21.N5c4
+Nc6 22.a4 Nd6 23.Nxd6 Kxd6 24.Nc4+ Kd5 25.Kd3 h6  1/2-1/2
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.28"]
+[Round "7"]
+[Board "1"]
+[White "Kawuma, Steven"]
+[Black "Chimthere, Alfred Charles"]
+[Result "1-0"]
+[SourceFile "2006.05.28 Kawuma, Steven - Chimthere, Alfred Charles [chess-results].pgn"]
+[Title "2006.05.28 Kawuma, Steven - Chimthere, Alfred Charles 1-0"]
+[ECO ""]
+[WhiteElo "2157"]
+[BlackElo "0"]
+[PlyCount "87"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Malawi"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Be7 7.Bd3 Nc6 8.a3 dxc4
+9.Bxc4 O-O 10.O-O a6 11.Qd3 b5 12.Bb3 Bb7 13.Bc2 g6 14.Bh6 Re8 15.Rfe1 b4 16.Ne4
+Qd5 17.Bb3 Qh5 18.Bd2 Nxe4 19.Rxe4 Rad8 20.Rae1 bxa3 21.bxa3 Bf6 22.d5 Ne7
+23.Qf1 exd5 24.g4 dxe4 25.gxh5 exf3 26.hxg6 hxg6 27.Ba5 Rd4 28.Qh3 Rc8 29.Bb6
+Rd3 30.Ba2 Rxa3 31.Bxf7+ Kxf7 32.Qe6+ Kg7 33.Bd4 Nd5 34.Bxf6+ Nxf6 35.Qe7+ Kh6
+36.Qxa3 Rc4 37.h3 Ne4 38.Qf8+ Kg5 39.Qe7+ Kh5 40.Qxb7 Ng5 41.Re5 Rc1+ 42.Kh2 Rc2
+43.Qxf3+ Kh6 44.Qf8+  1-0
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.05.28"]
+[Round "7"]
+[White "Kawuma, Steven Male"]
+[Black "Chimthere, Alfred Charles"]
+[Result "1-0"]
+[SourceFile "2006.05.28 Kawuma, Steven Male - Chimthere, Alfred Charles [local Mega].pgn"]
+[Title "2006.05.28 Kawuma, Steven Male - Chimthere, Alfred Charles 1-0"]
+[ECO "D40"]
+[WhiteElo "2157"]
+[PlyCount "87"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bd3 Nc6 8. a3 dxc4 9. Bxc4 O-O 10. O-O a6 11. Qd3 b5 12. Bb3 Bb7 13. Bc2 g6 14. Bh6 Re8 15. Rfe1 b4 16. Ne4 Qd5 17. Bb3 Qh5 18. Bd2 Nxe4 19. Rxe4 Rad8 20. Rae1 bxa3 21. bxa3 Bf6 22. d5 Ne7 23. Qf1 exd5 24. g4 dxe4 25. gxh5 exf3 26. hxg6 hxg6 27. Ba5 Rd4 28. Qh3 Rc8 29. Bb6 Rd3 30. Ba2 Rxa3 31. Bxf7+ Kxf7 32. Qe6+ Kg7 33. Bd4 Nd5 34. Bxf6+ Nxf6 35. Qe7+ Kh6 36. Qxa3 Rc4 37. h3 Ne4 38. Qf8+ Kg5 39. Qe7+ Kh5 40. Qxb7 Ng5 41. Re5 Rc1+ 42. Kh2 Rc2 43. Qxf3+ Kh6 44. Qf8+ 1-0
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.29"]
+[Round "8"]
+[Board "1"]
+[White "Kawuma, Steven"]
+[Black "Juarez Flores, Carlos Armando"]
+[Result "0-1"]
+[SourceFile "2006.05.29 Kawuma, Steven - Juarez Flores, Carlos Armando [chess-results].pgn"]
+[Title "2006.05.29 Kawuma, Steven - Juarez Flores, Carlos Armando 0-1"]
+[ECO ""]
+[WhiteElo "2157"]
+[BlackElo "2381"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Guatemala"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.c4 Nf6 5.Nf3 Bb4+ 6.Bd2 Bxd2+ 7.Nbxd2 O-O 8.Be2
+dxc4 9.Nxc4 Nd5 10.Qd2 Qf6 11.O-O Nf4 12.Nce5 Be6 13.Bc4 Bxc4 14.Nxc4 Nc6
+15.Rfe1 Rad8 16.Rad1 Nxd4 17.Nxd4 c5 18.Re4 Rxd4 19.Rxd4 cxd4 20.g3 Nh3+ 21.Kg2
+Ng5 22.Qxd4 Qf3+ 23.Kf1 Re8 24.Qd5 Ne4 25.Kg1 Qxf2+ 26.Kh1 Nf6 27.Qxb7 Re2
+28.Qc8+ Ne8 29.Qh3 Re1+ 30.Rxe1 Qxe1+ 31.Kg2 Qe2+ 32.Kg1 Qxc4 33.Qd7 Qc1+ 34.Kg2
+Qxb2+ 35.Kh3 Qb8 36.a4 Nf6 37.Qc6 h5 38.a5 Qb1 39.Qa8+ Kh7 40.Qxa7 Qf1+ 41.Kh4
+Qf5  0-1
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.05.29"]
+[Round "8"]
+[White "Kawuma, Steven Male"]
+[Black "Juarez Flores, Carlos Armando"]
+[Result "0-1"]
+[SourceFile "2006.05.29 Kawuma, Steven Male - Juarez Flores, Carlos Armando [local Mega].pgn"]
+[Title "2006.05.29 Kawuma, Steven Male - Juarez Flores, Carlos Armando 0-1"]
+[ECO "A51"]
+[WhiteElo "2157"]
+[BlackElo "2381"]
+[PlyCount "82"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nf3 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 O-O 8. Be2 dxc4 9. Nxc4 Nd5 10. Qd2 Qf6 11. O-O Nf4 12. Nce5 Be6 13. Bc4 Bxc4 14. Nxc4 Nc6 15. Rfe1 Rad8 16. Rad1 Nxd4 17. Nxd4 c5 18. Re4 Rxd4 19. Rxd4 cxd4 20. g3 Nh3+ 21. Kg2 Ng5 22. Qxd4 Qf3+ 23. Kf1 Re8 24. Qd5 Ne4 25. Kg1 Qxf2+ 26. Kh1 Nf6 27. Qxb7 Re2 28. Qc8+ Ne8 29. Qh3 Re1+ 30. Rxe1 Qxe1+ 31. Kg2 Qe2+ 32. Kg1 Qxc4 33. Qd7 Qc1+ 34. Kg2 Qxb2+ 35. Kh3 Qb8 36. a4 Nf6 37. Qc6 h5 38. a5 Qb1 39. Qa8+ Kh7 40. Qxa7 Qf1+ 41. Kh4 Qf5 0-1
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.30"]
+[Round "9"]
+[Board "1"]
+[White "Nanjo, Ryosuke"]
+[Black "Kawuma, Steven"]
+[Result "1-0"]
+[SourceFile "2006.05.30 Nanjo, Ryosuke - Kawuma, Steven [chess-results].pgn"]
+[Title "2006.05.30 Nanjo, Ryosuke - Kawuma, Steven 1-0"]
+[ECO ""]
+[WhiteElo "2182"]
+[BlackElo "2157"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Japan"]
+[BlackTeam "Uganda"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e5 4.Nc3 d6 5.e4 Be7 6.g3 O-O 7.Bg2 a6 8.a4 Ne8 9.Nge2 Nd7
+10.O-O g6 11.f4 exf4 12.gxf4 Ng7 13.Ng3 f5 14.b3 Bf6 15.Bb2 Bd4+ 16.Kh1 Nf6
+17.Nge2 Ng4 18.Nxd4 Ne3 19.Qd3 cxd4 20.Qxd4 Nc2 21.Qd2 Nxa1 22.Bxa1 fxe4 23.Nxe4
+b6 24.Qd4 Ra7 25.a5 Rb7 26.axb6 Qxb6 27.c5 dxc5 28.Nxc5 Ra7 29.d6 h6 30.Rd1 Bg4
+31.d7 Rxd7 32.Nxd7 Qxd4 33.Rxd4 Rc8 34.Bd5+ Be6 35.Bxe6+ Nxe6 36.Nf6+ Kf8 37.Rc4
+Rxc4 38.bxc4 Nxf4 39.Be5 Nd3 40.Bg3 Ke7 41.Nd5+ Kd7 42.Kg2 a5 43.Kf3 Nb2 44.Ne3
+a4 45.Ke4 Kc6 46.Be5 a3 47.Kd4 g5 48.Nc2 h5 49.Nxa3 Nd1 50.Nc2 Nf2 51.Nb4+ Kd7
+52.c5 Ng4 53.c6+ Kc8  1-0
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.05.30"]
+[Round "9"]
+[White "Nanjo, Ryosuke"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2006.05.30 Nanjo, Ryosuke - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2006.05.30 Nanjo, Ryosuke - Kawuma, Steven Male 1-0"]
+[ECO "A56"]
+[WhiteElo "2182"]
+[BlackElo "2157"]
+[PlyCount "106"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. g3 O-O 7. Bg2 a6 8. a4 Ne8 9. Nge2 Nd7 10. O-O g6 11. f4 exf4 12. gxf4 Ng7 13. Ng3 f5 14. b3 Bf6 15. Bb2 Bd4+ 16. Kh1 Nf6 17. Nge2 Ng4 18. Nxd4 Ne3 19. Qd3 cxd4 20. Qxd4 Nc2 21. Qd2 Nxa1 22. Bxa1 fxe4 23. Nxe4 b6 24. Qd4 Ra7 25. a5 Rb7 26. axb6 Qxb6 27. c5 dxc5 28. Nxc5 Ra7 29. d6 h6 30. Rd1 Bg4 31. d7 Rxd7 32. Nxd7 Qxd4 33. Rxd4 Rc8 34. Bd5+ Be6 35. Bxe6+ Nxe6 36. Nf6+ Kf8 37. Rc4 Rxc4 38. bxc4 Nxf4 39. Be5 Nd3 40. Bg3 Ke7 41. Nd5+ Kd7 42. Kg2 a5 43. Kf3 Nb2 44. Ne3 a4 45. Ke4 Kc6 46. Be5 a3 47. Kd4 g5 48. Nc2 h5 49. Nxa3 Nd1 50. Nc2 Nf2 51. Nb4+ Kd7 52. c5 Ng4 53. c6+ Kc8 1-0
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.05.31"]
+[Round "10"]
+[Board "1"]
+[White "Lebrun, Piersont"]
+[Black "Kawuma, Steven"]
+[Result "0-1"]
+[SourceFile "2006.05.31 Lebrun, Piersont - Kawuma, Steven [chess-results].pgn"]
+[Title "2006.05.31 Lebrun, Piersont - Kawuma, Steven 0-1"]
+[ECO ""]
+[WhiteElo "0"]
+[BlackElo "2157"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Haiti"]
+[BlackTeam "Uganda"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Nb3 Bb4 7.Bd3 d5 8.Nd2 Bg4
+9.f3 Be6 10.O-O O-O 11.exd5 Nxd5 12.Nxd5 Qxd5 13.Nb3 Rad8 14.Be3 f5 15.Bg5 Rde8
+16.c3 Be7 17.Bxe7 Nxe7 18.Qc2 Rf6 19.Rad1 Qc6 20.Qf2 b6 21.Qe2 Qc7 22.Rfe1 Ng6
+23.Bb5 Ref8 24.Qd2 Bxb3  0-1
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.05.31"]
+[Round "10"]
+[White "Lebrun, Piersont"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2006.05.31 Lebrun, Piersont - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2006.05.31 Lebrun, Piersont - Kawuma, Steven Male 0-1"]
+[ECO "B33"]
+[BlackElo "2157"]
+[PlyCount "48"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. Bd3 d5 8. Nd2 Bg4 9. f3 Be6 10. O-O O-O 11. exd5 Nxd5 12. Nxd5 Qxd5 13. Nb3 Rad8 14. Be3 f5 15. Bg5 Rde8 16. c3 Be7 17. Bxe7 Nxe7 18. Qc2 Rf6 19. Rad1 Qc6 20. Qf2 b6 21. Qe2 Qc7 22. Rfe1 Ng6 23. Bb5 Ref8 24. Qd2 Bxb3 0-1
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.06.02"]
+[Round "11"]
+[Board "1"]
+[White "Kawuma, Steven"]
+[Black "Khetho, Phemelo"]
+[Result "1/2-1/2"]
+[SourceFile "2006.06.02 Kawuma, Steven - Khetho, Phemelo [chess-results].pgn"]
+[Title "2006.06.02 Kawuma, Steven - Khetho, Phemelo 1/2-1/2"]
+[ECO ""]
+[WhiteElo "2157"]
+[BlackElo "2238"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Botswana"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.g3 Nf6 6.Bg2 Bc5 7.Nb3 Be7 8.O-O a6
+9.Be3 Qc7 10.f4 d6 11.c4 O-O 12.Nc3 Rb8 13.Qe2 Re8 14.h3 Nd7 15.Rac1 Nc5 16.Nxc5
+dxc5 17.e5 b6 18.Ne4 Bb7 19.Qg4 Kh8 20.Qh5 Nd4 21.Bxd4 g6 22.Qe2 Bxe4 23.Bc3
+Bxg2 24.Qxg2 Red8 25.Rfd1 Kg8 26.Qf3 b5 27.b3 b4 28.Bb2 Qa5 29.Ra1 Rxd1+ 30.Qxd1
+Rd8 31.Qe2 Rd7 32.Bc1 Qd8 33.Be3 a5 34.Rc1  1/2-1/2
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.06.02"]
+[Round "11"]
+[White "Kawuma, Steven Male"]
+[Black "Khetho, Phemelo"]
+[Result "1/2-1/2"]
+[SourceFile "2006.06.02 Kawuma, Steven Male - Khetho, Phemelo [local Mega].pgn"]
+[Title "2006.06.02 Kawuma, Steven Male - Khetho, Phemelo 1/2-1/2"]
+[ECO "B44"]
+[WhiteElo "2157"]
+[BlackElo "2238"]
+[PlyCount "67"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. g3 Nf6 6. Bg2 Bc5 7. Nb3 Be7 8. O-O a6 9. Be3 Qc7 10. f4 d6 11. c4 O-O 12. Nc3 Rb8 13. Qe2 Re8 14. h3 Nd7 15. Rac1 Nc5 16. Nxc5 dxc5 17. e5 b6 18. Ne4 Bb7 19. Qg4 Kh8 20. Qh5 Nd4 21. Bxd4 g6 22. Qe2 Bxe4 23. Bc3 Bxg2 24. Qxg2 Red8 25. Rfd1 Kg8 26. Qf3 b5 27. b3 b4 28. Bb2 Qa5 29. Ra1 Rxd1+ 30. Qxd1 Rd8 31. Qe2 Rd7 32. Bc1 Qd8 33. Be3 a5 34. Rc1 1/2-1/2
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.06.03"]
+[Round "12"]
+[Board "1"]
+[White "Kawuma, Steven"]
+[Black "Zamora, Roberto"]
+[Result "1/2-1/2"]
+[SourceFile "2006.06.03 Kawuma, Steven - Zamora, Roberto [chess-results].pgn"]
+[Title "2006.06.03 Kawuma, Steven - Zamora, Roberto 1/2-1/2"]
+[ECO ""]
+[WhiteElo "2157"]
+[BlackElo "2205"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Uganda"]
+[BlackTeam "Honduras"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Ba6
+9.b3 g6 10.Bb2 Bg7 11.Nd2 O-O 12.O-O-O Rfe8 13.Nf3 Nb6 14.Qd2 Rad8 15.Qa5 Bc8
+16.Qxa7 d6 17.Qa5 dxe5 18.Rxd8 Qxd8 19.Qd2 Qe7 20.h3 Bf5 21.g4 Be4 22.Qe3 Bxf3
+23.Qxf3 e4 24.Qe2 Bxb2+ 25.Qxb2 Nd7 26.Be2 Nc5 27.Rd1 Qg5+ 28.Qd2 Qe5 29.Kb1 Ne6
+30.Qe3 Nf4 31.f3 Nxe2 32.Qxe2 e3 33.Kc2 h6 34.Kb1 Qg3 35.Kc2 Qf2 36.Re1 Qg3
+37.Rd1 Qe5 38.Kb1 Re6 39.a4 Kh7  1/2-1/2
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.06.03"]
+[Round "12"]
+[White "Kawuma, Steven Male"]
+[Black "Zamora, Roberto Antonio"]
+[Result "1/2-1/2"]
+[SourceFile "2006.06.03 Kawuma, Steven Male - Zamora, Roberto Antonio [local Mega].pgn"]
+[Title "2006.06.03 Kawuma, Steven Male - Zamora, Roberto Antonio 1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2157"]
+[BlackElo "2205"]
+[PlyCount "78"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Ba6 9. b3 g6 10. Bb2 Bg7 11. Nd2 O-O 12. O-O-O Rfe8 13. Nf3 Nb6 14. Qd2 Rad8 15. Qa5 Bc8 16. Qxa7 d6 17. Qa5 dxe5 18. Rxd8 Qxd8 19. Qd2 Qe7 20. h3 Bf5 21. g4 Be4 22. Qe3 Bxf3 23. Qxf3 e4 24. Qe2 Bxb2+ 25. Qxb2 Nd7 26. Be2 Nc5 27. Rd1 Qg5+ 28. Qd2 Qe5 29. Kb1 Ne6 30. Qe3 Nf4 31. f3 Nxe2 32. Qxe2 e3 33. Kc2 h6 34. Kb1 Qg3 35. Kc2 Qf2 36. Re1 Qg3 37. Rd1 Qe5 38. Kb1 Re6 39. a4 Kh7 1/2-1/2
+
+
+[Event "37.Chess Olympiad 2006 general"]
+[Site "Turin, Italia"]
+[Date "2006.06.04"]
+[Round "13"]
+[Board "1"]
+[White "Chahrani, Ibrahim"]
+[Black "Kawuma, Steven"]
+[Result "0-1"]
+[SourceFile "2006.06.04 Chahrani, Ibrahim - Kawuma, Steven [chess-results].pgn"]
+[Title "2006.06.04 Chahrani, Ibrahim - Kawuma, Steven 0-1"]
+[ECO ""]
+[WhiteElo "2308"]
+[BlackElo "2157"]
+[PlyCount "0"]
+[EventDate "2006.05.21"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "ITA"]
+[WhiteTeam "Libya"]
+[BlackTeam "Uganda"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8
+9.c4 a6 10.Nc3 Be7 11.Be2 O-O 12.O-O f5 13.f4 Nd7 14.Qc2 b6 15.g3 g6 16.Be3 Bb7
+17.b4 Bf6 18.Qb3 Re8 19.Bf3 exf4 20.Bxf4 Bd4+ 21.Kg2 Qf6 22.Rac1 Be3 23.Rce1
+Bxf4 24.gxf4 Rxe1 25.Rxe1 Qh4 26.Re6 Qxf4 27.Ne2 Qg5+ 28.Kh1 b5 29.Rxd6 bxc4
+30.Qc3 Qe7 31.Re6 Qf7 32.Qe3 Nf6 33.Qe5 Ng4 34.Qd4 Rd8 35.Nf4 g5 36.Qb6 Qd7
+37.Ng6 hxg6 38.Rxg6+ Kh7 39.Rxg5 Qd6 40.Rh5+ Kg6 41.Qxb7 Kxh5 42.Qh7+ Kg5 43.Qh3
+ 0-1
+
+
+[Event "Olympiad-37"]
+[Site "Turin"]
+[Date "2006.06.04"]
+[Round "13"]
+[White "Chahrani, Ibrahim"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2006.06.04 Chahrani, Ibrahim - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2006.06.04 Chahrani, Ibrahim - Kawuma, Steven Male 0-1"]
+[ECO "B33"]
+[WhiteElo "2308"]
+[BlackElo "2157"]
+[PlyCount "85"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8. exd5 Nb8 9. c4 a6 10. Nc3 Be7 11. Be2 O-O 12. O-O f5 13. f4 Nd7 14. Qc2 b6 15. g3 g6 16. Be3 Bb7 17. b4 Bf6 18. Qb3 Re8 19. Bf3 exf4 20. Bxf4 Bd4+ 21. Kg2 Qf6 22. Rac1 Be3 23. Rce1 Bxf4 24. gxf4 Rxe1 25. Rxe1 Qh4 26. Re6 Qxf4 27. Ne2 Qg5+ 28. Kh1 b5 29. Rxd6 bxc4 30. Qc3 Qe7 31. Re6 Qf7 32. Qe3 Nf6 33. Qe5 Ng4 34. Qd4 Rd8 35. Nf4 g5 36. Qb6 Qd7 37. Ng6 hxg6 38. Rxg6+ Kh7 39. Rxg5 Qd6 40. Rh5+ Kg6 41. Qxb7 Kxh5 42. Qh7+ Kg5 43. Qh3 0-1
+
+
+[Event "African Individual Championshi"]
+[Site "Windhoek"]
+[Date "2007.09.01"]
+[Round "1"]
+[Board "9"]
+[White "Sarwat, Walaa"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2007.09.01 Sarwat, Walaa - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2007.09.01 Sarwat, Walaa - Kawuma, Steven Male 0-1"]
+[ECO "B53"]
+[WhiteElo "2388"]
+[BlackElo "2144"]
+[PlyCount "94"]
+[EventDate "2007.09.01"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.d4 cxd4 5.Qxd4 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 Qa5
+9.Qd2 Rc8 10.Nd4 Bd7 11.Nb3 Qc7 12.O-O-O e6 13.f4 b5 14.e5 dxe5 15.fxe5 Ng4
+16.Kb1 Nxe5 17.Rhe1 f6 18.Rxe5 fxe5 19.Qe2 Bb4 20.Nxb5 Qc4 21.Qxc4 Rxc4 22.c3
+Be7 23.Bxe7 Kxe7 24.Nd6 Rf4 25.Nc5 Bc6 26.g3 Rf2 27.Nc4 e4 28.Rd6 Bd5 29.Rd7+
+Kf6 30.Ne3 h5 31.c4 Ba8 32.Rxa7 Rxh2 33.Nd7+ Kg6 34.Ne5+ Kh7 35.Nf7 Rb8 36.b3
+Re2 37.Nc2 e3 38.Kc1 Kg8 39.Ng5 Rf8 40.Nxe6 Rf1+ 41.Kb2 Rxc2+ 42.Kxc2 Be4+
+43.Kb2 e2 44.Rxg7+ Kh8 45.Re7 e1=Q 46.Re8+ Kh7 47.Re7+ Kh6  0-1
+
+
+[Event "Africa-ch"]
+[Site "Windhoek"]
+[Date "2007.09.01"]
+[Round "1"]
+[White "Sarwat, Walaa"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2007.09.01 Sarwat, Walaa - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2007.09.01 Sarwat, Walaa - Kawuma, Steven Male 0-1"]
+[ECO "B53"]
+[WhiteElo "2388"]
+[BlackElo "2144"]
+[PlyCount "94"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. d4 cxd4 5. Qxd4 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6 8. Bg5 Qa5 9. Qd2 Rc8 10. Nd4 Bd7 11. Nb3 Qc7 12. O-O-O e6 13. f4 b5 14. e5 dxe5 15. fxe5 Ng4 16. Kb1 Nxe5 17. Rhe1 f6 18. Rxe5 fxe5 19. Qe2 Bb4 20. Nxb5 Qc4 21. Qxc4 Rxc4 22. c3 Be7 23. Bxe7 Kxe7 24. Nd6 Rf4 25. Nc5 Bc6 26. g3 Rf2 27. Nc4 e4 28. Rd6 Bd5 29. Rd7+ Kf6 30. Ne3 h5 31. c4 Ba8 32. Rxa7 Rxh2 33. Nd7+ Kg6 34. Ne5+ Kh7 35. Nf7 Rb8 36. b3 Re2 37. Nc2 e3 38. Kc1 Kg8 39. Ng5 Rf8 40. Nxe6 Rf1+ 41. Kb2 Rxc2+ 42. Kxc2 Be4+ 43. Kb2 e2 44. Rxg7+ Kh8 45. Re7 e1=Q 46. Re8+ Kh7 47. Re7+ Kh6 0-1
+
+
+[Event "African Individual Championshi"]
+[Site "Windhoek"]
+[Date "2007.09.02"]
+[Round "2"]
+[Board "6"]
+[White "Kawuma, Steven Male"]
+[Black "Simutowe, Amon"]
+[Result "0-1"]
+[SourceFile "2007.09.02 Kawuma, Steven Male - Simutowe, Amon [chess-results].pgn"]
+[Title "2007.09.02 Kawuma, Steven Male - Simutowe, Amon 0-1"]
+[ECO "E54"]
+[WhiteElo "2144"]
+[BlackElo "2421"]
+[PlyCount "100"]
+[EventDate "2007.09.01"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.Bd3 dxc4 8.Bxc4 O-O
+9.O-O a6 10.Bf4 b5 11.Be2 Nc6 12.a4 bxa4 13.Qxa4 Bb7 14.Bg5 a5 15.Rfd1 Ne7
+16.Ne5 Ne4 17.Nxe4 Bxe4 18.Bf3 Bxf3 19.Nxf3 Qd5 20.Bxe7 Bxe7 21.Ne5 Rfc8 22.Rdc1
+g6 23.h3 Kg7 24.Nc6 Bd6 25.Rc3 Rc7 26.Rac1 Rb7 27.b3 Rb4 28.Qa2 Rb6 29.Qc2 Raa6
+30.g3 h5 31.h4 Ba3 32.Ra1 Bb4 33.Nxb4 axb4 34.Rxa6 Rxa6 35.Rd3 Ra1+ 36.Rd1 Ra3
+37.Rb1 Qxd4 38.Qc4 Qd2 39.Qe4 Ra2 40.Qe5+ Kg8 41.Qf6 e5 42.Rf1 e4 43.Qg5 Qe2
+44.Qf4 Rb2 45.Rc1 Qf3 46.Rc8+ Kh7 47.Rh8+ Kxh8 48.Qe5+ Kg8 49.Qxb2 e3 50.Kf1
+Qd1+  0-1
+
+
+[Event "Africa-ch"]
+[Site "Windhoek"]
+[Date "2007.09.02"]
+[Round "2"]
+[White "Kawuma, Steven Male"]
+[Black "Simutowe, Amon"]
+[Result "0-1"]
+[SourceFile "2007.09.02 Kawuma, Steven Male - Simutowe, Amon [local Mega].pgn"]
+[Title "2007.09.02 Kawuma, Steven Male - Simutowe, Amon 0-1"]
+[ECO "E54"]
+[WhiteElo "2144"]
+[BlackElo "2421"]
+[PlyCount "100"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Bd3 dxc4 8. Bxc4 O-O 9. O-O a6 10. Bf4 b5 11. Be2 Nc6 12. a4 bxa4 13. Qxa4 Bb7 14. Bg5 a5 15. Rfd1 Ne7 16. Ne5 Ne4 17. Nxe4 Bxe4 18. Bf3 Bxf3 19. Nxf3 Qd5 20. Bxe7 Bxe7 21. Ne5 Rfc8 22. Rdc1 g6 23. h3 Kg7 24. Nc6 Bd6 25. Rc3 Rc7 26. Rac1 Rb7 27. b3 Rb4 28. Qa2 Rb6 29. Qc2 Raa6 30. g3 h5 31. h4 Ba3 32. Ra1 Bb4 33. Nxb4 axb4 34. Rxa6 Rxa6 35. Rd3 Ra1+ 36. Rd1 Ra3 37. Rb1 Qxd4 38. Qc4 Qd2 39. Qe4 Ra2 40. Qe5+ Kg8 41. Qf6 e5 42. Rf1 e4 43. Qg5 Qe2 44. Qf4 Rb2 45. Rc1 Qf3 46. Rc8+ Kh7 47. Rh8+ Kxh8 48. Qe5+ Kg8 49. Qxb2 e3 50. Kf1 Qd1+ 0-1
+
+
+[Event "African Individual Championshi"]
+[Site "Windhoek"]
+[Date "2007.09.03"]
+[Round "3"]
+[Board "11"]
+[White "Hassan, Sayed Barakat"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2007.09.03 Hassan, Sayed Barakat - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2007.09.03 Hassan, Sayed Barakat - Kawuma, Steven Male 1-0"]
+[ECO "B23"]
+[WhiteElo "2375"]
+[BlackElo "2144"]
+[PlyCount "99"]
+[EventDate "2007.09.01"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 d6 4.Nf3 Nf6 5.Bb5 a6 6.Bxc6+ bxc6 7.d3 Nd7 8.O-O g6 9.e5
+Bg7 10.exd6 exd6 11.Re1+ Kf8 12.Be3 Nf6 13.h3 Nd5 14.Nxd5 cxd5 15.d4 c4 16.b3
+cxb3 17.axb3 Bf5 18.Qe2 Qc8 19.Ra2 Bf6 20.g4 Be4 21.Nd2 Qc3 22.Nxe4 dxe4 23.Rd1
+d5 24.Qd2 Qxd2 25.Rxd2 Ke7 26.Ra5 Rhd8 27.Kf1 Bg7 28.Ke2 Rd7 29.Bf2 Bf8 30.c4
+Ke6 31.Rda2 Rd6 32.c5 Rc6 33.b4 Rb8 34.Rxa6 Kd7 35.Ra7+ Rc7 36.Rxc7+ Kxc7
+37.Ra7+ Kc6 38.Rxf7 Kb5 39.Rxh7 Kxb4 40.Ra7 Kc3 41.Ke3 Kc4 42.Ra4+ Kb5 43.Ra1
+Rc8 44.Rb1+ Ka4 45.Rb7 Bxc5 46.dxc5 Rxc5 47.Kd4 Rc2 48.Be3 Rh2 49.Kxd5 Rxh3
+50.Kxe4  1-0
+
+
+[Event "Africa-ch"]
+[Site "Windhoek"]
+[Date "2007.09.03"]
+[Round "3"]
+[White "Hassan, Sayed Barakat"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2007.09.03 Hassan, Sayed Barakat - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2007.09.03 Hassan, Sayed Barakat - Kawuma, Steven Male 1-0"]
+[ECO "B23"]
+[WhiteElo "2375"]
+[BlackElo "2144"]
+[PlyCount "99"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 d6 4. Nf3 Nf6 5. Bb5 a6 6. Bxc6+ bxc6 7. d3 Nd7 8. O-O g6 9. e5 Bg7 10. exd6 exd6 11. Re1+ Kf8 12. Be3 Nf6 13. h3 Nd5 14. Nxd5 cxd5 15. d4 c4 16. b3 cxb3 17. axb3 Bf5 18. Qe2 Qc8 19. Ra2 Bf6 20. g4 Be4 21. Nd2 Qc3 22. Nxe4 dxe4 23. Rd1 d5 24. Qd2 Qxd2 25. Rxd2 Ke7 26. Ra5 Rhd8 27. Kf1 Bg7 28. Ke2 Rd7 29. Bf2 Bf8 30. c4 Ke6 31. Rda2 Rd6 32. c5 Rc6 33. b4 Rb8 34. Rxa6 Kd7 35. Ra7+ Rc7 36. Rxc7+ Kxc7 37. Ra7+ Kc6 38. Rxf7 Kb5 39. Rxh7 Kxb4 40. Ra7 Kc3 41. Ke3 Kc4 42. Ra4+ Kb5 43. Ra1 Rc8 44. Rb1+ Ka4 45. Rb7 Bxc5 46. dxc5 Rxc5 47. Kd4 Rc2 48. Be3 Rh2 49. Kxd5 Rxh3 50. Kxe4 1-0
+
+
+[Event "African Individual Championshi"]
+[Site "Windhoek"]
+[Date "2007.09.04"]
+[Round "4"]
+[Board "19"]
+[White "Kawuma, Steven Male"]
+[Black "Chimthere, Alfred Charles"]
+[Result "1-0"]
+[SourceFile "2007.09.04 Kawuma, Steven Male - Chimthere, Alfred Charles [chess-results].pgn"]
+[Title "2007.09.04 Kawuma, Steven Male - Chimthere, Alfred Charles 1-0"]
+[ECO "B07"]
+[WhiteElo "2144"]
+[BlackElo "1968"]
+[PlyCount "129"]
+[EventDate "2007.09.01"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f3 Nbd7 5.Be3 c6 6.Qd2 Qc7 7.g4 Nb6 8.g5 Ng8 9.O-O-O
+Bd7 10.h4 O-O-O 11.h5 e5 12.Be2 Ne7 13.Nh3 gxh5 14.Nf2 Ng6 15.Rxh5 Be7 16.Rdh1
+Nf8 17.f4 Rg8 18.f5 exd4 19.Bxd4 d5 20.exd5 Bxf5 21.dxc6 bxc6 22.Qe3 Bd6 23.Qf3
+Bf4+ 24.Be3 Bxe3+ 25.Qxe3 Bg6 26.R5h4 Ne6 27.a4 a5 28.Bg4 Rge8 29.Qc5 Nd5 30.Kb1
+Qb6 31.Qxb6 Nxb6 32.Kc1 Kc7 33.Nfe4 Rd4 34.Nf6 Red8 35.Bxe6 Rxh4 36.Rxh4 fxe6
+37.Nxh7 Kd6 38.Nf6 Ke5 39.b4 axb4 40.Rxb4 Nd5 41.Rc4 Nxc3 42.Rxc3 Kd4 43.Rxc6
+Ra8 44.Rxe6 Rxa4 45.Rd6+ Ke5 46.Rd5+ Kf4 47.Kb2 Rb4+ 48.Kc3 Rb1 49.Rc5 Rg1
+50.Nd5+ Kxg5 51.Ne7+ Kf4 52.Nxg6+ Rxg6 53.Kb4 Ke4 54.c4 Rg1 55.Rc8 Ke5 56.Kc5
+Ke6 57.Kc6 Ke7 58.c5 Rb1 59.Rh8 Rb2 60.Kc7 Rb1 61.c6 Rb2 62.Rb8 Rc2 63.Rb3 Re2
+64.Kb8 Rc2 65.c7  1-0
+
+
+[Event "Africa-ch"]
+[Site "Windhoek"]
+[Date "2007.09.04"]
+[Round "4"]
+[White "Kawuma, Steven Male"]
+[Black "Chimthere, Alfred Charles"]
+[Result "1-0"]
+[SourceFile "2007.09.04 Kawuma, Steven Male - Chimthere, Alfred Charles [local Mega].pgn"]
+[Title "2007.09.04 Kawuma, Steven Male - Chimthere, Alfred Charles 1-0"]
+[ECO "B07"]
+[WhiteElo "2144"]
+[BlackElo "1968"]
+[PlyCount "129"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 Nbd7 5. Be3 c6 6. Qd2 Qc7 7. g4 Nb6 8. g5 Ng8 9. O-O-O Bd7 10. h4 O-O-O 11. h5 e5 12. Be2 Ne7 13. Nh3 gxh5 14. Nf2 Ng6 15. Rxh5 Be7 16. Rdh1 Nf8 17. f4 Rg8 18. f5 exd4 19. Bxd4 d5 20. exd5 Bxf5 21. dxc6 bxc6 22. Qe3 Bd6 23. Qf3 Bf4+ 24. Be3 Bxe3+ 25. Qxe3 Bg6 26. R5h4 Ne6 27. a4 a5 28. Bg4 Rge8 29. Qc5 Nd5 30. Kb1 Qb6 31. Qxb6 Nxb6 32. Kc1 Kc7 33. Nfe4 Rd4 34. Nf6 Red8 35. Bxe6 Rxh4 36. Rxh4 fxe6 37. Nxh7 Kd6 38. Nf6 Ke5 39. b4 axb4 40. Rxb4 Nd5 41. Rc4 Nxc3 42. Rxc3 Kd4 43. Rxc6 Ra8 44. Rxe6 Rxa4 45. Rd6+ Ke5 46. Rd5+ Kf4 47. Kb2 Rb4+ 48. Kc3 Rb1 49. Rc5 Rg1 50. Nd5+ Kxg5 51. Ne7+ Kf4 52. Nxg6+ Rxg6 53. Kb4 Ke4 54. c4 Rg1 55. Rc8 Ke5 56. Kc5 Ke6 57. Kc6 Ke7 58. c5 Rb1 59. Rh8 Rb2 60. Kc7 Rb1 61. c6 Rb2 62. Rb8 Rc2 63. Rb3 Re2 64. Kb8 Rc2 65. c7 1-0
+
+
+[Event "African Individual Championshi"]
+[Site "Windhoek"]
+[Date "2007.09.05"]
+[Round "5"]
+[Board "12"]
+[White "Solomon, Kenny"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2007.09.05 Solomon, Kenny - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2007.09.05 Solomon, Kenny - Kawuma, Steven Male 1-0"]
+[ECO "E94"]
+[WhiteElo "2344"]
+[BlackElo "2144"]
+[PlyCount "71"]
+[EventDate "2007.09.01"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d6 4.d4 Bg7 5.e4 O-O 6.Be2 Na6 7.O-O e5 8.Be3 Ng4 9.Bg5
+Qe8 10.c5 h6 11.Bh4 f5 12.exf5 gxf5 13.Nd5 Be6 14.dxe5 dxe5 15.Bxa6 bxa6 16.Nxc7
+Qc6 17.Qd6 Qxd6 18.cxd6 Bd7 19.Nxa8 Rxa8 20.Rac1 e4 21.Rc7 Bb5 22.Rd1 exf3 23.d7
+Bxd7 24.Rdxd7 Bxb2 25.gxf3 Ne5 26.Rg7+ Kf8 27.Kg2 Nd3 28.Rcf7+ Ke8 29.Re7+ Kf8
+30.Rgf7+ Kg8 31.Rxf5 Bg7 32.Rd7 Nb4 33.Rf4 Bc3 34.Rg4+ Kh8 35.Rc4 Be1 36.Kf1  1-0
+
+
+[Event "Africa-ch"]
+[Site "Windhoek"]
+[Date "2007.09.05"]
+[Round "5"]
+[White "Solomon, Kenny"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2007.09.05 Solomon, Kenny - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2007.09.05 Solomon, Kenny - Kawuma, Steven Male 1-0"]
+[ECO "E94"]
+[WhiteElo "2344"]
+[BlackElo "2144"]
+[PlyCount "71"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d6 4. d4 Bg7 5. e4 O-O 6. Be2 Na6 7. O-O e5 8. Be3 Ng4 9. Bg5 Qe8 10. c5 h6 11. Bh4 f5 12. exf5 gxf5 13. Nd5 Be6 14. dxe5 dxe5 15. Bxa6 bxa6 16. Nxc7 Qc6 17. Qd6 Qxd6 18. cxd6 Bd7 19. Nxa8 Rxa8 20. Rac1 e4 21. Rc7 Bb5 22. Rd1 exf3 23. d7 Bxd7 24. Rdxd7 Bxb2 25. gxf3 Ne5 26. Rg7+ Kf8 27. Kg2 Nd3 28. Rcf7+ Ke8 29. Re7+ Kf8 30. Rgf7+ Kg8 31. Rxf5 Bg7 32. Rd7 Nb4 33. Rf4 Bc3 34. Rg4+ Kh8 35. Rc4 Be1 36. Kf1 1-0
+
+
+[Event "African Individual Championshi"]
+[Site "Windhoek"]
+[Date "2007.09.06"]
+[Round "6"]
+[Board "19"]
+[White "Kawuma, Steven Male"]
+[Black "Erikson, Roberto"]
+[Result "1/2-1/2"]
+[SourceFile "2007.09.06 Kawuma, Steven Male - Erikson, Roberto [chess-results].pgn"]
+[Title "2007.09.06 Kawuma, Steven Male - Erikson, Roberto 1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2144"]
+[BlackElo "0"]
+[PlyCount "112"]
+[EventDate "2007.09.01"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 c5 5.g3 b6 6.Bg2 Bb7 7.O-O Be7 8.Re1 O-O 9.e5
+Nfd7 10.Nf1 Nc6 11.h4 Re8 12.N1h2 f6 13.exf6 Bxf6 14.Ng4 e5 15.Ng5 Nf8 16.Nxf6+
+gxf6 17.Nf3 Qd7 18.Nh2 f5 19.Nf3 e4 20.Ng5 exd3 21.cxd3 Rxe1+ 22.Qxe1 Nb4 23.Qd1
+d4 24.Bxb7 Qxb7 25.a3 Nd5 26.Qf3 Qd7 27.Bd2 Re8 28.h5 Nf6 29.Kg2 Qd5 30.Qxd5+
+Nxd5 31.Kf3 Nf6 32.Rh1 Ng4 33.Re1 Rxe1 34.Bxe1 h6 35.Nh3 Kf7 36.Bd2 Ke6 37.Ke2
+Nd7 38.f3 Ngf6 39.Bxh6 Nxh5 40.Nf4+ Nxf4+ 41.Bxf4 a6 42.b3 b5 43.Bc7 Nf6 44.Bb6
+Kd5 45.Bd8 Nd7 46.g4 fxg4 47.fxg4 c4 48.bxc4+ bxc4 49.dxc4+ Kxc4 50.g5 Ne5
+51.Bf6 Ng6 52.Kd2 Nf4 53.Be5 Ng6 54.Bg3 Ne7 55.Be5 Ng6 56.Bf6 Nf4  1/2-1/2
+
+
+[Event "Africa-ch"]
+[Site "Windhoek"]
+[Date "2007.09.06"]
+[Round "6"]
+[White "Kawuma, Steven Male"]
+[Black "Soares, Erikson Roberto Mau"]
+[Result "1/2-1/2"]
+[SourceFile "2007.09.06 Kawuma, Steven Male - Soares, Erikson Roberto Mau [local Mega].pgn"]
+[Title "2007.09.06 Kawuma, Steven Male - Soares, Erikson Roberto Mau 1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2144"]
+[PlyCount "112"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 b6 6. Bg2 Bb7 7. O-O Be7 8. Re1 O-O 9. e5 Nfd7 10. Nf1 Nc6 11. h4 Re8 12. N1h2 f6 13. exf6 Bxf6 14. Ng4 e5 15. Ng5 Nf8 16. Nxf6+ gxf6 17. Nf3 Qd7 18. Nh2 f5 19. Nf3 e4 20. Ng5 exd3 21. cxd3 Rxe1+ 22. Qxe1 Nb4 23. Qd1 d4 24. Bxb7 Qxb7 25. a3 Nd5 26. Qf3 Qd7 27. Bd2 Re8 28. h5 Nf6 29. Kg2 Qd5 30. Qxd5+ Nxd5 31. Kf3 Nf6 32. Rh1 Ng4 33. Re1 Rxe1 34. Bxe1 h6 35. Nh3 Kf7 36. Bd2 Ke6 37. Ke2 Nd7 38. f3 Ngf6 39. Bxh6 Nxh5 40. Nf4+ Nxf4+ 41. Bxf4 a6 42. b3 b5 43. Bc7 Nf6 44. Bb6 Kd5 45. Bd8 Nd7 46. g4 fxg4 47. fxg4 c4 48. bxc4+ bxc4 49. dxc4+ Kxc4 50. g5 Ne5 51. Bf6 Ng6 52. Kd2 Nf4 53. Be5 Ng6 54. Bg3 Ne7 55. Be5 Ng6 56. Bf6 Nf4 1/2-1/2
+
+
+[Event "African Individual Championshi"]
+[Site "Windhoek"]
+[Date "2007.09.07"]
+[Round "7"]
+[Board "17"]
+[White "Chambule, Pedro Lucas"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2007.09.07 Chambule, Pedro Lucas - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2007.09.07 Chambule, Pedro Lucas - Kawuma, Steven Male 0-1"]
+[ECO "B33"]
+[WhiteElo "2096"]
+[BlackElo "2144"]
+[PlyCount "124"]
+[EventDate "2007.09.01"]
+[EventRounds "9"]
+[EventCountry "AUT"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Nxe7 Nxe7 11.Bxf6 gxf6 12.c3 O-O 13.Bd3 f5 14.O-O fxe4 15.Bxe4 d5
+16.Bd3 Be6 17.Nc2 f5 18.a4 bxa4 19.Rxa4 Qd6 20.Qh5 e4 21.Be2 Ng6 22.Qg5 Rf7
+23.Rfa1 Bc8 24.Ne3 h6 25.Nc4 dxc4 26.Qe3 Ne5 27.Rb4 Bb7 28.g3 Rc8 29.Raa4 Nd3
+30.Rxc4 Rxc4 31.Rxc4 f4 32.Qd4 Qxd4 33.Rxd4 fxg3 34.hxg3 Kg7 35.f3 Ne5 36.fxe4
+Nf3+ 37.Bxf3 Rxf3 38.Kg2 Rf7 39.Kg1 Kg6 40.e5 Re7 41.Rd6+ Kg5 42.Rb6 h5 43.Kf2
+Bc8 44.Rc6 Bg4 45.Rc5 Kf5 46.Ra5 Rxe5 47.Rxa6 Re2+ 48.Kf1 Rxb2 49.Ra7 Ke4
+50.Re7+ Kf3 51.Ke1 Kxg3 52.c4 Rc2 53.c5 Rc1+ 54.Kd2 Rxc5 55.Re3+ Bf3 56.Re7 Rd5+
+57.Ke3 Rf5 58.Rg7+ Bg4 59.Rg8 h4 60.Rb8 h3 61.Ke4 h2 62.Rb1 Rf2  0-1
+
+
+[Event "Africa-ch"]
+[Site "Windhoek"]
+[Date "2007.09.07"]
+[Round "7"]
+[White "Chambule, Pedro Lucas"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2007.09.07 Chambule, Pedro Lucas - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2007.09.07 Chambule, Pedro Lucas - Kawuma, Steven Male 0-1"]
+[ECO "B33"]
+[WhiteElo "2096"]
+[BlackElo "2144"]
+[PlyCount "124"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Nxe7 Nxe7 11. Bxf6 gxf6 12. c3 O-O 13. Bd3 f5 14. O-O fxe4 15. Bxe4 d5 16. Bd3 Be6 17. Nc2 f5 18. a4 bxa4 19. Rxa4 Qd6 20. Qh5 e4 21. Be2 Ng6 22. Qg5 Rf7 23. Rfa1 Bc8 24. Ne3 h6 25. Nc4 dxc4 26. Qe3 Ne5 27. Rb4 Bb7 28. g3 Rc8 29. Raa4 Nd3 30. Rxc4 Rxc4 31. Rxc4 f4 32. Qd4 Qxd4 33. Rxd4 fxg3 34. hxg3 Kg7 35. f3 Ne5 36. fxe4 Nf3+ 37. Bxf3 Rxf3 38. Kg2 Rf7 39. Kg1 Kg6 40. e5 Re7 41. Rd6+ Kg5 42. Rb6 h5 43. Kf2 Bc8 44. Rc6 Bg4 45. Rc5 Kf5 46. Ra5 Rxe5 47. Rxa6 Re2+ 48. Kf1 Rxb2 49. Ra7 Ke4 50. Re7+ Kf3 51. Ke1 Kxg3 52. c4 Rc2 53. c5 Rc1+ 54. Kd2 Rxc5 55. Re3+ Bf3 56. Re7 Rd5+ 57. Ke3 Rf5 58. Rg7+ Bg4 59. Rg8 h4 60. Rb8 h3 61. Ke4 h2 62. Rb1 Rf2 0-1
+
+
+[Event "Africa-ch"]
+[Site "Windhoek"]
+[Date "2007.09.08"]
+[Round "8"]
+[White "Chumfwa, Stanley"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2007.09.08 Chumfwa, Stanley - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2007.09.08 Chumfwa, Stanley - Kawuma, Steven Male 1-0"]
+[ECO "B33"]
+[WhiteElo "2329"]
+[BlackElo "2144"]
+[PlyCount "105"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. h4 a5 14. a3 Kh8 15. g3 Be7 16. b4 f5 17. exf5 Bxf5 18. Bg2 Qd7 19. Nce3 Bd8 20. O-O Be6 21. Be4 g6 22. Qd3 Ne7 23. Nxe7 Qxe7 24. Rad1 axb4 25. axb4 Rb6 26. Rd2 Qf7 27. Bd5 Bxd5 28. Nxd5 Rb7 29. Kg2 Kg7 30. Ra1 Qd7 31. Ra6 Rf7 32. Qe4 Ra7 33. Nb6 Qb7 34. Qxb7 Raxb7 35. Rxd6 Bc7 36. Rc6 e4 37. Nd5 Bb8 38. Re6 Rbd7 39. Nf6 Rd2 40. Nxe4 Rc2 41. Kh3 Ba7 42. Ra1 Bxf2 43. Rf1 Ba7 44. Rxf7+ Kxf7 45. Ng5+ Kf8 46. Nxh7+ Kf7 47. Ng5+ Kf8 48. Rf6+ Ke8 49. Rxg6 Bf2 50. Ne4 Be1 51. h5 Kf7 52. Nd6+ Kf8 53. Nxb5 1-0
+
+
+[Event "Africa-ch"]
+[Site "Windhoek"]
+[Date "2007.09.09"]
+[Round "9"]
+[White "Kawuma, Steven Male"]
+[Black "Alice, Mateus Felizardo Vi"]
+[Result "1-0"]
+[SourceFile "2007.09.09 Kawuma, Steven Male - Alice, Mateus Felizardo Vi [local Mega].pgn"]
+[Title "2007.09.09 Kawuma, Steven Male - Alice, Mateus Felizardo Vi 1-0"]
+[ECO "A08"]
+[WhiteElo "2144"]
+[BlackElo "2255"]
+[PlyCount "140"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d5 6. Nbd2 c5 7. e4 Nc6 8. Re1 dxe4 9. dxe4 Qc7 10. c3 Rd8 11. Qc2 b6 12. Bf1 h6 13. a4 Bg4 14. h3 Be6 15. Nc4 Nh5 16. Ne3 Na5 17. c4 Nc6 18. Nd5 Qb7 19. Bd2 Nd4 20. Nxd4 cxd4 21. Bb4 Re8 22. Bg2 Qd7 23. Kh2 Rac8 24. Qd3 Bxd5 25. exd5 a5 26. Bd2 Qc7 27. Rec1 Nf6 28. b4 axb4 29. Bxb4 Nd7 30. a5 Ne5 31. Qb3 bxa5 32. Bxa5 Rb8 33. Qa3 Qc8 34. c5 Qf5 35. f4 Nd3 36. Rf1 Rb2 37. Rf3 Qxd5 38. Qxd3 Qxc5 39. Bd2 Reb8 40. Rc1 Qd5 41. Rf2 Qa2 42. Rcf1 e6 43. Be1 R8b3 44. Qc4 d3 45. Rxb2 Qxb2 46. Rf2 Qb1 47. Bd2 Ra3 48. Bf1 Qc2 49. Qxc2 dxc2 50. Bc1 Rc3 51. Bb5 e5 52. Ba4 exf4 53. gxf4 g5 54. Rxc2 Rxc2+ 55. Bxc2 gxf4 56. Bxf4 Kh8 57. Kg3 Kg8 58. Bb3 Bf8 59. Kg4 Bg7 60. Kf5 Kf8 61. Ke4 Ke7 62. Kf5 Kf8 63. Bd6+ Kg8 64. Be7 Bf8 65. Bh4 Bg7 66. Ke4 Bb2 67. Kd5 Kg7 68. Kd6 Bc3 69. Ke7 f5 70. Bc2 f4 1-0
+
+
+[Event "BCF-chT3 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2007.11.10"]
+[Round "3.1"]
+[White "Cooley, Oliver Jr"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2007.11.10 Cooley, Oliver Jr - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2007.11.10 Cooley, Oliver Jr - Kawuma, Steven Male 0-1"]
+[ECO "B33"]
+[WhiteElo "2108"]
+[BlackElo "2163"]
+[PlyCount "108"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Nxe7 Nxe7 11. Qf3 Bg4 12. Qg3 Be6 13. Bxf6 gxf6 14. Bd3 Ng6 15. O-O Rc8 16. c3 Nf4 17. Rfd1 Ke7 18. Qe3 Qc7 19. Rd2 Rhg8 20. g3 Qc5 21. Rad1 Bxa2 22. Bf1 Bb3 23. Qxc5 Rxc5 24. Ra1 Ne6 25. Nc2 Bxc2 26. Rxa6 Bxe4 27. Raxd6 Bc6 28. Bh3 Rd8 29. Rxd8 Nxd8 30. Bf5 h6 31. Kf1 Rd5 32. Rc2 Nb7 33. Ke2 Nd6 34. Bh3 e4 35. Bg2 f5 36. b3 Rd3 37. Ke1 Rd5 38. Ke2 Nb7 39. Ke3 Rd3+ 40. Kf4 Kf6 41. g4 fxg4 42. Kxg4 Ke5 43. Bf1 Rd1 44. Be2 Rg1+ 45. Kh4 Rg2 46. Bg4 Kf4 47. h3 f5 48. Bh5 Nc5 49. c4 Nd3 50. cxb5 Bxb5 51. Be2 Rg5 52. Bxd3 Bxd3 53. Rb2 Bb5 54. b4 Be8 0-1
+
+
+[Event "BCF-chT3 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2007.11.11"]
+[Round "4.1"]
+[White "Kawuma, Steven Male"]
+[Black "Hetey, Laszlo"]
+[Result "0-1"]
+[SourceFile "2007.11.11 Kawuma, Steven Male - Hetey, Laszlo [local Mega].pgn"]
+[Title "2007.11.11 Kawuma, Steven Male - Hetey, Laszlo 0-1"]
+[ECO "B25"]
+[WhiteElo "2163"]
+[BlackElo "2359"]
+[PlyCount "164"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 g6 4. d3 Bg7 5. e4 d6 6. O-O O-O 7. Re1 Nc6 8. Nc3 Rb8 9. e5 dxe5 10. Nxe5 Nxe5 11. Rxe5 b6 12. Re1 Bg4 13. Bf3 Bxf3 14. Qxf3 Rc8 15. Bg5 Re8 16. Rad1 Qd7 17. Kg2 b5 18. Ne4 Nd5 19. c3 h6 20. Be3 Nxe3+ 21. fxe3 b4 22. d4 cxd4 23. exd4 Qa4 24. Ra1 bxc3 25. bxc3 Qc4 26. Re3 Rb8 27. Re2 Rec8 28. Rae1 Rb5 29. Nc5 e5 30. Ne4 Rb6 31. dxe5 Bxe5 32. Nd2 Qxc3 33. Rxe5 Qxd2+ 34. R5e2 Qd7 35. Qe4 Re6 36. Qf3 Rxe2+ 37. Rxe2 Qa4 38. Rf2 Qc4 39. Qe3 Qd5+ 40. Qf3 Qd7 41. Qe3 h5 42. Qf4 Qe6 43. Qd4 Qc6+ 44. Kg1 Qb7 45. Qb2 Qe4 46. Re2 Qf3 47. Rf2 Qd1+ 48. Rf1 Qd5 49. Rf2 h4 50. gxh4 Qd1+ 51. Kg2 Qg4+ 52. Kf1 Rd8 53. Rd2 Qf4+ 54. Rf2 Qxh4 55. Qb3 Qe7 56. h3 Qd7 57. Kg2 Qc6+ 58. Kh2 Qd6+ 59. Kg2 Rd7 60. Qc4 Re7 61. Qc8+ Kg7 62. Qc3+ f6 63. Kf1 Rc7 64. Qe3 Qc6 65. Kg1 Rd7 66. Kh2 Qc7+ 67. Kg2 Rd5 68. h4 Qd7 69. Qf3 Rf5 70. Qe3 Re5 71. Qf4 Qe6 72. Qd4 Qd5+ 73. Qxd5 Rxd5 74. Rc2 Ra5 75. Kg3 Ra3+ 76. Kf4 Kh6 77. Rc6 Rxa2 78. Kg3 Ra3+ 79. Kg2 f5 80. Rd6 Ra4 81. Kg3 Rg4+ 82. Kh3 Kh5 0-1
+
+
+[Event "BCF-chT 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.01.12"]
+[Round "5.6"]
+[White "Littlewood, Paul E"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2008.01.12 Littlewood, Paul E - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2008.01.12 Littlewood, Paul E - Kawuma, Steven Male 1-0"]
+[WhiteElo "2358"]
+[BlackElo "2166"]
+[PlyCount "0"]
+
+1-0
+
+
+[Event "BCF-chT 0708 (4NCL)"]
+[Site "Sunningdale"]
+[Date "2008.01.13"]
+[Round "6.5"]
+[White "Cornette, Matthieu"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2008.01.13 Cornette, Matthieu - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2008.01.13 Cornette, Matthieu - Kawuma, Steven Male 1-0"]
+[ECO "B51"]
+[WhiteElo "2491"]
+[BlackElo "2166"]
+[PlyCount "89"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bf1 Bg4 8. d4 cxd4 9. cxd4 Bxf3 10. gxf3 e5 11. d5 Nd4 12. Be3 Nd7 13. Bxd4 exd4 14. Qxd4 Ne5 15. Qe3 g5 16. Nd2 Qf6 17. Bg2 h5 18. Qc3 Bh6 19. Nc4 g4 20. Nxe5 dxe5 21. Rad1 Bf4 22. d6 Kf8 23. d7 Kg7 24. fxg4 hxg4 25. h3 Qg5 26. hxg4 Qxg4 27. Qf3 Qg5 28. Rd3 Rad8 29. Kf1 Rh6 30. Red1 Rc6 31. Rc3 Rxc3 32. bxc3 Qg6 33. Bh3 Kf8 34. Bf5 Qc6 35. Qh3 Qh6 36. Qf3 Qc6 37. Qg4 Qc4+ 38. Kg2 Qc7 39. Qh4 Kg7 40. c4 Qb6 41. c5 Qa5 42. Qh7+ Kf8 43. Qh8+ Ke7 44. Qh4+ Kf8 45. Qf6 1-0
+
+
+[Event "Gibraltar Challengers"]
+[Site "Gibraltar"]
+[Date "2008.01.22"]
+[Round "1"]
+[White "Lovik, Lasse Ostebo"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2008.01.22 Lovik, Lasse Ostebo - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2008.01.22 Lovik, Lasse Ostebo - Kawuma, Steven Male 1-0"]
+[ECO "B33"]
+[WhiteElo "2052"]
+[BlackElo "2166"]
+[PlyCount "111"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. c3 Bg7 12. Bd3 Be6 13. Nxb5 axb5 14. Bxb5 Bd7 15. exf5 O-O 16. O-O Re8 17. Qg4 Kh8 18. Qh5 Rb8 19. a4 e4 20. f3 e3 21. f6 Re5 22. Qxf7 Bh6 23. Bd3 Bf5 24. Bxf5 Rxf5 25. f4 Qe8 26. Qxe8+ Rxe8 27. Nc7 Rc8 28. g4 e2 29. Rf2 Rxf4 30. Rxf4 Bxf4 31. Ne6 Be3+ 32. Kg2 Kg8 33. Re1 Kf7 34. Rxe2 Kxe6 35. g5 Ne5 36. Rxe3 Kf5 37. h4 Rc4 38. a5 Rxh4 39. a6 Ke6 40. b4 Rg4+ 41. Rg3 Rc4 42. a7 Rc8 43. Rh3 Nc6 44. Rxh7 Ra8 45. f7 Nxa7 46. f8=Q Rxf8 47. Rxa7 Rg8 48. Ra5 d5 49. Ra6+ Ke5 50. g6 Ke4 51. Rc6 Rg7 52. Kg3 Kf5 53. b5 Ke5 54. Kg4 Rb7 55. b6 Rg7 56. Kg5 1-0
+
+
+[Event "Gibraltar Challengers"]
+[Site "Gibraltar"]
+[Date "2008.01.23"]
+[Round "2"]
+[White "Kawuma, Steven Male"]
+[Black "Pettersson, Anders"]
+[Result "1-0"]
+[SourceFile "2008.01.23 Kawuma, Steven Male - Pettersson, Anders [local Mega].pgn"]
+[Title "2008.01.23 Kawuma, Steven Male - Pettersson, Anders 1-0"]
+[ECO "B34"]
+[WhiteElo "2166"]
+[BlackElo "1984"]
+[PlyCount "81"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Bg7 6. Be3 Nf6 7. f3 O-O 8. Qd2 d5 9. exd5 Nxd5 10. Nxd5 Qxd5 11. c4 Qd7 12. Nxc6 Qxc6 13. Rd1 Qf6 14. b3 Qc3 15. Qxc3 Bxc3+ 16. Kf2 Be6 17. Rd3 Bb4 18. Be2 b6 19. Rhd1 Bc5 20. Bxc5 bxc5 21. Re3 a5 22. Ke1 a4 23. Kd2 axb3 24. axb3 Ra2+ 25. Kc3 Rb8 26. Rb1 Kg7 27. Rb2 Ra1 28. Re5 Rc8 29. f4 Rc7 30. Bd3 Rc1+ 31. Rc2 Rxc2+ 32. Bxc2 h5 33. Be4 Kf6 34. Bf3 Bf5 35. b4 cxb4+ 36. Kxb4 Bd3 37. c5 e6 38. c6 Ke7 39. Kc5 Bc2 40. Re2 Bb3 41. Rb2 1-0
+
+
+[Event "Gibraltar Challengers"]
+[Site "Gibraltar"]
+[Date "2008.01.24"]
+[Round "3"]
+[White "Reichard, Sigge"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2008.01.24 Reichard, Sigge - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2008.01.24 Reichard, Sigge - Kawuma, Steven Male 0-1"]
+[ECO "B33"]
+[WhiteElo "1967"]
+[BlackElo "2166"]
+[PlyCount "86"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. Ncb4 Nxb4 14. Nxb4 Bb7 15. Nd5 Bg5 16. Be2 Kh8 17. O-O Bc6 18. Qd3 a5 19. b4 a4 20. Rfd1 g6 21. Bf3 Qd7 22. a3 f5 23. Ra2 Bd8 24. Rc2 Rc8 25. Ne3 Be7 26. Nd5 Bd8 27. c4 bxc4 28. Qxc4 Bb7 29. Qa2 Bxd5 30. Rxd5 fxe4 31. Bxe4 Bb6 32. Rdd2 Bd4 33. g3 Qg4 34. Bg2 Qf5 35. Re2 Qd3 36. Bf1 Qb3 37. Bg2 Rc3 38. Qxb3 axb3 39. Rb2 Rc1+ 40. Bf1 Bxb2 41. Rxb2 Rc3 42. a4 Ra8 43. a5 d5 0-1
+
+
+[Event "Gibraltar Challengers"]
+[Site "Gibraltar"]
+[Date "2008.01.25"]
+[Round "4"]
+[White "Kawuma, Steven Male"]
+[Black "Haugstad, Espen"]
+[Result "0-1"]
+[SourceFile "2008.01.25 Kawuma, Steven Male - Haugstad, Espen [local Mega].pgn"]
+[Title "2008.01.25 Kawuma, Steven Male - Haugstad, Espen 0-1"]
+[ECO "A08"]
+[WhiteElo "2166"]
+[BlackElo "2042"]
+[PlyCount "76"]
+
+1. Nf3 Nf6 2. d3 d5 3. g3 c5 4. Bg2 Nc6 5. O-O e5 6. Nbd2 Be7 7. c4 d4 8. Ne4 Nxe4 9. dxe4 O-O 10. Ne1 a6 11. a4 Na5 12. b3 Be6 13. Bd2 Nc6 14. a5 b5 15. axb6 Qxb6 16. Nd3 Rfb8 17. Ra3 a5 18. Nb2 Rb7 19. Na4 Qc7 20. h4 Nb8 21. Kh2 Qc8 22. f4 Bd6 23. f5 Bd7 24. f6 Ra6 25. fxg7 Be7 26. Qc1 Qd8 27. Bg5 Bxg5 28. hxg5 Bxa4 29. bxa4 Rg6 30. Rf5 Nc6 31. Raf3 Kxg7 32. Bh3 Qe8 33. Rf6 Nd8 34. Bf5 Qxa4 35. Bxg6 hxg6 36. Kg2 Qa2 37. Kf2 Rb2 38. Kf1 Rb1 0-1
+
+
+[Event "Gibraltar Challengers"]
+[Site "Gibraltar"]
+[Date "2008.01.26"]
+[Round "5"]
+[White "Dennis, Nigel W"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2008.01.26 Dennis, Nigel W - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2008.01.26 Dennis, Nigel W - Kawuma, Steven Male 0-1"]
+[ECO "B33"]
+[WhiteElo "1998"]
+[BlackElo "2166"]
+[PlyCount "86"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Be2 Bg5 13. O-O Ne7 14. Nxe7+ Qxe7 15. Nc2 Bb7 16. Bf3 f5 17. exf5 e4 18. Re1 d5 19. Nd4 Qf6 20. Bg4 g6 21. Qe2 gxf5 22. Bxf5 Kh8 23. Rf1 Rae8 24. Rae1 Qh6 25. Qg4 Bf6 26. Qh3 Qxh3 27. Bxh3 b4 28. Rb1 Rf7 29. Rfd1 Rc7 30. Kf1 Ba8 31. cxb4 Rc4 32. Nb3 Rxb4 33. Rdc1 d4 34. Rc8 Rxc8 35. Bxc8 d3 36. Bxa6 Ra4 37. Nc5 Rxa2 38. b4 Bd4 39. Bb7 Bxb7 40. Nxb7 Rxf2+ 41. Ke1 e3 42. Nc5 Bc3+ 43. Kd1 Rf1# 0-1
+
+
+[Event "Olympiad-38"]
+[Site "Dresden"]
+[Date "2008.11.13"]
+[Round "1"]
+[White "Kawuma, Steven Male"]
+[Black "Chipanga, Chiletso"]
+[Result "1-0"]
+[SourceFile "2008.11.13 Kawuma, Steven Male - Chipanga, Chiletso [local Mega].pgn"]
+[Title "2008.11.13 Kawuma, Steven Male - Chipanga, Chiletso 1-0"]
+[ECO "B33"]
+[WhiteElo "2156"]
+[PlyCount "63"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qb6 6. Nb3 e5 7. Bg5 Bb4 8. Bxf6 gxf6 9. Qd2 d6 10. O-O-O Be6 11. Qh6 Ke7 12. Nd5+ Bxd5 13. exd5 Na5 14. Kb1 Nxb3 15. axb3 a5 16. h4 a4 17. Rh3 axb3 18. Rxb3 Qa7 19. c3 Bc5 20. g4 Rhg8 21. f3 b6 22. Bd3 Qa2+ 23. Kc2 Ra3 24. Rxa3 Bxa3 25. Rb1 b5 26. g5 fxg5 27. hxg5 Bc5 28. Qf6+ Ke8 29. Bxb5+ Kf8 30. Bd3 Qa4+ 31. b3 Qh4 32. b4 1-0
+
+
+[Event "Olympiad-38"]
+[Site "Dresden"]
+[Date "2008.11.14"]
+[Round "2"]
+[White "Kawuma, Steven Male"]
+[Black "Cecchetti, Roberto"]
+[Result "1-0"]
+[SourceFile "2008.11.14 Kawuma, Steven Male - Cecchetti, Roberto [local Mega].pgn"]
+[Title "2008.11.14 Kawuma, Steven Male - Cecchetti, Roberto 1-0"]
+[ECO "B34"]
+[WhiteElo "2156"]
+[PlyCount "108"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Bg7 6. Be3 Nf6 7. f3 Qa5 8. Nb3 Qc7 9. Qd2 d6 10. O-O-O Be6 11. Nb5 Qd8 12. Kb1 a6 13. N5d4 Bd7 14. Nxc6 bxc6 15. g4 h5 16. g5 Nh7 17. Bd4 Bxd4 18. Qxd4 O-O 19. h4 c5 20. Nxc5 dxc5 21. Qxd7 Qb6 22. Qa4 Rfb8 23. Qa3 Qc7 24. Qc3 Nf8 25. Bh3 Rd8 26. e5 e6 27. Bg2 Nd7 28. f4 Rab8 29. Kc1 Nb6 30. Qa5 Nd5 31. Qxc7 Nxc7 32. c4 Kf8 33. Kc2 Ke7 34. Kc3 a5 35. b3 Na6 36. Bf3 Nc7 37. Bc6 Ne8 38. a3 Ng7 39. Be4 Ne8 40. Rhf1 Rb6 41. Rxd8 Kxd8 42. Rb1 Kc7 43. b4 axb4+ 44. axb4 Rxb4 45. Rxb4 cxb4+ 46. Kxb4 Kb6 47. c5+ Ka7 48. Kb5 Kb8 49. Kc6 Kc8 50. Bd3 Nc7 51. Bc4 Kd8 52. Kb7 Ne8 53. Bb5 Nc7 54. Bc6 Na8 1-0
+
+
+[Event "Olympiad-38"]
+[Site "Dresden"]
+[Date "2008.11.15"]
+[Round "3"]
+[White "Kawuma, Steven Male"]
+[Black "Meijers, Viesturs"]
+[Result "0-1"]
+[SourceFile "2008.11.15 Kawuma, Steven Male - Meijers, Viesturs [local Mega].pgn"]
+[Title "2008.11.15 Kawuma, Steven Male - Meijers, Viesturs 0-1"]
+[WhiteElo "2156"]
+[BlackElo "2514"]
+[PlyCount "0"]
+
+0-1
+
+
+[Event "Olympiad-38"]
+[Site "Dresden"]
+[Date "2008.11.16"]
+[Round "4"]
+[White "Kawuma, Steven Male"]
+[Black "Jones, Rupert William"]
+[Result "1-0"]
+[SourceFile "2008.11.16 Kawuma, Steven Male - Jones, Rupert William [local Mega].pgn"]
+[Title "2008.11.16 Kawuma, Steven Male - Jones, Rupert William 1-0"]
+[ECO "B01"]
+[WhiteElo "2156"]
+[BlackElo "1966"]
+[PlyCount "53"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bc8 5. Bb5+ Nbd7 6. c4 a6 7. Bxd7+ Bxd7 8. Ne2 g6 9. O-O b5 10. b3 Bg7 11. Nbc3 O-O 12. Be3 Re8 13. Qd2 e6 14. dxe6 Rxe6 15. d5 Re7 16. Rae1 b4 17. Nd1 a5 18. Nd4 Qc8 19. Nf2 Qb7 20. Nd3 Rae8 21. Nc5 Qa7 22. Nxd7 Rxd7 23. Ne6 Qa8 24. Nxg7 Kxg7 25. Bh6+ Kg8 26. Qd4 Qa6 27. Qxf6 1-0
+
+
+[Event "Olympiad-38"]
+[Site "Dresden"]
+[Date "2008.11.17"]
+[Round "5"]
+[White "Kawuma, Steven Male"]
+[Black "Savva, Panikos"]
+[Result "0-1"]
+[SourceFile "2008.11.17 Kawuma, Steven Male - Savva, Panikos [local Mega].pgn"]
+[Title "2008.11.17 Kawuma, Steven Male - Savva, Panikos 0-1"]
+[ECO "B45"]
+[WhiteElo "2156"]
+[BlackElo "2093"]
+[PlyCount "60"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be3 Nf6 6. Nc3 Bb4 7. Bd3 d5 8. Nxc6 bxc6 9. e5 d4 10. Bd2 dxc3 11. bxc3 Ba5 12. exf6 Qxf6 13. O-O Bxc3 14. Bxc3 Qxc3 15. Qh5 h6 16. Rae1 O-O 17. Re3 Qf6 18. h4 e5 19. Rfe1 Qf4 20. Qxe5 Qxe5 21. Rxe5 Be6 22. Ra5 Rfd8 23. Rb1 g6 24. f3 h5 25. Kf2 Rd5 26. Rxd5 Bxd5 27. c4 Be6 28. Ke3 Re8 29. Kd4 Rd8+ 30. Kc3 Rxd3+ 0-1
+
+
+[Event "Olympiad-38"]
+[Site "Dresden"]
+[Date "2008.11.19"]
+[Round "6"]
+[White "Kawuma, Steven Male"]
+[Black "Dill, James A"]
+[Result "1-0"]
+[SourceFile "2008.11.19 Kawuma, Steven Male - Dill, James A [local Mega].pgn"]
+[Title "2008.11.19 Kawuma, Steven Male - Dill, James A 1-0"]
+[ECO "B42"]
+[WhiteElo "2156"]
+[BlackElo "2093"]
+[PlyCount "83"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 d6 6. O-O Nf6 7. Nc3 Be7 8. Be3 b5 9. a4 b4 10. Na2 Bb7 11. f3 a5 12. Bb5+ Nfd7 13. c3 bxc3 14. Nxc3 O-O 15. Qe2 Ne5 16. f4 Nec6 17. Nb3 Nb4 18. Rfd1 Qc7 19. Rac1 N8c6 20. f5 Bf6 21. fxe6 fxe6 22. Bc4 Qe7 23. Nb5 Be5 24. Qg4 Rae8 25. Bg5 Qd7 26. Nc5 Qf7 27. Rf1 Qg6 28. Rxf8+ Kxf8 29. Nxb7 d5 30. Be2 Nd4 31. Nxd4 Bxd4+ 32. Kh1 Bxb2 33. Rf1+ Kg8 34. Nxa5 d4 35. Nc4 d3 36. Bd1 Bc3 37. Nd6 Rf8 38. Rxf8+ Kxf8 39. a5 d2 40. Qf3+ Bf6 41. Bxd2 Na6 42. Qg4 1-0
+
+
+[Event "Olympiad-38"]
+[Site "Dresden"]
+[Date "2008.11.20"]
+[Round "7"]
+[White "Kawuma, Steven Male"]
+[Black "Goundar, Sanmogam"]
+[Result "1/2-1/2"]
+[SourceFile "2008.11.20 Kawuma, Steven Male - Goundar, Sanmogam [local Mega].pgn"]
+[Title "2008.11.20 Kawuma, Steven Male - Goundar, Sanmogam 1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2156"]
+[BlackElo "1883"]
+[PlyCount "67"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6 8. f3 Qb6 9. Nb3 e6 10. Qe2 Qc7 11. Be3 Nbd7 12. g4 h6 13. Rg1 b5 14. h4 Nb6 15. a4 b4 16. a5 bxc3 17. Bxb6 Qc6 18. Bd4 cxb2 19. Bxb2 Nd7 20. Qc4 Qxc4 21. Bxc4 Bb7 22. O-O-O Rc8 23. Be2 Nc5 24. Kb1 Na4 25. Rd4 Nxb2 26. Kxb2 Be7 27. Rb4 Bf6+ 28. Kb1 Rc7 29. Rb6 Bxh4 30. Rd1 Be7 31. Bxa6 Bxa6 32. Rxa6 Kd7 33. Rb6 Rc6 34. Rb7+ 1/2-1/2
+
+
+[Event "Olympiad-38"]
+[Site "Dresden"]
+[Date "2008.11.21"]
+[Round "8"]
+[White "Kawuma, Steven Male"]
+[Black "Hook, William"]
+[Result "1-0"]
+[SourceFile "2008.11.21 Kawuma, Steven Male - Hook, William [local Mega].pgn"]
+[Title "2008.11.21 Kawuma, Steven Male - Hook, William 1-0"]
+[ECO "C00"]
+[WhiteElo "2156"]
+[BlackElo "2035"]
+[PlyCount "97"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. g3 b6 5. Bg2 Bb7 6. e5 Nfd7 7. Ngf3 c5 8. O-O Nc6 9. Re1 Qc7 10. Qe2 Be7 11. Nf1 O-O 12. Bf4 b5 13. h4 Rfc8 14. N1h2 Nb6 15. Bh3 Bf8 16. Rac1 Qd7 17. h5 d4 18. Ng5 Ne7 19. Ng4 h6 20. Ne4 Bxe4 21. dxe4 Kh8 22. Nh2 Ng8 23. Nf3 Rd8 24. Rcd1 Nc4 25. Bc1 Qc7 26. b3 Nxe5 27. Nxe5 Qxe5 28. Bf4 Qf6 29. e5 Qe7 30. Qxb5 Rab8 31. Qd3 Qc7 32. c3 Qa5 33. cxd4 Qxa2 34. Ra1 Qxb3 35. Qxb3 Rxb3 36. Rxa7 cxd4 37. Rxf7 Bb4 38. Rd1 Ne7 39. Bxe6 Rb2 40. Bg4 d3 41. e6 d2 42. Be5 Rc2 43. Bxg7+ Kg8 44. Bxh6 Rdc8 45. Bxd2 Bxd2 46. Rxe7 Bb4 47. Rf7 Rc1 48. Rxc1 Rxc1+ 49. Kg2 1-0
+
+
+[Event "Olympiad-38"]
+[Site "Dresden"]
+[Date "2008.11.22"]
+[Round "9"]
+[White "Kawuma, Steven Male"]
+[Black "Ho, Men Wei"]
+[Result "1-0"]
+[SourceFile "2008.11.22 Kawuma, Steven Male - Ho, Men Wei [local Mega].pgn"]
+[Title "2008.11.22 Kawuma, Steven Male - Ho, Men Wei 1-0"]
+[ECO "C54"]
+[WhiteElo "2156"]
+[BlackElo "1550"]
+[PlyCount "75"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 O-O 6. Bg5 h6 7. Bh4 d6 8. Bb3 Bg4 9. h3 Bh5 10. g4 Bg6 11. Qe2 Qe7 12. Nbd2 Nd8 13. O-O-O Ne6 14. Nf1 Nf4 15. Qc2 c6 16. Ne3 b5 17. Nf5 Bxf5 18. gxf5 Ng2 19. Rhg1 Nxh4 20. Nxh4 Kh7 21. Qe2 a5 22. Rg2 b4 23. d4 exd4 24. cxd4 Bb6 25. e5 Ne8 26. f6 Qd7 27. e6 fxe6 28. Qe4+ Kh8 29. Ng6+ Kg8 30. Bxe6+ Qxe6 31. Qxe6+ Rf7 32. Nh8 Kxh8 33. Qxf7 g5 34. Re1 Nxf6 35. Qxf6+ Kg8 36. Re7 Bxd4 37. Rg7+ Kh8 38. Qxh6# 1-0
+
+
+[Event "Olympiad-38"]
+[Site "Dresden"]
+[Date "2008.11.25"]
+[Round "11"]
+[White "Kawuma, Steven Male"]
+[Black "Guller, Andras"]
+[Result "1-0"]
+[SourceFile "2008.11.25 Kawuma, Steven Male - Guller, Andras [local Mega].pgn"]
+[Title "2008.11.25 Kawuma, Steven Male - Guller, Andras 1-0"]
+[ECO "A07"]
+[WhiteElo "2156"]
+[BlackElo "2117"]
+[PlyCount "81"]
+
+1. Nf3 d5 2. d3 Nf6 3. Nbd2 c6 4. e4 dxe4 5. dxe4 g6 6. g3 Bg7 7. Bg2 Nbd7 8. O-O O-O 9. e5 Ng4 10. e6 fxe6 11. Qe2 Ndf6 12. Nc4 e5 13. Ncxe5 Nxe5 14. Nxe5 Bf5 15. g4 Bc8 16. Rd1 Qa5 17. c4 Qc5 18. h3 Kh8 19. Bd2 Be6 20. Nxg6+ hxg6 21. Qxe6 Nxg4 22. Qxg4 Qxf2+ 23. Kh1 Bxb2 24. Rab1 Bg7 25. Qxg6 Qh4 26. Qg4 Qxg4 27. hxg4 Rf2 28. a3 Raf8 29. Be3 Rc2 30. Rdc1 Ra2 31. Rxb7 Rxa3 32. Rxe7 Bf6 33. Re6 Kg7 34. Rxf6 Rh8+ 35. Rh6 Rxh6+ 36. Bxh6+ Kxh6 37. Bxc6 Kg5 38. c5 Kxg4 39. Bg2 Re3 40. c6 Re8 41. c7 1-0
+
+
+[Event "BCF-chT2b 0809 (4NCL)"]
+[Site "Hinckley Island"]
+[Date "2009.01.17"]
+[Round "5.4"]
+[White "Hynes, Anthony"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2009.01.17 Hynes, Anthony - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2009.01.17 Hynes, Anthony - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2243"]
+[BlackElo "2166"]
+[PlyCount "64"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8. exd5 Nb8 9. c4 Be7 10. Bd3 O-O 11. O-O a6 12. Nc3 f5 13. f3 Bg5 14. Bxg5 Qxg5 15. f4 exf4 16. Qe2 Qh6 17. Rae1 Nd7 18. Na4 Ne5 19. Nb6 Rb8 20. b4 f3 21. gxf3 f4 22. Nxc8 Rbxc8 23. Rc1 Rce8 24. Be4 g5 25. c5 g4 26. Qg2 Kh8 27. Kh1 gxf3 28. Bxf3 Nd3 29. Rcd1 Re3 30. c6 b5 31. c7 Ne5 32. Rc1 Rc8 1/2-1/2
+
+
+[Event "BCF-chT2b 0809 (4NCL)"]
+[Site "Hinckley Island"]
+[Date "2009.01.18"]
+[Round "6.4"]
+[White "Kawuma, Steven Male"]
+[Black "Sharpe, Ian"]
+[Result "1-0"]
+[SourceFile "2009.01.18 Kawuma, Steven Male - Sharpe, Ian [local Mega].pgn"]
+[Title "2009.01.18 Kawuma, Steven Male - Sharpe, Ian 1-0"]
+[ECO "C00"]
+[WhiteElo "2166"]
+[BlackElo "2290"]
+[PlyCount "74"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. g3 Nc6 5. Bg2 Nf6 6. Ngf3 Be7 7. O-O b6 8. Re1 Bb7 9. e5 Nd7 10. Nf1 Qc7 11. Qe2 O-O-O 12. b3 h6 13. c4 d4 14. a3 g5 15. h3 Rdg8 16. b4 cxb4 17. Bb2 bxa3 18. Bxd4 Nxd4 19. Nxd4 Bxg2 20. Kxg2 Qb7+ 21. Kh2 g4 22. h4 Rg5 23. f4 gxf3 24. Nxf3 Rf5 25. N1d2 Rg8 26. Reb1 Qc7 27. d4 Kd8 28. c5 bxc5 29. Qe4 Nb6 30. Rxa3 cxd4 31. Rd3 Ke8 32. Rxd4 f6 33. Nc4 fxe5 34. Ncxe5 Rxf3 35. Qxf3 Qxe5 36. Qc6+ Kf7 37. Rf4+ Bf6 1-0
+
+
+[Event "BCF-chT2b 0809 (4NCL)"]
+[Site "Hinckley Island"]
+[Date "2009.03.21"]
+[Round "7.7"]
+[White "Kawuma, Steven Male"]
+[Black "French, Angus"]
+[Result "1-0"]
+[SourceFile "2009.03.21 Kawuma, Steven Male - French, Angus [local Mega].pgn"]
+[Title "2009.03.21 Kawuma, Steven Male - French, Angus 1-0"]
+[ECO "B04"]
+[WhiteElo "2166"]
+[BlackElo "2115"]
+[PlyCount "81"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. exd6 cxd6 5. Nf3 g6 6. c4 Nb6 7. b3 Bg7 8. h3 O-O 9. Be2 Nc6 10. Bb2 d5 11. O-O Re8 12. Na3 Bf5 13. c5 Nd7 14. Rc1 Nb4 15. Qd2 a5 16. Ba1 Nf6 17. Bb5 Ne4 18. Qe2 Bd7 19. Rfd1 Bh6 20. Bxd7 Qxd7 21. Ne5 Qf5 22. Rb1 Bg5 23. Nb5 Rec8 24. a3 Nc6 25. Ng4 h5 26. Ne3 Qd7 27. Re1 Kg7 28. Nxd5 Nd2 29. Nb6 Qf5 30. Nxa8 Nxb1 31. Nb6 Rd8 32. d5+ Bf6 33. Bxf6+ exf6 34. dxc6 bxc6 35. Nd6 Qxc5 36. Nb7 Qxb6 37. Nxd8 Nc3 38. Qe7 Qxb3 39. Ne6+ Kh6 40. Qxf7 Nd5 41. Qg7# 1-0
+
+
+[Event "BCF-chT2c 0809 (4NCL) Promotion pool"]
+[Site "Hinckley Island"]
+[Date "2009.03.22"]
+[Round "8.5"]
+[White "Walton, Alan J"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2009.03.22 Walton, Alan J - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2009.03.22 Walton, Alan J - Kawuma, Steven Male 0-1"]
+[ECO "A45"]
+[WhiteElo "2189"]
+[BlackElo "2166"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. Bg5 d6 3. Nc3 Nbd7 4. e4 h6 5. Bh4 c6 6. f4 Qa5 7. Qd2 e5 8. Nf3 Be7 9. Bf2 O-O 10. Bd3 Re8 11. O-O Ng4 12. Be1 exd4 13. Nxd4 Qc5 14. Be2 Bf6 15. Bxg4 Qxd4+ 16. Kh1 Nc5 17. Qe2 Bxg4 18. Qxg4 Nxe4 19. Nxe4 Qxe4 20. c3 Qe2 21. Qxe2 Rxe2 22. Rb1 a6 23. Rf2 Rae8 24. Rxe2 Rxe2 25. Kg1 Kf8 26. Kf1 Rc2 27. a4 Ke7 28. h4 h5 29. Bf2 Ke6 0-1
+
+
+[Event "BCF-chT2c 0809 (4NCL) Promotion pool"]
+[Site "Hinckley Island"]
+[Date "2009.05.02"]
+[Round "9.6"]
+[White "Eckersley Waites, Tom"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2009.05.02 Eckersley Waites, Tom - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2009.05.02 Eckersley Waites, Tom - Kawuma, Steven Male 1-0"]
+[ECO "B33"]
+[WhiteElo "2224"]
+[BlackElo "2168"]
+[PlyCount "105"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. h4 Be6 14. Nxf6+ Qxf6 15. Qxd6 Rbc8 16. Qd2 Qg6 17. Qe3 f5 18. Qg5 Qf7 19. exf5 Bxf5 20. Ne3 Be6 21. Qg3 Qe7 22. a3 Rf4 23. h5 Rcf8 24. h6 g6 25. Bd3 e4 26. Bc2 Qf6 27. O-O-O Qe5 28. Rh4 Qb8 29. Rxf4 Rxf4 30. Bxe4 Ne5 31. Rd8+ Qxd8 32. Qxf4 Nf7 33. Bc2 Qg5 34. Qb8+ Qd8 35. Qxd8+ Nxd8 36. b4 Nf7 37. Be4 Nxh6 38. Bb7 Nf7 39. Bxa6 Nd6 40. a4 bxa4 41. b5 Ne4 42. b6 Nc5 43. Bb5 a3 44. Nc4 Bd5 45. f3 Nd3+ 46. Kb1 a2+ 47. Kxa2 Ne1 48. Ka3 Nxg2 49. Ne5 Bb7 50. c4 Kf8 51. c5 Ke7 52. c6 Bxc6 53. Nxc6+ 1-0
+
+
+[Event "BCF-chT2c 0809 (4NCL) Promotion pool"]
+[Site "Hinckley Island"]
+[Date "2009.05.03"]
+[Round "10.4"]
+[White "Kawuma, Steven Male"]
+[Black "Byway, Paul V"]
+[Result "1-0"]
+[SourceFile "2009.05.03 Kawuma, Steven Male - Byway, Paul V [local Mega].pgn"]
+[Title "2009.05.03 Kawuma, Steven Male - Byway, Paul V 1-0"]
+[ECO "B90"]
+[WhiteElo "2168"]
+[BlackElo "2156"]
+[PlyCount "137"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 d6 7. Bc4 Qc7 8. Bb3 Be6 9. Bg5 Nbd7 10. O-O Bc4 11. Re1 Be7 12. Nd2 Be6 13. Nf1 O-O 14. Ne3 Nc5 15. Bxf6 Bxf6 16. Ned5 Bxd5 17. Nxd5 Qd8 18. Qf3 Bg5 19. Rad1 Rc8 20. g3 g6 21. h4 Be7 22. Qg4 Rb8 23. h5 Kg7 24. Kg2 f5 25. exf5 Rxf5 26. hxg6 hxg6 27. Ne3 Rg5 28. Qf3 Qf8 29. Qxf8+ Bxf8 30. Nc4 Nxb3 31. cxb3 Rf5 32. Nxd6 Bxd6 33. Rxd6 Rbf8 34. Rd7+ R8f7 35. Rxf7+ Kxf7 36. Re4 Ke6 37. Rb4 Rf7 38. Rb6+ Kf5 39. Kf3 e4+ 40. Ke3 Rd7 41. Ke2 g5 42. b4 Ke5 43. a4 Kd4 44. a5 Kc4 45. Ke3 Rf7 46. Kxe4 Rxf2 47. b3+ Kxb3 48. b5 Ka4 49. bxa6 bxa6 50. Rxa6 g4 51. Rg6 Kxa5 52. Rxg4 Kb6 53. Rf4 Rg2 54. Kf3 Rg1 55. Rd4 Kc5 56. Rd8 Rf1+ 57. Kg4 Rf7 58. Kh5 Kc6 59. g4 Kc7 60. Rd1 Rf8 61. g5 Rh8+ 62. Kg6 Rh2 63. Kg7 Rg2 64. g6 Rf2 65. Rd4 Rf1 66. Kg8 Kc6 67. g7 Kc5 68. Rh4 Kd6 69. Kh8 1-0
+
+
+[Event "BCF-chT2c 0809 (4NCL) Promotion pool"]
+[Site "Hinckley Island"]
+[Date "2009.05.03"]
+[Round "11.5"]
+[White "Kawuma, Steven Male"]
+[Black "Cooley, Christopher Martin"]
+[Result "1/2-1/2"]
+[SourceFile "2009.05.03 Kawuma, Steven Male - Cooley, Christopher Martin [local Mega].pgn"]
+[Title "2009.05.03 Kawuma, Steven Male - Cooley, Christopher Martin 1/2-1/2"]
+[ECO "B00"]
+[WhiteElo "2168"]
+[BlackElo "2265"]
+[PlyCount "85"]
+
+1. e4 e6 2. d4 b6 3. Be3 Bb7 4. f3 d5 5. e5 c5 6. c3 Nc6 7. Bd3 Rc8 8. a3 cxd4 9. cxd4 Na5 10. Ne2 Ne7 11. g4 Nc4 12. Bc1 Nc6 13. O-O Qh4 14. b3 h5 15. bxc4 hxg4 16. Bf4 Nxd4 17. Bg3 Nxe2+ 18. Bxe2 Bc5+ 19. Rf2 Bxf2+ 20. Kxf2 Qe7 21. cxd5 Qc5+ 22. Kf1 Bxd5 23. Nd2 Qe3 24. Qa4+ Bc6 25. Qf4 Qxf4 26. Bxf4 gxf3 27. Nxf3 O-O 28. Nd4 Be4 29. Nb5 Rc5 30. Ke1 a6 31. Nd6 Bc6 32. Bg3 f5 33. Bf4 b5 34. Rc1 Rxc1+ 35. Bxc1 Rb8 36. Bd1 a5 37. Bb3 Bd7 38. Nxf5 a4 39. Ba2 b4 40. axb4 Rxb4 41. Ba3 Re4+ 42. Kd2 Rxe5 43. Ne3 1/2-1/2
+
+
+[Event "BCF-chT2a 0910 (4NCL)"]
+[Site "England"]
+[Date "2009.10.24"]
+[Round "1.2"]
+[White "Padilla Cabero, Pablo"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2009.10.24 Padilla Cabero, Pablo - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2009.10.24 Padilla Cabero, Pablo - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B26"]
+[WhiteElo "2169"]
+[BlackElo "2187"]
+[PlyCount "156"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Be3 d6 7. Qd2 Rb8 8. Nf3 e5 9. O-O Nd4 10. Ne1 Nf6 11. Bh6 O-O 12. Bxg7 Kxg7 13. Nd1 d5 14. Ne3 dxe4 15. dxe4 b6 16. c3 Nc6 17. Nd3 Ba6 18. Rfd1 Rb7 19. Qc2 Rd7 20. Qa4 Bxd3 21. Qxc6 Rc7 22. Qa4 c4 23. Bf1 Qa8 24. Bxd3 cxd3 25. f3 Rd8 26. Rd2 a6 27. Qd1 Nxe4 28. fxe4 Qxe4 29. Qe1 f5 30. Ng2 Qxe1+ 31. Rxe1 e4 32. h4 Kf6 33. Nf4 Rc6 34. Kf2 Rdd6 35. Ke3 Ke5 36. Rf2 Rd8 37. Kd2 Rdd6 38. Ng2 Rd8 39. Ne3 Rcc8 40. Ref1 Rf8 41. b3 b5 42. Ng2 Rc6 43. g4 Rcf6 44. g5 Rc6 45. Ne3 a5 46. h5 Ke6 47. h6 a4 48. c4 axb3 49. axb3 bxc4 50. Nxc4 Kd5 51. Ke3 Ra6 52. Nd2 Re8 53. Rc1 Re7 54. Rc4 Rd6 55. Ra4 Rb7 56. Ra5+ Ke6 57. Nc4 Rd5 58. Ra6+ Ke7 59. Nd2 Rd6 60. Ra4 Re6 61. Rf1 Rd7 62. b4 Rb6 63. Nc4 Rb5 64. Rb1 d2 65. Rd1 Rd3+ 66. Ke2 f4 67. Ra7+ Ke6 68. Rxd2 f3+ 69. Kf1 Rxd2 70. Nxd2 Rxb4 71. Rxh7 Kf5 72. Rf7+ Kxg5 73. Rh7 Kf5 74. Rf7+ Kg5 75. h7 Rb8 76. Nxe4+ Kh6 77. Nf6 Rh8 78. Kf2 g5 {No further moves were recorded} 1/2-1/2
+
+
+[Event "BCF-chT2a 0910 (4NCL)"]
+[Site "England"]
+[Date "2009.10.25"]
+[Round "2.4"]
+[White "Kawuma, Steven Male"]
+[Black "Spivack, Simon"]
+[Result "0-1"]
+[SourceFile "2009.10.25 Kawuma, Steven Male - Spivack, Simon [local Mega].pgn"]
+[Title "2009.10.25 Kawuma, Steven Male - Spivack, Simon 0-1"]
+[ECO "C77"]
+[WhiteElo "2187"]
+[BlackElo "2176"]
+[PlyCount "110"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 b5 7. Bc2 Be7 8. Nbd2 O-O 9. Nf1 d5 10. Qe2 Re8 11. h3 a5 12. g4 d4 13. Ng3 a4 14. a3 Nd7 15. Nf5 Nc5 16. Bd2 Bf8 17. cxd4 Nxd4 18. N5xd4 exd4 19. Bb4 Ra6 20. Rg1 Ne6 21. Bxf8 Rxf8 22. Qd2 Qf6 23. Rg3 c5 24. g5 Qe7 25. Kf1 Rd8 26. h4 c4 27. h5 Qc5 28. Kg2 Qc7 29. Kf1 Nc5 30. Rd1 Be6 31. Kg2 cxd3 32. Bxd3 Bc4 33. Bb1 d3 34. Qe3 Ne6 35. Rg4 Rad6 36. Nd2 Qd7 37. Rg3 Nd4 38. f3 f5 39. gxf6 Rxf6 40. Bxd3 Be6 41. Qg5 Kh8 42. Nb1 Bb3 43. Bxb5 Qf7 44. Rd2 h6 45. Qh4 Rfd6 46. e5 Rd5 47. Bd3 Ne6 48. Rg4 Rxd3 49. Rf2 R8d4 50. Nc3 Nf4+ 51. Kg3 Nxh5+ 52. Kg2 Nf4+ 53. Kg3 Ng6 54. Rxd4 Nxh4 55. Rxd3 Qg6+ 0-1
+
+
+[Event "BCF-chT2a 0910 (4NCL)"]
+[Site "England"]
+[Date "2010.01.16"]
+[Round "3.2"]
+[White "Adams, David M"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2010.01.16 Adams, David M - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.01.16 Adams, David M - Kawuma, Steven Male 1-0"]
+[ECO "B51"]
+[WhiteElo "2217"]
+[BlackElo "2187"]
+[PlyCount "72"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 Nf6 6. Re1 a6 7. Ba4 b5 8. Bc2 Bg4 9. d3 e5 10. Nbd2 Be7 11. h3 Bh5 12. Nf1 h6 13. Ng3 Bg6 14. Nh4 Bh7 15. Nhf5 Bxf5 16. Nxf5 Bf8 17. a4 g6 18. Ne3 Bg7 19. Bb3 O-O 20. Nd5 b4 21. f4 exf4 22. Bxf4 bxc3 23. bxc3 Rb8 24. Rf1 Na5 25. Nxf6+ Qxf6 26. Bd5 Qe7 27. Rb1 c4 28. dxc4 Kh7 29. Rxb8 Rxb8 30. c5 Nb7 31. Qb3 Qc7 32. Rb1 Qxc5+ 33. Kh1 Qf2 34. Bh2 Be5 35. Bxe5 dxe5 36. Bxb7 h5 1-0
+
+
+[Event "BCF-chT2a 0910 (4NCL)"]
+[Site "England"]
+[Date "2010.01.17"]
+[Round "4.4"]
+[White "Kawuma, Steven Male"]
+[Black "Purton, Benjamin"]
+[Result "1-0"]
+[SourceFile "2010.01.17 Kawuma, Steven Male - Purton, Benjamin [local Mega].pgn"]
+[Title "2010.01.17 Kawuma, Steven Male - Purton, Benjamin 1-0"]
+[ECO "B07"]
+[WhiteElo "2187"]
+[BlackElo "2144"]
+[PlyCount "41"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. Nf3 Bg4 7. Be3 Qb6 8. Ne2 Bxf3 9. gxf3 exd4 10. Bxd4 Qa5+ 11. Bc3 Qh5 12. Ng3 Qh4 13. Qd2 Nh5 14. O-O-O Nxf4 15. Nf5 Nxd3+ 16. Qxd3 Qf4+ 17. Kb1 f6 18. Qc4 d5 19. Rxd5 Nd7 20. Rxd7 Kxd7 21. Qf7+ 1-0
+
+
+[Event "Gibraltar Masters 8th"]
+[Site "Caleta"]
+[Date "2010.01.26"]
+[Round "1"]
+[White "Kawuma, Steven Male"]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "0-1"]
+[SourceFile "2010.01.26 Kawuma, Steven Male - Bellon Lopez, Juan Manuel [local Mega].pgn"]
+[Title "2010.01.26 Kawuma, Steven Male - Bellon Lopez, Juan Manuel 0-1"]
+[ECO "B48"]
+[WhiteElo "2187"]
+[BlackElo "2440"]
+[PlyCount "52"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 Nf6 7. Bd3 a6 8. Nb3 b5 9. a3 Ne5 10. f4 Nc4 11. Bxc4 bxc4 12. Nd4 Bb7 13. Qf3 Be7 14. g4 Nxe4 15. Nxe4 f5 16. gxf5 exf5 17. Nxf5 Qa5+ 18. Kd1 Qxf5 19. Nd6+ Bxd6 20. Qxb7 Rb8 21. Qxa6 Qd5+ 22. Ke2 Qg2+ 23. Bf2 Qe4+ 24. Be3 Bc5 25. Rae1 Bxe3 26. b4 O-O 0-1
+
+
+[Event "Gibraltar Challengers-A 8th"]
+[Site "Caleta"]
+[Date "2010.01.26"]
+[Round "1"]
+[White "Ungureanu, Sandu"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2010.01.26 Ungureanu, Sandu - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.01.26 Ungureanu, Sandu - Kawuma, Steven Male 1/2-1/2"]
+[ECO "E77"]
+[WhiteElo "2100"]
+[BlackElo "2187"]
+[PlyCount "87"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 a6 8. a4 e6 9. Be2 exd5 10. exd5 Re8 11. O-O Ng4 12. Re1 Bf5 13. h3 Ne3 14. Bxe3 Rxe3 15. Qd2 Re8 16. Bd3 Rxe1+ 17. Rxe1 Bxd3 18. Qxd3 Nd7 19. Ne4 Nf6 20. b3 Rb8 21. g4 Nxe4 22. Qxe4 b5 23. axb5 axb5 24. Qe7 Qxe7 25. Rxe7 bxc4 26. bxc4 Rb2 27. Re8+ Bf8 28. f5 gxf5 29. gxf5 Rc2 30. f6 Rxc4 31. Ng5 Rf4 32. Ne4 c4 33. Nxd6 c3 34. Rc8 c2 35. Nxf7 Kxf7 36. Rxc2 Kxf6 37. Re2 Bc5+ 38. Kg2 Rd4 39. Re6+ Kg7 40. Rc6 Rxd5 41. Kf3 Rd3+ 42. Ke4 Rc3 43. Kd5 Rxh3 44. Rxc5 1/2-1/2
+
+
+[Event "Gibraltar Masters 8th"]
+[Site "Caleta"]
+[Date "2010.01.27"]
+[Round "2"]
+[White "Fox, Pierre"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2010.01.27 Fox, Pierre - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.01.27 Fox, Pierre - Kawuma, Steven Male 1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "1788"]
+[BlackElo "2187"]
+[PlyCount "80"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 Na6 7. Nd2 e5 8. d5 Nc5 9. b4 Ncd7 10. Rb1 Ne8 11. h4 f5 12. Nf3 f4 13. Ng5 Ndf6 14. h5 Qe7 15. hxg6 hxg6 16. c5 Nh5 17. Bxh5 Qxg5 18. Bf3 Qe7 19. Ba3 Kf7 20. Qe2 Nf6 21. Rc1 Bd7 22. Qc4 Rac8 23. b5 b6 24. c6 Bg4 25. Qa4 g5 26. Qd1 Bxf3 27. gxf3 Ra8 28. Qe2 Kg6 29. Kd2 Qe8 30. Bb4 Rh8 31. a4 Qc8 32. a5 Rh3 33. Rxh3 Qxh3 34. Ra1 Rc8 35. axb6 axb6 36. Ra7 g4 37. fxg4 f3 38. Qe1 Nxg4 39. Kd3 Qg2 40. Nd1 Bf8 1/2-1/2
+
+
+[Event "Gibraltar Challengers-A 8th"]
+[Site "Caleta"]
+[Date "2010.01.27"]
+[Round "2"]
+[White "Kawuma, Steven Male"]
+[Black "Hamer, Martyn"]
+[Result "1-0"]
+[SourceFile "2010.01.27 Kawuma, Steven Male - Hamer, Martyn [local Mega].pgn"]
+[Title "2010.01.27 Kawuma, Steven Male - Hamer, Martyn 1-0"]
+[ECO "C42"]
+[WhiteElo "2187"]
+[BlackElo "2039"]
+[PlyCount "87"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6 8. Qd2 Ne5 9. O-O-O Nxf3 10. gxf3 Be6 11. Rg1 Bf6 12. Kb1 a6 13. Bd4 Bxd4 14. Qxd4 Qf6 15. Rxg7 Qxd4 16. cxd4 Kf8 17. Rg3 Bf5 18. Kc1 Re8 19. Rg5 Bg6 20. Kd2 f6 21. Rg3 Rg8 22. Bc4 Rg7 23. c3 Ree7 24. Rdg1 Bf5 25. a3 Bd7 26. Bd3 Bc8 27. h4 f5 28. f4 Rxg3 29. fxg3 h5 30. Be2 Rh7 31. Bf3 b6 32. c4 c5 33. dxc5 bxc5 34. b4 cxb4 35. axb4 Kf7 36. Kd3 Kf6 37. Kd4 Bb7 38. Bd5 Bc8 39. b5 axb5 40. cxb5 Bb7 41. b6 Rd7 42. Ra1 Bxd5 43. Kxd5 Rg7 44. Ra3 1-0
+
+
+[Event "Gibraltar Challengers-A 8th"]
+[Site "Caleta"]
+[Date "2010.01.28"]
+[Round "3"]
+[White "Jameson, David"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2010.01.28 Jameson, David - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.01.28 Jameson, David - Kawuma, Steven Male 0-1"]
+[ECO "B23"]
+[WhiteElo "2053"]
+[BlackElo "2187"]
+[PlyCount "76"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 d6 5. Bb5 Bg7 6. d3 Nh6 7. O-O O-O 8. Bxc6 bxc6 9. Bd2 Rb8 10. h3 f5 11. Rb1 fxe4 12. dxe4 Ba6 13. Re1 Qd7 14. b3 Nf7 15. Na4 c4 16. Bc3 cxb3 17. axb3 Bxc3 18. Nxc3 Nd8 19. Ra1 Qb7 20. Qd2 Qb6+ 21. Kh1 Nf7 22. Qd4 Bb5 23. Nxb5 Qxb5 24. Rxa7 Rbe8 25. Qe3 Qh5 26. Nd4 Nd8 27. b4 e5 28. fxe5 Qxe5 29. Qb3+ d5 30. Nf3 Qg3 31. Qc3 Ne6 32. Rd1 d4 33. Qxc6 Nd8 34. Qd7 Nf7 35. Qxd4 Rd8 36. Rd7 Rxd7 37. Qxd7 Rd8 38. Qxd8+ Nxd8 0-1
+
+
+[Event "Gibraltar Masters 8th"]
+[Site "Caleta"]
+[Date "2010.01.28"]
+[Round "3"]
+[White "Kawuma, Steven Male"]
+[Black "Chidi, Lovinia Sylvia"]
+[Result "1-0"]
+[SourceFile "2010.01.28 Kawuma, Steven Male - Chidi, Lovinia Sylvia [local Mega].pgn"]
+[Title "2010.01.28 Kawuma, Steven Male - Chidi, Lovinia Sylvia 1-0"]
+[ECO "C70"]
+[WhiteElo "2187"]
+[BlackElo "1832"]
+[PlyCount "43"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. c3 b5 6. Bc2 d6 7. d3 Bb7 8. Nbd2 Nf6 9. h3 h6 10. Nf1 O-O 11. Ng3 d5 12. Qe2 d4 13. Nf5 Kh7 14. g4 Bc8 15. g5 Ng8 16. Bb3 Be6 17. gxh6 g6 18. Ng5+ Kh8 19. Bxe6 fxe6 20. Nxe6 Qf6 21. Nxc5 gxf5 22. Nd7 1-0
+
+
+[Event "Gibraltar Masters 8th"]
+[Site "Caleta"]
+[Date "2010.01.29"]
+[Round "4"]
+[White "De Lillo, Michele"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2010.01.29 De Lillo, Michele - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.01.29 De Lillo, Michele - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "1934"]
+[BlackElo "2187"]
+[PlyCount "60"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. Bd3 Be6 14. Nce3 Bg5 15. a3 Qd7 16. O-O Ne7 17. Qh5 Bxe3 18. Nxe3 f6 19. Rad1 Rfc8 20. Qe2 Rc5 21. Rd2 Rd8 22. Rfd1 Qc7 23. Bc2 Rc6 24. g3 Rb6 25. Bd3 g6 26. h4 h5 27. Kh2 Kg7 28. Bc2 Qb8 29. Qf3 Rh8 30. Qg2 Qc7 1/2-1/2
+
+
+[Event "Gibraltar Challengers-A 8th"]
+[Site "Caleta"]
+[Date "2010.01.29"]
+[Round "4"]
+[White "Kawuma, Steven Male"]
+[Black "Hagen, Anders Gjerdrum"]
+[Result "0-1"]
+[SourceFile "2010.01.29 Kawuma, Steven Male - Hagen, Anders Gjerdrum [local Mega].pgn"]
+[Title "2010.01.29 Kawuma, Steven Male - Hagen, Anders Gjerdrum 0-1"]
+[ECO "A07"]
+[WhiteElo "2187"]
+[BlackElo "2108"]
+[PlyCount "80"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Bf5 4. d3 e6 5. Nh4 Bg4 6. h3 Bh5 7. Nd2 Be7 8. c4 c6 9. Nhf3 Nbd7 10. O-O O-O 11. b3 Qb6 12. Bb2 a5 13. Kh2 a4 14. Ng1 e5 15. cxd5 cxd5 16. Ngf3 Bd6 17. Rb1 axb3 18. Qxb3 Qxb3 19. axb3 Bg6 20. Nh4 Bb4 21. Nxg6 hxg6 22. Nf3 Rfe8 23. Rfc1 Bd6 24. Kg1 Ra2 25. Kf1 e4 26. dxe4 dxe4 27. Nd2 b5 28. Rd1 Be5 29. Bxe5 Rxe5 30. Nxe4 Nxe4 31. Bxe4 Rxe4 32. Rxd7 Rexe2 33. Ra7 Rxf2+ 34. Kg1 Rg2+ 35. Kh1 Rh2+ 36. Kg1 Rag2+ 37. Kf1 Rxg3 38. Rb7 Rg5 39. Re1 Rh1+ 40. Kf2 Rf5+ 0-1
+
+
+[Event "Gibraltar Masters 8th"]
+[Site "Caleta"]
+[Date "2010.01.30"]
+[Round "5"]
+[White "Kawuma, Steven Male"]
+[Black "Steinskog, Asbjorn Ottesen"]
+[Result "1-0"]
+[SourceFile "2010.01.30 Kawuma, Steven Male - Steinskog, Asbjorn Ottesen [local Mega].pgn"]
+[Title "2010.01.30 Kawuma, Steven Male - Steinskog, Asbjorn Ottesen 1-0"]
+[ECO "B80"]
+[WhiteElo "2187"]
+[BlackElo "1884"]
+[PlyCount "41"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8. Qd2 Bb7 9. g4 h6 10. O-O-O Nbd7 11. h4 b4 12. Nce2 d5 13. Rg1 dxe4 14. g5 exf3 15. gxf6 fxe2 16. Qxe2 Qxf6 17. Bg2 Bxg2 18. Qxg2 Rb8 19. Rgf1 Qxh4 20. Nxe6 g5 21. Qc6 1-0
+
+
+[Event "Gibraltar Challengers-A 8th"]
+[Site "Caleta"]
+[Date "2010.01.30"]
+[Round "5"]
+[White "Vinas Guerrero, Carlos Alberto"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2010.01.30 Vinas Guerrero, Carlos Alberto - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.01.30 Vinas Guerrero, Carlos Alberto - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2120"]
+[BlackElo "2187"]
+[PlyCount "71"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 Bg4 6. Be2 e6 7. h3 Bh5 8. O-O Nf6 9. Be3 cxd4 10. Nxd4 Bxe2 11. Qxe2 Nxd4 12. Bxd4 Be7 13. Rd1 Qc6 14. c4 O-O 15. Nc3 h6 16. b3 a6 17. Rac1 Rad8 18. Rc2 Rfe8 19. Bxf6 Bxf6 20. Rxd8 Rxd8 21. Rd2 Re8 22. Ne4 Be5 23. Qd3 Kf8 24. b4 Bf4 25. Rd1 Rc8 26. g3 Bb8 27. Nc5 Kg8 28. Qd7 Ba7 29. Qxc6 Rxc6 30. Rd8+ Kh7 31. Rd7 Bxc5 32. bxc5 Rxc5 33. Rxf7 Rxc4 34. Rxb7 Ra4 35. Re7 Re4 36. Ra7 1/2-1/2
+
+
+[Event "Gibraltar Masters 8th"]
+[Site "Caleta"]
+[Date "2010.01.31"]
+[Round "6"]
+[White "Boskovic, Drasko"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2010.01.31 Boskovic, Drasko - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.01.31 Boskovic, Drasko - Kawuma, Steven Male 1-0"]
+[ECO "B33"]
+[WhiteElo "2454"]
+[BlackElo "2187"]
+[PlyCount "93"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. a4 a6 8. Na3 Be6 9. Bc4 Be7 10. Bg5 O-O 11. Bxf6 Bxf6 12. Nd5 Rc8 13. O-O Bg5 14. c3 g6 15. Qe2 Kh8 16. Rad1 Bh6 17. h3 f5 18. Nb6 Qxb6 19. Bxe6 Rcd8 20. exf5 Rf6 21. Nc4 Qc7 22. Ne3 Bxe3 23. fxe3 Qa5 24. g4 gxf5 25. Bxf5 Qc7 26. g5 Rff8 27. e4 Qg7 28. h4 Ne7 29. c4 Nc6 30. Qg4 Nd4 31. Rd3 Rde8 32. Rg3 Rd8 33. Kh2 Rde8 34. Rf2 Rd8 35. Rfg2 b6 36. Kh1 a5 37. Qh3 Nc6 38. h5 Ne7 39. Kh2 Rb8 40. Bxh7 Kxh7 41. g6+ Kh6 42. Qg4 Qf6 43. Rf3 Qxf3 44. Qg5+ Kg7 45. Qxe7+ Rf7 46. gxf7+ Kh8 47. Qe8+ 1-0
+
+
+[Event "Gibraltar Challengers-B 8th"]
+[Site "Caleta"]
+[Date "2010.01.31"]
+[Round "1"]
+[White "Ungureanu, Sandu"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2010.01.31 Ungureanu, Sandu - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.01.31 Ungureanu, Sandu - Kawuma, Steven Male 1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2094"]
+[BlackElo "2187"]
+[PlyCount "93"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 Qb6 6. c3 d6 7. Na3 a6 8. Nxc6 Qxc6 9. Be3 d5 10. e5 Nd7 11. f4 e6 12. Nc2 Nb6 13. Nd4 Qc7 14. Qd2 Nc4 15. Bxc4 dxc4 16. O-O Bc5 17. Nf3 b5 18. Bxc5 Qxc5+ 19. Qd4 Qxd4+ 20. Nxd4 Bd7 21. Rfd1 Ke7 22. Rd2 Rhb8 23. Rad1 Rb7 24. Kf2 Rc7 25. Ke3 Rb7 26. a3 Rc7 27. h4 h5 28. Ne2 Bc6 29. Ng3 Rh8 30. Rd6 f5 31. Ne2 Ra8 32. Nd4 Bd7 33. Rb6 Raa7 34. Nf3 Rcb7 35. Rdd6 Rxb6 36. Rxb6 Bc8 37. Nd4 Rc7 38. Nc6+ Ke8 39. g3 Rd7 40. Nd4 Rd5 41. a4 bxa4 42. Rb4 Rc5 43. Rxa4 a5 44. Kd2 Bd7 45. Ra1 a4 46. Kc2 Kd8 47. Rd1 1/2-1/2
+
+
+[Event "Gibraltar Masters 8th"]
+[Site "Caleta"]
+[Date "2010.02.01"]
+[Round "7"]
+[White "Kawuma, Steven Male"]
+[Black "Bryn, Askild"]
+[Result "1-0"]
+[SourceFile "2010.02.01 Kawuma, Steven Male - Bryn, Askild [local Mega].pgn"]
+[Title "2010.02.01 Kawuma, Steven Male - Bryn, Askild 1-0"]
+[ECO "B33"]
+[WhiteElo "2187"]
+[BlackElo "2036"]
+[PlyCount "35"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 h6 6. N1c3 Nf6 7. Nd6+ Bxd6 8. Qxd6 Qe7 9. Qd1 O-O 10. Be2 Rd8 11. O-O Nd4 12. Bc4 b5 13. Nd5 Qd6 14. Nxf6+ Qxf6 15. Bd5 Rb8 16. f4 Bb7 17. fxe5 Qb6 18. Be3 1-0
+
+
+[Event "Gibraltar Challengers-B 8th"]
+[Site "Caleta"]
+[Date "2010.02.01"]
+[Round "2"]
+[White "Kawuma, Steven Male"]
+[Black "Helin, Mikael"]
+[Result "1-0"]
+[SourceFile "2010.02.01 Kawuma, Steven Male - Helin, Mikael [local Mega].pgn"]
+[Title "2010.02.01 Kawuma, Steven Male - Helin, Mikael 1-0"]
+[ECO "B42"]
+[WhiteElo "2187"]
+[BlackElo "1972"]
+[PlyCount "79"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 e6 5. Bd3 Qc7 6. O-O Nf6 7. Qe2 h5 8. h3 Bc5 9. Nb3 Be7 10. e5 Nd5 11. a3 g5 12. c4 Nf4 13. Bxf4 gxf4 14. N1d2 Nc6 15. Nf3 b6 16. Rfe1 Bb7 17. Kh1 O-O-O 18. c5 b5 19. a4 Nb4 20. axb5 Nxd3 21. Qxd3 axb5 22. Qxb5 Qc6 23. Qe2 f5 24. Na5 Qa6 25. Nc4 Qc6 26. b4 Rhg8 27. Na5 Qe4 28. Nxb7 Qxe2 29. Nd6+ Bxd6 30. Rxe2 Be7 31. Ra7 Kb8 32. Rea2 Rde8 33. Rxd7 Bd8 34. Raa7 Rg6 35. c6 Re7 36. Rxe7 Bxe7 37. Rxe7 Rg8 38. b5 Ka8 39. b6 Kb8 40. Ra7 1-0
+
+
+[Event "Gibraltar Challengers-B 8th"]
+[Site "Caleta"]
+[Date "2010.02.02"]
+[Round "3"]
+[White "Jayakumar, Adarsh"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2010.02.02 Jayakumar, Adarsh - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.02.02 Jayakumar, Adarsh - Kawuma, Steven Male 0-1"]
+[ECO "E84"]
+[WhiteElo "2090"]
+[BlackElo "2187"]
+[PlyCount "100"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. Qd2 Rb8 9. Nc1 e5 10. d5 Nd4 11. Nb3 Nxb3 12. axb3 c5 13. dxc6 bxc6 14. Ra3 Bb7 15. b4 Ne8 16. Be2 Nc7 17. O-O Ne6 18. Rd1 Nd4 19. c5 Qe7 20. cxd6 Qxd6 21. Na4 Bc8 22. Bxd4 Qxd4+ 23. Qxd4 exd4 24. Nc5 Rxb4 25. Rd2 Rd8 26. Nxa6 Bxa6 27. Rxa6 Bh6 28. Rd1 c5 29. Rc6 Be3+ 30. Kh1 Rxb2 31. Bd3 Ra8 32. Rxc5 Rd2 33. Rcc1 Rxd3 34. Rxd3 Bxc1 35. Rxd4 Bb2 36. Rd1 Ra1 37. Rxa1 Bxa1 38. g3 Kg7 39. Kg2 Kf6 40. f4 Ke6 41. Kf3 Bd4 42. g4 Kd6 43. h3 Bg7 44. g5 Bb2 45. Kg4 Kc5 46. f5 Kd6 47. fxg6 fxg6 48. h4 Ke5 49. Kf3 Bd4 50. h5 Bc5 0-1
+
+
+[Event "Gibraltar Masters 8th"]
+[Site "Caleta"]
+[Date "2010.02.02"]
+[Round "8"]
+[White "Zaremba, Andrie"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2010.02.02 Zaremba, Andrie - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.02.02 Zaremba, Andrie - Kawuma, Steven Male 1/2-1/2"]
+[ECO "E69"]
+[WhiteElo "2360"]
+[BlackElo "2187"]
+[PlyCount "159"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. c4 d6 6. O-O c6 7. Nc3 Nbd7 8. e4 e5 9. h3 Re8 10. Re1 exd4 11. Nxd4 a5 12. Be3 Nc5 13. Qc2 Qc7 14. Rad1 Ne6 15. Nde2 Bf8 16. f4 Nd7 17. g4 Qd8 18. Qd2 Nec5 19. Ng3 Qe7 20. b3 Ra6 21. Re2 Ra8 22. Rde1 Rd8 23. Bd4 Ne6 24. Be3 Nec5 25. Bf2 Re8 26. Nf5 Qf6 27. Bd4 Qe6 28. Nd5 Na6 29. Ba1 f6 30. g5 Qf7 31. Nxd6 Bxd6 32. Nxf6+ Nxf6 33. Qxd6 Nh5 34. f5 Qf8 35. Qd2 gxf5 36. exf5 Bxf5 37. Qc3 Rxe2 38. Rxe2 Qc5+ 39. Kh1 Kf7 40. Qf3 Kg6 41. Re5 Qf8 42. Qe3 Nc7 43. Be4 Ng7 44. h4 Re8 45. Bf3 Nh5 46. Kh2 Rxe5 47. Qxe5 Ne6 48. Be4 Qf7 49. Bf3 Bd3 50. Bxh5+ Kxh5 51. g6+ Qf5 52. Qxf5+ Bxf5 53. g7 Nxg7 54. Bxg7 Kxh4 55. c5 Bb1 56. Bc3 Bxa2 57. Bxa5 Bxb3 58. Bb6 Kg4 59. Ba7 Kf5 60. Kg3 Ke4 61. Kg4 Bd1+ 62. Kh4 Be2 63. Kg5 Kd5 64. Bb6 Kc4 65. Kh6 Bd3 66. Kg5 Kb5 67. Kh6 Kc4 68. Kg5 Kd5 69. Kh6 Ke6 70. Kg5 Kf7 71. Kh6 Kg8 72. Bc7 Be4 73. Bb6 Bg6 74. Ba7 Bf5 75. Bb6 Be4 76. Ba7 Bf5 77. Bb6 Bc8 78. Bc7 b5 79. cxb6 c5 80. Be5 1/2-1/2
+
+
+[Event "Gibraltar Challengers-B 8th"]
+[Site "Caleta"]
+[Date "2010.02.03"]
+[Round "4"]
+[White "Kawuma, Steven Male"]
+[Black "Allor, Chuckwuka"]
+[Result "1-0"]
+[SourceFile "2010.02.03 Kawuma, Steven Male - Allor, Chuckwuka [local Mega].pgn"]
+[Title "2010.02.03 Kawuma, Steven Male - Allor, Chuckwuka 1-0"]
+[ECO "B67"]
+[WhiteElo "2187"]
+[BlackElo "2100"]
+[PlyCount "61"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8. O-O-O Bd7 9. f4 b5 10. Nxc6 Bxc6 11. Qd4 Be7 12. Bd3 O-O 13. Kb1 h6 14. Bh4 Rb8 15. h3 b4 16. Ne2 a5 17. g4 Nd7 18. Bxe7 Qxe7 19. Ng3 Rfd8 20. h4 g6 21. g5 e5 22. Qg1 h5 23. f5 Nc5 24. Qe3 Nxd3 25. cxd3 d5 26. Rhf1 dxe4 27. fxg6 fxg6 28. Rf6 Rd6 29. Qc5 Rbd8 30. Rxg6+ Kh8 31. Rh6+ 1-0
+
+
+[Event "Gibraltar Masters 8th"]
+[Site "Caleta"]
+[Date "2010.02.03"]
+[Round "9"]
+[White "Kawuma, Steven Male"]
+[Black "Zozulia, Anna"]
+[Result "1-0"]
+[SourceFile "2010.02.03 Kawuma, Steven Male - Zozulia, Anna [local Mega].pgn"]
+[Title "2010.02.03 Kawuma, Steven Male - Zozulia, Anna 1-0"]
+[ECO "B33"]
+[WhiteElo "2187"]
+[BlackElo "2321"]
+[PlyCount "179"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3 e6 7. Bd3 a6 8. O-O Qc7 9. f4 d6 10. a3 b5 11. Be3 h5 12. h3 Rb8 13. Nd4 Bb7 14. Nf3 Be7 15. Qe1 Nd7 16. Qg3 g6 17. Ng5 Rg8 18. Kh2 Qd8 19. h4 Nf6 20. Kh1 Ng4 21. Bg1 Qd7 22. Rad1 f6 23. Nf3 Nd8 24. Be2 Nf7 25. Nd4 Kf8 26. Bxg4 hxg4 27. f5 gxf5 28. exf5 e5 29. Ne6+ Ke8 30. Be3 d5 31. Nxd5 Bxd5 32. Rxd5 Qb7 33. Rfd1 Nd8 34. Nxd8 Rxd8 35. Rxd8+ Bxd8 36. Bc5 Qe4 37. Qb3 Qc4 38. Qxc4 bxc4 39. g3 Be7 40. Rd5 Rg7 41. Kg2 Bxc5 42. Rxc5 Rb7 43. Rxc4 Rxb2 44. Kf2 Kd7 45. Ke2 Ra2 46. a4 Kd6 47. Kd2 Kd5 48. Rxg4 e4 49. h5 Rxa4 50. Rh4 Rc4 51. h6 Rc8 52. h7 Rh8 53. Ke3 a5 54. c4+ Kxc4 55. Rxe4+ Kb3 56. Re7 a4 57. Rf7 a3 58. Rxf6 Rxh7 59. Rb6+ Kc2 60. Ra6 Kb2 61. Kf4 a2 62. g4 Rh1 63. f6 a1=Q 64. Rxa1 Rxa1 65. g5 Kc3 66. g6 Kd4 67. g7 Rf1+ 68. Kg5 Ke5 69. f7 Rf5+ 70. Kg4 Rf4+ 71. Kg3 Rxf7 72. g8=Q Rb7 73. Qe8+ Kd6 74. Kf4 Rb4+ 75. Kf5 Rb7 76. Qe5+ Kc6 77. Ke6 Rb6 78. Qc3+ Kb7+ 79. Kd7 Ka7 80. Qa3+ Kb7 81. Qa5 Ra6 82. Qd5+ Kb6 83. Qc4 Ra7+ 84. Kd6 Rb7 85. Qa4 Rb8 86. Qb4+ Ka7 87. Qa5+ Kb7 88. Kd7 Rh8 89. Qd5+ Ka6 90. Qa2+ 1-0
+
+
+[Event "Gibraltar Masters 8th"]
+[Site "Caleta"]
+[Date "2010.02.04"]
+[Round "10"]
+[White "Kawuma, Steven Male"]
+[Black "Maze, Sebastien"]
+[Result "0-1"]
+[SourceFile "2010.02.04 Kawuma, Steven Male - Maze, Sebastien [local Mega].pgn"]
+[Title "2010.02.04 Kawuma, Steven Male - Maze, Sebastien 0-1"]
+[ECO "B35"]
+[WhiteElo "2187"]
+[BlackElo "2554"]
+[PlyCount "44"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 Qa5 8. f3 Qb4 9. Bb3 O-O 10. a3 Qa5 11. Qd2 d6 12. O-O-O Bd7 13. Kb1 Rfc8 14. Nxc6 bxc6 15. Nd5 Qxd2 16. Nxf6+ Bxf6 17. Rxd2 c5 18. c4 Rab8 19. Ka2 Rb7 20. Bd1 Rcb8 21. b3 Be6 22. a4 Bxc4 0-1
+
+
+[Event "Gibraltar Challengers-B 8th"]
+[Site "Caleta"]
+[Date "2010.02.04"]
+[Round "5"]
+[White "Montero Melendez, Rafael"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2010.02.04 Montero Melendez, Rafael - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.02.04 Montero Melendez, Rafael - Kawuma, Steven Male 1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "2261"]
+[BlackElo "2187"]
+[PlyCount "96"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 a5 8. Bg5 Na6 9. Nd2 Nc5 10. Be2 Bd7 11. Rb1 a4 12. O-O h6 13. Be3 Ne8 14. b4 axb3 15. axb3 f5 16. Bxc5 dxc5 17. b4 cxb4 18. Rxb4 b6 19. Rb1 Qh4 20. c5 bxc5 21. Nf3 Qf6 22. Bb5 Rd8 23. Bxd7 Rxd7 24. Qa4 Rdf7 25. Rb5 Qe7 26. Nd2 h5 27. Qc2 Bh6 28. Nc4 Kg7 29. Qe2 Nd6 30. Rxc5 fxe4 31. Rc6 Nxc4 32. Qxc4 e3 33. f3 Bf4 34. Ne4 Rb8 35. d6 cxd6 36. Nxd6 e2 37. Qxe2 Rf6 38. Qa6 Rd8 39. Ne4 Rxc6 40. Qxc6 Rd7 41. Rb1 Ra7 42. Qd6 Qxd6 43. Nxd6 Ra2 44. Ne4 Ra7 45. Rb2 Be3+ 46. Kf1 Bd4 47. Rc2 Kf7 48. Ke2 Ra1 1/2-1/2
+
+
+[Event "BCF-chT2a 0910 (4NCL)"]
+[Site "England"]
+[Date "2010.02.20"]
+[Round "5.2"]
+[White "Munson, Shaun D"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2010.02.20 Munson, Shaun D - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.02.20 Munson, Shaun D - Kawuma, Steven Male 0-1"]
+[ECO "A45"]
+[WhiteElo "2172"]
+[BlackElo "2187"]
+[PlyCount "163"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 6. d5 e6 7. e4 exd5 8. exd5 d6 9. Na3 Be7 10. Nc4 Qd8 11. a4 O-O 12. Ne2 Nh5 13. Be3 Re8 14. Qd2 Bd7 15. g3 Na6 16. Kf2 Nc7 17. Nf4 Nf6 18. h4 Bf8 19. Bg2 b6 20. Rhe1 Rb8 21. Kg1 Bc8 22. Na3 Nd7 23. Nh3 h6 24. Nf2 Ne5 25. Qd1 b5 26. axb5 Nxb5 27. Nxb5 Rxb5 28. b3 Rb7 29. c4 Nd7 30. Qc2 Nf6 31. Bd2 Rxe1+ 32. Rxe1 Re7 33. Rxe7 Qxe7 34. Bc3 Nh5 35. Kh2 f5 36. Nh3 f4 37. g4 Qxh4 38. Qe4 Ng3 39. Qe8 Nf1+ 40. Bxf1 Qg3+ 41. Kh1 Qxf3+ 42. Bg2 Qxg4 43. Nf2 Qh4+ 44. Kg1 Bf5 45. Be1 g5 46. Nh1 Qg4 47. Kf2 Qd1 48. Bf3 Qxb3 49. Bh5 Qb7 50. Kg1 Qg7 51. Bc3 Qe7 52. Qxe7 Bxe7 53. Nf2 Kh7 54. Kg2 Bg6 55. Bd1 h5 56. Kf3 Bf5 57. Ba4 Kh6 58. Be8 Bc2 59. Bb5 Bd8 60. Ne4 Bd1+ 61. Kf2 Be7 62. Nf6 Bf8 63. Ng8+ Kg6 64. Be8+ Kf5 65. Nf6 Bg7 66. Bd7+ Kg6 67. Be8+ Kh6 68. Bd7 g4 69. Ng8+ Kg6 70. Ne7+ Kf7 71. Bxg7 Kxg7 72. Nf5+ Kf6 73. Be6 Ke5 74. Ne7 g3+ 75. Kg2 Bc2 76. Nc6+ Ke4 77. Nxa7 h4 78. Bg4 Kd4 79. Be2 Be4+ 80. Kh3 f3 81. Nb5+ Ke5 82. Bf1 0-1
+
+
+[Event "BCF-chT2a 0910 (4NCL)"]
+[Site "England"]
+[Date "2010.02.21"]
+[Round "6.2"]
+[White "Kawuma, Steven Male"]
+[Black "Dorrington, Christopher"]
+[Result "0-1"]
+[SourceFile "2010.02.21 Kawuma, Steven Male - Dorrington, Christopher [local Mega].pgn"]
+[Title "2010.02.21 Kawuma, Steven Male - Dorrington, Christopher 0-1"]
+[ECO "B42"]
+[WhiteElo "2187"]
+[BlackElo "2262"]
+[PlyCount "86"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bd3 a6 7. O-O b5 8. a3 Bb7 9. Be3 Nbd7 10. f4 Qc7 11. Qf3 Be7 12. Kh1 Nc5 13. Rae1 Rd8 14. Bg1 g6 15. Qg3 Qb8 16. Nf3 Qa8 17. Bd4 Rg8 18. Qh3 h5 19. Ng5 Ng4 20. Qg3 Nxd3 21. cxd3 d5 22. e5 Nh6 23. Nh7 Nf5 24. Qf2 Rh8 25. Nf6+ Kf8 26. Ne2 h4 27. h3 Kg7 28. Rc1 Rc8 29. Nd7 Rxc1 30. Rxc1 Qd8 31. Bb6 Qxd7 32. Rc7 Qe8 33. Rxb7 b4 34. axb4 Bxb4 35. Nd4 Nxd4 36. Bxd4 a5 37. Qe3 Qc6 38. Ra7 Rc8 39. Kh2 Qc1 40. Qf2 Be1 41. Qg1 Bg3+ 42. Kh1 Qxg1+ 43. Bxg1 Rc1 0-1
+
+
+[Event "BCF-chT2a 0910 (4NCL)"]
+[Site "England"]
+[Date "2010.03.27"]
+[Round "7.2"]
+[White "Kawuma, Steven Male"]
+[Black "Richardson, Keith Bevan"]
+[Result "1-0"]
+[SourceFile "2010.03.27 Kawuma, Steven Male - Richardson, Keith Bevan [local Mega].pgn"]
+[Title "2010.03.27 Kawuma, Steven Male - Richardson, Keith Bevan 1-0"]
+[ECO "B09"]
+[WhiteElo "2202"]
+[BlackElo "2168"]
+[PlyCount "76"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 5. Be3 Nf6 6. Nf3 O-O 7. Qd2 a6 8. O-O-O b5 9. a3 b4 10. axb4 Nxb4 11. Bc4 c6 12. e5 Nfd5 13. exd6 exd6 14. Nxd5 Nxd5 15. h3 Rb8 16. Bxd5 cxd5 17. g4 Qb6 18. Qc3 Bd7 19. Qa3 Rfc8 20. Rd3 Rc4 21. b3 Rcc8 22. Qa1 h5 23. Rg1 hxg4 24. hxg4 a5 25. Rc3 a4 26. bxa4 Qa6 27. Nd2 Bxa4 28. Nb1 Qe2 29. Nd2 Bd7 30. f5 Rxc3 31. Qxc3 Rc8 32. Qb3 gxf5 33. g5 f4 34. Bxf4 Bf5 35. c4 dxc4 36. Qc3 Qd3 37. Qxd3 cxd3+ 38. Kd1 Rc2 {Time} 1-0
+
+
+[Event "BCF-chT2d 0910 (4NCL) Demotion pool"]
+[Site "England"]
+[Date "2010.03.28"]
+[Round "8.1"]
+[White "Beaumont, Chris"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2010.03.28 Beaumont, Chris - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.03.28 Beaumont, Chris - Kawuma, Steven Male 1/2-1/2"]
+[ECO "E91"]
+[WhiteElo "2306"]
+[BlackElo "2202"]
+[PlyCount "108"]
+
+1. Nf3 Nf6 2. c4 d6 3. d4 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 Na6 7. Be3 Ng4 8. Bg5 h6 9. Bh4 c6 10. O-O Re8 11. Nd2 Nf6 12. f4 Nh7 13. Nf3 Nc7 14. Qd2 d5 15. cxd5 cxd5 16. e5 Bg4 17. Rfc1 Qd7 18. a4 Rec8 19. h3 Bf5 20. Ne1 h5 21. Nd3 Ne6 22. Nb4 Nc7 23. Bf3 Be6 24. Bf2 a5 25. Nd3 b6 26. b4 Nf8 27. Rab1 Bf5 28. bxa5 bxa5 29. Nc5 Qc6 30. Rb3 Rab8 31. Qb2 Rxb3 32. Qxb3 Be6 33. Qb7 Qxb7 34. Nxb7 Bh6 35. Ne2 Bd7 36. Nxa5 Nfe6 37. g3 Kf8 38. Nb7 Ra8 39. a5 Ra7 40. Nc5 Bb5 41. Nxe6+ Nxe6 42. Rc8+ Kg7 43. Nc3 Bd7 44. Rb8 Rxa5 45. Bxd5 h4 46. Rb7 Rxd5 47. Nxd5 Bc6 48. Rxe7 Bxd5 49. Rd7 hxg3 50. Bxg3 Bxf4 51. Bf2 Bc6 52. Rd6 Be4 53. Rd7 Bc6 54. Rd6 Be4 1/2-1/2
+
+
+[Event "BCF-chT2d 0910 (4NCL) Demotion pool"]
+[Site "England"]
+[Date "2010.05.01"]
+[Round "9.3"]
+[White "Kawuma, Steven Male"]
+[Black "Haldane, Robin W"]
+[Result "1-0"]
+[SourceFile "2010.05.01 Kawuma, Steven Male - Haldane, Robin W [local Mega].pgn"]
+[Title "2010.05.01 Kawuma, Steven Male - Haldane, Robin W 1-0"]
+[ECO "C77"]
+[WhiteElo "2202"]
+[BlackElo "2159"]
+[PlyCount "57"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. c3 b5 7. Bb3 O-O 8. Nbd2 h6 9. h3 d5 10. Qe2 Bb7 11. Nf1 dxe4 12. dxe4 Kh7 13. g4 g6 14. Ng3 Ng8 15. g5 Qe7 16. gxh6 f6 17. Nh4 Qe8 18. Bd5 Nge7 19. Be6 Nd8 20. Bb3 f5 21. Ngxf5 Nxf5 22. exf5 g5 23. Nf3 Bxf3 24. Qxf3 e4 25. Qg4 e3 26. f3 Nf7 27. h4 Ne5 28. Qe4 Qh5 29. Qxe5 1-0
+
+
+[Event "BCF-chT2d 0910 (4NCL) Demotion pool"]
+[Site "England"]
+[Date "2010.05.02"]
+[Round "10.1"]
+[White "Tippleston, Charles E"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2010.05.02 Tippleston, Charles E - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.05.02 Tippleston, Charles E - Kawuma, Steven Male 1-0"]
+[ECO "B22"]
+[WhiteElo "2137"]
+[BlackElo "2202"]
+[PlyCount "107"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. h3 Bh5 8. O-O Nc6 9. Be3 cxd4 10. cxd4 Be7 11. Nc3 Qd8 12. Qb3 Rb8 13. Rad1 O-O 14. d5 Na5 15. Qa4 exd5 16. Nxd5 Nxd5 17. Qb5 a6 18. Qxd5 Qxd5 19. Rxd5 Bxf3 20. Bxf3 Nc6 21. Bf4 Rbd8 22. Rfd1 Rxd5 23. Bxd5 Rd8 24. Bc7 Rc8 25. Bb6 Bf6 26. b3 h6 27. g3 Re8 28. Kf1 g6 29. Bxc6 bxc6 30. Rd6 Re6 31. Rd7 Bc3 32. Ra7 Kg7 33. Be3 a5 34. Ke2 g5 35. Kd3 Be1 36. g4 Kg6 37. Rd7 f6 38. a3 a4 39. bxa4 Re5 40. Rd6 Ra5 41. Ke2 Bc3 42. Rxc6 Bb2 43. Rc4 Rd5 44. Rc5 Rd6 45. a5 Bxa3 46. Rc4 Ra6 47. Bb6 Bd6 48. Ra4 Kf7 49. Kd3 Ke6 50. Kc4 Kd7 51. Kb5 Ra8 52. a6 Bb8 53. Rd4+ Ke6 54. Rd8 1-0
+
+
+[Event "BCF-chT2d 0910 (4NCL) Demotion pool"]
+[Site "England"]
+[Date "2010.05.03"]
+[Round "11.5"]
+[White "Kawuma, Steven Male"]
+[Black "Armour, Philip"]
+[Result "1-0"]
+[SourceFile "2010.05.03 Kawuma, Steven Male - Armour, Philip [local Mega].pgn"]
+[Title "2010.05.03 Kawuma, Steven Male - Armour, Philip 1-0"]
+[ECO "B04"]
+[WhiteElo "2202"]
+[BlackElo "1850"]
+[PlyCount "99"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. dxe5 Bg4 6. h3 Bxf3 7. Qxf3 Nc6 8. Bb5 e6 9. O-O Bc5 10. c4 Ne7 11. Rd1 Qb8 12. Be3 Bxe3 13. Qxe3 O-O 14. Nc3 Rd8 15. Ba4 a6 16. g4 Qa7 17. c5 Rxd1+ 18. Rxd1 Rd8 19. Rxd8+ Nxd8 20. Qd3 Ndc6 21. Ne4 Qb8 22. f4 Qd8 23. Qxd8+ Nxd8 24. Kf2 Ndc6 25. Nd6 Nd8 26. Nc4 Ndc6 27. Kf3 h6 28. Ke4 f6 29. f5 fxe5 30. fxe6 Nd8 31. Nxe5 g6 32. Bb3 Kg7 33. h4 Kf6 34. Nd7+ Kg7 35. Bc4 Ndc6 36. a3 Nd8 37. b4 Ndc6 38. Ba2 Nd8 39. a4 a5 40. b5 Ng8 41. Ke5 Ne7 42. Bb1 Nc8 43. Nf6 c6 44. b6 Ne7 45. Be4 g5 46. hxg5 hxg5 47. Nh5+ Kf8 48. Kd6 Ke8 49. Nf6+ Kf8 50. Kd7 1-0
+
+
+[Event "Olympiad-39"]
+[Site "Khanty-Mansiysk"]
+[Date "2010.09.22"]
+[Round "2.4"]
+[White "Louise, Eli"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2010.09.22 Louise, Eli - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.09.22 Louise, Eli - Kawuma, Steven Male 0-1"]
+[ECO "A43"]
+[BlackElo "2203"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. Nc3 c5 3. d5 d6 4. e4 g6 5. Bc4 Bg7 6. Nf3 a6 7. O-O b5 8. Be2 b4 9. Na4 Nxe4 10. Qd3 Nf6 11. Bg5 Bd7 12. Bxf6 Bxf6 13. Nxc5 dxc5 14. d6 O-O 15. dxe7 Qxe7 16. c3 Nc6 17. Rfd1 Bf5 18. Qe3 bxc3 19. Qxe7 Nxe7 20. bxc3 Bxc3 21. Rac1 Bb4 22. Bd3 Bxd3 23. Rxd3 Rfd8 24. Ne5 Rxd3 25. Nxd3 Rd8 26. Nxb4 cxb4 27. h3 Rd2 28. Re1 Kf8 29. Rb1 a5 30. Kf1 Rxa2 31. Ke1 Nd5 32. Rd1 b3 33. Rxd5 b2 34. Rd8+ Kg7 35. Rd1 Ra1 36. g4 Rxd1+ 37. Kxd1 b1=Q+ 0-1
+
+
+[Event "Olympiad-39"]
+[Site "Khanty-Mansiysk"]
+[Date "2010.09.23"]
+[Round "3.4"]
+[White "Valerga, Diego"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2010.09.23 Valerga, Diego - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.09.23 Valerga, Diego - Kawuma, Steven Male 0-1"]
+[ECO "E94"]
+[WhiteElo "2508"]
+[BlackElo "2203"]
+[PlyCount "96"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. Be2 O-O 6. Nf3 Na6 7. O-O e5 8. Re1 Bg4 9. d5 Nc5 10. Qc2 a5 11. Bg5 h6 12. Bh4 Qc8 13. h3 Bd7 14. Nd2 Nh7 15. Nb3 b6 16. Nxc5 bxc5 17. Qd2 f5 18. exf5 gxf5 19. f4 e4 20. Bf2 Kh8 21. a4 Rg8 22. Nb5 Nf6 23. Ra3 Bxb5 24. axb5 Qe8 25. Kh2 Qg6 26. Rg3 Qf7 27. Qd1 e3 28. Bxe3 Ne4 29. Bh5 Qf8 30. Rg6 Bxb2 31. g4 a4 32. gxf5 a3 33. Qc2 Nf6 34. Bf3 Nd7 35. Rxg8+ Qxg8 36. Bd2 Qg7 37. f6 Bxf6 38. Qa2 Rg8 39. Bg4 h5 40. Qxa3 hxg4 41. Rg1 Qh6 42. Rg3 Ne5 43. Qc1 Nf3+ 44. Kh1 Nxd2 45. Qxd2 Be5 46. Qg2 Qxf4 47. Rxg4 Rxg4 48. hxg4 Qc1+ 0-1
+
+
+[Event "Olympiad-39"]
+[Site "Khanty-Mansiysk"]
+[Date "2010.09.24"]
+[Round "4.3"]
+[White "Hanoeman, Suradj"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2010.09.24 Hanoeman, Suradj - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.09.24 Hanoeman, Suradj - Kawuma, Steven Male 1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "1992"]
+[BlackElo "2203"]
+[PlyCount "171"]
+
+1. Nf3 Nf6 2. e3 c5 3. d4 g6 4. Be2 Bg7 5. O-O O-O 6. b3 cxd4 7. exd4 d5 8. Bb2 Nc6 9. Nbd2 Bf5 10. c4 Qd6 11. Ne5 Rfd8 12. g4 Be6 13. c5 Qc7 14. f4 Nxe5 15. fxe5 Ne4 16. Bf3 Qd7 17. Nxe4 dxe4 18. Bxe4 Bxg4 19. Bf3 Be6 20. Qe2 Bd5 21. b4 f6 22. a3 fxe5 23. dxe5 Bxf3 24. Qxf3 Qd5 25. Qe3 Qe6 26. Rae1 Rd7 27. Re2 Rad8 28. Rf3 Rd1+ 29. Kf2 Qg4 30. Rg3 Qf5+ 31. Rf3 Qg4 32. Rg3 Qe6 33. Qb3 Rf8+ 34. Kg2 Qxb3 35. Rxb3 e6 36. a4 Rd5 37. b5 Rb8 38. Rc2 Bxe5 39. Bxe5 Rxe5 40. c6 bxc6 41. bxc6 Rxb3 42. c7 Re2+ 43. Rxe2 Rc3 44. Rxe6 Rxc7 45. Ra6 Kg7 46. Kg3 Rf7 47. a5 Kh6 48. Rc6 Rb7 49. Kg4 Rb4+ 50. Kg3 Rb3+ 51. Kg4 Rb4+ 52. Kg3 Kg5 53. Rc5+ Kf6 54. Rc7 Rb3+ 55. Kg2 h5 56. Rxa7 Ra3 57. Ra8 Kg5 58. Rb8 Rxa5 59. Rb2 Ra4 60. Rb3 Rg4+ 61. Kf3 Kh4 62. Kf2 g5 63. Kf1 Ra4 64. Kg2 Ra2+ 65. Kg1 Ra1+ 66. Kg2 Ra2+ 67. Kg1 g4 68. Rc3 Ra5 69. Kg2 Kg5 70. Rb3 h4 71. Rb8 Ra2+ 72. Kg1 Ra4 73. Rf8 Rf4 74. Rg8+ Kf5 75. Re8 Re4 76. Rf8+ Kg5 77. h3 g3 78. Rf1 Re2 79. Ra1 Rh2 80. Ra5+ Kf6 81. Ra6+ Ke5 82. Ra5+ Kd6 83. Ra6+ Kc5 84. Ra8 Rxh3 85. Rc8+ Kd6 86. Rc2 1/2-1/2
+
+
+[Event "Olympiad-39"]
+[Site "Khanty-Mansiysk"]
+[Date "2010.09.25"]
+[Round "5.3"]
+[White "Kawuma, Steven Male"]
+[Black "Samuelsen, Carl Eli Nolsoe"]
+[Result "1/2-1/2"]
+[SourceFile "2010.09.25 Kawuma, Steven Male - Samuelsen, Carl Eli Nolsoe [local Mega].pgn"]
+[Title "2010.09.25 Kawuma, Steven Male - Samuelsen, Carl Eli Nolsoe 1/2-1/2"]
+[ECO "B43"]
+[WhiteElo "2203"]
+[BlackElo "2262"]
+[PlyCount "36"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Bd3 Nc6 7. Nxc6 dxc6 8. O-O e5 9. f4 Bc5+ 10. Kh1 Nf6 11. f5 h5 12. Qf3 Ng4 13. Be2 Qe7 14. Qg3 Bd7 15. Bxg4 hxg4 16. Qxg4 O-O-O 17. Bg5 f6 18. Bc1 g5 1/2-1/2
+
+
+[Event "Olympiad-39"]
+[Site "Khanty-Mansiysk"]
+[Date "2010.09.28"]
+[Round "7.3"]
+[White "Kawuma, Steven Male"]
+[Black "Asabri, Hussien"]
+[Result "0-1"]
+[SourceFile "2010.09.28 Kawuma, Steven Male - Asabri, Hussien [local Mega].pgn"]
+[Title "2010.09.28 Kawuma, Steven Male - Asabri, Hussien 0-1"]
+[ECO "C54"]
+[WhiteElo "2203"]
+[BlackElo "2180"]
+[PlyCount "118"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. O-O a6 7. Bb3 Ba7 8. Be3 O-O 9. Nbd2 h6 10. Bxa7 Rxa7 11. Re1 Nh5 12. Nf1 Nf4 13. Ne3 Qf6 14. Nd5 Nxd5 15. Bxd5 Ne7 16. Bb3 Ng6 17. Re3 Bg4 18. h3 Be6 19. Nh2 Bxb3 20. axb3 Raa8 21. Rg3 Kh7 22. d4 Rae8 23. d5 Qf4 24. Rf3 Qg5 25. Rg3 Qf4 26. Rg4 Qf6 27. Qc2 Nf4 28. Rg3 g6 29. Ng4 Qe7 30. Ne3 h5 31. Kh2 Qd7 32. c4 c6 33. dxc6 Qxc6 34. Rd1 Qc7 35. Rf3 f6 36. g3 Ne6 37. Nd5 Qg7 38. Rfd3 Nc5 39. R3d2 Ne6 40. Kg2 h4 41. Ne3 hxg3 42. fxg3 Qh6 43. Ng4 Qg5 44. Rxd6 f5 45. exf5 gxf5 46. Kh2 e4 47. Rd7+ Kg8 48. R1d5 Qg6 49. Ne5 Qh6 50. R5d6 Qg5 51. h4 Qh5 52. c5 f4 53. Qxe4 fxg3+ 54. Kxg3 Nf4 55. Qc4+ Kh8 56. Rf7 Rg8+ 57. Ng6+ Nxg6 58. Kf2 Ne5 59. Qf4 Qxf7 0-1
+
+
+[Event "Olympiad-39"]
+[Site "Khanty-Mansiysk"]
+[Date "2010.09.29"]
+[Round "8.4"]
+[White "Kawuma, Steven Male"]
+[Black "Ribbegren, Karl Johan"]
+[Result "1/2-1/2"]
+[SourceFile "2010.09.29 Kawuma, Steven Male - Ribbegren, Karl Johan [local Mega].pgn"]
+[Title "2010.09.29 Kawuma, Steven Male - Ribbegren, Karl Johan 1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2203"]
+[BlackElo "2153"]
+[PlyCount "60"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 c6 5. Qd2 Nd7 6. h4 h5 7. f3 b5 8. Nh3 Nb6 9. Ng5 Nf6 10. Nd1 Qc7 11. b3 a5 12. c4 a4 13. cxb5 axb3 14. bxc6 O-O 15. Qb2 Rxa2 16. Rxa2 bxa2 17. Qxa2 Qxc6 18. Qb3 Nfd7 19. Bb5 Qc7 20. O-O e5 21. dxe5 Nxe5 22. Nb2 Bd7 23. Rc1 Qb8 24. Bxd7 Nbxd7 25. Qxb8 Rxb8 26. Nc4 Rb3 27. Nxe5 Bxe5 28. Rc8+ Kg7 29. Kf2 Rb2+ 30. Kf1 Rb1+ 1/2-1/2
+
+
+[Event "Olympiad-39"]
+[Site "Khanty-Mansiysk"]
+[Date "2010.09.30"]
+[Round "9.3"]
+[White "Santos da Costa, Jose Manuel"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2010.09.30 Santos da Costa, Jose Manuel - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.09.30 Santos da Costa, Jose Manuel - Kawuma, Steven Male 0-1"]
+[ECO "A16"]
+[BlackElo "2203"]
+[PlyCount "46"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 d6 5. e3 O-O 6. b4 a5 7. b5 Nbd7 8. Rb1 Ne5 9. Qe2 Bf5 10. e4 Be6 11. Nd5 c6 12. d4 Nxc4 13. Qxc4 cxd5 14. exd5 Rc8 15. Qb3 a4 16. Qxa4 Bxd5 17. Bxd5 Nxd5 18. Ne2 Ra8 19. Qb3 Qa5+ 20. Kf1 Qxa2 21. Qd3 Rfc8 22. Kg2 Rc2 23. Re1 Qxb1 0-1
+
+
+[Event "Olympiad-39"]
+[Site "Khanty-Mansiysk"]
+[Date "2010.10.01"]
+[Round "10.3"]
+[White "Kawuma, Steven Male"]
+[Black "Weerawardane, Romesh"]
+[Result "0-1"]
+[SourceFile "2010.10.01 Kawuma, Steven Male - Weerawardane, Romesh [local Mega].pgn"]
+[Title "2010.10.01 Kawuma, Steven Male - Weerawardane, Romesh 0-1"]
+[ECO "B06"]
+[WhiteElo "2203"]
+[BlackElo "2165"]
+[PlyCount "136"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be3 c6 5. Qd2 b5 6. f3 Nd7 7. a4 b4 8. Nd1 a5 9. Nf2 Ba6 10. Bxa6 Rxa6 11. g4 c5 12. Ne2 cxd4 13. Nxd4 Ngf6 14. h4 Ne5 15. Qe2 Qc8 16. h5 O-O 17. hxg6 fxg6 18. Nd3 Nc4 19. Bf2 Nxb2 20. Nxb2 Qc3+ 21. Kf1 Qxb2 22. Kg2 Raa8 23. Qc4+ Kh8 24. Rab1 Qc3 25. Qxc3 bxc3 26. Ne6 Rfb8 27. Bd4 Ne8 28. Nxg7 Nxg7 29. Bxc3 Rc8 30. Rb3 Kg8 31. Kf2 Ne6 32. Rc1 Nc5 33. Ra3 Nxa4 34. Be1 Nc5 35. Ke3 a4 36. Bb4 Nd7 37. Rca1 Nb6 38. Rc3 Rxc3+ 39. Bxc3 e5 40. Rb1 Ra6 41. Kd3 a3 42. g5 a2 43. Ra1 Ra3 44. Kd2 Nd7 45. Bb4 Ra6 46. Kc3 Nf8 47. Kb2 Ne6 48. Bd2 Nd4 49. f4 exf4 50. Bxf4 Kf7 51. c3 Ne2 52. Bd2 Ke6 53. Rxa2 Rxa2+ 54. Kxa2 Ng3 55. Kb3 Ke5 56. Kc4 Nxe4 57. Bc1 d5+ 58. Kd3 Nc5+ 59. Ke3 Kf5 60. Ba3 Ne6 61. Be7 Nxg5 62. Kd4 Ne4 63. Bb4 h5 64. Kxd5 h4 65. Ba5 h3 66. Bc7 Nxc3+ 67. Kc4 Ne2 68. Bh2 Ke4 0-1
+
+
+[Event "Olympiad-39"]
+[Site "Khanty-Mansiysk"]
+[Date "2010.10.03"]
+[Round "11.2"]
+[White "Fekadu, Desalegn Jimma"]
+[Black "Kawuma, Steven Male"]
+[Result "1/2-1/2"]
+[SourceFile "2010.10.03 Fekadu, Desalegn Jimma - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.10.03 Fekadu, Desalegn Jimma - Kawuma, Steven Male 1/2-1/2"]
+[ECO "E83"]
+[WhiteElo "2204"]
+[BlackElo "2203"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Bd3 e5 8. d5 Nd4 9. Nge2 Nh5 10. O-O a6 11. g4 Nxe2+ 12. Nxe2 Nf4 13. Nxf4 exf4 14. Bxf4 Bxb2 15. Rb1 Bg7 16. Qd2 b6 17. Kg2 Bd7 18. h4 Qe7 19. Rh1 h5 20. gxh5 gxh5 21. Rbg1 f5 22. Kf2 fxe4 23. Bxe4 Bg4 24. Re1 Qf7 25. Kg3 Bf5 26. Rhg1 Rae8 27. Bxf5 Qxf5 28. Rxe8 Rxe8 29. Re1 Rxe1 30. Qxe1 Kf7 31. Qe4 Qxe4 32. fxe4 Be5 33. Kf3 Ke7 34. Bg5+ Kd7 35. Ke3 Ke8 36. Kd3 Kd7 37. Kc2 Ke8 38. Kb3 Kd7 39. Kb4 Bg3 40. Kc3 1/2-1/2
+
+
+[Event "Hampshire op"]
+[Site "Eastleigh"]
+[Date "2010.11.12"]
+[Round "1"]
+[White "McMaster, Richard"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2010.11.12 McMaster, Richard - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.11.12 McMaster, Richard - Kawuma, Steven Male 0-1"]
+[ECO "E84"]
+[WhiteElo "2043"]
+[BlackElo "2196"]
+[PlyCount "88"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. Qd2 Rb8 9. Nc1 e5 10. Nb3 exd4 11. Nxd4 Bd7 12. Be2 b5 13. cxb5 Nxd4 14. Bxd4 axb5 15. O-O b4 16. Nd5 Nxd5 17. Bxg7 Kxg7 18. Qxd5 Qf6 19. b3 Ra8 20. Qd2 Rfb8 21. Rac1 Ra7 22. f4 c5 23. Bf3 Rb6 24. Rfe1 Rba6 25. e5 dxe5 26. fxe5 Qb6 27. Qe3 Rxa2 28. e6 Bxe6 29. Qe5+ Kg8 30. Bd5 Bxd5 31. Qxd5 c4+ 32. Kh1 c3 33. Re8+ Kg7 34. Qe5+ f6 35. Re7+ Kf8 36. Re8+ Kf7 37. Qd5+ Kxe8 38. Qg8+ Kd7 39. Re1 Ra1 40. Qf7+ Kc8 41. Qc4+ Qc7 42. Qe6+ Kb8 43. Qe8+ Qc8 44. Qb5+ Rb7 0-1
+
+
+[Event "Hampshire op"]
+[Site "Eastleigh"]
+[Date "2010.11.13"]
+[Round "2"]
+[White "Kawuma, Steven Male"]
+[Black "Gill, Oliver"]
+[Result "1-0"]
+[SourceFile "2010.11.13 Kawuma, Steven Male - Gill, Oliver [local Mega].pgn"]
+[Title "2010.11.13 Kawuma, Steven Male - Gill, Oliver 1-0"]
+[ECO "C42"]
+[WhiteElo "2196"]
+[PlyCount "81"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Nc6 7. Be3 Be7 8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 O-O-O 11. Bb5 a6 12. Ba4 Bf6 13. h4 h6 14. Bd4 Bxd4 15. Nxd4 b5 16. Bb3 Nxd4 17. Qxd4 c5 18. Bxe6 Qxe6 19. Qd3 Rhe8 20. a4 Qe4 21. Qh3+ Kc7 22. Qg3 g6 23. a5 h5 24. Rd2 Qe5 25. Qf3 f5 26. Rhd1 Re6 27. Rd5 Qe4 28. Qg3 Kc6 29. b4 Qxd5 30. Rxd5 Kxd5 31. Qd3+ Kc6 32. bxc5 d5 33. Qd4 Rde8 34. Kb2 R8e7 35. Ka3 Re5 36. c4 bxc4 37. Qb2 R7e6 38. Qb6+ Kd7 39. Qb7+ Ke8 40. c6 Re1 41. c7 1-0
+
+
+[Event "Hampshire op"]
+[Site "Eastleigh"]
+[Date "2010.11.13"]
+[Round "4"]
+[White "Kawuma, Steven Male"]
+[Black "Tunks, Dominic"]
+[Result "0-1"]
+[SourceFile "2010.11.13 Kawuma, Steven Male - Tunks, Dominic [local Mega].pgn"]
+[Title "2010.11.13 Kawuma, Steven Male - Tunks, Dominic 0-1"]
+[ECO "D40"]
+[WhiteElo "2196"]
+[BlackElo "2076"]
+[PlyCount "136"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bd3 O-O 8. O-O dxc4 9. Bxc4 Nc6 10. Re1 b6 11. Bf4 Bb7 12. Qd2 Rc8 13. Be2 Nd5 14. Bg5 Nxd4 15. Qxd4 Bxg5 16. Ne4 Be7 17. Qa4 a6 18. Rad1 b5 19. Qb3 Qb6 20. Ne5 Qc7 21. Nd3 Qc2 22. Bf3 Qxb3 23. axb3 Rc7 24. Re2 Rfc8 25. g3 g6 26. Kf1 Kg7 27. h4 Rd8 28. Ra1 Nb4 29. Nxb4 Bxb4 30. Ng5 Bxf3 31. Nxf3 a5 32. Ne1 Rd5 33. Nc2 Bd2 34. Na3 Rcd7 35. Rd1 Bb4 36. Rxd5 Rxd5 37. Re3 Bc5 38. Rf3 Bd6 39. Ke2 Be5 40. Rd3 Bd4 41. Nxb5 Rxb5 42. Rxd4 Rxb3 43. Rd2 Kf6 44. Kf1 Rb5 45. Kg2 h5 46. Re2 Ke7 47. Kf3 Kd6 48. Rd2+ Kc5 49. Ke3 Kc4 50. Rc2+ Kb3 51. Kd2 Rb4 52. Rc7 Kxb2 53. Rxf7 a4 54. Rc7 a3 55. Rc2+ Kb3 56. Rc3+ Ka4 57. Rc8 a2 58. Kc2 Rb5 59. Ra8+ Ra5 60. Rxa5+ Kxa5 61. Kb2 Kb4 62. f3 Kc4 63. g4 Kd3 64. Kxa2 Ke3 65. gxh5 gxh5 66. Kb3 Kxf3 67. Kc3 Kg4 68. Kd3 Kxh4 0-1
+
+
+[Event "Hampshire op"]
+[Site "Eastleigh"]
+[Date "2010.11.13"]
+[Round "3"]
+[White "Yeo, Michael J"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2010.11.13 Yeo, Michael J - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.11.13 Yeo, Michael J - Kawuma, Steven Male 0-1"]
+[ECO "B33"]
+[WhiteElo "2183"]
+[BlackElo "2196"]
+[PlyCount "105"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. c3 f5 12. Bd3 Be6 13. Nxb5 axb5 14. Bxb5 Bd7 15. exf5 O-O 16. O-O e4 17. a4 Re8 18. Qg4 Kh8 19. Rfd1 Re5 20. Ne3 Qf6 21. Qe2 Rg8 22. Ng4 Qxf5 23. Nxe5 Bxe5 24. g3 Qg6 25. Qc4 f5 26. Bxc6 Rc8 27. Qa6 Rxc6 28. Qb7 Qe8 29. a5 Rc8 30. a6 Bc6 31. Qb6 f4 32. b4 e3 33. b5 exf2+ 34. Qxf2 Bxb5 35. a7 Bc6 36. Ra6 Ba8 37. Raxd6 Bxd6 38. Rxd6 Qe4 39. Qd4+ Qxd4+ 40. Rxd4 f3 41. Rb4 Rf8 42. Kf2 Kg7 43. Rb8 Kf7 44. g4 Ke7 45. g5 Bc6 46. h4 Rd8 47. Ke3 Re8 48. h5 Kf7+ 49. Kf2 Re2+ 50. Kf1 Ra2 51. g6+ hxg6 52. hxg6+ Kg7 53. Rc8 0-1
+
+
+[Event "Hampshire op"]
+[Site "Eastleigh"]
+[Date "2010.11.14"]
+[Round "5"]
+[White "Kawuma, Steven Male"]
+[Black "McDougall, Andrew"]
+[Result "1/2-1/2"]
+[SourceFile "2010.11.14 Kawuma, Steven Male - McDougall, Andrew [local Mega].pgn"]
+[Title "2010.11.14 Kawuma, Steven Male - McDougall, Andrew 1/2-1/2"]
+[ECO "B85"]
+[WhiteElo "2196"]
+[PlyCount "150"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. Be3 O-O 9. f4 Nc6 10. Qd2 Qc7 11. Nxc6 bxc6 12. Kh1 c5 13. Bf3 Rb8 14. Rab1 Bb7 15. a3 Rfd8 16. Qe2 Nd7 17. Rbe1 Bc6 18. Bc1 Bf6 19. Nd1 Bb5 20. c4 Ba4 21. Nf2 Rb6 22. e5 dxe5 23. Ng4 exf4 24. Be4 e5 25. Rf3 h5 26. Nf2 Nf8 27. g3 Ne6 28. Rc3 g6 29. Bd5 Nd4 30. Qe4 Kg7 31. gxf4 exf4 32. Bxf4 Qd7 33. Rg3 Re8 34. Qxe8 Qxe8 35. Rxe8 Bxe8 36. Re3 Rxb2 37. Rxe8 Rxf2 38. Bd6 Ne6 39. Ra8 Bd4 40. Rxa6 Ng5 41. h4 Ne6 42. Ra7 Kf6 43. a4 Rf1+ 44. Kg2 Rf2+ 45. Kg3 Ra2 46. a5 Ra3+ 47. Kg2 Ra2+ 48. Kf3 Rf2+ 49. Kg3 Rf1 50. a6 Be5+ 51. Kg2 Ra1 52. Be7+ Kf5 53. Bxe6+ fxe6 54. Bxc5 Kg4 55. Ra8 Ra2+ 56. Kf1 Kf3 57. Ke1 Bf4 58. Rd8 Rxa6 59. Rd3+ Ke4 60. Rc3 Rc6 61. Bf2 Be5 62. Re3+ Kf4 63. Ke2 Rxc4 64. Bg3+ Kg4 65. Bxe5 Kxh4 66. Kf3 g5 67. Bg3+ Kh3 68. Be1 g4+ 69. Ke2+ Kg2 70. Rg3+ Kh2 71. Kf1 Rc2 72. Re3 Rc1 73. Re2+ Kh3 74. Kg1 g3 75. Rxe6 h4 1/2-1/2
+
+
+[Event "Hampshire op"]
+[Site "Eastleigh"]
+[Date "2010.11.14"]
+[Round "6"]
+[White "Pye, David E"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2010.11.14 Pye, David E - Kawuma, Steven Male [local Mega].pgn"]
+[Title "2010.11.14 Pye, David E - Kawuma, Steven Male 1-0"]
+[ECO "B23"]
+[WhiteElo "2157"]
+[BlackElo "2196"]
+[PlyCount "81"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 d6 4. Bxc6+ bxc6 5. d3 Rb8 6. Nge2 g6 7. O-O Bg7 8. b3 e6 9. Bb2 Ne7 10. Na4 Bxb2 11. Nxb2 O-O 12. Qd2 f5 13. f4 Rb4 14. a3 Rb7 15. Rad1 Rd7 16. Kh1 Ba6 17. Qe3 Qe8 18. Nc3 fxe4 19. Qxe4 Nd5 20. Nxd5 cxd5 21. Qa4 Qc8 22. Rde1 Rdf7 23. Nd1 d4 24. Kg1 Rxf4 25. Rxf4 Rxf4 26. Nf2 Bb7 27. Qxa7 Qc6 28. Ne4 Rf8 29. Qa5 e5 30. a4 Qd7 31. Qd2 Qc7 32. Qe2 d5 33. Ng5 Re8 34. Rf1 Qe7 35. Qg4 h6 36. Ne4 Kg7 37. Rf6 g5 38. Qf5 dxe4 39. Qg6+ Kh8 40. Rf7 Qxf7 41. Qxf7 1-0
+
+
+[Event "Hampshire Chess Congress 2025 - Open"]
+[Site "Lysses House Hotel, 51 High Street, Fareham, Hampshire, PO16 7BQ"]
+[Date "2025.11.07"]
+[Round "1"]
+[Board "3"]
+[White "Northam, Lawrence"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2025.11.07 Northam, Lawrence - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2025.11.07 Northam, Lawrence - Kawuma, Steven Male 0-1"]
+[ECO ""]
+[WhiteElo "1846"]
+[BlackElo "2184"]
+[PlyCount "90"]
+[EventDate "2025.11.07"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Na6 4. e4 g6 5. h3 Bg7 6. Be3 O-O 7. Nf3 e5 8. d5 b6 9.
+g4 Nc5 10. Nd2 a5 11. f3 Ne8 12. Be2 Bh6 13. Nf1 Bxe3 14. Nxe3 Qh4+ 15. Kd2 f5 16.
+Ng2 Qh6+ 17. Ne3 fxe4 18. fxe4 Rf4 19. Kc2 Nf6 20. Nf5 gxf5 21. exf5 Nfe4 22. Qe1
+Nxc3 23. Qxc3 Rf2 24. Rae1 Qf4 25. Kd1 Qe4 26. Rhf1 Qb1+ 27. Qc1 Qxc1+ 28. Kxc1 Rxf1
+29. Rxf1 Bd7 30. Kd2 Rf8 31. Ke3 Kg7 32. Bf3 Kf6 33. h4 h6 34. b3 Rg8 35. Be2 Re8
+36. Rg1 Rg8 37. Rf1 c6 38. dxc6 Bxc6 39. Bd1 b5 40. cxb5 Bxb5 41. Rf2 d5 42. Rc2
+Rc8 43. Rg2 d4+ 44. Kd2 Ne4+ 45. Ke1 d3  0-1
+
+
+[Event "Hampshire Chess Congress 2025 - Open"]
+[Site "Lysses House Hotel, 51 High Street, Fareham, Hampshire, PO16 7BQ"]
+[Date "2025.11.08"]
+[Round "3"]
+[Board "1"]
+[White "Bansal, Saahil"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2025.11.08 Bansal, Saahil - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2025.11.08 Bansal, Saahil - Kawuma, Steven Male 0-1"]
+[ECO ""]
+[WhiteElo "2016"]
+[BlackElo "2184"]
+[PlyCount "84"]
+[EventDate "2025.11.07"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. h3 Na6 6. Be3 O-O 7. Qd2 e5 8. d5 Nc5 9.
+f3 Bd7 10. g4 Ne8 11. h4 f5 12. gxf5 gxf5 13. O-O-O f4 14. Bxc5 dxc5 15. h5 Bh6 16.
+Bh3 Nd6 17. Qe2 Kh8 18. Bxd7 Qxd7 19. Nh3 Rg8 20. Nf2 b6 21. Kb1 Qe7 22. Ng4 Bg5
+23. b3 h6 24. Qb2 Rge8 25. Rdg1 a6 26. Na4 Kh7 27. Rh2 Rab8 28. Rc2 Nf7 29. Rgc1
+Bf6 30. Ka1 Ng5 31. Qc3 Bg7 32. Nb2 Qf7 33. Rh2 Kh8 34. Rf1 Qd7 35. Nd3 Nxf3 36.
+Rxf3 Qxg4 37. Rff2 f3 38. Ne1 Qxe4 39. Rxf3 Qxf3 40. Nxf3 e4 41. Qxg7+ Kxg7 42. Rg2+
+Kf6  0-1
+
+
+[Event "Hampshire Chess Congress 2025 - Open"]
+[Site "Lysses House Hotel, 51 High Street, Fareham, Hampshire, PO16 7BQ"]
+[Date "2025.11.08"]
+[Round "2"]
+[Board "2"]
+[White "Kawuma, Steven Male"]
+[Black "Cordner, David A"]
+[Result "1-0"]
+[SourceFile "2025.11.08 Kawuma, Steven Male - Cordner, David A [chess-results].pgn"]
+[Title "2025.11.08 Kawuma, Steven Male - Cordner, David A 1-0"]
+[ECO ""]
+[WhiteElo "2184"]
+[BlackElo "1957"]
+[PlyCount "85"]
+[EventDate "2025.11.07"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. g3 Nf6 6. Bg2 O-O 7. O-O Nbd7 8. Re1
+Re8 9. Qe2 d4 10. Nh4 Nf8 11. Nf5 Bxf5 12. exf5 Nd5 13. Ne4 Bb4 14. Rd1 Nd7 15. a3
+Be7 16. h4 N7f6 17. g4 Nf4 18. Bxf4 exf4 19. g5 Nd5 20. Qg4 Qd7 21. Bf3 Rad8 22.
+Kh2 g6 23. f6 Qxg4 24. Bxg4 Bd6 25. Kg2 h5 26. Bh3 Bc7 27. Kf3 Kf8 28. Re1 Re5 29.
+Nc5 Rxe1 30. Rxe1 b6 31. Nd7+ Kg8 32. Re4 c5 33. Ne5 Bd6 34. Nxf7 Kxf7 35. Be6+ Kf8
+36. Bxd5 Re8 37. Rxe8+ Kxe8 38. Ke4 Kf8 39. f3 Bc7 40. Bc4 a5 41. Kd5 Ke8 42. Ke6
+Bd8 43. Bd5  1-0
+
+
+[Event "Kidlington Chess Congress 2026: Open"]
+[Site "THE LEONARDO ROYAL HOTEL, Godstow Rd, Wolvercote, Oxford OX2 8AL"]
+[Date "2026.01.31"]
+[Round "3"]
+[Board "8"]
+[White "Kawuma, Steven Male"]
+[Black "Hobson, Kenneth"]
+[Result "1/2-1/2"]
+[SourceFile "2026.01.31 Kawuma, Steven Male - Hobson, Kenneth [chess-results].pgn"]
+[Title "2026.01.31 Kawuma, Steven Male - Hobson, Kenneth 1/2-1/2"]
+[ECO ""]
+[WhiteElo "2190"]
+[BlackElo "2377"]
+[PlyCount "0"]
+[EventDate "2026.01.31"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. c3 d6 8. Nbd2 Bb6
+9. Qe2 O-O 10. Nf1 a5 11. a4 b4 12. Bg5 Be6 13. Bd5 Bxd5 14. exd5 Nb8 15. Ng3 bxc3
+16. bxc3 Nbd7 17. Ne4 h6 18. Nxf6+ Nxf6 19. Bxf6 Qxf6 20. Nd2 Qg6 21. O-O f5 22.
+Kh1 Qf7 23. Qf3 g5 24. c4 Kh7 25. Rab1 g4 26. Qe2 Rg8 27. f3 Qh5 28. fxg4 Rxg4 29.
+Qf3 Rag8 30. h3 R4g5 31. Qxh5 Rxh5 32. Rbe1 Rhg5 33. Re2 Rg3 34. Nf3 e4 35. dxe4
+fxe4 36. Nd2 Ra3 37. Nxe4 Bd4 38. Nf6+ Bxf6 39. Rxf6 Rxa4 40. Ree6 Rxc4 41. Rxh6+
+Kg7 42. Rhg6+ Kh7 43. Rh6+ Kg7 44. Rhg6+ Kh7 45. Rh6+  1/2-1/2
+
+
+[Event "Round 3: Kawuma, Steven Male - Hobson, Kenneth"]
+[Site "https://lichess.org/broadcast/kidlington-chess-congress-2026-open/round-3/s34syecU/RV57Mlen"]
+[Date "2026.01.31"]
+[Round "3.8"]
+[White "Kawuma, Steven Male"]
+[Black "Hobson, Kenneth"]
+[Result "1/2-1/2"]
+[SourceFile "2026.01.31 Kawuma, Steven Male - Hobson, Kenneth [lichess broadcast database].pgn"]
+[Title "2026.01.31 Kawuma, Steven Male - Hobson, Kenneth 1/2-1/2"]
+[WhiteElo "2162"]
+[WhiteTitle "FM"]
+[WhiteFideId "10000224"]
+[BlackElo "2264"]
+[BlackTitle "FM"]
+[BlackFideId "480819"]
+[Variant "Standard"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+[UTCDate "2026.01.31"]
+[UTCTime "18:16:35"]
+[BroadcastName "Kidlington Chess Congress 2026: Open"]
+[BroadcastURL "https://lichess.org/broadcast/kidlington-chess-congress-2026-open/round-3/s34syecU"]
+[GameURL "https://lichess.org/broadcast/kidlington-chess-congress-2026-open/round-3/s34syecU/RV57Mlen"]
+
+1. e4 { [%eval 0.18] [%clk 1:30:26] } 1... e5 { [%eval 0.22] [%clk 1:29:26] } 2. Nf3 { [%eval 0.18] [%clk 1:30:23] } 2... Nc6 { [%eval 0.21] [%clk 1:29:36] } 3. Bb5 { [%eval 0.15] [%clk 1:29:46] } 3... a6 { [%eval 0.21] [%clk 1:29:17] } 4. Ba4 { [%eval 0.11] [%clk 1:29:53] } 4... Nf6 { [%eval 0.28] [%clk 1:29:25] } 5. d3 { [%eval 0.04] [%clk 1:29:29] } 5... b5 { [%eval 0.16] [%clk 1:29:33] } 6. Bb3 { [%eval 0.02] [%clk 1:29:40] } 6... Bc5 { [%eval 0.0] [%clk 1:29:36] } 7. c3 { [%eval 0.0] [%clk 1:29:06] } 7... d6 { [%eval 0.07] [%clk 1:29:11] } 8. Nbd2 { [%eval 0.1] [%clk 1:28:58] } 8... Bb6 { [%eval 0.18] [%clk 1:28:30] } 9. Qe2 { [%eval -0.1] [%clk 1:28:01] } 9... O-O { [%eval -0.07] [%clk 1:26:10] } 10. Nf1 { [%eval 0.01] [%clk 1:25:57] } 10... a5 { [%eval -0.07] [%clk 1:23:14] } 11. a4 { [%eval 0.04] [%clk 1:22:12] } 11... b4 { [%eval -0.03] [%clk 1:22:45] } 12. Bg5 { [%eval -0.39] [%clk 1:18:17] } 12... Be6 { [%eval -0.1] [%clk 1:20:21] } 13. Bd5?! { [%eval -0.95] } { Inaccuracy. Bxe6 was best. } { [%clk 1:15:54] } 13... Bxd5?! { [%eval -0.26] } { Inaccuracy. Nxd5 was best. } { [%clk 1:19:12] } 14. exd5 { [%eval -0.3] [%clk 1:16:04] } 14... Nb8 { [%eval -0.33] [%clk 1:17:48] } 15. Ng3 { [%eval -0.49] [%clk 1:09:05] } 15... bxc3 { [%eval -0.12] [%clk 1:14:52] } 16. bxc3 { [%eval -0.32] [%clk 1:08:29] } 16... Nbd7 { [%eval -0.07] [%clk 1:12:27] } 17. Ne4 { [%eval -0.06] [%clk 1:01:35] } 17... h6 { [%eval -0.13] [%clk 1:06:48] } 18. Nxf6+ { [%eval -0.04] [%clk 0:58:08] } 18... Nxf6 { [%eval -0.02] [%clk 1:06:42] } 19. Bxf6 { [%eval -0.02] [%clk 0:58:06] } 19... Qxf6 { [%eval -0.07] [%clk 1:06:47] } 20. Nd2 { [%eval -0.46] [%clk 0:49:50] } 20... Qg6 { [%eval -0.21] [%clk 1:05:22] } 21. O-O { [%eval -0.16] [%clk 0:48:56] } 21... f5 { [%eval -0.21] [%clk 1:04:41] } 22. Kh1 { [%eval -0.3] [%clk 0:47:33] } 22... Qf7 { [%eval -0.38] [%clk 1:01:33] } 23. Qf3 { [%eval -0.29] [%clk 0:42:45] } 23... g5 { [%eval -0.28] [%clk 0:59:18] } 24. c4 { [%eval -0.76] [%clk 0:34:27] } 24... Kh7 { [%eval -0.25] [%clk 0:54:48] } 25. Rab1 { [%eval -0.63] [%clk 0:32:52] } 25... g4 { [%eval -0.47] [%clk 0:52:48] } 26. Qe2 { [%eval -0.51] [%clk 0:31:53] } 26... Rg8 { [%eval -0.31] [%clk 0:51:17] } 27. f3?! { [%eval -1.05] } { Inaccuracy. Nb3 was best. } { [%clk 0:27:30] } 27... Qh5?! { [%eval -0.37] } { Inaccuracy. g3 was best. } { [%clk 0:46:34] } 28. fxg4 { [%eval -0.21] [%clk 0:14:28] } 28... Rxg4 { [%eval -0.18] [%clk 0:45:08] } 29. Qf3 { [%eval -0.18] [%clk 0:13:43] } 29... Rag8 { [%eval -0.29] [%clk 0:41:51] } 30. h3 { [%eval -0.26] [%clk 0:12:06] } 30... R4g5 { [%eval 0.0] [%clk 0:40:42] } 31. Qxh5 { [%eval -0.05] [%clk 0:11:13] } 31... Rxh5 { [%eval -0.05] [%clk 0:40:53] } 32. Rbe1 { [%eval -0.04] [%clk 0:08:23] } 32... Rhg5 { [%eval 0.0] [%clk 0:39:24] } 33. Re2 { [%eval -0.53] [%clk 0:08:24] } 33... Rg3 { [%eval -0.5] [%clk 0:38:18] } 34. Nf3 { [%eval -0.65] [%clk 0:08:11] } 34... e4?! { [%eval 0.01] } { Inaccuracy. f4 was best. } { [%clk 0:30:15] } 35. dxe4 { [%eval 0.0] [%clk 0:07:19] } 35... fxe4 { [%eval 0.06] [%clk 0:30:12] } 36. Nd2 { [%eval 0.06] [%clk 0:05:27] } 36... Ra3 { [%eval 0.02] [%clk 0:24:55] } 37. Nxe4 { [%eval 0.17] [%clk 0:05:03] } 37... Bd4 { [%eval 0.08] [%clk 0:24:51] } 38. Nf6+ { [%eval 0.0] [%clk 0:03:19] } 38... Bxf6 { [%eval 0.05] [%clk 0:25:00] } 39. Rxf6 { [%eval 0.03] [%clk 0:03:30] } 39... Rxa4 { [%eval 0.0] [%clk 0:24:32] } 40. Ree6 { [%eval 0.0] [%clk 0:02:27] } 40... Rxc4 { [%eval 0.0] [%clk 0:21:53] } 41. Rxh6+ { [%eval 0.0] [%clk 0:02:35] } 41... Kg7 { [%eval 0.0] [%clk 0:22:05] } 42. Rhg6+ { [%eval 0.0] [%clk 0:01:17] } 42... Kh7 { [%eval 0.0] [%clk 0:21:44] } 43. Rh6+ { [%eval 0.0] [%clk 0:01:12] } 43... Kg7 { [%eval 0.0] [%clk 0:21:54] } 44. Rhg6+ { [%eval 0.0] [%clk 0:01:24] } 44... Kh7 { [%eval 0.0] [%clk 0:22:05] } 45. Rh6+ { [%eval 0.0] [%clk 0:01:36] } 1/2-1/2
+
+
+[Event "Round 4: Hayward, Philip - Kawuma, Steven Male"]
+[Site "https://lichess.org/broadcast/kidlington-chess-congress-2026-open/round-4/HCVv6u7r/VWlxWtrR"]
+[Date "2026.02.01"]
+[Round "4.9"]
+[White "Hayward, Philip"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2026.02.01 Hayward, Philip - Kawuma, Steven Male [lichess broadcast database].pgn"]
+[Title "2026.02.01 Hayward, Philip - Kawuma, Steven Male 0-1"]
+[WhiteElo "2048"]
+[WhiteFideId "20672870"]
+[BlackElo "2160"]
+[BlackTitle "FM"]
+[BlackFideId "10000224"]
+[Variant "Standard"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense"]
+[UTCDate "2026.02.01"]
+[UTCTime "09:16:11"]
+[BroadcastName "Kidlington Chess Congress 2026: Open"]
+[BroadcastURL "https://lichess.org/broadcast/kidlington-chess-congress-2026-open/round-4/HCVv6u7r"]
+[GameURL "https://lichess.org/broadcast/kidlington-chess-congress-2026-open/round-4/HCVv6u7r/VWlxWtrR"]
+
+1. c4 { [%eval 0.12] [%clk 1:30:28] } 1... Nf6 { [%eval 0.14] [%clk 1:24:58] } 2. g3 { [%eval 0.11] [%clk 1:30:35] } 2... g6 { [%eval 0.2] [%clk 1:23:38] } 3. Bg2 { [%eval 0.18] [%clk 1:30:47] } 3... Bg7 { [%eval 0.42] [%clk 1:23:46] } 4. Nc3 { [%eval 0.18] [%clk 1:30:58] } 4... O-O { [%eval 0.31] [%clk 1:23:49] } 5. e4 { [%eval -0.09] [%clk 1:31:08] } 5... d6 { [%eval 0.0] [%clk 1:23:58] } 6. Nge2 { [%eval 0.0] [%clk 1:31:18] } 6... e5 { [%eval 0.25] [%clk 1:23:40] } 7. d3 { [%eval 0.29] [%clk 1:31:04] } 7... Nc6 { [%eval 0.43] [%clk 1:21:46] } 8. O-O { [%eval 0.34] [%clk 1:30:46] } 8... Nh5 { [%eval 0.38] [%clk 1:18:58] } 9. Nd5 { [%eval 0.3] [%clk 1:26:57] } 9... Be6 { [%eval 0.35] [%clk 1:14:01] } 10. Be3 { [%eval 0.35] [%clk 1:24:08] } 10... Ne7 { [%eval 0.3] [%clk 1:07:41] } 11. Rc1 { [%eval 0.31] [%clk 1:20:02] } 11... c6 { [%eval 0.22] [%clk 1:05:02] } 12. Nxe7+ { [%eval 0.22] [%clk 1:17:23] } 12... Qxe7 { [%eval 0.23] [%clk 1:05:14] } 13. d4 { [%eval 0.24] [%clk 1:17:07] } 13... Bg4 { [%eval 0.52] [%clk 0:59:16] } 14. f3 { [%eval 0.55] [%clk 1:13:18] } 14... Bd7 { [%eval 0.52] [%clk 0:58:37] } 15. b4 { [%eval 0.11] [%clk 0:59:05] } 15... Rfd8 { [%eval 0.62] [%clk 0:53:29] } 16. Qb3 { [%eval 0.09] [%clk 0:55:20] } 16... Kh8?! { [%eval 0.81] } { Inaccuracy. a5 was best. } { [%clk 0:50:22] } 17. Rfd1 { [%eval 0.67] [%clk 0:44:46] } 17... h6 { [%eval 0.95] [%clk 0:37:50] } 18. Rd3?! { [%eval 0.34] } { Inaccuracy. c5 was best. } { [%clk 0:40:56] } 18... f5 { [%eval 0.35] [%clk 0:31:27] } 19. dxe5 { [%eval 0.0] [%clk 0:37:53] } 19... dxe5 { [%eval 0.0] [%clk 0:31:02] } 20. Rcd1 { [%eval -0.07] [%clk 0:33:35] } 20... fxe4 { [%eval -0.04] [%clk 0:28:53] } 21. fxe4 { [%eval -0.02] [%clk 0:32:51] } 21... Bg4 { [%eval -0.02] [%clk 0:28:24] } 22. Qb2 { [%eval -0.33] [%clk 0:27:05] } 22... Rxd3 { [%eval 0.0] [%clk 0:17:21] } 23. Rxd3 { [%eval -0.11] [%clk 0:27:10] } 23... Bxe2 { [%eval 0.0] [%clk 0:16:46] } 24. Qxe2 { [%eval -0.03] [%clk 0:27:19] } 24... Qxb4 { [%eval -0.01] [%clk 0:15:57] } 25. Rb3 { [%eval -0.19] [%clk 0:18:14] } 25... Qe7 { [%eval -0.15] [%clk 0:15:15] } 26. a4 { [%eval -0.18] [%clk 0:12:33] } 26... c5 { [%eval 0.0] [%clk 0:07:53] } 27. Rd3 { [%eval -0.22] [%clk 0:06:50] } 27... Nf6 { [%eval -0.19] [%clk 0:07:13] } 28. Bh3 { [%eval -0.44] [%clk 0:06:18] } 28... b6 { [%eval -0.55] [%clk 0:05:43] } 29. Bg2 { [%eval -0.47] [%clk 0:05:28] } 29... Rd8 { [%eval -0.24] [%clk 0:03:17] } 30. Rxd8+ { [%eval -0.34] [%clk 0:03:13] } 30... Qxd8 { [%eval -0.28] [%clk 0:03:29] } 31. a5? { [%eval -1.61] } { Mistake. Qd2 was best. } { [%clk 0:03:25] } 31... Kh7?! { [%eval -0.81] } { Inaccuracy. bxa5 was best. } { [%clk 0:03:23] } 32. h3 { [%eval -1.01] [%clk 0:03:18] } 32... Qc7 { [%eval -0.46] [%clk 0:02:32] } 33. Qf2?! { [%eval -1.5] } { Inaccuracy. axb6 was best. } { [%clk 0:01:50] } 33... Qc6? { [%eval -0.26] } { Mistake. bxa5 was best. } { [%clk 0:00:47] } 34. Qd2 { [%eval -0.56] [%clk 0:01:17] } 34... Qa4 { [%eval -0.35] [%clk 0:00:29] } 35. Qc3?! { [%eval -1.09] } { Inaccuracy. axb6 was best. } { [%clk 0:00:55] } 35... Qd1+ { [%eval -1.39] [%clk 0:00:28] } 36. Kh2 { [%eval -1.19] [%clk 0:01:06] } 36... Qe2 { [%eval -0.95] [%clk 0:00:28] } 37. axb6?! { [%eval -1.56] } { Inaccuracy. Bg1 was best. } { [%clk 0:01:04] } 37... axb6?! { [%eval -0.98] } { Inaccuracy. Nxe4 was best. } { [%clk 0:00:33] } 38. Kg1 { [%eval -1.42] [%clk 0:00:52] } 38... Qd1+ { [%eval -0.97] [%clk 0:00:27] } 39. Kh2 { [%eval -1.03] [%clk 0:00:58] } 39... Qe2 { [%eval -1.08] [%clk 0:00:32] } 40. Kg1 { [%eval -1.56] [%clk 0:01:11] } 40... Nh5? { [%eval -0.34] } { Mistake. Ne8 was best. } { [%clk 0:00:31] } 41. Bf1?? { [%eval -2.93] } { Blunder. Bf2 was best. } { [%clk 0:01:24] } 41... Qf3?! { [%eval -2.14] } { Inaccuracy. Nxg3 was best. } { [%clk 0:00:28] } 42. g4?? { [%eval -5.78] } { Blunder. Bd2 was best. } { [%clk 0:01:28] } 42... Ng3 { [%eval -5.45] [%clk 0:00:23] } 43. Qe1 { [%eval -5.82] [%clk 0:01:31] } 43... Nxf1 { [%eval -5.5] [%clk 0:00:23] } 44. Qd1?? { [%eval #-8] } { Checkmate is now unavoidable. Bf2 was best. } { [%clk 0:01:05] } 0-1
+
+
+[Event "Kidlington Chess Congress 2026: Open"]
+[Site "THE LEONARDO ROYAL HOTEL, Godstow Rd, Wolvercote, Oxford OX2 8AL"]
+[Date "2026.02.01"]
+[Round "4"]
+[Board "9"]
+[White "Hayward, Philip T"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2026.02.01 Hayward, Philip T - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2026.02.01 Hayward, Philip T - Kawuma, Steven Male 0-1"]
+[ECO ""]
+[WhiteElo "2116"]
+[BlackElo "2190"]
+[PlyCount "0"]
+[EventDate "2026.01.31"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. e4 d6 6. Nge2 e5 7. d3 Nc6 8. O-O Nh5
+9. Nd5 Be6 10. Be3 Ne7 11. Rc1 c6 12. Nxe7+ Qxe7 13. d4 Bg4 14. f3 Bd7 15. b4 Rfd8
+16. Qb3 Kh8 17. Rfd1 h6 18. Rd3 f5 19. dxe5 dxe5 20. Rcd1 fxe4 21. fxe4 Bg4 22. Qb2
+Rxd3 23. Rxd3 Bxe2 24. Qxe2 Qxb4 25. Rb3 Qe7 26. a4 c5 27. Rd3 Nf6 28. Bh3 b6 29.
+Bg2 Rd8 30. Rxd8+ Qxd8 31. a5 Kh7 32. h3 Qc7 33. Qf2 Qc6 34. Qd2 Qa4 35. Qc3 Qd1+
+36. Kh2 Qe2 37. axb6 axb6 38. Kg1 Qd1+ 39. Kh2 Qe2 40. Kg1 Nh5 41. Bf1 Qf3 42. g4
+Ng3 43. Qe1 Nxf1 44. Qd1  0-1
+
+
+[Event "Round 1: Akeya-Price, Robert - Kawuma, Steven Male"]
+[Site "https://lichess.org/broadcast/1st-university-of-warwick-congress-open/round-1/wiHybiOx/X99hsLg7"]
+[Date "2026.02.28"]
+[Round "1.7"]
+[White "Akeya-Price, Robert"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2026.02.28 Akeya-Price, Robert - Kawuma, Steven Male [lichess broadcast database].pgn"]
+[Title "2026.02.28 Akeya-Price, Robert - Kawuma, Steven Male 0-1"]
+[WhiteElo "1934"]
+[WhiteFideId "430510"]
+[BlackElo "2160"]
+[BlackTitle "FM"]
+[BlackFideId "10000224"]
+[Variant "Standard"]
+[ECO "E73"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+[UTCDate "2026.02.28"]
+[UTCTime "10:12:03"]
+[BroadcastName "1st University of Warwick Congress: Open"]
+[BroadcastURL "https://lichess.org/broadcast/1st-university-of-warwick-congress-open/round-1/wiHybiOx"]
+[GameURL "https://lichess.org/broadcast/1st-university-of-warwick-congress-open/round-1/wiHybiOx/X99hsLg7"]
+
+1. d4 { [%eval 0.15] [%clk 1:00:56] } 1... Nf6 { [%eval 0.15] [%clk 1:00:23] } 2. c4 { [%eval 0.17] [%clk 1:01:14] } 2... d6 { [%eval 0.47] [%clk 1:00:39] } 3. Nc3 { [%eval 0.48] [%clk 1:01:28] } 3... g6 { [%eval 0.55] [%clk 1:00:59] } 4. e4 { [%eval 0.46] [%clk 1:01:44] } 4... Bg7 { [%eval 0.55] [%clk 1:01:21] } 5. Be2 { [%eval 0.51] [%clk 1:02:01] } 5... O-O { [%eval 0.47] [%clk 1:00:02] } 6. Be3 { [%eval 0.5] [%clk 1:01:56] } 6... Nc6 { [%eval 0.4] [%clk 0:58:05] } 7. g4?! { [%eval -0.37] } { Inaccuracy. d5 was best. } { [%clk 1:00:50] } 7... e5 { [%eval -0.09] [%clk 0:55:51] } 8. d5?! { [%eval -0.74] } { Inaccuracy. dxe5 was best. } { [%clk 1:01:11] } 8... Nd4 { [%eval -0.76] [%clk 0:56:01] } 9. g5 { [%eval -1.01] [%clk 0:51:16] } 9... Nxe2 { [%eval -0.86] [%clk 0:52:21] } 10. Qxe2 { [%eval -1.29] [%clk 0:51:21] } 10... Nh5 { [%eval -1.36] [%clk 0:50:55] } 11. Qd2 { [%eval -1.23] [%clk 0:46:33] } 11... f5 { [%eval -1.27] [%clk 0:48:45] } 12. gxf6 { [%eval -1.27] [%clk 0:45:06] } 12... Qxf6 { [%eval -1.33] [%clk 0:47:47] } 13. O-O-O { [%eval -1.43] [%clk 0:40:59] } 13... a6 { [%eval -0.99] [%clk 0:44:01] } 14. Nge2?! { [%eval -1.68] } { Inaccuracy. f3 was best. } { [%clk 0:36:42] } 14... Bh3 { [%eval -1.72] [%clk 0:38:05] } 15. Rhg1 { [%eval -1.69] [%clk 0:30:16] } 15... Bd7 { [%eval -1.52] [%clk 0:30:29] } 16. c5 { [%eval -1.42] [%clk 0:23:29] } 16... Rf7 { [%eval -1.31] [%clk 0:25:49] } 17. b4 { [%eval -1.61] [%clk 0:19:35] } 17... Bf8 { [%eval -1.42] [%clk 0:22:13] } 18. Kb1 { [%eval -1.54] [%clk 0:17:23] } 18... a5 { [%eval -1.56] [%clk 0:19:58] } 19. a3 { [%eval -2.17] [%clk 0:17:22] } 19... axb4 { [%eval -2.23] [%clk 0:18:40] } 20. axb4 { [%eval -2.37] [%clk 0:17:41] } 20... dxc5 { [%eval -2.24] [%clk 0:17:09] } 21. bxc5 { [%eval -2.28] [%clk 0:16:22] } 21... Ra5 { [%eval -2.17] [%clk 0:14:29] } 22. d6 { [%eval -2.39] [%clk 0:13:08] } 22... cxd6 { [%eval -2.41] [%clk 0:10:54] } 23. cxd6 { [%eval -2.49] [%clk 0:13:28] } 23... Qe6 { [%eval -2.46] [%clk 0:09:22] } 24. Kb2 { [%eval -2.52] [%clk 0:04:51] } 24... Qc4 { [%eval -2.33] [%clk 0:07:45] } 25. Ra1 { [%eval -2.4] [%clk 0:04:56] } 25... Ra6?! { [%eval -1.36] } { Inaccuracy. Nf6 was best. } { [%clk 0:04:29] } 26. Rxa6 { [%eval -1.63] [%clk 0:03:46] } 26... bxa6 { [%eval -1.35] [%clk 0:04:56] } 27. Qd5 { [%eval -1.26] [%clk 0:02:17] } 27... Qb4+ { [%eval -1.19] [%clk 0:03:55] } 28. Kc2 { [%eval -1.15] [%clk 0:01:54] } 28... Nf6 { [%eval -1.08] [%clk 0:02:16] } 29. Rb1?? { [%eval -6.68] } { Blunder. Qxe5 was best. } { [%clk 0:01:00] } 29... Nxd5 { [%eval -6.67] [%clk 0:02:05] } 0-1
+
+
+[Event "University of Warwick 1st Congress BCC Qualifier: Open"]
+[Site "Westwood Teaching Centre, University of Warwick, CV4 8EJ"]
+[Date "2026.02.28"]
+[Round "1"]
+[Board "7"]
+[White "Akeya-Price, Robert A"]
+[Black "Kawuma, Steven Male"]
+[Result "0-1"]
+[SourceFile "2026.02.28 Akeya-Price, Robert A - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2026.02.28 Akeya-Price, Robert A - Kawuma, Steven Male 0-1"]
+[ECO ""]
+[WhiteElo "1934"]
+[BlackElo "2160"]
+[PlyCount "0"]
+[EventDate "2026.02.28"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. Be2 O-O 6. Be3 Nc6 7. g4 e5 8. d5 Nd4 9.
+g5 Nxe2 10. Qxe2 Nh5 11. Qd2 f5 12. gxf6 Qxf6 13. O-O-O a6 14. Nge2 Bh3 15. Rhg1
+Bd7 16. c5 Rf7 17. b4 Bf8 18. Kb1 a5 19. a3 axb4 20. axb4 dxc5 21. bxc5 Ra5 22. d6
+cxd6 23. cxd6 Qe6 24. Kb2 Qc4 25. Ra1 Ra6 26. Rxa6 bxa6 27. Qd5 Qb4+ 28. Kc2 Nf6
+29. Rb1 Nxd5  0-1
+
+
+[Event "University of Warwick 1st Congress BCC Qualifier: Open"]
+[Site "Westwood Teaching Centre, University of Warwick, CV4 8EJ"]
+[Date "2026.02.28"]
+[Round "3"]
+[Board "2"]
+[White "Jackson, Edward"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2026.02.28 Jackson, Edward - Kawuma, Steven Male [chess-results].pgn"]
+[Title "2026.02.28 Jackson, Edward - Kawuma, Steven Male 1-0"]
+[ECO ""]
+[WhiteElo "2148"]
+[BlackElo "2160"]
+[PlyCount "0"]
+[EventDate "2026.02.28"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 Bg4 6. dxc5 Qxc5 7. Be3 Qa5 8. Qb3
+Qc7 9. Na3 Nc6 10. Nb5 Qa5 11. O-O-O Rc8 12. Nbd4 Qc7 13. Qa4 Bd7 14. Nxc6 bxc6 15.
+Ba6 Rd8 16. Bc4 a5 17. Qb3 e6 18. g3 Ra8 19. Bf4 Qa7 20. Ne5 a4 21. Qc2 Nd5 22. Nxd7
+Qxd7 23. a3 Qa7 24. Be5 f6 25. Bd4 Bc5 26. Rhe1 Kf7 27. f4 Bxd4 28. Rxd4 g6 29. Rde4
+Rhe8 30. Qe2 Qd7 31. Ba2 Re7 32. Rd1 Qa7 33. g4 Rae8 34. Rdd4 f5 35. gxf5 exf5 36.
+Re5 Kf6 37. Bxd5 Rxe5 38. fxe5+ Rxe5 39. Qd1 cxd5 40. Rxa4 Qf2 41. Qd4 Qxd4 42. Rxd4
+g5 43. a4 f4 44. Rd2 f3 45. Rf2 g4 46. b4 Kf5 47. a5 Kf4 48. a6 Ke3 49. a7 Re8 50.
+Ra2 f2 51. Rxf2 Kxf2 52. b5 Kg2 53. b6 Kxh2 54. b7 g3 55. b8=Q Re1+  1-0
+
+
+[Event "Round 3: Jackson, Edward - Kawuma, Steven Male"]
+[Site "https://lichess.org/broadcast/1st-university-of-warwick-congress-open/round-3/JpYvEySD/vlafWrf3"]
+[Date "2026.02.28"]
+[Round "3.2"]
+[White "Jackson, Edward"]
+[Black "Kawuma, Steven Male"]
+[Result "1-0"]
+[SourceFile "2026.02.28 Jackson, Edward - Kawuma, Steven Male [lichess broadcast database].pgn"]
+[Title "2026.02.28 Jackson, Edward - Kawuma, Steven Male 1-0"]
+[WhiteElo "2148"]
+[WhiteTitle "CM"]
+[WhiteFideId "464635"]
+[BlackElo "2160"]
+[BlackTitle "FM"]
+[BlackFideId "10000224"]
+[Variant "Standard"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line"]
+[UTCDate "2026.02.28"]
+[UTCTime "17:40:45"]
+[BroadcastName "1st University of Warwick Congress: Open"]
+[BroadcastURL "https://lichess.org/broadcast/1st-university-of-warwick-congress-open/round-3/JpYvEySD"]
+[GameURL "https://lichess.org/broadcast/1st-university-of-warwick-congress-open/round-3/JpYvEySD/vlafWrf3"]
+
+1. e4 { [%eval 0.18] [%clk 1:00:15] } 1... c5 { [%eval 0.25] [%clk 1:00:50] } 2. c3 { [%eval 0.0] [%clk 1:00:37] } 2... d5 { [%eval 0.11] [%clk 0:59:40] } 3. exd5 { [%eval 0.12] [%clk 1:00:56] } 3... Qxd5 { [%eval 0.19] [%clk 1:00:06] } 4. d4 { [%eval 0.08] [%clk 1:01:15] } 4... Nf6 { [%eval 0.1] [%clk 0:59:49] } 5. Nf3 { [%eval 0.11] [%clk 1:01:34] } 5... Bg4 { [%eval 0.27] [%clk 0:59:53] } 6. dxc5 { [%eval 0.28] [%clk 1:00:29] } 6... Qxc5 { [%eval 0.21] [%clk 0:58:24] } 7. Be3 { [%eval 0.21] [%clk 1:00:29] } 7... Qa5 { [%eval 0.61] [%clk 0:55:31] } 8. Qb3 { [%eval 0.25] [%clk 0:57:57] } 8... Qc7 { [%eval 0.28] [%clk 0:49:44] } 9. Na3 { [%eval 0.34] [%clk 0:56:24] } 9... Nc6? { [%eval 1.48] } { Mistake. a6 was best. } { [%clk 0:48:21] } 10. Nb5 { [%eval 1.38] [%clk 0:55:48] } 10... Qa5?! { [%eval 2.59] } { Inaccuracy. Qb8 was best. } { [%clk 0:45:00] } 11. O-O-O { [%eval 2.69] [%clk 0:53:41] } 11... Rc8?! { [%eval 3.51] } { Inaccuracy. e6 was best. } { [%clk 0:38:21] } 12. Nbd4?! { [%eval 2.61] } { Inaccuracy. Nxa7 was best. } { [%clk 0:47:53] } 12... Qc7 { [%eval 2.7] [%clk 0:31:37] } 13. Qa4?? { [%eval 0.72] } { Blunder. Nxc6 was best. } { [%clk 0:39:48] } 13... Bd7?? { [%eval 3.16] } { Blunder. a6 was best. } { [%clk 0:25:34] } 14. Nxc6?! { [%eval 2.08] } { Inaccuracy. Nb5 was best. } { [%clk 0:35:29] } 14... bxc6?! { [%eval 3.38] } { Inaccuracy. Bxc6 was best. } { [%clk 0:24:01] } 15. Ba6 { [%eval 3.59] [%clk 0:31:58] } 15... Rd8 { [%eval 3.52] [%clk 0:22:32] } 16. Bc4? { [%eval 1.72] } { Mistake. Bf4 was best. } { [%clk 0:30:03] } 16... a5 { [%eval 1.78] [%clk 0:16:04] } 17. Qb3 { [%eval 1.37] [%clk 0:27:11] } 17... e6 { [%eval 1.34] [%clk 0:16:18] } 18. g3 { [%eval 1.26] [%clk 0:23:54] } 18... Ra8 { [%eval 1.4] [%clk 0:13:25] } 19. Bf4 { [%eval 1.38] [%clk 0:23:18] } 19... Qa7 { [%eval 1.27] [%clk 0:11:12] } 20. Ne5 { [%eval 1.32] [%clk 0:20:52] } 20... a4 { [%eval 1.17] [%clk 0:09:10] } 21. Qc2 { [%eval 1.18] [%clk 0:21:16] } 21... Nd5 { [%eval 1.65] [%clk 0:09:11] } 22. Nxd7 { [%eval 1.45] [%clk 0:18:41] } 22... Qxd7 { [%eval 1.43] [%clk 0:09:17] } 23. a3 { [%eval 1.27] [%clk 0:18:49] } 23... Qa7?! { [%eval 2.1] } { Inaccuracy. Bc5 was best. } { [%clk 0:07:56] } 24. Be5 { [%eval 2.13] [%clk 0:18:51] } 24... f6 { [%eval 2.23] [%clk 0:05:24] } 25. Bd4 { [%eval 2.33] [%clk 0:19:06] } 25... Bc5 { [%eval 2.2] [%clk 0:05:43] } 26. Rhe1 { [%eval 2.21] [%clk 0:18:47] } 26... Kf7 { [%eval 2.26] [%clk 0:06:01] } 27. f4 { [%eval 1.84] [%clk 0:16:42] } 27... Bxd4 { [%eval 1.96] [%clk 0:05:54] } 28. Rxd4 { [%eval 1.82] [%clk 0:17:00] } 28... g6 { [%eval 2.02] [%clk 0:05:20] } 29. Rde4 { [%eval 1.71] [%clk 0:16:39] } 29... Rhe8 { [%eval 1.76] [%clk 0:05:04] } 30. Qe2 { [%eval 1.78] [%clk 0:16:19] } 30... Qd7 { [%eval 1.72] [%clk 0:04:55] } 31. Ba2 { [%eval 1.69] [%clk 0:16:25] } 31... Re7 { [%eval 1.95] [%clk 0:03:31] } 32. Rd1?! { [%eval 1.34] } { Inaccuracy. Qd1 was best. } { [%clk 0:15:34] } 32... Qa7 { [%eval 1.71] [%clk 0:03:26] } 33. g4 { [%eval 1.36] [%clk 0:13:54] } 33... Rae8 { [%eval 1.42] [%clk 0:03:24] } 34. Rdd4 { [%eval 1.26] [%clk 0:11:19] } 34... f5 { [%eval 1.65] [%clk 0:01:29] } 35. gxf5 { [%eval 1.54] [%clk 0:09:46] } 35... exf5 { [%eval 1.55] [%clk 0:01:33] } 36. Re5? { [%eval 0.0] } { Mistake. Rxe7+ was best. } { [%clk 0:09:02] } 36... Kf6 { [%eval 0.0] [%clk 0:00:39] } 37. Bxd5 { [%eval -0.12] [%clk 0:06:00] } 37... Rxe5 { [%eval -0.15] [%clk 0:00:52] } 38. fxe5+ { [%eval -0.23] [%clk 0:06:20] } 38... Rxe5 { [%eval -0.61] [%clk 0:01:13] } 39. Qd1? { [%eval -2.15] } { Mistake. Be4 was best. } { [%clk 0:05:16] } 39... cxd5 { [%eval -1.71] [%clk 0:00:52] } 40. Rxa4 { [%eval -2.08] [%clk 0:03:07] } 40... Qf2 { [%eval -2.06] [%clk 0:00:46] } 41. Qd4 { [%eval -1.85] [%clk 0:02:13] } 41... Qxd4 { [%eval -1.81] [%clk 0:00:37] } 42. Rxd4 { [%eval -2.18] [%clk 0:02:42] } 42... g5 { [%eval -2.26] [%clk 0:00:42] } 43. a4 { [%eval -2.0] [%clk 0:01:26] } 43... f4 { [%eval -2.2] [%clk 0:01:09] } 44. Rd2 { [%eval -2.16] [%clk 0:00:43] } 44... f3 { [%eval -1.96] [%clk 0:01:17] } 45. Rf2?! { [%eval -2.68] } { Inaccuracy. b4 was best. } { [%clk 0:00:39] } 45... g4 { [%eval -2.82] [%clk 0:01:33] } 46. b4 { [%eval -2.77] [%clk 0:00:51] } 46... Kf5?! { [%eval -1.92] } { Inaccuracy. Ke6 was best. } { [%clk 0:01:01] } 47. a5? { [%eval -3.56] } { Mistake. b5 was best. } { [%clk 0:01:04] } 47... Kf4 { [%eval -3.61] [%clk 0:00:57] } 48. a6 { [%eval -3.53] [%clk 0:01:01] } 48... Ke3?? { [%eval 0.0] } { Blunder. Re1+ was best. } { [%clk 0:00:59] } 49. a7 { [%eval 0.0] [%clk 0:01:07] } 49... Re8 { [%eval 0.0] [%clk 0:00:39] } 50. Ra2 { [%eval 0.04] [%clk 0:01:11] } 50... f2?? { [%eval 4.36] } { Blunder. Ra8 was best. } { [%clk 0:00:38] } 51. Rxf2 { [%eval 4.61] [%clk 0:01:36] } 51... Kxf2 { [%eval 4.41] [%clk 0:01:04] } 52. b5 { [%eval 4.49] [%clk 0:02:00] } 52... Kg2 { [%eval 5.07] [%clk 0:00:41] } 53. b6 { [%eval 4.69] [%clk 0:02:26] } 53... Kxh2?? { [%eval 58.84] } { Blunder. Ra8 was best. } { [%clk 0:00:39] } 54. b7 { [%eval 9.12] [%clk 0:02:52] } 54... g3 { [%eval 77.6] [%clk 0:00:34] } 55. b8=Q { [%eval 9.03] [%clk 0:03:18] } 55... Re1+ { [%eval 81.52] [%clk 0:00:00] } 1-0
+
+
+[Event "University of Warwick 1st Congress BCC Qualifier: Open"]
+[Site "Westwood Teaching Centre, University of Warwick, CV4 8EJ"]
+[Date "2026.02.28"]
+[Round "2"]
+[Board "6"]
+[White "Kawuma, Steven Male"]
+[Black "Iyengar, Ilya"]
+[Result "1-0"]
+[SourceFile "2026.02.28 Kawuma, Steven Male - Iyengar, Ilya [chess-results].pgn"]
+[Title "2026.02.28 Kawuma, Steven Male - Iyengar, Ilya 1-0"]
+[ECO ""]
+[WhiteElo "2160"]
+[BlackElo "1989"]
+[PlyCount "0"]
+[EventDate "2026.02.28"]
+[EventRounds "5"]
+[EventCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Nf3 g6 5. Ba4 Bg7 6. O-O a6 7. Nxd4 cxd4 8. Ne2
+e6 9. d3 Ne7 10. f3 O-O 11. Qe1 b5 12. Bb3 Qb6 13. Qh4 Nc6 14. Bh6 a5 15. a3 a4 16.
+Ba2 b4 17. axb4 Nxb4 18. Bb1 Bb7 19. Kh1 Rfc8 20. Bxg7 Kxg7 21. c3 Nc6 22. Ra2 Ra5
+23. f4 f5 24. Bc2 Ba6 25. e5 Qd8 26. Qf2 dxc3 27. bxc3 a3 28. Rfa1 Qe7 29. Qe1 Ra8
+30. h3 Bb7 31. Kh2 Qc5 32. d4 Qc4 33. Nc1 Ne7 34. Bb3 Qc6 35. Nd3 Qb5 36. Nc5 Bd5
+37. Qh4 Re8 38. Qf6+ Kg8 39. Rb1 Bxb3 40. Rxb3 Qf1 41. Nxd7 Nd5 42. Qh4 Ra7 43. Nf6+
+Nxf6 44. exf6 Rf8 45. Rbxa3 Raf7 46. Ra7 Qc1 47. Rxf7 Rxf7 48. Qh6 Rxf6 49. Ra8+
+ 1-0
+
+
+[Event "Round 2: Kawuma, Steven Male - Iyengar, Ilya"]
+[Site "https://lichess.org/broadcast/1st-university-of-warwick-congress-open/round-2/jMUkfz1y/Mr2Lud3b"]
+[Date "2026.02.28"]
+[Round "2.6"]
+[White "Kawuma, Steven Male"]
+[Black "Iyengar, Ilya"]
+[Result "1-0"]
+[SourceFile "2026.02.28 Kawuma, Steven Male - Iyengar, Ilya [lichess broadcast database].pgn"]
+[Title "2026.02.28 Kawuma, Steven Male - Iyengar, Ilya 1-0"]
+[WhiteElo "2160"]
+[WhiteTitle "FM"]
+[WhiteFideId "10000224"]
+[BlackElo "1989"]
+[BlackFideId "405949"]
+[Variant "Standard"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+[UTCDate "2026.02.28"]
+[UTCTime "18:07:16"]
+[BroadcastName "1st University of Warwick Congress: Open"]
+[BroadcastURL "https://lichess.org/broadcast/1st-university-of-warwick-congress-open/round-2/jMUkfz1y"]
+[GameURL "https://lichess.org/broadcast/1st-university-of-warwick-congress-open/round-2/jMUkfz1y/Mr2Lud3b"]
+
+1. e4 { [%clk 1:00:48] } 1... c5 { [%clk 0:57:16] } 2. Nc3 { [%clk 1:00:51] } 2... Nc6 { [%clk 0:57:17] } 3. Bb5 { [%clk 1:01:02] } 3... Nd4 { [%clk 0:57:15] } 4. Nf3 { [%clk 1:01:17] } 4... g6 { [%clk 0:57:00] } 5. Ba4 { [%clk 0:58:59] } 5... Bg7 { [%clk 0:55:28] } 6. O-O { [%clk 0:57:33] } 6... a6 { [%clk 0:51:10] } 7. Nxd4 { [%clk 0:56:03] } 7... cxd4 { [%clk 0:50:36] } 8. Ne2 { [%clk 0:55:42] } 8... e6 { [%clk 0:50:15] } 9. d3 { [%clk 0:55:16] } 9... Ne7 { [%clk 0:47:45] } 10. f3 { [%clk 0:53:15] } 10... O-O { [%clk 0:47:29] } 11. Qe1 { [%clk 0:52:35] } 11... b5 { [%clk 0:43:24] } 12. Bb3 { [%clk 0:52:55] } 12... Qb6 { [%clk 0:42:47] } 13. Qh4 { [%clk 0:47:19] } 13... Nc6 { [%clk 0:31:26] } 14. Bh6 { [%clk 0:46:42] } 14... a5 { [%clk 0:30:36] } 15. a3 { [%clk 0:39:42] } 15... a4 { [%clk 0:28:33] } 16. Ba2 { [%clk 0:40:05] } 16... b4 { [%clk 0:15:03] } 17. axb4 { [%clk 0:34:12] } 17... Nxb4 { [%clk 0:14:35] } 18. Bb1 { [%clk 0:22:46] } 18... Bb7 { [%clk 0:12:02] } 19. Kh1 { [%clk 0:17:51] } 19... Rfc8 { [%clk 0:10:49] } 20. Bxg7 { [%clk 0:17:18] } 20... Kxg7 { [%clk 0:11:05] } 21. c3 { [%clk 0:12:29] } 21... Nc6 { [%clk 0:08:16] } 22. Ra2 { [%clk 0:11:41] } 22... Ra5 { [%clk 0:07:21] } 23. f4 { [%clk 0:08:42] } 23... f5 { [%clk 0:04:16] } 24. Bc2 { [%clk 0:03:49] } 24... Ba6 { [%clk 0:01:00] } 25. e5 { [%clk 0:02:09] } 25... Qd8 { [%clk 0:00:35] } 26. Qf2 { [%clk 0:01:38] } 26... dxc3 { [%clk 0:00:37] } 27. bxc3 { [%clk 0:01:48] } 27... a3 { [%clk 0:00:49] } 28. Rfa1 { [%clk 0:01:39] } 28... Qe7 { [%clk 0:00:57] } 29. Qe1 { [%clk 0:01:33] } 29... Ra8 { [%clk 0:00:57] } 30. h3 { [%clk 0:01:27] } 30... Bb7 { [%clk 0:00:39] } 31. Kh2 { [%clk 0:01:24] } 31... Qc5 { [%clk 0:00:45] } 32. d4 { [%clk 0:01:02] } 32... Qc4 { [%clk 0:00:39] } 33. Nc1 { [%clk 0:00:50] } 33... Ne7 { [%clk 0:00:34] } 34. Bb3 { [%clk 0:00:39] } 34... Qc6 { [%clk 0:00:57] } 35. Nd3 { [%clk 0:00:39] } 35... Qb5 { [%clk 0:00:35] } 36. Nc5 { [%clk 0:00:40] } 36... Bd5 { [%clk 0:00:35] } 37. Qh4 { [%clk 0:00:37] } 37... Re8 { [%clk 0:00:34] } 38. Qf6+ { [%clk 0:00:53] } 38... Kg8 { [%clk 0:01:02] } 39. Rb1 { [%clk 0:01:01] } 39... Bxb3 { [%clk 0:01:04] } 40. Rxb3 { [%clk 0:01:18] } 40... Qf1 { [%clk 0:00:36] } 41. Nxd7 { [%clk 0:01:16] } 41... Nd5 { [%clk 0:00:53] } 42. Qh4 { [%clk 0:00:36] } 42... Ra7 { [%clk 0:00:40] } 43. Nf6+ { [%clk 0:00:38] } 43... Nxf6 { [%clk 0:01:03] } 44. exf6 { [%clk 0:00:55] } 44... Rf8 { [%clk 0:00:34] } 45. Rbxa3 { [%clk 0:00:52] } 45... Raf7 { [%clk 0:00:35] } 46. Ra7 { [%clk 0:00:53] } 46... Qc1 { [%clk 0:00:32] } 47. Rxf7 { [%clk 0:00:51] } 47... Rxf7 { [%clk 0:00:38] } 48. Qh6 { [%clk 0:00:35] } 48... Rxf6 { [%clk 0:00:35] } 49. Ra8+ { [%clk 0:00:55] } 1-0

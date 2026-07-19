@@ -1,0 +1,66 @@
+[Event "98th Caplin Hastings Masters 2024"]
+[Site "Horntye Park, Hastings, United Kingdom"]
+[Date "2024.12.29"]
+[Round "3.28"]
+[White "Verbytski, Oleg"]
+[Black "Bin-Suhayl, Ieysaa"]
+[Result "1/2-1/2"]
+[WhiteElo "2033"]
+[WhiteFideId "495506"]
+[BlackElo "2183"]
+[BlackFideId "429031"]
+[TimeControl "G: 90 minutes + 30 seconds added per move"]
+[Variant "Standard"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo, with a6"]
+[StudyName "Round 3"]
+[ChapterName "Verbytski, Oleg - Bin-Suhayl, Ieysaa"]
+[BroadcastName "Caplin Hastings Masters 2024"]
+[BroadcastURL "https://lichess.org/broadcast/caplin-hastings-masters-2024/round-3/TBkSOrjI"]
+[GameURL "https://lichess.org/broadcast/caplin-hastings-masters-2024/round-3/TBkSOrjI/nBklZg5M"]
+
+1. e4 { [%eval 0.18] [%clk 1:30:25] } 1... e5 { [%eval 0.21] [%clk 1:24:11] }
+2. Nf3 { [%eval 0.13] [%clk 1:30:50] } 2... Nc6 { [%eval 0.17] [%clk 1:24:31] }
+3. Bc4 { [%eval 0.12] [%clk 1:31:15] } 3... Bc5 { [%eval 0.2] [%clk 1:24:20] }
+4. c3 { [%eval 0.09] [%clk 1:31:36] } 4... Nf6 { [%eval 0.13] [%clk 1:24:46] }
+5. d3 { [%eval 0.11] [%clk 1:32:01] } 5... d6 { [%eval 0.18] [%clk 1:23:41] }
+6. Nbd2 { [%eval 0.1] [%clk 1:32:15] } 6... a6 { [%eval 0.2] [%clk 1:22:15] }
+7. a4 { [%eval 0.13] [%clk 1:32:23] } 7... O-O { [%eval 0.16] [%clk 1:18:36] }
+8. O-O { [%eval 0.16] [%clk 1:32:27] } 8... Re8 { [%eval 0.25] [%clk 1:18:51] }
+9. h3 { [%eval 0.25] [%clk 1:32:44] } 9... Be6 { [%eval 0.24] [%clk 1:18:51] }
+10. Re1 { [%eval -0.11] [%clk 1:33:00] } 10... Bxc4
+{ [%eval -0.06] [%clk 1:16:59] } 11. dxc4 { [%eval -0.24] [%clk 1:33:03] }
+11... a5 { [%eval -0.21] [%clk 1:17:15] } 12. Nf1
+{ [%eval -0.22] [%clk 1:33:22] } 12... Ne7 { [%eval 0.0] [%clk 1:16:56] } 13.
+Qc2 { [%eval -0.08] [%clk 1:30:53] } 13... Ng6 { [%eval 0.0] [%clk 1:15:19] }
+14. Be3 { [%eval -0.21] [%clk 1:30:31] } 14... Bxe3
+{ [%eval -0.17] [%clk 1:13:11] } 15. fxe3 $2
+{ [%eval -1.55] Mistake. Nxe3 was best. [%clk 1:25:44] } 15... c6 $2
+{ [%eval -0.32] Mistake. Qd7 was best. [%clk 1:11:09] } 16. Rad1
+{ [%eval -0.39] [%clk 1:24:49] } 16... Qc7 { [%eval -0.37] [%clk 1:11:33] } 17.
+Ng3 { [%eval -0.38] [%clk 1:20:42] } 17... Rad8
+{ [%eval -0.46] [%clk 1:09:50] } 18. b4 { [%eval -0.48] [%clk 1:18:57] } 18...
+b5 $6 { [%eval 0.21] Inaccuracy. Rd7 was best. [%clk 0:57:43] } 19. axb5
+{ [%eval 0.0] [%clk 1:13:14] } 19... axb4 { [%eval -0.01] [%clk 0:52:39] } 20.
+cxb4 { [%eval 0.0] [%clk 1:08:08] } 20... cxb5 { [%eval 0.01] [%clk 0:53:05] }
+21. c5 { [%eval 0.0] [%clk 1:08:23] } 21... Rc8 { [%eval 0.18] [%clk 0:34:10] }
+22. Rc1 { [%eval -0.01] [%clk 1:02:16] } 22... dxc5
+{ [%eval -0.07] [%clk 0:34:07] } 23. bxc5 { [%eval -0.02] [%clk 1:02:38] }
+23... Qc6 { [%eval -0.03] [%clk 0:31:04] } 24. Qb3
+{ [%eval -0.03] [%clk 1:00:14] } 24... Nxe4 { [%eval 0.18] [%clk 0:29:10] } 25.
+Nxe4 { [%eval 0.25] [%clk 0:59:19] } 25... Qxe4 { [%eval 0.19] [%clk 0:29:14] }
+26. Qxf7+ { [%eval 0.13] [%clk 0:59:40] } 26... Kh8 $6
+{ [%eval 1.08] Inaccuracy. Kxf7 was best. [%clk 0:27:13] } 27. Qb3
+{ [%eval 0.91] [%clk 0:57:10] } 27... Rf8 { [%eval 1.33] [%clk 0:21:11] } 28.
+Rf1 $2 { [%eval 0.19] Mistake. Qxb5 was best. [%clk 0:54:59] } 28... h6
+{ [%eval 0.21] [%clk 0:20:32] } 29. Kh1 { [%eval 0.11] [%clk 0:52:26] } 29...
+Qc6 { [%eval 0.11] [%clk 0:17:19] } 30. Qb4 { [%eval 0.0] [%clk 0:51:17] }
+30... Rf5 { [%eval 0.26] [%clk 0:14:50] } 31. Kh2
+{ [%eval 0.09] [%clk 0:44:07] } 31... Rcf8 { [%eval 0.18] [%clk 0:13:41] } 32.
+Nd2 { [%eval 0.0] [%clk 0:42:43] } 32... Rxf1 { [%eval 0.0] [%clk 0:05:34] }
+33. Rd1 $4 { [%eval -7.75] Blunder. Rxf1 was best. [%clk 0:42:27] } 33... R8f2
+$6 { [%eval -5.69] Inaccuracy. Rxd1 was best. } 34. Rxf1 $4
+{ [%eval #-1] Checkmate is now unavoidable. Qe4 was best. [%clk 0:41:03] }
+34... Rxf1 $4
+{ [%eval 0.0] Lost forced checkmate sequence. Qxg2# was best. [%clk 0:05:54] }
+1/2-1/2

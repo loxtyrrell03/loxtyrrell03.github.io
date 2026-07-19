@@ -1,0 +1,179 @@
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "1"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 {Plan gap: They made a normal move, but their score here is 10%
+across 7 games. Study the plans after dxc6. 7 games; Last played 2026-02-23 (3 months ago); result 10% Deck
+games: 7; 10% score; study move: dxc6.} *
+
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "2"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense, Anti-Berlin Variation"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 {Plan gap: They made a normal move, but their score
+here is 0% across 4 games. Study the plans after dxc6. 4 games; Last played 2026-03-28 (2 months ago);
+result 0% Deck games: 4; 0% score; study move: dxc6.} *
+
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "3"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense, l'Hermet Variation"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 {Plan gap: They made a normal move, but
+their score here is 20% across 5 games. Study the plans after dxc6. 5 games; Last played 2026-01-05 (4
+months ago); result 20% Deck games: 5; 20% score; study move: dxc6.} *
+
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "4"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense, l'Hermet Variation"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 {Plan gap: They made a normal
+move, but their score here is 20% across 5 games. Study the plans after Nf5. 5 games; Last played 2026-01-05
+(4 months ago); result 20% Deck games: 5; 20% score; study move: Nf5.} *
+
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "5"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Bxc6 dxc6 7. Nxe5 Be7 8. d4 O-O {Plan gap: They
+made a normal move, but their score here is 44% across 9 games. Study the plans after O-O. 9 games; Last
+played 2026-04-13 (32 days ago); result 44% Deck games: 9; 44% score; study move: O-O.} *
+
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "6"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 5. d3 Bd6 {Bad move gap: They played Nd7, which is rare in
+strong games. The main reference move is Bd6. 4 games; Last played 2026-01-08 (4 months ago); result 25%
+Deck games: 4; 25% score; study move: Bd6.} *
+
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "7"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense, l'Hermet Variation"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qe2 Nd4 {Plan gap: They
+made a normal move, but their score here is 17% across 3 games. Study the plans after Nd4. 3 games; Last
+played 2026-01-02 (4 months ago); result 17% Deck games: 3; 17% score; study move: Nd4.} *
+
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "8"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense, l'Hermet Variation"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qe2 Nd4 9. Nxd4 Qxd4 {Plan
+gap: They made a normal move, but their score here is 17% across 3 games. Study the plans after Qxd4. 3
+games; Last played 2026-01-02 (4 months ago); result 17% Deck games: 3; 17% score; study move: Qxd4.} *
+
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "9"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense, l'Hermet Variation"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 {Plan gap: They
+made a normal move, but their score here is 17% across 3 games. Study the plans after Kxd8. 3 games; Last
+played 2026-01-05 (4 months ago); result 17% Deck games: 3; 17% score; study move: Kxd8.} *
+
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "10"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Nxe5 7. Rxe5+ Be7 {Plan gap: They made a
+normal move, but their score here is 17% across 3 games. Study the plans after Be7. 3 games; Last played
+2026-03-20 (2 months ago); result 17% Deck games: 3; 17% score; study move: Be7.} *
+
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "11"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense, Nyholm Attack"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 exd4 5. O-O Be7 {Bad move gap: They played Nxe4, which is rare in
+strong games. The main reference move is Be7. 3 games; Last played 2026-03-22 (2 months ago); result 33%
+Deck games: 3; 33% score; study move: Be7.} *
+
+[Event "Weak Black Repertoire - Ruy Lopez"]
+[Site "En Croissant"]
+[Date "2026.05.15"]
+[Round "12"]
+[White "Training"]
+[Black "Loxi-ty"]
+[Result "*"]
+[Orientation "black"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[Source "opening gaps 1 year"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 Bc5 {Bad move gap: They played Bd6, which is rare in strong games. The
+main reference move is Bc5. 5 games; Last played 2026-03-24 (2 months ago); result 100% Deck games: 5; 100%
+score; study move: Bc5.} *

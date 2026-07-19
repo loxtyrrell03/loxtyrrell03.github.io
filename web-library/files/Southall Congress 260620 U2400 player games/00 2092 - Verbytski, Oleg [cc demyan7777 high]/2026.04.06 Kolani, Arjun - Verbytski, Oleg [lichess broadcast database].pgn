@@ -1,0 +1,50 @@
+[Event "Four Nations Chess League Easter Congress 2026 - Open"]
+[Site "https://lichess.org/broadcast/6th-4ncl-easter-congress-and-norm-2026--congress-open/round-6/BTaZDunJ/nYpEWCkc"]
+[Date "2026.04.06"]
+[Round "6.3"]
+[White "Kolani, Arjun"]
+[Black "Verbytski, Oleg"]
+[Result "1/2-1/2"]
+[WhiteElo "2118"]
+[WhiteFideId "446700"]
+[BlackElo "2243"]
+[BlackFideId "495506"]
+[TimeControl "G90' + 30"]
+[Variant "Standard"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[UTCDate "2026.04.06"]
+[UTCTime "09:01:18"]
+[BroadcastName "6th 4NCL Easter Congress and Norm 2026 | Congress - Open"]
+[BroadcastURL "https://lichess.org/broadcast/6th-4ncl-easter-congress-and-norm-2026--congress-open/round-6/BTaZDunJ"]
+[GameURL "https://lichess.org/broadcast/6th-4ncl-easter-congress-and-norm-2026--congress-open/round-6/BTaZDunJ/nYpEWCkc"]
+
+1. e4 { [%eval 0.18] [%clk 1:24:31] } 1... c5 { [%eval 0.25] [%clk 1:30:56] }
+2. Nf3 { [%eval 0.2] [%clk 1:24:48] } 2... Nc6 { [%eval 0.3] [%clk 1:31:21] }
+3. Bb5 { [%eval 0.17] [%clk 1:24:53] } 3... e5 { [%eval 0.34] [%clk 1:31:47] }
+4. O-O { [%eval 0.31] [%clk 1:24:09] } 4... Bd6 { [%eval 0.3] [%clk 1:32:15] }
+5. c3 { [%eval 0.34] [%clk 1:24:25] } 5... a6 { [%eval 0.3] [%clk 1:32:24] } 6.
+Ba4 { [%eval 0.32] [%clk 1:24:27] } 6... b5 { [%eval 0.32] [%clk 1:32:51] } 7.
+Bb3 { [%eval 0.26] [%clk 1:24:38] } 7... c4 { [%eval 0.34] [%clk 1:31:50] } 8.
+Bc2 { [%eval 0.4] [%clk 1:25:00] } 8... Nge7 { [%eval 0.92] [%clk 1:30:30] } 9.
+d4 { [%eval 0.87] [%clk 1:17:58] } 9... cxd3 { [%eval 1.02] [%clk 1:30:54] }
+10. Bxd3 { [%eval 0.59] [%clk 1:16:49] } 10... Bc5
+{ [%eval 0.83] [%clk 1:28:31] } 11. b4 { [%eval 0.85] [%clk 1:14:19] } 11...
+Bb6 { [%eval 1.16] [%clk 1:27:03] } 12. a4 { [%eval 1.07] [%clk 1:13:22] }
+12... bxa4 { [%eval 1.24] [%clk 1:25:53] } 13. Rxa4
+{ [%eval 1.08] [%clk 1:13:34] } 13... Bb7 { [%eval 1.15] [%clk 1:25:10] } 14.
+Qe2 { [%eval 1.1] [%clk 1:05:33] } 14... Qc8 { [%eval 1.03] [%clk 1:22:51] }
+15. Be3 { [%eval 0.95] [%clk 0:53:37] } 15... Bxe3
+{ [%eval 1.0] [%clk 1:21:33] } 16. Qxe3 { [%eval 0.81] [%clk 0:53:48] } 16...
+O-O { [%eval 1.04] [%clk 1:17:17] } 17. Nbd2 { [%eval 0.82] [%clk 0:52:01] }
+17... d5 { [%eval 0.76] [%clk 1:15:32] } 18. Nb3
+{ [%eval 0.35] [%clk 0:40:08] } 18... dxe4 { [%eval 0.4] [%clk 1:07:50] } 19.
+Qxe4 { [%eval 0.14] [%clk 0:39:01] } 19... f5 { [%eval 0.15] [%clk 1:08:01] }
+20. Qc4+ { [%eval 0.03] [%clk 0:39:18] } 20... Kh8
+{ [%eval 0.1] [%clk 1:08:22] } 21. Ng5 { [%eval 0.2] [%clk 0:38:04] } 21... e4
+{ [%eval 0.06] [%clk 1:06:07] } 22. Be2 { [%eval 0.1] [%clk 0:36:57] } 22...
+Ne5 { [%eval 0.12] [%clk 1:05:19] } 23. Qxc8 { [%eval 0.05] [%clk 0:29:11] }
+23... Bxc8 { [%eval 0.3] [%clk 1:05:42] } 24. Nc5
+{ [%eval -0.11] [%clk 0:29:23] } 24... Nd5 { [%eval -0.1] [%clk 1:00:29] } 25.
+Rc1 { [%eval -0.13] [%clk 0:22:10] } 25... Nf4 { [%eval -0.2] [%clk 0:37:26] }
+26. b5 $4 { [%eval -6.77] Blunder. Re1 was best. [%clk 0:22:07] } 1/2-1/2

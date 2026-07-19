@@ -1,0 +1,34 @@
+[Event "Uk Chess Challenge Under 8"]
+[Site "Blenheim Palace, United Kingdom"]
+[Date "????.??.??"]
+[Round "9.6"]
+[White "Verbytski, Oleg"]
+[Black "Jakhria, Kushal"]
+[Result "1-0"]
+[WhiteElo "1169"]
+[BlackElo "0"]
+[TimeControl "G:25 + 10"]
+[Variant "Standard"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Wing Gambit, Marshall Variation"]
+[StudyName "Round 9"]
+[ChapterName "Verbytski, Oleg - Jakhria, Kushal"]
+[BroadcastName "2021 UK Chess Challenge Terafinal Under 8"]
+[BroadcastURL "https://lichess.org/broadcast/2021-uk-chess-challenge-terafinal-under-8/round-9/QQpys9OO"]
+[GameURL "https://lichess.org/broadcast/2021-uk-chess-challenge-terafinal-under-8/round-9/QQpys9OO/tynEGvHd"]
+[WhiteFideId "495506"]
+
+1. e4 { [%clk 0:25:19] } 1... c5 { [%clk 0:25:18] } 2. b4 { [%clk 0:25:28] }
+2... cxb4 { [%clk 0:25:23] } 3. a3 { [%clk 0:25:36] } 3... d5
+{ [%clk 0:25:17] } 4. exd5 { [%clk 0:25:33] } 4... Qxd5 { [%clk 0:25:24] } 5.
+Nf3 { [%clk 0:25:42] } 5... Bg4 { [%clk 0:25:30] } 6. Be2 { [%clk 0:25:48] }
+6... e5 { [%clk 0:25:10] } 7. c4 { [%clk 0:25:56] } 7... Qe6 { [%clk 0:24:28] }
+8. O-O { [%clk 0:25:57] } 8... Nc6 { [%clk 0:24:08] } 9. Re1 { [%clk 0:26:03] }
+9... e4 { [%clk 0:23:58] } 10. Ng5 { [%clk 0:25:27] } 10... Qe5
+{ [%clk 0:23:33] } 11. Bxg4 { [%clk 0:25:32] } 11... Qxg5 { [%clk 0:23:30] }
+12. Rxe4+ { [%clk 0:25:32] } 12... Be7 { [%clk 0:23:38] } 13. d4
+{ [%clk 0:25:31] } 13... Qg6 { [%clk 0:23:38] } 14. Re1 { [%clk 0:25:21] }
+14... bxa3 { [%clk 0:23:36] } 15. Bxa3 { [%clk 0:25:25] } 15... Rd8
+{ [%clk 0:21:52] } 16. d5 { [%clk 0:25:20] } 16... Qf6 { [%clk 0:21:41] } 17.
+Nd2 { [%clk 0:25:19] } 17... Ne5 { [%clk 0:21:41] } 18. Qe2 { [%clk 0:25:14] }
+18... Nxg4 { [%clk 0:20:09] } 19. Qxg4 { [%clk 0:25:12] } 1-0

@@ -1,0 +1,44 @@
+[Event "Weak Opening GM Lesson - Italian for Black"]
+[Site "YouTube"]
+[Date "2021.12.19"]
+[Round "?"]
+[White "Italian Training"]
+[Black "Black repertoire"]
+[Result "*"]
+[Annotator "GM Anish Giri; transcript-derived notes"]
+[Source "https://www.youtube.com/watch?v=gkqxhUnA2hI"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[Start "[0,0,0]"]
+[Orientation "black"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 {Giri frames 3.Bc4 as a way for White to avoid the Ruy Lopez/Berlin and enter slower d3/c3 structures. For Black, the first lesson is emotional as much as theoretical: keep developing and do not treat the quiet Italian as harmless or mystical.} (3... Bc5 {Also playable, but this move order allows the Evans Gambit. If you choose it, have the small accepted-line reminder in game 3 ready.} 4. d3 Nf6 5. O-O d6 6. c3 O-O {This reaches the same quiet Italian family.}) 4. d3 {Giri's White repertoire uses d3 to avoid early tactical shenanigans. From Black's side that tells you the game is about timing: keep e5 solid, finish development, and only then decide whether ...h6, ...a6, ...Ba7, or a central break is needed.} Bc5 5. O-O (5. Nc3 d6 {Against the Four Knights-style version in your weak file, stay with the same structure. White has not forced a new defensive system.}) d6 6. c3 O-O {Giri notes that c3 first and castling first often transpose; do not waste study energy treating them as unrelated openings.} 7. h3 (7. Re1 Re8 {If White keeps improving instead of showing h3/Bg5 intentions, mirror with development and e-file control.}) h6 {A recurring Giri theme is the tension between Bg5, h3, and Black's kingside space. ...h6 can restrain Bg5, and if White plays h3 too casually Black should look for ...g5/...g4 ideas rather than automatically castling and waiting.} 8. a4 a6 {This is the practical Black-side detail that appears in both the long class and the Black crash-course transcript: when White is preparing d4, ...a6 and ...Ba7 can remove the bishop from a tempo hit.} 9. Re1 (9. d4 exd4 10. cxd4 Bb6 {Meet d4 concretely. Black should not drift after White finally challenges the centre; take, tuck the bishop if needed, and use the open lines.}) Ba7 10. Be3 Bxe3 11. Rxe3 Re8 {Model tabiya: Black has either traded or tucked the c5 bishop, reduced the bite of Bg5, and kept the e-file/centre under control. Continue with ...Be6, ...Qf6, ...Ne7-g6, or ...d5 only when the pieces are ready.} *
+
+[Event "Weak Opening GM Lesson - Scotch Gambit for Black"]
+[Site "YouTube"]
+[Date "2022.11.03"]
+[Round "?"]
+[White "Scotch Gambit Training"]
+[Black "Black repertoire"]
+[Result "*"]
+[Annotator "GM Miodrag Perunovic; transcript-derived notes"]
+[Source "https://www.youtube.com/watch?v=9uomdqN9ihw"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack"]
+[Start "[0,0,0]"]
+[Orientation "black"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 {Perunovic's practical Black recipe starts here: meet the Scotch Gambit actively. The move 5.e5 looks scary, but Black's answer is central counterplay with ...d5 rather than passive defence.} 5. e5 (5. O-O Nxe4 6. Re1 d5 {If White castles first, take e4, then use ...d5 to defend the knight and hit the c4 bishop. Perunovic repeatedly stresses that tempo ...d5 is the move that makes these positions playable.} 7. Bb5 Bd7 8. Bxc6 bxc6) (5. Ng5 d5 6. exd5 Qe7+ {Against the direct hit on f7, his antidote is the check: disturb White's king before worrying about the d5 pawn. Do not grab with the wrong knight and let f7 collapse.}) d5 6. Bb5 Ne4 {This is the same defensive family as the Max Lange gaps in your file. The knight looks loose, but it supports the d5 counterstrike and keeps Black active.} 7. Nxd4 Bd7 {Develop into the pin. Black should answer Bb5 by bringing pieces out, not by panicking over the c6 knight.} 8. Bxc6 bxc6 {Accept the structural change. Black gets open files, an active bishop pair theme, and a clear plan to develop quickly.} 9. O-O Bc5 {The bishop enters with pressure and prepares the f3/f4 knight shuffle seen in your weak games.} 10. f3 (10. Be3 O-O 11. f3 Ng5 12. f4 Ne4 13. Nd2 Nxd2 14. Qxd2 Bb6 {This is one of your recurring weak-file shapes: after the f-pawn chases the knight, Black can reset on e4, trade on d2, and park the bishop on b6.}) Ng5 11. f4 Ne4 12. Be3 O-O 13. Nd2 Nxd2 14. Qxd2 Bb6 {Main lesson: surviving the gambit is not about one instant refutation. Black reaches an active middlegame by meeting every White tempo with development, central control, and only then kingside pressure such as ...h6/...g5 when the position calls for it.} *
+
+[Event "Weak Opening GM Lesson - Evans Gambit Reminder"]
+[Site "YouTube"]
+[Date "2021.12.19"]
+[Round "?"]
+[White "Evans Gambit Training"]
+[Black "Black repertoire"]
+[Result "*"]
+[Annotator "GM Anish Giri; transcript-derived notes"]
+[Source "https://www.youtube.com/watch?v=gkqxhUnA2hI"]
+[Opening "Italian Game: Evans Gambit"]
+[Start "[0,0,0]"]
+[Orientation "black"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 {Giri flags the Evans Gambit as the practical cost of choosing the early ...Bc5 move order. It is only one weak-file entry here, so treat this as an emergency reminder rather than the main Italian study line.} 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 {Keep the deck's reference move. Black accepts, retreats, then opens the centre before White gets a free attacking setup.} 7. O-O Nf6 8. e5 d5 9. exf6 dxc4 {If White keeps throwing pawns forward, answer with central counterplay and remove the c4 bishop. Your priority is development and king safety, not hoarding every pawn.} *
