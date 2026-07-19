@@ -1,1 +1,0 @@
-import{P as o}from"./score-DqwBR8xf.js";var r=[["path",{d:"M3 9l4 -4l4 4m-4 -4v14",key:"svg-0"}],["path",{d:"M21 15l-4 4l-4 -4m4 4v-14",key:"svg-1"}]],a=o("outline","arrows-sort","ArrowsSort",r);export{a as t};
