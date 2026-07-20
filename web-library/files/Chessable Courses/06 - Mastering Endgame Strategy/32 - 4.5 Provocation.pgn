@@ -7,7 +7,7 @@
 [Result "*"]
 
  ( { By provocation I refer to the idea of forcing the opponent to make undesired moves, typically with his pawns. I touched upon the subject from a middlegame perspective in 'Mastering Chess Strategy', and here we will see the role of provocative measures in the final phase of the game. Just like the method of fixing pawns, provocation usually aims at creating weaknesses in the enemy camp, but differently to the former, the action is carried out by the pieces, rather than the pawns. In fact we already came across this idea in a few earlier examples; e.g. Kramnik-Deep Fritz ( } 6. Nc7 $1 { ) and Gligoric-Filip ( } 1. Kf4 $1 { ). } ) 
-1. -- 
+ 
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -332,7 +332,7 @@ bxa4 10. a3 { fixing the a4-pawn as a target, though after } Nc8 $5 { followed b
 [FEN "8/6pp/p1r1k3/Pp2p3/4K3/1PPR4/6PP/8 w - - 0 1"]
 
  { Provocation is a common guest in rook endings as well. Here are some examples.Thanks to his more active rook and king, White is a bit better, but Black holds for the moment. Rubinstein finds a great idea. } 1. { -KEY- } Rh3 $1 { Softening up Black's kingside. } ( { The move order matters: after } 1. Rg3 $6 g6 2. Rh3 Rc7 { Black defends better than in the game. } ) 
-h6 ( { After } 1... g6 2. Rxh7 Rxc3 3. Ra7 $1 { White obtains a big advantage, as demonstrated by Marin's detailed analysis in 'Learn from the Legends'. One sample line is } Rc6 4. Rg7 $1 Kf6 5. Rb7 Ke6 6. h4 $1 { with } -- 7. Rb6 { next. } ) 
+h6 ( { After } 1... g6 2. Rxh7 Rxc3 3. Ra7 $1 { White obtains a big advantage, as demonstrated by Marin's detailed analysis in 'Learn from the Legends'. One sample line is } Rc6 4. Rg7 $1 Kf6 5. Rb7 Ke6 6. h4 $1 { with }  7. Rb6 { next. } ) 
 2. Rg3 $1 { In the same provocative spirit. } Kf6 ( { a) The king has to cede the d5-square to its counterpart, since both } 2... Rc7 3. Rg6 ) 
  ( { b) And } 2... g5 3. Rh3 $1 { lose a pawn for Black. } ) 
 3. Kd5 Re6 4. Rf3+ Ke7 { Thanks to the previous provocation White has managed to invade with his king, and Black is evidently on the defensive. But how to progress? } 5. g3 $1 { Aware of Black's potential counterplay with ...Rd6-d2, Rubinstein takes prophylactic measures. The creation of a passed pawn with c3-c4 can wait until a more opportune moment - the opponent can't undertake anything active anyway. } ( { a) Instead, the tempting } 5. c4 $6 { permits } bxc4 6. bxc4 Rd6 $1 7. Kxe5 Rd2 8. Rg3 g5 { with quite some activity for Black; } ) 
@@ -343,7 +343,7 @@ g6 ( { Preventing } 5... g6 5. Rf5 )
  ( { Perhaps Black's best try was the sacrifice } 5... e4 $5 6. Re3 Rd6 7. Kxe4 ( { or } 6... g6 6. Kc5 Re6 ) 
 Rd2 { , as suggested by FSU70, with more counterplay than in the game thanks to the active rook. } ) 
 6. Re3 $1 { Before commencing the advance of the c-pawn, White eliminates the ...Rd6+ resource by the threat against e5. } Kf6 7. c4 bxc4 8. bxc4 { The c-pawn has become a giant, and the rest is child's play for Rubinstein. } Re8 9. Rf3+ { Driving the enemy king away from the defence of the e-pawn. } Kg5 10. c5 e4 11. h4+ ( { The simple } 11. Re3 { was strong too, both here and on the next move. } ) 
-Kg4 12. Rf4+ Kxg3 13. Rxe4 Ra8 ( { Or } 13... Rd8 14. Kc6 { followed by } -- 15. Kb7 { - Marin. } ) 
+Kg4 12. Rf4+ Kxg3 13. Rxe4 Ra8 ( { Or } 13... Rd8 14. Kc6 { followed by }  15. Kb7 { - Marin. } ) 
 14. c6 g5 15. hxg5 hxg5 16. c7 Kf3 17. Re1 { Black resigned, seeing that after the trade of rooks and passed pawns, the location of White's king decides. Note that this position would be drawn without the a-pawns - not without reason, a greater number of pawns on the board tends to favour the attacker. } 
  1-0
 
@@ -357,7 +357,7 @@ Kg4 12. Rf4+ Kxg3 13. Rxe4 Ra8 ( { Or } 13... Rd8 14. Kc6 { followed by } -- 15.
 [FEN "8/6pp/p1r1k3/Pp2p3/4K3/1PPR4/6PP/8 w - - 0 1"]
 
  { Provocation is a common guest in rook endings as well. Here are some examples.Thanks to his more active rook and king, White is a bit better, but Black holds for the moment. Rubinstein finds a great idea. } 1. { -KEY- } Rh3 $1 { Softening up Black's kingside. } ( { The move order matters: after } 1. Rg3 $6 g6 2. Rh3 Rc7 { Black defends better than in the game. } ) 
-h6 ( { After } 1... g6 2. Rxh7 Rxc3 3. Ra7 $1 { White obtains a big advantage, as demonstrated by Marin's detailed analysis in 'Learn from the Legends'. One sample line is } Rc6 4. Rg7 $1 Kf6 5. Rb7 Ke6 6. h4 $1 -- { with } 7. Rb6 { next. } ) 
+h6 ( { After } 1... g6 2. Rxh7 Rxc3 3. Ra7 $1 { White obtains a big advantage, as demonstrated by Marin's detailed analysis in 'Learn from the Legends'. One sample line is } Rc6 4. Rg7 $1 Kf6 5. Rb7 Ke6 6. h4 $1  { with } 7. Rb6 { next. } ) 
 2. Rg3 $1 { In the same provocative spirit. } Kf6 ( { The king has to cede the d5-square to its counterpart, since both } 2... Rc7 3. Rg6 ) 
  ( { and } 2... g5 3. Rh3 $1 { lose a pawn for Black. } ) 
 3. Kd5 Re6 4. Rf3+ Ke7 { Thanks to the previous provocation White has managed to invade with his king, and Black is evidently on the defensive. But how to progress? } 5. g3 $1 { Aware of Black's potential counterplay with ...Rd6(+)-d2, Rubinstein takes prophylactic measures. The creation of a passed pawn with c3-c4 can wait until a more opportune moment - the opponent can't undertake anything active anyway. } ( { a) Instead, the tempting } 5. c4 $6 { permits } bxc4 6. bxc4 Rd6 $1 7. Kxe5 Rd2 8. Rg3 g5 { with quite some activity for Black. } ) 
@@ -377,7 +377,7 @@ g6 { Preventing 6.Rf5. } ( { If } 5... Rf6 { with the same purpose, then } 6. Re
 [FEN "8/8/p3rkpp/P2Kp3/2P5/4R1P1/7P/8 b - - 0 8"]
 
 8... { -KEY- } Re8 9. Rf3+ { Driving the enemy king away from the defence of the e-pawn. } Kg5 10. c5 e4 11. h4+ ( { The simple } 11. Re3 { was strong too, both here and on the next move. } ) 
-Kg4 12. Rf4+ Kxg3 13. Rxe4 Ra8 ( { Or } 13... Rd8 14. Kc6 -- { followed by } 15. Kb7 { - Marin. } ) 
+Kg4 12. Rf4+ Kxg3 13. Rxe4 Ra8 ( { Or } 13... Rd8 14. Kc6  { followed by } 15. Kb7 { - Marin. } ) 
 14. c6 g5 15. hxg5 hxg5 16. c7 Kf3 17. Re1 ( { Black resigned, seeing that after the trade of rooks and passed pawns, the location of White's king decides. Note that this position would be drawn without the a-pawns - not without reason, a greater number of pawns on the board tends to favour the attacker. By the way, } 17. Rc4 { in similar fashion also works. } ) 
 
  1-0
@@ -483,7 +483,7 @@ Kf5 12. Rd4 $1 { A key move that prevents ...Kf4 and aims at deploying the rook 
 2. g4 ( { Indeed, most other moves have clear defects; e.g. } 2. Kd2 $6 Rf3 ) 
 Rf7 { Suddenly White is short of solid moves. } 3. Ne1 Rf4 $1 ( { Salov at once exploits the weakness on f4; aware that } 3... Rf4 4. Rxf4 $6 gxf4 { , followed by ...Kc4-b3, would just make things worse for White - Ribli. } ) 
 4. Ke3 Rf1 $1 { Looking for new targets. } ( { It was no longer beneficial to swap rooks; i.e. } 4... Rxd4 $2 5. Kxd4 { and White manages to activate his king. } ) 
-5. Nc2 $1 ( { a) A good defence; as } 5. Nc2 { creates the threat of } -- 6. c4 Bxc4 7. Na3 ) 
+5. Nc2 $1 ( { a) A good defence; as } 5. Nc2 { creates the threat of }  6. c4 Bxc4 7. Na3 ) 
  ( { b) Inferior is } 5. Ke2 $2 Rh1 { and White loses a pawn in view of } 6. Rd3 $2 Bc4 ) 
 Rf3+ 6. Kd2 ( { a) Not } 6. Ke2 $2 Rxh3 7. c4 Bxc4 { with check. } ) 
  ( { b) Whereas after } 6. Kd2 { the h3-pawn is untouchable due to } Rxh3 $2 7. c4 Bxc4 8. Na3 { again. } ) 
@@ -510,7 +510,7 @@ Bf5 { lets Black stop the g-pawn with his bishop. } )
 2. g4 ( { Indeed, most other moves have clear defects; e.g. } 2. Kd2 $6 Rf3 ) 
 Rf7 { Suddenly White is short of solid moves. } 3. Ne1 Rf4 $1 { Salov at once exploits the weakness on f4; } ( { aware that } 3... Rf4 4. Rxf4 $6 gxf4 { followed by ...Kc4-b3, would just make things worse for White - Ribli. } ) 
 4. Ke3 Rf1 $1 { Looking for new targets. } ( { It was no longer beneficial to swap rooks; i.e. } 4... Rxd4 $2 5. Kxd4 { and White manages to activate his king. } ) 
-5. Nc2 $1 ( { a) A good defence; as } 5. Nc2 { creates the threat of } -- 6. c4 Bxc4 7. Na3 ) 
+5. Nc2 $1 ( { a) A good defence; as } 5. Nc2 { creates the threat of }  6. c4 Bxc4 7. Na3 ) 
  ( { b) Inferior is } 5. Ke2 $2 Rh1 { and White loses a pawn in view of } 6. Rd3 $2 Bc4 ) 
 Rf3+ 6. Kd2 ( { a) Not } 6. Ke2 $2 Rxh3 7. c4 Bxc4 { with check. } ) 
  ( { b) Whereas after } 6. Kd2 { the h3-pawn is untouchable due to } Rxh3 $2 7. c4 Bxc4 8. Na3 { again. } ) 
@@ -569,7 +569,7 @@ Kg7 3. g6 Bb2 { The bishop now controls all the pawns, though Black should be on
 b5 3. Bc2 { in the same spirit; e.g. } Ne6 4. Bxd3 Rxd3 5. Rxd3 Rxd3 6. Bxa7 { winning a pawn. } ) 
 b5 ( { Practically forced; since after } 1... Rc7 $6 2. Rd2 $1 { followed by Rad1, the pin on the d-file spells trouble for Black - Shereshevsky. } ) 
 2. Bb3 Nhf4 3. Rd2 { Having concluded the provocative measure Kotov reverts to normal play, fighting for the open file and preparing to bring the last piece to the battle. } Ne6 4. Rad1 b4 ( { There was the threat of } 4... b4 4. Bxa7 { , winning a pawn. } ) 
-5. Bd5 $1 { The knight on d3 is at last forced to retreat. } Ndc5 6. Nd4 $1 ( { The exchange of knights will have a weakening effect on Black's queenside defence; who can't really avoid it because of the dual threats, after } 6. Nd4 { of } -- 7. Nc6 ( { and } 7. Nxe6 fxe6 8. Bxe6 { - Shereshevsky. } ) 
+5. Bd5 $1 { The knight on d3 is at last forced to retreat. } Ndc5 6. Nd4 $1 ( { The exchange of knights will have a weakening effect on Black's queenside defence; who can't really avoid it because of the dual threats, after } 6. Nd4 { of }  7. Nc6 ( { and } 7. Nxe6 fxe6 8. Bxe6 { - Shereshevsky. } ) 
  ) 
 Nxd4 7. Rxd4 Rb8 8. Rb1 Nd3 9. Rb3 $1 Rc7 $2 { In a difficult position, Florian blunders. } 10. Rbxd3 $1 Bxd3 11. Bf4 
  1-0

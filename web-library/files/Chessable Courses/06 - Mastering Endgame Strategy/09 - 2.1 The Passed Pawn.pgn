@@ -6,7 +6,7 @@
 [Black "The passed pawn"]
 [Result "*"]
 
- { The passed pawn holds a tremendous importance in the chess battle, and I investigated the subject quite extensively in 'Mastering Chess Strategy'. Here are some more examples, with focus on the endgame stage. } 1. -- 
+ { The passed pawn holds a tremendous importance in the chess battle, and I investigated the subject quite extensively in 'Mastering Chess Strategy'. Here are some more examples, with focus on the endgame stage. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -186,7 +186,7 @@ b4 2. h5 b3 3. h6 b2 ( { a) Or } 3... Rh5 4. h7 b2 5. Rb8 Rxh7 6. Rxb2 { with a 
 23. cxd6 Qxd6 24. Bxe6 $1 { Damaging the enemy pawn structure and avoiding any tactical pitfalls; } ( { such as } 24. Bxa7 $2 Qd1 25. Kg2 Nef4 $1 26. gxf4 Nxf4 27. Kg3 Nh5 { with a draw. } ) 
 Qxe6 ( { Or } 24... fxe6 25. Ng5 { followed by Nxe6, and Black will even have problems with his king. } ) 
 25. Qxe6 fxe6 26. Bxa7 { This is what White was aiming at four moves ago: the passed a-pawn is a giant, and Black's minor pieces are too remotely placed to challenge it. } Nf6 27. a4 $1 Nd7 ( { Or if } 27... Nxe4 28. a5 Nc3 29. a6 Nd5 30. Bc5 Nc7 31. a7 e4 32. Ng5 { is winning - Salov. } ) 
-28. a5 Bf8 29. a6 c5 30. Nd2 Kf7 31. Nc4 ( { After } 31. Nc4 { faced with threats like } -- 32. Bb8 Nxb8 33. a7 { Black resigned. } ) 
+28. a5 Bf8 29. a6 c5 30. Nd2 Kf7 31. Nc4 ( { After } 31. Nc4 { faced with threats like }  32. Bb8 Nxb8 33. a7 { Black resigned. } ) 
 
  1-0
 
@@ -217,7 +217,7 @@ Kc7 52. Ke3 Bg4 { 0-1 } )
 [Result "1-0"]
 [FEN "8/r2bk1p1/1rn1pp1p/p1RpP2P/5PP1/1P2KN2/P3B3/2R5 w - - 0 28"]
 
- { In a typical French endgame, Black has hesitated with the ...f6xe5 capture, and Sutovsky now manages to create a strong passed pawn on the h-file. } 28. { -KEY- } exf6+ $1 gxf6 ( { After } 28... Kxf6 $6 29. Bb5 { the weaknesses on e5 and e6 are quite strongly felt; e.g. } Nb8 30. g5 Ke7 31. Bxd7 Nxd7 32. Rc6 { preparing } -- 33. Nd4 { with a clear advantage. } ) 
+ { In a typical French endgame, Black has hesitated with the ...f6xe5 capture, and Sutovsky now manages to create a strong passed pawn on the h-file. } 28. { -KEY- } exf6+ $1 gxf6 ( { After } 28... Kxf6 $6 29. Bb5 { the weaknesses on e5 and e6 are quite strongly felt; e.g. } Nb8 30. g5 Ke7 31. Bxd7 Nxd7 32. Rc6 { preparing }  33. Nd4 { with a clear advantage. } ) 
 29. g5 $1 fxg5 30. fxg5 hxg5 31. h6 $1 { Given the absence of black pieces on the kingside, this move certainly suggests itself. The g5-pawn can wait. } ( { After } 31. Nxg5 Kf6 { Black defends better than in the game, e.g. } 32. h6 Rb8 $1 { (taking the knight allows an obstruction trick with Rg1-g8.) followed by 33...Rh8. } ) 
 Ra8 ( { On } 31... g4 $5 { there can follow } 32. h7 Ra8 33. Nh4 Kf6 34. Bb5 $1 { and White wins material, although after } Rh8 35. Bxc6 Bxc6 36. Rxc6 Rxc6 37. Rxc6 Rxh7 { Black might actually have better drawing chances than in the game - the knight is not very comfortable in such open positions with pawns on both flanks. } ) 
 32. Bb5 $1 { A typical method for the side possessing a passed pawn: create a new front on a different part of the board, in order to exhaust the enemy defences. } Kd6 $6 { After this natural reply White wins comfortably. } ( { The last practical chance was } 32... Nb4 $5 33. Bxd7 Nxa2 { when White would have to find } 34. Rc8 $1 Rxb3 35. Kf2 Nxc1 36. Rxa8 Nd3 37. Kg3 { At this point, both } Ne1 { and } Ne5 { are decisively met by } 38. h7 { - Sutovsky. } ) 

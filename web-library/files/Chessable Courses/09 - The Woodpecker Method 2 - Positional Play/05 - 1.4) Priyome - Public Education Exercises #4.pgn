@@ -22,7 +22,7 @@
 [Result "*"]
 [FEN "r1bqk2r/1p2bppp/p1n1p3/3n4/4N3/3B1N2/PPP2PPP/R1BQ1RK1 w kq - 0 10"]
 
- { A common pawn structure where White has three pawns on each wing and Black an extra pawn on the kingside. It's not often that Black manages to use the majority with ...e6-e5 and ...f7-f5. Black is, after all, Black. On the queenside, White can use the majority to gain space, but Black can also use the pawns for a minority attack. The question is often: who is first? } 10. { -KEY- } c4 $14 ( 10. -- { If it was Black's move, } b5 { would be a good choice. } ) 
+ { A common pawn structure where White has three pawns on each wing and Black an extra pawn on the kingside. It's not often that Black manages to use the majority with ...e6-e5 and ...f7-f5. Black is, after all, Black. On the queenside, White can use the majority to gain space, but Black can also use the pawns for a minority attack. The question is often: who is first? } 10. { -KEY- } c4 $14 (  { If it was Black's move, } b5 { would be a good choice. } ) 
 Nf6 { Black's pieces find themselves restricted. } ( 10... Ndb4 $6 { does not help, since after } 11. Bb1 $16 { Black's knight is in danger. } ) 
 11. Qe2 O-O 12. Rd1 Qc7 13. Bg5 Nxe4 14. Bxe7 Qxe7 15. Bxe4 $16 { The c8-bishop is still a problem. } 
  *

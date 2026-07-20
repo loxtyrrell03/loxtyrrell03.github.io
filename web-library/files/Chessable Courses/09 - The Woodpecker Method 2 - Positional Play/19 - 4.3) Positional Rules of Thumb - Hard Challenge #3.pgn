@@ -527,7 +527,7 @@ cxd5 20. Nf3 $16 { White can follow up by offering a queen exchange on c6 or c7,
 [Result "*"]
 [FEN "2rr1k2/1bqnbpp1/pp1p3p/4pP2/Pn2P2P/2N2BP1/1PPR1B2/2NRQ2K w - - 0 26"]
 
-26. { -KEY- } Qg1 $16 { A prophylactic move, directed against any central counterplay. White will continue with N1e2 and perhaps b2-b3, before preparing to attack on the kingside. } ( 26. N1e2 d5 $1 27. exd5 Nf6 $132 Z0 { is the key idea which Karpov's move prevents. } ) 
+26. { -KEY- } Qg1 $16 { A prophylactic move, directed against any central counterplay. White will continue with N1e2 and perhaps b2-b3, before preparing to attack on the kingside. } ( 26. N1e2 d5 $1 27. exd5 Nf6 $132  { is the key idea which Karpov's move prevents. } ) 
  { My studies with Botvinnik brought me immense benefit, particularly the homework assignments which forced me to refer to chess books and to work independently. - Anatoly Karpov } 
  *
 

@@ -274,7 +274,7 @@ exf4 4. Bxf4 Nd4+ $19 { ✔ White loses the rook. }
 
  { 342. Frank Marshall - Jose Raul Capablanca, New York 1927 } { _ } 1... { -KEY- } Rd5 $1 2. Qf3 ( 2. Qc4 Ne5 { and the queen can no longer defend the rook on f1 . } ) 
 Ne5 { ✔ The black pieces swarming around the white king will win the queen in one of several ways, for instance: } 3. Qf2 Rxf1+ ( 3... Nd3 4. Qf3 Rxf1 5. Qxf1 Nxb2 { was another way to win. } ) 
-4. Qxf1 Ng4 $1 ( { -+ Black threatens } 4... Ng4 4. -- Ne3 { and } Rd1 6. Qxd1 Nf2 { . } ) 
+4. Qxf1 Ng4 $1 ( { -+ Black threatens } 4... Ng4  Ne3 { and } Rd1 6. Qxd1 Nf2 { . } ) 
 
  0-1
 
@@ -444,7 +444,7 @@ Qd7 4. Be6+ $16 { ✔ White is two pawns up and has good winning chances. }
 [FEN "2k1r3/ppp2p1p/8/7q/5Bn1/Q1P3pN/PP4P1/R4K2 b - - 0 1"]
 
  { 354. Alexander Alekhine - V. Zhukovsky, corr. 1905 } { _ } 1... Nf2 $1 ( { Zhukovsky played } 1... Qb5 $2 { when strongest is } 2. c4 $1 { ∞ to open the third rank for the queen. } ) 
- ( 1... Nh2 $2 2. Kg1 Nf3 { also fails to win after. } 3. Kh1 Rg8 $1 ( { threatening } 3... Nf2 3. -- Qxh3 5. gxh3 g2 ) 
+ ( 1... Nh2 $2 2. Kg1 Nf3 { also fails to win after. } 3. Kh1 Rg8 $1 ( { threatening } 3... Nf2  Qxh3 5. gxh3 g2 ) 
 4. Bxg3 $1 Rxg3 5. Qf8 $11 { It's almost perpetual, and if not then White can defend the knight on h3 . } ) 
 2. Kg1 ( 2. Bxg3 Nxh3 $1 3. gxh3 Qf3 { ✔ leads to mate, } ) 
  ( { as does } 2. Nxf2 Qe2 3. Kg1 Qe1 4. Rxe1 Rxe1 { ✔. } ) 
@@ -632,7 +632,7 @@ a5 $1 { -+ The next move is 5...Qxd2. }
 
  { 367. Dawid Janowski - Alexander Alekhine, Mannheim 1914 } { _ } 1. Rg8+ $1 { The rook sacrifice ensures that the next moves come with check. } ( 1. Rh7 $2 Kxh7 2. Qxe4 Rf5 3. Bxd6 Qxf3 $14 { gives counterplay with the d4-pawn alive. } ) 
 Rxg8 2. Qxd4+ $1 Kh7 3. Qxe4+ Rg6 ( 3... Kh8 { and White wins by taking on d6 now or after a few checks. } ) 
-4. Bxd6 $18 { ✔ Exchanging first } ( 43. Rxg6 Z0 { , but not } 43. Qxg6 ) 
+4. Bxd6 $18 { ✔ Exchanging first } ( 43. Rxg6  { , but not } 43. Qxg6 ) 
  { was also winning. The rook is no match for the connected passed pawns supported by the bishop. } 
  1-0
 
@@ -1125,7 +1125,7 @@ fxe6 2. Rxe6+ $1 Kf7 ( 2... Qxe6 3. Nc7 { ✔ is similar. } )
 
  { 402. Alexander Alekhine - N. Schwartz, London (simul) 1926 } { _ } 1. Bxg6+ $1 ( 1. Nxg6 $6 dxe4 $1 2. Nxe7 { is not as good } ( 2. Nxf8 { is better } ) 
  { after } Bxg4 3. Qxe4 Bf5 4. Nxf5 Qxf5 5. Qxb7 Kh8 $16 { , even though the extra pawn and the active rooks might be enough. } ) 
-Nxg6 2. Nxg6 ( 2. Re7 $4 Qxe7 3. Nxg6 ( { Chessable Note: } 3. Qxg6 Kh8 4. Qxh6 Kg8 { after which } 5. -- Qg7 { should lead to a winning position for Black. } ) 
+Nxg6 2. Nxg6 ( 2. Re7 $4 Qxe7 3. Nxg6 ( { Chessable Note: } 3. Qxg6 Kh8 4. Qxh6 Kg8 { after which }  Qg7 { should lead to a winning position for Black. } ) 
 Qe4 4. Qxe4 dxe4 5. Nxf8 Kg7 { And the knight is trapped, leaving White a piece down. } ) 
 Kg8 ( 2... Qxg6 3. Re7 $18 { ✔ wins the queen. } ) 
 3. Nxf8 $18 
@@ -1803,7 +1803,7 @@ Qxh4 { ✔ } 3. f5 $1 { White has some counterplay, but Black is still clearly b
 
  { 451. Max Euwe – Adolf Olland, Amsterdam (match) 1921 } { _ } 1. Rxf6+ $1 { Opening up the king’s position. } Kxf6 2. Rf1+ ( { Or } 2. Qg5 Kf7 3. Qf4 Ke7 4. Qc7 Bd7 5. Bg5+ ) 
 Bf5 ( 2... Ke7 3. Bg5 ) 
-3. Qd7 $1 { ✔ White has two threats: } ( 3. Qd7 -- 4. Bg7 { and } 4. Bg5 Ke5 5. Bf4 Kf6 ( 5. Qd7 Ke4 6. Ng3 ) 
+3. Qd7 $1 { ✔ White has two threats: } ( 3. Qd7  4. Bg7 { and } 4. Bg5 Ke5 5. Bf4 Kf6 ( 5. Qd7 Ke4 6. Ng3 ) 
 6. g5 ) 
  { } ( { Defending against both with } 3. Qd7 Re7 { runs into } 4. Rxf5 gxf5 5. Qxf5 ) 
  { } ( { Instead, Euwe drew after } 3. gxf5 $2 Qxe2 4. Qd6 Kf7 5. Qd5 Kf6 $11 ) 

@@ -6,7 +6,7 @@
 [Black "Intermediate checks"]
 [Result "*"]
 
- { An intermediate check with the rook is quite a common method in endgame practice, usually with the aim of displacing the enemy king before moving the rook to its desired destination. Here are some examples, starting with a very basic one. } 1. -- 
+ { An intermediate check with the rook is quite a common method in endgame practice, usually with the aim of displacing the enemy king before moving the rook to its desired destination. Here are some examples, starting with a very basic one. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -99,7 +99,7 @@ Kc4 5. Rd7 Kd3 6. Kg4 Rxh7 { There is nothing better. } 7. Rxh7 Kxd4 8. Rd7+ $1 
  { Intermediate checks are easy to omit in practice, as the following example shows. } 1. { -KEY- } Rxa7 $2 { The most natural move turns out to be a losing one! } ( { a) White should have hung on to his advanced passed pawn by } 1. Rf7 Kxg4 2. d7 { - Baburin. It wouldn't be easy for Black to make progress here, since if he transfers the king to e6, in order to take the d7-pawn, then the one on g5 becomes undefended. } ) 
  ( { b) Even } 1. d7 { at once seems okay. } ) 
 Rd2+ $1 ( { Perhaps White forgot about this option; considering only } 1... Rxd6 $2 2. Ra4 Ke5 3. Ke3 { with complete equality. } ) 
-2. Ke1 Rxd6 3. Rc7 ( { Or } 3. Ra4 Kf3 { followed by } 4. -- Rd5 { , with similar play as later on in the game. } ) 
+2. Ke1 Rxd6 3. Rc7 ( { Or } 3. Ra4 Kf3 { followed by }  Rd5 { , with similar play as later on in the game. } ) 
 Rd5 ( { Not } 3... Kxg4 $2 4. Rc6 { and White escapes. } ) 
 4. Rc4+ Kf3 5. Rb4 Rd3 $1 { Zugzwang: White can't move his king, and any rook move leaves one of the pawns doomed. } 6. Rc4 Rb3 ( { After } 7... Rxb5 { Black wins easily, so White resigned. } ) 
 

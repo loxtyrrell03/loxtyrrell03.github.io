@@ -19,7 +19,7 @@
 [Result "*"]
 [FEN "2Q5/3K4/8/8/8/8/3kp3/8 w - - 0 1"]
 
- { When the strong king is an obstacle We have here our first exception. Sometimes it is the king who hinders his queen. Even if White is to move, he cannot win as there is not a single check available for the queen. This is a typical scenario after a pawn race. Conclusion: The queen wins against an ordinary pawn ( on b-, d-, e-or g-files ) on the 7th rank, as long as she can check the enemy king. } 1. -- 
+ { When the strong king is an obstacle We have here our first exception. Sometimes it is the king who hinders his queen. Even if White is to move, he cannot win as there is not a single check available for the queen. This is a typical scenario after a pawn race. Conclusion: The queen wins against an ordinary pawn ( on b-, d-, e-or g-files ) on the 7th rank, as long as she can check the enemy king. }  
  *
 
 [Event "100 Endgames You Must Know"]

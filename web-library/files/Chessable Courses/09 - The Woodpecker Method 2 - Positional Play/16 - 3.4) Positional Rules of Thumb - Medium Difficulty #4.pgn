@@ -377,7 +377,7 @@ Qxe5 $17 { White will have a hard time controlling the passed pawn. }
 [Result "*"]
 [FEN "r1bqr1k1/3n1ppp/1ppp4/p3p3/P3P3/3P1N1P/1PP2PP1/R1BQR1K1 w - - 0 13"]
 
-13. { -KEY- } d4 $14 { Taking over the centre before Black has time to do so. } ( 13. -- { If Black was to move then } d5 $1 { would be a good choice. } ) 
+13. { -KEY- } d4 $14 { Taking over the centre before Black has time to do so. } (  { If Black was to move then } d5 $1 { would be a good choice. } ) 
 Qc7 14. Ra3 $5 { The rook is developed without moving the bishop from c1. Many squares along the third rank could be interesting. } 
  *
 

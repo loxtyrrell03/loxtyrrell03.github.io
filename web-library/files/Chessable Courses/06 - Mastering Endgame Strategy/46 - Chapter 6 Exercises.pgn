@@ -49,7 +49,7 @@ h4 2. Ke2 Kd4 3. Kd2 { Draw. }
 [FEN "8/8/3Pk1pp/8/5K1P/6P1/8/8 w - - 0 1"]
 
  { Find the best continuation. (3-4 moves) } 1. { -KEY- } Kg4 $1 { Waiting for Black's king to move away. } ( { Instead, the game went } 1. h5 $2 gxh5 2. d7 Kxd7 3. Kf5 Ke7 4. Kg6 h4 $1 { and a draw was agreed. } ) 
-Kxd6 { There is nothing better. } 2. h5 gxh5+ ( { Or } 2... g5 3. Kf5 -- { followed by } 4. Kg6 ) 
+Kxd6 { There is nothing better. } 2. h5 gxh5+ ( { Or } 2... g5 3. Kf5  { followed by } 4. Kg6 ) 
 3. Kxh5 Ke5 4. Kxh6 ( { White wins; e.g. } 4. Kxh6 Kf5 5. Kh5 Kf6 6. g4 Kg7 7. Kg5 { - Baburin. } ) 
 
  *
@@ -152,8 +152,8 @@ Rc2+ 2. Kf1 { Black can't make progress: draw. } ( { Actually also } 2. Kh3 $6 {
 [Result "*"]
 [FEN "8/1p2ppkp/3p2p1/1BnP4/PR2P3/5P2/r5PP/6K1 b - - 0 1"]
 
- { Indicate your 1st move + short plan. } 1... { -KEY- } g5 $1 { Gaining space and dark-square control, while restraining White's kingside pawns. } 2. g3 h5 3. h4 Kf6 4. f4 ( { Or } 4. hxg5 Kxg5 { with } 5. -- h4 { next. } ) 
-g4 { Fixing a weakness on g3. } 5. Rc4 b6 6. Rb4 Ra3 7. Kg2 Re3 8. e5+ dxe5 9. fxe5+ Kxe5 ( { With the devastating threat } 9... Kxe5 9. -- Ne4 { Black went on to win. } ) 
+ { Indicate your 1st move + short plan. } 1... { -KEY- } g5 $1 { Gaining space and dark-square control, while restraining White's kingside pawns. } 2. g3 h5 3. h4 Kf6 4. f4 ( { Or } 4. hxg5 Kxg5 { with }  h4 { next. } ) 
+g4 { Fixing a weakness on g3. } 5. Rc4 b6 6. Rb4 Ra3 7. Kg2 Re3 8. e5+ dxe5 9. fxe5+ Kxe5 ( { With the devastating threat } 9... Kxe5  Ne4 { Black went on to win. } ) 
 
  *
 
@@ -518,7 +518,7 @@ Kxf7 3. Kd5 Kg6 4. Kc5 a6 $1 { Delaying White's play. } ( { Instead, } 4... Kxg5
 
  { Find the best continuation. (3-4 moves) } 1. { -KEY- } Ng4 $1 { A powerful piece of restriction. } ( { a) Completely wrong was } 1. Rxd8 $2 Rxd8 2. Nxe6 Kf6 3. Nxd8 Bxe3 4. Kf1 Kxe5 5. Nxb7 Bb6 ) 
  ( { b) While the game went } 1. Kf2 $6 Nc6 2. Nxc6 bxc6 3. Rc1 { with only a slight advantage - Shereshevsky. } ) 
-Nc6 { Forced; } ( 1... -- { in view of the threat of } 2. Rxd8 Rxd8 3. Nxe6 ) 
+Nc6 { Forced; } (  { in view of the threat of } 2. Rxd8 Rxd8 3. Nxe6 ) 
 2. Rf1 $1 ( { In the same restrictive spirit, renewing the threat of } 3. Nxe6 ) 
  ( { The immediate } 2. Nxe6 $6 Kf7 { was less promising. } ) 
 Nd8 3. h4 $1 { Ruling out ...Bg5, which means that Black has been left without useful moves. Next White plays Rf2 and brings his king to the queenside with decisive effect - Shereshevsky. } 

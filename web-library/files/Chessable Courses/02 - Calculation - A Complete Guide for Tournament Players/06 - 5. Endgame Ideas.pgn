@@ -6,7 +6,7 @@
 [Black "Introduction to Endgame Ideas"]
 [Result "*"]
 
- { By now, you would have learnt almost everything you need for calculation mastery. However, using only the techniques from earlier chapters may not be sufficient to handle a small set of quirky endgame positions. Right now, this is the only chink in the armour. Hence, I have designed this chapter to equip you with new motifs and techniques to deal with these positions. Without further ado, let’s get started on the first one. } 1. -- 
+ { By now, you would have learnt almost everything you need for calculation mastery. However, using only the techniques from earlier chapters may not be sufficient to handle a small set of quirky endgame positions. Right now, this is the only chink in the armour. Hence, I have designed this chapter to equip you with new motifs and techniques to deal with these positions. Without further ado, let’s get started on the first one. }  
  *
 
 [Event "Calculation: A Complete Guide for Tournament Players"]
@@ -81,7 +81,7 @@
 [Black "Schematic Thinking"]
 [Result "*"]
 
- { In the first part of this chapter on fortresses, schematic thinking was implicitly introduced. Recall that we had to determine the result of a few positions. Instead of calculating every possible 50-move variation to check if the position was drawn, we needed to assess only the attacker’s critical plans. Such is the beauty of schematic thinking. Schematic Thinking is thinking in terms of plans rather than specific moves. The idea is not to be bogged down with many variations initially. Once we have a sense of how the game should be steered, we can delve deeper by working on candidate moves. Likewise, when approaching other types of endgames, we should first identify the long-term goals. These include a potential configuration of pieces, freeing one of our pieces, or resolving a weakness. These long-term goals in themselves can serve as new tactical motifs we can work with. We can then consider candidate moves based on these motifs. Now let’s practice schematic thinking with a couple of puzzles. } 1. -- 
+ { In the first part of this chapter on fortresses, schematic thinking was implicitly introduced. Recall that we had to determine the result of a few positions. Instead of calculating every possible 50-move variation to check if the position was drawn, we needed to assess only the attacker’s critical plans. Such is the beauty of schematic thinking. Schematic Thinking is thinking in terms of plans rather than specific moves. The idea is not to be bogged down with many variations initially. Once we have a sense of how the game should be steered, we can delve deeper by working on candidate moves. Likewise, when approaching other types of endgames, we should first identify the long-term goals. These include a potential configuration of pieces, freeing one of our pieces, or resolving a weakness. These long-term goals in themselves can serve as new tactical motifs we can work with. We can then consider candidate moves based on these motifs. Now let’s practice schematic thinking with a couple of puzzles. }  
  *
 
 [Event "Calculation: A Complete Guide for Tournament Players"]
@@ -135,7 +135,7 @@ Re4 $1 3. Ra4 Re3 4. Bf4 $1 { All the squares along the e-file are taken away. B
 [Black "Applying Theoretical Endgames"]
 [Result "*"]
 
- { As we have learnt in Chapter 4 (Essential Theoretical Endgames) , memorising the winning/drawing methods and being familiar with evaluations of basic positions will help us steer unclear positions towards favourable ones. This is because we can effectively terminate our calculation the moment we arrive at a theoretical position within our repertoire of endgames. In the following puzzles, we will practice applying the theoretical positions we have learnt from in the previous chapter. } 1. -- 
+ { As we have learnt in Chapter 4 (Essential Theoretical Endgames) , memorising the winning/drawing methods and being familiar with evaluations of basic positions will help us steer unclear positions towards favourable ones. This is because we can effectively terminate our calculation the moment we arrive at a theoretical position within our repertoire of endgames. In the following puzzles, we will practice applying the theoretical positions we have learnt from in the previous chapter. }  
  *
 
 [Event "Calculation: A Complete Guide for Tournament Players"]
@@ -220,7 +220,7 @@ Re4 $1 3. Ra4 Re3 4. Bf4 $1 { All the squares along the e-file are taken away. B
 [Black "Zugzwang"]
 [Result "*"]
 
- { A zugzwang is a situation in which the obligation to make a move in one's turn is a serious disadvantage. This happens most often in endgames because the defender will not have innocuous moves to pass the turn to the opponent. You can think of zugzwang as the evil cousin of stalemate. In the case of stalemate, the defender is fortunate that his lack of freedom earns him a half point. Whereas for zugzwang, the losing side’s severe immobility leaves him with no choice other than a poor move. Recall the two strategies one can use to cheat death with stalemate. The first involves jettisoning your pieces when your King’s movement is already restricted. The second requires you to actively trap your King and other pieces. Therefore, we can also force our opponent into zugzwang by using exactly the same strategies – either punish your opponent when his position is already cramped, or find ways to limit his freedom. Now let’s practice creating zugzwangs. } 1. -- 
+ { A zugzwang is a situation in which the obligation to make a move in one's turn is a serious disadvantage. This happens most often in endgames because the defender will not have innocuous moves to pass the turn to the opponent. You can think of zugzwang as the evil cousin of stalemate. In the case of stalemate, the defender is fortunate that his lack of freedom earns him a half point. Whereas for zugzwang, the losing side’s severe immobility leaves him with no choice other than a poor move. Recall the two strategies one can use to cheat death with stalemate. The first involves jettisoning your pieces when your King’s movement is already restricted. The second requires you to actively trap your King and other pieces. Therefore, we can also force our opponent into zugzwang by using exactly the same strategies – either punish your opponent when his position is already cramped, or find ways to limit his freedom. Now let’s practice creating zugzwangs. }  
  *
 
 [Event "Calculation: A Complete Guide for Tournament Players"]

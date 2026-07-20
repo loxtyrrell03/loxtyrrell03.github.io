@@ -6,7 +6,7 @@
 [Black "Fortresses"]
 [Result "*"]
 
- { A 'fortress' could be defined as a defensive set-up which, despite a material deficit and without much need of active defence, prevents the stronger side from making progress. We saw a few attempts at a fortress in Khalifman-Shaposhnikov, Matanovic-Larsen and Goldin-Korzubov, while the next, simple example should also help to illustrate the idea. } 1. -- 
+ { A 'fortress' could be defined as a defensive set-up which, despite a material deficit and without much need of active defence, prevents the stronger side from making progress. We saw a few attempts at a fortress in Khalifman-Shaposhnikov, Matanovic-Larsen and Goldin-Korzubov, while the next, simple example should also help to illustrate the idea. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -109,7 +109,7 @@ Qxd4 10. Rxd4 { In this endgame White has two main ideas: a) place the rook on t
 Kf8 14. Rb7 Ke8 15. f3 Be7 { The bishop's preferred diagonal, where it hits the most valuable of the enemy pawns. } ( { In contrast, after } 15... Bf8 $6 16. Rb8 Ke7 17. Kf2 Bh6 { White could try } 18. Ke3 Bg7 19. Ke4 Bh6 20. Ra8 Bg7 21. f5 $1 { in accordance with plan 'b' outlined above; e.g. } gxf5 ( { or } 21... exf5 22. Kd5 { preparing Ra7+ and e5-e6 } ) 
 22. Kd4 { and the h5-pawn is in trouble. } ) 
 16. Kh3 Bd8 17. Ra7 Be7 18. Kg3 Bd8 19. Ra4 Be7 20. Rd4 Bd8 21. Rd1 Be7 22. Rh1 Bc5 { Simplest, in order to restrict the enemy king. } 23. Rc1 ( { If } 23. Kg2 { then } Be3 $1 ) 
-Be7 24. Rc4 Bd8 25. Kg2 Be7 ( { Of course not } 25... Bxh4 $2 26. f5 -- { followed by } 27. f6 { , and the f7-pawn becomes a problem. } ) 
+Be7 24. Rc4 Bd8 25. Kg2 Be7 ( { Of course not } 25... Bxh4 $2 26. f5  { followed by } 27. f6 { , and the f7-pawn becomes a problem. } ) 
 26. Kg3 ( { More critical was } 26. Kf1 { trying to activate the king. I was planning to reply } f5 $5 { in order to win the h4-pawn, although after } 27. exf6 Bxf6 28. Re4 $1 Kf7 29. Ke2 { a waiting game with } Be7 { is preferable ; e. g. } ( { Black should avoid } 29. Kg3 Bxh4 $2 30. f5 { when White obtains a strong passed pawn } ) 
 30. Kd3 Bf6 31. Kc4 Be7 32. Kb5 Kf6 $1 { (heading for f5) } 33. Re5 Bd6 ( { or } 33. Kg3 Kf7 { and a draw is inevitable. } ) 
  ) 
@@ -163,7 +163,7 @@ Kf8 14. Rb7 Ke8 ( 14... Bd4 $5 { keeping an eye on the f2-pawn is also possible,
 [Result "1/2-1/2"]
 [FEN "4k3/5p2/1Rn3p1/8/1p2PP2/3pN1P1/2r3P1/6K1 w - - 0 1"]
 
- ( { White's position seems difficult in view of Black's advanced passed pawns. The immediate threat is } 1... d2 { , followed by } 2. -- Kd7 { , liberating the rook from the defence of the knight. Then ideas like ...Rc1+ and ...d1Q would be in the air. } ) 
+ ( { White's position seems difficult in view of Black's advanced passed pawns. The immediate threat is } 1... d2 { , followed by }  Kd7 { , liberating the rook from the defence of the knight. Then ideas like ...Rc1+ and ...d1Q would be in the air. } ) 
 1. { -KEY- } Nxc2 $1 { At first sight this looks like a miscalculation, but it is actually White's best option. } ( { The natural } 1. Kf1 $6 { could be met by } Kd7 2. Rb5 Kc7 3. Nd5 Kd6 4. e5 ( { or } 4. Nxb4 $2 Nxb4 5. Rxb4 Rc1 6. Kf2 Kc5 { and the threat of 7...d2 can't be parried; e.g. } 7. Rb2 Rc2 ) 
 Ke6 5. Ne3 Re2 { and White remains in difficulties. } ) 
 dxc2 2. Rxc6 b3 { Evidently, one of the passed pawns will soon queen. But the fact that the further battle will be reduced to one single flank, alongside the secure location of White's king, protecting (and protected by!) his fellow pawns, makes the thought of a fortress quite realistic. Incidentally, there exist many fortresses within queen vs. rook and pawn(s) endgames - for example, Kg1, Rg3 and Pf2 vs. Kf6 and Qe5 is a draw. } 3. Kh2 b2 { The further course of the game will show us that, once White freezes the pawn structure by e4-e5, his defensive task is made easier. } ( { Thus } 3... f6 $5 { was an interesting alternative, upon which White should probably reply } 4. e5 $1 { anyway, getting rid of a future weakness. There could follow } fxe5 ( { after } 4... f5 $6 5. Rc3 b2 6. Rxc2 b1=Q $11 7. Rf2 Kf7 8. Rf3 { we have reached the first of several fortresses within this example, one that Black is unlikely to destroy, e.g. } g5 9. fxg5 Kg6 10. Rf4 Qe1 11. Rh4 Qxe5 12. Rf4 Kxg5 13. Rh4 { and the rook keeps alternating between f4 and h4; } ) 
@@ -176,7 +176,7 @@ Ke3 12. Rf3 Ke2 13. Rf7 Qc5 14. Rf3 Qe7 ( { here and later, } 14... g4 15. Rf4 {
 Qd3 6. Re1 Ke7 { and Black should win - Vaganian. } ) 
 Ke7 ( { After } 4... Kd7 { , Black's king is exposed to a vertical check, which yields White the necessary tempo to realize e4-e5; i.e. } 5. Rxc2 b1=Q $11 6. Rd2 $1 { followed by 7.e5 and the fortress is complete - Vaganian. } ) 
 5. Rc7+ Kf8 ( { Or } 5... Kf6 6. Rxc2 b1=Q $11 7. e5 Kf5 8. Rf2 { with the same fortress that later emerges in the game. } ) 
-6. Rxc2 b1=Q 7. Rc8+ $1 { With Black unable to reply 7...Kd7, White wins a tempo for the realization of e4-e5. } Ke7 8. e5 Qd3 9. Rc6 { Temporarily restricting the enemy king. } ( 9. Ra8 { was possible too, heading for the f-file; e.g. } Ke6 10. Ra2 Qe3 { (preventing Rf2-f3) } 11. Ra1 Qe2 12. Ra3 $1 -- { followed by } 13. Rf3 ) 
+6. Rxc2 b1=Q 7. Rc8+ $1 { With Black unable to reply 7...Kd7, White wins a tempo for the realization of e4-e5. } Ke7 8. e5 Qd3 9. Rc6 { Temporarily restricting the enemy king. } ( 9. Ra8 { was possible too, heading for the f-file; e.g. } Ke6 10. Ra2 Qe3 { (preventing Rf2-f3) } 11. Ra1 Qe2 12. Ra3 $1  { followed by } 13. Rf3 ) 
 Qe3 10. Ra6 { Sokolov performs the rook transfer mentioned in the previous note. } Qc5 11. Ra1 Ke6 12. Rf1 Kd5 13. Rf3 { The defensive plan that was initialized by the first diagram is finally complete. White's next task is to maintain the fortress. } Kc4 14. Kh1 Qd4 15. Kh2 Qd1 16. Rf2 Kd4 17. Rf3 Ke4 18. Rc3 ( { a) Another option is } 18. Rf2 Ke3 19. Rf3 Ke2 20. Rc3 { when the rook has a sufficient number of squares on the third rank. If Black's king moves to f2 or f1, it will be expelled by Rf3+. } ) 
  ( { b) In contrast, } 18. Ra3 $6 { runs into } f6 $1 { complicating White's defence, now that } 19. exf6 $2 { fails to } Qh5 20. Kg1 Qc5 { - Vaganian. } ) 
 Kf5 19. Rf3 { The remainder of the game isn't very thrilling - Sokolov maintains the fortress by king moves or, when necessary, by rook moves in the proximity of the f3-square. } Qd8 20. Kg1 Qd5 21. Kh2 Kg4 ( { On } 21... g5 { , White replies } 22. fxg5 $1 Kxg5 23. Rf4 Qxe5 24. Rh4 { followed by Rf4-h4, a kind of fortress that we already came across in the 3...f6!? subline. } ) 
@@ -194,7 +194,7 @@ Qc5+ 35. Kh2 Kd3 36. Rf3+ Ke2 37. Kh1 Qc1+ 38. Kh2 Qb1 39. Rc3 { The rook has at
 [Result "1/2-1/2"]
 [FEN "4k3/5p2/1Rn3p1/8/1p2PP2/3pN1P1/2r3P1/6K1 w - - 0 1"]
 
- ( { White's position seems difficult in view of Black's advanced passed pawns. The immediate threat is } 1. Rc3 d2 { , followed by } 2. -- Kd7 { , liberating the rook from the defence of the knight. Then ideas like ...Rc1+ and ...d1Q would be in the air. } ) 
+ ( { White's position seems difficult in view of Black's advanced passed pawns. The immediate threat is } 1. Rc3 d2 { , followed by }  Kd7 { , liberating the rook from the defence of the knight. Then ideas like ...Rc1+ and ...d1Q would be in the air. } ) 
 1. { -KEY- } Nxc2 $1 { At first sight this looks like a miscalculation, but it is actually White's best option. } ( { The natural } 1. Kf1 $6 { could be met by } Kd7 2. Rb5 Kc7 3. Nd5 Kd6 4. e5 ( { or } 4. Nxb4 $2 Nxb4 5. Rxb4 Rc1 6. Kf2 Kc5 { and the threat of 7...d2 can't be parried; e.g. } 7. Rb2 Rc2 ) 
 Ke6 5. Ne3 Re2 { and White remains in difficulties. } ) 
 dxc2 2. Rxc6 b3 { Evidently, one of the passed pawns will soon queen. But the fact that the further battle will be reduced to one single flank, alongside the secure location of White's king, protecting (and protected by!) his fellow pawns, makes the thought of a fortress quite realistic. Incidentally, there exist many fortresses within queen vs. rook and pawn(s) endgames - for example, Kg1, Rg3 and Pf2 vs. Kf6 and Qe5 is a draw. } 3. Kh2 b2 { The further course of the game will show us that, once White freezes the pawn structure by e4-e5, his defensive task is made easier. } ( { Thus } 3... f6 $5 { was an interesting alternative, upon which White should probably reply } 4. e5 $1 { anyway, getting rid of a future weakness. There could follow } fxe5 ( { after } 4... f5 $6 5. Rc3 b2 6. Rxc2 b1=Q $11 7. Rf2 Kf7 8. Rf3 { we have reached the first of several fortresses within this example, one that Black is unlikely to destroy, e.g. } g5 9. fxg5 Kg6 10. Rf4 Qe1 11. Rh4 Qxe5 12. Rf4 Kxg5 13. Rh4 { and the rook keeps alternating between f4 and h4; } ) 

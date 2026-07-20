@@ -22,7 +22,7 @@
 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yielding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. Nxd4 { This move may lead to quick simplifications, which are likely to end in a draw. Unfortunately we can't always spice things up as Black. } exd4 6. e5 dxc3 7. exf6 Qxf6 ( { Don't be greedy with } 7... cxd2 8. Bxd2 Qxf6 { as that's already probably lost. } 9. O-O Be7 10. Bc3 { with a devastating attack. } ) 
 8. dxc3 Bc5 { The game plays itself. } 9. O-O { After this move you should know only one trick. -KEY- } O-O 10. Bxd7 ( { Not the best but the only move to analyse. Obviously there is nothing to remember after for example } 10. Qh5 d6 { . } ) 
 Bxd7 ( { White actually won a pawn. We couldn't win a piece by } 10... Rd8 { due to } 11. Qh5 { However, now Black should be happy. We get enormous compensation. } ) 
-11. Qxd7 Rae8 { Threatening } ( 11... Rae8 11. -- Qxf2 13. Rxf2 Re1 { mate! } ) 
+11. Qxd7 Rae8 { Threatening } ( 11... Rae8  Qxf2 13. Rxf2 Re1 { mate! } ) 
 12. Qd3 Re5 $13 { White's doubled extra pawn is not worth much while we have great piece activity. } 
  *
 
@@ -47,7 +47,7 @@ Bxd7 ( { White actually won a pawn. We couldn't win a piece by } 10... Rd8 { due
 
 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yielding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. O-O c6 6. Bd3 { As e4 is overprotected White wants to take on d4. -KEY- } Nxf3+ 7. Qxf3 d6 ( 7... Bc5 { suggests itself, but allows } 8. Qg3 $1 { The bishop will be well placed on g7, though. } ) 
 8. Be2 { This prepares Qg3 and f4 while the bishop prevents ...Nh5. This is recommended by Alexander Khalifman and Sergei Soloviov in 'Squeezing 1.e4 e5: a Solid Strategic Approach' (chess-stars 2019) . } g6 $1 { Black achieves an extremely good version of some kind of the King's Indian. } 9. d3 Nh5 $11 { With very simple play in prospect: ...Bg7, ...0-0, ...f5. } ( { Not } 9... Bg7 $2 10. Qg3 $1 { with f4. } ) 
- Z0 { It may seem White is already developed while Black moves his knight for the second time but White's pieces are not ready for any action. Black will easily complete the development. This simple move wasn't mentioned by Alexander Khalifman and Sergei Soloviov. } 
+  { It may seem White is already developed while Black moves his knight for the second time but White's pieces are not ready for any action. Black will easily complete the development. This simple move wasn't mentioned by Alexander Khalifman and Sergei Soloviov. } 
  *
 
 [Event "From Berlin to Rio: 1.e4 e5 for Black"]

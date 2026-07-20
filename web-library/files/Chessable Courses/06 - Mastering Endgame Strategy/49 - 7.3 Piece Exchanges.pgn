@@ -6,7 +6,7 @@
 [Black "Piece exchanges"]
 [Result "*"]
 
- { Next, let's examine some specific objectives supported by exchanges. To start with, if one player has a bad structure, his opponent will generally be happy to swap pieces, making the structural deficits more strongly felt with every exchange. We already saw this strategy being successfully applied in Fischer-Addison and Hellsten-Waitzkin (in Chapter Two) , among others. Here are two further examples. } 1. -- 
+ { Next, let's examine some specific objectives supported by exchanges. To start with, if one player has a bad structure, his opponent will generally be happy to swap pieces, making the structural deficits more strongly felt with every exchange. We already saw this strategy being successfully applied in Fischer-Addison and Hellsten-Waitzkin (in Chapter Two) , among others. Here are two further examples. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -163,7 +163,7 @@ Qc7 ( { From a structural perspective } 7... h5 { deserved attention, but Black 
 8. g4 $1 { Gaining space and fixing pawns on squares of the 'right' colour. } Bf8 $6 ( { Here and later, } 8... g6 { and ...Kg7 was more productive. } ) 
 9. Kg2 Be7 10. Kf3 Bf8 11. h4 $1 { White starts working on a new front. } Qe7 12. Kg3 Kh7 ( 12... Qe6 { was a lesser evil, when White has several interesting options such as } 13. h5 { , } 13. g5 { and } 13. Nc3 { Nevertheless, the minor piece endings that emerge after those moves would be less depressing than the one that Black finally obtains in the actual game. } ) 
 13. Qa8 g6 ( { After } 13... Kg8 14. Nc3 $1 { heading for d5, White keeps the pressure. } ) 
-14. g5 $1 { Fixing a weakness on f6. } Kg7 15. Nf6 h5 ( { Of course not } 15... hxg5 $2 16. hxg5 { with the dreadful threat of } -- 17. Qh1 ) 
+14. g5 $1 { Fixing a weakness on f6. } Kg7 15. Nf6 h5 ( { Of course not } 15... hxg5 $2 16. hxg5 { with the dreadful threat of }  17. Qh1 ) 
 16. Qc8 Qe6 ( { This leads to a difficult minor piece ending; but after } 16... Qa7 17. Qe8 { intending 18 Nd7, Black is in trouble anyway. } ) 
 17. Qxe6 fxe6 18. Kf3 Kf7 19. c5 $1 { This breakthrough either ruins Black's pawn structure or creates a strong passed pawn. } d5 $6 ( { White should prevail after } 19... dxc5 20. Nd7 Bd6 21. Nb6 { followed by Ke4 and Nc4xe5, but now he wins practically on the spot. } ) 
 20. Nd7 e4+ ( { Or } 20... Bg7 21. e4 $1 Ke7 22. c6 Kd6 23. Nc5 $1 Kxc6 24. Nxe6 Bh8 25. Nf8 { etc. } ) 

@@ -7,7 +7,7 @@
 [Result "*"]
 
  ( { The idea of fixing an enemy pawn on a specific square holds great importance in the endgame, and we already came across it in several examples, such as: Averbakh-Lilienthal ( } 1. g5 { ); Donner-Smyslov ( } h4 { ); Gligoric-Popovic ( } 4. g3 { ); Keres-Westerinen ( } 1. b4 { ); and Boleslavsky-Kotov ( } 3. b4 { ). Often this method is related to the colour of one or more bishops on the board. Let's see some examples, starting with a few bishop endings. } ) 
-1. -- 
+ 
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -22,7 +22,7 @@
  { In the position the pawn structure speaks clearly in Black's favour - various white pawns are located on light squares, which means that they can be attacked by the black bishop, whereas Black himself has managed to put almost all his pawns on dark squares, out of reach for the enemy bishop. } 1... { -KEY- } g5 $1 ( { A key move, which fixes White's kingside pawns on light squares. Note that with White to move, } 0... g5 0. g5 $1 { would be a great idea, fixing the g-pawns of both sides on the 'right' colour, and at the same time restricting the enemy king. } ) 
 2. Kf2 Kf6 3. Ke3 Ke5 4. Be2 Bc2 { Preparing actions on the queenside. } ( 4... Bg2 { is less effective due to } 5. Kf2 { , with the idea } Bxh3 $2 6. Kg3 ) 
 5. Kd2 Bb1 6. Ke3 h6 $1 { A useful piece of prophylaxis, placing the last pawn on a dark square, in similar fashion to Example 239 (Aaberg-Tiviakov). } 7. Bf3 ( { Or } 7. Bd1 Be4 $1 { (zugzwang) } 8. Be2 Bc2 { , followed by ...Ba4 - Smyslov, in similar spirit to the game. } ) 
-Bc2 8. Be2 a6 9. Kd2 Ba4 10. Ke3 b5 $1 { Black couldn't capitalize on either weakness on c4 and h3, so instead he starts undermining the d5-pawn. } ( { After } 10... b5 { , there is the threat of } 11. -- bxc4 12. Bxc4 Bb5 ) 
+Bc2 8. Be2 a6 9. Kd2 Ba4 10. Ke3 b5 $1 { Black couldn't capitalize on either weakness on c4 and h3, so instead he starts undermining the d5-pawn. } ( { After } 10... b5 { , there is the threat of }  bxc4 12. Bxc4 Bb5 ) 
 11. cxb5 axb5 12. Bf3 ( { Or } 12. c4 bxc4 13. Bxc4 Bc2 { , followed by ...Be4 and the d5-pawn falls - Smyslov. } ) 
 Bb3 13. Be2 Bc4 $1 14. Bxc4 ( { The ensuing pawn ending is lost; but after the alternative } 14. Bf3 Bxd5 { followed by ... Bc4 and ...d6-d5-d4, Black also wins comfortably. } ) 
 bxc4 15. a4 Kxd5 16. a5 Kc6 17. Ke4 d5+ 18. Ke5 d4 $1 { A decisive breakthrough, which must have been anticipated by Smyslov far in advance. } 19. cxd4 c3 20. d5+ Kd7 $1 21. a6 c2 22. a7 c1=Q 23. a8=Q Qf4# 
@@ -41,7 +41,7 @@ bxc4 15. a4 Kxd5 16. a5 Kc6 17. Ke4 d5+ 18. Ke5 d4 $1 { A decisive breakthrough,
 2. Kf2 Kf6 3. Ke3 Ke5 4. Be2 Bc2 { Preparing actions on the queenside. } ( 4... Bg2 { is less effective due to } 5. Kf2 { , with the idea } Bxh3 $2 6. Kg3 ) 
 5. Kd2 Bb1 ( { The immediate } 5... Ba4 { was perfectly possible, as observed by venividifomo. Possibly Smyslov wasn't yet sure about the exact winning plan and preferred to shuffle around for a few more moves. } ) 
 6. Ke3 h6 $1 { A useful piece of prophylaxis, placing the last pawn on a dark square, in similar fashion to Example 239 (Aaberg-Tiviakov). } 7. Bf3 ( { Or } 7. Bd1 Be4 $1 { (zugzwang) } 8. Be2 Bc2 { , followed by ...Ba4 - Smyslov, in similar spirit to the game. } ) 
-Bc2 8. Be2 a6 9. Kd2 Ba4 10. Ke3 b5 $1 { Black couldn't capitalize on either weakness on c4 and h3, so instead he starts undermining the d5-pawn. } ( { After } 10... b5 { there is the threat of } 11. -- bxc4 12. Bxc4 Bb5 ) 
+Bc2 8. Be2 a6 9. Kd2 Ba4 10. Ke3 b5 $1 { Black couldn't capitalize on either weakness on c4 and h3, so instead he starts undermining the d5-pawn. } ( { After } 10... b5 { there is the threat of }  bxc4 12. Bxc4 Bb5 ) 
 
  0-1
 
@@ -247,13 +247,13 @@ Rf7 9. Kg4 Bf8 10. Bxh6 Bxh6 11. Rxh6 { Rook endings are known for their drawing
 [Result "0-1"]
 [FEN "8/5p1p/1p3p2/p2k4/4p1P1/PPn1P3/3N1P1P/5K2 b - - 0 1"]
 
- { The idea of fixing pawns can also occur in knight endings. Here is one example of this.Black is clearly better here, with the more active king and a tremendous knight on c3, which paralyses the opponent's play. But how to make progress? } 1... { -KEY- } b5 $1 { Preparing ...a5-a4 in order to fix a weakness on a3, while depriving White's knight of the c4-square. } 2. Kg2 a4 3. b4 ( { Or } 3. bxa4 bxa4 { with the inevitable threat of } 4. -- Nb5 5. Nb1 Kc4 ) 
+ { The idea of fixing pawns can also occur in knight endings. Here is one example of this.Black is clearly better here, with the more active king and a tremendous knight on c3, which paralyses the opponent's play. But how to make progress? } 1... { -KEY- } b5 $1 { Preparing ...a5-a4 in order to fix a weakness on a3, while depriving White's knight of the c4-square. } 2. Kg2 a4 3. b4 ( { Or } 3. bxa4 bxa4 { with the inevitable threat of }  Nb5 5. Nb1 Kc4 ) 
 Ke5 { Amplifying the battle on the kingside. } ( { The tactical shot } 3... Na2 $6 4. Kg3 Nxb4 $4 { would not succeed after } 5. axb4 a3 6. Nb1 $1 { - Ivkov. } ) 
 4. Kg3 f5 5. gxf5 ( { Or } 5. g5 f4 $1 6. exf4 Kf5 7. h4 Ne2 8. Kg2 Kxf4 { keeping a huge advantage. } ) 
 Kxf5 6. f3 Ke5 { White is starting to run out of solid moves. } 7. Kf2 f5 8. Kg3 $6 { Abandoning the e3-pawn. } ( { a) After } 8. fxe4 $2 Nxe4 9. Ke2 Nxd2 10. Kxd2 Ke4 11. Ke2 h6 12. h3 h5 13. h4 f4 { White is also lost. } ) 
  ( { b) But } 8. f4 { seems a bit more tenacious. One idea for Black here is } Ke6 9. Ke1 Kd5 10. Kf2 Nd1 $1 11. Ke2 Nb2 { (by choosing this route to c4 for his knight, Black doesn't let White's king reach c2) } 12. Kf2 Nc4 13. Nb1 Ke6 { and the transfer of the king to h3 should decide. } ) 
 Nd1 $1 9. fxe4 ( { In the event of } 9. Nf1 { one winning line is } Nxe3 $1 10. Nxe3 f4 11. Kf2 fxe3 12. Kxe3 exf3 13. Kxf3 Kd4 ) 
-Nxe3 { Clearing the long diagonal for the king. } 10. exf5 Nxf5+ 11. Kf3 Kd4 $1 12. Kf4 Nd6 ( { Preparing } 12... Nd6 12. -- Nc4 { , while } 13. -- Kc3 { is another dreadful threat. } ) 
+Nxe3 { Clearing the long diagonal for the king. } 10. exf5 Nxf5+ 11. Kf3 Kd4 $1 12. Kf4 Nd6 ( { Preparing } 12... Nd6  Nc4 { , while }  Kc3 { is another dreadful threat. } ) 
 
  0-1
 
@@ -275,7 +275,7 @@ Kf6 5. g5+ Kg7 ( { Obviously, } 5... Nxg5 $2 { failed to } 6. Nc6 )
  ( { b) In contrast, the combination } 7. c5 Nxc5 8. Rxc5 $6 bxc5 9. b6 axb6 10. a7 Rxa7 11. Nxa7 { would permit } h6 $1 12. h4 hxg5 13. hxg5 e5 $1 14. fxe5 Kf7 { with unclear play - Smyslov. } ) 
 Kf8 8. h4 Ke8 9. Rh2 Kf8 10. h5 { Getting on with the plan. } ( { The } 10. c5 $5 { breakthrough was also interesting; e.g. } Nxc5 ( { or } 10. h5 bxc5 11. b6 axb6 12. a7 ) 
 11. Rd2 $1 Rc7 12. Rd8 Kg7 13. Ra8 Nxa6 14. bxa6 Rxc6 15. Rxa7 Kg8 16. Rb7 { , followed by a6-a7, when Black loses his rook due to the badly placed king, in similar fashion to Example 201 (Van Wely-Giri). } ) 
-gxh5 ( { After } 10... Kg7 $6 11. hxg6 hxg6 12. Rh6 -- { and } 13. Ne5 { , the g6-pawn is doomed. } ) 
+gxh5 ( { After } 10... Kg7 $6 11. hxg6 hxg6 12. Rh6  { and } 13. Ne5 { , the g6-pawn is doomed. } ) 
 11. Rxh5 Kg8 12. Rh1 ( { Seeing that the immediate } 12. Rh6 { can be met by } Nc5 { Smyslov looks for a zugzwang. } ) 
 Kg7 13. Ne5 Rd8 14. Rh6 $1 { Just at the right moment. Now Black's defensive resources are soon exhausted. } Rd6 ( 14... Nc5 { was even worse due to } 15. Rf6 $1 { and the rook enters at f7 - Smyslov, now that } Rf8 { fails to } 16. Rxf8 Kxf8 17. Nc6 ) 
 15. Ke2 $1 ( { A technical choice; avoiding even the slightest enemy counterplay after } 15. Nc6 $6 Nd2 ) 
@@ -412,7 +412,7 @@ Kf8 25. Ke4 Kg7 26. Bc8 Kf7 27. Kd4 Kf8 28. Bb7 Bd7 29. Bc6 $1 Ke8 ( { Or } 29..
 
  { In bishop vs. knight endings, the idea of fixing pawns is a frequent idea for both sides. In his ChessBase comments to the game Sokolov-Sutovsky examined later on in this section, Krasenkow even argued that: 'Fixing your rival's pawns on the squares of your bishop, after which they become weak - this is the main strategic principle in the bishop vs. knight endgame!' Let's see some examples.Such positions with mutual passed pawns are clearly in the bishop's favour, though precision is still required. } 1... { -KEY- } a5 $1 { Fixing the a4-pawn as a future target, and advancing the potential passed pawn as well. } ( { Obviously, } 1... Bb3 $6 2. a5 { would be less to the point. } ) 
 2. Kf4 ( { Or } 2. Kh6 Bd5 3. Nf6 Bf3 4. Kxh7 Kxc5 5. Kg6 Kb4 6. Kg5 Kxa4 7. Nxg4 Bxg4 $1 8. Kxg4 Kb4 { and wins - Speelman. } ) 
-Bb3 $2 ( 2... h5 $1 { first was more precise, so that White's king transfer to the queenside with } 3. Ke3 { can be met by } h4 $1 { intending a breakthrough with } 4. -- g3 5. hxg3 h3 { . } ) 
+Bb3 $2 ( 2... h5 $1 { first was more precise, so that White's king transfer to the queenside with } 3. Ke3 { can be met by } h4 $1 { intending a breakthrough with }  g3 5. hxg3 h3 { . } ) 
 3. Ke3 ( { After } 3. Kxg4 Bxa4 4. Kg5 Bc2 { Black wins even more comfortably. } ) 
 Bxa4 4. Kd2 ( { Seeing that } 4. Nf6 { fails to } Bc2 { White denies the bishop that square. } ) 
 h6 $1 { A useful move, in order to delay White's conquest of that pawn. } 5. Nf6 Kxc5 6. Nxg4 h5 7. Ne3 ( { A surprising way to the draw was } 7. Nf6 h4 8. Ng4 $1 ( { not } 8. Ne4 $2 Kd4 9. Nd6 Bd7 $1 { and the knight is fatally marginated from the battle - Speelman. } ) 
@@ -510,7 +510,7 @@ g6 ( { If } 1... exf3 2. gxf3 g6 { to avoid the zugzwang that follows in the gam
 9. Kxe4 g5 10. hxg5 Kxg5 11. Ke5 $1 Kg6 12. Ke6 h4 13. d6 { winning Black's queen in the end - Smyslov. } ) 
 2. fxe4 fxe4 ( { Or } 2... dxe4 3. g3 { followed by a timely d5-d6; e.g. } Bd3 4. d5 Bc4 5. d6 $1 Ke6 6. Kg5 Kxd6 7. Kxg6 Ke5 8. Kxh5 Kf6 9. Kh6 Bd3 10. Nd5 Ke5 11. Kg7 $1 Kxd5 12. h5 { and wins - Smyslov. } ) 
 3. g3 $1 { Zugzwang - it is easy to see that Black has no solid move at his disposal. } Ke6 4. Kg5 Kf7 5. Nd1 $1 { The knight's ability to touch almost any square on the board means that it should usually move around a lot in the endgame. } Bf1 6. Nf2 Kg7 7. g4 $1 { The pawn helps the knight enter Black's camp. } hxg4 ( { Or } 7... Be2 8. gxh5 gxh5 9. Nh3 { heading for f4. } ) 
-8. Nxg4 Bh3 9. Nf6 Be6 10. Ne8+ ( { There follows } 10. Ne8+ -- 11. Nc7 { or } 11. Nd6 { with devastating effect, so Black resigned. } ) 
+8. Nxg4 Bh3 9. Nf6 Be6 10. Ne8+ ( { There follows } 10. Ne8+  11. Nc7 { or } 11. Nd6 { with devastating effect, so Black resigned. } ) 
 
  1-0
 
@@ -523,7 +523,7 @@ g6 ( { If } 1... exf3 2. gxf3 g6 { to avoid the zugzwang that follows in the gam
 [Result "1-0"]
 [FEN "5k2/p1n5/1p3ppp/8/2B1KPPP/8/PP6/8 w - - 0 1"]
 
- { This position with an open centre is clearly to the bishop's liking, though Black has achieved a barrier which prevents White's king from invading the enemy camp. With his next, strong move Benko addresses the issue. } 1. { -KEY- } h5 $1 { White deliberately fixes the h-pawns on squares of the 'wrong' colour in order to soften up the f5-square for the king. } ( { The stereotypical } 1. g5 $6 { would achieve less after } hxg5 $1 2. hxg5 Ke7 { intending } 3. -- fxg5 4. fxg5 Ne6 { with excellent drawing chances - Shereshevsky. } ) 
+ { This position with an open centre is clearly to the bishop's liking, though Black has achieved a barrier which prevents White's king from invading the enemy camp. With his next, strong move Benko addresses the issue. } 1. { -KEY- } h5 $1 { White deliberately fixes the h-pawns on squares of the 'wrong' colour in order to soften up the f5-square for the king. } ( { The stereotypical } 1. g5 $6 { would achieve less after } hxg5 $1 2. hxg5 Ke7 { intending }  fxg5 4. fxg5 Ne6 { with excellent drawing chances - Shereshevsky. } ) 
 g5 ( { a) The active } 1... f5 { backfires after } 2. Ke5 $1 ) 
  ( { b) While } 1... gxh5 2. gxh5 { followed by Kf5, soon forces Black to let the king enter at e6; } ) 
  ( { c) And } 1... Kg7 2. hxg6 Kxg6 3. Bd3 { is similar. } ) 
@@ -543,7 +543,7 @@ Nf6 18. Bc6 $1 { The magic distance, preventing Black's knight from assisting in
 [Result "1-0"]
 [FEN "5k2/p1n5/1p3ppp/8/2B1KPPP/8/PP6/8 w - - 0 1"]
 
- { This position with an open centre is clearly to the bishop's liking, though Black has achieved a barrier which prevents White's king from invading the enemy camp. With his next, strong move Benko addresses the issue. } 1. { -KEY- } h5 $1 { White deliberately fixes the h-pawns on squares of the 'wrong' colour in order to soften up the f5-square for the king. } ( { The stereotypical } 1. g5 $6 { would achieve less after } hxg5 $1 2. hxg5 Ke7 { intending } 3. -- fxg5 4. fxg5 Ne6 { with excellent drawing chances - Shereshevsky. } ) 
+ { This position with an open centre is clearly to the bishop's liking, though Black has achieved a barrier which prevents White's king from invading the enemy camp. With his next, strong move Benko addresses the issue. } 1. { -KEY- } h5 $1 { White deliberately fixes the h-pawns on squares of the 'wrong' colour in order to soften up the f5-square for the king. } ( { The stereotypical } 1. g5 $6 { would achieve less after } hxg5 $1 2. hxg5 Ke7 { intending }  fxg5 4. fxg5 Ne6 { with excellent drawing chances - Shereshevsky. } ) 
 g5 ( { a) The active } 1... f5 { backfires after } 2. Ke5 $1 ) 
  ( { b) While } 1... gxh5 2. gxh5 { followed by Kf5, soon forces Black to let the king enter at e6; } ) 
  ( { c) And } 1... Kg7 2. hxg6 Kxg6 3. Bd3 { is similar. } ) 
@@ -609,7 +609,7 @@ h2 18. Kxf6 Kh4 19. Ke5 Kg3
 [Result "1-0"]
 [FEN "2n5/pp1k1p2/4p1p1/8/3P2P1/2PB1P2/P2K4/8 w - - 0 1"]
 
- { Here is one more bishop vs. knight ending. The reader who has paid attention so far in this section will have no problem finding White's next, strong move. } 1. { -KEY- } g5 $1 { Fixing the black kingside pawns on light squares. } ( { With Black to move, } 1. -- g5 $1 { would have been an excellent choice, avoiding the difficulties he soon faces in the game. } ) 
+ { Here is one more bishop vs. knight ending. The reader who has paid attention so far in this section will have no problem finding White's next, strong move. } 1. { -KEY- } g5 $1 { Fixing the black kingside pawns on light squares. } ( { With Black to move, }  g5 $1 { would have been an excellent choice, avoiding the difficulties he soon faces in the game. } ) 
 Ne7 ( 1... Kd6 { preparing ...e5 was a natural alternative. After } 2. c4 { ( } 2. f4 { allows } Kd5 $1 { followed by ...Nd6 − Krasenkow. ) } e5 3. c5 Kd5 4. dxe5 Kxe5 ( 4... Kxc5 $6 { runs into } 5. e6 $1 fxe6 6. Bxg6 { with a clear advantage − Krasenkow. } ) 
 5. Ke3 Kd5 6. Be4 Kxc5 7. Bxb7 Nd6 { , Black has sufficient activity to keep the balance. } ) 
 2. c4 Nc6 3. Kc3 b6 $2 { This lets White increase his grip on the dark squares. } ( { The time was right for } 3... e5 $1 { ; e.g. } 4. dxe5 Nxe5 5. Be4 b6 { with good drawing chances - Krasenkow. } ) 
@@ -955,7 +955,7 @@ Kg8 38. a5 Nd5+ 39. Kd6 Nf4 ( { If } 39... Kf8 { one good option is } 40. Kc5 Kx
 3. f3 Kg7 4. Kf2 Kf6 5. Ke3 h5 $1 { Gaining more space, and preparing to fix a weakness on h2 by ...h5-h4-h3. } 6. Kd3 h4 7. Ke2 ( { It is not easy to give White good advice; for example, } 7. gxh4 $6 gxh4 { would just yield Black additional ideas such as ...e5-e4+ and ... Kg5-f4. } ) 
 h3 $1 { Fixing the h2-pawn and creating queening scenarios. } 8. Kf2 Be6 $1 { A well-known merit of the bishop pair is that one of the bishops can be exchanged at some moment in order to achieve another advantage. Here such an exchange helps Black to clear the way for his king towards the enemy queenside, while the potential attacker of the h2-pawn - the dark-squared bishop - remains on the board. } 9. Bxe6 ( { White is also in big trouble after } 9. c4 Bxd5 10. cxd5 axb4 11. Nxb4 Bd6 { , with ideas like ...Bc5+ and ... e5-e4 followed by ...Ke5. } ) 
 Kxe6 10. Ke3 ( { Or } 10. b5 Kd5 11. Ne7 Kc4 12. Nxf5 Kb3 $1 { and the a-pawn soon takes its toll. } ) 
-b5 $1 { A strong breakthrough that leads to a position with mutual passed pawns, where the bishop tends to outperform the knight. } ( { Another option was } 10... Kd7 11. b5 e4 $1 { with the threat of } 12. -- Bxg3 { , e.g. } 12. f4 gxf4 { 13.gxf4 Bd6 and Black should win - Baburin. } ) 
+b5 $1 { A strong breakthrough that leads to a position with mutual passed pawns, where the bishop tends to outperform the knight. } ( { Another option was } 10... Kd7 11. b5 e4 $1 { with the threat of }  Bxg3 { , e.g. } 12. f4 gxf4 { 13.gxf4 Bd6 and Black should win - Baburin. } ) 
 11. axb5 ( { Or } 11. bxa5 bxa4 12. a6 a3 $1 13. Nb4 ( 13. a7 { fails to } Bb6 ) 
 Bb6 14. Kd3 Bg1 15. Kc4 Kd6 { , followed by ...Kc7, and the h-pawn soon decides - Baburin. } ) 
 a4 12. Kd2 { White is just in time to control the a-pawn, but now his kingside is left undefended. } Kd7 13. c4 a3 14. Kc2 e4 $1 { The threat of ...Bxg3 seals White's fate. } 15. fxe4 fxe4 16. Nd4 Bxg3 17. Nb3 Bxh2 18. Nc5+ Kc8 19. Nxe4 Be5 
@@ -1227,7 +1227,7 @@ Rxd8 6. Kb4 { might be more critical, when Black should try } Bd5 ( 6... Rd2 $6 
 [FEN "2r1r3/1p3p2/p1p1bk2/P3p1pp/1K4P1/1P2RB1P/2P1PP2/3R4 b - - 0 6"]
 
 6... { -KEY- } hxg4 7. hxg4 Rcd8 8. Rxd8 { Abandoning the d-file so as to hurry up the king's march to b6. } ( 8. Red3 $6 { was less promising in view of } Rxd3 9. Rxd3 e4 $1 10. Bxe4 Bxg4 ) 
-Rxd8 9. Kc5 Rd4 ( { With the double idea of } 9... Rd4 9. -- Bxg4 { and } 10. Kb6 Rb4 { . } ) 
+Rxd8 9. Kc5 Rd4 ( { With the double idea of } 9... Rd4  Bxg4 { and } 10. Kb6 Rb4 { . } ) 
  ( { The passive } 9... Rd7 { could be met by } 10. Rd3 Re7 11. Rd6 Kg7 12. e4 $1 { followed by 13.Kb6, with Black completely deprived of counterplay. } ) 
 10. c4 $1 { Simple and strong - Polugaevsky gives up the g4-pawn in order to secure the king's arrival at b6. } ( { a) } 10. Rd3 $6 Rf4 { was less convincing. } ) 
  ( { b) But } 10. c3 $5 { preparing b3-b4 and Kb6, also made sense. } ) 

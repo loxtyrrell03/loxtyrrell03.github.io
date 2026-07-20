@@ -6,7 +6,7 @@
 [Black "Pawn majorities"]
 [Result "*"]
 
- { In 'Mastering Chess Strategy' I touched upon pawn majorities quite thoroughly, so here I will limit myself to some shorter examples. First, let's see a few cases where, for different reasons, one of the players can't easily mobilize his pawn majority. } 1. -- 
+ { In 'Mastering Chess Strategy' I touched upon pawn majorities quite thoroughly, so here I will limit myself to some shorter examples. First, let's see a few cases where, for different reasons, one of the players can't easily mobilize his pawn majority. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -136,7 +136,7 @@ c4 $1 { Finally, the pawn majority is converted into a passed pawn, whereas Whit
 b6 $2 { This natural move converts that pawn into a weakness. } ( 1... Rd8 2. Bf3 Bc8 { was correct, when } 3. Rxd8 Kxd8 4. c5 { yields a clear, but not decisive advantage - Erenburg. } ) 
 2. Bf3 Rb8 ( { After } 2... Ra7 $2 3. Na4 { the problem with ...b7-b6 is well displayed. Thus Black has to surrender the a-file. } ) 
 3. Ra1 $1 { This move comes with two strong ideas: to seize the seventh rank by Ra7 or attack the b6-pawn by Ra6 and Na4. } Bc8 { Preparing ...Nd7-c5. } 4. Ra7+ Nd7 5. Bc6 $1 { Now White is ready to exchange the defending knight at any moment. } f5 ( { The immediate } 5... Kd6 { fails to } 6. Ne4 { so Black prepares it. } ) 
-6. Na4 Kd6 7. Bxd7 $1 { Just at the right moment, before the knight escapes to e5. } Bxd7 8. Kb4 $1 { Active king. } ( { After } 8. Kb4 { , the threat of } -- 9. Nxb6 $1 Rxb6 10. c5 { forces the black king to move away from the b6-pawn, and the rest is easy. } ) 
+6. Na4 Kd6 7. Bxd7 $1 { Just at the right moment, before the knight escapes to e5. } Bxd7 8. Kb4 $1 { Active king. } ( { After } 8. Kb4 { , the threat of }  9. Nxb6 $1 Rxb6 10. c5 { forces the black king to move away from the b6-pawn, and the rest is easy. } ) 
 Ke7 9. Ra6 e5 10. Rxb6 Rd8 11. Rb7 Kf6 12. Nc5 Be8 13. Rc7 { In view of b5-b6-b7 next, Black resigned. } 
  1-0
 
@@ -167,7 +167,7 @@ b6 $2 { This natural move converts that pawn into a weakness. } ( 1... Rd8 2. Bf
 [FEN "1rb5/R2nkpp1/1pB1p2p/1P6/2P5/1KN4P/5PP1/8 b - - 0 5"]
 
 5... { -KEY- } f5 ( { The immediate } 5... Kd6 { fails to } 6. Ne4 { so Black prepares it. } ) 
-6. Na4 Kd6 7. Bxd7 $1 { Just at the right moment, before the knight escapes to e5. } Bxd7 8. Kb4 $1 { Active king. } ( { After } 8. Kb4 { the threat of } -- 9. Nxb6 $1 Rxb6 10. c5 { forces the black king to move away from the b6-pawn, and the rest is easy. } ) 
+6. Na4 Kd6 7. Bxd7 $1 { Just at the right moment, before the knight escapes to e5. } Bxd7 8. Kb4 $1 { Active king. } ( { After } 8. Kb4 { the threat of }  9. Nxb6 $1 Rxb6 10. c5 { forces the black king to move away from the b6-pawn, and the rest is easy. } ) 
 Ke7 9. Ra6 e5 10. Rxb6 Rd8 11. Rb7 Kf6 12. Nc5 Be8 13. Rc7 { In view of b5-b6-b7 next, Black resigned. } 
  1-0
 

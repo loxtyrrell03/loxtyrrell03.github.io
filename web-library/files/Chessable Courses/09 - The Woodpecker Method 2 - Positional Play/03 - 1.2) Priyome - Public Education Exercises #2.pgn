@@ -530,7 +530,7 @@ dxe4 15. Nxe4 h6 ( 15... Nef6 $2 { runs into } 16. Neg5 $18 { when Black has no 
 [Result "*"]
 [FEN "r1bq1rk1/p5p1/1p3npp/2pPp3/P1P1P3/2PBB3/6PP/R2Q1RK1 b - - 0 16"]
 
-16... { -KEY- } a5 $15 { Stopping a4-a5 has two advantages. Firstly, the b6-pawn is easier to defend with the a-file closed; and secondly, White will need to keep an eye on the a4-pawn. It would have been even more important to stop White's a-pawn if Black had castled long. } ( 16... Ng4 Z0 { does not achieve anything special, so it would be better to keep such ideas in reserve. The main merit of the knight jump is that it doesn't stop Black from going ...a7-a5 next! } ) 
+16... { -KEY- } a5 $15 { Stopping a4-a5 has two advantages. Firstly, the b6-pawn is easier to defend with the a-file closed; and secondly, White will need to keep an eye on the a4-pawn. It would have been even more important to stop White's a-pawn if Black had castled long. } ( 16... Ng4  { does not achieve anything special, so it would be better to keep such ideas in reserve. The main merit of the knight jump is that it doesn't stop Black from going ...a7-a5 next! } ) 
  { Too many times, people don't try their best. They don't have the keen spirit; the winning spirit. And once you make it you've got to guard your reputation – every day go in like an unknown to prove yourself. That's why I don't clown around. I don't believe in wasting time. My goal is to win the World Chess Championship; to beat the Russians. I take this very seriously. – Bobby Fischer I still hope to kill Fischer. – Boris Spassky } 
  *
 

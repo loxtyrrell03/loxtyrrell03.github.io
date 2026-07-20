@@ -56,7 +56,7 @@ Bxf3 ( 18... Bh5 { is met by } 19. g4 Bg6 20. Nf1 $16 { with Ng3 and Kg2 coming.
 [Result "*"]
 [FEN "r1bq1rk1/p3npbp/1pnp2p1/2p1p3/1P2PP2/P1PP2P1/4N1BP/RNBQ1RK1 b - - 0 10"]
 
-10... { -KEY- } exf4 $1 ( 10... -- { White threatened } 11. f5 $16 { , smothering Black's kingside and being ready to continue with the g-pawn. The tactical point is that } gxf5 $2 12. exf5 Bxf5 13. Bxc6 { costs Black a piece. There are other ways to stop White's threat. } ) 
+10... { -KEY- } exf4 $1 (  { White threatened } 11. f5 $16 { , smothering Black's kingside and being ready to continue with the g-pawn. The tactical point is that } gxf5 $2 12. exf5 Bxf5 13. Bxc6 { costs Black a piece. There are other ways to stop White's threat. } ) 
  ( 10... d5 $6 { is a thematic move for these positions. It shields the c6-knight and thus stops White from pushing the f-pawn. The drawback is that } 11. b5 $1 { forces the knight to an unfavourable square. } Na5 { White takes on d5 or e5 and the game goes on, but Black can do better than this. } ) 
  ( 10... f5 { is another option, when } 11. fxe5 $5 { exchanges the same pawns as in the game, but under slightly different conditions. Normally it's better to allow the opponent to release the tension by exchanging, since it helps your development, but the problem for Black here is that every recapture has a disadvantage. } ( 10... exf4 10. exf5 $2 Bxf5 12. b5 { wins material but after } Na5 13. Bxa8 Qxa8 { Black is positionally winning! After weakening the kingside with g2-g3, f2-f4 and e4xf5, White's light-squared bishop should not be 'sacrificed' for a mere rook. } ) 
 dxe5 { The g7-bishop is restricted. Black still has a good position, but the game continuation is more logical. } ( 11... Nxe5 { allows } 12. d4 ) 
@@ -359,7 +359,7 @@ Nd7 ( 11... Bd6 { can be met by } 12. f4 { ; } 12. Ndf3 { and } 12. Bf4 { are al
 [FEN "1rrq2k1/3b1p1p/p2p2pb/n1pPp2n/2P1P3/4N1PP/PBQ2PB1/1R2RNK1 w - - 0 22"]
 
 22. { -KEY- } Bc3 { The evaluation of the position depends on whether or not Black manages to find a meaningful purpose for the knight on a5. With the last move, White puts pressure on it before Black has time for ...Rb4. } ( 22. Bc3 Qc7 $16 { The game soon ended in a draw, but White stands much better. A good plan is to slowly advance on the kingside with h3-h4 followed by Bf3-e2, kicking the knight from h5 and overprotecting the c4-pawn. Later g3-g4-g5 can be considered. } ) 
- ( 22. -- { If White waits, Black has } Rb4 23. Bc3 Nxc4 $5 24. Bxb4 Nxe3 25. Nxe3 cxb4 26. Qd2 a5 { with almost enough compensation. } ) 
+ (  { If White waits, Black has } Rb4 23. Bc3 Nxc4 $5 24. Bxb4 Nxe3 25. Nxe3 cxb4 26. Qd2 a5 { with almost enough compensation. } ) 
 
  *
 
@@ -633,7 +633,7 @@ Qd6 20. g3 Rd8 21. Rd1 Rb6 $15 { Black will target the d4-pawn. }
 [FEN "2rq1rk1/pp1bpp2/3p1npQ/4n2p/3NP2P/1BN2P2/PPP3P1/2KR3R b - - 0 14"]
 
 14... { -KEY- } Rxc3 $1 ( 14... Qa5 $2 15. Nd5 Nxd5 16. exd5 $18 { followed by g2-g4 with a devastating attack. } ) 
-15. bxc3 Qa5 $13 { Black's compensation consists of the squares along the c-file, and the queenside being more open than the kingside. There is a tactical problem, though, and only with a tactical solution, Black survives and wins. } ( 15... Qa5 15. f4 { The knight cannot move to c4 , as there's no rook on c8 , and if it moves elsewhere, White can capture on g6 . } Qxc3 $1 17. fxe5 Qa1 18. Kd2 Qxd4 19. Kc1 { Black has more than a repetition. } Qa1 20. Kd2 Nxe4 21. Ke3 Qc3 $1 22. Rd3 Qc5 23. Kxe4 Bc6 $1 24. Bd5 Bxd5 25. Rxd5 Qc6 $3 { Black is a rook down, but doesn't need to check. } 26. Kd4 { The only defense against e7-e6 winning the rook. } dxe5 27. Kxe5 Qc4 Z0 { White's king is in danger, which will cost at least a rook. A positional solution - but supported by a long tactical variation. } ) 
+15. bxc3 Qa5 $13 { Black's compensation consists of the squares along the c-file, and the queenside being more open than the kingside. There is a tactical problem, though, and only with a tactical solution, Black survives and wins. } ( 15... Qa5 15. f4 { The knight cannot move to c4 , as there's no rook on c8 , and if it moves elsewhere, White can capture on g6 . } Qxc3 $1 17. fxe5 Qa1 18. Kd2 Qxd4 19. Kc1 { Black has more than a repetition. } Qa1 20. Kd2 Nxe4 21. Ke3 Qc3 $1 22. Rd3 Qc5 23. Kxe4 Bc6 $1 24. Bd5 Bxd5 25. Rxd5 Qc6 $3 { Black is a rook down, but doesn't need to check. } 26. Kd4 { The only defense against e7-e6 winning the rook. } dxe5 27. Kxe5 Qc4  { White's king is in danger, which will cost at least a rook. A positional solution - but supported by a long tactical variation. } ) 
  { When you play Bobby, it is not a question of if you win or lose. It is a question of if you survive. – Boris Spassky } 
  *
 

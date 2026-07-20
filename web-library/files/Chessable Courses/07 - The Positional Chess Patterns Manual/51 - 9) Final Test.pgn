@@ -6,7 +6,7 @@
 [Black "Introduction"]
 [Result "*"]
 
- { Welcome to the final test! I know what you're thinking: 'I haven't solved anywhere near enough puzzles in this course!'. Fear not, your screams of protest are not in vain. In this chapter you will find a selection of 32 mixed puzzles to work through, progressing in difficulty. Unlike in the other exercise sets, here the puzzles are not sorted by theme, to match the conditions that you will have in a real game. As a rough guideline, here is what I believe would be a good success rate for students of different FIDE ratings: 1000-1400 -> 40% or higher 1400-1800 -> 50% or higher 1800-2100 -> 60% or higher 2100-2300 -> 75% or higher Happy solving! } 1. { -KEY- } -- 
+ { Welcome to the final test! I know what you're thinking: 'I haven't solved anywhere near enough puzzles in this course!'. Fear not, your screams of protest are not in vain. In this chapter you will find a selection of 32 mixed puzzles to work through, progressing in difficulty. Unlike in the other exercise sets, here the puzzles are not sorted by theme, to match the conditions that you will have in a real game. As a rough guideline, here is what I believe would be a good success rate for students of different FIDE ratings: 1000-1400 -> 40% or higher 1400-1800 -> 50% or higher 1800-2100 -> 60% or higher 2100-2300 -> 75% or higher Happy solving! } 1. { -KEY- }  
  *
 
 [Event "The Positional Chess Patterns Manual"]
@@ -56,7 +56,7 @@
 [Result "*"]
 [FEN "2r2r1k/ppp1npqp/3p1Np1/6P1/2P2P2/1P2P3/P2Q2KP/R4R2 w - - 0 1"]
 
- ( { Black wants to play } 0... a4 0. -- Ng8 { , challenging the knight. Can you find a move that prepares to set up a power outpost on f6 to meet this threat? } ) 
+ ( { Black wants to play } 0... a4  Ng8 { , challenging the knight. Can you find a move that prepares to set up a power outpost on f6 to meet this threat? } ) 
 1. { -KEY- } e4 $1 Ng8 2. e5 $16 { Correct! White's knight cannot be kicked away from the powerful f6 square, leaving them with a near-winning advantage. } 
  *
 
@@ -93,7 +93,7 @@
 [Result "*"]
 [FEN "3rr3/1bp1qnbk/p1ppp1pp/4Pp2/2PP1B1P/1P2QN2/P3NPP1/3RR1K1 w - - 0 1"]
 
- { Magnus Carlsen reached this position in an online game. Can you spot Black's positional threat, and find a move that puts a stop to it? } 1. { -KEY- } c5 $16 ( { Correct! Black wanted to play } 1. -- c5 { themselves. Now the bishop on b7 is left passive indefinitely. } ) 
+ { Magnus Carlsen reached this position in an online game. Can you spot Black's positional threat, and find a move that puts a stop to it? } 1. { -KEY- } c5 $16 ( { Correct! Black wanted to play }  c5 { themselves. Now the bishop on b7 is left passive indefinitely. } ) 
 
  *
 

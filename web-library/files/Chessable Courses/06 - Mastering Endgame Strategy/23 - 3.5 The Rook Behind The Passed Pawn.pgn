@@ -6,7 +6,7 @@
 [Black "The rook behind the passed pawn"]
 [Result "*"]
 
- { An old endgame principle is to place your rook behind the passed pawn, no matter whether it's yours or the opponent's. Leaving out a few exceptions, it remains highly applicable in today's practice. Let's see some examples on this theme, starting with a few classics. } 1. -- 
+ { An old endgame principle is to place your rook behind the passed pawn, no matter whether it's yours or the opponent's. Leaving out a few exceptions, it remains highly applicable in today's practice. Let's see some examples on this theme, starting with a few classics. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -72,7 +72,7 @@ Rf3+ 6. Ka4 Rf1 7. Rg8 Rg1 ( { Or } 7... Kf3 8. a6 g3 9. Kb5 g2 10. a7 Ra1 11. K
 Rf5 { Gaining a tempo. } ( { The immediate } 2... Rf7 { should work too; e.g. } 3. Ra5 Ra7 4. Kf4 Kf7 5. Ke5 Ke7 { with similar play to the previous note. } ) 
 3. Rc7+ Rf7 4. Rc5 Ra7 { Black has completed the rook manoeuvre and should now activate his king. } 5. Ra5 Kf7 { Heading for b6. } ( { Of course } 5... h6 $2 { would be completely counter-productive: } 6. gxh6 Kxh6 7. Kh4 Kg7 8. Kg4 Kf6 9. Kf4 { and White holds. As usually occurs, pawn exchanges favour the defending side. } ) 
 6. Kf4 Ke6 7. Ke4 Kd6 8. Kd4 Kc6 9. Kc4 Kb6 10. Re5 Rf7 ( { Avoiding the trap } 10... a5 $2 11. Re6 Kb7 12. Re7 Kb8 13. Re8 { with a draw. } ) 
-11. Kb3 ( { Or } 11. Re6 Ka5 12. Re5 Ka4 { followed by } 13. -- Rc7 ) 
+11. Kb3 ( { Or } 11. Re6 Ka5 12. Re5 Ka4 { followed by }  Rc7 ) 
 Rf3+ 12. Kb4 ( { After } 12. Kc4 Rf4 13. Kb3 Rf5 { , Black wins in similar fashion. } ) 
 a5+ 13. Ka4 Rf4+ 14. Kb3 Rf5 { Here, Black needs the pawn exchange in order to create a second passed pawn. } 15. Re7 Rxg5 16. Rxh7 Kc5 { The king is now directed to the more useful g-pawn. } 17. Rd7 { The white rook prevents that idea, but it can't stay on the d-file for long. } Rg4 18. Kc3 ( { Or } 18. Ra7 a4 19. Ka3 Kd5 20. Ra5 Ke4 $1 21. Rxa4 Kf3 { with an easy win. } ) 
 Rg3+ 19. Kc2 a4 20. Kb2 g5 21. Rd8 g4 22. Rd7 Rf3 23. Rg7 a3+ 24. Ka2 g3 25. Rd7 Kc4 26. Rd8 Rd3 27. Rg8 Kc3 28. Rg7 Kd2 
@@ -104,7 +104,7 @@ Rf5 { Gaining a tempo. } ( { The immediate } 2... Rf7 { should work too; e.g. } 
 [Result "0-1"]
 [FEN "8/5r1p/pk4p1/4R1P1/2K5/8/8/8 w - - 0 11"]
 
-11. { -KEY- } Kb3 ( { Or } 11. Re6 Ka5 12. Re5 Ka4 { followed by } 13. -- Rc7 ) 
+11. { -KEY- } Kb3 ( { Or } 11. Re6 Ka5 12. Re5 Ka4 { followed by }  Rc7 ) 
 Rf3+ ( { The immediate } 11... Rf5 { was perfectly fine as well, transposing to the end of the next subline. But in the game, we were already past move 70 so I was happy to accumulate some extra time on the clock. } ) 
 12. Kb4 ( { After } 12. Kc4 Rf4 13. Kb3 Rf5 { Black wins in similar fashion. } ) 
 a5+ 13. Ka4 Rf4+ 14. Kb3 Rf5 { Here, Black needs the pawn exchange in order to create a second passed pawn. } 15. Re7 Rxg5 16. Rxh7 Kc5 { The king is now directed to the more useful g-pawn. } 17. Rd7 { The white rook prevents that idea, but it can't stay on the d-file for long. } Rg4 18. Kc3 ( { Or } 18. Ra7 a4 19. Ka3 Kd5 20. Ra5 Ke4 $1 21. Rxa4 Kf3 { with an easy win. } ) 

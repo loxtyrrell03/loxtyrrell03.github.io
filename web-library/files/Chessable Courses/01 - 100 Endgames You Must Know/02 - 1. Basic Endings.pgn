@@ -6,7 +6,7 @@
 [Black "Basic endings - Introduction"]
 [Result "*"]
 
- { 1. Basic endings:This chapter is a small bonus in the book. My first idea was that basic endings are well known and therefore our study should start from the next level. However, it is true that some basic endings are either not so well known or only at a superficial level. Therefore, I decided to add a preliminary chapter dealing with those basic endings which, according to some trainers whom I consulted, pose problems to beginners. I also thought that it could help many trainers at the elementary level. Of course, experienced players can skip this section. A great part of this chapter is devoted to King + Pawn vs. King endings. Most players handle these endings with confidence, but some have trouble in less common positions. Very often the problem lies in the overuse of the theory of the opposition. While opposition is a very useful concept and its best field of application is Pawn endings, its value is sometimes overestimated. King + Pawn vs. King endings are best explained by means of the key squares theory, using opposition at the right time and adapting its value to each situation. I assume the reader knows the basic mates and the Bishop + Wrong Rook's Pawn ending. In any case, a perfect demonstration of these endings can be found in many books. } 1. -- 
+ { 1. Basic endings:This chapter is a small bonus in the book. My first idea was that basic endings are well known and therefore our study should start from the next level. However, it is true that some basic endings are either not so well known or only at a superficial level. Therefore, I decided to add a preliminary chapter dealing with those basic endings which, according to some trainers whom I consulted, pose problems to beginners. I also thought that it could help many trainers at the elementary level. Of course, experienced players can skip this section. A great part of this chapter is devoted to King + Pawn vs. King endings. Most players handle these endings with confidence, but some have trouble in less common positions. Very often the problem lies in the overuse of the theory of the opposition. While opposition is a very useful concept and its best field of application is Pawn endings, its value is sometimes overestimated. King + Pawn vs. King endings are best explained by means of the key squares theory, using opposition at the right time and adapting its value to each situation. I assume the reader knows the basic mates and the Bishop + Wrong Rook's Pawn ending. In any case, a perfect demonstration of these endings can be found in many books. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -267,7 +267,7 @@ Re2+ { The only way to divide the white army, but just for a moment. } 5. Kf1 Rh
 [Result "*"]
 [FEN "8/8/8/8/8/6k1/r7/6NK w - - 0 1"]
 
- { Things are radically different when the king and the knight are at one corner of the board, no matter who occupies the corner-square. Their mobility is then restricted and the position becomes immediately lost. Even if the knight occupies the g2-square (an especially unfortunate square for the knight) most cases result in a defeat. There is no need for a deep analysis and it does not matter which side is to move: in all these positions (1.21, 1.22 and 1.23) White loses the knight straight away. The third diagram (1.23) is specially impressive: the knight is not even on the edge of the board, but it is lost anyway. This is our first example of a 'knight's dumb square' and its effects, but it will not be the last. Conclusion: In the battle Knight vs. Rook there are two scenarios the defender should avoid:1) The knight is separated from the king2) Both pieces are trapped in the corner ( even if the knight is on the g2-square ) . } 1. -- 
+ { Things are radically different when the king and the knight are at one corner of the board, no matter who occupies the corner-square. Their mobility is then restricted and the position becomes immediately lost. Even if the knight occupies the g2-square (an especially unfortunate square for the knight) most cases result in a defeat. There is no need for a deep analysis and it does not matter which side is to move: in all these positions (1.21, 1.22 and 1.23) White loses the knight straight away. The third diagram (1.23) is specially impressive: the knight is not even on the edge of the board, but it is lost anyway. This is our first example of a 'knight's dumb square' and its effects, but it will not be the last. Conclusion: In the battle Knight vs. Rook there are two scenarios the defender should avoid:1) The knight is separated from the king2) Both pieces are trapped in the corner ( even if the knight is on the g2-square ) . }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -279,7 +279,7 @@ Re2+ { The only way to divide the white army, but just for a moment. } 5. Kf1 Rh
 [Result "*"]
 [FEN "8/8/8/8/8/6k1/r7/6KN b - - 0 1"]
 
-1... -- 
+ 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -291,7 +291,7 @@ Re2+ { The only way to divide the white army, but just for a moment. } 5. Kf1 Rh
 [Result "*"]
 [FEN "r7/8/8/8/8/6k1/6N1/7K w - - 0 1"]
 
-1. -- 
+ 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -322,5 +322,5 @@ Kg2 $1 15. Re4 Nf7 $2 ( 15... Nd7 $11 )
 [Black "Chessable note: Tackling the rest of the book"]
 [Result "*"]
 
- { Congratulations, you are through Chapter 1! Wasn't that awesome? Our system will now determine which lines you know well and which you don't and prompt you to review challenging lines more often. In the print version, Jesus de la Villa now includes a 'Basic Test' to gauge your endgame knowledge before embarking on the rest of the book. Previously not interactive, the basic test is now trainable like the majority of the book. So go ahead and take the test now. Good luck! } 1. -- 
+ { Congratulations, you are through Chapter 1! Wasn't that awesome? Our system will now determine which lines you know well and which you don't and prompt you to review challenging lines more often. In the print version, Jesus de la Villa now includes a 'Basic Test' to gauge your endgame knowledge before embarking on the rest of the book. Previously not interactive, the basic test is now trainable like the majority of the book. So go ahead and take the test now. Good luck! }  
  *

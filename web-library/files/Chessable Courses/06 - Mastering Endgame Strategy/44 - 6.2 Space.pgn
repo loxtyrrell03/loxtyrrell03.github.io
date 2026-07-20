@@ -6,7 +6,7 @@
 [Black "Space"]
 [Result "*"]
 
- { Space is a fundamental aspect of the battle in any of its stages, but in the endgame its implications become more specific - the further the advance of a pawn, the closer its queening square. Here are two simple examples on this topic. } 1. -- 
+ { Space is a fundamental aspect of the battle in any of its stages, but in the endgame its implications become more specific - the further the advance of a pawn, the closer its queening square. Here are two simple examples on this topic. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -71,7 +71,7 @@ Kd4 6. Nxf5+ Ke4 7. Nxh6 Kxf4 8. Ng4 $1 { With the h-pawn already on h5, this li
 Bb5 5. Ke3 ( { a3) or } 5. Kc3 Be2 $1 ) 
 Bd7 6. Kf3 ( { a4) the attempt at a theoretical draw by } 6. f5 Ke5 7. g5 Bxf5 8. h6 { fails to } gxh6 9. gxh6 Bh7 { followed by ...Kd4-c3-b2; } ) 
 Kd4 7. f5 Ke5 8. Ke3 Bxf5 $1 9. gxf5 Kxf5 { in similar fashion to the game - Roiz. } ) 
-Be6 4. f5 Bd7 5. Ke3 Ke5 ( { Not } 5... Kc4 $6 6. h5 { with the dreadful threat of } -- 7. f6 ) 
+Be6 4. f5 Bd7 5. Ke3 Ke5 ( { Not } 5... Kc4 $6 6. h5 { with the dreadful threat of }  7. f6 ) 
 6. Kf3 Bc6+ ( { It is too early for } 6... Bxf5 $2 { in view of } 7. gxf5 Kxf5 8. Kg3 { so Black first forces h4-h5 by means of zugzwang. } ) 
 7. Kg3 ( { Or } 7. Ke3 Be4 { with similar effect - Roiz. } ) 
 Be4 ( { A good alternative is } 7... Ke4 $5 { aiming for zugzwang, e.g. } 8. h5 Be8 9. Kh4 Kf4 $1 { (now White is short of a good move) } 10. Kh3 Kg5 { soon picking up the kingside pawns with the bishop, as noticed by c0rias. } ) 
@@ -461,7 +461,7 @@ Kd8 ( { If instead } 17... gxf6 { then } 18. d7 Kd8 19. g6 { etc. } )
 
  { Just like Example 372 (Ljubojevic-Gligoric), this ending was produced by the Spanish Exchange Variation. Theoretically, White counts on a more mobile pawn majority, but practice often finds him struggling to make it advance, as in the present case. After scanning the rest of the board for other opportunities, Oral came up with a clever idea. } 1. { -KEY- } h4 $1 { Preparing h4-h5 to soften up the light squares in Black's kingside. } ( 1. Nf5 $6 g6 { was less productive. } ) 
 b5 { Slobodjan looks for counterplay on 'his' flank; } ( { but in hindsight } 1... g6 { seems a better choice, so as to meet } 2. h5 { with } g5 { making it more difficult for White to progress on the kingside. } ) 
-2. h5 $1 Rb8 3. Kg3 { With ...g7-g5 being out of the question, White brings his king to a great square on f4, from where it could even move on to f5 and g6 one day. } a5 4. Kf4 Re7 ( 4... -- { Parrying in advance the enemy plan of } 5. Nf5 Nxf5 6. Kxf5 $1 Re7 7. Rd8 { followed by Rg8 and Kg6. } ) 
+2. h5 $1 Rb8 3. Kg3 { With ...g7-g5 being out of the question, White brings his king to a great square on f4, from where it could even move on to f5 and g6 one day. } a5 4. Kf4 Re7 (  { Parrying in advance the enemy plan of } 5. Nf5 Nxf5 6. Kxf5 $1 Re7 7. Rd8 { followed by Rg8 and Kg6. } ) 
 5. Nf5 Rd7 6. e5 $1 { White has seen an unusual, but strong idea: double the rooks on the fifth rank. } fxe5+ 7. Rxe5 a4 ( { a) This drops a pawn; though Black was also in trouble after } 7... Nxf5 8. Rxd7 Kxd7 9. Rxf5 Kd6 10. Rf7 Rg8 11. Kf5 ) 
  ( { b) Or } 7... b4 8. Rdd5 Rb5 9. Re7 $1 Rxe7 10. Nxe7 Kb7 11. Nf5 Kc6 12. Re5 Nxf5 13. Kxf5 { in both cases preparing Kg6. } ) 
 8. Rdd5 $1 c4 9. Rc5+ Kb6 10. Nxd6 cxd6 11. Rxb5+ { Having a sound extra pawn, the rest is a matter of technique for Oral. } Kc7 12. Rf5 axb3 13. axb3 cxb3 14. cxb3 Re8 15. Ra5 Kb6 16. b4 Rc8 17. Rab5+ Ka6 18. Kg3 $1 ( { A prophylactic retreat that yields White additional options later on, in similar fashion to } 1. Ka2 $1 { in Example 159 (Matsukevich-Lein) in Chapter Three. } ) 
@@ -484,7 +484,7 @@ Rc4 19. Ra5+ Kb7 20. Rfb5+ Kc6 ( { Or } 20... Kc7 21. Ra7 Kd8 22. Rbb7 $1 { eyei
 
  { Just like Example 372 (Ljubojevic-Gligoric), this ending was produced by the Spanish Exchange Variation. Theoretically, White counts on a more mobile pawn majority, but practice often finds him struggling to make it advance, as in the present case. After scanning the rest of the board for other opportunities, Oral came up with a clever idea. } 1. { -KEY- } h4 $1 { Preparing h4-h5 to soften up the light squares in Black's kingside. } ( 1. Nf5 $6 g6 { was less productive. } ) 
 b5 ( { Slobodjan looks for counterplay on 'his' flank; but in hindsight } 1... g6 { seems a better choice, so as to meet } 2. h5 { with } g5 { making it more difficult for White to progress on the kingside. } ) 
-2. h5 $1 Rb8 3. Kg3 { With ...g7-g5 being out of the question, White brings his king to a great square on f4, from where it could even move on to f5 and g6 one day. } a5 4. Kf4 Re7 ( 4... -- { Parrying in advance the enemy plan of } 5. Nf5 Nxf5 6. Kxf5 $1 Re7 7. Rd8 { , followed by Rg8 and Kg6. } ) 
+2. h5 $1 Rb8 3. Kg3 { With ...g7-g5 being out of the question, White brings his king to a great square on f4, from where it could even move on to f5 and g6 one day. } a5 4. Kf4 Re7 (  { Parrying in advance the enemy plan of } 5. Nf5 Nxf5 6. Kxf5 $1 Re7 7. Rd8 { , followed by Rg8 and Kg6. } ) 
 5. Nf5 Rd7 6. e5 $1 { White has seen an unusual, but strong idea: double the rooks on the fifth rank. } fxe5+ 7. Rxe5 a4 ( { This drops a pawn; though Black was also in trouble after } 7... Nxf5 8. Rxd7 Kxd7 9. Rxf5 Kd6 10. Rf7 Rg8 11. Kf5 ) 
  ( { or } 7... b4 8. Rdd5 Rb5 9. Re7 $1 Rxe7 10. Nxe7 Kb7 11. Nf5 Kc6 12. Re5 Nxf5 13. Kxf5 { in both cases preparing Kg6. } ) 
 8. Rdd5 $1 c4 9. Rc5+ Kb6 10. Nxd6 cxd6 11. Rxb5+ { Having a sound extra pawn, the rest is a matter of technique for Oral. } 
@@ -560,7 +560,7 @@ Nxd5 ( { Having seen the rest of the game, it is easy to suggest } 1... a5 { as 
 9. h5 $1 Qd8 10. c3 { Preparing c3-c4, so that one pawn stops two. } bxc3 11. bxc3 Qc7 12. c4 $1 Qd8 13. Qc6 Qc7 ( { After } 13... Qxa5 $6 14. Qxd6 Kb7 15. Qe7 Kb6 ( { or } 15... Qc7 16. Qe4 ) 
 16. Qxf7 Qe1 17. Kg2 Qe4 18. f3 Qe2 19. Kh3 { White has excellent winning chances. } ) 
 14. Qe8+ Kb7 $2 { A tactical oversight. } ( { Black had to play } 14... Ka7 { though after } 15. Qe4 h6 ( { or } 15... g6 16. h6 $1 ) 
-16. Kh2 $1 -- { preparing } 17. Qg4 { and a future invasion of the king along the light squares, White keeps a clear advantage. } ) 
+16. Kh2 $1  { preparing } 17. Qg4 { and a future invasion of the king along the light squares, White keeps a clear advantage. } ) 
 15. Qe4+ ( { Black resigned, in view of } 15. Qe4 Ka7 16. Qxh7 Qxa5 17. Qxg7 Qe1 18. Kg2 Qe4 19. Kh3 { etc. } ) 
 
  1-0

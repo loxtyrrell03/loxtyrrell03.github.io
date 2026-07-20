@@ -89,7 +89,7 @@ Nxc4 ( 15... Nac6 { is passive and not what Black wants to play. } )
 [Result "*"]
 [FEN "r2q1rk1/ppp1ppbp/1nn3p1/2Q5/3PP1b1/2N1BN2/PP2BPPP/3RK2R b K - 0 11"]
 
-11... { -KEY- } Qd6 $1 { Exchanging queens diminishes the impact of White's centre, and evacuating the d8-square allows Black to increase the pressure with ...Rfd8. } ( 11... -- { White had been threatening } 12. d5 { pushing the knight back, since } Ne5 { allows the standard idea of } 13. Nxe5 Bxe2 14. Nxf7 { winning a pawn. } ) 
+11... { -KEY- } Qd6 $1 { Exchanging queens diminishes the impact of White's centre, and evacuating the d8-square allows Black to increase the pressure with ...Rfd8. } (  { White had been threatening } 12. d5 { pushing the knight back, since } Ne5 { allows the standard idea of } 13. Nxe5 Bxe2 14. Nxf7 { winning a pawn. } ) 
 12. e5 ( 12. d5 { is now safely met by } Ne5 13. Nxe5 Bxe2 { since White's try to win a pawn backfires: } 14. Qxd6 cxd6 { Opening the c-file. } 15. Nxg6 Bxd1 16. Nxf8 $4 ( 16. Nxe7 { would give decent compensation for the exchange. } ) 
 Ba4 $19 { The knight is trapped. } ) 
  ( 12. Qxd6 cxd6 $11 ) 

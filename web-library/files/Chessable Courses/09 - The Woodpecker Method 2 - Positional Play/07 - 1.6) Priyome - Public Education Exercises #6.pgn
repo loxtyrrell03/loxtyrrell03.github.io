@@ -605,6 +605,6 @@ Bxc6 11. Ne5 $14 { White doesn't follow up with f2-f4, but active moves such as 
 [Result "*"]
 [FEN "r2qr1k1/b2b1pp1/5nnp/1pp1p3/4P3/2P1NN1P/1PB2PP1/R1BQR1K1 w - - 0 18"]
 
-18. { -KEY- } c4 $14 { Preparing Ne3-d5, and most probably e4xd5 if Black exchanges. Note that Black's knights are far away from d4. } ( 18. -- { Black to move would go } c4 { . } ) 
+18. { -KEY- } c4 $14 { Preparing Ne3-d5, and most probably e4xd5 if Black exchanges. Note that Black's knights are far away from d4. } (  { Black to move would go } c4 { . } ) 
 
  *

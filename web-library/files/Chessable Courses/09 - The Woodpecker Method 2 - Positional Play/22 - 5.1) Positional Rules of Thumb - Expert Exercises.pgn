@@ -41,7 +41,7 @@ Nc5 12. gxf5 Nxd3+ 13. cxd3 Rxf5 $17 { The main point of removing the d3-bishop 
  ( 19... Nc6 20. Nc5 { and White is close to winning. } ) 
 20. Qg4 $1 g6 21. Ng5+ Ke8 22. Rxe7+ $1 Kf8 $1 { White's weak first rank almost saves Black. } ( 22... Kxe7 23. Re1 Kd6 24. Qb4 Rc5 25. Re6 $18 ) 
 23. Rf7+ $1 Kg8 $1 24. Rg7+ $1 Kh8 $1 ( 24... Kf8 25. Nxh7 $18 ) 
-25. Rxh7+ $1 { The game ended here in an unusual way, as Von Bardeleben left the playing hall without resigning. Based on such behaviour, I always assumed he was not an especially strong player. However, before this game he had scored 7½/9 in the tournament, including a win over Lasker. } ( { After } 25. Rxh7 $1 Z0 { the conclusion would have been: } Kg8 26. Rg7 Kh8 27. Qh4 Kxg7 28. Qh7 Kf8 29. Qh8 Ke7 30. Qg7 Ke8 31. Qg8 Ke7 32. Qf7 Kd8 33. Qf8 Qe8 34. Nf7 Kd7 35. Qd6 ) 
+25. Rxh7+ $1 { The game ended here in an unusual way, as Von Bardeleben left the playing hall without resigning. Based on such behaviour, I always assumed he was not an especially strong player. However, before this game he had scored 7½/9 in the tournament, including a win over Lasker. } ( { After } 25. Rxh7 $1  { the conclusion would have been: } Kg8 26. Rg7 Kh8 27. Qh4 Kxg7 28. Qh7 Kf8 29. Qh8 Ke7 30. Qg7 Ke8 31. Qg8 Ke7 32. Qf7 Kd8 33. Qf8 Qe8 34. Nf7 Kd7 35. Qd6 ) 
  { Chess is not for the faint-hearted; it absorbs a person entirely. To get to the bottom of this game, he has to give himself up into slavery. Chess is difficult; it demands work, serious reflection and zealous research. - William Steinitz } 
  1-0
 
@@ -99,7 +99,7 @@ exd5 10. axb4 dxc4 11. Bxc4 Nb6 12. Bb3 dxe3 13. Bxe3 $16 { White is fully mobil
 [Result "*"]
 [FEN "1rbr2k1/2q1bppp/2n5/1pp1p2n/4P3/2P2N1P/1PB1QPP1/R1B1RNK1 w - - 0 18"]
 
- { Another difficult exercise. White's best move is the surprising: } 18. { -KEY- } g4 $1 ( 18. -- { To arrive at this decision, we first need to consider Black's idea. If Black had a free move, then } Nf4 19. Bxf4 exf4 { would leave Black with the bishop pair and White with a restricted knight on f1. } ) 
+ { Another difficult exercise. White's best move is the surprising: } 18. { -KEY- } g4 $1 (  { To arrive at this decision, we first need to consider Black's idea. If Black had a free move, then } Nf4 19. Bxf4 exf4 { would leave Black with the bishop pair and White with a restricted knight on f1. } ) 
  ( 18. g3 $5 { is a logical way to stop Black's plan before continuing to make use of White's trump: the d5-square. However, } Nf6 $11 { is a satisfactory reply. White needs to spend a tempo to protect the h3-pawn. The tactics after } ( 18. g4 Bxh3 19. Ng5 $14 { work out well for White. The game continued } ) 
  ( 18. g4 g6 19. h4 $14 { with ideas of Bg5 or Ne3-d5. } ) 
  ) 

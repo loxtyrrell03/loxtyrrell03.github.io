@@ -183,7 +183,7 @@ g5 { Alekhine attacked, and the game lasted only eight more moves. }
 [Result "*"]
 [FEN "2rqr1k1/1p3pp1/2nbb1np/p3p3/2Pp3P/PP1P1NP1/2QN1PB1/1RB1R1K1 w - - 0 16"]
 
-16. { -KEY- } c5 $14 { A reversed Benoni where White's main plan is to advance with the pawn majority on the queenside. } ( 16. -- { Black to move could have stopped White's progress by } b6 { . } ) 
+16. { -KEY- } c5 $14 { A reversed Benoni where White's main plan is to advance with the pawn majority on the queenside. } (  { Black to move could have stopped White's progress by } b6 { . } ) 
  ( 16. h5 $6 { unnecessarily weakens the pawn. } ) 
 Bb8 $6 ( 16... Bc7 { is better, controlling the b6-square. } ) 
 17. Nc4 $14 { Followed by b3-b4. } ( { It's important to get the move order right, since } 17. b4 $2 { is met by the clever } axb4 18. axb4 b5 $17 { when White's queenside play is stifled, as capturing en passant runs into a discovered attack. } ) 

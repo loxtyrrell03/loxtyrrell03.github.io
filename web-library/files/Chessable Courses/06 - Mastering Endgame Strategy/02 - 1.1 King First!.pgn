@@ -6,7 +6,7 @@
 [Black "King first!"]
 [Result "*"]
 
- { With 'King first!' I refer to the idea of improving the king as a first priority in our position, in an almost mechanical way. In contrast, the 'Active king' theme featured in the final chapter of the book, deals with the subject in more general terms. Let's start with a very simple example. } 1. -- 
+ { With 'King first!' I refer to the idea of improving the king as a first priority in our position, in an almost mechanical way. In contrast, the 'Active king' theme featured in the final chapter of the book, deals with the subject in more general terms. Let's start with a very simple example. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -22,7 +22,7 @@
  ( { Only a very inexperienced player would consider } 1. f4 $2 { or } 1. f3 $2 { , after which a draw is inevitable. } ) 
 Kf7 2. Kf4 Kf6 3. f3 $1 { A clever waiting move. } ( { White wins after } 3. f3 Ke6 4. Kg5 ) 
  ( { or } 3. f3 Kg6 4. Ke5 { further improving the king. } ) 
--- 
+ 
  *
 
 [Event "Mastering Endgame Strategy"]

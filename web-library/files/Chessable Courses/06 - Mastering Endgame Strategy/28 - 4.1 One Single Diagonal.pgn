@@ -6,7 +6,7 @@
 [Black "One single diagonal"]
 [Result "*"]
 
- { In the endgame, a key function of the bishop is to perform several tasks on a single diagonal, or 'the principle of one diagonal' if you prefer. Here are some examples on this topic. } 1. -- 
+ { In the endgame, a key function of the bishop is to perform several tasks on a single diagonal, or 'the principle of one diagonal' if you prefer. Here are some examples on this topic. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -37,7 +37,7 @@ Kd6 $1 ( { Avoiding } 2... Kd4 $2 3. Kb4 { and White wins; e.g. } Ba7 4. Ka5 Kc5
  { In contrast, if we move the d3-pawn to f3, then this pawn can no longer be controlled by the bishop, and White wins. } 1... { -KEY- } Bb6 ( { Or } 1... Bc5 2. Kb3 { , heading for a5, with similar play. } ) 
 2. Kb4 ( { Another possible move order is } 2. f4 Kxf4 3. Kb4 { followed by c4-c5; } ( { and even } 3. c5 Bxc5 4. Kc4 { with Kd5-c6 to follow leads to the goal. } ) 
  ) 
-Kd6 3. f4 ( { Black's defences are soon overloaded; e.g. } 3. f4 Bc5 4. Ka5 Kc7 5. f5 Bd4 6. c5 Bxc5 7. f6 Bb6 8. Kb4 Kd6 9. f7 Ke7 10. Kc4 Kxf7 11. Kd5 -- { followed by } 12. Kc6 ) 
+Kd6 3. f4 ( { Black's defences are soon overloaded; e.g. } 3. f4 Bc5 4. Ka5 Kc7 5. f5 Bd4 6. c5 Bxc5 7. f6 Bb6 8. Kb4 Kd6 9. f7 Ke7 10. Kc4 Kxf7 11. Kd5  { followed by } 12. Kc6 ) 
 
  *
 
@@ -135,7 +135,7 @@ b2 4. Kc4 Ka2 { win for Black. There might follow } 5. Kd5 Bf4 6. Ke6 b1=Q $11 7
 b2 $1 ( { The move order matters: after } 2... f5 $2 3. Bxb3 $1 Kxb3 ( { or } 3... fxg4 4. Bd1 g3 5. Bf3 ) 
 4. gxf5 { White survives - Baburin. } ) 
 3. Kc2 f5 $1 { A second breakthrough which, by the way, is a key method for the attacker in endings with opposite-coloured bishops, as we already discussed in Chapter Two. } 4. gxf5 h5 { The position has changed drastically - material is even, but Black has managed to create a powerful second passed pawn, while his bishop proves excellently placed on the long diagonal, where it controls both enemy pawns and defends the b-pawn at the same time. } 5. Be6 ( { Obviously, } 5. g7 Bxg7 6. Bxh5 { fails to } Ka2 ) 
-h4 6. Kb1 Bf6 7. Bd5 h3 8. Kc2 h2 ( 8... h2 { creates the threat } 9. -- h1=Q $11 10. Bxh1 Ka2 ) 
+h4 6. Kb1 Bf6 7. Bd5 h3 8. Kc2 h2 ( 8... h2 { creates the threat }  h1=Q $11 10. Bxh1 Ka2 ) 
 9. Kb1 Kb4 { Directing the king to the h-pawn. } ( { Another good option is } 9... Bg7 10. Bb7 Kb3 { in the same spirit. } ) 
 10. Bc6 ( { If } 10. Kc2 { , then } Bg7 $1 { (zugzwang) } 11. Bg2 Ka3 12. Kb1 Kb3 { with similar play - Baburin. } ) 
 Kc3 11. Bh1 Kd2 { In view of the inevitable arrival of Black's king at g1, White resigned. } 

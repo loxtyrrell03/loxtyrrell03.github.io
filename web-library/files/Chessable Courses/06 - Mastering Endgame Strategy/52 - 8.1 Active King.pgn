@@ -6,7 +6,7 @@
 [Black "Active king"]
 [Result "*"]
 
- { Once the endgame phase is reached, the king usually leaves the role of being an object of attack behind and becomes a great attacking piece himself. Moreover, with the number of pieces being reduced, his contributions to the battle will be essential for either side. Throughout the book we have seen many examples highlighting the importance of an active king in the endgame; e.g. Kramnik-Deep Fritz, Polugaevsky-Tal, Alekhine-Euwe and Ljubojevic-Gligoric, just to name a few. Moreover, the King first! section in Chapter One showed some related ideas. Here we examine a few further examples. } 1. -- 
+ { Once the endgame phase is reached, the king usually leaves the role of being an object of attack behind and becomes a great attacking piece himself. Moreover, with the number of pieces being reduced, his contributions to the battle will be essential for either side. Throughout the book we have seen many examples highlighting the importance of an active king in the endgame; e.g. Kramnik-Deep Fritz, Polugaevsky-Tal, Alekhine-Euwe and Ljubojevic-Gligoric, just to name a few. Moreover, the King first! section in Chapter One showed some related ideas. Here we examine a few further examples. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -68,9 +68,9 @@ Kxf3 9. Kd3 Kf4 10. Nd5+ Kg4 11. Nc7 f5 12. Nxa6 f4 13. Nc7 f3 14. Nxb5 Kh3 $1 (
 2. Qxb7 ( { After } 2. fxe4 Qa7 { Black would have some counterplay against the enemy pawn centre. } ) 
 e3+ { The point: White is left with an isolated pawn on d4. } ( { Instead, after } 2... Rxb7 3. fxe4 { Black is clearly worse - Onischuk; even so, I suspect that this was the least of his evils. } ) 
 3. Kxe3 Rxb7 { In structural terms Black is fine here, but note the difference in activity between the two kings! With his following moves Onischuk exploits this factor in energetic fashion. } 4. Rc8 $1 Rb8 ( { Or } 4... Kf8 5. d5 $1 exd5 6. Bxg7 Kxg7 7. Rxe8 { with a clear advantage - Onischuk. } ) 
-5. Rxb8 Bxb8 6. d5 $1 { A key move that clears a path for the king. In the absence of rooks, Black won't be able to resist the invasion of this piece. } ( { Less was promised by } 6. Kd3 Bd6 { preparing } 7. -- Nc7 { with a barrier. } ) 
+5. Rxb8 Bxb8 6. d5 $1 { A key move that clears a path for the king. In the absence of rooks, Black won't be able to resist the invasion of this piece. } ( { Less was promised by } 6. Kd3 Bd6 { preparing }  Nc7 { with a barrier. } ) 
 e5 ( { After } 6... exd5 7. Kd4 Nc7 8. Kc5 $1 Kf8 9. Kb6 { Black's task is just as hopeless. } ) 
-7. Kd3 $1 Kf8 ( { Or } 7... Bd6 8. Kc4 Nc7 9. Ng3 $1 -- { with a crushing } 10. Ne4 { next. } ) 
+7. Kd3 $1 Kf8 ( { Or } 7... Bd6 8. Kc4 Nc7 9. Ng3 $1  { with a crushing } 10. Ne4 { next. } ) 
 8. Kc4 Ke7 9. Kb5 Bd6 10. Kc6 $1 { Restricting the enemy plan of ...Nc7 and ...Kd7, while situating the king at the 'magic' distance from the black knight. } ( 10. Kxa5 $6 Nc7 { was less technical. } ) 
 g6 ( 10... g6 { prepares to meet } 11. Ng3 { by } f5 { but now White hurries to improve his bishop instead. } ) 
 11. Bc1 $1 f5 ( { a) Just as bad is } 11... Nf6 12. Bg5 ) 

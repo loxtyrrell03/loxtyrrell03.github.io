@@ -6,7 +6,7 @@
 [Black "Easy Exercises"]
 [Result "*"]
 
- { Easy Exercises You must take your opponent into a deep dark forest where 2+2=5, and the path leading out is only wide enough for one. – Mikhail Tal } 1. -- 
+ { Easy Exercises You must take your opponent into a deep dark forest where 2+2=5, and the path leading out is only wide enough for one. – Mikhail Tal }  
  *
 
 [Event "The Woodpecker Method"]
@@ -1419,7 +1419,7 @@ Rg6 $19 { ✔ }
 
  { 112. Abram Poliak – Tigran Petrosian, Moscow 1951 } { _ } 1... d4 $1 2. Rxd4 ( 2. Qe1 d3 $19 { and the pawn supported by pieces is too strong. } ) 
 Qb6 { ✔ Or } ( 2... Qa7 $19 { But not } ) 
- ( 2... Bf6 $2 3. Rxd7 $1 Z0 { ⩱ } ) 
+ ( 2... Bf6 $2 3. Rxd7 $1  { ⩱ } ) 
  { If you chose a slower way to advance the pawn on the 1st move, such as 1... Bf6 or 1... Qa7+, you also get full points. } 
  0-1
 

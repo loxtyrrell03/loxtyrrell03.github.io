@@ -6,7 +6,7 @@
 [Black "Advanced Exercises"]
 [Result "*"]
 
- { Advanced Exercises Attackers may sometimes regret bad moves, but it is much worse to forever regret an opportunity you allowed to pass you by. – Garry Kasparov } 1. -- 
+ { Advanced Exercises Attackers may sometimes regret bad moves, but it is much worse to forever regret an opportunity you allowed to pass you by. – Garry Kasparov }  
  *
 
 [Event "The Woodpecker Method"]
@@ -269,7 +269,7 @@ Bxf2 6. Rxf2 $19 { Three pieces for a queen and a rook is a different story! (0�
 4. Nxh7 { White is a pawn up, however the bishop pair gives Black compensation for half of it after } Rc8 { (½–½, 65 moves) (.) } ) 
  { The reason it is stronger to delay the capture on a8 is: } Rc8 ( { Or } 3... Nxh7 4. Qxe7 { wins the exchange back with an extra pawn. } ) 
 4. Ng5 ( { Black cannot play } 4. Ng5 e5 { (planning ...Bf5) due to } 5. Nd5 { – a move that would not be possible after the capture on a8 . } ) 
-Bc6 { This is the only move that tries to keep the rook. Now follows: } 5. Nce4 $1 Bxe4 6. Rxc8+ Qxc8 7. Bxe4 Rb8 8. Bd4 $1 ( { White’s beautiful threat is } 8. Bd4 -- 9. Bh7 Kf8 10. Bg6 $3 { when the bishop on d4 supports the queen after } fxg6 11. Qh8 Ng8 12. Bxg7 { with a decisive attack. } ) 
+Bc6 { This is the only move that tries to keep the rook. Now follows: } 5. Nce4 $1 Bxe4 6. Rxc8+ Qxc8 7. Bxe4 Rb8 8. Bd4 $1 ( { White’s beautiful threat is } 8. Bd4  9. Bh7 Kf8 10. Bg6 $3 { when the bishop on d4 supports the queen after } fxg6 11. Qh8 Ng8 12. Bxg7 { with a decisive attack. } ) 
  { Black's best defense is: } Qc1+ 9. Kg2 Rd8 $1 10. Bh7+ Kf8 11. Bg6 Rxd4 $1 { The forced moves end after: } 12. Qh8+ Ng8 13. Nh7+ $1 Ke8 14. Qxg8+ Kd7 15. Qxf7 { Two pawns, an ongoing attack and opposite-coloured bishops give White a clear advantage. But seeing this far is neither realistic, nor woodpecking. Full points for 3 Nxh7!. } 
  *
 

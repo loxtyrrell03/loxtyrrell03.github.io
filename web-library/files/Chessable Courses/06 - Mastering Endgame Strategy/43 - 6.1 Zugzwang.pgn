@@ -6,7 +6,7 @@
 [Black "Zugzwang"]
 [Result "*"]
 
- { The importance of zugzwang in the final phase of the game can hardly be exaggerated. For example, if it wasn't for the obligation to move, endings such as king and rook vs. king would always be drawn, and concepts such as opposition would lose their sense. In the earlier chapters we saw many cases of zugzwang; e.g. Averbakh-Matanovic, Sunye-Velimirovic, Barhudarian-Rozentalis and Van Wely-Kramnik. Here are some more. } 1. -- 
+ { The importance of zugzwang in the final phase of the game can hardly be exaggerated. For example, if it wasn't for the obligation to move, endings such as king and rook vs. king would always be drawn, and concepts such as opposition would lose their sense. In the earlier chapters we saw many cases of zugzwang; e.g. Averbakh-Matanovic, Sunye-Velimirovic, Barhudarian-Rozentalis and Van Wely-Kramnik. Here are some more. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -37,7 +37,7 @@ Kg3 ( { There could have followed } 5... Kg3 6. Ke3 Kxh4 7. f4 Kg4 8. Ke4 Bg7 $1
 
  { Despite Black's active king, White has a serious advantage here thanks to her superior bishop. Pytel now starts some subtle manoeuvring with this piece, in which zugzwang plays a key role. We saw a similar endgame in Example 22 (Averbakh-Matanovic) in Chapter One. } 1. { -KEY- } Be2 Bd7 ( { On } 1... h5 { there would follow } 2. Bd3 Bf7 3. Bh7 $1 { (losing a tempo) } Be8 4. Bc2 Bf7 5. a4 $1 { with similar play as in the game. } ) 
 2. Bd1 $1 { An initial zugzwang - Black has to allow a3-a4. } Be6 ( 2... h5 { is much the same thing as the previous note. } ) 
-3. a4 $1 { A new weakness is established on b5. } Bd7 ( { After } 3... bxa4 4. Bxa4 { the a6-pawn becomes a decisive weakness; e.g. } Bf5 5. Bd1 Bd7 6. Be2 Bc8 7. h5 $1 { (zugzwang) } Kf5 8. Kd4 Bb7 9. Bf1 { (again) } Kg5 10. Ke5 { and wins - Muller, since } Kxh5 11. Kf6 -- { and } 12. Bd3 { is terminal. } ) 
+3. a4 $1 { A new weakness is established on b5. } Bd7 ( { After } 3... bxa4 4. Bxa4 { the a6-pawn becomes a decisive weakness; e.g. } Bf5 5. Bd1 Bd7 6. Be2 Bc8 7. h5 $1 { (zugzwang) } Kf5 8. Kd4 Bb7 9. Bf1 { (again) } Kg5 10. Ke5 { and wins - Muller, since } Kxh5 11. Kf6  { and } 12. Bd3 { is terminal. } ) 
 4. axb5 axb5 5. Be2 $1 { Again zugzwang, this time with the purpose of provoking ...h6-h5. } h5 6. Bf1 Bc6 7. Bd3 Be8 8. Bc2 Bf7 9. Bh7 $1 { Losing a tempo, one of the bishop's specialties in the endgame. } Be8 10. Bd3 { Another zugzwang. With the bishop tied to both b5 and g6, Black finally has to move her king. } Ke6 ( { Or } 10... d4 11. cxd4 Kd5 12. Bf1 Bd7 13. Kd3 Bf5 14. Kc3 Bd7 15. Bg2 Ke6 16. Be4 { and wins - Muller. } ) 
 11. Kd4 Kd6 12. Bf5 Bf7 13. Bh7 $1 { The idea is repeated. } Be8 ( { If } 13... Ke6 { then } 14. Kc5 Ke5 15. Bd3 $1 { - Muller. } ) 
 14. Bg8 $1 ( { a) In view of } 14. Bg8 Bc6 15. Bf7 { Black resigned. } ) 
@@ -120,7 +120,7 @@ Kh6 10. Be2 Kg6 11. Bf3 Kh6 12. Bc6 $1 ( { After } 12. Bc6 Kg6 13. Be8 Kh6 14. B
 [Result "1-0"]
 [FEN "5k2/8/5K2/8/4R2p/7P/5b2/8 w - - 0 1"]
 
- { Just like the bishop, the rook is excellent at making waiting moves, a fact highlighted when giving mate with king and rook vs. king, for instance. Here are some further examples. } 1. { -KEY- } Re2 $1 ( { Black to move loses, since } 1. -- Bg3 ( { and } 1. Re2 Kg8 { fails to } 2. Kg6 Kf8 3. Rf4 ) 
+ { Just like the bishop, the rook is excellent at making waiting moves, a fact highlighted when giving mate with king and rook vs. king, for instance. Here are some further examples. } 1. { -KEY- } Re2 $1 ( { Black to move loses, since }  Bg3 ( { and } 1. Re2 Kg8 { fails to } 2. Kg6 Kf8 3. Rf4 ) 
 2. Kg6 { leaves her without good moves. Thus White should just lose a tempo. } ) 
 Bg3 2. Re3 Bf2 3. Re4 { Mission accomplished. } Bg3 ( { Or } 3... Bc5 4. Ra4 Be7 5. Ke6 Bc5 6. Rxh4 { and wins - Baburin. } ) 
 4. Kg6 
@@ -186,7 +186,7 @@ g5 ( { Or } 2... Rd6 3. Ke3 Ra6 4. h3 { in similar fashion. } )
 [Result "*"]
 [FEN "6K1/5P2/6Q1/8/1k6/8/q7/8 w - - 0 1"]
 
- { Even the queen can make waiting moves, as in the next two examples. } 1. { -KEY- } Qc6 $1 { Zugzwang - any king move allows White to swap queens. } -- ( { As does } 1... Qb3 { and Black has no other good queen move. } ) 
+ { Even the queen can make waiting moves, as in the next two examples. } 1. { -KEY- } Qc6 $1 { Zugzwang - any king move allows White to swap queens. }  ( { As does } 1... Qb3 { and Black has no other good queen move. } ) 
 
  *
 

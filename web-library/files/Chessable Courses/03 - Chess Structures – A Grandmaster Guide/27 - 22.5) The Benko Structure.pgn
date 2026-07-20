@@ -8,7 +8,7 @@
 [FEN "4k3/4pp1p/3p2p1/2pP4/4P3/8/PP3PPP/4K3 w - - 0 1"]
 
  { The Benko Structure } ( { This structure is actually specific to the Benko variation which begins with } 0... hxg5 0. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 { After the a6-pawn drops, Black is a pawn down but has some positional advantages to compensate for it. They are: 1. White has two pawn 'islands', while Black only has one rock-solid group of six pawns. 2. Black will place his rooks on the a- and b-files, pressuring White's a- and b-pawns, preventing their advance. 3. White does not have obvious targets and may have to limit himself to passive play for a long time in order to stabilize his position. Theory regards the Benko Gambit as being somewhat inferior, and in fact, it is rarely seen at the elite level nowadays. Nevertheless, it is an excellent practical weapon to be used when one absolutely needs to win with Black. Now, a big question is: How should White play? There are two main strategies to be followed, and they are often combined: 1. White must turn his queenside pawns into a fortress, which most probably will be on b3 and a4, combined with many minor pieces surrounding and defending these pawns. 2. Advance in the centre and obtain a central break with e4-e5 or maybe f4-f5. These ideas are borrowed from the asymmetric Benoni structure from Chapter 12, and they are White's only active plan. That is, White must try one of these breaks sooner or later. If instead White attempts to trade his b-pawn for Black's c5-pawn, then White's a-pawn will hardly be enough to win, as it will be an easy target for Black's pieces. } ) 
-1. -- 
+ 
  *
 
 [Event "Chess Structures – A Grandmaster Guide"]

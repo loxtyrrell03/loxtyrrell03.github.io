@@ -6,7 +6,7 @@
 [Black "Simplification"]
 [Result "*"]
 
- { At any moment of the game, piece exchanges usually have a great impact on the battle, and I dedicated one chapter to this subject in 'Mastering Chess Strategy'. In the endgame, exchanges become an even more delicate issue, as they dictate what type of ending (pawn ending, rook ending, etc) will appear on the board. As the old saying goes, when assessing an exchange don't look too much on what leaves the board, but what stays there.Let's start with some positions where one player enjoys a material advantage. In such cases, swapping pieces is generally a good idea, especially if a pawn ending can be reached. Such a direction of play is often referred to as 'simplification'. --- } 1. -- 
+ { At any moment of the game, piece exchanges usually have a great impact on the battle, and I dedicated one chapter to this subject in 'Mastering Chess Strategy'. In the endgame, exchanges become an even more delicate issue, as they dictate what type of ending (pawn ending, rook ending, etc) will appear on the board. As the old saying goes, when assessing an exchange don't look too much on what leaves the board, but what stays there.Let's start with some positions where one player enjoys a material advantage. In such cases, swapping pieces is generally a good idea, especially if a pawn ending can be reached. Such a direction of play is often referred to as 'simplification'. --- }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -225,7 +225,7 @@ Ke5 ( { More tenacious was } 16... Kg7 { intending } 17. Qd6 Re2 18. Kf3 Rc2 { a
 [FEN "3k4/2n3p1/7p/2p5/PQ6/1B1q2PP/5PK1/8 w - - 0 1"]
 
  ( { Black has just played ...c6-c5 in order to prevent } 1. Qf8 ) 
-1. { -KEY- } Qc4 $1 ( { By means of the threat } 1. Qc4 -- 2. Qg8 -- { and } 3. Qxg7 { , Timman swaps the active enemy queen. } ) 
+1. { -KEY- } Qc4 $1 ( { By means of the threat } 1. Qc4  2. Qg8  { and } 3. Qxg7 { , Timman swaps the active enemy queen. } ) 
  ( 1. Qb8 $6 Kd7 2. Qg8 Kc6 { was less technical. } ) 
 Qxc4 2. Bxc4 Ne8 3. Kf3 Kc7 4. a5 Nd6 5. Bd5 Kb8 ( { After } 5... g5 6. Kg4 c4 7. Kh5 c3 8. Bb3 Ne4 9. Kxh6 Nxf2 10. h4 { White should also win. } ) 
 6. Kf4 Ka7 7. Ke5 Nb5 8. Bc4 Ka6 9. Kd5 ( { Another good option was } 9. Bxb5 Kxb5 10. Kd5 c4 11. a6 c3 12. a7 c2 13. a8=Q $11 c1=Q $11 14. Qb7 { etc - 'ChessBase'. } ) 

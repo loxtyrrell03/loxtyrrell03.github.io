@@ -85,7 +85,7 @@ Rhg8 24. Ng3 cxd4 25. Rg1 g5 $13
 16. { -KEY- } e5 $3 { Sacrificing a second pawn to exploit Black's lagging development. } dxe5 ( 16... Qe7 $2 { was the game, when } 17. Re1 { is most direct – rook against queen. } ) 
  ( 16... Qg7 $1 { was the best chance to survive, although Black's position is clearly not pleasant. } ) 
 17. dxe5 ( 17. Ne4 $2 Qf5 $13 { threatens both knights and } 18. Qd3 $2 exf4 $1 19. Nd6 Bxd6 20. Qxf5 fxe3 $19 { gives Black too many pieces for the queen. } ) 
-Nxe5 18. Bd4 Bf5 19. Qe1 $18 { In time before Black has castled long. } ( 19. Bxe5 $4 Bc5 $19 Z0 { would spoil things. } ) 
+Nxe5 18. Bd4 Bf5 19. Qe1 $18 { In time before Black has castled long. } ( 19. Bxe5 $4 Bc5 $19  { would spoil things. } ) 
  { 'Only the player with the initiative has the right to attack.' - William Steinitz } 
  *
 

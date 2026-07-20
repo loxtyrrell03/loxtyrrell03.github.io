@@ -291,7 +291,7 @@ Qc7 $17 { The knight is misplaced on a2, and the e4-pawn is vulnerable. }
 
 12... { -KEY- } Nb4 $1 { Threatening to exchange White's strong bishop. Capablanca's } ( 12... Bd7 { should have been met by: } 13. c3 $14 { . } ) 
 13. Be2 Ne4 $1 14. Re1 Nc3 ( 14... b6 $11 { is a way to avoid an early draw. } ) 
-15. Qd2 Ne4 $11 { Leading to a repetition. } ( 15... Nxe2 $6 16. Rxe2 Z0 { exchanges the bishop, but Black will then miss the knight that defended the kingside. White continues with c2-c3 and Nxc6 to play with knight against bishop. } ) 
+15. Qd2 Ne4 $11 { Leading to a repetition. } ( 15... Nxe2 $6 16. Rxe2  { exchanges the bishop, but Black will then miss the knight that defended the kingside. White continues with c2-c3 and Nxc6 to play with knight against bishop. } ) 
  { Chess is something more than a game. It is an intellectual diversion which has certain artistic qualities and many scientific elements. – José Raúl Capablanca } 
  *
 

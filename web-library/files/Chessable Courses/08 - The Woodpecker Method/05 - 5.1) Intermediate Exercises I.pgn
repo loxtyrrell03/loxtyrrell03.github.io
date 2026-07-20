@@ -6,7 +6,7 @@
 [Black "Intermediate Exercises"]
 [Result "*"]
 
- { Intermediate Exercises Chess is everything: art, science and sport. – Anatoly Karpov } 1. -- 
+ { Intermediate Exercises Chess is everything: art, science and sport. – Anatoly Karpov }  
  *
 
 [Event "The Woodpecker Method"]
@@ -185,7 +185,7 @@ Nxd8 4. Rxd8# { ✔ }
 
  { 235. Wilhelm Steinitz - Jean Dufresne, Liverpool 1874 If only Black had time for ...b6 and ...Kb7 - it's not going to happen. } 1. d5+ $1 Kb6 ( 1... Qxd5 2. Be4 { ✔ wins the queen } ) 
  ( { and } 1... Kxd5 { is not a nice move to play. There are many ways to stop the king from returning to 'safety', and the fastest is } 2. Qh1 Kc5 3. Be3 Bd4 4. Bxd4 { mate. } ) 
- ( 1... Kd7 { is not the direction the king wants to go. However, Black threatens to shut out White's rook with 2... Be5. Best is } 2. Re6 $1 { +- when White continues with } -- 3. f6 { or } 3. Bb5 { . } ) 
+ ( 1... Kd7 { is not the direction the king wants to go. However, Black threatens to shut out White's rook with 2... Be5. Best is } 2. Re6 $1 { +- when White continues with }  3. f6 { or } 3. Bb5 { . } ) 
 2. Be3+ ( 2. Re4 { also wins.Black's king cant go to c7 after } c5 3. Bd8 $18 { . } ) 
 c5 3. Qd8+ $1 { The only winning move. } Qc7 4. Qxg8 $18 { ✔ And White won. } ( 4. Bg5 { or } 4. Qe8 { should also win. } ) 
 
@@ -350,7 +350,7 @@ Kf6 5. Qh4+ Ke5 6. Qxd4+ ( { Or } 6. Qg3 Ke4 7. Qe3 Kf5 8. Qf4 { . } )
  { 246. City of Liverpool - Wilhelm Steinitz, corr. 1893 } { _ } 1... Rxd5 $1 ( 1... Nd4 $6 2. Be7 $1 { is a nice resource, with the point that White can take back twice on e7 with check - thus not giving Black time to capture on h5 . Black has to play } hxg6 3. fxg6 Qxe7 $1 ( { not } 3... Bxg6 $6 4. Qxg6 Rxe7 5. Nxf6 $18 ) 
  ( { or } 3... Rxe7 $6 4. Qh7 Kf8 5. Nxf6 $18 ) 
 4. Nxe7 Rxe7 { Black is not losing, but probably worse and certainly not winning this game. } ) 
-2. exd5 Nd4 3. Ne7+ ( { There is no defence against } 3. -- Nxf5 4. Rxf5 hxg6 { ✔ winning material. } ) 
+2. exd5 Nd4 3. Ne7+ ( { There is no defence against }  Nxf5 4. Rxf5 hxg6 { ✔ winning material. } ) 
 Qxe7 { ✔ It's over, which White soon accepted. } 
  0-1
 

@@ -6,7 +6,7 @@
 [Black "Introduction - Fortresses"]
 [Result "*"]
 
-1. -- { In the introduction I explained the concept of the fortress and in some chapters we have analysed positions which could be considered fortresses. But there are some more that are interesting for the theory. In the following diagrams I will show you positions that do not require much analysis, but that you should be familiar with. In some cases, a fortress is the only way to draw when certain material relations appear on the board; other situations are relatively normal, and you can head for them as a last resort. Observing the fortresses and understanding their logic is enough. Of course, if you are not convinced, you should check their soundness. If you reach an ending like these, with a material disadvantage, you can confidently head for these positions and you will find the right defensive procedure over the board. } 
+ { In the introduction I explained the concept of the fortress and in some chapters we have analysed positions which could be considered fortresses. But there are some more that are interesting for the theory. In the following diagrams I will show you positions that do not require much analysis, but that you should be familiar with. In some cases, a fortress is the only way to draw when certain material relations appear on the board; other situations are relatively normal, and you can head for them as a last resort. Observing the fortresses and understanding their logic is enough. Of course, if you are not convinced, you should check their soundness. If you reach an ending like these, with a material disadvantage, you can confidently head for these positions and you will find the right defensive procedure over the board. } 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -18,7 +18,7 @@
 [Result "*"]
 [FEN "8/8/8/4k3/3qN3/8/6B1/7K w - - 0 1"]
 
- { Karstedt, 1903. Draw. Only in the corner. } 1. -- 
+ { Karstedt, 1903. Draw. Only in the corner. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -30,7 +30,7 @@
 [Result "*"]
 [FEN "8/8/5k2/8/8/4qBB1/6K1/8 w - - 0 1"]
 
- { Lolli, 1763. Draw. Only in the corner. } 1. -- 
+ { Lolli, 1763. Draw. Only in the corner. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -42,7 +42,7 @@
 [Result "*"]
 [FEN "8/8/4nn2/4k3/8/Q4K2/8/8 w - - 0 1"]
 
- { Draw. The same black set-up is enough to draw anywhere on the board. The ending is usually drawn even if both knights are close to the edge of the board. } 1. -- 
+ { Draw. The same black set-up is enough to draw anywhere on the board. The ending is usually drawn even if both knights are close to the edge of the board. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -54,7 +54,7 @@
 [Result "*"]
 [FEN "8/8/8/6k1/2q3p1/4R3/5PK1/8 w - - 0 1"]
 
- { A rook close to the corner can set up fortresses against a queen, even if it has a pawn. The next diagrams show the most famous examples with one pawn for each player, but there can also be fortresses with more pawns on the board. } 1. -- { Draw. Not with the white king on e2. } 
+ { A rook close to the corner can set up fortresses against a queen, even if it has a pawn. The next diagrams show the most famous examples with one pawn for each player, but there can also be fortresses with more pawns on the board. }  { Draw. Not with the white king on e2. } 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -66,7 +66,7 @@
 [Result "*"]
 [FEN "8/2pk4/1r6/3P4/2K1Q3/8/8/8 w - - 0 1"]
 
- { Salvioli, 1896. Draw. Not with the black king on b7. } 1. -- 
+ { Salvioli, 1896. Draw. Not with the black king on b7. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -78,7 +78,7 @@
 [Result "*"]
 [FEN "8/8/8/6k1/3q3p/4R3/5PK1/8 w - - 0 1"]
 
- { Draw. One of the most surprising fortresses. It requires a more accurate defence than most of the others. } 1. -- 
+ { Draw. One of the most surprising fortresses. It requires a more accurate defence than most of the others. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -90,7 +90,7 @@
 [Result "*"]
 [FEN "8/k7/p7/Pr6/K1Q5/8/8/8 w - - 0 1"]
 
- { Grigoriev, 1917. Draw. Only with the white king on the rook's file. } 1. -- 
+ { Grigoriev, 1917. Draw. Only with the white king on the rook's file. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -102,7 +102,7 @@
 [Result "*"]
 [FEN "8/8/2B5/8/5kp1/8/r6P/6K1 w KQkq - 0 1"]
 
- { Apparent fortress. Black can win with a brilliant plan, discovered by Noam Elkies in 1993: first the black king goes to h4, then the white bishop must go to the a6-f1 diagonal to prevent ...Kh3, but the squares g2 and f1 are unavailable because of ...g4-g3. Next, the black rook goes to b4, controlling important squares, and the black king to f3. } 1. -- 
+ { Apparent fortress. Black can win with a brilliant plan, discovered by Noam Elkies in 1993: first the black king goes to h4, then the white bishop must go to the a6-f1 diagonal to prevent ...Kh3, but the squares g2 and f1 are unavailable because of ...g4-g3. Next, the black rook goes to b4, controlling important squares, and the black king to f3. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -114,7 +114,7 @@
 [Result "*"]
 [FEN "8/8/8/8/3k2p1/6P1/r5B1/6K1 w - - 0 1"]
 
- { Draw. The bishop must control the f3-square; the king, f2. } 1. -- 
+ { Draw. The bishop must control the f3-square; the king, f2. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -126,7 +126,7 @@
 [Result "*"]
 [FEN "k7/p4R2/P7/1K6/8/6b1/8/8 w - - 0 1"]
 
- { Draw. Stalemate themes. } 1. -- 
+ { Draw. Stalemate themes. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -138,7 +138,7 @@
 [Result "*"]
 [FEN "8/5k2/8/4r3/5p2/5B2/5PK1/8 w - - 0 1"]
 
- { Draw. The bishop must control the g4-square. } 1. -- 
+ { Draw. The bishop must control the g4-square. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -150,7 +150,7 @@
 [Result "*"]
 [FEN "8/8/8/8/5pk1/8/r4BP1/5K2 w - - 0 1"]
 
- { Draw. The bishop controls g3 and the king waits, even against ... f4-f3. } 1. -- 
+ { Draw. The bishop controls g3 and the king waits, even against ... f4-f3. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -162,7 +162,7 @@
 [Result "*"]
 [FEN "8/8/8/8/5k1p/8/r5BP/6K1 w - - 0 1"]
 
- { A false fortress. Black can force one of the pawns' advance to h3 and then win. } 1. -- 
+ { A false fortress. Black can force one of the pawns' advance to h3 and then win. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -174,7 +174,7 @@
 [Result "*"]
 [FEN "8/6pp/8/8/7P/4k1P1/r5B1/6K1 w - - 0 1"]
 
- { Draw. The bishop keeps controlling the f3-square. This fails with the white pawn on h2. } 1. -- 
+ { Draw. The bishop keeps controlling the f3-square. This fails with the white pawn on h2. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -186,7 +186,7 @@
 [Result "*"]
 [FEN "8/8/2B5/7p/6p1/4k1P1/3r3P/6K1 w - - 0 1"]
 
- { Apparent fortress. Black can win by transposing to diagram F8. } 1. -- 
+ { Apparent fortress. Black can win by transposing to diagram F8. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -198,7 +198,7 @@
 [Result "*"]
 [FEN "6k1/R7/4K1pp/6b1/6P1/7P/8/8 w - - 0 1"]
 
- { Draw. The bishop must prevent h3-h4 as well as Kf6. } 1. -- 
+ { Draw. The bishop must prevent h3-h4 as well as Kf6. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -210,7 +210,7 @@
 [Result "*"]
 [FEN "8/2B4p/6p1/8/4k1P1/1r5P/6K1/8 w - - 0 1"]
 
- { Averbakh, 1962 Draw. But not when the defending king is on the back rank. } 1. -- 
+ { Averbakh, 1962 Draw. But not when the defending king is on the back rank. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -222,7 +222,7 @@
 [Result "*"]
 [FEN "6k1/7p/5K1P/8/8/7P/6P1/8 w - - 0 1"]
 
- { Draw. A rook's pawn on the second rank works wonders. In the introduction we saw many fortresses based on the defensive strength of a rook's pawn on the second rank. There could be more pawns on the h-file. } 1. -- 
+ { Draw. A rook's pawn on the second rank works wonders. In the introduction we saw many fortresses based on the defensive strength of a rook's pawn on the second rank. There could be more pawns on the h-file. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -234,7 +234,7 @@
 [Result "*"]
 [FEN "6k1/6Pp/7P/8/3BK3/8/8/8 w - - 0 1"]
 
- { Draw, despite the overwhelming superiority of a bishop and a 7th-rank pawn. There could be more black pawns along the h7-b1 diagonal and more white pawns along h6-c1 } 1. -- 
+ { Draw, despite the overwhelming superiority of a bishop and a 7th-rank pawn. There could be more black pawns along the h7-b1 diagonal and more white pawns along h6-c1 }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -246,7 +246,7 @@
 [Result "*"]
 [FEN "8/8/8/8/8/8/7k/5K2 w - - 0 1"]
 
- { 2. Different material relations: correct resultsThe following list contains certain infrequent, but possible, material relations, and the correct result of those endings. I consider it unnecessary to study these endings deeply, but it is convenient to know what happens if they occur in one of our games. A much more complete list appears in Fundamental Chess Endings, by Muller & Lamprecht. This book can be considered a modern endgame encyclopedia and I have taken some evaluations from that list: 2 Knights vs. a Lone King. Draw. 2 Knights vs. King + Pawn. See the separate paragraph below. Queen vs. Rook. Won, but not easy in practical play. Queen vs. Bishop + Knight. Won, except in position F1. Queen vs. 2 Bishops. Won, except in position F2. Queen vs. 2 Knights. This pair of minor pieces allows a greater number of drawing positions than other pairs. See F3. Queen + Bishop vs. Queen. Usually draw. Queen + Knight vs. Queen. Usually draw. Rook + Bishop vs. Rook. Usually draw. Rook + Knight vs. Rook. Usually draw. 2 Bishops vs. Knight. Won. The evaluation of this ending changed in 1983 thanks to computer analysis. 2 Knights vs. King + Pawn. This rare ending deserves a separate paragraph. The knights can win thanks to the enemy pawn, which eliminates stalemate themes. Troitsky's Line The knights can win thanks to the enemy pawn, which eliminates stalemate themes. So, if White has two knights, the pawn must be blocked at least on the line marked in the diagram (or before) . The Troitzky Line, first described by Alexey Troitzky, is theoretically correct, but it contains two practical problems. Therefore I want to present two other lines – for their practical interest, but also because I think that this way, everything will be much easier to remember. First: In many positions the quickest win requires more than fifty moves (and thus would be a draw under the fifty-move rule) . Karsten Müller came up with another line and he called it The Second Troitzky Line, where the knights can win without the fifty-move rule coming into effect, in 99% of cases (always depending on the position of the kings and of the knight that is not blocking) . Second Troitzky Line (or Müller Line) Second: In practical play, most positions are wins with the bishop pawn blocked on the 5th rank. The only drawing resource for the defender is another stalemate pattern. Black draws by moving his king between g2 and h1. The second knight position doesn’t matter. Troitzky Line without the corner stalemate exception. } 1. -- 
+ { 2. Different material relations: correct resultsThe following list contains certain infrequent, but possible, material relations, and the correct result of those endings. I consider it unnecessary to study these endings deeply, but it is convenient to know what happens if they occur in one of our games. A much more complete list appears in Fundamental Chess Endings, by Muller & Lamprecht. This book can be considered a modern endgame encyclopedia and I have taken some evaluations from that list: 2 Knights vs. a Lone King. Draw. 2 Knights vs. King + Pawn. See the separate paragraph below. Queen vs. Rook. Won, but not easy in practical play. Queen vs. Bishop + Knight. Won, except in position F1. Queen vs. 2 Bishops. Won, except in position F2. Queen vs. 2 Knights. This pair of minor pieces allows a greater number of drawing positions than other pairs. See F3. Queen + Bishop vs. Queen. Usually draw. Queen + Knight vs. Queen. Usually draw. Rook + Bishop vs. Rook. Usually draw. Rook + Knight vs. Rook. Usually draw. 2 Bishops vs. Knight. Won. The evaluation of this ending changed in 1983 thanks to computer analysis. 2 Knights vs. King + Pawn. This rare ending deserves a separate paragraph. The knights can win thanks to the enemy pawn, which eliminates stalemate themes. Troitsky's Line The knights can win thanks to the enemy pawn, which eliminates stalemate themes. So, if White has two knights, the pawn must be blocked at least on the line marked in the diagram (or before) . The Troitzky Line, first described by Alexey Troitzky, is theoretically correct, but it contains two practical problems. Therefore I want to present two other lines – for their practical interest, but also because I think that this way, everything will be much easier to remember. First: In many positions the quickest win requires more than fifty moves (and thus would be a draw under the fifty-move rule) . Karsten Müller came up with another line and he called it The Second Troitzky Line, where the knights can win without the fifty-move rule coming into effect, in 99% of cases (always depending on the position of the kings and of the knight that is not blocking) . Second Troitzky Line (or Müller Line) Second: In practical play, most positions are wins with the bishop pawn blocked on the 5th rank. The only drawing resource for the defender is another stalemate pattern. Black draws by moving his king between g2 and h1. The second knight position doesn’t matter. Troitzky Line without the corner stalemate exception. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -257,7 +257,7 @@
 [Black "Bibliography"]
 [Result "*"]
 
- { Many a good endgame book has been written, and this bibliography does not intend to recollect all of them, but just to give the reader some advice on which works may help him complete his knowledge of theoretical endgames. Books dealing exclusively with multi-piece or multi-pawn endings or with endgame strategy are quite interesting when it comes to improve the reader’s technique, but I have not taken them into account for this selection. The same goes for exercise books on endings. These are equally useful for training and checking our knowledge, but omitted in this list. Rey Ardid Spanish Dr. Ramón Rey Ardid’s extensive endgame work occupies 5 volumes. Volumes 1 and 2 cover pawn endings (without pieces) and piece endings without pawns ­respectively, under the general title Finales de Ajedrez (Chess Endings) . The others are ­Finales de Piezas Menores (Minor-Piece Endings) , Finales de Torres (Rook Endings) and Finales de Damas (Queen Endings) . This work constitutes one of the most complete collections of theoretical and practical endings, but some of these volumes are difficult to obtain. Only those devoted to rook and minor-piece endings, published by Club de Ajedrez Editions, are relatively well available (in Spanish) . Averbakh Yuri Averbakh has also published several works on theoretical endgames, covering all types of endings. His series Comprehensive Chess Endings, available in English and Russian, constitutes another extensive collection of theoretical as well as practical endings. Nunn The English grandmaster John Nunn has undertaken the task of writing a series of books covering all ­possible positions with scarce material on the board, for which he relied on computer analysis. The first volume to appear was Secrets of Rook Endings , where Nunn studied Rook + Pawn vs. Rook endings in full detail. Later came Secrets of Pawnless Endings and Secrets of Minor-Piece Endings . The whole collection ­constitutes an excellent reference work that helps the reader solve all his problems in the endgame, though the present-day Nalimov Tablebases are able to serve the same purpose. Levenfish & Smyslov: Rook Endings (Batsford) This was the reference book for rook endings for many years, and it is still one of the most useful tools to improve our technique in these positions. Müller & Lamprecht: Secrets of Pawn Endings (Everyman) In the year 2000, Everyman Chess published the first book by these two German authors, whose depth and clarity surprised the whole chess community. Currently the best book to improve our technique in pawn endings. Müller & Lamprecht: Fundamental Chess Endings (Gambit) After Secrets of Pawn Endings, Müller & Lamprecht published a much more ambitious project with ­Gambit. This work can be considered a modern encyclopedia of the endgame, as it covers all the important themes and is based on computer analysis. Therefore, this is an essential reference book and equally useful as a study book. Dvoretsky: Dvoretsky’s Endgame Manual (Russell Enterprises) Mark Dvoretsky is the most famous chess coach in our time, who has also worked seriously on the endgame. In this great work he has collected more than one thousand examples, presenting almost all the modern theory on this phase of the game. Dvoretsky’s explanations are long and didactic, and so this book can be easily used for study or simply as a reference work. The book was published by Russell ­Enterprises, but it is not easy to find in bookshops. However, it is widely available on the Internet. Many consider Dvoretsky’s Endgame Manual the best endgame book ever published to date. Van Perlo: Van Perlo’s Endgame Tactics (New In Chess) A very special book by Dutch correspondence grandmaster Ger van Perlo, highly recommended to those who want to perfect their knowledge of the endgame phase. In this immense collection of tactical positions, every reader will face two challenges: first, to study and recognize each separate theme, and second: to know when a forced variation leads to victory in the endgame and when it does not. Benjamin: Liquidation on the Chess Board (New In Chess) A recent book by American grandmaster Joel Benjamin, which investigates in a useful and at the same time entertaining way a critical phase in the game: the moment when to take the decision to simplify into a less complicated endgame. My experience as a trainer tells me that mistakes are often made at such moments. As with the previous book, this work is helpful for training your tactical vision and constitutes a test of your theoretical knowledge. Hellsten: Mastering Endgame Strategy (Everyman) Although this book by Swedish grandmaster Johan Hellsten is a little further removed from endgame theory, it is recommended for readers who already know a reasonable amount of theory, as it presents an enormous amount of material, which introduces us to the next step of mastering and controlling the endgame. Mastering Endgame Strategy gives an overview of the most important ideas in practical endgames. } 1. -- 
+ { Many a good endgame book has been written, and this bibliography does not intend to recollect all of them, but just to give the reader some advice on which works may help him complete his knowledge of theoretical endgames. Books dealing exclusively with multi-piece or multi-pawn endings or with endgame strategy are quite interesting when it comes to improve the reader’s technique, but I have not taken them into account for this selection. The same goes for exercise books on endings. These are equally useful for training and checking our knowledge, but omitted in this list. Rey Ardid Spanish Dr. Ramón Rey Ardid’s extensive endgame work occupies 5 volumes. Volumes 1 and 2 cover pawn endings (without pieces) and piece endings without pawns ­respectively, under the general title Finales de Ajedrez (Chess Endings) . The others are ­Finales de Piezas Menores (Minor-Piece Endings) , Finales de Torres (Rook Endings) and Finales de Damas (Queen Endings) . This work constitutes one of the most complete collections of theoretical and practical endings, but some of these volumes are difficult to obtain. Only those devoted to rook and minor-piece endings, published by Club de Ajedrez Editions, are relatively well available (in Spanish) . Averbakh Yuri Averbakh has also published several works on theoretical endgames, covering all types of endings. His series Comprehensive Chess Endings, available in English and Russian, constitutes another extensive collection of theoretical as well as practical endings. Nunn The English grandmaster John Nunn has undertaken the task of writing a series of books covering all ­possible positions with scarce material on the board, for which he relied on computer analysis. The first volume to appear was Secrets of Rook Endings , where Nunn studied Rook + Pawn vs. Rook endings in full detail. Later came Secrets of Pawnless Endings and Secrets of Minor-Piece Endings . The whole collection ­constitutes an excellent reference work that helps the reader solve all his problems in the endgame, though the present-day Nalimov Tablebases are able to serve the same purpose. Levenfish & Smyslov: Rook Endings (Batsford) This was the reference book for rook endings for many years, and it is still one of the most useful tools to improve our technique in these positions. Müller & Lamprecht: Secrets of Pawn Endings (Everyman) In the year 2000, Everyman Chess published the first book by these two German authors, whose depth and clarity surprised the whole chess community. Currently the best book to improve our technique in pawn endings. Müller & Lamprecht: Fundamental Chess Endings (Gambit) After Secrets of Pawn Endings, Müller & Lamprecht published a much more ambitious project with ­Gambit. This work can be considered a modern encyclopedia of the endgame, as it covers all the important themes and is based on computer analysis. Therefore, this is an essential reference book and equally useful as a study book. Dvoretsky: Dvoretsky’s Endgame Manual (Russell Enterprises) Mark Dvoretsky is the most famous chess coach in our time, who has also worked seriously on the endgame. In this great work he has collected more than one thousand examples, presenting almost all the modern theory on this phase of the game. Dvoretsky’s explanations are long and didactic, and so this book can be easily used for study or simply as a reference work. The book was published by Russell ­Enterprises, but it is not easy to find in bookshops. However, it is widely available on the Internet. Many consider Dvoretsky’s Endgame Manual the best endgame book ever published to date. Van Perlo: Van Perlo’s Endgame Tactics (New In Chess) A very special book by Dutch correspondence grandmaster Ger van Perlo, highly recommended to those who want to perfect their knowledge of the endgame phase. In this immense collection of tactical positions, every reader will face two challenges: first, to study and recognize each separate theme, and second: to know when a forced variation leads to victory in the endgame and when it does not. Benjamin: Liquidation on the Chess Board (New In Chess) A recent book by American grandmaster Joel Benjamin, which investigates in a useful and at the same time entertaining way a critical phase in the game: the moment when to take the decision to simplify into a less complicated endgame. My experience as a trainer tells me that mistakes are often made at such moments. As with the previous book, this work is helpful for training your tactical vision and constitutes a test of your theoretical knowledge. Hellsten: Mastering Endgame Strategy (Everyman) Although this book by Swedish grandmaster Johan Hellsten is a little further removed from endgame theory, it is recommended for readers who already know a reasonable amount of theory, as it presents an enormous amount of material, which introduces us to the next step of mastering and controlling the endgame. Mastering Endgame Strategy gives an overview of the most important ideas in practical endgames. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -268,5 +268,5 @@
 [Black "Statistics"]
 [Result "*"]
 
- { Nowadays, databases make it easier to create statistics. I remember some book in my youth stating that 10% of games involved a rook ending. That seemed to me exaggerated, but actually it is not that exaggerated. I have recently read that 20%! of the games involve a rook ending but, of course, that was an ad from an endgame book, and we know how these things work. The following chart shows the number of games for each kind of ending and, in some cases, the percentage of drawn games. These statistics have been created using a database with 4 million games (of course, some are duplicated and some results are wrong, but I do not think that matters much for the general idea) . The first column refers to the material; if it is Rooks it refers to endings where each side has a rook and any number of pawns; when it says R+P vs. R it means Rook + Pawn vs. Rook. The second column shows the number of games, and the third the percentage over the whole database (4 million) . The fourth column shows the number of drawn games and the fifth the percentage of drawn games. } 1. -- { The first thing that catches our attention is the confirmation of the overwhelming frequency of rook endings. 8% of the games involve a one-rook ending! If we add double-rook endings or Rook vs. Minor Piece endings, it will surely reach the 10% mark. If you have bad rook-ending technique, you should be worried. The saying ‘All rook endings are drawn’ is not so accurate. That was probably a joke, or its validity was not checked. As could be expected, opposite-coloured bishop endings are the most drawish (58%) , but rook endings are at the same level as the rest. Pawn endings are the least drawish. Take notice! Swapping all the material is not always the safest way to draw. However, there must be some truth in the famous saying about rook endings and draws! I think there is. The feeling that all rook endings are drawn comes from the fact that in other endings, an experienced player is able to see whether the ending is drawn or not, so he just plays and if the game is drawn he already expected that. On the contrary, very often we play a rook ending thinking our advantage is enough to win, but then we fail to do so. Therefore, ‘All rook endings are drawn!’ really means that rook endings are tough and the defender can always pose problems, especially when his pieces become active. As for theoretical endings, with one or two pawns per player at most, rook endings do not justify their drawish reputation either. Will the reason be, in part, that many players ignore them? In any case, the most drawish endings, after opposite-coloured bishops endings, are Knight + Pawn vs. Bishop. This has some logic, as the knight is inferior to the bishop when the board is empty. The biggest surprises come in the section ‘Different Material Relations’, especially the astonishing 19% of Bishop + Knight vs. Lone King endings that were drawn!! (and I can tell you some of the players were grandmasters!) ; the 44% of Rook + Bishop vs. Rook endings won, despite the drawish nature of this ending, is also outstanding. I will come back later to the statistics of this section. In any case, the fact that 20% of the games lead to endgame struggles between equally strong pieces (including pawn endings, which are also, not entirely without reason, called king endings) , clearly illustrates the importance of this phase of the game and can make us suspect that many half points are lost on the way. Nevertheless, this last statement cannot be reflected in statistics, as that would require Shakespeare’s Monkeys’ analytical powers. } 
+ { Nowadays, databases make it easier to create statistics. I remember some book in my youth stating that 10% of games involved a rook ending. That seemed to me exaggerated, but actually it is not that exaggerated. I have recently read that 20%! of the games involve a rook ending but, of course, that was an ad from an endgame book, and we know how these things work. The following chart shows the number of games for each kind of ending and, in some cases, the percentage of drawn games. These statistics have been created using a database with 4 million games (of course, some are duplicated and some results are wrong, but I do not think that matters much for the general idea) . The first column refers to the material; if it is Rooks it refers to endings where each side has a rook and any number of pawns; when it says R+P vs. R it means Rook + Pawn vs. Rook. The second column shows the number of games, and the third the percentage over the whole database (4 million) . The fourth column shows the number of drawn games and the fifth the percentage of drawn games. }  { The first thing that catches our attention is the confirmation of the overwhelming frequency of rook endings. 8% of the games involve a one-rook ending! If we add double-rook endings or Rook vs. Minor Piece endings, it will surely reach the 10% mark. If you have bad rook-ending technique, you should be worried. The saying ‘All rook endings are drawn’ is not so accurate. That was probably a joke, or its validity was not checked. As could be expected, opposite-coloured bishop endings are the most drawish (58%) , but rook endings are at the same level as the rest. Pawn endings are the least drawish. Take notice! Swapping all the material is not always the safest way to draw. However, there must be some truth in the famous saying about rook endings and draws! I think there is. The feeling that all rook endings are drawn comes from the fact that in other endings, an experienced player is able to see whether the ending is drawn or not, so he just plays and if the game is drawn he already expected that. On the contrary, very often we play a rook ending thinking our advantage is enough to win, but then we fail to do so. Therefore, ‘All rook endings are drawn!’ really means that rook endings are tough and the defender can always pose problems, especially when his pieces become active. As for theoretical endings, with one or two pawns per player at most, rook endings do not justify their drawish reputation either. Will the reason be, in part, that many players ignore them? In any case, the most drawish endings, after opposite-coloured bishops endings, are Knight + Pawn vs. Bishop. This has some logic, as the knight is inferior to the bishop when the board is empty. The biggest surprises come in the section ‘Different Material Relations’, especially the astonishing 19% of Bishop + Knight vs. Lone King endings that were drawn!! (and I can tell you some of the players were grandmasters!) ; the 44% of Rook + Bishop vs. Rook endings won, despite the drawish nature of this ending, is also outstanding. I will come back later to the statistics of this section. In any case, the fact that 20% of the games lead to endgame struggles between equally strong pieces (including pawn endings, which are also, not entirely without reason, called king endings) , clearly illustrates the importance of this phase of the game and can make us suspect that many half points are lost on the way. Nevertheless, this last statement cannot be reflected in statistics, as that would require Shakespeare’s Monkeys’ analytical powers. } 
  *

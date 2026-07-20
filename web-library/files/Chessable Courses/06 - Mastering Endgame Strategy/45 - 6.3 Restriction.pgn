@@ -6,7 +6,7 @@
 [Black "Restriction"]
 [Result "*"]
 
- { Restriction is a fundamental part of chess strategy, and in my earlier works 'Mastering Opening Strategy' and 'Mastering Chess Strategy', I covered its role quite thoroughly during the two first stages of the game. The way it works in the endgame isn't much different, and basically comes down to three general ideas: 1. prevent the opponent's intentions; 2. limit specific enemy pieces; 3. limit enemy activity as a whole. The examples in this section are structured around these ideas. } 1. -- 
+ { Restriction is a fundamental part of chess strategy, and in my earlier works 'Mastering Opening Strategy' and 'Mastering Chess Strategy', I covered its role quite thoroughly during the two first stages of the game. The way it works in the endgame isn't much different, and basically comes down to three general ideas: 1. prevent the opponent's intentions; 2. limit specific enemy pieces; 3. limit enemy activity as a whole. The examples in this section are structured around these ideas. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -39,7 +39,7 @@ Rf2 ( { a) Or } 2... Rf8 3. Re2 Re8 4. Kf4 $1 )
 
  { In this theoretically drawn position, White decided to give it a last try. } 1. { -KEY- } Re8 ( { Nothing is achieved by } 1. Rxe6 Rxe6 2. f5 Kf7 3. fxe6 Kxe6 { After the text it was time for Black to ask himself a well-known question: 'What does my opponent have in mind?' } ) 
 Kf7 $1 { The threat of Rf8-f6 must be prevented. } ( { Instead, the game saw } 1... Rb6 $2 2. Rf8 $1 Kg7 3. Rf6 Ra6 4. Kg5 $1 Rb6 5. f5 { and White went on to win. } ) 
-2. Ra8 ( { Creating a new threat: } 2. Ra8 -- 3. Kg5 -- { and } 4. Ra7 ) 
+2. Ra8 ( { Creating a new threat: } 2. Ra8  3. Kg5  { and } 4. Ra7 ) 
 Rc1 $1 ( { A timely shift of angle; preparing to meet } 2... Rc1 3. Kg5 { with } Rg1 ) 
 3. Ra7+ Kg6 4. Re7 Rc6 { Black defends - Baburin; we are in fact back in the initial position. } 
  *
@@ -189,7 +189,7 @@ Kg4 ( { Or } 2... gxh4 3. Rxh5 )
 
  { Here is a similar case with reversed colours. Thanks to his active rook, which is tying both the enemy rook and king to the defence of their fellow pawns, Black is a bit better. } 1. { -KEY- } f3 $2 { A logical move to try and liberate the king, but the effect will be just the opposite after Black's strong reply. } ( { Correct was } 1. f4 { in the same spirit. } ) 
 Rg2 $1 2. Kf4 ( { After } 2. fxg4 $2 Rxg3 { White loses a pawn for nothing. } ) 
-Rf2 $1 { Completely paralysing the enemy forces. } 3. Rd3+ Ke6 4. Rc3 Rf1 { Losing a tempo in order to create a passed pawn on the next move. } 5. Re3 b5 $1 6. Rc3 bxa4 7. bxa4 c5 ( { There could have followed } 7... c5 8. Rb3 Rxf3 9. Rxf3 gxf3 10. Kxf3 c4 11. Kf4 c3 12. Ke3 Ke5 13. Kd3 c2 14. Kxc2 Kxe4 { and } 15. -- Kf3 { next - Baburin. } ) 
+Rf2 $1 { Completely paralysing the enemy forces. } 3. Rd3+ Ke6 4. Rc3 Rf1 { Losing a tempo in order to create a passed pawn on the next move. } 5. Re3 b5 $1 6. Rc3 bxa4 7. bxa4 c5 ( { There could have followed } 7... c5 8. Rb3 Rxf3 9. Rxf3 gxf3 10. Kxf3 c4 11. Kf4 c3 12. Ke3 Ke5 13. Kd3 c2 14. Kxc2 Kxe4 { and }  Kf3 { next - Baburin. } ) 
 
  0-1
 
@@ -328,7 +328,7 @@ h6 2. Rh3 $1 Kh7 3. Rd3 { Black now loses a pawn, and the rest is easy for Botvi
 [FEN "4n3/1b3k1p/p2p2p1/3Pp3/2P3P1/6PP/2BB4/6K1 w - - 0 1"]
 
  { White's bishop pair is a big asset, but if Black manages to get his knight to d7, the worst should be over for him. } 1. { -KEY- } g5 $1 { Limiting the enemy knight. } ( 1. Kf2 Nf6 2. Bb4 Ke7 { was less effective; e.g. } 3. g5 Nd7 4. h4 Nb6 5. Bd3 Bc8 $1 { preparing ...Bf5. } ) 
-Bc8 2. g4 $1 { Neither is Black allowed to activate his bishop by 2...Bf5, and he can also forget about ...Ng7-f5. } Bd7 3. Kf2 Ke7 4. Ba5 $1 { Yet another restrictive measure. Now Black practically has a piece less, due to the sorry state of the knight on e8. } Bc8 5. Ke3 Bd7 6. Bb6 Bc8 7. Ke4 Bd7 8. Bb3 Bc8 9. c5 $1 { A decisive breakthrough. } Bd7 ( { Obviously, } 9... dxc5 10. Bxc5 -- { and } 11. Kxe5 { is terminal. } ) 
+Bc8 2. g4 $1 { Neither is Black allowed to activate his bishop by 2...Bf5, and he can also forget about ...Ng7-f5. } Bd7 3. Kf2 Ke7 4. Ba5 $1 { Yet another restrictive measure. Now Black practically has a piece less, due to the sorry state of the knight on e8. } Bc8 5. Ke3 Bd7 6. Bb6 Bc8 7. Ke4 Bd7 8. Bb3 Bc8 9. c5 $1 { A decisive breakthrough. } Bd7 ( { Obviously, } 9... dxc5 10. Bxc5  { and } 11. Kxe5 { is terminal. } ) 
 10. c6 Bc8 11. Bc4 Ng7 12. Kd3 $1 Ne8 13. Kc3 { In view of Kb4-a5 and Bxa6, Black resigned. } 
  1-0
 
@@ -564,7 +564,7 @@ Rd8 ( { Or } 5... Rexe5 6. Rxe5 Rxc4 7. Rf1 { and White's kingside initiative sh
 [Result "0-1"]
 [FEN "2r2rk1/1p3ppp/2p5/P2p4/1p1P4/1P2PP2/6PP/3RR1K1 w - - 0 1"]
 
- { This would be a typical endgame in the Carlsbad structure, was it not for the curious pawn on b4. Albeit weak, exactly that pawn caused White's downfall in the game! } 1. { -KEY- } Ra1 Ra8 { This and Black's next move are forced in order to maintain the material balance. } 2. Ra4 Rfb8 3. Rea1 $6 { A natural follow-up; } ( { but with hindsight } 3. Rc1 $1 g6 $5 { might be tried; } ( { intending } 3. Rea1 -- 4. Rxb4 Rxa5 5. Rxc6 { , was a better way of preparing the capture on b4. } ) 
+ { This would be a typical endgame in the Carlsbad structure, was it not for the curious pawn on b4. Albeit weak, exactly that pawn caused White's downfall in the game! } 1. { -KEY- } Ra1 Ra8 { This and Black's next move are forced in order to maintain the material balance. } 2. Ra4 Rfb8 3. Rea1 $6 { A natural follow-up; } ( { but with hindsight } 3. Rc1 $1 g6 $5 { might be tried; } ( { intending } 3. Rea1  4. Rxb4 Rxa5 5. Rxc6 { , was a better way of preparing the capture on b4. } ) 
  ( { At this point, } 3. Rea1 b5 4. Rxb4 Ra6 5. e4 $1 { isn't fully convincing for Black; } ) 
  { e.g. } 4. Rxb4 Rxa5 5. Rxc6 Ra2 $1 { preparing ...Re8, with some activity for the pawn. } ) 
 f5 $1 { In the particular kind of position that now arises, prevention of e3-e4 will play an important role. } 4. Rxb4 $6 { Consequent, but risky. } ( { Instead, after } 4. a6 { White would have kept some initiative thanks to his sounder pawn structure. } ) 

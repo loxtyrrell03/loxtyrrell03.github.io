@@ -199,7 +199,7 @@ Nxg4 22. hxg4 $14 { The g4-pawn will offer additional support to a knight on f5,
 [FEN "r4rk1/1p2ppbp/1qbp2p1/p1n5/2P1P3/1PN1BP2/P2QB1PP/1RR3K1 b - - 0 16"]
 
 16... { -KEY- } Qb4 $5 { Blocking the b-pawn and thus preparing ...a5-a4. } ( 16... a4 $4 17. b4 $18 { would have been good for White even without winning a piece. } ) 
- ( 16... -- { If White had a free move, then } 17. a3 { would be a logical choice. } ) 
+ (  { If White had a free move, then } 17. a3 { would be a logical choice. } ) 
 17. Rc2 { White should stop ...a5-a4, and Gelfand's choice is the most popular way of doing it. } Bxc3 $5 ( 17... a4 $2 18. Nd5 { wins a pawn. } ) 
  ( { Anand played } 17... Rfc8 { , again threatening ...a5-a4. } 18. Qc1 $14 { is the right answer, preparing a2-a3. } ) 
 18. Qxc3 ( 18. Rxc3 a4 $132 ) 

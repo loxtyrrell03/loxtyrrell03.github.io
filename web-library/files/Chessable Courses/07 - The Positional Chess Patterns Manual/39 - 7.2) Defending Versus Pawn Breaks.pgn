@@ -36,7 +36,7 @@ Bd7 ( 2... Bxe4 { Capturing on e4 may have been best, but it's understandable th
 [Result "*"]
 [FEN "r2qk2r/1bp2pp1/1p1p3p/2nPp3/pnP1P3/2N1QPP1/PP2N2P/1BKR3R w kq - 0 1"]
 
- ( { Sometimes the opponent will threaten multiple pawn breaks at once. In this game, Magnus Carlsen had the White pieces against GM Bortnyk. He spots that Black has two pawn breaks ( } 1. -- a3 { and } c6 { ) and finds a way to stop both of them. } ) 
+ ( { Sometimes the opponent will threaten multiple pawn breaks at once. In this game, Magnus Carlsen had the White pieces against GM Bortnyk. He spots that Black has two pawn breaks ( }  a3 { and } c6 { ) and finds a way to stop both of them. } ) 
 1. { -KEY- } Nb5 $1 { The a3 square is now covered, while ...c6 would leave the d6 pawn too weak. } Ba6 $4 { Black tries to dislodge the knight, though this is a major blunder. } ( 1... c6 $2 2. dxc6 Bxc6 3. Nxd6 { with a winning position for White. } ) 
  ( 1... a3 $2 2. Nxa3 $18 { Black has lost a pawn without inflicting any damage to White's structure. } ) 
 2. Nec3 $2 { It's curious how focused both players were on the positional aspects of the position, as Magnus also overlooks the problem of Black's trapped knight. } ( 2. Qd2 $1 { This is the big problem that both players overlooked. All of a sudden the knight on b4 is trapped. } Bxb5 3. cxb5 $18 { White will capture on b4 next. } ) 

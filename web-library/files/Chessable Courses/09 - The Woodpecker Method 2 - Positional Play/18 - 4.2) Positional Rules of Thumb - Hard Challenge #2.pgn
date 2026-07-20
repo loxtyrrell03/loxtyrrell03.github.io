@@ -586,7 +586,7 @@ Nd5 $6 ( { The best defence was: } 20... exf3 $1 21. Bb1 Re8 $14 )
 [Result "*"]
 [FEN "2r5/p1r3kp/1p1q2p1/3pNp2/P2pn3/1P1QP1P1/2R2P1P/2R3K1 w - - 0 29"]
 
-29. { -KEY- } exd4 $14 { Black's king is weaker, and White can kick away the knight with f2-f3. } ( { To capture with the queen on d4 – and keep Black's isolated pawn – White needs to give up the c-file: } 29. Rxc7 Rxc7 30. Rxc7 Qxc7 31. Qxd4 { Black has sufficient counterplay after } Qc2 $11 Z0 { or by offering a queen exchange. This time, a dynamic factor (the c-file) is more important than a static factor (pawn structure). } ) 
+29. { -KEY- } exd4 $14 { Black's king is weaker, and White can kick away the knight with f2-f3. } ( { To capture with the queen on d4 – and keep Black's isolated pawn – White needs to give up the c-file: } 29. Rxc7 Rxc7 30. Rxc7 Qxc7 31. Qxd4 { Black has sufficient counterplay after } Qc2 $11  { or by offering a queen exchange. This time, a dynamic factor (the c-file) is more important than a static factor (pawn structure). } ) 
  { I only think well when my mind is calm. – Mikhail Botvinnik } 
  *
 

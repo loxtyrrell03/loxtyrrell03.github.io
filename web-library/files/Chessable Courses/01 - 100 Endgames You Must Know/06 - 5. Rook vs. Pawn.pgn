@@ -9,7 +9,7 @@
 
  { This is one of the most important chapters in this book, and the most important in this section about a piece fighting against a single pawn. Experience shows that rook endings are the most common ending in practice, and also the most complex, and that is why the chapter on rook endings is the longest in the book. Besides, many rook endings end up in a Rook vs. Pawn (s) ending when one of the players is forced to give up the rook for a passed pawn. On the other hand, this struggle is much more complex than Queen vs. Pawn or Knight vs. Pawn, because any complexities in those are restricted to positions where the pawn is on the 7th rank or, exceptionally, on the 6th. But in Rook vs. Pawn endings, the struggle can be complex regardless of which rank the pawn stands on. An experienced player who knows the themes and has time on the clock can calculate every single line with accuracy; however, sometimes it is not that easy. In any case, if the player is not familiar with the subtleties hidden in this ending, the task is simply impossible. Kings do not push. Just counting.In order to solve these endings, the first approximate method is counting tempi: for the attacker, the tempi needed for both rook and king to control the promotion square; for the defender, the tempi needed for the king to secure promotion and for the pawn to reach its goal. Unfortunately, this simple technique only works when no special circumstances alter the calculation, and that hardly ever happens in this ending. A typical scenario where simply counting works occurs when the kings stand at different sides of the pawn; nevertheless, great care is needed even in those cases. In the diagram position the kings will not meet, rook checks do not win tempi and there are no more special circumstances. That is why a simple count works. White needs 5 tempi to control the promotion square with both king and rook, whereas Black needs 5 tempi to promote. The conclusion is clear: if White is to move, he wins; if Black is to move, he draws. If he had the move, Black could draw by } ( 1. Kc2 c3 2. Kg5 c2 3. Rc8 Kb3 4. Kf4 Kb2 $11 { . } ) 
 1. Kg5 $1 c3 2. Kf4 c2 3. Rc8 Kb3 4. Ke3 Kb2 5. Kd2 { and White has arrived in time, as our simple counts had anticipated. Everything looks easy but, even in this position, if White changes the move order and starts } ( 1. Rc8 $2 { , Black can interfere with White’s plan and draw thanks to a brilliant move: } Kc3 $1 { We will see the virtues of this move further on. } ) 
- Z0 { In practical play, things are hardly ever that easy. In the next examples we will discover the different resources both sides have at their disposal in order to ‘interfere with the natural course of events’. } 
+  { In practical play, things are hardly ever that easy. In the next examples we will discover the different resources both sides have at their disposal in order to ‘interfere with the natural course of events’. } 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -77,7 +77,7 @@ Kd3 6. Kb3 { and the pawn is lost. Summary of interesting ideas:1 ) Pushing the 
 [Result "*"]
 [FEN "7R/8/3K4/8/2pk4/8/8/8 w - - 0 1"]
 
- { Draw, no matter who moves. Underpromotion to a knight. With the rook on h1, White wins if he has the move. } 1. -- 
+ { Draw, no matter who moves. Underpromotion to a knight. With the rook on h1, White wins if he has the move. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -89,7 +89,7 @@ Kd3 6. Kb3 { and the pawn is lost. Summary of interesting ideas:1 ) Pushing the 
 [Result "*"]
 [FEN "8/3K3R/8/2pk4/8/8/8/8 w - - 0 1"]
 
- { White to move, wins. Black to move, draw. Outflanking. The rook is best placed on the marked squares. Thus White wins even if it is Black's move. } 1. -- 
+ { White to move, wins. Black to move, draw. Outflanking. The rook is best placed on the marked squares. Thus White wins even if it is Black's move. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -101,7 +101,7 @@ Kd3 6. Kb3 { and the pawn is lost. Summary of interesting ideas:1 ) Pushing the 
 [Result "*"]
 [FEN "3K3R/8/2pk4/8/8/8/8/8 w - - 0 1"]
 
- { White wins, no matter who moves. Outflanking. } 1. -- 
+ { White wins, no matter who moves. Outflanking. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -239,7 +239,7 @@ Kc1 { Since there is no time to prepare a stalemate, obstructing the pawn is poi
 [Result "*"]
 [FEN "7R/8/8/8/8/8/pk1K4/8 w - - 0 1"]
 
- { Check these three positions in your mind as an Exercise. If we move both kings and the pawn one file to the right, the statements would not change, though some defensive moves would be different. You can check this as another interesting Exercise. } 1. -- { Draw. No matter who moves - Stalemate } 
+ { Check these three positions in your mind as an Exercise. If we move both kings and the pawn one file to the right, the statements would not change, though some defensive moves would be different. You can check this as another interesting Exercise. }  { Draw. No matter who moves - Stalemate } 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -251,7 +251,7 @@ Kc1 { Since there is no time to prepare a stalemate, obstructing the pawn is poi
 [Result "*"]
 [FEN "7R/8/8/8/8/pk1K4/8/8 w - - 0 1"]
 
- { White to move wins. Black to move draws. } 1. -- 
+ { White to move wins. Black to move draws. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -263,7 +263,7 @@ Kc1 { Since there is no time to prepare a stalemate, obstructing the pawn is poi
 [Result "*"]
 [FEN "7R/8/8/8/pk1K4/8/8/8 w - - 0 1"]
 
- { White wins, no matter who moves } 1. -- 
+ { White wins, no matter who moves }  
  *
 
 [Event "100 Endgames You Must Know"]

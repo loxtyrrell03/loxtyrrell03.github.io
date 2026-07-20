@@ -375,7 +375,7 @@ hxg2 31. Kxg2 f3 32. Kg1 Qxf1 33. Kxf1 Rd1 )
 [Result "*"]
 [FEN "r4rk1/pbpp2pp/1p2p3/n7/2PPB2q/2P2P2/P1QB2PP/4RRK1 b - - 0 15"]
 
-15... { -KEY- } Bxe4 $1 { Making sure that the bishops are exchanged. } ( 15... -- { If White was to move, then } 16. Bd3 { would be strong. } ) 
+15... { -KEY- } Bxe4 $1 { Making sure that the bishops are exchanged. } (  { If White was to move, then } 16. Bd3 { would be strong. } ) 
 16. Rxe4 { Otherwise ...Nxc4. } Qh5 $15 { The pawn on c4 is weak, and without the bishop pair, White does not have enough active play. } 
  *
 

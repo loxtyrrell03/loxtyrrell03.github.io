@@ -6,7 +6,7 @@
 [Black "Activity above material"]
 [Result "*"]
 
- { As we saw more than once in the previous section, sometimes the defender should be ready to give up material in exchange for activity, and the same goes for the stronger side. We came across several related cases earlier in the book, such as Berkes-Horvath, Karpov-Miles, Kochyev-Hansen, Safarli-Melkumyan and Moskalenko-Arencibia. Here are some more. } 1. -- 
+ { As we saw more than once in the previous section, sometimes the defender should be ready to give up material in exchange for activity, and the same goes for the stronger side. We came across several related cases earlier in the book, such as Berkes-Horvath, Karpov-Miles, Kochyev-Hansen, Safarli-Melkumyan and Moskalenko-Arencibia. Here are some more. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -52,7 +52,7 @@ a4 ( { Or } 4... Kg6 5. Ke4 Kf6 6. c7 Rc8 7. Kd5 { and the king reaches c6. } )
 [Result "1-0"]
 [FEN "3r4/6pk/2P4p/4K3/8/p5PP/2R5/8 b - - 0 6"]
 
-6... { -KEY- } Rd3 { The threat of 7.c7 and Kd6-d7 next forces Black to desperate action. } 7. c7 a2 8. Rxa2 Rc3 9. Kd6 Rd3+ 10. Kc6 Rc3+ 11. Kb7 Rb3+ 12. Ka8 Rc3 13. Ra7 $1 ( { Preparing a bridge. In view of } 13. Ra7 -- 14. Kb8 { next, Black resigned. } ) 
+6... { -KEY- } Rd3 { The threat of 7.c7 and Kd6-d7 next forces Black to desperate action. } 7. c7 a2 8. Rxa2 Rc3 9. Kd6 Rd3+ 10. Kc6 Rc3+ 11. Kb7 Rb3+ 12. Ka8 Rc3 13. Ra7 $1 ( { Preparing a bridge. In view of } 13. Ra7  14. Kb8 { next, Black resigned. } ) 
 
  1-0
 
@@ -86,7 +86,7 @@ Ke6 ( { If } 10... Rg3 { in similar fashion to the previous note, then after } 1
  { In this delicate position, White correctly opted for active means. } 1. { -KEY- } f4 $1 { Preparing h4-h5 and f4-f5 in breakthrough fashion, so that the f7-pawn can be captured without entering a rook ending. } ( { Instead, after } 1. Rf8 $6 Rxc3 2. Nxf7 Bxf7 3. Rxf7 Kg8 4. Rg7 ( { or } 4. Rd7 Rd3 5. Rxd5 Kf7 { and Black holds; } ) 
 Kf8 5. Rxg6 Rd3 { White is hardly any better - Carlsen. } ) 
  ( 1. Nc6 { heading for d8 is a different idea, when } Rxc3 2. Nd8 Rb3 $1 3. Ra8 Rb6 { just saves Black, as noticed by UltraSuperBrainPower. } ) 
-Rxc3 ( { The restrictive } 1... h5 $2 { fails to } 2. Nf3 -- { and } 3. Ng5 ) 
+Rxc3 ( { The restrictive } 1... h5 $2 { fails to } 2. Nf3  { and } 3. Ng5 ) 
 2. h5 $1 gxh5 ( { a) After } 2... g5 $2 3. f5 Bxf5 4. Nxf7 { Black is mated. } ) 
  ( { b) While } 2... Rb3 3. hxg6 fxg6 4. Re8 Rb6 5. Re7 Kg8 6. Rg7 $1 Kf8 7. Nxg6 Ke8 8. Ne5 { followed by f4-f5, also wins for White - Carlsen. } ) 
 3. Rf8 { With the inevitable threat of f4-f5. } Ra3 4. f5 Bxf5 5. Rxf7+ Kg8 6. Rg7+ Kf8 7. Rb7 Ra8 { At first sight it is far from clear how White can make progress, but Carlsen finds the key to the position. } 8. Kg3 $1 { Active king. Once the bishop is chased away from f5, the knight will gain access to either g6 or d7, and mate will be in the air. } Rd8 ( { Aronian enables an exchange sacrifice on d7 , seeing that } 8... c3 9. Kf4 c2 10. Kxf5 $1 c1=Q $11 11. Ng6 { leads to mate after } Ke8 ( { or } 11... Kg8 12. Rg7 ) 
@@ -108,7 +108,7 @@ c3 11. Rf7+ Kg8 12. Rg7+ Kf8 13. Nd7+ Rxd7 14. Rxd7 ( { In view of his desperate
  { In this delicate position, White correctly opted for active means. } 1. { -KEY- } f4 $1 { Preparing h4-h5 and f4-f5 in breakthrough fashion, so that the f7-pawn can be captured without entering a rook ending. } ( { Instead, after } 1. Rf8 $6 Rxc3 2. Nxf7 Bxf7 3. Rxf7 Kg8 4. Rg7 ( { or } 4. Rd7 Rd3 5. Rxd5 Kf7 { and Black holds; } ) 
 Kf8 5. Rxg6 Rd3 { White is hardly any better - Carlsen. } ) 
  ( 1. Nc6 { heading for d8 is a different idea, when } Rxc3 2. Nd8 Rb3 $1 3. Ra8 Rb6 { just saves Black, as noticed by UltraSuperBrainPower. } ) 
-Rxc3 ( { The restrictive } 1... h5 $2 { fails to } 2. Nf3 -- { and } 3. Ng5 ) 
+Rxc3 ( { The restrictive } 1... h5 $2 { fails to } 2. Nf3  { and } 3. Ng5 ) 
 2. h5 $1 gxh5 ( { a) After } 2... g5 $2 3. f5 Bxf5 4. Nxf7 { Black is mated. } ) 
  ( { b) While } 2... Rb3 3. hxg6 fxg6 4. Re8 Rb6 5. Re7 Kg8 6. Rg7 $1 Kf8 7. Nxg6 Ke8 8. Ne5 { followed by f4-f5, also wins for White - Carlsen. } ) 
 3. Rf8 { With the inevitable threat of f4-f5. } Ra3 4. f5 Bxf5 5. Rxf7+ Kg8 6. Rg7+ Kf8 7. Rb7 Ra8 { At first sight it is far from clear how White can make progress, but Carlsen finds the key to the position. } 8. Kg3 $1 { Active king. Once the bishop is chased away from f5, the knight will gain access to either g6 or d7, and mate will be in the air. } 
@@ -193,11 +193,11 @@ Rc8 8. Kd6 Kf8 9. Kd7 Ra8 10. Rf1+ $1 { Good technique, further displacing the e
  ) 
 2. Ne4 $1 { Petrosian exploits the moment to improve his knight and king, unworried about the loss of the h-pawn. } Rxh2 3. Kd4 Kd7 ( { Or } 3... Rxg2 4. Rc7 Kd8 5. Rxh7 { followed by Ke5, with a huge advantage - 'Bulletin'. } ) 
 4. g3 $1 ( { Avoiding } 4. g4 $6 h5 $1 5. g5 h4 { with counterplay. } ) 
-Bb4 5. Ke5 $1 { The king has found a path along f6-g7. } Rh5+ ( { Obviously, the restrictive } 5... Be7 { now fails to } 6. Rd2 -- { and 7.Kxe6 } ) 
+Bb4 5. Ke5 $1 { The king has found a path along f6-g7. } Rh5+ ( { Obviously, the restrictive } 5... Be7 { now fails to } 6. Rd2  { and 7.Kxe6 } ) 
 6. Kf6 Be7+ 7. Kg7 $1 e5 { The picture has changed completely since the initial diagram - material is equal, but White's activity is overwhelming. } 8. Rc6 $1 { Preparing Kf7 and Re6 in order to deflect the bishop from either of the crucial d6- and f6-squares. } Rh1 9. Kf7 Ra1 ( { The passive } 9... Rh5 { can be met by } 10. g4 ( 9... Ra1 9. a5 $5 { opening a new front on the queenside, is interesting as well; } ) 
 Rh4 11. Re6 Bd8 12. Rd6 { - 'Bulletin'. } ) 
 10. Re6 $1 Bd8 ( { a) Very passive; but the rook ending arising after } 10... Bc5 11. Nxc5 bxc5 12. Rxe5 Rxa4 13. Rxc5 { should also win for White, whose king remains extraordinarily placed on f7. } ) 
- ( { b) On the other hand, } 10... Bb4 { permits } 11. Nf6 Kc8 12. Rxe5 { when } Rxa4 { unfortunately runs into } 13. Re4 $1 -- { with } 14. Nd5 { next - 'Bulletin'. } ) 
+ ( { b) On the other hand, } 10... Bb4 { permits } 11. Nf6 Kc8 12. Rxe5 { when } Rxa4 { unfortunately runs into } 13. Re4 $1  { with } 14. Nd5 { next - 'Bulletin'. } ) 
 11. Rd6+ ( { The materialistic } 11. Rxe5 Rxa4 12. Kg7 { was possible too, but Petrosian prefers a different plan, based on the gradual restriction of the enemy pieces. } ) 
 Kc8 ( { If } 11... Kc7 $2 { then } 12. Ke8 { and the bishop is trapped. } ) 
 12. Ke8 $1 Bc7 13. Rc6 Rd1 { On the defensive. } ( { a) } 13... Rxa4 $2 { was impossible due to } 14. Nc3 { followed by 15 Nd5 - 'Bulletin' } ) 

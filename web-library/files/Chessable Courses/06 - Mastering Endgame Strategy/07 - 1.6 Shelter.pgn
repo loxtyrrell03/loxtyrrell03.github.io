@@ -6,7 +6,7 @@
 [Black "Shelter"]
 [Result "*"]
 
- { Sometimes in major piece endings, the stronger side manages to bring his king to a square where it can't be easily harassed by the enemy forces. Such a square, typically located in front of a pawn of either colour, is referred to as a 'shelter' in this work. Let's start with an archetypal example. } 1. -- 
+ { Sometimes in major piece endings, the stronger side manages to bring his king to a square where it can't be easily harassed by the enemy forces. Such a square, typically located in front of a pawn of either colour, is referred to as a 'shelter' in this work. Let's start with an archetypal example. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -56,7 +56,7 @@ d4 ( { On } 2... Rxh4 )
 
  { White is a pawn up, but with such a passive king it is difficult for him to aspire at anything. With his next move Granda addresses this issue. } 1. { -KEY- } g5 $1 { This advance doesn't just creates a passed pawn on the h-file, it also clears a path for the king towards the shelter on e6. } Rh1+ ( { After } 1... hxg5 2. Kxg5 Rg1 ( { or } 2... e4 3. h6 { and the h-pawn costs Black a rook } ) 
 3. Kf6 { followed by 4 Ke6, White wins at once. } ) 
- ( { Neither does } 1... Rf4 { make sense, in view of } 2. Kg3 hxg5 3. h6 Rh4 4. h7 { and the threat of } -- 5. h8=Q Rxh8 6. Ra8 { again decides. } ) 
+ ( { Neither does } 1... Rf4 { make sense, in view of } 2. Kg3 hxg5 3. h6 Rh4 4. h7 { and the threat of }  5. h8=Q Rxh8 6. Ra8 { again decides. } ) 
 2. Kg4 hxg5 ( { Or } 2... Rg1 3. Kf5 Rxg5 4. Ke6 { winning - Granda. } ) 
 3. Rh7 $1 { A key move to liberate the king from the defence of the h-pawn. } ( { The immediate } 3. Kf5 $2 { permits } Rxh5 4. Ke6 Rh6 5. Kd5 Rh1 $1 6. Kc6 ( 6. Rg7 { preparing 7 Rg6, is useless as Black can play the move ...Kd7 once the white rook leaves the seventh rank } ) 
 Rc1 7. Kd5 Rh1 $1 { neutralizing the shelter idea. } ) 

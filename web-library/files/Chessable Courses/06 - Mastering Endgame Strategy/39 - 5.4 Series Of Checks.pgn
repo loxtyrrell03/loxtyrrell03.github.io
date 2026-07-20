@@ -6,7 +6,7 @@
 [Black "Series of checks"]
 [Result "*"]
 
- { Another useful endgame idea involving the queen is a series of checks in order to bring it to a specific square or area of the board. Such action can have different functions; e.g. support a passed pawn, limit enemy counterplay, enable mate, etc. Here are a few examples. } 1. -- 
+ { Another useful endgame idea involving the queen is a series of checks in order to bring it to a specific square or area of the board. Such action can have different functions; e.g. support a passed pawn, limit enemy counterplay, enable mate, etc. Here are a few examples. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -73,7 +73,7 @@ Qf4 $1 { The king should hide on h3. } 13. Qb6 Kg3 14. Qg6+ Kh3 15. Qd3 Qe5+ 16.
  { Such endings are easier for the attacker to play than the defender, and theoretically drawn positions often end up being won anyway. } 1... { -KEY- } Qh6+ $1 { By a series of checks Ivanchuk aims at improving his queen, and only then advance the pawn. } ( { In contrast, the hasty } 1... e3 $6 { permits } 2. Qf1 Kg3 3. Qg1 { with some annoying checks. Incidentally, there is a 'merry-go-round' perpetual in queen endings, where the king is skewed by the queen wherever he moves; e.g. in this case (supposing there was one more file on the right of the board) 3.Qi1+ Kg4 4.Qi4+ Kg5 5.Qi7+ etc. } ) 
 2. Kd5 ( { a) Or } 2. Kf5 Qh3 { transposing to the game } ) 
  ( { b) While } 2. Kf7 { can be met by } Qh5 3. Ke7 Qh4 4. Kf7 e3 5. Qf1 Qf2 { and it is Black who gives check on the next move. } ) 
-Qd2+ 3. Ke5 ( { After } 3. Ke6 e3 4. Qf1 Kg3 5. Qg1 Kf4 $1 6. Qf1 Qf2 7. Qc4 Kg3 { the pawn's advance is just a question of time; e.g. } 8. Qc7 Qf4 9. Qc3 Kf2 10. Qc5 Qe4 11. Kd6 Kf1 12. Qc1 Kg2 { followed by } 13. -- e2 ) 
+Qd2+ 3. Ke5 ( { After } 3. Ke6 e3 4. Qf1 Kg3 5. Qg1 Kf4 $1 6. Qf1 Qf2 7. Qc4 Kg3 { the pawn's advance is just a question of time; e.g. } 8. Qc7 Qf4 9. Qc3 Kf2 10. Qc5 Qe4 11. Kd6 Kf1 12. Qc1 Kg2 { followed by }  e2 ) 
 Qh2+ 4. Kf5 Qh3+ 5. Kg5 e3 $1 { With the queen covering the f1- and h1-squares, the moment is right for this advance. } 6. Qf6+ Kg3 7. Qe5+ Kf2 8. Qd4 ( { After } 8. Qf4 Qf3 { there are no good checks available anymore, so Aronian instead places his hopes in the pin along the g1-a7 diagonal. } ) 
 Qf3 ( 8... Qg3 9. Kh6 Kg2 10. Qb2 Kh3 { was simpler - Ivanchuk, a plan that he soon realizes in the game anyway. } ) 
 

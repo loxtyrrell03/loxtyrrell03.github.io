@@ -6,7 +6,7 @@
 [Black "Passed pawns races"]
 [Result "*"]
 
- { One of the most intriguing endgame situations is when both sides have a passed pawn ready to 'run'. Such pawn races sometimes end up in a queen ending, but the result can also be determined earlier if one side manages to: a. promote with check; b. promote and control the opponent's queening square; or c. achieve a queen exchange (or a skewer winning the queen) after the dual promotion. Obviously, a lot of calculation is required. Let's see some examples of this topic. } 1. -- 
+ { One of the most intriguing endgame situations is when both sides have a passed pawn ready to 'run'. Such pawn races sometimes end up in a queen ending, but the result can also be determined earlier if one side manages to: a. promote with check; b. promote and control the opponent's queening square; or c. achieve a queen exchange (or a skewer winning the queen) after the dual promotion. Obviously, a lot of calculation is required. Let's see some examples of this topic. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -294,7 +294,7 @@ Kd7 8. Kxd4 Kc6 9. Kd3 Kc5 $1 10. Kc3 d5 11. cxd5 Kxd5 12. Kd3 f6 { . This line 
 [FEN "8/5pk1/2bp1q2/2p2p2/2P2P2/1NQP4/2K5/8 b - - 0 1"]
 
  { Relying on an extra pawn Lautier takes the opportunity to transpose to a pawn ending, perhaps already at this point anticipating a future race of passed pawns. } 1... { -KEY- } Ba4 $1 2. d4 { The best try. } ( { a) After } 2. Qa5 Qa1 $1 ) 
- ( { b) or } 2. Kd2 Qxc3 3. Kxc3 Bxb3 4. Kxb3 Kg6 5. Ka4 Kh5 6. Kb5 Kg4 7. Kc6 Kxf4 8. Kxd6 Ke3 { followed by } 9. -- f4 { , Black wins with less effort - Lautier. } ) 
+ ( { b) or } 2. Kd2 Qxc3 3. Kxc3 Bxb3 4. Kxb3 Kg6 5. Ka4 Kh5 6. Kb5 Kg4 7. Kc6 Kxf4 8. Kxd6 Ke3 { followed by }  f4 { , Black wins with less effort - Lautier. } ) 
 Qxd4 3. Qxd4+ cxd4 4. Kb2 Bxb3 $1 { Setting the scene for a pawn race. } ( { Less convincing is } 4... d3 $6 5. Nd2 Bc6 ( { or } 5... Kg6 6. Kc3 Bc2 7. Nf1 { , heading for e3 } ) 
 6. Kc3 Be4 7. Nf1 $1 Kg6 8. Ng3 { with a barrier. } ) 
 5. Kxb3 { This position has been used as a blindfold exercise in my classes, with Black to play and win. If you are up for a little challenge, try it out - it is about one, long line without any subvariations until the very end. } Kg6 ( { A different plan with } 5... Kf6 { also works, e.g. } 6. Kc2 Ke6 7. Kd3 ( { after } 6... Kg6 6. Kd2 d5 8. c5 Kd7 9. Kd3 Kc6 10. Kxd4 f6 $1 { the value of the extra pawn is again visible } ) 

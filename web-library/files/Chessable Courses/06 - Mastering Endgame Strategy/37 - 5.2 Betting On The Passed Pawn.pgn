@@ -6,7 +6,7 @@
 [Black "Betting on the passed pawn"]
 [Result "*"]
 
- { As we already saw in Larsen-Andersson and Bareev-Chernin (in Chapter Two), betting on the passed pawn is a key idea in queen endings, due to the excellent capacity of the queen to shepherd the pawn home. Here are some further examples. } 1. -- 
+ { As we already saw in Larsen-Andersson and Bareev-Chernin (in Chapter Two), betting on the passed pawn is a key idea in queen endings, due to the excellent capacity of the queen to shepherd the pawn home. Here are some further examples. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -18,7 +18,7 @@
 [Result "0-1"]
 [FEN "6k1/5p2/5Q1p/p2p4/4qp2/1P5P/P5PK/8 b - - 0 2"]
 
- ( { Black is a pawn up, but hanging on to it with } 1. -- h5 $6 { makes little sense in view of } 2. Qg5 { With his next move, Taimanov instead bets on his main asset, the passed d-pawn. } ) 
+ ( { Black is a pawn up, but hanging on to it with }  h5 $6 { makes little sense in view of } 2. Qg5 { With his next move, Taimanov instead bets on his main asset, the passed d-pawn. } ) 
  { -KEY- } d4 $1 2. Qxh6 Qe5 $1 { An accurate choice, in order to limit the enemy queen and enable ...f4-f3+. } ( { The immediate } 2... d3 $2 { was premature because of } 3. Qg5 { with a perpetual. } ) 
 3. Qh4 d3 $1 ( { Of course not } 3... f3 $4 4. Qg3 $1 { and White even wins. The well-calculated text-move instead aims at deflecting the enemy queen with the d-pawn so that the f-pawn can advance to the second rank. } ) 
 4. Qd8+ Kg7 5. Qxd3 f3+ 6. Kg1 ( { Unfortunately for White, } 6. g3 { runs into } Qe2 $1 { - Taimanov. } ) 
@@ -90,7 +90,7 @@ g6 $2 { Very slow. } ( { Akopian must have underestimated White's reply, otherwi
 
 6... { -KEY- } Qa1+ 7. Kh2 $1 { The g2-square should be available for the bishop once Black plays ...e5-e4. } e5 8. a5 e4 9. Bg2 g4 10. h4 $1 { Very nice, depriving Black of any checks. } Qe5 11. a6 Qd6 12. Qb7 e3 13. a7 $1 ( { Gelfand wisely avoids } 13. fxe3 $2 Nh5 { and instead prepares a mating net. } ) 
 e2 ( { In the event of } 13... exf2 { White must avoid } 14. a8=Q $2 { due to } Qd1 $1 { when the mating threat saves Black, e.g. } 15. Bf1 Qxf1 16. Qg2 Qe1 17. Qa6 Ne4 $1 { with some kind of fortress. } ) 
- ( { Instead one simple way to the win after } 13... exf2 { is } 14. Qb1 $1 { and only then } -- 15. a8=Q $11 { , as observed by FSU70. } ) 
+ ( { Instead one simple way to the win after } 13... exf2 { is } 14. Qb1 $1 { and only then }  15. a8=Q $11 { , as observed by FSU70. } ) 
 14. a8=Q e1=Q 15. Qbc8 ( { In view of } 15. Qbc8 Kh6 16. Qh8 Nh7 17. Qag8 { Black resigned. } ) 
 
  1-0

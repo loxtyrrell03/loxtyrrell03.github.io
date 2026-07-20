@@ -256,7 +256,7 @@ f6 30. exf6 Ne4 31. f7+ $1 Rxf7 32. Qd8+ Kh7 33. Bxd5 Nf2+ 34. Kg2 Qf6 35. Qxf6 
 [Result "*"]
 [FEN "r4r2/p1n1qpbk/bpnp2pp/2p1p3/3PP3/1NP1BNP1/PPQ2PBP/R2R2K1 w - - 0 16"]
 
-16. { -KEY- } d5 $1 ( 16. -- { Black was set to fight for the initiative with: } exd4 17. cxd4 Nb4 ) 
+16. { -KEY- } d5 $1 (  { Black was set to fight for the initiative with: } exd4 17. cxd4 Nb4 ) 
 Nb8 17. a4 $14 { Black's pieces are worse than normal for this structure. } 
  *
 

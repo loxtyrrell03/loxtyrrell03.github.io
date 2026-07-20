@@ -202,7 +202,7 @@ Ke6 5. Rb7 Kd6 6. Ka6 Rc1 7. b5 Ra1+ 8. Kb6 Rb1 9. Rh7 Rb2 10. Ka6 { Black resig
 
  { Find the best continuation. (3-4 moves) } 1. { -KEY- } Rf2 $1 ( { With the idea of } 2. Rc2 { in order to place the rook behind the passed pawn. } ) 
  ( { a) Instead, } 1. Rxb5 Ra6 2. c7 Rc6 ) 
- ( { b) Or } 1. Rc5 dxc5 2. c7 Rxa2 3. c8=Q $11 Ra3 4. Ke4 Rxg3 { followed by } 5. -- Rg6 { , lets Black defend himself. } ) 
+ ( { b) Or } 1. Rc5 dxc5 2. c7 Rxa2 3. c8=Q $11 Ra3 4. Ke4 Rxg3 { followed by }  Rg6 { , lets Black defend himself. } ) 
 Ra3+ ( { Or } 1... Rc4 2. Rc2 { etc. } ) 
 2. Kd4 Ra4+ 3. Kd5 Rc4 4. Kxd6 { White wins. } 
  *
@@ -502,10 +502,10 @@ Ke7 2. c5 Rc8 ( { White also wins after } 2... Rd7 3. Kc6 Ra7 4. Kb6 Ra1 5. Rd2 
 [Result "*"]
 [FEN "1K6/3k4/4R3/3PP3/8/8/8/r7 b - - 0 1"]
 
- { Find the best continuation. (4-5 moves) } 1... { -KEY- } Rb1+ $1 { A timely intermediate check to displace the enemy king before attacking his pawns. } ( { Instead, after } 1... Ra5 $2 2. Rd6 Ke7 3. Kc7 $1 -- { followed by } 4. Kb6 -- { and } 5. Rh6 { , White wins. } ) 
+ { Find the best continuation. (4-5 moves) } 1... { -KEY- } Rb1+ $1 { A timely intermediate check to displace the enemy king before attacking his pawns. } ( { Instead, after } 1... Ra5 $2 2. Rd6 Ke7 3. Kc7 $1  { followed by } 4. Kb6  { and } 5. Rh6 { , White wins. } ) 
 2. Ka7 Rb5 3. Rd6+ Kc7 $1 ( { a) Avoiding both } 3... Kc8 $2 4. e6 ) 
  ( { b) And } 3... Ke7 $2 4. Ka6 Rc5 5. Kb6 ) 
-4. Rc6+ Kd8 $1 ( { But not } 4... Kd7 $2 5. e6 $1 Ke7 6. Rc7 -- { and } 7. Rd7 { next - Panchenko. } ) 
+4. Rc6+ Kd8 $1 ( { But not } 4... Kd7 $2 5. e6 $1 Ke7 6. Rc7  { and } 7. Rd7 { next - Panchenko. } ) 
 5. Rd6+ Kc7 { Draw. } 
  *
 

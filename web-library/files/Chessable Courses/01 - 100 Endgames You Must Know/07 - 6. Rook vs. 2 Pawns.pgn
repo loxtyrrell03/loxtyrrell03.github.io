@@ -7,7 +7,7 @@
 [Result "*"]
 [FEN "8/8/P7/1P5k/8/8/7K/5r2 w - - 0 1"]
 
- { The struggle between a rook and more than one pawn is also common in practice, but there is a greater variety of scenarios. The most interesting cases arise with two connected pawns, where some positions and manoeuvres are worth knowing. In general, we may say that most players tend to overestimate the strength of the pawns, which causes them to misjudge some positions. Attacking resources are more hidden (the defence is clear: just push the pawns) , but there are many, and they are worth careful analysis. Three interesting cases can be considered in the struggle between a rook and two connected pawns: 1 Kings play no part. 2 Both kings play a part. 3 Only the defending king plays a part. Each of these cases presents some special features. There is a fourth possible case (the stronger side's king plays a part, and the other king does not) , but that is too obvious. Extreme position. Rook behind the pawnsWhen kings play no part, the rook usually captures the pawns unless they are far advanced. This is the extreme position where neither king plays a part. White wins if it is his turn, and loses if it is Black to move. There is no happy medium. Play is easy in both cases. } 1. b6 ( 1. a7 Ra1 2. b6 $18 { also brings promotion. If Black moves, this is the winning plan: 1. Transfer the rook to the rear of the more advanced pawn. 2. Attack the other pawn and capture both. That is: } 1. -- Ra1 2. Kg3 Ra5 { and wins. } ) 
+ { The struggle between a rook and more than one pawn is also common in practice, but there is a greater variety of scenarios. The most interesting cases arise with two connected pawns, where some positions and manoeuvres are worth knowing. In general, we may say that most players tend to overestimate the strength of the pawns, which causes them to misjudge some positions. Attacking resources are more hidden (the defence is clear: just push the pawns) , but there are many, and they are worth careful analysis. Three interesting cases can be considered in the struggle between a rook and two connected pawns: 1 Kings play no part. 2 Both kings play a part. 3 Only the defending king plays a part. Each of these cases presents some special features. There is a fourth possible case (the stronger side's king plays a part, and the other king does not) , but that is too obvious. Extreme position. Rook behind the pawnsWhen kings play no part, the rook usually captures the pawns unless they are far advanced. This is the extreme position where neither king plays a part. White wins if it is his turn, and loses if it is Black to move. There is no happy medium. Play is easy in both cases. } 1. b6 ( 1. a7 Ra1 2. b6 $18 { also brings promotion. If Black moves, this is the winning plan: 1. Transfer the rook to the rear of the more advanced pawn. 2. Attack the other pawn and capture both. That is: }  Ra1 2. Kg3 Ra5 { and wins. } ) 
 Rb1 2. a7 $18 { And one pawn promotes. Conclusion: Two connected pawns on the 6th rank win against a rook; the same goes for one pawn on the 7th and the other on the 5th. If the pawns are farther from promotion and the rook is at the rear of the more advanced pawn, the pawns are captured.Rook in front of the pawnsIf the rook is in front of the pawns (i.e. here on the g8-square) there are some differences to note. If the pawns start, the result is the same. However, if the rook starts, Black can stop the pawns (here, with ... Ra8) but not capture them. Then, the king race will be decisive. } 
  *
 
@@ -44,7 +44,7 @@ Rb1 2. a7 $18 { And one pawn promotes. Conclusion: Two connected pawns on the 6t
 [Result "*"]
 [FEN "8/8/8/8/8/2p5/2kpK3/7R w - - 0 1"]
 
- { White to move wins. } 1. -- 
+ { White to move wins. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -56,7 +56,7 @@ Rb1 2. a7 $18 { And one pawn promotes. Conclusion: Two connected pawns on the 6t
 [Result "*"]
 [FEN "8/8/8/8/8/1p6/1kpK4/7R w - - 0 1"]
 
- { White to move: Stalemate. Exercise: check this statement. } 1. -- 
+ { White to move: Stalemate. Exercise: check this statement. }  
  *
 
 [Event "100 Endgames You Must Know"]
@@ -68,7 +68,7 @@ Rb1 2. a7 $18 { And one pawn promotes. Conclusion: Two connected pawns on the 6t
 [Result "*"]
 [FEN "8/8/8/8/8/p7/kpK5/7R w - - 0 1"]
 
- { Stalemate. No matter who moves. } 1. -- 
+ { Stalemate. No matter who moves. }  
  *
 
 [Event "100 Endgames You Must Know"]

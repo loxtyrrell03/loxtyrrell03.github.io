@@ -281,7 +281,7 @@ g4 9. Rc6+ Kh5 10. Ne1 Bxd4 11. Nd3 Kg5 12. Rxa6 f4 13. f3 g3 { Black later won.
 [FEN "2k4r/p1n2p1p/2B1p3/6p1/1P2P3/4PP2/7P/2R3K1 w - - 0 1"]
 
  { Indicate your 1st move + short plan. } 1. { -KEY- } Ra1 $1 ( { Seeing that } 1. Rd1 $6 { is met by } Na6 $1 { heading for b8, White first provokes ...a7-a6 so as to rule out that knight manoeuvre. } ) 
-a6 ( { Now, in contrast, } 1... Kb8 $2 { runs into } 2. Rd1 -- { with } 3. Rd7 { next. } ) 
+a6 ( { Now, in contrast, } 1... Kb8 $2 { runs into } 2. Rd1  { with } 3. Rd7 { next. } ) 
 2. Rd1 Rf8 ( { Or } 2... Rd8 $2 3. Bb7 ) 
 3. Rd7 Kb8 4. e5 Ka7 $1 5. Be4 $1 Kb6 6. Kg2 { The king should join the battle. } ( { Instead, } 6. Bxh7 $2 Nd5 $1 { yields Black counterplay - Shereshevsky. } ) 
 h6 7. Kg3 f6 8. exf6 Rxf6 9. Kg4 Rf8 10. Rh7 $1 Rd8 ( { Or } 10... Rf6 11. Kh5 ) 
@@ -334,7 +334,7 @@ exd6 5. Bd5 { Black can't progress. }
  { Find the best continuation. (3-4 moves) } 1. { -KEY- } g5 $1 { An ingenious sacrifice in order to create a weakness on h6. } fxg5 ( { a) White also wins after } 1... hxg5 2. h6 ) 
  ( { b) Or } 1... Bxg5 2. Kxb6 ) 
 2. g4 $1 ( { Of course not } 2. Bf8 $2 g4 ) 
-Ke6 3. Kc6 Bd4 4. Bd6 ( { In view of } 4. Bd6 -- 5. Bc7 { next, Black resigned. } ) 
+Ke6 3. Kc6 Bd4 4. Bd6 ( { In view of } 4. Bd6  5. Bc7 { next, Black resigned. } ) 
 
  *
 

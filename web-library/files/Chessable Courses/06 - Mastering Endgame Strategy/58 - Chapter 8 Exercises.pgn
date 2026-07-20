@@ -53,7 +53,7 @@ gxh4 ( 1... Re7 { can be met by } 2. Rd1 Kc7 3. hxg5 fxg5 4. Rd4 $1 { preparing 
 [Result "*"]
 [FEN "r1b5/5k1p/2r1p1p1/ppNp4/1P1K1P2/P1P3P1/4R2P/4R3 w - - 0 1"]
 
- { Indicate your 1st move + short plan. } 1. { -KEY- } g4 $1 ( { Preparing } 1. g4 -- 2. g5 { , followed by h2-h4-h5, in order to open a new front. } ) 
+ { Indicate your 1st move + short plan. } 1. { -KEY- } g4 $1 ( { Preparing } 1. g4  2. g5 { , followed by h2-h4-h5, in order to open a new front. } ) 
  ( { a) Of course } 1. Nd3 $2 { failed to } Rc4 ) 
  ( { b) While } 1. h4 $6 { was less precise in view of } h5 ) 
 Rc7 2. g5 ( { Avoiding the rook ending arising after } 2. Nxe6 $6 Rc4 3. Kd3 Bxe6 4. Rxe6 Rxf4 ) 
@@ -463,7 +463,7 @@ Kf7 14. Rc7 Kf8 15. Kg6 Bb1 { also works. } )
 [FEN "4r3/5pk1/p2R1p2/p3rP2/6P1/2P1p3/PPK1R3/8 b - - 0 1"]
 
  { Indicate your 1st move + short plan. } 1... { -KEY- } Kh6 $1 { It is worth a pawn to activate the king. } ( { In contrast, after } 1... Re4 $6 2. Kd3 Rxg4 3. Rxe3 { Black is suffering. } ) 
-2. Rxf6+ Kg5 3. Rxf7 Kxg4 ( 3... Kxg4 { has the threat of } 4. -- Kf3 5. Kd3 Rd8 ) 
+2. Rxf6+ Kg5 3. Rxf7 Kxg4 ( 3... Kxg4 { has the threat of }  Kf3 5. Kd3 Rd8 ) 
 4. Rd7 Kf3 5. Kd3 Rxf5 6. c4 a4 7. Rd6 $1 { A waiting move. With neither side able to progress, a draw was agreed. } ( { In contrast, } 7. c5 $2 { would lose after } Ree5 $1 8. c6 Rd5 9. Kc4 Rc5 10. Kd3 Rfd5 11. Rxd5 Rxd5 12. Kc4 Rd2 { - Bronstein. } ) 
 
  *

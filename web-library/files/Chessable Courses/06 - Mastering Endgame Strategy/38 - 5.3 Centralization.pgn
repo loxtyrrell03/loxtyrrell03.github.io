@@ -6,7 +6,7 @@
 [Black "Centralization"]
 [Result "*"]
 
- { Another key idea in endgames with queens on the board is centralization. Queens, in contrast to rooks, control more squares the more centrally placed they are, and the fact that usually only one queen can occupy the centre at a time makes the latter a treasured area. We saw proof of this idea in Polugaevsky-Tal; here are some more examples. } 1. -- 
+ { Another key idea in endgames with queens on the board is centralization. Queens, in contrast to rooks, control more squares the more centrally placed they are, and the fact that usually only one queen can occupy the centre at a time makes the latter a treasured area. We saw proof of this idea in Polugaevsky-Tal; here are some more examples. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -49,7 +49,7 @@ Kc4 5. f4 Kb4 6. Ke3 Kc3 $1 7. Ke2 Kc2 { with a draw by repetition. } )
  ( { c) While } 4... Qf2 5. f4 Qf1 6. Qg2 Qd1 { also offered him drawing chances - Taimanov. } ) 
 5. Qd4+ $1 Ke6 ( { a) The king is forced to abandon the pawns, since both } 5... Kf7 6. Qf4 ) 
  ( { b) And } 5... Kg5 6. Qe5 Kh6 7. Qf4 $1 { let White swap queens. Similarly, the king can't go to the f-file next move either. } ) 
-6. Qe4+ Kd7 7. Kh4 $1 { Very nice, parrying the mate and activating the king at the same time. } Qd2 8. Qe5 $1 { Safeguarding the g3-pawn, while indirectly preparing the trade of the pawns on a2 and g6. } ( 8. Qxg6 $6 { (or 8 a4?) was less opportune due to } Qh2 { and } 9. -- Qxg3 ) 
+6. Qe4+ Kd7 7. Kh4 $1 { Very nice, parrying the mate and activating the king at the same time. } Qd2 8. Qe5 $1 { Safeguarding the g3-pawn, while indirectly preparing the trade of the pawns on a2 and g6. } ( 8. Qxg6 $6 { (or 8 a4?) was less opportune due to } Qh2 { and }  Qxg3 ) 
 Qxa2 9. Kg5 Qf2 ( { Or } 9... Qf7 10. Qf6 { - Taimanov. } ) 
 10. Qf4 Qb6 11. Qf7+ Kc8 12. Qxg6 Qd8+ ( { On } 12... Qe3 { Taimanov had planned } 13. Kxh5 Qxf3 14. Qg4 $1 { and the same situation is reached two moves later. } ) 
 13. Kxh5 Qd5+ 14. Kh4 Kb8 15. Qg5 Qd1 { The rest is easy, with the pawns shielding the king. } 16. Qf4+ Ka7 17. Qe3+ Ka6 18. g4 Qd6 19. f4 Qh6+ 20. Kg3 Kb5 21. Qd3+ Ka4 22. g5 
@@ -134,7 +134,7 @@ Qxa2 9. Kg5 Qf2 ( { Or } 9... Qf7 10. Qf6 { - Taimanov. } )
 [Result "0-1"]
 [FEN "8/2Q5/p3p3/2q2p2/8/3n1BP1/5PK1/2k5 w - - 0 9"]
 
-9. { -KEY- } Qc6 Kd2 10. Qxc5 Nxc5 11. g4 fxg4 12. Bxg4 a5 13. f4 a4 14. f5 exf5 15. Bxf5 a3 16. Bb1 Kc1 17. Ba2 Kb2 ( { In view of } 17... Kb2 17. -- Nb3 { coming next, White resigned. } ) 
+9. { -KEY- } Qc6 Kd2 10. Qxc5 Nxc5 11. g4 fxg4 12. Bxg4 a5 13. f4 a4 14. f5 exf5 15. Bxf5 a3 16. Bb1 Kc1 17. Ba2 Kb2 ( { In view of } 17... Kb2  Nb3 { coming next, White resigned. } ) 
 
  0-1
 

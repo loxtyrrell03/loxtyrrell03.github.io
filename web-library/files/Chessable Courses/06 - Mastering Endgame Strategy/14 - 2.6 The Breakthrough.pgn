@@ -6,7 +6,7 @@
 [Black "The breakthrough"]
 [Result "*"]
 
- { The breakthrough is quite a common idea in practice. By diverting an enemy pawn, usually by means of a sacrifice, we manage to create a passed pawn. Here are some examples, starting with an archetypal one. } 1. -- 
+ { The breakthrough is quite a common idea in practice. By diverting an enemy pawn, usually by means of a sacrifice, we manage to create a passed pawn. Here are some examples, starting with an archetypal one. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -37,7 +37,7 @@ gxh4 ( { Or } 1... hxg4 2. h5 f5 3. h6 Kf6 4. b6 { etc. } )
 Kb4 2. g5 $1 ( { A different move order with } 2. f6 gxf6 3. exf6 { followed by 4.g5 also does the trick, as pointed out by Ckmt98. } ) 
 exf5 ( 2... hxg5 { is met by } 3. f6 gxf6 4. h6 ) 
  ( { or } 2... Kc5 3. f6 gxf6 4. gxh6 ) 
-3. g6 $1 fxg6 4. e6 ( { White wins.Note that with the kingside pawns placed one rank below (i.e. } 1. -- { e4, f3, g3 and h4 vs. e5, f6, g6 and h5) the whole operation would have failed since Black would have queened as well; e.g. after } f3 { at this very moment. Usually in the endgame it is favourable to have pushed one's pawns as far as possible - more about this in the Space section of Chapter Six. } ) 
+3. g6 $1 fxg6 4. e6 ( { White wins.Note that with the kingside pawns placed one rank below (i.e. }  { e4, f3, g3 and h4 vs. e5, f6, g6 and h5) the whole operation would have failed since Black would have queened as well; e.g. after } f3 { at this very moment. Usually in the endgame it is favourable to have pushed one's pawns as far as possible - more about this in the Space section of Chapter Six. } ) 
 
  *
 
@@ -218,7 +218,7 @@ a3 { Unable to stop the a-pawn, White resigned. }
 
  { Smyslov found a nice path to victory, using his bishop to create a breakthrough. } 1. { -KEY- } b4 $3 axb4 ( 1... cxb4 2. Bxb6 b3 { was more tenacious, although after } 3. Kd3 b2 ( { or } 3... Kf5 4. Bd4 { followed by c4-c5; } ) 
 4. Kc2 Kf5 5. Bxa5 Kxe5 6. Kxb2 Kd6 { (obviously, both captures on f6 would fail to bishop checks) } 7. Bd8 Kc5 8. Kc3 { White keeps good winning chances thanks to his extra pawn - Smyslov. } ) 
-2. Bxc5 $1 bxc5 ( { Or } 2... b3 3. Kd3 Kf5 4. Bxb6 Kxe5 5. a5 Kd6 6. c5 Kc6 7. a6 { and Black has no defence against } -- 8. a7 Kb7 9. c6 ) 
+2. Bxc5 $1 bxc5 ( { Or } 2... b3 3. Kd3 Kf5 4. Bxb6 Kxe5 5. a5 Kd6 6. c5 Kc6 7. a6 { and Black has no defence against }  8. a7 Kb7 9. c6 ) 
 3. a5 Bxf6 $5 4. a6 $1 ( { Black's idea was } 4. exf6 $2 e5 $1 { when both sides queen after } 5. Kd3 ( { or } 5. a6 b3 6. Kd3 e4 ) 
 Kf5 $1 6. a6 e4 ) 
 b3 5. Kd3 Bxe5 6. a7 { White soon won. } 
@@ -344,7 +344,7 @@ Be5 5. Ng3 Qb3 $1 ( { After } 5... c3 6. Bf1 { , preparing Be2-d1, White might h
 
  ( { Here is a similar case with reversed colours and flanks. At first sight Black seems to have created some kind of fortress - } 0... c3 0. Bxc5 $2 Rxa5 { would just lead to the activation of his rook; } ) 
  ( { whereas } 0... c3 0. Ra1 { first is met simply by } Bd6 { However, Nakamura found a nice breakthrough idea. } ) 
-1. { -KEY- } g5 $1 hxg5 ( { Practically forced, in view of the threat } 1... -- 2. gxh6 gxh6 3. Rg1 ) 
+1. { -KEY- } g5 $1 hxg5 ( { Practically forced, in view of the threat }  2. gxh6 gxh6 3. Rg1 ) 
 2. h6 ( { A different move order with } 2. Rxe5 fxe5 3. h6 { also works, as noticed by Neilthesculptor. } ) 
 gxh6 3. Rxe5 $1 fxe5 4. f6 { It transpires that the passed pawn is perfectly assisted by the bishops. } Bd7 5. f7+ Ke7 6. Bxd7 Kxd7 ( { After } 6... Kxf7 7. Bf5 Kf6 8. Be4 Rb8 9. Bxc5 h5 10. Kg3 { White should also win - Baburin. } ) 
 7. Bxc5 h5 8. f8=Q Rxf8+ 9. Bxf8 { White soon capitalized on his material advantage. } 

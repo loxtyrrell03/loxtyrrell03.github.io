@@ -1340,7 +1340,7 @@ Nxd3 3. Qg5 Kh8 4. Bf6 { ✔ } )
 
  { 819. Gerald Hertneck – Alexander Khalifman, Germany 1992 } { _ } 1... { -KEY- } Nxg2 $1 ( 1... Bxh3 $2 2. gxh3 Qg5 3. Qg4 ) 
 2. Kxg2 Bxh3+ 3. Kg3 ( 3. Kg1 Qg5 4. Kh2 Qg2 { ✔ } ) 
-Re6 ( { Threatening } 3... Re6 3. -- Qg5 5. Kxh3 Rh6 { mating. Black’s attack is winning (0–1, 56 moves) (.) } ) 
+Re6 ( { Threatening } 3... Re6  Qg5 5. Kxh3 Rh6 { mating. Black’s attack is winning (0–1, 56 moves) (.) } ) 
  { Opening the files will soon decide the game after: } 4. f4 $19 g5 
  0-1
 
@@ -1401,7 +1401,7 @@ Kxb7 3. Rxc7+ $1 Kxc7 4. Qxa7+ Kc8 5. d6 { ✔ Mating next move. }
 
  { 823. Dirk Fehmer – Alexander Khalifman, Eupen 1994 } { _ } 1... Bh3 $1 { The fork on f3 decides. } 2. Qc2 ( 2. gxh3 Nf3+ { or } 2. gxh3 Qg5 { ✔ } ( 2. Nf4 Bxg2 $1 3. Nxg2 Nf3+ { ✔ } ) 
  ) 
-Bxg2 $19 ( 2... Qg5 Z0 { works as well. } ) 
+Bxg2 $19 ( 2... Qg5  { works as well. } ) 
  { ✔ (0–1, 27 moves) } 
  0-1
 
@@ -2036,7 +2036,7 @@ Rb3 3. Qc2 Rxd3 ( 3... Nxd3 $2 4. Qxb3 Nxe1 5. Qd1 $14 )
 [FEN "4r1k1/p2qbp1p/1p2p1pB/4r3/4N3/P4Q1P/1P3PP1/4R1K1 w - - 0 1"]
 
  { 865. Julen Arizmendi Martinez – Viswanathan Anand, Villarrobledo (rapid) 1998 } { _ } 1. { -KEY- } Rd1 { ✔ } ( 1. Nf6 $2 Bxf6 2. Qxf6 Rxe1 3. Kh2 Qd6 4. f4 Qf8 $1 5. Bxf8 Rxf8 { (0–1, 40 moves) } ) 
- { When } Qc8 2. Nf6+ Kh8 3. Nxe8 Qxe8 { Gives White more than enough compensation for the pawn. Especially after } 4. Qc3 f6 5. Qc7 $16 ( { With a double threat } 5. Qc7 -- 6. Rd7 { and } 6. Qxa7 { . } ) 
+ { When } Qc8 2. Nf6+ Kh8 3. Nxe8 Qxe8 { Gives White more than enough compensation for the pawn. Especially after } 4. Qc3 f6 5. Qc7 $16 ( { With a double threat } 5. Qc7  6. Rd7 { and } 6. Qxa7 { . } ) 
 
  *
 

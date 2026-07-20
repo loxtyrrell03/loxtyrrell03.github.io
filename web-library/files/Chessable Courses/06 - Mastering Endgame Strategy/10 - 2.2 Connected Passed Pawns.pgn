@@ -6,7 +6,7 @@
 [Black "Connected passed pawns"]
 [Result "*"]
 
- { A pair of connected passed pawns is normally a huge asset in any endgame. In the next position, White wins by mechanically moving his kingside pieces forward step by step. } 1. -- 
+ { A pair of connected passed pawns is normally a huge asset in any endgame. In the next position, White wins by mechanically moving his kingside pieces forward step by step. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -171,7 +171,7 @@ Bxb2 5. d7 ( { The alternative } 5. c7 { also works, provided that after } Bxc1 
 [FEN "8/R1p2rpp/2p1p3/2P1P1k1/3P4/4PK2/6P1/8 w - - 0 1"]
 
  ( { In this rook ending my opponent has just played } . d7 Kf5-g5 { , and now if } 1. Kg3 { then after } Kf5 { , heading for e4, it is not clear how White can make progress. After a while I found a better idea, based on a sacrifice to obtain the connected passed pawns. } ) 
-1. { -KEY- } Ke4 $1 Kg4 { Now the plan of ...Kg3xg2 and ...h7-h5-h4 seems rather dangerous for White, but in fact I have everything under control. } 2. Ra6 Kg3 ( { What then if Black tries } 2... h5 3. Rxc6 Re7 { instead, so as to keep his king a step closer to the enemy pawns? Well, White could proceed as in the game, sacrificing his rook on e6; though after } 4. Rxe6 ( { however, a smoother win can be achieved by applying our main theme in a different way: } 3... Kg3 3. Rd6 $1 cxd6 ( { (otherwise } 4... Kg3 4. c6 -- 6. Rd7 { decides) } ) 
+1. { -KEY- } Ke4 $1 Kg4 { Now the plan of ...Kg3xg2 and ...h7-h5-h4 seems rather dangerous for White, but in fact I have everything under control. } 2. Ra6 Kg3 ( { What then if Black tries } 2... h5 3. Rxc6 Re7 { instead, so as to keep his king a step closer to the enemy pawns? Well, White could proceed as in the game, sacrificing his rook on e6; though after } 4. Rxe6 ( { however, a smoother win can be achieved by applying our main theme in a different way: } 3... Kg3 3. Rd6 $1 cxd6 ( { (otherwise } 4... Kg3 4. c6  6. Rd7 { decides) } ) 
 5. exd6 Rd7 6. Ke5 { and one of the pawns promotes } ) 
 Rxe6 5. d5 Re8 6. d6 cxd6 7. cxd6 Kg5 { he would have to find } 8. Kd5 Rd8 9. e4 $1 { followed by 10 e6 and a check on e5 if needed; } ( { whereas the natural } 8... Kg3 8. e6 $2 { only draws after } Ra8 $1 { (to the edge) } 10. d7 Kf6 11. Kd6 Ra6 12. Kc7 Ra8 { etc. } ) 
  ) 

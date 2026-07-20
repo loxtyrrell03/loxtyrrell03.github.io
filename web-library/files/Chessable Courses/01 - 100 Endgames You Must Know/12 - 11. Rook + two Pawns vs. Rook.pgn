@@ -49,7 +49,7 @@ Kh8 7. f7 Rxf7 $1 { and draw. } )
 Re1+ 4. Kd6 ( 4. Kd7 $2 Kf7 { allows Black to hold. } ) 
 Rd1+ 5. Ke7 Re1+ 6. Kd8 Rd1+ { If Black stops delivering checks to attack the bishop's pawn, the rook's pawn plays a decisive role } ( 6... Rf1 7. h7 $1 Kh8 8. Rb8 $1 Kxh7 9. Ke7 Re1 10. Kf8 { As we saw in Ending 58, when the stronger side's king has reached the 8th rank there is no way to stop the pawn. } ) 
 7. Ke8 Re1+ 8. Re7 Rf1 9. f7+ Kh8 10. Re6 $18 { Followed by f7-f8. It would be wrong to play } ( 10. f8=Q Rxf8 11. Kxf8 { and stalemate again. } ) 
- Z0 { Once we know that the ending is easily won when both pawns have reached the 6th rank, let us see what the defending side can do to avoid this situation. We will seek help in Levenfish and Smyslov's work. } 
+  { Once we know that the ending is easily won when both pawns have reached the 6th rank, let us see what the defending side can do to avoid this situation. We will seek help in Levenfish and Smyslov's work. } 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -82,7 +82,7 @@ Re2 ( 4... Ra5 5. Kf4 Ra4 6. Kg5 Ra5 7. Kg6 )
 [Result "*"]
 [FEN "6k1/1R6/5P1P/6K1/8/8/8/r7 b - - 0 1"]
 
-1... -- { White wins, no matter who moves - see Ending 71. } 
+ { White wins, no matter who moves - see Ending 71. } 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -94,7 +94,7 @@ Re2 ( 4... Ra5 5. Kf4 Ra4 6. Kg5 Ra5 7. Kg6 )
 [Result "*"]
 [FEN "6k1/1R6/5P2/6KP/8/8/8/r7 b - - 0 1"]
 
-1... -- { White to move wins. Black to move draws. } 
+ { White to move wins. Black to move draws. } 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -106,7 +106,7 @@ Re2 ( 4... Ra5 5. Kf4 Ra4 6. Kg5 Ra5 7. Kg6 )
 [Result "*"]
 [FEN "6k1/1R6/5P2/6K1/7P/8/8/r7 b - - 0 1"]
 
-1... -- { Draw, no matter who moves. If you check the winning method studied for the first position and the variation commented on the 6th move, you will become convinced that the second and the third are a draw. If the h-pawn is less advanced, it is also a draw. Conclusion: The bishop’s pawn must not reach the 6th rank before the rook’s pawn has done so. } 
+ { Draw, no matter who moves. If you check the winning method studied for the first position and the variation commented on the 6th move, you will become convinced that the second and the third are a draw. If the h-pawn is less advanced, it is also a draw. Conclusion: The bishop’s pawn must not reach the 6th rank before the rook’s pawn has done so. } 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -118,7 +118,7 @@ Re2 ( 4... Ra5 5. Kf4 Ra4 6. Kg5 Ra5 7. Kg6 )
 [Result "*"]
 [FEN "6k1/1R6/7P/5PK1/8/8/8/r7 b - - 0 1"]
 
-1... -- { White wins. Analysed in Ending 72. } 
+ { White wins. Analysed in Ending 72. } 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -130,7 +130,7 @@ Re2 ( 4... Ra5 5. Kf4 Ra4 6. Kg5 Ra5 7. Kg6 )
 [Result "*"]
 [FEN "6k1/1R6/8/5PKP/8/8/8/r7 b - - 0 1"]
 
-1... -- { White wins. Same procedure. } 
+ { White wins. Same procedure. } 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -142,7 +142,7 @@ Re2 ( 4... Ra5 5. Kf4 Ra4 6. Kg5 Ra5 7. Kg6 )
 [Result "*"]
 [FEN "6k1/1R6/8/5PK1/8/8/7P/r7 b - - 0 1"]
 
-1... -- { White wins. Same procedure. Here the interesting point is that classical defensive procedures fail: 1 Philidor Defence: if Black just waits, White pushes his h-pawn to the 6th rank and then does the same with the f-pawn. 2 K&H Defence presents the same problem. 3 An attack on the h-pawn fails because there is no time to capture it and then go to the long side to deliver distant effective checks. We can draw an interesting conclusion from all this: Conclusion: When the defending king is cut off on the back rank, a bishop’s pawn on the 5th rank is the best winning asset. } 
+ { White wins. Same procedure. Here the interesting point is that classical defensive procedures fail: 1 Philidor Defence: if Black just waits, White pushes his h-pawn to the 6th rank and then does the same with the f-pawn. 2 K&H Defence presents the same problem. 3 An attack on the h-pawn fails because there is no time to capture it and then go to the long side to deliver distant effective checks. We can draw an interesting conclusion from all this: Conclusion: When the defending king is cut off on the back rank, a bishop’s pawn on the 5th rank is the best winning asset. } 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -155,7 +155,7 @@ Re2 ( 4... Ra5 5. Kf4 Ra4 6. Kg5 Ra5 7. Kg6 )
 [FEN "6k1/1R6/7P/6K1/5P2/8/8/r7 b - - 0 -1"]
 
  { Bishop's Pawn On The 4th Rank White to move wins. Black to move draws. When the bishop's pawn is on the 4th rank, the position of the rook makes a difference. The first diagram is very interesting. As we will see in the next example, this position may arise after a normal sequence of play. } ( { Black draws by means of a simple procedure: the rook alternates checks and attacks on the h-pawn: } 1... Rg1 2. Kf6 Rh1 ) 
--- 
+ 
  *
 
 [Event "100 Endgames You Must Know"]
@@ -168,7 +168,7 @@ Re2 ( 4... Ra5 5. Kf4 Ra4 6. Kg5 Ra5 7. Kg6 )
 [FEN "6k1/1R6/8/6KP/5P2/8/8/r7 b - - 0 -1"]
 
  { White wins } ( { This resource - } 1... Rg1 2. Kf6 Rh1 { - does not work with the h-pawn on the 4th or 5th rank, because White can play } 3. f5 { or 3. h5, ignoring the threat to his h-pawn. } ) 
- { If the h-pawn has not reached the 4th rank, the defence works again. } -- 
+ { If the h-pawn has not reached the 4th rank, the defence works again. }  
  *
 
 [Event "100 Endgames You Must Know"]

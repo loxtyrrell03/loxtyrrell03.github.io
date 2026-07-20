@@ -6,7 +6,7 @@
 [Black "Opposition"]
 [Result "*"]
 
- { Opposition tends to be one of the first methods taught within pawn endings, and it is highly relevant to dominate it in practice. Let's start with a few simple examples. } 1. -- 
+ { Opposition tends to be one of the first methods taught within pawn endings, and it is highly relevant to dominate it in practice. Let's start with a few simple examples. }  
  *
 
 [Event "Mastering Endgame Strategy"]
@@ -55,7 +55,7 @@ Kc6 { Draw. By now, we should outline some of the ideas used by both sides in th
 [Result "*"]
 [FEN "8/8/8/4p1p1/8/5P2/6K1/3k4 w - - 0 1"]
 
- ( { By now we should outline some of the ideas used by both sides in these two examples: direct opposition - e.g. } 0... Kc6 0. -- { Kc6 vs. Kc4 , diagonal opposition - } 1. -- { Kc7 vs. Ke5 , distant opposition - } 1. -- { Kd7 vs. Kd3 - and corresponding squares - d4-d6, e4-e6, c3-c7- e3-e7, and c4-c6. The last term is a favourite of theoretical works and it is good to dominate it in practical play too - it tells us where to put our king when its counterpart is placed on a specific square. If there is no such square, then we are probably lost! A final thing to be extracted from these examples is the waiting move (e.g. a4-a5 in the previous example) , an idea that we will study more thoroughly later on in the book. The following example is a study but its content is relevant in practice as well. White is a pawn down, and only accurate play with the king will let him save half a point. } ) 
+ ( { By now we should outline some of the ideas used by both sides in these two examples: direct opposition - e.g. } 0... Kc6  { Kc6 vs. Kc4 , diagonal opposition - }  { Kc7 vs. Ke5 , distant opposition - }  { Kd7 vs. Kd3 - and corresponding squares - d4-d6, e4-e6, c3-c7- e3-e7, and c4-c6. The last term is a favourite of theoretical works and it is good to dominate it in practical play too - it tells us where to put our king when its counterpart is placed on a specific square. If there is no such square, then we are probably lost! A final thing to be extracted from these examples is the waiting move (e.g. a4-a5 in the previous example) , an idea that we will study more thoroughly later on in the book. The following example is a study but its content is relevant in practice as well. White is a pawn down, and only accurate play with the king will let him save half a point. } ) 
 1. { -KEY- } Kh1 $1 { Distant opposition. } ( { The natural } 1. Kf1 $2 { loses after } Kd2 2. Kg2 ( 2. Kf2 { when both } Kd3 ( { and } 2. Kh1 g4 { win for Black. } ) 
  ) 
 Ke2 3. Kg3 Kf1 { (a king's raid - more about that later in this chapter) } 4. Kg4 Kf2 { and wins. } ) 
@@ -194,7 +194,7 @@ Kg4 ( { Or } 3... Kg6 4. Kf4 { with an elementary win. } )
 3. Kc3 $1 { Heading for d4 in order to enter with the king. Here Black resigned. Let's see a possible continuation indicated by Averbakh: } Kc5 4. Bf1 Bb7 ( { Obviously, } 4... Kd6 { or } Kc6 { runs into } 5. Kd4 ) 
 5. Be2 $1 { White should lose a tempo with his bishop so that it reaches d3 just when its black counterpart is on c8. } Bc8 6. Bd3 { Zugzwang; Black has run out of bishop moves. } d4+ { Black tries to obstruct the enemy king by a pawn sacrifice. } ( { After } 6... Kc6 7. Kd4 Kd6 8. Be2 Bb7 9. Bf1 $1 { (9.Bxh5 first is also possible) } Bc8 10. Bd3 { White gains the opposition, which means that his king will enter either on c5 or e5, with decisive effect. } ) 
  ( { On } 6... h6 { (here or later) White simply repeats the previous bishop manoeuvre: } 7. Be2 Bb7 8. Bf1 $1 Bc8 9. Bd3 { with the same scenario. } ) 
-7. exd4+ Kd5 8. Bc4+ Kd6 ( { Or } 8... Ke4 9. d5 h4 10. gxh4 Kxf4 11. Kd4 $1 -- { followed by } 12. d6 { , and the black king proves fatally obstructed. } ) 
+7. exd4+ Kd5 8. Bc4+ Kd6 ( { Or } 8... Ke4 9. d5 h4 10. gxh4 Kxf4 11. Kd4 $1  { followed by } 12. d6 { , and the black king proves fatally obstructed. } ) 
 9. d5 ( { A slower plan with } 9. Be2 { was also possible, as noticed by Alejandro Botta. White takes the h5-pawn, then places the bishop on the long diagonal, followed by Kc3-c4 and d4-d5. After that, the king goes to d4 and the bishop to d3, with a decisive zugzwang. For instance, } Bb7 10. Bxh5 Bc6 11. Be2 Bb7 12. Bf1 Bc8 13. Bg2 h6 14. Kc4 Bd7 15. d5 Bb5 16. Kd4 Bd7 17. Bf1 Bc8 18. Bd3 { (zugzwang) } Bb7 19. Bxf5 Bxd5 20. Bc8 { , etc. } ) 
 Kc5 { How to make progress? } 10. d6 $1 { An ingenious sacrifice in order to enter with the king. } Kxd6 11. Kd4 { Opposition. As we already know, there is a way to put an end to Black's bishop moves, so he is lost. } Bb7 12. Bf1 $1 Bc8 13. Bd3 { White soon wins; } ( { e.g. } 13. Bd3 Ke6 14. Kc5 { or } Kc6 14. Ke5 ) 
 
@@ -227,7 +227,7 @@ Kc5 { How to make progress? } 10. d6 $1 { An ingenious sacrifice in order to ent
 
 6... { -KEY- } d4+ { Black tries to obstruct the enemy king by a pawn sacrifice. } ( { After } 6... Kc6 7. Kd4 Kd6 8. Be2 Bb7 9. Bf1 $1 Bc8 10. Bd3 { White gains the opposition, which means that his king will enter either on c5 or e5, with decisive effect. } ) 
  ( { On } 6... h6 { (here or later) White simply repeats the previous bishop manoeuvre: } 7. Be2 Bb7 8. Bf1 $1 Bc8 9. Bd3 { with the same scenario. } ) 
-7. exd4+ Kd5 8. Bc4+ Kd6 ( { Or } 8... Ke4 9. d5 h4 10. gxh4 Kxf4 11. Kd4 $1 -- { followed by } 12. d6 { , and the black king proves fatally obstructed. } ) 
+7. exd4+ Kd5 8. Bc4+ Kd6 ( { Or } 8... Ke4 9. d5 h4 10. gxh4 Kxf4 11. Kd4 $1  { followed by } 12. d6 { , and the black king proves fatally obstructed. } ) 
 9. d5 ( { A slower plan with } 9. Be2 { was also possible, as noticed by Alejandro Botta. White takes the h5-pawn, then places the bishop on the long diagonal, followed by Kc3-c4 and d4-d5. After that, the king goes to d4 and the bishop to d3, with a decisive zugzwang. For instance, } Bb7 10. Bxh5 Bc6 11. Be2 Bb7 12. Bf1 Bc8 13. Bg2 h6 14. Kc4 Bd7 15. d5 Bb5 16. Kd4 Bd7 17. Bf1 Bc8 18. Bd3 { (zugzwang) } Bb7 19. Bxf5 Bxd5 20. Bc8 { , etc. } ) 
 Kc5 { How to make progress? } 10. d6 $1 { An ingenious sacrifice in order to enter with the king. } Kxd6 11. Kd4 { Opposition. As we already know, there is a way to put an end to Black's bishop moves, so he is lost. } Bb7 12. Bf1 $1 Bc8 13. Bd3 { White soon wins; } ( { e.g. } 13. Bd3 Ke6 14. Kc5 ) 
  ( { or } 13. Bd3 Kc6 14. Ke5 ) 

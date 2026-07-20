@@ -64,7 +64,7 @@ h5 ( { But not } 2... Kc5 $2 3. Kf5 Kxc4 4. Kxg5 Kxb5 5. Kh6 Kc4 6. Kxh7 b5 7. h
 1... { -KEY- } h5 $2 { For what reason was 1... h5 bad? } 2. f5+ $1 ( { a) Instead, the game went } 2. gxh5 $2 gxh5 3. h4 $2 ( { a1) correct was } 3. Kf3 { followed by Ke3-f3; } ) 
 Kf5 4. Kf3 a6 5. a3 b6 6. b3 a5 7. c4 ( { a2) or } 7. a4 b5 ) 
 a4 $1 8. cxd5 axb3 { and Black soon prevailed. } ) 
-Kf7 ( { Even worse is } 2... gxf5 3. gxh5 -- { followed by } 4. Kf4 ) 
+Kf7 ( { Even worse is } 2... gxf5 3. gxh5  { followed by } 4. Kf4 ) 
 3. fxg6+ Kxg6 4. gxh5+ Kxh5 ( { Or } 4... Kg5 $5 5. h6 Kxh6 6. Kf4 { etc. } ) 
 5. Kf4 Kg6 6. h4 { The outside passed pawn decides. } 
  *
@@ -310,7 +310,7 @@ Kf5 3. Kxd5 Kxf4 4. Kd6 Ke4 $1 5. Kc7 Kd5 { The f-pawn decides matters. }
 [Result "*"]
 [FEN "8/p5p1/1p1kb3/3N2p1/2P3P1/4K2P/1P6/8 w - - 0 1"]
 
-1. { -KEY- } Kd4 $2 ( 1. Nc3 Bxc4 2. Ne4 -- { followed by } 3. Nxg5 { , with chances of a draw, was correct. For what reason was 1.Kd4 a bad choice? } ) 
+1. { -KEY- } Kd4 $2 ( 1. Nc3 Bxc4 2. Ne4  { followed by } 3. Nxg5 { , with chances of a draw, was correct. For what reason was 1.Kd4 a bad choice? } ) 
 Bxd5 { Black is allowed to transpose to a pawn ending where the outside passed pawn will be great asset. } 2. cxd5 a6 $1 { An accurate waiting move. } ( { a) In the same spirit, } 2... g6 { also works, for example } 3. b3 a6 $1 { transposing to the main line; } ) 
  ( { b) but not } 2... a5 $2 3. Kc4 a4 4. Kb4 { with a draw. } ) 
 3. b3 ( { a) Both } 3. b4 a5 ) 
