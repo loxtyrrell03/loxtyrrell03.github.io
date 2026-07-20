@@ -1,0 +1,154 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12610410/"]
+[Date "????.??.??"]
+[Round "6.1"]
+[White "1.5 King Raids"]
+[Black "King raids"]
+[Result "*"]
+
+ { By a 'king raid' I refer to an invasion with the king behind the enemy pawns. We already came across this idea in a few examples; e.g. Neustadtl's study (the 1.Kf1? subline), and Potkin-Grischuk, where Black's king again managed to invade via the back rank. Here is one more. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12517748/"]
+[Date "????.??.??"]
+[Round "6.2"]
+[White "1.5 King Raids"]
+[Black "Example 39- Socko- B. vs. Wojtaszek- R.- Polish Championship- Warsaw 2011"]
+[Result "1-0"]
+[FEN "5k2/4R3/r3p2p/3p2pP/1K1P2P1/4P3/8/8 w - - 0 1"]
+
+1. { -KEY- } Kb5 $1 ( { There was nothing wrong with the obvious } 1. Rh7 { but White has seen that in the pawn ending arising after the text, his king will be able to enter decisively via the back rank. } ) 
+Kxe7 ( { Or } 1... Rd6 2. Rh7 e5 3. Kc5 $1 { with an easy win - Socko. } ) 
+2. Kxa6 Kf7 ( { After } 2... Ke8 3. Kb6 $1 { (now Black is lacking the f6-square for his king) } Kd7 4. Kb7 Kd6 5. Kc8 e5 6. Kd8 { or } 6. Kb7 { White wins. } ) 
+3. Kb7 $1 { Distant opposition. } Kg8 4. Kc8 Kg7 5. Kc7 $1 Kg8 6. Kd6 { At this moment Black resigned; let's make a few more moves: } Kf7 7. Kd7 Kf6 8. Ke8 $1 { White finally manages to bring his king behind the enemy pawns. } e5 9. Kd7 ( { There follows } 10. Kd6 { with an easy win - Socko. } ) 
+ ( { By the way, another good option is } 9. Kf8 { continuing the King raid along g8-h7, in order to capture the h6-pawn, as noticed by Benner. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12517749/"]
+[Date "????.??.??"]
+[Round "6.3"]
+[White "1.5 King Raids"]
+[Black "Example 40- Hellsten- J. vs. Eriksson- J.- Hallsberg 1994"]
+[Result "1-0"]
+[FEN "8/8/p4p2/p1p2k2/P1P5/1P6/6PK/8 w - - 0 1"]
+
+ { I have a pleasant memory of the king raid idea' - it once helped me to win a last-round game, and indirectly the whole tournament. Despite various errors from both sides I find it rather instructive. This endgame should be drawn, but White keeps some practical chances due to Black's slightly compromised pawn structure. } 1. { -KEY- } Kh3 { Diagonal opposition, which helps White take the direct opposition the next move. } Kg5 2. Kg3 Kf5 $2 { Interestingly, this natural move loses the game, something that just shows the complexity of pawn endings. } ( { Correct was } 2... f5 $1 { gaining some space; e.g. } 3. Kf3 Kg6 4. Kf4 Kf6 5. g3 { (the fact that White already has to push this pawn is the key to the draw) } Ke6 6. Kg5 Ke5 7. Kg6 Ke6 $1 8. Kh5 f4 $1 { (a sacrifice on the theme of obstruction) } 9. gxf4 Kf5 10. Kh6 Kxf4 11. Kg6 Ke5 12. Kf7 Kd4 13. Ke6 Kc3 14. Kd6 Kxb3 15. Kxc5 Kxa4 16. Kb6 Kb4 17. c5 a4 { with a draw. } ) 
+3. Kf3 Ke5 4. Kg4 { At this point I had my plan ready: bring the king behind the f-pawn, swap the kingside pawns, move over the king to the queenside and capture on c5 before Black captures on b3. Even so, I erred on my next move. } f5+ ( { After } 4... Kd4 $2 5. Kf5 Kc3 6. Kxf6 Kxb3 7. g4 { only White will queen. } ) 
+ ( { As for } 4... Ke4 { White wins in similar style as in the main line, starting with } 5. Kh5 ) 
+5. Kh5 $2 { During the game I thought this move was clever, since Black can't oppose with his king either on f5 or on d5, but in fact it throws away half a point! } ( { Obviously, } 5. Kg5 { was useless due to } f4 6. Kg4 Ke4 { and Black holds by opposition. } ) 
+ ( { But by } 5. Kh4 $1 { White could have avoided Black's drawing trick on move 6 in the main line, with quite an easy win; e.g. } Kf6 ( { or } 5. Kh5 Kf4 6. Kh5 Kg3 7. Kg5 ) 
+6. Kh5 Ke6 7. Kg5 Ke5 8. g3 Ke6 9. Kg6 Ke5 10. Kf7 { as later happens in the main line. } ) 
+Kf6 6. Kh6 Ke5 $2 { Black returns the favour. } ( { By } 6... f4 $1 { he could have temporarily obstructed the enemy king, while preparing the same pawn sacrifice that we saw in the 2...f5 line; e.g. } 7. Kh5 Kf5 8. Kh4 f3 $1 9. gxf3 Kf4 10. Kh5 Kxf3 11. Kg5 Ke4 12. Kf6 Kd4 13. Ke6 Kc3 { and we have in fact transposed to 2...f5 above. } ) 
+ ( { Even } 6... Kf7 $5 { worked; e.g. } 7. g3 Kf6 8. Kh5 f4 $1 9. gxf4 Kf5 { and we already know the idea. } ) 
+7. Kg6 Ke6 8. g3 $1 Ke5 9. Kf7 { White finally manages to get behind the enemy pawns with his king, and the rest is easy. } Kd4 10. Kf6 Kc3 11. Kxf5 Kxb3 12. g4 Kxc4 13. g5 Kb3 14. g6 c4 15. g7 c3 16. g8=Q+ Kb2 17. Qg7 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786027/"]
+[Date "????.??.??"]
+[Round "6.4"]
+[White "1.5 King Raids"]
+[Black "Hellsten- J. vs. Eriksson- J.- #1"]
+[Result "1/2-1/2"]
+[FEN "8/8/p4p2/p1p2k2/P1P5/1P6/6PK/8 w - - 0 1"]
+
+ { I have a pleasant memory of the king raid idea - it once helped me to win a last-round game, and indirectly the whole tournament. Despite various errors from both sides I find it rather instructive.This endgame should be drawn, but White keeps some practical chances due to Black's slightly compromised pawn structure. } 1. { -KEY- } Kh3 { Diagonal opposition, which helps White take the direct opposition the next move. } Kg5 2. Kg3 f5 $1 { Gaining some space. } 3. Kf3 Kg6 4. Kf4 Kf6 5. g3 { The fact that White already has to push this pawn is the key to the draw. } Ke6 6. Kg5 Ke5 7. Kg6 Ke6 $1 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786028/"]
+[Date "????.??.??"]
+[Round "6.5"]
+[White "1.5 King Raids"]
+[Black "Hellsten- J. vs. Eriksson- J.- #2"]
+[Result "1/2-1/2"]
+[FEN "8/8/p3k1K1/p1p2p2/P1P5/1P4P1/8/8 w - - 0 8"]
+
+8. { -KEY- } Kh5 f4 $1 { A sacrifice on the theme of obstruction. } 9. gxf4 Kf5 10. Kh6 Kxf4 11. Kg6 Ke5 12. Kf7 Kd4 13. Ke6 Kc3 14. Kd6 Kxb3 15. Kxc5 Kxa4 16. Kb6 Kb4 17. c5 a4 { With a draw. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12517750/"]
+[Date "????.??.??"]
+[Round "6.6"]
+[White "1.5 King Raids"]
+[Black "Example 41- Brito- D. vs. Ruiz- E.- Loja 2009"]
+[Result "*"]
+[FEN "8/8/5p1p/2pk2p1/5PP1/1P1K4/7P/8 w - - 0 1"]
+
+ { Many years later, I came across a similar endgame in one of my students' games. Black has just made a huge mistake by playing ... g6-g5? instead of the correct ...f6-f5. White could now have decided the game in her favour by applying a king raid. } 1. { -KEY- } f5 $1 { This advance doesn't just gain the opposition for White, it also gains space which makes the f-pawn very dangerous in any passed pawn race. } ( { In contrast, the game went } 1. fxg5 $2 hxg5 2. h3 Ke5 3. Ke3 Kd5 { and a draw was agreed. } ) 
+Kd6 ( { Slightly more tenacious than } 1... Ke5 $6 2. Kc4 Kd6 3. Kb5 Kd5 4. h3 { when we have already reached the position after move 8 in the main line. } ) 
+2. Kc4 Kc6 3. h3 $1 { Again White takes the opposition. } Kd6 ( { Or } 3... Kb6 4. Kd5 Kb5 5. Ke6 Kb4 6. Kd6 $1 ( { more clear-cut than } 5... Kd6 5. Kxf6 ) 
+Kb5 7. Kd5 Kb6 ( { if } 7... Kb4 { then } 8. Kc6 ) 
+8. Ke6 { and the f-pawn is faster. } ) 
+4. Kb5 Kd5 5. Kb6 Kd6 6. Ka6 $1 { Thus White gains the opposition two moves later, exploiting the fact that 6...Ke6 isn't available for Black. } Kc6 7. Ka5 Kd5 ( { Black could have tried } 7... c4 $5 { in similar spirit to 6...f4 of the previous example, though after } 8. bxc4 Kc5 9. Ka6 Kxc4 10. Kb6 Kd5 11. Kc7 Ke4 12. Kd6 { followed by Ke6, she would be lost anyway. Compared to the previous game, here White is heavily favoured by having the potential passed pawn on the fifth rank (f5) instead of the fourth (c4). } ) 
+8. Kb5 { Now the white king's entry at c7 can't be prevented. } Kd6 9. Kb6 Kd5 10. Kc7 Ke4 11. Kc6 $1 ( 11. Kd6 { also works, in similar fashion. } ) 
+Kd4 12. Kd6 { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12517751/"]
+[Date "????.??.??"]
+[Round "6.7"]
+[White "1.5 King Raids"]
+[Black "Example 42- Taimanov- M. vs. Fischer- R.- Buenos Aires 1960"]
+[Result "1/2-1/2"]
+[FEN "3b4/8/8/8/1PK3k1/2B5/8/8 b - - 0 1"]
+
+ { The king raid idea can be used in other types of endings as well, and not only by the attacking side. Here are some examples. In such bishop endings, if the weaker side can't put the king in front of the pawn, then its best place is usually behind it, vis-à-vis the enemy king. } 1... { -KEY- } Kf4 $1 { Preparing a king raid. } ( { Passive play with this piece would lead to defeat; e.g. } 1... Kf5 $6 2. Kd5 Kg6 $2 ( { it is not yet too late for } 2... Kf4 ) 
+3. b5 Kf7 4. Kc6 Ke6 5. Bd4 Ba5 6. Bc5 { followed by Bd6-c7. } ) 
+ ( { But the similar } 1... Kf3 { was also possible, as noticed by hong-xu. } ) 
+2. b5 Ke4 3. Bd4 Bc7 4. Kc5 Kd3 $1 5. Kc6 Kc4 6. Bb6 Bf4 { Due to the correct location of the black king, White can't build a 'bridge' on c7 without losing the pawn. Had White managed to bring his king to a6, then Black would have been obliged to transfer his king to a4, thus preventing a bridge on a5. } 7. Ba7 Bc7 $1 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12517752/"]
+[Date "????.??.??"]
+[Round "6.8"]
+[White "1.5 King Raids"]
+[Black "Example 43- Zubarev- A. vs. Forcen Esteban- E.- La Roda 2012"]
+[Result "*"]
+[FEN "8/5KN1/3k2P1/8/8/8/1b6/8 b - - 0 1"]
+
+ { White has a rather simple plan at his disposal: Ne8 or Nh5 (threatening Nf6) , then after ...Bh8, return the knight to g7, and finally attack the bishop with Kg8. In order to prevent this plan Black must play actively with his king. } 1... { -KEY- } Ke5 $1 { Preparing a king raid to f5. } ( { Also possible is } 1... Kd5 2. Ne8 Bh8 3. Ng7 Ke5 { in the same spirit - Lalic/ Baburin, when } 4. Kg8 { is met by } Kf6 ) 
+ ( { Instead, the game went } 1... Kd7 $2 2. Ne8 Bh8 3. Kg8 $2 ( { we already know the correct move: } 2... Ke5 2. Ng7 $1 { preparing Kg8 } ) 
+Bb2 { and a draw was agreed, although by } 4. Kf7 Bh8 5. Ng7 $1 { White could still have won the game. } ) 
+2. Ne8 Kf5 { White can't make progress. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12517753/"]
+[Date "????.??.??"]
+[Round "6.9"]
+[White "1.5 King Raids"]
+[Black "Example 44- Zaragatski- I. vs. Nyback- T.- German League 2012"]
+[Result "1/2-1/2"]
+[FEN "1R6/8/2K5/2P1k3/8/8/8/7r b - - 0 1"]
+
+ { Black is lost due to his badly placed king, which should have been located on the short side of the pawn, i.e. on a7 or a6. However, he came up with a clever idea in practice: the attempt at a king raid. } 1... { -KEY- } Kd4 $5 2. Rd8+ $2 { Overlooking the opponent's idea. } ( { By } 2. Rg8 { changing the angle of his rook, White would have won easily; e.g. } Rh2 ( { or } 2. Rd8+ Rh6 3. Kb5 { followed by Rd8 } ) 
+3. Rg5 { cutting off the enemy king - Baburin. } ) 
+Kc4 $1 ( { By now an ideal place for the king, where it limits the movements of its white counterpart. Obviously, had White played } 1... Kc4 1. Rg8 { , he could now have chased away the king by } 3. Rg4 ) 
+3. Rc8 Rh6+ 4. Kb7 Kb5 $1 5. Rc7 ( { Or } 5. c6 Rg6 6. c7 Rb6 { with a perpetual. } ) 
+Rg6 6. c6 Rh6 7. Rc8 Rg6 8. Rd8 Rxc6 9. Rd5+ Rc5 10. Rxc5+ Kxc5 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12517754/"]
+[Date "????.??.??"]
+[Round "6.10"]
+[White "1.5 King Raids"]
+[Black "Example 45- Makarichev- S. vs. Lerner- K.- USSR Championship- Minsk 1979"]
+[Result "*"]
+[FEN "r7/2R5/6k1/3K4/2p5/2P5/8/8 b - - 0 1"]
+
+ { Here is a similar case, where Black is again in trouble due to his remotely placed king. } 1... { -KEY- } Kf6 $1 { Preparing a king raid is the only chance for salvation. } ( { Instead, the game went } 1... Kf5 $2 2. Rf7 $1 Kg6 3. Rf4 Ra5 4. Kc6 Ra6 5. Kb5 { and White later won. } ) 
+2. Kxc4 Ke5 3. Kc5 ( { Or } 3. Rc6 Rb8 $1 { (preventing Kb5) } 4. Kc5 Ke4 { with similar play - Dvoretsky. } ) 
+Ke4 $1 { The key move, which prepares Kd3 in order to tie the enemy pieces to the defence of the pawn. } 4. c4 Kd3 5. Rd7+ ( { After } 5. Kd5 Rd8 ) 
+ ( { or } 5. Kb5 Rb8 { Black holds. } ) 
+Kc3 6. Kd5 Kb4 7. c5 ( { Or } 7. Rb7 Ka5 8. c5 Ka6 { followed by ...Rh8, with similar play. } ) 
+Kb5 8. c6 Rh8 $1 { The rook shifts to the long side of the pawn, thus enabling a side attack. (We will study such positions quite thoroughly in Chapter Three.) Black defends - Dvoretsky; } ( { e.g. } 8... Rh8 9. Rb7 Ka6 10. Rb1 Rh5 11. Ke6 Rh6 12. Kd7 Rh7 { etc. } ) 
+
+ *

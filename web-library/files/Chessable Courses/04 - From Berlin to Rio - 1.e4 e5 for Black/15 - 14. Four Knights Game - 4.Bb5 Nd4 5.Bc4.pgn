@@ -1,0 +1,96 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9392535/"]
+[Date "????.??.??"]
+[Round "15.1"]
+[White "14. Four Knights Game - 4.Bb5 Nd4 5.Bc4"]
+[Black "Four Knights 4.Bb5 Nd4 5.Bc4 & 7.Bxf7"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 { -KEY- } Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yielding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. Bc4 ( { In the next chapter we will deal with } 5. Ba4 { as well as } 5. Nxd4 { or } 5. O-O ) 
+Bc5 6. Nxe5 Qe7 $1 { The key move, not being afraid of any capture on f7. } 7. Bxf7+ $2 { this move simply loses a piece. } Kf8 8. Nd3 Kxf7 9. O-O d6 $17 { White has only two pawns for the piece, which is not enough. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9392536/"]
+[Date "????.??.??"]
+[Round "15.2"]
+[White "14. Four Knights Game - 4.Bb5 Nd4 5.Bc4"]
+[Black "Four Knights 4.Bb5 Nd4 5.Bc4 & 7.Nxf7"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yielding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. Bc4 { In the next chapter we will deal with 5.Ba4 as well as 5.Nxd4 or 5.O-O. } Bc5 6. Nxe5 Qe7 $1 { The key move, not being afraid of any capture on f7. } 7. Nxf7 $6 { Didn't we lose just a pawn? -KEY- } d5 $1 ( { It is important to play energetically. The slow } 7... Rf8 $2 8. O-O Rxf7 { fails due to } 9. e5 $1 ) 
+8. Nxh8 dxc4 9. h3 ( { If } 9. d3 { , then } Bg4 $1 10. f3 Bh5 { with a close to won position. } ) 
+Bd7 $5 ( { I suggest this move as a slight improvement over } 9... Be6 { . Anyway, Black takes the h8-knight and stands well materially. } ) 
+10. d3 O-O-O 11. O-O cxd3 { We could take on h8 but why should we give the pawn on c4? } 12. cxd3 Rxh8 13. Be3 Rd8 $15 { Black is going to put his bishop on c6 and the knight on e6, achieving great control over the centre. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9392537/"]
+[Date "????.??.??"]
+[Round "15.3"]
+[White "14. Four Knights Game - 4.Bb5 Nd4 5.Bc4"]
+[Black "Four Knights 4.Bb5 Nd4 5.Bc4 & 7.Nd3 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yielding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. Bc4 { In the next chapter we will deal with 5.Ba4 as well as 5.Nxd4 or 5.O-O. } Bc5 6. Nxe5 Qe7 $1 { The key move, not being afraid of any capture on f7. } 7. Nd3 { White hopes to win time by attacking the bishop but Black has a dynamic response at his disposal. -KEY- } d5 $1 { Blasting open the centre. Black gets incredibly quick development. } 8. Bxd5 $2 { After extensive analysis it turns out to be unplayable for White. } Bb6 { Stepping out of Nxc5. I like this ambitious move. Black does not hurry to regain the material, recognising that he can play for more using White's clumsy piece placement. } 9. Nf4 { White is planning to play d3 and complete his development.. We need to act quickly. } c6 { Not only kicking out the bishop with a tempo but also controlling d5 so that White's knight can't jump there. } ( { The immediate } 9... Bg4 { is also good but somehow analysis proves this is even stronger. } ) 
+10. Bc4 Bg4 11. Be2 { This is the safest although White is clearly worse anyway. } Nxe2 12. Nfxe2 Nxe4 $17 { Intending ...0-0-0. The powerful bishop pair provides huge compensation for the pawn. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9392544/"]
+[Date "????.??.??"]
+[Round "15.4"]
+[White "14. Four Knights Game - 4.Bb5 Nd4 5.Bc4"]
+[Black "Four Knights 4.Bb5 Nd4 5.Bc4 & 7.Nf3 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yielding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. Bc4 { In the next chapter we will deal with 5.Ba4 as well as 5.Nxd4 or 5.O-O. } Bc5 6. Nxe5 Qe7 $1 { The key move, not being afraid of any capture on f7. } 7. Nf3 { The most popular move. -KEY- } d5 $1 { Just like against 7.Nd3 this is a key resource. Black sacrifices even more material but gets enormous activity. } 8. Nxd5 Qxe4+ 9. Ne3 Bg4 { White is pinned everywhere. } 10. Be2 Nxe2 11. Qxe2 O-O-O { It is visible at the first glance that Black has great compensation for the pawn. } 12. d3 Qe6 13. Nxg4 { White's safest choice, resulting in simple equality. } Qxe2+ 14. Kxe2 Nxg4 15. Bg5 Rde8+ ( 15... f6 { allows } 16. Bh4 { protecting f2 . Now we are not only giving a check but also the rook is no longer under attack. } ) 
+16. Kd2 Bxf2 $11 ( { Taking away the e1 square. This is better than } 16... Nxf2 { which allows } 17. Rhe1 ) 
+
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/11657520/"]
+[Date "????.??.??"]
+[Round "15.5"]
+[White "14. Four Knights Game - 4.Bb5 Nd4 5.Bc4"]
+[Black "Four Knights 4.Bb5 Nd4 5.Bc4 & 7.h3 #1"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yelding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. Bc4 { In the next chapter we will deal with 5.Ba4 as well as 5.Nxd4 or 5.O-O. } Bc5 6. O-O { -KEY- } d6 7. h3 $6 ( { Most popular, but a bit too meek. } 7. Nxd4 Bxd4 8. d3 { transposes to 6.d3 d6 7.Nxd4 Bxd4 8.0-0 } ) 
+c6 8. d3 b5 9. Bb3 a5 $15 { White finds himself in slight trouble. Whichever a-pawn move he chooses, we take the b3-bishop getting the bishop pair and additionally spoiling White's structure. This way we easily get a small advantage. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/11657521/"]
+[Date "????.??.??"]
+[Round "15.6"]
+[White "14. Four Knights Game - 4.Bb5 Nd4 5.Bc4"]
+[Black "Four Knights 4.Bb5 Nd4 5.Bc4 & 7.h3 #2"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yelding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. Bc4 { In the next chapter we will deal with 5.Ba4 as well as 5.Nxd4 or 5.O-O. } Bc5 6. d3 { -KEY- } d6 { Now White has to stop ...Bg4 somehow. } 7. h3 c6 8. Nxd4 Bxd4 9. Ne2 Bb6 $11 { The position is similar to the one described after 7.Nxd4 Bxd4 8.Ne2. Black's pawn is already on c6, which would incline him towards the ...d5 plan. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/11657522/"]
+[Date "????.??.??"]
+[Round "15.7"]
+[White "14. Four Knights Game - 4.Bb5 Nd4 5.Bc4"]
+[Black "Four Knights 4.Bb5 Nd4 5.Bc4 & 7.Nxd4 #1"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yelding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. Bc4 { In the next chapter we will deal with 5.Ba4 as well as 5.Nxd4 or 5.O-O. } Bc5 6. d3 d6 { Now White has to stop ...Bg4 somehow. } 7. Nxd4 { -KEY- } Bxd4 8. Ne2 Bb6 9. O-O O-O $11 { Bg5 can be well met by the typical ... h6-g5 followed by ...Nh5. In case of other White's tries we have a plenty of options, including ...Be6, ...c6-d5 or ...d5 immediately. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/11657523/"]
+[Date "????.??.??"]
+[Round "15.8"]
+[White "14. Four Knights Game - 4.Bb5 Nd4 5.Bc4"]
+[Black "Four Knights 4.Bb5 Nd4 5.Bc4 & 7.Nxd4 #2"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yelding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. Bc4 { In the next chapter we will deal with 5.Ba4 as well as 5.Nxd4 or 5.O-O. } Bc5 6. d3 d6 { Now White has to stop ...Bg4 somehow. } 7. Nxd4 Bxd4 8. O-O { -KEY- } O-O 9. h3 ( 9. Ne2 Bb6 { transposes to 8.Ne2 } ) 
+Be6 $11 { In case of the exchange on e6 we get good kingside prospects with the open f-file. In case of Bb3 White's bishop can be further 'annoyed' by ...a5. } 
+ *

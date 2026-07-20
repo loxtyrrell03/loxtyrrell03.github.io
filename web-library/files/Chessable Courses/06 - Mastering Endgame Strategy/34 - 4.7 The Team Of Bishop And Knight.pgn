@@ -1,0 +1,111 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12628930/"]
+[Date "????.??.??"]
+[Round "34.1"]
+[White "4.7 The Team Of Bishop And Knight"]
+[Black "The team of bishop and knight"]
+[Result "*"]
+
+ { To round off this chapter, let's see two examples where a bishop and a knight fight successfully against a rook. The first example highlights the power of a passed pawn being supported by the minor pieces, while the second one focuses on their co-ordination. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612250/"]
+[Date "????.??.??"]
+[Round "34.2"]
+[White "4.7 The Team Of Bishop And Knight"]
+[Black "Example 306- Kavalek- L. vs. Olafsson- F.- Buenos Aires 1980"]
+[Result "1-0"]
+[FEN "8/1p5k/p1r1b2p/3N1p2/3B4/1B6/PPP3Kp/8 w - - 0 1"]
+
+ { As sometimes occurs, a sharp middlegame battle has evaporated into a roughly equal endgame. } 1. { -KEY- } c3 { Stabilizing the queenside. } ( { On the tempting } 1. c4 { Black could reply } Rd6 { preparing ...b7-b5 with some counterplay. } ) 
+Rd6 2. Nf4 $1 { Kavalek establishes a barrier against the black king. } Bxb3 3. axb3 Rd7 { It is time to activate the rook. } ( { An alternative in this sense was } 3... Rd8 $5 4. Kxh2 Rg8 { heading for g4, when White's king is again marginalized from the battle. } ) 
+4. Kxh2 Re7 5. b4 $1 { The first step in the plan of creating a passed pawn. } Re1 6. Kg3 Rb1 7. Nd3 Kg6 8. Nc5 $1 { White is happy to trade the b-pawns since it will accelerate the creation of a passed pawn on the c-file. } Rxb2 9. Nxb7 Ra2 ( { Black defends against } 9... Ra2 9. Nc5 { in advance; but the active } h5 { might have been better - Chekhov, and only if } 10. Nc5 { then 10...Ra2 } ) 
+10. c4 $1 { The passed pawn moves forward. Objectively the position is still balanced, but in practice White's moves are easier to find. } Ra3+ $2 { A serious mistake, helping White's king to approach the passed pawn. } ( { a) } 10... Rc2 $6 { is equally unconvincing in view of } 11. Na5 h5 12. b5 $1 ) 
+ ( { b) But } 10... Ra4 $1 { would have created sufficient interference for a draw; e.g. } 11. Bc5 ( { after } 10... Ra3+ 10. Nd6 $6 Rxb4 12. Kf4 h5 13. Ke5 h4 14. c5 h3 { followed by ...Rb1-c1, White is even on the brink of defeat; } ) 
+h5 12. b5 axb5 13. cxb5 h4 14. Kh3 Kh5 15. Nd6 Ra5 $1 16. Be3 ( { or } 15... Ra3+ 15. Bb4 Ra4 { and there is nothing better than } 17. Bc5 { repeating moves; } ) 
+Ra3 17. Nxf5 Ra5 $1 { and White can't make progress, e. g. } 18. Nd4 Ra3 { etc. } ) 
+11. Kf4 Rb3 $6 { A bad place for the rook, as we will see next. } ( { a) } 11... h5 { is equally unsatisfactory due to } 12. c5 Rb3 ( { or } 12... h4 13. c6 h3 14. c7 h2 15. c8=Q $11 h1=Q $11 16. Qg8 ) 
+13. c6 Rxb4 14. Ke5 Rc4 15. Nc5 { - Chekhov. } ) 
+ ( { b) But } 11... Ra4 { similar to the 10...Ra4 in the previous note albeit a tempo down, was quite feasible; e.g. } 12. Ke5 Rxb4 13. Nd6 f4 $1 14. Kxf4 h5 { with drawing chances. Compared with the position after 10...Ra4 11 Nd6 Rxb4 12 Kf4 h5, here the f-pawn is no longer on the board, but that might not be too significant. } ) 
+12. b5 $1 { A strong breakthrough, possibly overlooked by Olafsson. } axb5 13. c5 Rb4 14. Ke5 { It transpires that all White's pieces are excellently placed to assist the passed pawn. } Rc4 ( { Or } 14... f4 15. c6 { and the white passed pawn is the stronger one - Byrne. } ) 
+15. Nd6 Rc1 16. Nxb5 ( { The right capture; after } 16. Nxf5 $6 b4 { Black would achieve counterplay. } ) 
+Kf7 $6 { In an already difficult position, this might be the losing move. } ( { a) } 16... h5 { was strongly met by the 'curtain' } 17. Nc3 ) 
+ ( { b) But by } 16... f4 $5 17. Kxf4 h5 { Black could have sold a pawn for a tempo, in similar fashion to the 11...Ra4 subline above. Here Black has lost the a6-pawn as well, but that might not be too important either. One idea is that } 18. Nc3 Kf7 19. Ke5 h4 20. c6 h3 21. c7 Re1 22. Ne4 { can be met by } Rxe4 $1 23. Kxe4 h2 { queening with check. } ) 
+17. Kd6 $1 { In pawn ending style, the white king assists the c-pawn while obstructing its black counterpart. } ( { In contrast, } 17. Nd6 $6 Ke7 18. Nxf5 Kd7 19. Kd5 ( { the materialistic } 19. Nxh6 $2 { fails to } Kc6 { and 20...Rxc5+ } ) 
+h5 { yields Black chances for a draw. } ) 
+f4 { Now that the c-pawn has become unstoppable, there is nothing better. } 18. c6 f3 19. c7 h5 20. Nc3 $1 { A well-calculated final blow. } Rxc3 21. Bxc3 f2 22. c8=Q f1=Q ( { Black resigned, not waiting for } 22... f1=Q $11 23. Qe6 Kf8 24. Qe7 Kg8 25. Qg7 { - Byrne. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612290/"]
+[Date "????.??.??"]
+[Round "34.3"]
+[White "4.7 The Team Of Bishop And Knight"]
+[Black "Kavalek- L. vs. Olafsson- F.- #1"]
+[Result "1-0"]
+[FEN "8/1p5k/p1r1b2p/3N1p2/3B4/1B6/PPP3Kp/8 w - - 0 1"]
+
+ { As sometimes occurs, a sharp middlegame battle has evaporated into a roughly equal endgame. } 1. { -KEY- } c3 { Stabilizing the queenside. } ( { On the tempting } 1. c4 { Black could reply } Rd6 { preparing ...b7-b5 with some counterplay. } ) 
+Rd6 2. Nf4 $1 { Kavalek establishes a barrier against the black king. } Bxb3 3. axb3 Rd7 { It is time to activate the rook. } ( { An alternative in this sense was } 3... Rd8 $5 4. Kxh2 Rg8 { heading for g4, when White's king is again marginalized from the battle. } ) 
+4. Kxh2 Re7 5. b4 $1 { The first step in the plan of creating a passed pawn. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612291/"]
+[Date "????.??.??"]
+[Round "34.4"]
+[White "4.7 The Team Of Bishop And Knight"]
+[Black "Kavalek- L. vs. Olafsson- F.- #2"]
+[Result "1-0"]
+[FEN "8/1p2r2k/p6p/5p2/1P1B1N2/2P5/1P5K/8 b - - 0 5"]
+
+5... { -KEY- } Re1 6. Kg3 Rb1 7. Nd3 Kg6 8. Nc5 $1 { White is happy to trade the b-pawns since it will accelerate the creation of a passed pawn on the c-file. } Rxb2 9. Nxb7 Ra2 ( { Black defends against } 9... Ra2 9. Nc5 { in advance; but the active } h5 { might have been better - Chekhov, and only if } 10. Nc5 { then 10...Ra2 } ) 
+10. c4 $1 { The passed pawn moves forward. Objectively the position is still balanced, but in practice White's moves are easier to find. } Ra3+ $2 { A serious mistake, helping White's king to approach the passed pawn. } ( { a) } 10... Rc2 $6 { is equally unconvincing in view of } 11. Na5 h5 12. b5 $1 ) 
+ ( { b) But } 10... Ra4 $1 { would have created sufficient interference for a draw; e.g. } 11. Bc5 ( { after } 10... Ra3+ 10. Nd6 $6 Rxb4 12. Kf4 h5 13. Ke5 h4 14. c5 h3 { followed by ... Rb1-c1, White is even on the brink of defeat; } ) 
+h5 12. b5 axb5 13. cxb5 h4 14. Kh3 Kh5 15. Nd6 Ra5 $1 16. Be3 ( { or } 15... Ra3+ 15. Bb4 Ra4 { and there is nothing better than } 17. Bc5 { repeating moves; } ) 
+Ra3 17. Nxf5 Ra5 $1 { and White can't make progress, e. g. } 18. Nd4 Ra3 { etc. } ) 
+11. Kf4 Rb3 $6 { A bad place for the rook, as we will see next. } ( { a) } 11... h5 { is equally unsatisfactory due to } 12. c5 Rb3 ( { or } 12... h4 13. c6 h3 14. c7 h2 15. c8=Q $11 h1=Q $11 16. Qg8 ) 
+13. c6 Rxb4 14. Ke5 Rc4 15. Nc5 { - Chekhov. } ) 
+ ( { b) But } 11... Ra4 { similar to the 10... Ra4 in the previous note albeit a tempo down, was quite feasible; e.g. } 12. Ke5 Rxb4 13. Nd6 f4 $1 14. Kxf4 h5 { with drawing chances. Compared with the position after 10...Ra4 11 Nd6 Rxb4 12 Kf4 h5, here the f-pawn is no longer on the board, but that might not be too significant. } ) 
+12. b5 $1 { A strong breakthrough, possibly overlooked by Olafsson. } axb5 13. c5 Rb4 14. Ke5 { It transpires that all White's pieces are excellently placed to assist the passed pawn. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612251/"]
+[Date "????.??.??"]
+[Round "34.5"]
+[White "4.7 The Team Of Bishop And Knight"]
+[Black "Example 307- Georgiev- Kir vs. Mitkov- N.- Skopje 2002"]
+[Result "1-0"]
+[FEN "8/8/p1N2k2/2p2pp1/P7/6P1/3K1P2/1r1B4 w - - 0 1"]
+
+ { This position should be about equal, but Georgiev managed to squeeze a full point by skilfully co-ordinating his minor pieces. } 1. { -KEY- } f3 $1 { A small, but important move that prevents ...g5-g4, fixing White's kingside pawns on dark squares. Interestingly, in endgames with such a material relation it often makes sense for the side fighting against the rook to put his pawns on squares of the same colour as his bishop, in order to facilitate their protection and create strongholds on squares of that colour, such as e4 later on. } Ke6 ( { Black could have considered the active } 1... c4 { as well; e.g. } 2. Na5 c3 3. Kc2 Ra1 4. Nb3 Rxa4 5. Kxc3 Ke5 { and a draw seems like the most likely result. } ) 
+2. Na5 { Heading for the protected square at c4. } Ke5 ( { Obviously, the straightforward } 2... Kd5 $6 3. Bb3 Kd4 $4 { failed to } 4. Nc6 ) 
+3. Nc4+ Kd4 $6 ( { Georgiev prefers } 3... Ke6 { , probably because the king will soon have to retreat anyway. White could reply } 4. Ne3 f4 5. gxf4 gxf4 6. Nc2 { in similar style to the game. } ) 
+4. Ne3 f4 5. gxf4 gxf4 6. Nc2+ { The white forces seem to have been pushed back, but this is temporary. } Kd5 ( { Here, the desirable } 6... Kc4 $4 { obviously fails to } 7. Na3 { so the king must move backwards. } ) 
+7. Be2 $1 { Eyeing the a6-pawn while creating a barrier against the black king. } ( { Besides, } 7. Be2 { gets ready to meet } c4 $2 { by } 8. Bxc4 ) 
+Rb6 $2 { Very passive. The rook is famous for being a great attacker - and a lousy defender. Moreover, under this kind of material relation the side with the rook is required to play actively, exploiting the great mobility of this piece (compare Grigorian-Tal and Dutreeuw-Hellsten, Examples 229 and 230 in the previous chapter), as otherwise the minor pieces will soon dominate the board. } ( { a) Perhaps Mitkov discarded } 7... Rb3 8. Bxa6 { in view of } Rxf3 $2 ( { but } 8... c4 $1 { instead would have yielded him sufficient counterplay; e.g. } 9. Bc8 Kc5 10. Ke2 Rb2 11. Bf5 Ra2 ) 
+9. Bb7 ) 
+ ( { b) Even } 7... a5 { was better than the text, as the rook stays in enemy territory. } ) 
+8. Kc3 a5 ( { If } 8... Kc6 { White should avoid the tempting } 9. a5 Rb8 10. Bxa6 $2 Ra8 { and Black is helped by a lesser number of pawns on the board. } ) 
+ ( { Instead, the calm } 8... a5 8. Bd3 { heading for e4 just like in the game, keeps excellent winning chances. } ) 
+9. Bd3 $1 { Georgiev prepares Be4, after which his bishop and f3-pawn will mutually defend themselves. } ( { At the same time, he prevents } 9. Bd3 Rb1 $2 { on account of } 10. Ne3 ) 
+Rb8 10. Be4+ Ke6 11. Na3 $1 { The knight returns to its preferred square on c4. By now it is clear that Black will have a hard time defending his pawns, while White's pawns, conveniently located on light squares, are much more difficult to get at. } ( { Less constructive was } 11. Kc4 $6 Kd6 ) 
+Rb4 12. Bc2 Rb8 13. Nc4 Ra8 14. Be4 Ra7 15. Nd2 $1 { Finally, White gets ready to use his king in the battle, exploiting the fact that the enemy rook is temporarily out of play. } Kd6 16. Kc4 Rc7 17. Nb3 { Black's defensive resources are exhausted, and the rest is easy. } Ra7 18. Kb5 ( { Sidestepping a final trap: } 18. Nxc5 $4 Rc7 ) 
+Re7 19. Nxa5 Re8 20. Nc4+ 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612292/"]
+[Date "????.??.??"]
+[Round "34.6"]
+[White "4.7 The Team Of Bishop And Knight"]
+[Black "Georgiev- Kir vs. Mitkov- N.- #1"]
+[Result "1-0"]
+[FEN "1r6/8/4k3/p1p5/P3Bp2/2K2P2/2N5/8 w - - 0 11"]
+
+11. { -KEY- } Na3 $1 { The knight returns to its preferred square on c4. By now it is clear that Black will have a hard time defending his pawns, while White's pawns, conveniently located on light squares, are much more difficult to get at. } ( { Less constructive was } 11. Kc4 $6 Kd6 ) 
+Rb4 12. Bc2 Rb8 13. Nc4 Ra8 14. Be4 Ra7 15. Nd2 $1 { Finally, White gets ready to use his king in the battle, exploiting the fact that the enemy rook is temporarily out of play. } Kd6 16. Kc4 Rc7 17. Nb3 { Black's defensive resources are exhausted, and the rest is easy. } 
+ 1-0

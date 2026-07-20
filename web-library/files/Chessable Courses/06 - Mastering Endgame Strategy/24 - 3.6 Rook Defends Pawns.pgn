@@ -1,0 +1,173 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12564281/"]
+[Date "????.??.??"]
+[Round "24.1"]
+[White "3.6 Rook Defends Pawns"]
+[Black "Rook defends pawns"]
+[Result "*"]
+
+ { Occasionally in rook endings with pawns on both flanks, the stronger side manages to protect several of his pawns with the rook, thus liberating the king from such a task. Let's see an illustrative example. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553036/"]
+[Date "????.??.??"]
+[Round "24.2"]
+[White "3.6 Rook Defends Pawns"]
+[Black "Example 221- Leko- P. vs. Anand- V.- Linares 2003"]
+[Result "1-0"]
+[FEN "8/5pk1/7p/P4RpP/6P1/6K1/5P2/r7 w - - 0 1"]
+
+ { White has reached a dream position: his rook protects the two most exposed of his pawns, and it can't be expelled from f5. Thus the king can be used exclusively for active duties, and this is where Leko takes the game with his next move. } 1. { -KEY- } Kg2 $1 Re1 ( { Or } 1... Ra4 2. f3 Ra2 3. Kf1 { and the king reaches the opposite corner of the board sooner or later. } ) 
+2. f3 { Now all White's pawns are confidently protected. } Re6 3. Kf2 Kf8 { Black cuts the white king off from the e-file, but not for long. } 4. Rb5 Kg7 ( { Or } 4... Ke7 5. Rb7 { followed by 6.Rb6, with similar play. } ) 
+5. Rf5 ( { Leko also suggests a switch of angle with } 5. Rb3 $5 Ra6 6. Ra3 { There could follow } Kf6 7. Ke3 Ke5 8. Kd3 Kd5 9. Ra1 $1 Kc5 10. Ke4 Kb5 11. Rb1 $1 Kc5 12. Rb6 { and wins. } ) 
+Kf8 6. Rc5 { Losing a tempo. } Kg7 7. Rb5 Kf8 8. Rb6 $1 { Just at the right moment, so that Black will have to lose a tempo protecting the h6-pawn later on. } ( { The simple } 8. Rb3 { heading for a3 was also possible, in similar fashion to the 5.Rb3 line. } ) 
+Re5 9. a6 Kg7 10. a7 Ra5 11. Rb7 { The rest is easy. } Ra3 12. Ke2 Kf6 13. Kd2 Ke6 14. Kc2 f6 15. Kb2 Ra4 16. Kb3 Ra1 17. Kb4 Kd6 18. Rh7 Ke5 19. Kb5 Ra2 20. Kb6 ( { The king has finally reached the a-pawn, and now } 21. Rh8 { is a threat. Black's rook checks can be parried by Kc7-b8, followed by Rb7, so he resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798885/"]
+[Date "????.??.??"]
+[Round "24.3"]
+[White "3.6 Rook Defends Pawns"]
+[Black "Leko- P. vs. Anand- V.- #1"]
+[Result "1-0"]
+[FEN "8/5pk1/7p/P4RpP/6P1/6K1/5P2/r7 w - - 0 1"]
+
+ { White has reached a dream position: his rook protects the two most exposed of his pawns, and it can't be expelled from f5. Thus the king can be used exclusively for active duties, and this is where Leko takes the game with his next move. } 1. { -KEY- } Kg2 $1 ( { Less productive is } 1. Kf3 $6 Ra4 { tying the king to the g4-pawn } ) 
+ ( { or } 1. f3 $2 Ra2 { cutting it off along the 2nd rank. } ) 
+ ( { In contrast, after } 1. Kg2 $1 { followed by f2-f3, the king will be able to approach the queenside either by the 1st or the 2nd rank } ) 
+Re1 ( { Or } 1... Ra4 2. f3 Ra2 3. Kf1 { and the king reaches the opposite corner of the board sooner or later. } ) 
+2. f3 { Now all White's pawns are confidently protected. } Re6 3. Kf2 Kf8 { Black cuts the white king off from the e-file, but not for long. } 4. Rb5 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/28718464/"]
+[Date "????.??.??"]
+[Round "24.4"]
+[White "3.6 Rook Defends Pawns"]
+[Black "Leko- P. vs. Anand- V.- #2"]
+[Result "1-0"]
+[FEN "5k2/5p2/4r2p/PR4pP/6P1/5P2/5K2/8 b - - 4 4"]
+
+4... { -KEY- } Kg7 ( { Or } 4... Ke7 5. Rb7 { followed by 6.Rb6, with similar play. } ) 
+5. Rf5 ( { Leko also suggests a switch of angle with } 5. Rb3 $5 Ra6 6. Ra3 { There could follow } Kf6 7. Ke3 Ke5 8. Kd3 Kd5 9. Ra1 $1 Kc5 10. Ke4 Kb5 11. Rb1 $1 Kc5 12. Rb6 { and wins. } ) 
+ ( { The similar rook moves to b4, b2, and b1 would also work, as observed by HorseyChess. On the other hand, } 5. Rb6 $6 { unnecessarily allows } Re5 6. a6 Ra5 { , with Black's rook switching to a better angle, behind the passed pawn. White would still win here by } 7. Ke3 { , heading for c6-b7 without worrying about the f3-pawn, but I'd definitely prefer Leko's more technical approach in the game, reducing enemy counterplay to a minimum. } ) 
+Kf8 6. Rc5 { Losing a tempo. } Kg7 7. Rb5 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798903/"]
+[Date "????.??.??"]
+[Round "24.5"]
+[White "3.6 Rook Defends Pawns"]
+[Black "Leko- P. vs. Anand- V.- #3"]
+[Result "1-0"]
+[FEN "8/5pk1/4r2p/PR4pP/6P1/5P2/5K2/8 b - - 0 7"]
+
+7... { -KEY- } Kf8 8. Rb6 $1 { Just at the right moment, so that Black will have to lose a tempo protecting the h6-pawn later on. } ( { The simple } 8. Rb3 { heading for a3 was also possible, in similar fashion to the 5.Rb3 line. } ) 
+Re5 9. a6 Kg7 10. a7 Ra5 11. Rb7 { The rest is easy. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/28718465/"]
+[Date "????.??.??"]
+[Round "24.6"]
+[White "3.6 Rook Defends Pawns"]
+[Black "Leko- P. vs. Anand- V.- #4"]
+[Result "1-0"]
+[FEN "8/PR3pk1/7p/r5pP/6P1/5P2/5K2/8 b - - 2 11"]
+
+11... { -KEY- } Ra3 { The rest is easy. } 12. Ke2 Kf6 13. Kd2 Ke6 14. Kc2 f6 15. Kb2 Ra4 16. Kb3 Ra1 17. Kb4 Kd6 18. Rh7 $1 { By their previous move Black managed to prevent the enemy king from moving further towards the a-pawn, but now they can't hold the kingside at the same time. } ( { In effect, } 18. Kb5 $6 Rb1 { wouldn't make sense for White now that Black's king is covering the c6 and c7-squares. } ) 
+Ke5 19. Kb5 Ra2 20. Kb6 ( { The king has finally reached the a-pawn, and now } 21. Rh8 { is a threat. Black's rook checks can be parried by Kc7-b8, followed by Rb7, so he resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553037/"]
+[Date "????.??.??"]
+[Round "24.7"]
+[White "3.6 Rook Defends Pawns"]
+[Black "Example 222- Norri- J. vs. Hellsten- J.- Hallsberg 1991"]
+[Result "*"]
+[FEN "8/2R2pk1/4p2p/pr6/5P2/8/5PKP/8 b - - 0 1"]
+
+ { In the previous example Leko's rook was already well placed from the beginning. Here are a few further examples which will show how such a 'rook defends pawns' scenario can be achieved.Young players often fail in the endgame phase, and I myself some twenty years ago was no exception. } 1... { -KEY- } Rf5 $1 { By protecting the sensitive f7-pawn with the rook, Black assures that his king can take an active part in the battle. } ( { a) In the game I played } 1... Kg6 $2 { instead, and after } 2. Ra7 Rd5 3. Kg3 f6 ( { or } 3... Kg7 4. Ra8 $1 Kf6 5. Ra7 { restricting the black king; } ) 
+4. f3 Kf5 5. Ra6 { things got more complex, with White later saving a draw. } ) 
+ ( { b) However, } 1... Kf8 2. Ra7 Ke8 3. Kf3 Rf5 $1 { was possible as well, with similar play as in the main line. } ) 
+2. Kg3 Kf8 { Heading for the opposite corner of the board. } 3. Ra7 Ke8 4. h4 h5 { Fixing an ideal structure, where all the pawns are confidently protected. } 5. Kf3 Kd8 ( { Of course not } 5... e5 $2 6. Ke4 Rxf4 7. Kxe5 { and White should make a draw. Generally speaking, when the pawn structure on the board favours you, don't alter it. } ) 
+6. Ke4 Kc8 7. Re7 Kb8 { The rest is easy. } 8. Rd7 a4 9. Rd3 Ra5 $1 10. Ra3 Kb7 { Black soon wins by approaching with his king. The f4-f5 advance can be simply ignored. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553038/"]
+[Date "????.??.??"]
+[Round "24.8"]
+[White "3.6 Rook Defends Pawns"]
+[Black "Example 223- Smyslov- V. vs. Forintos- G.- Monte Carlo 1968"]
+[Result "1-0"]
+[FEN "8/8/p1k2p2/P7/1KP5/8/3R1P2/r7 w - - 0 1"]
+
+ { White has an extra pawn, but how to progress? Smyslov found an excellent rook manoeuvre to leave his pawns with better protection. } 1. { -KEY- } Rd3 $1 ( 1. Rd5 $5 { in similar spirit was also possible, for instance } Rb1 2. Kc3 Rc1 3. Kb3 Rb1 4. Kc2 { with 5.Rf5 coming next, as noticed by chessbishop_2024. } ) 
+Rb1+ 2. Rb3 Rh1 3. Rf3 Rh6 4. Rf5 { That's it - now the king acquires more mobility. } Kd6 5. Rd5+ Kc6 6. Rf5 Kd6 7. f3 $1 { Avoiding future checks on the third rank. } Rg6 ( { Or } 7... Ke6 8. Rd5 Rh3 9. f4 Rf3 10. Kc5 Rxf4 11. Rd6 Ke7 12. Rxa6 Kd7 13. Ra7 $1 Kc8 14. a6 { and the poor location of the black king decides. } ) 
+8. Kb3 $1 ( { The immediate } 8. Kc3 { would permit } Rh6 9. Kd4 Rh4 { , intending } 10. f4 $6 Ke6 { With the text, White aims at moving the king to d4 with Black's rook on g6 instead of h6, thus avoiding the check on the fourth rank. } ) 
+Rh6 9. Kc3 Kc6 ( { a) Black was in zugzwang; e.g. } 9... Ke6 10. Rd5 Rh1 11. Kb4 $1 Ra1 12. Rd3 Ke5 13. Ra3 Rb1 14. Kc5 ) 
+ ( { b) Or } 9... Rg6 10. Kd4 Rh6 11. Rd5 Kc6 12. Ke4 Rh4 13. f4 { , followed by Kf5, in both cases with a win for White - Smyslov. } ) 
+10. Kd4 Rg6 ( { Or } 10... Rh4 11. f4 Rh6 12. Ke4 { , transposing. } ) 
+11. f4 Rh6 12. Ke4 Rg6 ( { After } 12... Kd6 13. Rd5 Ke6 14. f5 $1 Ke7 15. Kd4 { , the king enters decisively at c5 - Smyslov. } ) 
+13. Rh5 { The threat of Kf5 spells the end for Black. } Rg1 14. Rh6 Re1+ 15. Kf5 Ra1 16. Rxf6+ Kb7 17. Rb6+ { A useful intermediate check to displace the enemy king. } Ka7 18. Re6 Rxa5+ 19. Kg6 Rc5 20. f5 Rxc4 21. f6 Rg4+ 22. Kf5 Rg1 23. f7 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553039/"]
+[Date "????.??.??"]
+[Round "24.9"]
+[White "3.6 Rook Defends Pawns"]
+[Black "Example 224- Morovic Fernandez- I. vs. Gulko- B.- New York Open 1988"]
+[Result "0-1"]
+[FEN "3R4/5pkp/p5p1/8/7P/1r6/5PP1/6K1 w - - 0 1"]
+
+ { As we saw in the previous section, rook endings of this type offer reasonable chances for a draw, although Black's case is improved here by the fact that his rook is not obliged to protect the a-pawn from the front, but can use the side angle. } 1. { -KEY- } Ra8 ( 1. Rd6 $1 { was preferable - Gulko, so that after } a5 2. Ra6 Rb5 3. f3 { , Black's king is rendered less active than in the game. } ) 
+Rb6 2. g3 $2 { A natural move, but one that lets Black carry out the 'rook defends pawns' idea. } ( { For this reason, } 2. g4 $1 { was correct - Gulko. } ) 
+h5 $1 { Black aims at a structure with pawns at f5-g6-h5 which, together with the rook on the sixth rank, would leave all his pawns protected. } 3. Kg2 Kf6 4. Ra7 Ke6 5. Kf3 Ke5 $1 6. Re7+ ( { Unfortunately for White, after } 6. Rxf7 Rf6 { , the outside passed pawn decides in the pawn ending. } ) 
+Re6 7. Ra7 f5 { Black's plan is completed, and he can now use his king for active purposes. } 8. Ra8 $6 ( 8. Ke3 Kd5 9. Kd3 { was more tenacious, when Black would have to proceed with some subtlety: } Rc6 $1 10. Ra8 Kd6 $1 11. Ra7 ( { or } 11. Kd4 Kc7 12. Kd5 Kb7 13. Rg8 a5 { and White loses control of the a-pawn; } ) 
+Kc5 $1 12. Rb7 Rb6 13. Ra7 Kb4 { and wins - Gulko. } ) 
+Kd5 9. Kf4 Kc5 10. f3 { White correctly prepares actions on the kingside, but Black is already quite fast on the opposite flank. } Kb5 11. Kg5 a5 12. g4 fxg4 13. fxg4 hxg4 14. Kxg4 a4 ( { The immediate } 14... Ra6 { also works. } ) 
+15. Kg5 Ra6 $1 { A timely bridge, exploiting the fact that only Black would queen in the pawn ending. } ( 15... Kb4 16. Rb8 { is less productive since if Black hides in front of the a-pawn with } Ka3 $2 { at this point, then after } 17. Rb7 { they won't be able to liberate the king in the end without losing the other pawn. This explains why the bridge has to take place exactly on b6. } ) 
+16. Rb8+ Ka5 17. Re8 a3 18. Re2 Kb4 19. Rf2 Kb3 20. Rf3+ Kc4 21. Rf4+ Kd5 22. Rf1 a2 23. Ra1 Kc4 24. Rc1+ ( { Or } 24. Rxa2 Rxa2 25. Kxg6 Rg2 $1 { in similar fashion to the game; } ( { though the slower } 25. Rc1+ Kd5 { works as well. } ) 
+ ) 
+Kd3 25. Ra1 Kc3 26. Rxa2 Rxa2 27. Kxg6 Rg2+ $1 { An essential intermediate check. } ( { In view of } 27... Rg2 28. Kf6 Rh2 29. Kg5 Kd4 30. h5 Ke5 { etc, White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553060/"]
+[Date "????.??.??"]
+[Round "24.10"]
+[White "3.6 Rook Defends Pawns"]
+[Black "Morovic Fernandez- I. vs. Gulko- B.- #1"]
+[Result "0-1"]
+[FEN "3R4/5pkp/p5p1/8/7P/1r6/5PP1/6K1 w - - 0 1"]
+
+ { As we saw in the previous section, rook endings of this type offer reasonable chances for a draw, although Black's case is improved here by the fact that his rook is not obliged to protect the a-pawn from the front, but can use the side angle. } 1. { -KEY- } Ra8 ( 1. Rd6 $1 { was preferable - Gulko, so that after } a5 2. Ra6 Rb5 3. f3 { , Black's king is rendered less active than in the game. } ) 
+Rb6 2. g3 $2 { A natural move, but one that lets Black carry out the 'rook defends pawns' idea. } ( { For this reason, } 2. g4 $1 { was correct - Gulko. } ) 
+h5 $1 { Black aims at a structure with pawns at f5-g6-h5 which, together with the rook on the sixth rank, would leave all his pawns protected. } 3. Kg2 Kf6 4. Ra7 Ke6 5. Kf3 Ke5 $1 6. Re7+ ( { Unfortunately for White, after } 6. Rxf7 Rf6 { the outside passed pawn decides in the pawn ending. } ) 
+Re6 7. Ra7 f5 { Black's plan is completed, and he can now use his king for active purposes. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798884/"]
+[Date "????.??.??"]
+[Round "24.11"]
+[White "3.6 Rook Defends Pawns"]
+[Black "Morovic Fernandez- I. vs. Gulko- B.- #2"]
+[Result "0-1"]
+[FEN "8/R7/p3r1p1/4kp1p/7P/5KP1/5P2/8 w - - 0 8"]
+
+8. { -KEY- } Ra8 $6 ( 8. Ke3 Kd5 9. Kd3 { was more tenacious, when Black would have to proceed with some subtlety: } Rc6 $1 10. Ra8 Kd6 $1 11. Ra7 ( { or } 11. Kd4 Kc7 12. Kd5 Kb7 13. Rg8 a5 { and White loses control of the a-pawn } ) 
+Kc5 $1 12. Rb7 Rb6 13. Ra7 Kb4 { and wins - Gulko. } ) 
+Kd5 9. Kf4 Kc5 10. f3 { White correctly prepares actions on the kingside, but Black is already quite fast on the opposite flank. } Kb5 11. Kg5 a5 12. g4 fxg4 13. fxg4 hxg4 14. Kxg4 a4 ( { The immediate } 14... Ra6 { also works. } ) 
+15. Kg5 Ra6 $1 { A timely bridge, exploiting the fact that only Black would queen in the pawn ending. } ( 15... Kb4 16. Rb8 { is less productive since if Black hides in front of the a-pawn with } Ka3 $2 { at this point, then after } 17. Rb7 { they won't be able to liberate the king in the end without losing the other pawn. This explains why the bridge has to take place exactly on b6. } ) 
+
+ 0-1

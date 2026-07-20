@@ -1,0 +1,78 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464644/"]
+[Date "????.??.??"]
+[Round "9.1"]
+[White "8. Ruy Lopez: Anti-Berlin - 4.d3 with 5.Bxc6"]
+[Black "Anti-Berlin 4.d3 & 5.Bxc6 & 6.Nc3"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to futility of White's attempts in the Berlin Endgame. } Bc5 5. Bxc6 { A starting point of this chapter. This move, which is highly popular on the high level, is hardly an attempt to gain an opening advantage. Instead, White wants to avoid more forcing lines, which often lead to quick simplification and play a slow, positional game. -KEY- } dxc6 6. Nc3 O-O 7. Be3 Bxe3 8. fxe3 Qe7 { we can play in a similar fashion as in 6.Be3 (see next variation) . } 9. O-O 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464645/"]
+[Date "????.??.??"]
+[Round "9.2"]
+[White "8. Ruy Lopez: Anti-Berlin - 4.d3 with 5.Bxc6"]
+[Black "Anti-Berlin 4.d3 & 5.Bxc6 & 6.Be3"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to futility of White's attempts in the Berlin Endgame. } Bc5 5. Bxc6 { A starting point of this chapter. This move, which is highly popular on the high level, is hardly an attempt to gain an opening advantage. Instead, White wants to avoid more forcing lines, which often lead to quick simplification and play a slow, positional game. } dxc6 6. Be3 { This is obviously non-critical, but was tried by some high-level players, so it's important to have some idea in mind here with Black. -KEY- } Bxe3 7. fxe3 Qe7 8. O-O Ng4 $1 { Not the only move but a nice way to regroup. } 9. Qd2 O-O $11 { The point of the 8th move is that Black wants to play ...f6 and retreat his knight via h6 to f7, with a very harmonious position and good preparation against potential d3-d4. I would prefer to play Black here. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464646/"]
+[Date "????.??.??"]
+[Round "9.3"]
+[White "8. Ruy Lopez: Anti-Berlin - 4.d3 with 5.Bxc6"]
+[Black "Anti-Berlin 4.d3 & 5.Bxc6 & 6.b3 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to futility of White's attempts in the Berlin Endgame. } Bc5 5. Bxc6 { A starting point of this chapter. This move, which is highly popular on the high level, is hardly an attempt to gain an opening advantage. Instead, White wants to avoid more forcing lines, which often lead to quick simplification and play a slow, positional game. } dxc6 6. b3 { A good example of play against this rare move was demonstrated by Kramnik: -KEY- } Bg4 7. h3 { Black has an amusing idea: } Qd4 $5 8. Nxd4 Bxd1 9. Nf5 { Otherwise, after 9.c3 Black would retreat the bishop and be happy with the bishop pair advantage. } Bxc2 10. Nxg7+ Kd7 $1 { The best square. White has no way to disturb Black's King here. } 11. Bg5 Ne8 12. Nxe8 Kxe8 ( { The only move. Note that } 12... Raxe8 13. Nc3 { wins for White because } Bxd3 14. Rd1 { is a pin so our Bishop can't escape. } ) 
+13. Ke2 Bxb1 { The bishop has to be exchanged sooner or later. } 14. Raxb1 Rg8 15. Bh4 h5 $11 { Black has the worse structure, but White's bishop is shut out of play. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464648/"]
+[Date "????.??.??"]
+[Round "9.4"]
+[White "8. Ruy Lopez: Anti-Berlin - 4.d3 with 5.Bxc6"]
+[Black "Anti-Berlin 4.d3 & 5.Bxc6 & 6.h3"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to futility of White's attempts in the Berlin Endgame. } Bc5 5. Bxc6 { A starting point of this chapter. This move, which is highly popular on the high level, is hardly an attempt to gain an opening advantage. Instead, White wants to avoid more forcing lines, which often lead to quick simplification and play a slow, positional game. } dxc6 6. h3 { -KEY- } Nd7 { The Knight temporarily blocks the bishop but we will maneuver it to e6 or g6. } 7. O-O O-O 8. Nbd2 Re8 9. Nc4 b5 $5 { This idea has not been tried too often by Black players, but I find it attractive. Black permanently deprives white knights of the c4 square and prepares further pawn expansion on the queenside. } 10. Ne3 Nb6 11. Bd2 a5 $11 { Black wants to slowly put his queenside pawn mass into motion, ideally achieving the c5-c4 break and getting rid of the doubled pawns. On the kingside, the standard ...Bf8, ... f6, ...g6, ...Bg7, ...Be6 is an effective setup, but refraining from f6 in order not to allow Nh4 and keep the ...Qf6 option is also a good idea. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464649/"]
+[Date "????.??.??"]
+[Round "9.5"]
+[White "8. Ruy Lopez: Anti-Berlin - 4.d3 with 5.Bxc6"]
+[Black "Anti-Berlin 4.d3 & 5.Bxc6 & 6.Nbd2 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to futility of White's attempts in the Berlin Endgame. } Bc5 5. Bxc6 { A starting point of this chapter. This move, which is highly popular on the high level, is hardly an attempt to gain an opening advantage. Instead, White wants to avoid more forcing lines, which often lead to quick simplification and play a slow, positional game. } dxc6 6. Nbd2 { This is not merely a different move order than 6.0-0 or 6.h3. By not committing himself on the kingside, White keeps an option of building an aggressive setup with Nc4, Qe2, h4-h5, Bd2 and 0-0-0 after the usual ...Nd7 and ...0-0. Of course, Black has his ways to counter this idea, but he has to react in a very nuanced way and be constantly careful about White's threats on the kingside. This is why I recommend a different, much simpler and safer approach for Black here. -KEY- } Be6 { Stopping Nc4 but } ( 6... Nd7 { is also OK. } ) 
+7. Nb3 Bb6 8. Nxe5 { This move leads to pretty forced simplifications. } Bxb3 9. axb3 Qd4 10. Ng4 { All forced. } Nxg4 11. Qxg4 Qxf2+ 12. Kd1 O-O { Black is fine, e.g. } 13. Ra4 Rae8 14. Bd2 f5 15. exf5 Qxf5 $11 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/13816734/"]
+[Date "????.??.??"]
+[Round "9.6"]
+[White "8. Ruy Lopez: Anti-Berlin - 4.d3 with 5.Bxc6"]
+[Black "Anti-Berlin 4.d3 & 5.Bxc6 & 6.0-0 #02"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to the futility of White's attempts in the Berlin Endgame. } Bc5 5. Bxc6 { A starting point of this chapter. This move, which is highly popular on the high level, is hardly an attempt to gain an opening advantage. Instead, White wants to avoid more forcing lines, which often lead to quick simplification and play a slow, positional game. } dxc6 6. O-O { -KEY- } Nd7 7. c3 { This is Joshua Doknjas' recommendation from 'The Ruy Lopez,' which has been favoured by a couple of high-class players. White builds a solid centre with d4 and places his pieces in a straightforward fashion. } O-O 8. d4 Bd6 9. Bg5 { To cause some disruption in Black's camp and then place the bishop on g3 is White's main idea. } f6 10. Bh4 a5 $1 { A very effective way of fighting for space. Black's pieces may seem passive, but they are ready to spring into action at the right moment. } 11. a4 exd4 12. cxd4 Nb6 $11 { White has the pawn centre, but Black enjoys harmonious piece play. His bishops are especially strong. The a5-a4 inclusion is clearly in Black's favour, because the a4-pawn can become the target of an attack, and the b3 and b4 squares are weakened. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/13784204/"]
+[Date "????.??.??"]
+[Round "9.7"]
+[White "8. Ruy Lopez: Anti-Berlin - 4.d3 with 5.Bxc6"]
+[Black "Anti-Berlin 4.d3 & 5.Bxc6 & 6.0-0 #03"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to the futility of White's attempts in the Berlin Endgame. } Bc5 5. Bxc6 { A starting point of this chapter. This move, which is highly popular on the high level, is hardly an attempt to gain an opening advantage. Instead, White wants to avoid more forcing lines, which often lead to quick simplification and play a slow, positional game. } dxc6 6. O-O Nd7 7. c3 { This is Joshua Doknjas' recommendation from 'The Ruy Lopez,' which has been favoured by a couple of high-class players. White builds a solid centre with d4 and places his pieces in a straightforward fashion. } O-O 8. d4 Bd6 9. Bg5 { To cause some disruption in Black's camp and then place the bishop on g3 is White's main idea. } f6 10. Bh4 a5 $1 { A very effective way of fighting for space. Black's pieces may seem passive, but they are ready to spring into action at the right moment. } 11. Nbd2 { -KEY- } a4 12. Nc4 Qe7 $11 { Black is well-prepared for mass exchanges in the centre. The light-squares are his main strength. } 
+ *

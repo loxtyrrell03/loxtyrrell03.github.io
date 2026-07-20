@@ -1,0 +1,82 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/38982710/"]
+[Date "????.??.??"]
+[Round "3.1"]
+[White "1.1) The Role of Weak Squares"]
+[Black "1.1) The Role of Weak Squares: Attacking 1"]
+[Result "*"]
+[FEN "1r3qk1/4Rp2/5Qp1/p4b1p/1p6/6P1/P4PB1/7K w - - 0 1"]
+
+ { In this first section, the focus is going to be more on understanding the significance of weak squares. The examples will focus on three aspects of weak squares: 1. Weak squares and attacking 2. Weak squares and knights 3. Weak squares and outposts As chess players, we all have an intuitive grasp of the significance of weak squares. We have all have won and lost many games due to the weakness of one or several important squares in the past, even if we may not have been thinking about it in these terms at the time. Take the following example for instance. The White player might describe their compensation for being two pawns down as 'having attacking possibilities'. } 1. { -KEY- } Bd5 $1 { Indeed, it's no surprise that here White is equal and even has the better practical chances after this aggressive move. If this were an attacking manual, we might speak about the target on f7 as a 'focal point' for White's attack. However, at the heart of these offensive possibilities is the presence of multiple weak squares on the Black kingside. If Black had a different pawn structure, White's bishop might not be able to occupy d5 while White's queen might not have access to f6. However, since these are both weak squares, White is able to secure great placements for their pieces and use this to drum up a powerful attack. This link between a positional feature like the structure, and a dynamic factor like piece activity, brings us to an important point that will be discussed throughout the course. Namely, that there is a deep link between positional play and dynamic attacking play, and you cannot truly separate the two. After all, a positional asset like a weak square is valuable not for its own sake but because it can be used as a springboard for tactical and attacking operations either immediately or in the future. Let's continue with the position for a few more moves. } Qg7 { Seeking a queen exchange to defuse the attack. } 2. Bxf7+ Kh8 3. Qg5 $1 { The White queen shuffles to the g5 square, the next closest available weak square. From here, there is only one move that saves Black. } Rf8 $2 { In the game, Black went wrong and targeted the bishop. However, now the presence of all the weak squares in the Black camp leads to an easy path to victory for White. } ( 3... Rb7 $1 { The only way to stay in the game! Black spots a clever tactic based around the poor placement of White's king on h1. } 4. Rxb7 ( 3... Rf8 3. Re8 Kh7 5. Bg8 Qxg8 ( { Black has to give up the queen, since } 5... Kh8 { loses to } 6. Bd5 { . } ) 
+6. Rxg8 Kxg8 $11 { Black's rook, bishop and pawn offer full compensation for the queen. } ) 
+Be4 $11 5. Kh2 Bxb7 6. Bxg6 Kg8 7. Qxh5 Qh8 $11 { With an equal endgame, in spite of being a pawn down. } ) 
+4. Bd5 $1 Qa1+ { Black escapes the attack with check, but now there is no way to stop mate. } 5. Kh2 $18 { Black has no good reply to the threat of mate on h6. In this example, White was able to slice through the Black position due to the weakness of not just one, but a set of squares. In particular, the dark squares on f6, g5 and h6 were all weak. This topic is explored in detail in the section on 'Color Complexes' towards the end of the chapter. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/38982711/"]
+[Date "????.??.??"]
+[Round "3.2"]
+[White "1.1) The Role of Weak Squares"]
+[Black "1.1) The Role of Weak Squares: Attacking 2"]
+[Result "*"]
+[FEN "r2qr1k1/1b3pbp/pn1P2p1/1p1p4/4N3/QB1P4/PP3PPP/R1B1R1K1 w - - 0 1"]
+
+ { At first sight, it might appear that White is in trouble here as their knight on e4 is pinned. However, it turns out that Black has a weak square that can be exploited. Can you find the best move here for White? } 1. { -KEY- } Bg5 $1 { The only move, but a very powerful one. White exploits the weak square on f6. } Qd7 { Black steps away from the attack and tries to blockade White's passed pawn on d6. } ( 1... f6 $2 { The f6 square cannot be patched up by a pawn because of the following tactic: } 2. Nxf6 $1 Bxf6 3. Rxe8 $1 { Now the queen is distracted from the defense of the f6 bishop. } Qxe8 4. Bxf6 $18 { White is two pawns to the good with a completely winning position. } ) 
+2. Nf6+ $1 { Using the weak square to force Black to part ways with their powerful dark squared bishop. } Bxf6 3. Bxf6 { Now there are numerous weakened dark squares around the Black king. } Nc8 { Targeting the d6 pawn. } 4. Rxe8+ Qxe8 5. Qc5 $1 { Complete board vision! White spots that the c5 square is also weak, and uses it to bring the queen into the game. } Qe6 6. Bc3 $1 { Preparing the queen-bishop battery. } ( 6. Be7 $2 { would throw away all of White's advantage after } Nxe7 7. dxe7 Re8 $11 { when Black will regain the pawn while maintaining reasonable piece coordination. } ) 
+Qxd6 7. Qd4 $1 { Now White takes advantage of the weak square on d4! } f6 { Forced, to avoid being checkmated. } 8. Qxf6 Qxf6 9. Bxf6 $18 { Black survives the attack along the dark squares, but the resulting endgame is lost. The problem for Black in the starting position was their very poor dark-squared control, a weakness which White's pieces were well-placed to take advantage of. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/38982712/"]
+[Date "????.??.??"]
+[Round "3.3"]
+[White "1.1) The Role of Weak Squares"]
+[Black "1.1) The Role of Weak Squares: Knights 1"]
+[Result "*"]
+[FEN "3Rn3/R7/p3rpkp/Prp1p1p1/8/1pP2P1P/1P1N1KP1/8 w - - 0 7"]
+
+ { One of the reasons why weak squares can be very valuable is that they can provide a stable post for an enemy piece. Of all the pieces, knights in particular tend to benefit the most. This is because the knight is a short range piece that cannot defend itself against the other pieces on the board due to its unique L-shaped movements. Landing a knight on a weak square can be a huge achievement and shape the entire course of a game. This can happen even in cases where the knight is on a less advanced post. Let's take a look at a couple of examples of this in action. } 7. { -KEY- } Nc4 $1 { The White knight lands on the weak square, where it is very stable and has a major influence on the game. It protects the a5 pawn, controls the d6 square, and defends the base of the White pawn chain on b2. With the knight as the glue keeping the position safe, White will soon use their rooks to target the weak pawn on a6. } e4 { Black tries to open lines of attack in order to dislodge the knight. } 8. Rda8 { Simplest. White goes after the stranded pawn. } ( 8. fxe4 $6 { would make things more messy after } Rxe4 { . } ) 
+exf3 9. Kxf3 Nd6 { Black needs to fight against the knight, but with this move they invite a mating attack. } 10. Rg8+ $1 Kh5 ( 10... Kf5 11. g4 ) 
+11. g4+ Kh4 12. Rg6 $18 { There is no defense against mate along the h-file. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/38982713/"]
+[Date "????.??.??"]
+[Round "3.4"]
+[White "1.1) The Role of Weak Squares"]
+[Black "1.1) The Role of Weak Squares: Knights 2"]
+[Result "*"]
+[FEN "3r2k1/p1qr1pb1/2b1p2p/p1p3p1/2B1P3/2P5/RP2QPPP/4RNK1 w - - 0 24"]
+
+ { This position is taken from one of my games in the 2018 Irish Championship, where I had the White pieces against IM Sam Collins. In spite of Black having the bishop pair and control of the open d-file, the position is roughly balanced due to White's superior structure. } 24. { -KEY- } Bb5 $1 { Robbing Black of his most active bishop and, at the same time, freeing up the weak c4 square for a new purpose in the future. } Bxb5 25. Qxb5 Rb8 26. Qa4 Qd8 { Black is trying to generate play along the b- and d-files. } 27. Ne3 $1 { The knight is ready to land on the weak c4 square next. } Rdb7 ( 27... Rd2 $2 { Black would be pushed back immediately if they enter, since after } 28. Nc4 $16 { Black will have to retreat his rook. } ) 
+28. Rd1 { First taking control of the open file. } Qc7 29. Nc4 $16 { White completes his plan, and as a result Black's counterplay along the b- and d-files has dried up. White will soon recover their missing pawn and have a clear advantage owing to the superior minor piece and healthier structure. Notice how, as in the previous example, the knight plays an important role in both defense (the b2 pawn) and attack (a5 pawn, d6 & e5 squares). } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/38982714/"]
+[Date "????.??.??"]
+[Round "3.5"]
+[White "1.1) The Role of Weak Squares"]
+[Black "1.1) The Role of Weak Squares: Outposts 1"]
+[Result "*"]
+[FEN "3Rn3/R7/p3rpk1/Prp1p1pp/1pN5/1P3P1P/2P2KP1/8 w - - 0 2"]
+
+ { The third topic that we'll discuss within this section is the link between weak squares & outposts, and for this we'll continue with the theme of a knight on the c4 square. Outposts are the topic of the next chapter, and are defined as 'a square on the fourth, fifth, sixth, or seventh rank which is protected by a pawn and which cannot be attacked by an opponent's pawn'. In short, an outpost is a weak square that happens to also be protected by a pawn. This position, near identical to the one examined recently, occurred in the game Anand,V - Ivanchuk,V (2001) and is the one which I modified earlier. We can see that the evaluation here is similar to the previous example. When weighing up whether to keep a square as a weak square or to convert it into an outpost, there are a few things you can consider: 1. An outpost is usually more valuable as it offers greater stability and control, so if there are no downsides, it will generally be a good idea to create an outpost. 2. Downsides however are common. Pushing pawns can give your opponent a weak square or outpost to operate on. In this example, we can see Black now has the c3 outpost. However, this is not a concern for White here since Black cannot access it. 3. If a piece is on a weak square that cannot be targeted, it is effectively as good as an outpost. In such cases, it is often not necessary to create an outpost. Let's now take a look at how Vishy Anand converted this position. } 2. { -KEY- } Rda8 { Wasting no time in targeting the weak pawn. } h4 3. Rxa6 Nc7 4. Rxe6 Nxe6 5. a6 { The passed a-pawn will cost Black his knight. } Nc7 6. Ra7 $18 { Black resigned, since a move like ...Nd5 will be met by Rd7 followed by a6-a7. We can see that this game followed a similarly brutal trajectory as our modified example from earlier, and that it did not matter whether the c4 square was a weak square or a full-fledged outpost. There is one more common decision point that you will face when considering weak squares vs outposts, which we'll now turn to discuss in our final example of the section. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/38982715/"]
+[Date "????.??.??"]
+[Round "3.6"]
+[White "1.1) The Role of Weak Squares"]
+[Black "1.1) The Role of Weak Squares: Outposts 2"]
+[Result "*"]
+[FEN "r1bqr1k1/1p1n1pbp/2p2np1/3pp3/p3P3/P1PP1NP1/1PQ2PBP/R1B1RNK1 b - - 0 1"]
+
+ { In your games, you may often have a choice between targeting an outpost or targeting a weak square. In the following example, Black could play ...Nc5-b3 to reach the outpost. However, they have an even stronger plan based on weak squares. } 1... { -KEY- } dxe4 $1 { By exchanging central pawns, Black forcibly creates a weak square on d3. } ( 1... Nc5 { Targeting the outpost is not unreasonable, but it doesn't pack as much of a punch. } 2. Be3 Nb3 3. Rad1 $13 { Black has reached the outpost, but White has a solid piece configuration and can challenge the knight on the next move with Nf1-d2. It's important to try to figure out what our opponent's defensive plan might be when targeting a specific square. } ) 
+2. dxe4 Nc5 $1 { Black now has the luxury of choice as they can move to either the weak square on d3 next, or the outpost on b3. } 3. Bg5 { White tries to complete their development. } ( 3. Rd1 $6 { This move would cover the d3 square, but leave the e4 pawn undefended. } Qe7 $17 { It proves very awkward to defend the e4 pawn. For instance, moves like Nf3-d2 or Nf1-d2 hem in White's dark-squared bishop, while an indirect defense with the move Bc1-g5 will force White to concede the bishop pair after ...h6. } ) 
+Qd3 $1 { This method for targeting the enemy squares on d3/d6 by the Black queen is a frequently recurring theme. } ( 3... Nd3 $4 4. Red1 { The pin costs Black a full piece. } ) 
+4. Qxd3 { Black has too much pressure against e4, so the queen exchange is forced. } Nxd3 $17 { The weak d3 square proves to be a much more effective target than the b3 outpost. From here the knight is more centrally placed and arrives on the square with a double attack against the White pieces. White will have to move the rook to e2 to hold things together, but soon Black's bishops will come to the party (...Be6-c4, ...Bf8-c5) which will strain the White position further. Black is close to winning. Knowing which squares to choose comes with practice, and with familiarity over a range of different positions. However, there are some useful rules of thumb or questions that you may wish to ask yourself to help to guide you. Below is a partial list: 1. Between the weak square and the outpost, which is more advanced? 2. Which is more central? 3. Does occupying either square come with a threat against the enemy's position? 4. How does occupation of each square link up with our broader strategy? 5. How easily can our opponent challenge or dislodge our piece? In the case of the example we have just covered, the d3 square was more attractive, as from here Black entered the position with several threats while White's pieces were not well-placed to challenge the knight. This concludes our first section of this chapter. In the next section, we'll be focusing on identifying and targeting weak squares. See you there! } 
+ *

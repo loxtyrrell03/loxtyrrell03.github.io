@@ -1,0 +1,822 @@
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11893718/"]
+[Date "????.??.??"]
+[Round "5.1"]
+[White "4. Essential Theoretical Endgames"]
+[Black "How to Learn Theoretical Endgames"]
+[Result "*"]
+
+ { The previous chapter has shown the importance of patterns and how to internalise them, regardless of which phase of the game we are talking about. So, to improve our endgame calculation, we need to study patterns that are unique to endgames. And there is no better place to start than theoretical endings. This will be the focus of the chapter. To be clear, this chapter is not a substitute for endgame manuals. Rather, it is a Quickstarter Guide designed to improve your efficiency in studying these manuals. In particular, I will show how variations of a given theoretical endgame will often transpose to other theoretical endgames. This means that instead of memorising moves blindly, we should aim to observe recurring patterns in the endgame and understand the underlying concepts. Comprising 60 positions, this chapter offers a few important tips which will help you navigate confidently even if you are outside your repertoire of endgames. Examples of these tips include “If the defender’s King is in front of the attacker’s pawn, drawing chances significantly increase” and “There must be at least three files/ranks between a checking Rook and the enemy pawn for perpetual check”. As we go along, I will be making references to previous positions. For your easy reference, I recommend that you open a second tab. In this way, you can conveniently compare the current positions we are studying and the referenced positions covered earlier. When going through this chapter, make a conscious effort to identify similar patterns across different endgames. From these patterns, try to infer general principles you believe will improve your overall sense of chess endgames. With regular practice, you will not only better appreciate the positions we will cover, but also develop a deeper understanding of any new positions you study in the future. Don’t worry if you are unable to draw any principles from this chapter because I will list them at the end. On the flip side, don’t be too concerned if your list does not match mine. It is entirely possible to derive other principles from the positions. Before we get started, I’d like to clarify a few terms so that I can write more freely. 1 Rook pawns refer to pawns on the a or h-files 2 Knight pawns refer to pawns on the b or g-files 3 Bishop pawns refer to pawns on the c or f-files 4 Central pawns refer to pawns on the d or e-files 5 The “Attacker” refers to the stronger side, or the side playing for a win 6 The “Defender” refers to the weaker side, or the side playing for a draw } 1. -- 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11907562/"]
+[Date "????.??.??"]
+[Round "5.2"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 1 | K vs K (Opposition)"]
+[Result "*"]
+[FEN "8/8/4k3/8/8/4K3/8/8 w - - 0 1"]
+
+ { Before we begin to study pawn endgames, there is a concept that you need to be familiar with - opposition. There are many types of oppositions, but the one that you need to know for the time being is the direct opposition - that is, moving to the square two squares below the enemy King. By doing this, you take away ALL the advancing squares of your opponent’s King. With no other pieces interfering, once you get opposition, you should be able to maintain it indefinitely by following the Black King. } 1. { -KEY- } Ke4 Kd6 2. Kd4 Kc6 3. Kc4 Kd7 4. Kd5 Ke7 5. Ke5 Kf8 6. Kf6 Kg8 7. Kg6 Kh8 8. Kh6 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11907564/"]
+[Date "????.??.??"]
+[Round "5.3"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 2 | K+P vs K #1"]
+[Result "*"]
+[FEN "8/8/8/4kp2/8/4K3/8/8 w - - 0 1"]
+
+ { In a King + pawn vs King endgame, the defending side can draw if the attacker's King is beside or behind its pawn. } 1. { -KEY- } Kf3 f4 { As the defender, your strategy is simple, there are only 3 points to remember: 1. Always aim to stay directly in front of the pawn. In these endgames, that is ALWAYS the best square. 2. If you are forced to retreat, do so along the same file as the pawn. Here, our King is optimally placed on f3. Since we must retreat here, we will move to f2, remaining on the f-file. 3. Take the opposition when the opponent’s king moves to the side of the pawn. } 2. Kf2 Ke4 { Now that the Black King is beside the pawn, we should take the opposition. } 3. Ke2 f3+ 4. Kf2 Kf4 { We must retreat, so let's move to f1 } 5. Kf1 ( 5. Ke1 $4 Ke3 6. Kf1 f2 7. Kg2 Ke2 ) 
+ ( 5. Kg1 $4 Kg3 6. Kf1 f2 7. Ke2 Kg2 ) 
+Kg3 { We must take the opposition , so } 6. Kg1 Kg4 7. Kf2 Kf4 8. Kf1 Ke4 { Here, we should move to the best square, f2 } 9. Kf2 ( 9. Ke1 $4 Ke3 10. Kf1 f2 11. Kg2 Ke2 ) 
+Kf4 { We must retreat here, so we should move to f1 } 10. Kf1 Ke3 11. Ke1 f2+ { What else is there to try? } 12. Kf1 Kf3 { Stalemate is the best Black can do here } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11907565/"]
+[Date "????.??.??"]
+[Round "5.4"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 3 | K+P vs K #2"]
+[Result "*"]
+[FEN "8/8/8/5p2/5k2/8/8/5K2 w - - 0 1"]
+
+ { If the attacker's King is placed in front of the pawn (referring to e4, f4, or g4 in this example) , all is not lost. If we are able to take the opposition as the defender , the game is drawn. } 1. { -KEY- } Kf2 Ke4 { Here, we must continue to maintain the opposition } 2. Ke2 Kf4 3. Kf2 Kg4 4. Kg2 { Eventually, Black will need to break the repetition, either by moving beside the pawn, or away from the pawn. Since we already know the drawing technique for the former, let's take a look at the latter. } Kh4 5. Kf3 { Threatening to go after the pawn works best } Kg5 6. Kg3 { You should be back on familiar ground by now (Refer to Position 2) } f4+ 7. Kf3 Kf5 8. Kf2 { Draw } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11907566/"]
+[Date "????.??.??"]
+[Round "5.5"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 4 | K+P vs K #3"]
+[Result "*"]
+[FEN "5k2/8/8/8/8/8/5P2/5K2 w - - 0 1"]
+
+ { Let's take a look at the winning technique. This is only possible if our King is in front of our pawn while the opponent does not have the opposition. That is why we should avoid moving our pawn at the start, and instead, advance our King } 1. { -KEY- } Ke2 Kf7 2. Kf3 Kf6 { This plan of advancing our King has been a success. Our King is in front of our pawn and we took the opposition. } 3. Kf4 Ke6 4. Kg5 { Remember, we are the attacker here, so we don't want a draw. Instead of taking the opposition meaninglessly by shadowing the enemy King indefinitely, we should use our King to shove him away. } Kf7 ( 4... Ke5 5. f4 Ke6 6. Kg6 Ke7 7. f5 Kf8 ( 7... Ke8 8. Kg7 { f6-f7-f8 is unstoppable } ) 
+8. Kf6 { Our King is in front of our pawn and we took the opposition, so we are winning } Kg8 9. Ke7 { Again, f6-f7-f8 is unstoppable } ) 
+5. Kf5 Kg7 { Our King has gained quite a lot of space. It is time to move our pawn up, but how many squares should it advance? 1 or 2? } 6. f3 ( 6. f4 $4 { Would be a big-time blunder since Black can take the opposition, drawing the game (Refer to Position 3) . } Kf7 ) 
+Kf7 { Black has still taken the opposition, but we still have a spare pawn move. We can use it to take the opposition } 7. f4 { Even though this isn't a King move, this does take the opposition. We have taken away all the advancing squares of the enemy King. } Ke7 8. Kg6 { Again, we want to fight for more space rather than maintain the opposition. } Ke6 9. f5+ Ke7 10. Kg7 { Once we have our pawn on the fifth rank and our King controlling the rest of the advancing squares of the pawn (f6, f7, and f8), we are guaranteed to score a touchdown. } Ke8 11. f6 Kd7 12. f7 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11907567/"]
+[Date "????.??.??"]
+[Round "5.6"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 5 | K+P vs K #4"]
+[Result "*"]
+[FEN "8/8/8/4kp2/8/8/8/4K3 w - - 0 1"]
+
+ { An attacker's King in front of his pawn can be neutralised with opposition. So before it happens, we should anticipate the King's advance to those squares and prepare to take the opposition. Here, Black will play either Ke4 or Kf4. We want to be able to meet those moves with Ke2 and Kf2 respectively. Hence, we remain on the non-committal square f1, keeping both options of Ke2 and Kf2 open. This is known as distant opposition. } 1. { -KEY- } Kf1 Kf4 ( 1... Ke4 2. Ke2 ) 
+ ( 1... Kd4 { By moving to d4, Black threatens to move to e3, where it would have gained too much space. 1…Kd4 also threatens 2…Ke4, which we must meet with 3. Ke2, taking the opposition. Hence, our mission is to stop 2…Ke3 without playing 2. Ke2 and we arrive at the answer, 2. Kf2. } 2. Kf2 ) 
+2. Kf2 { And we have already learnt how to draw this position - just follow the Black King (Refer to Position 3) } Kg4 3. Kg2 Kf4 4. Kf2 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11907568/"]
+[Date "????.??.??"]
+[Round "5.7"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 6 | K+P vs K #5"]
+[Result "*"]
+[FEN "8/8/6k1/8/8/3P4/8/4K3 w - - 0 1"]
+
+ { In this position, we know that the plan is to move in front of our pawn, but how should we do it? Via the pawn’s left side or right side? The answer lies in the enemy King's position. We want to chaperone the pawn from the OPPOSITE side of the enemy King. This is to avoid the Black King taking the opposition, or worse, stopping us from moving in front of our pawn altogether. } 1. { -KEY- } Kd2 ( 1. Ke2 Kf5 ( 1. Kd2 Kf7 { To show how impossible it is for White to win, I want to show that the ridiculous ...Kf7 still draws the game. The point is that Black can still take distant opposition, and then 'regular opposition' once we move in front of our pawn. } 2. Ke3 Ke7 $1 3. Kd4 Kd6 $11 ) 
+ ) 
+Kf5 2. Kc3 Ke5 3. Kc4 { Notice that the Black King is a tad too far from the drawing square, c6 } Kd6 4. Kd4 { Now, we are in front of our pawn and have the opposition. This secures the win. (Refer to Position 4) } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11919511/"]
+[Date "????.??.??"]
+[Round "5.8"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 7 | K+P vs K #6"]
+[Result "*"]
+[FEN "8/8/8/8/6kp/4K3/8/8 w - - 0 1"]
+
+ { If the attacker has a rook pawn, the defence is simple. Run to the corner where the pawn will promote. } 1. { -KEY- } Kf2 Kh3 2. Kg1 Kg3 3. Kh1 { Once you reach the corner, stay there. As long as you don't leave the three squares, g1, h1, and h2, the draw is yours. } h3 4. Kg1 h2+ { There is nothing else for Black to try } 5. Kh1 { Black does not have anything better than stalemate. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11919514/"]
+[Date "????.??.??"]
+[Round "5.9"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 8 | K+P vs K #7"]
+[Result "*"]
+[FEN "8/8/8/6kp/2K5/8/8/8 w - - 0 1"]
+
+ { If we are blocked from reaching the corner, we should head for either f1/f2, c1/c2, f8/f7 or c8/c7, depending on which is closest to the pawn’s queening square. In this case, the square is f1/f2. } 1. { -KEY- } Kd3 Kf4 2. Ke2 Kg3 3. Kf1 Kh2 { If we are ever allowed to go to the h1 corner, we make a move for it immediately. Otherwise, we wait by shuffling between f1 and f2 } 4. Kf2 h4 5. Kf1 h3 ( 5... Kg3 { We are back on familiar ground (Refer to Position 7) } 6. Kg1 h3 7. Kh1 h2 ) 
+6. Kf2 Kh1 7. Kf1 h2 8. Kf2 { This time, we are the ones stalemating our opponent. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11919532/"]
+[Date "????.??.??"]
+[Round "5.10"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 9 | K+P vs K #8"]
+[Result "*"]
+[FEN "8/3k4/K7/P7/8/8/8/8 w - - 0 1"]
+
+ { As the attacker with a rook pawn, we want to not only stop the King from moving to the corner, but also stop him from moving to the drawing squares c8 and c7. Hence, we find the only winning move. } 1. { -KEY- } Kb7 { Once Kc8 and Kc7 is stopped, the win is trivial. } Kd6 2. a6 Kc5 3. a7 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11919533/"]
+[Date "????.??.??"]
+[Round "5.11"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 10 | K+B+P vs K #1"]
+[Result "*"]
+[FEN "8/8/1b6/7k/7p/8/8/7K w - - 0 1"]
+
+ { If the defender has already reached the corner where the rook pawn aims to promote, an extra Bishop on the wrong colour complex will not help. The attacker will have nothing better than stalemate so long as the White King stays on the g1, g2, h1 and h2 squares. } 1. { -KEY- } Kh2 Kg4 2. Kh1 h3 3. Kh2 Kh4 4. Kh1 Kg3 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12122668/"]
+[Date "????.??.??"]
+[Round "5.12"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Puzzle 11 | K+B+P vs K"]
+[Result "*"]
+[FEN "8/8/P1k5/8/8/2K5/8/4B3 w - - 0 1"]
+
+ { An extra rook pawn and an extra Bishop on the wrong colour complex may not be enough for a win (Refer to Position 10) . So as the attacker, what should we do? We want to prevent the opponent’s King from reaching the corner. } 1. { -KEY- } Bf2 $1 { Stopping the Black King from running to the corner via b6. } ( 1. a7 $4 { allows the King to reach the corner easily } Kb7 2. Bf2 { This is an easy draw for Black (Refer to Position 10). } ) 
+Kc7 2. Ba7 $1 { Taking away both the b6 and b8 squares } Kc6 3. Kc4 { Our King arrives to stop ...Kb5 just in the nick of time } ( 3. Kc4 Kc7 4. Kc5 Kc8 5. Kc6 Kd8 6. Bb8 { And we queen our pawn shortly. The takeaway here is not so much this particular combination but the idea that the attacker must try to stop the defender's King from running to the corner. } ) 
+
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11934467/"]
+[Date "????.??.??"]
+[Round "5.13"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 12 | P vs K #1"]
+[Result "*"]
+[FEN "7k/8/5K2/p7/8/8/8/8 w - - 0 1"]
+
+ { Whenever you want to quickly calculate if a King can catch the enemy passed pawn in a basic king and pawn ending, we can use a method known as the pawn square. This method is far superior to conventional calculation methods because of its incredible efficiency. The concept is simple: Before the King moves, draw a diagonal line from the pawn to the last (promotion) rank. This will be the diagonal of a square known as the pawn square. If the King is able to enter the square, he can catch the pawn. Otherwise, the pawn queens unscathed. Here, the King can enter the box. Therefore, White catches the pawn and this is a draw. } 1. { -KEY- } Ke5 a4 2. Kd4 a3 3. Kc3 a2 4. Kb2 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11934517/"]
+[Date "????.??.??"]
+[Round "5.14"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 13 | P vs K #2"]
+[Result "*"]
+[FEN "8/8/8/8/1k6/8/7P/K7 w - - 0 1"]
+
+ { It is very important to bear in mind that the pawn square technique CANNOT be applied if the pawn is on the second rank. This is because the pawn can still move two squares and will disrupt the elegant geometry and mathematics of the pawn square rule. Instead, we need to calculate one move deeper, where the pawn would have left the second rank for the fourth rank and the King would have taken a step closer to the pawn. Here, this scenario plays out. The Black King has just entered the pawn square. However, our pawn holds the trump card of the double move. } 1. { -KEY- } h4 Kc5 { Notice the King is now no longer in the box. This means that our pawn will score a touchdown. } 2. h5 Kd6 3. h6 Ke7 4. h7 Kf8 5. h8=Q+ 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11934519/"]
+[Date "????.??.??"]
+[Round "5.15"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 14 | K + 2P vs K #1"]
+[Result "*"]
+[FEN "8/1k6/1P6/P7/8/8/8/6K1 w - - 0 1"]
+
+ { Now we will be examining untouchable pawns. These refer to a pair of pawns that a lone enemy King cannot capture because the two pawns mutually defend each other, either directly or indirectly. An example of this is connected pawns. These pawns are fearless in the face of a mere enemy King. Despite the White King being far, this is a win because White can take his time to waltz his King up to help his pawns promote. And there is nothing the Black King can do about it in the meantime. The b6 pawn is directly protected by the a5 pawn, and the King can never touch the pawn on a5 because he will be leaving the pawn square of the b6 pawn (Refer to Position 12) . The following moves will clearly illustrate what I have described. } 1. { -KEY- } Kf2 Ka6 { Unable to capture the b6 pawn, the Black King goes for the one on a5 } 2. Ke3 { The White King calmly makes his way over } Kxa5 { The Black King has got one of the pawns, but now the other one runs away } 3. b7 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11934520/"]
+[Date "????.??.??"]
+[Round "5.16"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 15 | K + 2P vs K #2"]
+[Result "*"]
+[FEN "8/8/1k6/8/P1P5/8/8/7K w - - 0 1"]
+
+ { Even if the two passed pawns are separated by a file, they are still untouchable pawns. } 1. { -KEY- } Kg2 Kc5 { Black is threatening to take on c4, how can we stop it? } 2. a5 $1 { The c4 pawn is now untouchable because when Black plays …Kxc4, we will push the a-pawn to victory. } Kc6 { Let's see what happens if Black goes after the a-pawn instead. } 3. Kf3 Kb7 { Now ...Ka6 followed by ...Kxa5 is a strong threat. Since the idea is to meet ...Ka6 with c6, we should prepare that with c5 now } 4. c5 { Yet again, the two pawns indirectly mutually defend each other. If the Black King attacks and captures one pawn, the other runs up the board. } Ka6 5. c6 { As the Black King approached the a-pawn, the c-pawn had made a run for it } Kxa5 6. c7 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11949496/"]
+[Date "????.??.??"]
+[Round "5.17"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 16 | K + 2P vs K #3"]
+[Result "*"]
+[FEN "8/8/8/8/8/P2kP3/8/7K w - - 0 1"]
+
+ { The same concept applies for pawns with 3 or more files between them - the passed pawns can mutually defend each other by continually threatening to run up the board. Here, Black is threatening to take on e3. } 1. { -KEY- } a4 $1 { The Black King must run back to stay within the pawn square of the a-pawn } Kc4 { Now Black is threatening ...Kb4 } 2. e4 $1 { Planning to meet } Kb4 { with } 3. e5 $1 { And the pattern repeats itself } Kc5 4. a5 Kb5 5. e6 Kxa5 6. e7 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11995665/"]
+[Date "????.??.??"]
+[Round "5.18"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 17 | K + 2P vs K #4"]
+[Result "*"]
+[FEN "k7/8/P3p2p/8/6K1/8/8/8 w - - 0 1"]
+
+ { Strangely enough, passed pawns with exactly two files between them are NOT untouchable. This is because they are not quite far enough to keep the enemy King busy running from side to side (Refer to Position 16) . At the same time, they don't create a barrier to defend each other like the case of them separated by a single file (Refer to Position 15) . Hence, the defender can draw this. } 1. { -KEY- } Kh5 e5 2. Kg4 Ka7 3. Kf5 h5 4. Kxe5 h4 5. Kf4 h3 6. Kg3 h2 7. Kxh2 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11949498/"]
+[Date "????.??.??"]
+[Round "5.19"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 18 | 2P vs K #1"]
+[Result "*"]
+[FEN "8/5qk1/8/4P3/7P/1Q6/1K6/8 w - - 0 1"]
+
+1. { -KEY- } Qxf7+ Kxf7 2. h5 { When pawns are untouchable, it merely means that they can hold off the enemy King. These pawns may need their King’s help to queen safely. However, they can sometimes queen on their own. Here is a rule to help you identify such cases: When two passed pawns are on the same rank, and they are at least as far from each other as they are from the promotion square, one of those pawns will queen. Here, the pawn on e5 is just as far from its promotion square as it is from its compatriot on the h-file. This means at least one of those pawns will score a touchdown. } Ke6 3. h6 Kxe5 ( 3... Kf7 4. e6 Kg6 5. e7 Kf7 6. h7 ) 
+4. h7 Kf6 5. h8=Q+ 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11949499/"]
+[Date "????.??.??"]
+[Round "5.20"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 19 | 2P vs K #2"]
+[Result "*"]
+[FEN "1k6/8/P7/2P5/8/7p/6p1/6K1 w - - 0 1"]
+
+1. { -KEY- } c6 { Again, the pawns are two squares away from each other and two squares from the promotion square. This means that White wins, despite his King being tied down by the Black pawns. } h2+ ( 1... Kc7 2. a7 ) 
+ ( 1... Ka7 2. c7 ) 
+2. Kxh2 g1=Q+ 3. Kxg1 Ka7 4. c7 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11949501/"]
+[Date "????.??.??"]
+[Round "5.21"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 20 | K+R+P vs K+R #1"]
+[Result "*"]
+[FEN "4K3/4P1k1/8/8/8/3r4/8/4R3 w - - 0 1"]
+
+ { You may recall that when the attacker's King is in front of his pawn in K + P vs K endgames (Refer to Positions 4 and 6) , the position is winning. Likewise, this rule applies in K + R + P vs K + R endgames. Known as the Lucena Position, it can be won by using the bridge technique. First, we must allow the White King to step outside so that the pawn can promote. } 1. { -KEY- } Rg1+ Kh7 2. Rg4 { The White Rook now belongs precisely on the fourth rank. The variation with 2. Kf7 will explain why. If the White King immediately steps outside, he will face an unstoppable barrage of checks } ( 2. Kf7 Rf3 3. Ke6 Re3 4. Kd6 Rd3 5. Kc5 ( 5. Ke5 Re3 ) 
+Re3 { This is a useful tip for rook endings: If there are THREE files/ranks between the checking Rook (Black) and the enemy pawn (White), the Rook can check the enemy King indefinitely. This is because the King is unable to attack the Rook while keeping his pawn defended. In this position, the furthest the White King can stray from his pawn is the fifth rank. Hence, the White Rook must provide cover on the fourth rank. } ) 
+Rd2 3. Kf7 Rf2+ 4. Ke6 Re2+ 5. Kf6 Rf2+ 6. Ke5 Re2+ { With the Rook on the fourth rank, the White King does not need to step back to defend the pawn anymore. } 7. Re4 { And we promote next } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11951041/"]
+[Date "????.??.??"]
+[Round "5.22"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 21 | K+R+P vs K+R #2"]
+[Result "1/2-1/2"]
+[FEN "8/5r2/8/8/8/kp6/8/1K5R w - - 0 1"]
+
+ { You may also remember that when the defender's King is in front of the attacker’s pawn in K + P vs K endgames (Refer to Positions 2, 3, and 5) , the position is drawn. This rule similarly applies in K + R + P vs K + R endgames. Against Knight pawns or Rook pawns, the defensive technique is simple - place your Rook on the last rank and wait. A passive defence indeed. } 1. { -KEY- } Rg1 Rf2 2. Rh1 Ra2 3. Rg1 Rb2+ 4. Ka1 Rc2 5. Kb1 Rb2+ 6. Ka1 Re2 7. Kb1 Ra2 8. Rh1 ( 8. Rh1 b2 { If Black tries to win by threatening Ra1, he loses to } 9. Rh3 Kb4 10. Kxa2 ) 
+
+ 1/2-1/2
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11951043/"]
+[Date "????.??.??"]
+[Round "5.23"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 22 | K+R+P vs K+R #3"]
+[Result "*"]
+[FEN "7R/r7/8/8/3pk3/8/8/3K4 w - - 0 1"]
+
+ { If the attacker has a bishop pawn or a central pawn, passive defence no longer works. Instead, we need to use the Philidor technique. The first step is to place our Rook on the third rank. This prevents the enemy King from advancing any further to threaten checkmate. } 1. { -KEY- } Rh3 { Passive defence does not work because Black can skewer our King and Rook from the other side. } ( 1. Rh1 Ra1 ) 
+Ra1+ 2. Kd2 Ra2+ 3. Kd1 Kd5 4. Rg3 Kc4 ( 4... Ra7 5. Rh3 Rc7 6. Rg3 Ke4 7. Rh3 Rc3 8. Rxc3 dxc3 9. Kc2 Kd4 10. Kc1 ) 
+5. Rh3 d3 { Black may push his pawn to create a 3rd rank shield to threaten ...Kc3. When that happens, move the Rook to the last rank immediately and keeping checking your opponent from there. } 6. Rh8 Kc3 7. Rc8+ Kd4 8. Rd8+ Kc4 9. Rc8+ Kb5 { If the Black King ever strays too far, go after the pawn. } 10. Rd8 Ra3 11. Kd2 Kc4 12. Rc8+ Kd4 13. Rd8+ Ke4 14. Re8+ Kf5 15. Rd8 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11951045/"]
+[Date "????.??.??"]
+[Round "5.24"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 23 | K+R+P vs K+R #4"]
+[Result "*"]
+[FEN "3R4/8/7r/8/2p5/2k5/8/2K5 w - - 0 1"]
+
+ { Sometimes we are not in time to move our Rook to the third rank. To avoid checkmate, we must shift our King out of danger. Which side should the King run to? The outcome of the game hinges on this decision. The correct move is to go towards the side of the board which is closer to the pawn. This is known as the short side. } 1. { -KEY- } Kb1 { As mentioned in Position 22, passive defence does not work against central pawns. } ( 1. Rd1 Kb3 2. Re1 c3 3. Rf1 Ra6 4. Kb1 c2 5. Kc1 Ra1 ) 
+Rh1+ 2. Ka2 Kc2 3. Rg8 { After that forcing sequence of moves, we should move our Rook as far away from the pawn as possible. This is known as the long side. Since there are at least THREE files/ranks between the checking Rook and the enemy pawn, we can check the Black King laterally till kingdom come. } c3 4. Rg2+ Kd3 5. Rg3+ Kd2 6. Rg2+ 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12130685/"]
+[Date "????.??.??"]
+[Round "5.25"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 24 | K+R+P vs K+R #5"]
+[Result "*"]
+[FEN "6R1/4r3/8/8/8/8/3K3p/7k w - - 0 1"]
+
+ { The rook pawn has several unique properties, making its rook ending more complex than those of other pawns. For one, the defender has the option to trade Rooks into a drawn King and pawn ending in many more positions (Refer to Position 7 and 8) . Additionally, when the attacker's King moves in front of his pawn, the enemy Rook can sit on the adjacent file, trapping the king. In fact, in this position, despite being cut off by three files, White can hold the draw very comfortably. He just needs to ensure that his King controls the e1 square for as long as the Black Rook remains on the e-file. } 1. { -KEY- } Kd1 Re6 2. Kd2 Re7 3. Kd1 Ra7 4. Ke2 Ra1 5. Kf2 { As it can be seen from this move, Black is one move too slow. He needs to cut the King off by four files to win. Even then, the win involves many lengthy variations which we will analyse next (Position 25). } Rg1 6. Ra8 Rg2+ 7. Kf1 Rg1+ 8. Kf2 Rg6 9. Ra1+ Rg1 10. Rf1 $1 { Immediately forcing a draw by stalemate } Rxf1+ { Black has no other legal moves } 11. Kxf1 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11951047/"]
+[Date "????.??.??"]
+[Round "5.26"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 25 | K+R+P vs K+R #6"]
+[Result "*"]
+[FEN "K7/P4k2/8/8/8/8/1r6/4R3 w - - 0 1"]
+
+1. { -KEY- } Rh1 ( 1. Rc1 { with the idea of Rc8 followed by Rb8 is also correct } ) 
+Ke7 2. Rh8 Kd6 { Weaker is } ( 2... Kd7 3. Rb8 Rc2 4. Kb7 Rb2 5. Ka6 Ra2 6. Kb6 Rb2 7. Kc5 { The Black King would prefer to be on d6 to trap the White King on the a and b-files } ) 
+3. Rb8 Ra2 4. Kb7 Rb2+ 5. Kc8 { White chooses the only correct way to escape } ( 5. Ka6 Ra2 6. Kb6 Rb2 7. Ka5 Ra2 8. Kb6 ) 
+Rc2+ 6. Kd8 Rh2 $1 { Threatening Rh8# } 7. Rb6+ Kc5 8. Rc6+ $3 ( 8. Ra6 Rh8 { The White King cannot step on the sixth rank because of the skewer. If the White King zigzags his way to the kingside on the last two ranks, Black will play Ra8 and quickly pick up the pawn with its King's help. } ) 
+Kd5 ( 8... Kb5 9. Rc8 Rh8 10. Kc7 Rh7 11. Kb8 ) 
+ ( 8... Kxc6 9. a8=Q { Even if the Rook and the King were not separated, this is an easy win } Kc5 10. Qc8 Kd4 11. Qg4 Kd5 12. Qf5 Kc6 13. Qe6 Kc5 14. Qe5 ) 
+9. Ra6 { Only now is Ra6 strong because the Black King is no longer guarding the queenside } Rh8+ 10. Kc7 Rh7+ 11. Kb6 Rh6+ 12. Kb5 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11951048/"]
+[Date "????.??.??"]
+[Round "5.27"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 26 | K+R+P vs K+R #7"]
+[Result "*"]
+[FEN "3r4/8/8/4pk2/8/2K5/8/7R w - - 0 1"]
+
+ { I will now present you yet another defensive idea in R+P vs R endings, the frontal attack. In this position, it looks as though Black is about to convert this into a Lucena position (Position 20) as the Black King chaperones his pawn while the White king remains cut out. If the pawn had already crossed the fourth rank, the winning technique will be trivial. Otherwise, we do have a simple idea to hold the half point - constantly check the King or pressure the e-pawn. } 1. { -KEY- } Rf1+ $1 Ke4 2. Re1+ Kf4 3. Rf1+ Ke3 4. Re1+ { This idea works because there are THREE ranks between the checking Rook and the enemy pawn. Knowing common endgame themes can truly help us solve theoretical endgames! } Kf4 5. Rf1+ Ke4 6. Re1+ Kf5 7. Rf1+ Ke6 8. Re1 Rd4 { Intending to block the checks with the Rook. This idea, however, fails as the Black Rook is now overworked on both axes. On top of that, he cannot advance his pawn as the Rook will be left undefended. } 9. Rf1 { Other waiting moves along the first rank are fine as well. } Kd5 10. Ra1 $1 { Still preventing ...e4 from being played. } Ke4 11. Re1+ Kf5 12. Rf1+ Rf4 { This move blocks the check, but allows the White King to go in front of the pawn. } 13. Rh1 e4 14. Kd2 { White will soon convert this to a Philidor position (Refer to Position 22) } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11951049/"]
+[Date "????.??.??"]
+[Round "5.28"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 27 | K+R+P vs K+R #8"]
+[Result "*"]
+[FEN "3r4/8/8/6k1/3P4/3K4/8/5R2 w - - 0 1"]
+
+ { Let's now take a look at a similar position where the defender's King is cut off by two files. This is a win. However, the White King and pawn alone still have no way of making progress by themselves. This is where the White Rook can help create a breakthrough. Unlike the previous position, the Black King requires too much time to get back into the scene. } 1. { -KEY- } Kc4 Rc8+ 2. Kd5 Rd8+ 3. Kc5 Rc8+ 4. Kb6 Rd8 5. Rd1 $1 Kf6 { Had the White Rook only cut the Black King off by one file, the Black King would be at e6 by now and would easily draw the game. } 6. Kc7 Rd5 7. Kc6 Rd8 8. d5 { White will soon convert this into a Lucena position (Position 20). Any attempt by the Black King to get closer to his pawn now would be met with Re1+ } Ke7 9. Re1+ Kf7 10. d6 Rc8+ 11. Kd7 Rc2 12. Kd8 Rc3 13. d7 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11951051/"]
+[Date "????.??.??"]
+[Round "5.29"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 28 | K+R+P vs K+R #9 (Negative example)"]
+[Result "*"]
+[FEN "4r3/8/8/7k/4P3/4K3/8/6R1 w - - 0 1"]
+
+ { Here is a deceptively similar position to the previous one (Position 27) . Let's see what happens if White decides to nonchalantly use the same winning idea here. } 1. { -KEY- } Kd4 Rd8+ 2. Ke5 Re8+ 3. Kd5 Rd8+ 4. Kc6 Re8 5. Re1 Kg6 6. Kd7 Ra8 $1 { This is the key difference. With this much space on the side opposite to the Black King, Black is able to have THREE files between his rook and the white pawn. As seen in Position 23, this means that the defender is now capable of checking the attacker indefinitely. } 7. Rf1 Kg5 8. e5 Ra7+ 9. Kd6 Ra6+ 10. Kd5 Ra5+ 11. Kd6 { White cannot stray too far from his pawn } Ra6+ 12. Kc7 Kg6 13. Kd7 Ra7+ 14. Kc8 Re7 15. Re1 Kf5 { It would seem that in this special case, two files is not enough for the win. However, there is a new feature in the position: The Black King is at the edge of the board, which allows for some mating ideas. We'll find out how to use that resource in the next position. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/16268519/"]
+[Date "????.??.??"]
+[Round "5.30"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 28 | K+R+P vs K+R #9"]
+[Result "*"]
+[FEN "4r3/8/8/7k/4P3/4K3/8/6R1 w - - 0 1"]
+
+ { For mating ideas to work, we need the Black King on either h4 or h6. And to force the King to move from h5 to either of those squares, we need to triangulate our Rook with Rg1-g2-g7-g1 } 1. { -KEY- } Rg2 { Black can only move the King. The Black Rook is paralysed on e8 because it needs to stay on the e-file and remain three squares from the pawn. } Kh4 ( 1... Re7 { allows White's King to advance } 2. Kd4 Rd7 3. Ke5 Re7 4. Kd5 Rd7 5. Ke6 { The Black Rook is too close to the White pawn } ) 
+ ( 1... Ra8 { allows the pawn to advance } 2. e5 ) 
+ ( 1... Kh6 { This allows mating ideas to appear. White must first bring his King to f6 } 2. Kf4 Rf8 3. Ke5 Re8 4. Kf6 $1 { The pawn cannot be taken because of mate } Rxe4 ( 4... Rf8 5. Ke7 { followed by e5 and e6 } ) 
+5. Rh2 Rh4 6. Rxh4 ) 
+2. Rg7 ( 2. e5 $4 Rxe5 3. Kf4 { Doesn't quite work because White's Rook is on g2 } Kh3 { Counterattacking the Rook and stopping mate } ) 
+Kh5 3. Rg1 { The Rooks has triangulated and Black must now move his King to h4 or h6 } ( 3. Kf4 $2 { Building a bridge like in the Lucena position doesn't work } Rf8 4. Ke5 Re8 5. Kf5 Rf8 6. Ke6 Re8 7. Re7 $4 Rg8 $1 { The point! Now that Black has gained control over the g-file, the Black King can inch towards the White pawn and draw the game } ) 
+Ra8 ( 3... Kh4 4. e5 Rxe5 5. Kf4 { Now that our Rook is on g1 rather than g2, Black cannot escape mate while counterattacking our Rook. } ) 
+ ( 3... Kh6 4. Kf4 Rf8 5. Ke5 Re8 6. Kf6 { With the same mating ideas as we saw in the line 1...Kh6 } ) 
+4. e5 Ra4 5. e6 Kh6 ( 5... Ra6 6. Kf4 Rxe6 7. Kf5 { Threatening Black's Rook and Rh1# } ) 
+6. e7 Ra8 7. Ke4 Re8 8. Kf5 Rxe7 9. Kf6 { With the same mating idea } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11951065/"]
+[Date "????.??.??"]
+[Round "5.31"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 29 | K+R+P vs K+R #10"]
+[Result "*"]
+[FEN "3r4/8/8/1pk5/8/4K3/8/1R6 w - - 0 1"]
+
+ { Let's consider what happens if the defender's King were cut two files off from the attacker's Knight pawn. Is this still a win? } 1. { -KEY- } Rc1+ { This is the only drawing move. Other moves allow 1...b4 and there will not be enough room between the White Rook and Black pawn for perpetual check. } Kb4 2. Rb1+ Ka4 3. Ra1+ { The attacker is unable to apply the same winning technique here that was used in Positions 27 and 28. The Black King would really want to move to the square to the left of a3 but he can't. With no way for the Black King to move nearer to the White Rook, this position is a draw. } Kb3 4. Rb1+ Kc4 5. Rc1+ 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11970159/"]
+[Date "????.??.??"]
+[Round "5.32"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 30 | K+R+P vs K+R #11"]
+[Result "*"]
+[FEN "1r6/8/5k2/8/1P6/1K6/8/4R3 w - - 0 1"]
+
+ { If White cuts the Black King off by three files from the Knight pawn, the win is far too easy. } 1. { -KEY- } Kc4 { White wastes no time in bringing the King out } Rc8+ 2. Kb5 Rb8+ 3. Kc5 Rc8+ 4. Kd6 { The King is as advanced as he can be } Rb8 5. Rb1 { And the rest is simple } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11970659/"]
+[Date "????.??.??"]
+[Round "5.33"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 31 | K+R+P vs K+R #12"]
+[Result "*"]
+[FEN "4r3/8/8/6kp/8/8/3K4/7R w - - 0 1"]
+
+ { If Black had a rook pawn and the White King were cut off by three files, White draws the game very easily. There are simply too many ways for him to obtain the half point, the most direct of which is to break the Black Rook's barrier by offering a Rook trade on e1, then f1. This enables White's King to inch towards Black’s pawn. } 1. { -KEY- } Re1 Rf8 2. Ke2 h4 3. Rf1 Rh8 4. Kf2 h3 5. Kg3 h2 6. Rh1 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12131270/"]
+[Date "????.??.??"]
+[Round "5.34"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 32 | K+R+P vs K+R #13"]
+[Result "*"]
+[FEN "3r4/8/8/6kp/8/8/2K5/7R w - - 0 1"]
+
+ { Surprisingly, even when the defender's King is cut off by four files, he still has time to use the plan from the previous position (Position 31) to draw. } 1. { -KEY- } Rd1 Re8 2. Kd2 h4 3. Re1 Rf8 4. Ke2 Kg4 5. Rf1 Ra8 6. Kf2 Ra2+ 7. Kg1 { And we can draw the game using passive defense (Refer to Position 21) } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11970662/"]
+[Date "????.??.??"]
+[Round "5.35"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 33 | K+R+P vs K+R #14"]
+[Result "*"]
+[FEN "R7/P5k1/8/8/8/8/r7/7K w - - 0 1"]
+
+ { We move on the final type of Rook endgame that I'd like to discuss: Rook + rook pawn vs Rook where the attacker’s Rook is in front of the pawn, while the defender's Rook is behind the pawn. There is one very important concept you need to understand, and that is the 'safe zone' for the defender's King. This position is a draw because the White Rook on a8 stops its own pawn from promoting and the Rook cannot leave a8 because the a7 pawn will hang. For Black to ensure that this drawing idea continues to hold, the Black King should stay only on g7 or h7. The following variations covering Black's alternate first moves will illustrate what happens if the King leaves this 'safe zone'. } 1. { -KEY- } Kg1 Ra1+ ( 1... Kg6 2. Rg8 { If the Black King moves to the sixth rank, the White Rook will safely give a check and promote next. Black will not have time to play ...Rxa7 If the Black King moves towards the queenside, White has a neat idea } ( 1... Kf7 2. Rh8 { threatening to promote the pawn. Black must take it. } Rxa7 3. Rh7 { With a deadly skewer } ) 
+ ( 1... Kh7 { This move is perfectly fine. The King remains in the 'safe zone' } ) 
+ ) 
+2. Kf2 Ra2+ 3. Ke3 Ra4 4. Kd3 Ra1 5. Kc4 Ra2 6. Kb5 Ra1 7. Kb6 { Now that the White pawn is overprotected, he does threaten to move the Rook away and queen next. For Black to hold the draw, he must give some checks. } Rb1+ 8. Kc7 Rc1+ 9. Kd7 Ra1 10. Kc7 Ra2 11. Kb7 Rb2+ 12. Kc7 { Draw } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11970663/"]
+[Date "????.??.??"]
+[Round "5.36"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 34 | K+R+P vs K+R #15"]
+[Result "*"]
+[FEN "R7/6k1/P7/8/8/8/r7/6K1 w - - 0 1"]
+
+ { What if the pawn were on the sixth rank instead of the seventh? What difference does it make? Let's find out. } 1. { -KEY- } Kf1 Kf6 2. Ke1 Kf7 3. Kd1 Ra1+ 4. Kc2 Ra2+ 5. Kb3 Ra1 6. Kc4 Kg7 7. Kb5 Kf6 8. Kb6 Rb1+ 9. Ka7 $1 { This is White's key idea. With the pawn on a6, a7 serves as a pocket where the King can hide from the perpetual checks. This position is now winning. } Ke6 10. Rb8 Ra1 11. Rb6+ Kd7 12. Kb7 { With a7 and a8=Q to follow } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11970664/"]
+[Date "????.??.??"]
+[Round "5.37"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 35 | K+R+P vs K+R #16"]
+[Result "*"]
+[FEN "R7/8/5k2/8/8/p7/6K1/r7 w - - 0 1"]
+
+ { If the pawn is on the sixth rank, the way to draw is by checking and pressuring the pawn from the side, where the a7 pocket will be ineffective. This is known as the Vancura Defence. } 1. { -KEY- } Rf8+ $1 { Transferring to f3 } Ke5 2. Rf3 $1 { We have completed the setup for the Vancura Defence. From here on, there are only four things to remember: 1. If you can give safely a check to the enemy King from the side, go for it. (An example of an unsafe side check is shown on move 8) 2. Otherwise, keep your Rook on the sixth rank to pressure the pawn from the side. 3. If the pawn ever moves to the seventh rank, play Ra3 and return to the drawing idea shown in Position 33. 4. If Black ever plays Ra2+, don't move your King to the promotion rank. } Ke4 3. Rb3 Kd4 4. Rf3 Kc4 5. Rf4+ Kc5 6. Rf5+ Kd6 7. Rf6+ Kd5 8. Rf3 $1 { Rf5 is not a safe check because the Black King will approach the White Rook, preventing Rf3 and any additional side checks. } ( 8. Rf5 $4 Ke4 9. Rf3 Rg1 10. Kf2 Rf1 11. Kxf1 Kxf3 ) 
+Kc4 9. Rf4+ Kd5 10. Rf3 $1 { Similar to the 8th move, this is the only way to draw. } Ra2+ 11. Kg3 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12253905/"]
+[Date "????.??.??"]
+[Round "5.38"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 36 | K+R+P vs K+R #17"]
+[Result "*"]
+[FEN "R7/6k1/P7/2r5/4K3/8/8/8 w - - 0 1"]
+
+ { I have included this position to highlight the importance of rule 4 in the Vancura position (Position 35) : If the attacker gives a check on the second rank, the defender's King must avoid moving to the promotion rank. } 1. { -KEY- } Ra7+ { In this position, Black's King must steer clear of the last rank. Let's find out what happens if Black thoughtlessly plays ...Kg8?? } Kg6 $1 { This is the only move that draws. It keeps the King centralised while remaining within arms reach of the 'safe zone' } ( 1... Kg8 $4 2. Rb7 Ra5 3. a7 { White's threat of Rb8+ followed by a8=Q is unstoppable } Kf8 4. Rb8 Ke7 5. a8=Q $11 Rxa8 6. Rxa8 ) 
+ ( 1... Kf6 2. Kd4 Ra5 ( 2... Rc6 3. Kd5 Re6 4. Rh7 $1 { This is why the Black King is better off on g6 rather than f6. } ) 
+3. Ra8 Kg7 4. Kc4 Ra1 5. Kb5 { White will use the a7 pocket to win the game (Refer to Position 34). } ) 
+ ( 1... Kh6 $4 { Now, Black is severely disadvantaged in the King race to the queenside } 2. Rb7 Ra5 3. a7 Kg6 4. Kd4 Kf6 5. Kc4 Ke6 6. Kb4 Ra1 7. Kc5 { Black is one move short of drawing the game. Here, the White King will make its way to the b8 square and queen the pawn. } ) 
+2. Rb7 ( 2. Kd4 Rc6 3. Kd5 Rf6 { We return to the Vancura set up (Position 35) } ) 
+Ra5 3. a7 Kf6 4. Kd4 Ke6 5. Kc4 Kd6 6. Kb4 Ra1 7. Kb5 Rb1+ { The game will end in perpetual check } 8. Ka6 Ra1+ 9. Kb6 Rb1+ 10. Ka6 Ra1+ 11. Kb6 Rb1+ 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979496/"]
+[Date "????.??.??"]
+[Round "5.39"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 37 | K+Q+P vs K+Q #1"]
+[Result "*"]
+[FEN "8/8/8/2kp3Q/8/1q1K4/8/8 w - - 0 1"]
+
+ { In a Queen endgame, if the defender's King is in front of the attacker's pawn. It is nearly always a draw. This is because the defender often has the option to trade queens into a drawn King and pawn ending (Refer to Positions 2, 3 and 5) } 1. { -KEY- } Kd2 Qb2+ 2. Kd3 Qb3+ 3. Kd2 Qb2+ 4. Kd3 Qd4+ 5. Ke2 Kc4 6. Qf3 Qb2+ 7. Kd1 { White is prepared to meet 7...d4 with 8. Qc6+ } Qb1+ ( 7... d4 8. Qc6 Kd3 9. Qf3 Kc4 ) 
+8. Kd2 { It is worthwhile noting that } ( 8. Ke2 { loses the game. This is because the King is going away from the front of the pawn. } Qc2 { forcing a favourable Queen trade } 9. Kf1 ( 9. Ke1 Qc3 ) 
+Qd3 ) 
+Qb2+ 9. Kd1 Qd4+ 10. Kc2 { The checks end and now White will have all the fun drawing this position with probably Qb3+ next. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979392/"]
+[Date "????.??.??"]
+[Round "5.40"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 38 | K+Q+P vs K+Q #2"]
+[Result "*"]
+[FEN "4q1K1/8/k5P1/8/8/2Q5/8/8 w - - 0 1"]
+
+ { Let’s now consider Queen + Knight pawn vs Queen or Queen + Rook pawn vs Queen endgames. If the defender CANNOT put his King in front of the pawn, the attacker has some chance of winning. To maximise this chance, the attacker should try to place his King on the same file/rank as the defender's. Why? Doing so will set up the possibility of pins and counter-checks as the attacker's Queen blocks the checks. When these counter-checks happen, a queen trade is forced and the attacker will win the resulting pawn endgame. If you are the defender, you should should try to run your King to the diametrically opposite corner from the pawn's queening square. That is the ideal corner for the defender’s King. I will first illustrate this defensive idea through a negative example. Here, the Black King is miles away from his ideal corner. The attacker, White, can try to make use of Black's poor king position to set up a counter-check. } 1. { -KEY- } Kh7 Qe4 2. Qc5 { In addition to centralising the Queen, this move stops the King from running to the safe corner, the squares around a1. } Qh1+ 3. Kg7 Qb7+ 4. Kf6 Qf3+ 5. Qf5 Qc3+ 6. Qe5 Qf3+ 7. Ke7 Qb7+ 8. Ke8 Qc8+ 9. Kf7 Qb7+ 10. Qe7 { Black has run out of good checks } Qb5 ( 10... Qf3 11. Qf6 Qxf6 12. Kxf6 ) 
+ ( 10... Qb3 11. Qe6 Qxe6 12. Kxe6 ) 
+11. g7 Qh5+ 12. Kf6 Qh4+ 13. Ke6 Qg4+ 14. Ke5 Qh5+ 15. Kf4 { This engine move is difficult to understand. After some probing, I found that it was played because it avoids Black's many diagonal checks that prevents the White Queen from ever getting any counter-checks } ( 15. Ke6 Qg4 16. Kd6 Qb4 17. Kd7 Qa4 ) 
+Qh2+ 16. Kf5 Qh3+ 17. Kg6 Qg4+ 18. Qg5 Qe4+ 19. Qf5 Qe8+ 20. Kh7 Qe7 21. Qd3+ Ka7 22. Qd4+ { controlling h4 } Ka6 23. Kh8 Qe6 { The last trick } 24. Qd3+ ( 24. g8=Q $4 Qh6 25. Qh7 Qf8 ) 
+Ka5 25. Qd8+ { Controlling f6 and f8 } Ka4 26. g8=Q Qh6+ 27. Qh7 { Black is out of checks } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979393/"]
+[Date "????.??.??"]
+[Round "5.41"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 39 | K+Q+P vs K+Q #3"]
+[Result "*"]
+[FEN "8/3Q1KP1/8/7q/8/8/k7/8 w - - 0 1"]
+
+ { If the defender has his King in the ideal corner, he will have a perpetual check, with no fear of counter checks. } 1. { -KEY- } Ke7 Qc5+ 2. Qd6 Qg5+ 3. Qf6 Qc5+ 4. Kf7 Qc7+ 5. Qe7 Qf4+ { And White is not getting anywhere near to a counter-check so long as Black plays logically } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979394/"]
+[Date "????.??.??"]
+[Round "5.42"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 40 | K+Q vs K+P #1"]
+[Result "*"]
+[FEN "4Q2K/8/8/8/8/8/3kp3/8 w - - 0 1"]
+
+ { We will now move on to endgames where the attacker has a Queen and the defender has a pawn on the brink of promotion. The attacker's plan is to use the Queen to check the King until he is forced in front of his own pawn. That makes the pawn unable to promote on the subsequent move, and the attacker has a free move to inch his King closer to the battle scene. The evaluations of such endgames depend on which file the pawn is located. If the pawn is on the d- or e-file, the attacker can successfully carry out the plan and will win. } 1. { -KEY- } Qd7+ { The Queen starts zigzagging her way towards the pawn, ensuring that every move comes with check. } Kc1 { Black's King will try to keep clear of the promotion square. He threatens to promote now, not giving White any time to move the White King over yet. } 2. Qe6 { Stopping promotion while threatening to take the pawn. } Kd1 3. Qd5+ Kc1 4. Qe4 Kd2 5. Qd4+ Kc1 6. Qe3+ Kd1 7. Qd3+ { After 7 moves, White finally gives the perfect check that forces Black's King to move in front of his pawn } Ke1 ( 7... Kc1 8. Qxe2 ) 
+8. Kg7 { Of course, White uses this free move to bring the King over. } Kf2 9. Qd2 { White now repeats the process of forcing the King in front of the pawn. This will take another four moves or so. } Kf1 10. Qf4+ Kg2 11. Qe3 Kf1 12. Qf3+ Ke1 13. Kf6 { Yet again, White uses his free move to bring the King over. } Kd2 14. Qf2 Kd1 15. Qd4+ Kc1 16. Qe3+ Kd1 17. Qd3+ Ke1 18. Ke5 Kf1 { Walking into a pin. This move does not threaten to promote. } 19. Kf4 Kf2 20. Qf3+ Ke1 21. Ke3 Kd1 22. Qxe2+ { And the rest is elementary } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979395/"]
+[Date "????.??.??"]
+[Round "5.43"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 41 | K+Q vs K+P #2"]
+[Result "*"]
+[FEN "3Q3K/8/8/8/8/8/1pk5/8 w - - 0 1"]
+
+ { If the defender has a knight pawn, we can carry out the same plan we did in Position 40. First, zigzag the Queen to the pawn. Afterwards, keep checking the Black King, forcing him in front of his own pawn, so that we can move our own King towards the pawn. } 1. { -KEY- } Qc7+ Kd1 2. Qb6 Kc2 3. Qc5+ Kd2 4. Qb4+ Kc2 5. Qc4+ Kd1 6. Qb3+ Kc1 7. Qc3+ Kb1 8. Kg7 Ka2 9. Qc2 Ka1 ( 9... Ka3 { If the attacker gets the chance, he should place his Queen in front the pawn. } 10. Qb1 { The White King will waltz over and pick up the pawn. } ) 
+10. Qa4+ Kb1 11. Kf6 Kc1 12. Qc4+ Kd2 13. Qb3 Kc1 14. Qc3+ Kb1 15. Ke5 Ka2 16. Qc2 Ka1 17. Qa4+ Kb1 18. Kd4 Kc1 19. Qc4+ Kd2 20. Qb3 Kc1 21. Qc3+ Kb1 22. Kd3 Ka2 23. Qc2 Ka1 24. Qa4+ Kb1 25. Kc3 Kc1 26. Qc2# 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979396/"]
+[Date "????.??.??"]
+[Round "5.44"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 42 | K+Q vs K+P #3"]
+[Result "*"]
+[FEN "Q6K/8/8/8/8/8/p7/1k6 w - - 0 1"]
+
+ { Unless the attacker's King is nearby, the defender can hold the draw with a Rook pawn on the seventh rank. } 1. { -KEY- } Qb7+ Kc1 2. Qa6 Kb1 3. Qb5+ Kc1 4. Qa4 Kb1 5. Qb3+ Ka1 { Despite White's success in forcing the Black King in front of the pawn, White still cannot progress. If the White King moves, it will be stalemate. } 6. Kg7 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979421/"]
+[Date "????.??.??"]
+[Round "5.45"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 43 | K+Q vs K+P #4"]
+[Result "*"]
+[FEN "2Q4K/8/8/8/8/8/2pk4/8 w - - 0 1"]
+
+ { Unless the attacker's King is nearby, the defender can still draw the game with a bishop pawn. } 1. { -KEY- } Qd7+ Ke2 2. Qc6 Kd2 3. Qd5+ Ke2 4. Qc4+ Kd1 5. Qd3+ Kc1 6. Kg7 { This is as much progress as White can make } Kb2 7. Qd2 Kb1 8. Qb4+ Ka2 9. Qc3 Kb1 10. Qb3+ Ka1 $1 { The point! Black still threatens to queen the pawn. Unfortunately, White cannot take the pawn because of stalemate. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12047540/"]
+[Date "????.??.??"]
+[Round "5.46"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 44 | K+R vs K+P"]
+[Result "*"]
+[FEN "8/8/8/5P2/5K2/1k6/8/7r w - - 0 1"]
+
+ { In a typical King + pawn vs King endgame, the attacker who has the extra pawn should chaperone the pawn from the side opposite the enemy King (Refer to Position 6) . However, in the case of a King + pawn vs King + Rook, a different principle should be applied Let's find out what it is. } 1. { -KEY- } f6 Kc4 { Here, White cannot advance his pawn because of the ...Rf1+ skewer. He must advance his King instead, but which square is best? e5, f5, or g5? } 2. Ke5 $1 { The defender's King should move TOWARDS the enemy King rather than chaperone the pawn from the other side. In doing so, White stops Black's King from making any progress. Notice how the Black King becomes active if White had played other moves. } ( 2. Kf5 $4 Kd5 3. f7 Rf1 4. Kg6 Ke6 ) 
+ ( 2. Kg5 $4 Kd5 3. f7 Rf1 4. Kg6 Ke6 ) 
+Re1+ 3. Kd6 $1 { Continuing to keep the Black King at bay } Kd4 4. f7 Rf1 5. Ke7 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979433/"]
+[Date "????.??.??"]
+[Round "5.47"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 45 | K+P vs N #1"]
+[Result "*"]
+[FEN "7K/8/8/8/8/8/3pk3/3N4 w - - 0 1"]
+
+ { In this position, the attacker has a central pawn. This gives the defender enough space for his Knight to draw the game. } 1. { -KEY- } Nc3+ Kd3 { The Black King is unable to control the queening square while attacking the Knight } 2. Nd1 Kc2 3. Nf2 Kc3 4. Ne4+ Kd3 5. Nxd2 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979434/"]
+[Date "????.??.??"]
+[Round "5.48"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 46 | K+P vs N #2"]
+[Result "*"]
+[FEN "7K/8/8/8/8/3k4/1p1N4/8 w - - 0 1"]
+
+ { If the attacker has a knight pawn, the defender's Knight will still have enough space to stop the promotion. } 1. { -KEY- } Nb1 Kc2 2. Na3+ Kb3 3. Nb1 Ka2 4. Nd2 Ka3 5. Nc4+ Kb3 6. Nxb2 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979435/"]
+[Date "????.??.??"]
+[Round "5.49"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 47 | K+P vs N #3"]
+[Result "*"]
+[FEN "8/P1n5/8/8/3K4/8/8/7k w - - 0 1"]
+
+ { If the attacker has a rook pawn on the seventh rank, it is a win. This is because the Knight does not have enough space to consistently control the promotion square } 1. { -KEY- } Kc5 Kg2 2. Kc6 Na8 3. Kb7 { With no more space on the queenside, the Black Knight is suffocated and will be lost. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979437/"]
+[Date "????.??.??"]
+[Round "5.50"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 48 | K+P vs N #4"]
+[Result "*"]
+[FEN "7K/8/8/8/8/pk6/N7/8 w - - 0 1"]
+
+ { If the attacker has a rook pawn which is on the SIXTH rank, the game will be drawn. The Knight just needs to reach the drawing zone (the c1, a2, b4, and d3 squares) in time. } 1. { -KEY- } Nc1+ Kc2 2. Na2 Kb2 3. Nb4 Kb3 4. Nd3 $1 { Indirectly controlling a2 } Kc3 ( 4... a2 5. Nc1 Kb2 6. Nxa2 ) 
+5. Nc1 Kb2 6. Nd3+ 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/15346487/"]
+[Date "????.??.??"]
+[Round "5.51"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 49 | Opposite Coloured Bishops #1"]
+[Result "*"]
+[FEN "3b4/1B6/8/8/5pk1/6p1/6Kp/8 w - - 0 1"]
+
+ { Opposite coloured Bishop endgames have very high drawing tendencies, and this position illustrates that clearly.Even though Black is up three pawns here, the opposite coloured Bishops and the poor pawn position makes this a draw. This is because Black cannot push his pawns any further. White has 2 pieces controlling the squares in front of the pawns whereas Black can have at most one piece (i.e. his King) controlling those squares. If some of the pawns had been on light squares, they could support one another to make progress. Unfortunately for Black, this is not the case. The only thing White needs to do to hold the draw is keep his own Bishop on the long diagonal. White can even play } 1. { -KEY- } Kh1 $1 { Reminding Black that he cannot go 1...f3. } f3 ( 1... Kf5 2. Ba8 Ke5 3. Bb7 Kd4 4. Ba8 Ke3 5. Bb7 Kf2 { This position is the best Black can get - one Black attacker and two White defenders on g2, not enough to make any decisive progress. } ( { Again } 5... f3 { can be met with } 6. Bxf3 Kxf3 { Stalemate. } ) 
+ ) 
+2. Bxf3+ Kxf3 { And the game ends in stalemate. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979638/"]
+[Date "????.??.??"]
+[Round "5.52"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 50 | Opposite Coloured Bishops #2"]
+[Result "*"]
+[FEN "8/4b3/8/3k3B/2pp4/8/3K4/8 w - - 0 1"]
+
+ { Even though the attacker had a three pawn material lead in the previous position (Position 49) , the defender still managed to hold the draw. The saving grace was the misplaced pawns on the opposite colour complex to the defender's Bishop. If even just one of those pawns had been on the correct colour complex, the defender would have lost the game. In this position, Black has merely two pawns but they are optimally placed side by side. This not only creates a wall to keep the White King out, but they also remain flexible in how they should be pushed. As the defender, White's first question to answer is: Which critical square do we need to control? } 1. { -KEY- } Be2 { The answer is d3. Black's immediate threat was to play ...d3, followed by ...Kd4, ...c3. By playing 1. Be2, we further control d3 and can meet 1...d3 with 2. Bxd3. Playing 1. Bg6 to control d3 does not work. We will find out why on the next page. } Bb4+ 2. Kc2 Kc5 3. Bf1 Kd5 4. Be2 { White only needs to wait with Be2 and Bf1. The point is that Black cannot ever play ...c3 (because that puts all his pawns on the same colour as his Bishop) or ...d3. The Black King is also unable to make progress as he is tied down to the defence of the c4 pawn. } Ke4 5. Bxc4 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979425/"]
+[Date "????.??.??"]
+[Round "5.53"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 51 | Opposite Coloured Bishops #3"]
+[Result "*"]
+[FEN "8/4k3/8/4PP2/4K3/1b6/3B4/8 w - - 0 1"]
+
+ { If Black defends the e6 square with ...Bb3, f5 is not under any pressure. White's King will be free to move. } 1. { -KEY- } Bg5+ { White begins with a probing check, whilst controlling the e7 square For greater clarity, read the main variations before looking at this one. } ( 1. Bb4 $2 { This is the wrong way to give a check because it does not control f6 } Kf7 2. Kd4 Bc2 { Normally we would have the e6-f6 combo. However... } 3. e6 Kf6 4. e7 Ba4 { Draw } ) 
+Kf7 { Whichever way the Black King runs to, White will use his King to assist the e-pawn from the other side. } ( 1... Kd7 2. Kf4 Bc4 3. Bh4 Bf7 4. Kg5 Ke7 5. Kh6 Kd7 6. Kg7 Bb3 7. Kf6 { e6 next and White wins } ) 
+2. Kd4 Ba2 ( 2... Bc2 3. e6 { then f6 next. Black cannot play 3. ...Kf6. This is why we chose Bg5+ for our probing check as opposed to Bb4+ } ) 
+3. Kc5 Bb3 4. Kd6 { e6 next and White wins } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979426/"]
+[Date "????.??.??"]
+[Round "5.54"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 52 | Opposite Coloured Bishops #4"]
+[Result "*"]
+[FEN "4k3/8/4PP2/b3K3/8/8/2B5/8 b - - 0 1"]
+
+ { As the defender, it is crucial that you achieve your defensive setup as soon as possible. Otherwise, when the pawns reach the sixth rank, the position is lost. } 1... { -KEY- } Bd8 2. Bg6+ Kf8 3. Kf5 { Black cannot wait with a 'Bc9' move } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979429/"]
+[Date "????.??.??"]
+[Round "5.55"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 53 | Same Coloured Bishops #1"]
+[Result "*"]
+[FEN "4k3/8/4P3/4K3/7b/B7/8/8 w - - 0 1"]
+
+ { Given that a 2-pawn advantage is often decisive in same coloured Bishop endings, I will be covering positions where the attacker has only one extra pawn. As with many other simplified endings, if the defender's King stands in front of the enemy pawn (on a square opposite to the bishop's colour) , the draw is obvious. This is because the defender can simply trade Bishops into a drawn ending. } 1. { -KEY- } Bc5 Be7 2. Bxe7 Kxe7 3. Kf5 Ke8 { This is an easy draw (Refer to Position 2) } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979656/"]
+[Date "????.??.??"]
+[Round "5.56"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 54 | Same Coloured Bishops #2"]
+[Result "*"]
+[FEN "8/8/8/8/7b/3p1k2/3B4/5K2 w - - 0 1"]
+
+ { Let's analyse this ending where the defender's King cannot go in front of the pawn. } 1. { -KEY- } Bh6 Ke4 2. Kg2 { First, recognise that a lone Bishop is no match against a King, Bishop and pawn. Passive play, as seen in the 2. Bd2 variation, leads to a loss. Instead, as the Black King rushes to c2, the White King must, likewise, make a run for the c4 square. } ( 2. Bd2 Kd5 3. Ba5 Kc4 4. Bd2 Kb3 5. Ba5 Kc2 6. Bb4 Bf6 7. Ke1 Bc3 8. Bxc3 Kxc3 9. Kd1 d2 10. Ke2 Kc2 ) 
+Kd4 3. Kf3 Kc3 4. Ke4 Kc2 5. Kd5 Be1 6. Kc4 { By taking opposition from the rear, Black will never be able to play ...Bc3 to challenge White’s Bishop on the a5-e1 diagonal. } Bd2 7. Bf8 Bf4 8. Bb4 Be5 { If the White King had been far away, the threat of 9...Bc3 would be decisive. Thankfully for White, he's got that under control. } 9. Ba5 Bf4 10. Bc3 Bd2 { Chasing the White Bishop from the a5-e1 diagonal by playing Bd2 is ineffective because it blocks the pawn. } 11. Bg7 Ba5 { If the White Bishop makes way for ...d2 via the a5-e1 diagonal, we will use the c1-h6 diagonal. } ( 11... Bg5 { If the Black Bishop makes way for ...d2 via the c1-h6 diagonal, we will use the a5-e1 diagonal. } ) 
+12. Bh6 { To sum this idea up, if the defender's King cannot reach the front of the pawn, he should try to stay behind the enemy King instead. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979432/"]
+[Date "????.??.??"]
+[Round "5.57"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 55 | Same Coloured Bishops #3"]
+[Result "*"]
+[FEN "2KB4/1P6/2k5/8/8/8/7b/8 w - - 0 1"]
+
+ { There is an exception to the rule mentioned on the previous position (Position 50) . Here, even though Black has optimally taken opposition from behind, the position is lost for him. This is because there is only one diagonal from which the Black Bishop can defend the queening square, the h2-b8 diagonal. The a7-b8 diagonal is too short. } 1. { -KEY- } Bh4 Kb5 2. Bf2 Ka6 3. Bc5 $1 { The only move that makes progress. Other waiting moves with the Bishop allow Bd6, and we will see why that is a problem. } ( 3. Be3 Bd6 4. Bg5 Kb5 5. Bd8 Kc6 6. Be7 Bh2 { White cannot transfer to the g1-a7 diagonal } ) 
+Bg3 4. Be7 { Threatening Bd8-Bc7 } Kb5 5. Bd8 Kc6 6. Bh4 { Obtaining a key tempo that would not have been possible with the Bishop at h2 or d6 (because after the Bishop moves, White can't transfer to the g1-a7 diagonal with Bc5) } Bh2 7. Bf2 Kb5 8. Ba7 Ka6 9. Bb8 Bg1 10. Bg3 Ba7 11. Bf2 { Again, the a7-b8 diagonal is too short for the defence to hold. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979438/"]
+[Date "????.??.??"]
+[Round "5.58"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 56 | N+P vs K+P #1"]
+[Result "*"]
+[FEN "K7/8/8/8/2N2p2/5P2/4k3/8 w - - 0 1"]
+
+ { We will now look at endgames where the attacker has an extra Knight, and a pawn blockaded by an enemy pawn. Even if the attacker's King is far away, the position is a win. Here, as long as the White Knight defends the pawn from e5 or g5, he will bring home the full point. This is because the Black King cannot attack the Knight and pawn simultaneously. } 1. { -KEY- } Ne5 Ke3 { As Black tries to attack the Knight in vain, White brings his King over. } 2. Kb7 Kd4 3. Nf7 Ke3 { Black can hope for a repetition here, but White can defend the pawn from the other good square. } 4. Ng5 $1 { The Black King will take ages to reach the Knight now. } Kd4 5. Kc6 { White's King will pick up the f4 pawn, and he will enlist the help of the Knight if needed. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979439/"]
+[Date "????.??.??"]
+[Round "5.59"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 57 | N+P vs K+P #2"]
+[Result "*"]
+[FEN "8/8/2K5/p7/P7/1n6/8/7k w - - 0 1"]
+
+ { If the blockaded pawns are on a side file, the game is a draw. The attacker's Knight will only have one good square. In this case, the square is b3 } 1. { -KEY- } Kb5 Kg2 2. Kc4 Nd2+ 3. Kb5 Nb3 4. Kc4 Na1 5. Kb5 { The Knight would really love to move to the square to the left of a3, but that is not legal here. } Nb3 6. Kc4 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979440/"]
+[Date "????.??.??"]
+[Round "5.60"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 58 | K+R vs K"]
+[Result "*"]
+[FEN "8/3k4/7R/4K3/8/8/8/8 w - - 0 1"]
+
+ { Let's briefly take a look at the single Rook checkmating technique. I included this position certainly not to teach the Rook checkmate, but to demonstrate how the attacker's King chases the defender's. This will give you a deeper appreciation of the two Bishop checkmate. } 1. { -KEY- } Rg6 { As the attacker, we do NOT want to take opposition. Instead, we want Black to take the opposition with 1. ...Ke7, so that we can play Rg7+, pushing him to the last rank. } Kc7 { Black does not want to play ...Ke7 and get forced back, nor does he want to voluntarily walk to the last rank. This move puts up the most resistance. } ( 1... Ke7 2. Rg7 ) 
+2. Kd5 Kb7 3. Kc5 { The chase continues } Ka7 4. Rg7+ Kb8 ( 4... Ka6 { Here, White just needs to make a waiting move with the Rook along the 7th rank. } 5. Rc7 { Black's King is now forced to take the opposition and we have checkmate. } Ka5 6. Ra7 ) 
+5. Kc6 $1 { Not taking opposition, but instead goading Black to do so } Ka8 ( 5... Kc8 6. Rg8 ) 
+6. Kb6 Kb8 7. Rg8# { With this idea of chasing the defender's King in mind, let's move on to the two Bishop checkmate } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979441/"]
+[Date "????.??.??"]
+[Round "5.61"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 59 | K+2B vs K"]
+[Result "*"]
+[FEN "8/8/8/4k3/8/8/8/2B1KB2 w - - 0 1"]
+
+ { The first thing White should do is create a barrier by keeping his two Bishops on adjacent diagonals. } 1. { -KEY- } Bd3 Kd4 2. Ke2 Ke5 3. Be3 Kd5 { Now that the barrier has been created, the Bishops will work with the White King to slowly force the Black King to the corner. } 4. Kd2 Ke5 5. Bf1 Ke4 6. Bg2+ Kf5 7. Bf2 Kf4 8. Kd3 Ke5 9. Bg3+ Ke6 { Without the White King on d3, Black would have played ...Kd4 instead. } 10. Kd4 { With d5 under control, White threatens Bh3+ to push the Black King to the corner. } Kd7 11. Kc5 { Now White controls c6, threatening Bh3+ yet again. } Kc8 12. Kb6 { The chase ends here. White will finally get Bh3+ next. } Kd7 13. Bh3+ Ke7 14. Kc5 Kf6 15. Kd4 Kg5 16. Ke4 Kf6 17. Bh4+ Kg6 18. Bg4 Kh6 19. Kf5 Kh7 20. Bh5 Kh6 21. Bg6 Kg7 22. Bf6+ Kg8 23. Bg5 Kf8 24. Kf6 Kg8 25. Bh6 Kh8 26. Bf5 Kg8 27. Kg6 { The White King and dark-squared Bishop alone put the King in a two-square prison, g8 and h8. It is time to take away both squares, one at a time. } Kh8 28. Bg7+ { Taking away h8 } Kg8 29. Be6# { And then taking away g8 with checkmate } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979442/"]
+[Date "????.??.??"]
+[Round "5.62"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Position 60 | K+B+N vs K"]
+[Result "*"]
+[FEN "8/8/8/4k3/8/8/8/4KBN1 w - - 0 1"]
+
+ { Before we explore the position, there are three ideas to remember: 1. Checkmate can only be forced in a corner of the same colour complex as your Bishop. For example, if you have a dark-squared Bishop, you can only force checkmate at a dark-squared corner. 2. Waiting moves are sometimes necessary, and should only be done by the King or the Bishop, never by the Knight. 3. The Bishop and Knight will coordinate best when the Knight is on a square of the same colour complex as the Bishop. For example, if you have a light-squared Bishop, the Knight is best placed on a light square. Now that you know the general ideas, let's check out the specific technique. Step 1: Control the centre } 1. { -KEY- } Bd3 Kd4 2. Ke2 Ke5 3. Ke3 Kd5 4. Be4+ Kc5 5. Kd3 Kb4 6. Kd4 Kb3 { Black cannot keep his King in the middle now that White is occupying the centre. The next best option is run to the dark squared corner where mate cannot be forced } 7. Ne2 Ka2 8. Kc3 Ka1 9. Nd4 Ka2 10. Nc2 { The Knight is the only piece that can force the king out of a1. } Kb1 11. Kb3 Kc1 12. Nd4 Kd2 { Notice how the last three moves by White have pushed the enemy King to the checkmating corner. } 13. Ne6 Ke3 14. Bg6 { Thanks to the Bishop and Knight both working on light squares, White has achieved perfect coordination. The White Knight, Bishop, and King work together to form a prison of 17 squares } Kd2 15. Kb2 Kd1 16. Bd3 { White wants to play Bc2 only after ...Kd2 to force the enemy back, hence this waiting move } Kd2 17. Bc2 Ke2 18. Kc1 Ke3 19. Kd1 Kf3 20. Kd2 Kg4 21. Bg6 { Covering h5 } Kf3 22. Kd3 Kg4 { Other moves allow Bh5 } 23. Ke3 Kg3 24. Bh5 Kh4 25. Be2 { Now that the Bishop has improved its position, the Knight must follow suit } Kg3 26. Ng5 Kh4 27. Ne4 { The Knight and the Bishop alone trap the King in a prison of 6 squares. The White King is free to further restrict the movement of the enemy. } Kh3 28. Kf4 Kh4 29. Kf5 Kh3 30. Kg5 Kg2 31. Kh4 Kh2 32. Bf1 Kg1 33. Bh3 Kh2 34. Nc3 Kg1 35. Kg3 { Similar to what we saw in the two Bishop checkmate, the King and light-squared Bishop alone trap the enemy King in a prison of two squares, g1 and h1. White will now take both squares away, one at a time. } Kh1 36. Bg2+ { Taking away h1 } Kg1 37. Ne2# { Taking away g1 with mate } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11979710/"]
+[Date "????.??.??"]
+[Round "5.63"]
+[White "4. Essential Theoretical Endgames"]
+[Black "Chapter Conclusion"]
+[Result "*"]
+
+ { Here are some of the general principles from the 60 positions we can infer. 1. As the attacker, you’d much rather have a central pawn than a flank pawn. This is often true whether the endgames involves Rooks, Queens, or even no pieces. One of the few exceptions is when the attacker has a rook pawn and a King vs a lone Knight (Refer to Position 47) . 2. If the defender’s King is in front of the attacker’s pawn, drawing chances significantly increase. Again, this can be observed whether in endgames with Rooks, Queens, Bishops, or in pure pawn endgames. The reason is simple. The defender has the option to trade down to a drawn pawn endgame. Refer to Positions 2, 3, 5, 21, 22, 37, and 53 3. There must be at least THREE files/ranks between a checking Rook and the enemy pawn for perpetual check. I am sure you’ve seen this one many times throughout this chapter (Refer to Positions 20, 23, 24, 26, 28, 31 and 32) . 4. In opposite coloured Bishop endings, if the attacker’s pawns are on the opposite colour complex to the defender’s Bishop, drawing chances greatly increase. (Refer to position 49) 5. In same coloured Bishop endings where the attacker has a single extra pawn, if the defender cannot bring his King in front of the pawn, his best chance is to take opposition from the rear. (Refer to Position 54) 6. Knights perform best in the centre where they have the most options. The Knight’s lack of space really shows when it is pit against a King and a pawn on the seventh rank. Against central pawns, the Knight has more space and is able to draw (Refer to Position 45) . However, against rook pawns, the Knight is cramped and cannot hold the fort (Refer to Position 47) . Unsurprisingly, the only exception to this is if the rook pawn were on the sixth rank (or closer to the centre) , where the Knight has ample room to fend off the King and the pawn (Refer to Position 48) . 7. The Bishop and Knight will coordinate best when the Knight is on a square of the same colour complex as the Bishop. This coordination is evident in the Bishop and Knight checkmate (Refer to position 60) . } 1. -- 
+ *

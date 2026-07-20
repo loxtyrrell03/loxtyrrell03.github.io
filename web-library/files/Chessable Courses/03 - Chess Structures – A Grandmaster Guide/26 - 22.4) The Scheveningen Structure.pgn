@@ -1,0 +1,119 @@
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1227892/"]
+[Date "????.??.??"]
+[Round "26.1"]
+[White "22.4) The Scheveningen Structure"]
+[Black "Introduction"]
+[Result "*"]
+[FEN "4k3/pp3ppp/3pp3/8/4P3/8/PPP2PPP/4K3 w - - 0 1"]
+
+ { The Scheveningen Structure The Scheveningen structure is one of the most exciting and complicated pawn structures in chess. This structure can arise from almost every variation of the Sicilian, such as the Najdorf, Scheveningen, Classical, Paulsen, Taimanov and many other less prominent lines. Of course, this structure also arises very often in the English Opening with colours reversed when Black plays 1...e5 followed by 2...Nf6 and 3...d5. White's plans 1. Launch a kingside attack with g2-g4-g5, h2-h4-h5 and then break with g5-g6. 2. Play f2-f4-f5 to pressure the e6-pawn and create an attack along the a2-g8 diagonal. 3. Play f2-f4 and then e4-e5 and then later carry out a kingside attack. Black's plans 1. Achieve the central break ...d6-d5 to release the position and activate his minor pieces. 2. Play along the c-file, and place a knight on c4 to pressure the b2-pawn and undermine White's knight which is typically located on c3. 3. If White has castled long, then carry out a queenside attack with ...b7-b5-b4, ...a7-a5-a4 and then the break ...b4-b3. 4. If White plays f2-f4, in some cases Black can reply ...g7-g5 to fight for the control of the e5-square. 5. In some cases, Black may sacrifice an exchange on c3, in similar style to what we saw in the Dragon structure. Black will most likely castle short or on some occasions keep the king in the centre. Meanwhile, White's king must choose between long and short castling, which will greatly influence the development of the game. If White castles long, then his main lines plans will be 1 and 2 while Black will most probably focus on Plan 3. Instead, if White castles short, Black will focus on Plan 1 while White can still carry out a kingside attack. White's Plan 3 is more likely to work after short castling, because the rooks would be placed more favourably for this plan. Structure transformations This structure can transpose into some of the structures we have studied previously. 1. If Black plays ...d6-d5 and White replies with e4-e5 then we obtain a French Type II structure (Chapter 15). 2. If Black plays ...d6-d5, White captures e4xd5 and Black recaptures with a piece, then we obtain a 3-3 vs. 4-2 structure. 3. If White plays f2-f4-f5, the pressure on e6 may provoke Black to play ...e6-e5 obtaining a Najdorf Type II structure (Chapter 9) . 4. On some occasions, White may play c2-c4 arriving at a Hedgehog structure (Chapter 10). The second structure transformation above is often favourable for Black on a positional level. The reason is that Black often has his b-pawn already on b5, which is the starting point of Black's minority attack, as described earlier in this chapter. The 4th structure transformation is quite unlikely to work because White typically has his knight on c3 and cannot afford to move it away in order to play c2-c4. Overall the Scheveningen is a very interesting pawn structure and deserves study. The reason I do not cover it in more detail is because the strategic ideas in this structure are relatively simple while most of its complexity comes from tactical details which do not fit so well with the content of this book. I am a firm believer that the reader needs most help with strategic concepts, as tactical shots can readily be studied using the ever more powerful computer engines. Here we will see only one example of White's attack once Black plays ...d6-d5 with the king still in the centre. Then we will see a brief discussion of Black's Plan 4. } 1. -- 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551625/"]
+[Date "????.??.??"]
+[Round "26.2"]
+[White "22.4) The Scheveningen Structure"]
+[Black "Mauricio Flores Rios vs. Rodrigo Vasquez"]
+[Result "1-0"]
+
+ { Mauricio Flores Rios – Rodrigo Vasquez, Reno (rapid) 2007 Learning objective: This game is an example of the sharp complications that may arise after Black’s ...d6-d5 break. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. g4 { The purpose of this early g2-g4 } ( { instead of } 8. Qd2 ) 
+ { is to provoke: } h6 { This move can be weakening in some cases. } 9. Qd2 Nbd7 10. O-O-O { My database has over two hundred GM-level games in this position. Black decides to go for the sharp continuation: } b4 11. Na4 d5 $5 { Achieving the standard ...d6-d5 break, but while Black’s king is still in the centre. } ( { PH: For context, this opening line was considered dubious for Black for a while until Topalov came up with the nice pawn sacrifice } 11... Ne5 $1 12. Qxb4 Bd7 { White has some problems to solve. If the queen leaves, the a4-knight is stranded, while if the knight returns to c3 immediately, the queen can't really move away from the queenside. } ) 
+12. exd5 Nxd5 13. Bc4 $1 { White is playing aggressively and maximum precision is required. If Black manages to stabilize his position and castle, then he is probably going to take the lead. } Bb7 14. Rhe1 Qa5 $2 { An overly optimistic move. } ( { The careless } 14... Nxe3 $2 { loses after } 15. Nxe6 $1 fxe6 16. Bxe6 Bc6 17. Qxe3 { . } ) 
+ ( { Safer was } 14... N7f6 15. g5 hxg5 16. Bxg5 { though after } Be7 { as in Negi – David, Belgium 2012, then } 17. Nxe6 $1 fxe6 18. Rxe6 { gives White a promising position since } O-O { is met by } 19. Qe2 $1 Rf7 20. Bxf6 Bxf6 21. Nb6 { winning a decisive amount of material. } ) 
+ ( { PH: Black keeps a defensible position with } 14... Be7 15. Nf5 O-O $1 16. Nxe7 Qxe7 17. Bxh6 { and now the cold-blooded } Qd8 $16 { . } ) 
+15. Nxe6 $3 { +- This was only a twenty-minute game and I could not calculate much; all I knew was that the nature of the position called for an aggressive move like this one, preserving the initiative. } ( { If } 15. Bb3 $2 O-O-O { ∞ Black is comfortable and White no longer has clear targets to attack. } ) 
+fxe6 16. Bb6 $1 { Attacking e6 while covering the d8-square, thus preventing Black’s king from escaping with ...O-O-O. } ( { So of course not } 16. Bf2 $2 O-O-O { . } ) 
+Qxa4 ( { White is also winning after: } 16... N7xb6 17. Rxe6 Be7 ( { or } 17... Kd7 18. Nxb6 Kxe6 19. Nxd5 Kf7 18. Rxb6 $18 ) 
+18. Nxb6 O-O ( { or } 18... Nxb6 19. Rxe7 $1 Kxe7 20. Qd6 Ke8 21. Qe6 Kf8 22. Qf7 ) 
+19. Rxe7 Qxb6 20. Rxb7 $1 ) 
+ ( 16... N5xb6 17. Rxe6 Be7 18. Nxb6 { transposes to the variation above. } ) 
+17. Bxd5 Be7 ( 17... Nxb6 { is met decisively by: } 18. Rxe6 Be7 19. Rxe7 $1 Kxe7 20. Qe3 Kd7 21. Qxb6 Bxd5 22. Rxd5 ) 
+18. Rxe6 Bxd5 ( { Again } 18... Nxb6 { loses to } 19. Rxe7 $1 { as above. } ) 
+19. Qxd5 Nxb6 ( { If } 19... Rc8 20. Rxe7 $1 Kxe7 21. Re1 { White has a forced mate, for example: } Kf8 22. Bc5 Nxc5 23. Qf5 Kg8 24. Qxc8 Kh7 25. Qf5 Kg8 26. Re7 $1 ) 
+20. Rxb6 Rd8 21. Qh5+ Kf8 22. Qf5+ Kg8 ( { Or } 22... Ke8 23. Qg6 $1 Kf8 24. Rxd8 Bxd8 25. Rb7 { forcing mate. } ) 
+23. Rxd8+ Bxd8 24. Qd5+ Kh7 25. Qd3+ ( { Quicker and nicer was: } 25. Rxh6 $1 Kxh6 ( 25. Qd3+ gxh6 26. Qf7 ) 
+26. Qh5 ) 
+ ( { After } 25. Qd3 { Black resigned because he is losing a rook after } Kg8 26. Qxd8 Kh7 27. Qd3 Kg8 28. Rb8 Kf7 29. Rxh8 { . Final remarks It is dangerous for Black to carry out the ...d6-d5 break before castling. The resulting position is rather complicated, but seems favourable to White as long as he is ready to sacrifice material when appropriate. } ) 
+
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846303/"]
+[Date "????.??.??"]
+[Round "26.3"]
+[White "22.4) The Scheveningen Structure"]
+[Black "Flores Rios vs. Vasquez #1"]
+[Result "*"]
+[FEN "r1bqkb1r/3n1pp1/p3p2p/3n4/Np1N2P1/4BP2/PPPQ3P/2KR1B1R w kq - 0 13"]
+
+13. Bc4 $1 { White is playing aggressively and maximum precision is required. If Black manages to stabilize his position and castle, then he is probably going to take the lead. } Bb7 14. Rhe1 N7f6 15. g5 hxg5 16. Bxg5 Be7 { In Negi-David, Belgium 2012, this was punished by Nxe6! } 17. Nxe6 $1 fxe6 18. Rxe6 { White has a promising position. } O-O 19. Qe2 $1 Rf7 20. Bxf6 Bxf6 21. Nb6 { Winning a decisive amount of material. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846150/"]
+[Date "????.??.??"]
+[Round "26.4"]
+[White "22.4) The Scheveningen Structure"]
+[Black "Flores Rios vs. Vasquez #2"]
+[Result "*"]
+[FEN "r2qkb1r/1b1n1pp1/p3p2p/3n4/NpBN2P1/4BP2/PPPQ3P/2KRR3 b kq - 0 14"]
+
+14... Qa5 15. Nxe6 $3 { This was only a twenty-minute game and I could not calculate much; all I knew was that the nature of the position called for an aggressive move like this one, preserving the initiative. } fxe6 16. Bb6 $1 { Attacking e6 while covering the d8-square, thus preventing Black's king from escaping with ...O-O-O. } Qxa4 17. Bxd5 Nxb6 18. Rxe6+ Be7 19. Rxe7+ $1 Kxe7 20. Qe3+ Kd7 21. Qxb6 Bxd5 22. Rxd5+ 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2838802/"]
+[Date "????.??.??"]
+[Round "26.5"]
+[White "22.4) The Scheveningen Structure"]
+[Black "Flores Rios vs. Vasquez #3"]
+[Result "*"]
+[FEN "r2qkb1r/1b1n1pp1/p3p2p/3n4/NpBN2P1/4BP2/PPPQ3P/2KRR3 b kq - 0 14"]
+
+14... Qa5 15. Nxe6 $3 fxe6 16. Bb6 $1 { Attacking e6 while covering the d8-square, thus preventing Black's king from escaping with ...O-O-O. } N7xb6 17. Rxe6+ Be7 18. Nxb6 Nxb6 19. Rxe7+ Kxe7 20. Qd6+ Ke8 21. Qe6+ Kf8 22. Qf7# 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2838803/"]
+[Date "????.??.??"]
+[Round "26.6"]
+[White "22.4) The Scheveningen Structure"]
+[Black "Flores Rios vs. Vasquez #4"]
+[Result "*"]
+[FEN "3b2kr/6p1/pR5p/3Q4/qp4P1/5P2/PPP4P/2K5 b - - 0 24"]
+
+24... Kh7 25. Rxh6+ $1 { A decisive rook sacrifice. } gxh6 ( 25... Kxh6 26. Qh5 ) 
+26. Qf7# 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2398080/"]
+[Date "????.??.??"]
+[Round "26.7"]
+[White "22.4) The Scheveningen Structure"]
+[Black "Black’s ...g7-g5 break #1"]
+[Result "*"]
+[FEN "r1b1k2r/1pqnbpp1/p2ppn1p/8/4PP1B/1NNB1Q2/PPP3PP/2KR3R b kq - 0 12"]
+
+ { Black’s ...g7-g5 break The position in the diagram occurred in Leko – Anand, Leon 2001. We have a complex position with multiple options and now Black decided to go for the sharp yet positionally sound: } 12... g5 $1 { The idea of this move is to get rid of White’s f4-pawn in order for Black’s knight to occupy e5. } 13. Bf2 ( { If } 13. fxg5 Ne5 $1 { note that Black did not really sacrifice anything, since he is going to regain the pawn after: } 14. Qe2 Nfd7 15. Bg3 ( 15. Qd2 { is met by } b5 $13 { as there is no hurry to take on g5 , due to the pin } ) 
+hxg5 { With an excellent position for Black. } ) 
+ ( { A critical move was } 13. e5 $5 gxh4 14. exf6 Bxf6 15. Rhe1 { when the resulting position is quite complicated, but Black seems to be doing at least okay. For example, } Bxc3 16. bxc3 Nf6 $13 { to be followed by ...Bd7 and ...O-O-O . } ) 
+ ( { PH: Nowadays' computers just want to play } 13. Bg3 gxf4 14. Bxf4 Ne5 15. Qe2 { . It looks nice for Black, but the computer thinks White keeps an advantage after } b5 16. a3 Nfd7 17. Rhf1 Rb8 18. Qe1 Bb7 19. Kb1 $16 { . Black's pieces are on nice squares but what is Black's plan? There is no good way to get Black's king to safety. } ) 
+gxf4 14. Qxf4 b5 15. Kb1 ( { PH: } 15. a3 $1 { was important to play here. } ) 
+b4 16. Ne2 Bb7 ( { PH: } 16... a5 $1 { would have been a courageous decision, giving up the b5-square: } 17. Nbd4 Ba6 $1 { ⩱ } 18. Nb5 Qb8 { and White is in a difficult bind. } ) 
+17. Rhf1 Ne5 { Every Sicilian player dreams about having such a knight installed on e5. This knight contributes to both attack and defence, covering many essential squares. } 18. h3 h5 19. Nbd4 Rc8 20. Rc1 Rg8 $15 { We have reached a very interesting position that deserves some comment. Black has achieved everything one hopes for with the ...g7-g5 break; let’s spell this out: 1. Black has a colossal knight on e5, which essentially dominates the game. 2. Black is able to make good use of two half-open files (c and g) while White cannot easily do similar, especially with the d-file so cluttered. 3. White’s e4-pawn is isolated and vulnerable. Meanwhile, the bishop on d3 is close to useless. Something to note is that Black’s king stayed in the centre, which is by no means a problem. In fact, it is a standard approach in Scheveningen structures, especially after Black has installed a knight on e5, which ensures the safety of the king. Black has a great position, and White blundered just two moves later, so we will leave our analysis at this point, though the reader is encouraged to analyze this position and convince himself of Black’s superiority. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846154/"]
+[Date "????.??.??"]
+[Round "26.8"]
+[White "22.4) The Scheveningen Structure"]
+[Black "Black’s ...g7-g5 break #2"]
+[Result "*"]
+[FEN "r1b1k2r/1pqnbpp1/p2ppn1p/8/4PP1B/1NNB1Q2/PPP3PP/2KR3R b kq - 0 12"]
+
+ { The position in the diagram occurred in Leko Anand, Leon 2001. We have a complex position with multiple options and now Black decided to go for the sharp yet positionally sound: } 12... g5 $1 { The idea of this move is to get rid of White's f4-pawn in order for Blacks knight to occupy e5. } 13. fxg5 Ne5 $1 { Note that Black did not really sacrifice anything, since he is going to regain the pawn after: } 14. Qe2 Nfd7 15. Bg3 hxg5 { With an excellent position for Black. } 
+ *

@@ -1,0 +1,76 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9483908/"]
+[Date "????.??.??"]
+[Round "23.1"]
+[White "22. Halloween- Goring & other gambits after 2.Nf3"]
+[Black "Goring Gambit #02"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 { In this chapter we will focus on early gambits starting from this position. } 3. d4 { This position is covered in the chapters about the Scotch, but here we will have a look at some Gambit tries. } exd4 4. c3 { A Goring Gambit. -KEY- } d5 $5 { A simple way to avoid any gambits and achieve a comfortable position. 4...dxc3 5. Bc4 cxb2 6.Bxb2 is really interesting but it's not practical to go into something so complex when we don't have to. } 5. exd5 Qxd5 6. cxd4 Bg4 { We have a very easy development. } 7. Be2 { 7.Nc3 Bb4 8.Be2 transposes. } Bb4+ 8. Nc3 Bxf3 { Very concrete, we have 9...Qc4 in mind. The idea is that in the endgame we will play against the isolated d-pawn. } 9. Bxf3 Qc4 { The queen is very annoying on c4 stopping White from castling. } 10. Qb3 Qxb3 11. axb3 Nge7 $11 { with long castle next and no problems. This was the course of the game R.Forster-M.Godena which you may want to look at. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9483910/"]
+[Date "????.??.??"]
+[Round "23.2"]
+[White "22. Halloween- Goring & other gambits after 2.Nf3"]
+[Black "Scotch Gambit #02"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 { In this chapter we will focus on early gambits starting from this position. } 3. d4 { This position is covered in the chapters about the Scotch, but here we will have a look at some Gambit tries. } exd4 4. Bc4 { This is called a Scotch Gambit. -KEY- } Bc5 { 4...Nf6 is possible but that would trick us into a line of the Italian which is out of the scope of this repertoire. } 5. Ng5 $1 { A very direct attempt and much better than 5. O-O. } Nh6 6. Nxf7 ( { or } 6. Bxf7 { but not } 6. Qh5 Qf6 { and White didn't manage to deprive us from castling rights. } ) 
+Nxf7 7. Bxf7+ Kxf7 8. Qh5+ { With this trick White regains the sacrificed piece. } g6 9. Qxc5 d5 $1 { Our king is a bit weak but we have a lead in the development so we try to open the game. } 10. O-O ( 10. Qxd5 { is just bad. } Qxd5 11. exd5 Nb4 { with a big advantage. } ) 
+dxe4 11. c3 ( { White needs to open the game somehow. } 11. Bf4 { stops ...Qd6 but we have } Qe7 ) 
+Qd6 { Not the only move but let's try to exchange queens so that weakness of our king won't be felt. } 12. Qxd6 ( 12. Qb5 a6 { , probably there are no good squares for White's queen. } ) 
+cxd6 13. cxd4 Nxd4 14. Nc3 { White is currently pawn down but things are really tricky and we shouldn't try to hold on to that extra pawn. } Bg4 $1 ( { Playing for the activity. Note that surprisingly after } 14... Re8 15. Be3 { Black is busted. For instance } Nc2 16. Rac1 Nxe3 17. fxe3 Kg7 18. Nd5 { White is dominating and objectively winning. } ) 
+15. Nxe4 Nc2 ( { Black is about to win the exchange as } 15... Nc2 15. Rb1 { is met by } Be2 { - White can get a pawn on d6 in return and objectively it might be equal but probably it is White who needs to prove it. } ) 
+
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9483911/"]
+[Date "????.??.??"]
+[Round "23.3"]
+[White "22. Halloween- Goring & other gambits after 2.Nf3"]
+[Black "Belgrade Gambit #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 { In this chapter we will focus on early gambits starting from this position. } 3. Nc3 Nf6 { This is the Four Knights but here we will look at the Belgrade and Halloween Gambits. } 4. d4 exd4 5. Nd5 { The Belgrade Gambit, which is one of the weirdest opening ideas I have seen- what are the benefits of plonking the knight on d5? I found a great antidote to this line. -KEY- } Nb4 $1 { A very concrete reply, which promises Black a slight edge in many lines. } 6. Bc4 $6 { Everything gets semi forced for many moves now. } Nbxd5 7. exd5 Bb4+ 8. Bd2 Qe7+ 9. Qe2 Bxd2+ 10. Kxd2 Qxe2+ 11. Kxe2 c5 { A nice way of forcing 12.dxc6 as otherwise White's structure would be bad (weak d5 pawn). } 12. dxc6 bxc6 13. Nxd4 d5 { Not much to explain. Such moves are super natural and obvious. } 14. Bd3 c5 15. Nb5 Kd7 $15 { Black will put the king on c6 and his hanging pawns will rather be a strength than a weakness. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9483915/"]
+[Date "????.??.??"]
+[Round "23.4"]
+[White "22. Halloween- Goring & other gambits after 2.Nf3"]
+[Black "Halloween Gambit #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 { In this chapter we will focus on early gambits starting from this position. } 3. Nc3 Nf6 { This is the Four Knights but here we will look at the Belgrade and Halloween Gambits. } 4. Nxe5 $2 { The so-called Halloween Gambit, which is hardly an opening suited for a serious game. The sacrifice is obviously unsound and Black should be winning quite easily. -KEY- } Nxe5 5. d4 Ng6 6. e5 Ng8 { It looks ugly but we don't want to give our piece back. We only suffer for one move which is a low price for a piece. } 7. Bc4 d5 $1 { Sacrificing a pawn to fasten the piece development. } 8. Bxd5 N8e7 9. Bg5 { White also develops fast but he is far from creating a real threat. } ( 9. Bb3 { is met by } Nf5 $1 ) 
+c6 10. Bb3 h6 11. Qf3 { This may look scary but fortunately it just doesn't work. } hxg5 ( { If you are scared to calculate any lines you can play } 11... Be6 { and it's still winning for Black. } ) 
+12. Qxf7+ Kd7 13. d5 Kc7 { Our king is safe. White can regain one piece but it simplifies the position further. } 14. d6+ Kb8 15. dxe7 Nxe7 { With a completely winning position. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9483918/"]
+[Date "????.??.??"]
+[Round "23.5"]
+[White "22. Halloween- Goring & other gambits after 2.Nf3"]
+[Black "Jerome Gambit #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 { In this chapter we will focus on early gambits starting from this position. } 3. Bc4 { -KEY- } Bc5 4. Bxf7+ $2 { The fearsome Jerome Gambit, one of the most dangerous White's tries... no, just a popular joke among streamers. } Kxf7 5. Nxe5+ Nxe5 6. d4 Qh4 $19 { Not the only move, but let's grab e4. Black is completely winning, we will finish development quickly with ...Nf6, ...Re8. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9483923/"]
+[Date "????.??.??"]
+[Round "23.6"]
+[White "22. Halloween- Goring & other gambits after 2.Nf3"]
+[Black "Max Lange attempt #04"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 { In this chapter we will focus on early gambits starting from this position. } 3. Bc4 Bc5 4. O-O Nf6 5. d4 ( { An attempt to transpose into the Max Lange Attack after } 5. d4 exd4 6. e5 { . However, Black can simply capture the pawn with the bishop, achieving a better game. } ) 
+ { -KEY- } Bxd4 6. Nxd4 Nxd4 7. f4 $6 { That's the most popular, but probably not so good. } d6 8. fxe5 dxe5 9. Bg5 { White's play may be appealing at first, but the compensation is not enough for a full pawn. } Qe7 { Black threatens ...Qc5 and prepares a long castle. } ( { Less accurate is } 9... Qd6 { because of } 10. c3 { and exchange of queens. } ) 
+ ( { We should also mention the game Movessian-Adams, Wijk aan Zee 2009 where Black played logical } 9... Be6 { , but after } 10. Na3 Qe7 11. c3 { White obtained dangerous initiative as Black had to go back to c6. Our move order is more flexible, we may play ...Be6 although most likely we will choose ...Bd7 and for now it's important to have ...Ne6 if needed. } ) 
+10. c3 $2 { Forcing the issues is counterproductive. } Ne6 { Hitting the bishop on g5. As mentioned earlier, this is an important resource not wasting any time in a position where dynamic factors matters a lot. } 11. Bxf6 gxf6 12. Na3 Nf4 $1 { a great place for our knight. } 13. Kh1 h5 $19 { Preparing 14...h4, cementing the knight on f4. Then Black can follow with ...Bd7 and ...0-0-0. White not only doesn't have a compensation but his position is miserable. } 
+ *

@@ -1,0 +1,518 @@
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1221726/"]
+[Date "????.??.??"]
+[Round "8.1"]
+[White "7) Grünfeld Centre"]
+[Black "Introduction"]
+[Result "*"]
+[FEN "4k3/pp2pppp/8/2p5/3PP3/2P5/P4PPP/4K3 w - - 0 1"]
+
+ { Grünfeld Centre The structure studied in this chapter typically arises from the Grünfeld Defence, and occasionally in the Nimzo-Indian Defence, in which case the e7-pawn will be on e6, but this does not affect the essence of the strategy. It rarely occurs with reversed colours unless White is deliberately attempting to play a Grünfeld with an extra tempo. Although there is central tension in the position presented, the most likely outcome is that pawns will be traded on d4, after which the c-file will be open, leaving White with a central pawn majority and Black with a queenside pawn majority. This will be a central theme across all positions of this type. Let's outline plans for each side: White's plans 1. Create a central passed pawn with d4-d5, dominate the centre, gain space. 2. Create a kingside attack, which will probably include the moves h2-h4-h5 and e4-e5 to gain control of the f6-square, which is usually weakened when Black develops his bishop on g7. Black's plans 1. Create a queenside passed pawn, especially after some simplifications. 2. Pressure the centre, place a rook on the d-file and find tactical resources associated with the open position. In general White will get pretty good middlegame opportunities since he dominates the centre and has a little more space. This advantage disappears rather easily, as the position is open and Black has multiple opportunities to trade off pieces heading into a good endgame. One major factor in this position is the control of the c-file. If White controls the c-file it will be easier for him to expand, to create a passed pawn, to neutralize Black's play. Likewise, if Black controls the open file, White's central or kingside play will face many difficulties. One may say that open files are always important, which is often true. But in this position the open file is even more important than usual - it is essential. The first three games in this chapter will illustrate the importance of the c-file, and through these examples, we will see how White can create a central passed pawn and win the game. In the third game, it is Black who creates pressure by controlling the c-file and eventually obtains a near-winning endgame. The last two games are devoted to the study of White attacking with the e4-e5 advance. In the first of these White's strategy proves successful, while in the second example Black manages to neutralize the threats to obtain a very superior endgame which is won with high class. The first example in this chapter is the 17th game from the World Championship match of 1990. This game is annotated in the Mega Database by GMs Ftacnik and Gurevich. I shall fast-forward through the opening to reach the position of interest. } 1. -- 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1550919/"]
+[Date "????.??.??"]
+[Round "8.2"]
+[White "7) Grünfeld Centre"]
+[Black "Anatoly Karpov vs. Garry Kasparov"]
+[Result "1-0"]
+
+ { Anatoly Karpov – Garry Kasparov, World Championship, Lyon/New York 1990 Learning objective: This game is a classic illustration of how important it is to possess the c-file in this structure. } 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8. Qd2 O-O 9. Nf3 Bg4 10. Ng5 cxd4 11. cxd4 Nc6 12. h3 Bd7 13. Rb1 Rc8 14. Nf3 Na5 15. Bd3 Be6 16. O-O Bc4 17. Rfd1 b5 18. Bg5 a6 19. Rbc1 Bxd3 20. Rxc8 Qxc8 21. Qxd3 { The reader should examine this position carefully, as there is more to it than meets the eye. Players of all levels could glance at this position and say, 'Chances are level.” Even my engine agrees with this evaluation. In practice matters are not that simple at all. Black experiences some difficulties, as the e7-pawn is under attack, the a6-pawn is vulnerable, and White intends to take control of the c-file. Black could solve his problems by playing two moves in a row: ...Qd7 and ...Nc4 momentarily blocking the c-file. Having only one move, Kasparov failed to cope with his difficulties, and played: } Re8 $6 { In the post-mortem, Kasparov referred to this move as a positional blunder, saying that after losing the c-file his position was ”completely lost”. He probably exaggerated, but the point is clear: fighting for control of the c-file is an essential task in this kind of position. } ( { A better choice was } 21... Nc4 $1 22. Bxe7 Re8 ( { but not } 22... Nb2 $2 23. Qd2 Nxd1 24. Bxf8 { winning a pawn } ) 
+23. Ba3 ( 22... Re8 22. Bg5 $2 Nb2 $19 ) 
+Nxa3 24. Qxa3 Rxe4 25. d5 { when White’s position is somewhat easier to play, but Black should be able to hold with care. For example } Re8 26. d6 Rd8 27. Qd3 Qe6 28. d7 Bf6 $11 { after Black advances the queenside pawns, likely at some point Black's extra pawn there will be traded for the one on d7. } ) 
+ ( { Another option was } 21... Qb7 22. Qa3 Nc4 23. Qxe7 Qxe7 24. Bxe7 Re8 25. Bc5 Rxe4 { with level chances, though Black will need to be careful after } 26. d5 $5 { . } ) 
+ ( { Black loses a pawn after } 21... Qd7 $2 22. Qa3 Nc4 23. Qxa6 { . } ) 
+22. Rc1 $14 { A logical decision, taking control of the essential c-file. } Qb7 ( { Gurevich suggested } 22... Qd7 { but after } 23. Qa3 Nc4 24. Qxa6 Bxd4 25. Nxd4 Qxd4 26. Qxb5 Nd6 27. Qd7 Qxe4 28. a4 $14 { Black still experiences some problems due to the passed a-pawn. } ) 
+ ( { Instead } 22... Qe6 $5 { (attacking the a2-pawn) } 23. d5 Qd6 { gives Black an inferior yet playable position. } ) 
+23. d5 { Gaining control of the c6-square and advancing the central majority hoping to create a passed pawn in the near future. } Nc4 { Blocking the c-file, hoping to continue with ...Rc8 equalizing. } ( { After } 23... h6 { , GM Ftacnik suggests } 24. Bf4 Nc4 25. Nd2 g5 26. Bg3 Nxd2 27. Rc7 $1 { ± when this key intermediate move secures the control of the c-file. } ) 
+ ( { Unfortunately for Black, he cannot dispute the c-file with } 23... Rc8 $2 { because of } 24. Rxc8 Qxc8 25. Bxe7 { winning a pawn and the game. } ) 
+24. Nd2 $1 { A good decision, as any other move allows Black to equalize with 24...Rc8. } Nxd2 $2 ( { PH: Here Black really should have played } 24... h6 { , with the point that after } 25. Bf4 { White has no more pressure on e7. } ( 24... Nxd2 24. Bh4 Nb2 26. Qe3 g5 { Somewhat weakening, but again after } 27. Bg3 Rc8 { Black can contest the open file. } ) 
+Nb2 26. Qe3 Rc8 { Black can contest the c-file without having to worry about the pawn on e7. } ) 
+25. Bxd2 Rc8 $6 { This equalizing try does not work. } ( { A better defence was } 25... Be5 { though Black experiences definite problems after } 26. Rc6 { gaining control of the c-file. } ) 
+26. Rc6 $1 { ± This is the move Kasparov missed; now the c-file belongs to White, and the rest of the game is an instructive display of Karpovian technique. } Be5 { Covering the c7-square. } ( { The point is that: } 26... Rxc6 $2 { fails to: } 27. dxc6 Qc7 ( { The c6-pawn is untouchable: } 27... Qxc6 $4 28. Qd8 Bf8 29. Bh6 { followed by Qxf8# . } ) 
+ ( { Or: } 27... Qb8 28. Qd7 Be5 29. Ba5 $18 ) 
+28. Qd7 Be5 29. Bh6 $1 { (Threatening Qe8#.) } Qxd7 30. cxd7 Bc7 31. e5 $1 { +- A very nice-looking position, Black is trapped in a cage, and there is nothing to do against White’s king marching to the queenside decisively. For example, } f6 $6 ( { or } 31... e6 32. Bg5 ) 
+32. e6 ) 
+27. Bc3 $1 { A nice touch! Karpov understands his advantage resides in the control of the c-file, hence bishops are only 'accessory pieces” which should be exchanged to create a bigger imbalance of forces. } Bb8 ( { If } 27... Bxc3 28. Qxc3 Re8 ( { But not } 28... Rxc6 $6 29. dxc6 Qc7 { since the endgame is lost, for example: } 30. h4 $1 { Threatening h5-h6. } h5 31. e5 Kf8 ( { Or } 31... a5 32. Qc5 b4 33. Qd5 { the threat of Qd7 is winning. } Kg7 34. Qd7 Qxe5 35. c7 Qe1 36. Kh2 Qxf2 37. c8=Q $18 { Black has some checks but there is no perpetual. } ) 
+32. Qc5 Ke8 33. g3 Kf8 34. Qd5 Ke8 35. e6 ) 
+29. a3 $16 { With a big advantage due to the control of the c-file and Black’s lack of counterplay. A possible continuation is } Qa8 30. Qc5 Qb8 31. Rc7 Qd8 32. e5 { which is nearly winning for White. } ) 
+28. Qd4 { Threatening Qg7#. } f6 29. Ba5 ( 29. Qc5 $5 { was also strong. } ) 
+Bd6 ( { Black loses the bishop after } 29... Rxc6 $2 30. dxc6 Qxc6 31. Qd8 Kf7 32. Qxb8 { . } ) 
+30. Qc3 Re8 31. a3 { Karpov dominates the position by controlling the c-file. Now he improves his position a little before taking decisive action. } Kg7 32. g3 { A potential threat is f2-f4. } Be5 33. Qc5 h5 $2 { Making White’s task easier. } ( { A better defence was: } 33... Bd6 34. Qc1 Qd7 35. Kg2 Ra8 36. f4 $5 { ± } ) 
+34. Bc7 $1 { Offering to trade bishops in order to gain control of the c7-square. } Ba1 ( { Of course not } 34... Bxc7 $2 35. Rxc7 Qa8 36. Rxe7 ) 
+35. Bf4 $18 { Now White will invade the seventh rank and win the game easily. } Qd7 36. Rc7 Qd8 ( { Not } 36... Qxh3 $2 37. Rxe7 Rxe7 38. Qxe7 Kg8 39. Bh6 { forcing checkmate. } ) 
+37. d6 g5 38. d7 Rf8 ( 38... gxf4 $2 { fails to } 39. dxe8=Q $11 Qxe8 40. Rxe7 { . } ) 
+39. Bd2 Be5 40. Rb7 { Black resigns as he cannot prevent Qc6, Be3-b6. Final remarks 1. Black was left without counterplay after losing the c-file on move 22. 2. The entrance of the rook by 26. Rc6 aggravated Black’s situation very much, as the rook pressures a6 and allows the doubling of the major pieces with Qc2. 3. The idea of trading bishops was excellent, in order to clear the entry point c7, without which White cannot make much progress. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2835811/"]
+[Date "????.??.??"]
+[Round "8.3"]
+[White "7) Grünfeld Centre"]
+[Black "Karpov vs. Kasparov #1"]
+[Result "*"]
+[FEN "2q1r1k1/4ppbp/p5p1/np4B1/3PP3/3Q1N1P/P4PP1/3R2K1 w - - 0 1"]
+
+1. Rc1 $14 { Taking control of the essential c-file. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2835699/"]
+[Date "????.??.??"]
+[Round "8.4"]
+[White "7) Grünfeld Centre"]
+[Black "Karpov - Kasparov #2"]
+[Result "*"]
+[FEN "2q2rk1/4ppbp/p5p1/np4B1/3PP3/3Q1N1P/P4PP1/3R2K1 b - - 0 1"]
+
+1... Nc4 2. Bxe7 Re8 ( 2... Nb2 $2 3. Qd2 Nxd1 4. Bxf8 { loses a pawn after } Kxf8 5. Qxd1 ) 
+3. Ba3 Nxa3 4. Qxa3 Rxe4 { White’s position is somewhat easier to play, but Black should be able to hold with care. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2835867/"]
+[Date "????.??.??"]
+[Round "8.5"]
+[White "7) Grünfeld Centre"]
+[Black "Karpov vs. Kasparov #3"]
+[Result "*"]
+[FEN "2q1r1k1/4ppbp/p5p1/np4B1/3PP3/3Q1N1P/P4PP1/2R3K1 b - - 0 1"]
+
+1... { -KEY- } Qd7 2. Qa3 Nc4 3. Qxa6 Bxd4 4. Nxd4 Qxd4 5. Qxb5 Nd6 6. Qd7 Qxe4 7. a4 $14 { Black still experiences some problems due to the passed a-pawn. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2838763/"]
+[Date "????.??.??"]
+[Round "8.6"]
+[White "7) Grünfeld Centre"]
+[Black "Karpov vs. Kasparov #4"]
+[Result "*"]
+[FEN "4r1k1/1q2ppbp/p5p1/1p1P2B1/2n1P3/3Q1N1P/P4PP1/2R3K1 w - - 0 1"]
+
+1. Nd2 { A good decision, as any other move allows Black to equalize with 1...Rc8. } Nxd2 2. Bxd2 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2835915/"]
+[Date "????.??.??"]
+[Round "8.7"]
+[White "7) Grünfeld Centre"]
+[Black "Karpov vs. Kasparov #5"]
+[Result "*"]
+[FEN "4r1k1/1q2ppbp/p5p1/1p1P4/4P3/3Q3P/P2B1PP1/2R3K1 b - - 0 1"]
+
+1... { -KEY- } Rc8 $6 2. Rc6 $1 Rxc6 $2 3. dxc6 { The c6-pawn is untouchable: } ( 27. dxc6 Qxc6 $4 28. Qd8 Bf8 29. Bh6 { followed by Qxf8#. } ) 
+ ( { Or: } 27. dxc6 Qb8 28. Qd7 Be5 29. Ba5 $18 ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2835916/"]
+[Date "????.??.??"]
+[Round "8.8"]
+[White "7) Grünfeld Centre"]
+[Black "Karpov vs. Kasparov #6"]
+[Result "*"]
+[FEN "6k1/2q1ppbp/p1P3p1/1p6/4P3/3Q3P/P2B1PP1/6K1 w - - 0 1"]
+
+1. Qd7 Be5 2. Bh6 $1 Qxd7 3. cxd7 Bc7 4. e5 $1 ( { A very nice-looking position, Black is trapped in a cage, and there is nothing to do against White’s king marching to the queenside decisively. For example, } 7. e5 f6 $6 8. e6 { or } e6 8. Bg5 ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2838764/"]
+[Date "????.??.??"]
+[Round "8.9"]
+[White "7) Grünfeld Centre"]
+[Black "Karpov vs. Kasparov #7"]
+[Result "*"]
+[FEN "2r3k1/1q2ppbp/p1R3p1/1p1P4/4P3/3Q3P/P2B1PP1/6K1 b - - 0 1"]
+
+1... Be5 { Covering the c7-square. } 2. Bc3 { A nice touch ! Karpov understands his advantage resides in the control of the c-file, hence bishops are only 'accessory pieces which should be exchanged to create a bigger imbalance of forces. } Bb8 ( { If } 27... Bxc3 28. Qxc3 Re8 ( { But not } 28... Rxc6 $6 29. dxc6 Qc7 { since the endgame is lost, for example: } 30. h4 $1 { Threatening h5-h6. } h5 31. e5 Kf8 32. Qc5 Ke8 33. g3 Kf8 34. Qd5 Ke8 35. e6 ) 
+29. a3 $16 { With a big advantage due to the control of the c-file and Blacks lack of counterplay. A possible continuation is } Qa8 30. Qc5 Qb8 31. Rc7 Qd8 32. e5 { which is nearly winning for White. } ) 
+3. Qd4 { Threatening Qg7#. } f6 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2838765/"]
+[Date "????.??.??"]
+[Round "8.10"]
+[White "7) Grünfeld Centre"]
+[Black "Karpov vs. Kasparov #8"]
+[Result "*"]
+[FEN "4r3/1q2p1kp/p1R2pp1/BpQPb3/4P3/P5PP/5P2/6K1 b - - 3 33"]
+
+33... h5 34. Bc7 { Offering to trade bishops in order to gain control of the c7-square. } Ba1 ( { Of course not } 34... Bxc7 $2 35. Rxc7 Qa8 36. Rxe7 ) 
+35. Bf4 { Now White will invade the seventh rank and win the game easily. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1550964/"]
+[Date "????.??.??"]
+[Round "8.11"]
+[White "7) Grünfeld Centre"]
+[Black "Wesley So vs. Mauricio Flores Rios"]
+[Result "1-0"]
+
+ { Wesley So – Mauricio Flores Rios, Princeton 2012 Learning objectives: 1. This game is a modern execution of the ideas we studied in the previous game. 2. Once again, the c-file, the entrance on the c6-square, and the potential for a passed pawn decide the game in White’s favour. } 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8. Rb1 O-O 9. Be2 b6 ( { More common is } 9... cxd4 10. cxd4 Qa5 11. Bd2 Qxa2 { with sharp theoretical complications. } ) 
+10. O-O Bb7 11. Qd3 cxd4 $6 { The beginning of a mistaken plan. I somehow wanted to play safe in this game by trading several pieces early on, and hoping for an easy draw. Let’s see what happened. } ( { A better alternative was the standard } 11... e6 12. Bg5 Qc7 13. Qe3 Nd7 14. e5 { with a typical Grünfeld position which has occurred in over 50 games. } ) 
+12. cxd4 Ba6 13. Qe3 Bxe2 14. Qxe2 Nc6 15. d5 Nd4 16. Nxd4 Bxd4 { And here I was. After trading three minor pieces I thought my position was very close to equal, and heading for a relatively easy draw. There is great similarity between this position and the previous game, but unfortunately for me, I was unfamiliar with that game at the time, hence I was in unknown territory from a strategic perspective and I did not yet know how bad my position was. The reader should carefully examine this position and appreciate Black’s difficulties. First, one of White’s main plans in this pawn structure is the creation of a passed pawn on the d-file, which Wesley is not very far from, since his d-pawn has already reached d5. Second, the c6-square is weakened, which probably will help White gain control of the c-file, just as in the previous game. Finally, Black’s counterplay is often based on advancing his majority on the queenside, but we know this is not going to happen soon enough; thus Black is just playing a waiting game, hoping to survive. Overall, this position is probably just a slight advantage for White, but it is extremely difficult for Black to play, as there is not a clear-cut plan, and there are many things to worry about. } 17. Rd1 { Gaining a tempo to support the potential e4-e5 and d5-d6. } ( { An interesting alternative is: } 17. Bh6 $5 Bg7 18. Bxg7 Kxg7 19. Rbc1 Rc8 20. Rc6 $1 { Just as in the previous game. } Rxc6 21. dxc6 Qc7 22. Rc1 $16 { With perfect play, it is impossible to say if this is a forced win or just a draw. But White can comfortably play for a win for as long as he wants to, and should expect to score about 80% of the points, as passive defence is always difficult. As an example, I offer this variation: } Rd8 23. e5 e6 24. g3 Rc8 25. h4 Rd8 26. Qe3 Rc8 27. Qd4 Rd8 28. Qd6 $1 Rxd6 $2 ( { or } 28. Rd1 Rc8 29. Kg2 $16 ) 
+29. exd6 Qxd6 30. c7 $18 ) 
+Bg7 ( { Or } 17... Be5 18. Bh6 ( 17... Bg7 17. f4 $6 { does not work so well after } Bd6 19. e5 Bc5 20. Kh1 Qd7 { followed by ...Qf5 where Black is doing fine } ) 
+Re8 19. Rbc1 $14 { and again, it is similar to the previous game. } ) 
+ ( { The alternative } 17... Bc5 $6 { blocking the c-file can be met by } 18. Bh6 Re8 19. e5 { when White has good attacking prospects, aside from the potential threat of creating a central passed pawn. } ) 
+18. Ba3 $14 { Preparing White’s two main ideas: the creation of a passed pawn with e4-e5 and d5-d6, and the control of the c-file with Rb1-c1-c6. Black cannot prevent both. } Be5 { At this point I started to realize that I was in serious trouble, since I had lost the c-file. } ( { In particular, I was disappointed to realize that after } 18... Qd7 19. e5 { Black has nothing to do other than wait, while White has a pleasant choice between the strong breaks e5-e6 and d5-d6. } Rfe8 20. Qe4 Rac8 21. g3 $5 { (preparing f2-f4 gaining more space) } Rc3 22. Bb2 Rc5 23. Rbc1 { Black is inferior, and must always watch out for tactical shots. For example } Rec8 $2 { runs into: } 24. e6 $1 fxe6 ( { better is } 24... Qd6 $16 ) 
+25. dxe6 { And now } Qc6 $2 { loses after } 26. Rxc5 bxc5 27. Rd8 $1 { winning the queen, or mating after } Bf8 28. Qe5 { . } ) 
+19. Rbc1 Qd7 20. Rc6 { Following Karpov’s model, White takes control of the c-file. The machine only gives a small advantage to White, but I can testify this feels a lot worse during a live game, particularly since I did not know how to wait without further damaging my position. } Rfc8 21. Qc2 e6 $6 { This is just a sign of desperation, damaging my own position by helping White obtain a passed pawn on the d-file. } ( { No good is } 21... Rxc6 $2 22. dxc6 Qe8 23. Rd7 { when the c6-pawn and the seventh-rank invasion decide the game. } ) 
+ ( { It was better to wait with } 21... Rab8 { but after } 22. g3 { Black’s position is unpleasant, facing the potential threat f2-f4 and e4-e5. A possible continuation is } b5 23. Bb4 Qd8 24. f4 Bg7 25. e5 $16 { followed by e5-e6 or d5-d6 to create a passed pawn. } ) 
+22. g3 exd5 23. exd5 h5 { Hoping for some miraculous counterplay? My dreams were crushed too soon after the strong: } 24. Re1 $1 { ± The bishop on e5 suddenly becomes vulnerable. } Re8 ( { If } 24... Bg7 25. Re7 Qg4 26. d6 { the passed d-pawn decides the game. } ) 
+25. d6 Rec8 { I played this instantly as I was already under some time pressure. } ( { PH: Probably best would have been } 25... Bf6 { , stopping ideas like Re7, but then White can play } 26. Rd1 $1 { ± with the threat of Rc7. The position is very unpleasant for Black. } ) 
+26. Rc7 { I completely missed this nice tactical blow which gives White a decisive advantage. } ( { I was hoping for } 26. Rxc8 $2 Rxc8 27. Qe4 Bf6 { when Black’s position seems defendable, though White is still better. } ) 
+Rxc7 27. dxc7 Qxc7 ( { Not } 27... Bxc7 $2 28. Re7 { and White wins at once. } ) 
+28. Qe4 { Attacking the rook and the bishop. } Re8 29. Bb2 $1 { This is the point. Black is now forced to give up an exchange obtaining a lost position. } Bxb2 ( { Even worse is: } 29... f6 $2 30. Qxg6 Kf8 ( 30... Qg7 $2 31. Qxe8 ) 
+31. Ba3 $18 ) 
+30. Qxe8+ Kg7 31. Re7 Qc1+ 32. Kg2 Qc4 33. Rxa7 Qd5+ ( { More stubborn was } 33... h4 $5 { . } ) 
+34. f3 Qc4 35. Qe4 { White is a full exchange up and my counterplay is under control. The rest is simple. } Qc8 36. Rb7 h4 37. gxh4 Bf6 38. Qd5 Qe8 39. Qc4 b5 40. Rxb5 Qd7 41. Rd5 Qe6 42. Rc5 Qe3 43. Rc7 Kh6 44. Qc1 { Final remarks 1. The message of this game is very similar to the previous one. In essence, the c-file plays a crucial role in this type of structure. Without it, Black will be limited to a very difficult, passive defence. 2. Most importantly, this game illustrates the importance of studying model games for each structure, as we do in this book. Had I known the Karpov – Kasparov game beforehand, I certainly would have known how to play this position type, and I would have known what variations to avoid. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2836164/"]
+[Date "????.??.??"]
+[Round "8.12"]
+[White "7) Grünfeld Centre"]
+[Black "Wesley So vs. Mauricio Flores Rios #1"]
+[Result "*"]
+[FEN "r2q1rk1/p3pp1p/1p4pB/3P4/3bP3/8/P3QPPP/1R3RK1 b - - 0 1"]
+
+1... Bg7 2. Bxg7 Kxg7 3. Rbc1 Rc8 4. Rc6 $1 Rxc6 5. dxc6 Qc7 6. Rc1 $16 { With perfect play, it is impossible to say if this is a forced win or just a draw. But White can comfortably play for a win for as long as he wants to, and should expect to score about 80% of the points, as passive defence is always difficult. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2836165/"]
+[Date "????.??.??"]
+[Round "8.13"]
+[White "7) Grünfeld Centre"]
+[Black "Wesley So vs. Mauricio Flores Rios #2"]
+[Result "*"]
+[FEN "2r5/p1q2pkp/1pP1p1p1/4P3/3Q3P/6P1/P4P2/2R3K1 b - - 0 1"]
+
+1... Rd8 2. Qd6 $1 Rxd6 $2 ( 2... Rc8 3. Kg2 $16 ) 
+3. exd6 Qxd6 4. c7 $18 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2836167/"]
+[Date "????.??.??"]
+[Round "8.14"]
+[White "7) Grünfeld Centre"]
+[Black "Wesley So vs. Mauricio Flores Rios #3"]
+[Result "*"]
+[FEN "4r1k1/p2qppbp/1p4p1/2rPP3/4Q3/6P1/PB3P1P/2RR2K1 b - - 0 1"]
+
+1... Rec8 $2 { Black is inferior, and must always watch out for tactical shots. } 2. e6 $1 fxe6 ( 2... Qd6 $16 ) 
+3. dxe6 Qc6 $2 4. Rxc5 bxc5 5. Rd8+ $1 { Winning the queen, or mating. } Bf8 6. Qe5 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2836168/"]
+[Date "????.??.??"]
+[Round "8.15"]
+[White "7) Grünfeld Centre"]
+[Black "Wesley So vs. Mauricio Flores Rios #4"]
+[Result "*"]
+[FEN "r2q1rk1/p3ppbp/1p4p1/3P4/4P3/B7/P3QPPP/1R1R2K1 b - - 0 18"]
+
+18... Rc8 19. e5 Qd7 20. e6 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2836170/"]
+[Date "????.??.??"]
+[Round "8.16"]
+[White "7) Grünfeld Centre"]
+[Black "Wesley So vs. Mauricio Flores Rios #5"]
+[Result "*"]
+[FEN "r3r1k1/p2q1p2/1pRP2p1/4b2p/8/B5P1/P1Q2P1P/4R1K1 b - - 0 25"]
+
+25... Rec8 26. Rc7 { I completely missed this nice tactical blow which gives White a decisive advantage. } Rxc7 27. dxc7 Qxc7 ( 27... Bxc7 $2 28. Re7 { and White wins at once. } ) 
+28. Qe4 { Attacking the rook and the bishop. } Re8 29. Bb2 $1 { This is the point. Black is now forced to give up an exchange obtaining a lost position. } Bxb2 30. Qxe8+ Kg7 31. Re7 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1550991/"]
+[Date "????.??.??"]
+[Round "8.17"]
+[White "7) Grünfeld Centre"]
+[Black "Holden Hernandez vs. Georg Meier"]
+[Result "0-1"]
+
+ { Holden Hernandez – Georg Meier, Lubbock 2013 Learning objectives: 1. We can reach a Grünfeld type structure from a completely different opening. 2. Once again, this game illustrates the importance of the c-file, but now the file is in Black’s possession. I present the opening moves, but do not analyze them as they are irrelevant for our purposes. } 1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Be2 b6 8. O-O Nbd7 9. cxd5 Nxd5 10. Bxe7 Qxe7 11. Bb5 Bb7 12. Qa4 Rfd8 13. Bc6 Bxc6 14. Qxc6 Nb4 15. Qa4 Nd5 16. Nc3 Nxc3 17. bxc3 c5 { We reach a critical moment in the game, as White has to determine what pawn structure to play. } 18. e4 $2 { This move is a serious misjudgement, converting the game into a Grünfeld-type position under unfavourable circumstances. The reader should compare this position to the previous two games and understand why White’s move is a mistake. In these games, particularly in So – Flores, White had two strong plans in hand: creating a passed pawn on the d-file, and controlling the c-file with his major pieces. In this position Black is well prepared to meet both plans, and it is White who does not have the time to fight for the c-file, due to the vulnerability of his central pawns. } ( { A sound decision was } 18. Rfd1 Nf6 19. Rac1 { with level chances. } ) 
+ ( { Or } 18. c4 $5 cxd4 19. exd4 { with a hanging pawns structure, although the central pawns might become vulnerable as the game is already simplified. } ) 
+ ( { PH: I think the strongest move in the position is } 18. Qb3 { , intending to push the a-pawn with a4-a5, getting rid of a potential weakness. . } ) 
+Nf6 19. Rfe1 ( 19. Qc2 { is of no help after } cxd4 20. cxd4 Rac8 21. Qe2 Qb7 ( 21. Rfe1 Qa3 { is also difficult to meet, as Black controls the c1-square. } ) 
+22. Rfe1 Rc7 $5 { ⩱ with a pleasant advantage for Black. } ) 
+ ( { The advance } 19. e5 $2 { gives a big advantage to Black after } Nd5 20. Rac1 Rac8 $17 { since there is no time for } 21. Nd2 $6 { (intending to follow with Ne4-d6) because of } cxd4 22. cxd4 Rxc1 23. Rxc1 Nf4 $1 { with the decisive threats ...Rxd4 and ...Qg5 . For example: } 24. Re1 Qg5 25. g3 Nh3 26. Kg2 Qxd2 $19 ) 
+cxd4 20. cxd4 Rac8 $15 { Gaining control of the essential c-file! White is simply worse, as none of his typical plans work here. } 21. Qa6 $6 { The queen is not particularly helpful on this square, but it at least prevents Black from playing ...Qb7 pressuring the e4-pawn. } ( { If } 21. Qb3 Qb7 { (threatening ...Nxe4) } 22. Qd3 Qc6 { Black dominates the game due to the c-file invasions ...Qa4 and ...Rc2 , or simply ...Qc2 . } ) 
+ ( { White cannot fight for the c-file with } 21. Rac1 $2 { as he loses a pawn after } Rxc1 22. Rxc1 Nxe4 { . } ) 
+ ( { A better defence was } 21. Re2 { protecting his second rank. After } Rc3 22. Rae1 Qd7 $5 23. Qxd7 Rxd7 $15 { White has to defend an inferior endgame. } ) 
+Rc2 { Black is certainly not going to miss a chance to invade the seventh rank. } 22. h3 Rdc8 23. Rad1 ( { Or } 23. Re2 R8c3 24. Rxc2 Rxc2 25. Qd3 Qc7 $17 { when White’s pieces are trapped in a cage. } ) 
+ ( { If } 23. a4 { attempting to simplify the queenside, Black replies } Qd7 $1 24. a5 b5 $17 { creating a dangerous passed pawn. } ) 
+R8c4 ( { Even stronger was } 23... R8c3 { threatening ...Ra3 then ...Raxa2 with a winning position, and after } 24. Rd3 ( { or } 23... R8c4 23. Re2 Qc7 25. Rxc2 Rxc2 $17 ) 
+Rxd3 25. Qxd3 Rxa2 $17 { White has no compensation for the pawn. } ) 
+24. Ne5 Rc7 25. d5 $2 { Desperation. White was probably under time pressure. Generally, attempting to create a passed pawn without controlling the position is just doomed to fail. } ( 25. Re2 { was necessary, though after } R2c3 $5 { White’s defence requires great accuracy. For example the natural } 26. Nf3 $2 ( { Or simply waiting with } 26. Kh1 $2 { is refuted by } Qb4 $1 { ∓ threatening ...Ra3 trapping White’s queen. The best defence is } 26. Ree1 $1 { ⩱. } ) 
+ { runs into } Rxf3 $1 27. gxf3 Nh5 { with a decisive attack. } ) 
+exd5 26. exd5 Qc5 { Simple and effective; White is losing a pawn because of the double threat ...Nxd5 and ...Qxf2 mating. } 27. Nd3 Qxd5 28. Nb4 Qc4 29. Qxc4 R2xc4 $17 { Black is nearly winning, and the rest of the game is an exemplary endgame. } 30. Rd8+ Kh7 31. Nd5 Nxd5 32. Rxd5 Rc1 33. Rdd1 Rxd1 34. Rxd1 Kg6 { Black’s king is coming to the game much sooner than White’s, making the defensive task nearly impossible. } 35. Rd3 Kf6 36. g4 Ke6 37. Kg2 Rd7 38. Rc3 Rd4 { Improving the rook from passive to active. } 39. Kf3 ( { If } 39. Ra3 a5 40. Rb3 Rb4 $1 41. Re3 ( { of course not } 41. Rxb4 $4 axb4 42. Kf3 Kd5 43. Ke3 Kc4 { and the pawn endgame is won } ) 
+Kd6 { when Black’s king is just too close to the queenside. } ) 
+Ra4 40. a3 g6 { This move is a small improvement in the position. Black is preparing to transfer his king to the queenside, after which White will need an extra tempo to capture the f- and g-pawns, say Rxf7-g7xg6. } 41. Kg3 b5 42. f3 $6 { This only makes things easier, blocking the way for White’s king. } ( { A more stubborn defence was } 42. Kf3 { keeping an eye on the queenside, though after } a5 43. Ke2 Kd6 44. Kd2 Rd4 $5 { White’s position seems hopeless, as he cannot protect both flanks from Black’s multiple threats. } ) 
+Kd5 { Black’s king marches to the queenside, and the position is just lost. } 43. h4 a5 44. Rc7 Rxa3 45. Rxf7 b4 46. Rb7 b3 { White resigns as he cannot prevent the promotion of the pawns. Final remarks 1. White’s biggest mistake in this game was going into a Grünfeld structure without calculating whether he could fight for the c-file or not. 2. Black’s control of the c-file kept White under serious pressure and lacking counterplay, thus provoking the mistake 25. d5? which cost a pawn and the game. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2836174/"]
+[Date "????.??.??"]
+[Round "8.18"]
+[White "7) Grünfeld Centre"]
+[Black "Holden Hernandez vs. Georg Meier #1"]
+[Result "*"]
+[FEN "2r3k1/p3qpp1/Qp2pn1p/8/3PP3/5N1P/P1r2PP1/R3R1K1 w - - 0 23"]
+
+23. Rad1 R8c3 { Threatening ...Ra3 then ...Raxa2 with a winning position. } 24. Rd3 ( 24. Re2 Qc7 25. Rxc2 Rxc2 $17 ) 
+Rxd3 25. Qxd3 Rxa2 $17 { White has no compensation for the pawn. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2836172/"]
+[Date "????.??.??"]
+[Round "8.19"]
+[White "7) Grünfeld Centre"]
+[Black "Holden Hernandez vs. Georg Meier #2"]
+[Result "*"]
+[FEN "6k1/p1r1qpp1/Qp2pn1p/4N3/3PP3/7P/P1r2PP1/3RR1K1 w - - 0 25"]
+
+25. Re2 R2c3 { White's defence requires great accuracy. } 26. Nf3 Rxf3 $1 27. gxf3 Nh5 { With a decisive attack. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2836176/"]
+[Date "????.??.??"]
+[Round "8.20"]
+[White "7) Grünfeld Centre"]
+[Black "Holden Hernandez vs. Georg Meier #3"]
+[Result "*"]
+[FEN "6k1/p1r1qpp1/Qp3n1p/3pN3/4P3/7P/P1r2PP1/3RR1K1 w - - 0 26"]
+
+26. exd5 Qc5 { Simple and effective; White is losing a pawn because of the double threat ...Nxd5 and ...Qxf2 mating. } 27. Nd3 Qxd5 28. Nb4 Qc4 29. Qxc4 R2xc4 $17 { Black is nearly winning, and the rest of the game is an exemplary endgame. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551013/"]
+[Date "????.??.??"]
+[Round "8.21"]
+[White "7) Grünfeld Centre"]
+[Black "Mircea Parligras vs. Ian Nepomniachtchi"]
+[Result "1-0"]
+
+ { Mircea Parligras – Ian Nepomniachtchi, Aix-les-Bains 2011 Learning objective: This game provides an example for an ideal execution of the e4-e5 advance, as well as the subsequent kingside attack. } 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8. Qd2 cxd4 9. cxd4 Nc6 10. Rd1 O-O 11. Nf3 Bg4 12. Be2 Rc8 13. O-O { So far we have been following a well-known theoretical line, and now Black decided to deviate with: } Bxf3 ( { More common is } 13... Qa5 { when pretty much all GM-level games have finished in a draw, so it is understandable for Nepomniachtchi to have chosen differently, although his strategy ultimately backfired... } ) 
+14. Bxf3 Na5 { Aiming to play ...Nc4xe3. } ( { An interesting option was } 14... e5 $5 15. d5 Nd4 16. Rc1 $1 { preparing Be2 with a small advantage } ( { but not } 15... Na5 15. Be2 $4 Rc2 $19 ) 
+Nxf3 17. gxf3 $14 { when White’s king is reasonably safe, while the d5-pawn is strong. } ) 
+15. Bg5 $1 { Suddenly Black’s knight will not have much to do on c4. } ( { Probably Nepomniachtchi was hoping for } 15. Be2 Nc4 16. Bxc4 Rxc4 17. Rc1 b5 { when Black had reasonable chances to play for a win, as in the game Praszak – Eljanov, Polanica Zdroj 1999. } ) 
+b6 16. e5 $1 { A good positional decision. Generally speaking, the e4-e5 advance is double-edged in the Grünfeld structure. On the positive side, it restricts the action of the g7-bishop and creates some attacking chances on the kingside. On the negative side, it may permanently weaken the d5 square, and it often gives up the possibility of creating a passed d-pawn, as Black can simply neutralize the majority with the standard ...e7-e6. This position is different, and the key is the lack of Black’s light-squared bishop and the misplacement of Black’s knight, many moves away from the d5-square. } Qd7 ( { The imprecise } 16... Nc4 $6 { is met by } 17. Qb4 $1 Rc7 ( { or } 17... Re8 18. Bb7 $1 Rc7 19. Ba6 Na5 20. Bb5 Rf8 21. Rc1 $16 ) 
+18. Be2 Na5 19. Rc1 $16 { and the e7-pawn is a serious target. } ) 
+17. Rfe1 ( { PH: Nowadays we would just play } 17. h4 { and get the attack going, AlphaZero style. } ) 
+Nc4 18. Qe2 e6 { A necessary move. It weakens the f6-square somewhat, but White was threatening 19. Bg4 e6 20. d5!. } ( { For example, the careless } 18... b5 $2 { loses to: } 19. Bg4 $1 e6 20. d5 Qe8 21. dxe6 fxe6 22. Rd6 $1 { This is the key. } Nxd6 23. exd6 Kh8 24. Bxe6 ) 
+19. h4 { A familiar plan, intending to create more weaknesses around Black’s king. } h6 $6 { This weakens the position needlessly. } ( { Krasenkow suggests the variation } 19... b5 $5 20. h5 Nb6 21. h6 Bh8 22. Qd2 Rc4 23. Qf4 Nd5 24. Bxd5 exd5 25. Bf6 $6 Qe6 { when Black is holding okay, but instead } 25. Re3 $5 { ⩲ allows White to maintain some pressure. PH: I think Flores Rios understates White's advantage. } 25. a3 a5 26. Rd3 b4 27. Rf3 Qe6 28. Rc1 { when modern engines say +2. The bishop on h8 is simply too boxed in. } ) 
+20. Bc1 b5 ( { If } 20... h5 $2 21. g4 $1 { Black is in serious trouble after } hxg4 22. Be4 $1 { when the simple Qxg4 followed by h4-h5 blows up Black’s castled position: } Rfd8 23. Qxg4 Qb5 ( { or } 23... Kf8 24. h5 gxh5 25. Qxh5 $18 ) 
+24. Bg5 Rd7 25. h5 { With a winning attack. } ) 
+21. h5 g5 22. Be4 { White’s position is very promising. He may proceed with either f2-f4 opening up the kingside, or Bb1 planning Qc2-h7#. } Nb6 $6 { This makes things clearer for White. } ( { If } 22... Rfd8 23. f4 gxf4 24. Bxf4 $16 { and Black’s position is quite fragile. } ) 
+ ( { A better defence was } 22... a6 $5 23. Bb1 ( { another option is } 22... Nb6 22. Qg4 $5 { preparing f2-f4 } ) 
+f5 24. exf6 Rxf6 25. a4 $14 { with a generally pleasant position for White. } ) 
+23. Bd3 { With the double threat Bxb5 and Qe4-h7#, when there is nothing better than giving up a pawn with: } Nd5 ( { If } 23... b4 $6 { White gains a very powerful attack after: } 24. Qe4 f5 ( { or } 24... Rfd8 25. Bxg5 $1 hxg5 26. h6 Bxh6 27. Qh7 Kf8 28. Qxh6 Ke8 29. Qxg5 $16 ) 
+25. exf6 Rxf6 26. Qh7 Kf8 27. d5 $1 { +- Opening up lines with a winning position, for example: } Nxd5 28. Bb2 Rf7 ( { or } 28... Nc3 29. Ba6 $1 { +- } ) 
+29. Bxg7 Rxg7 30. Qxh6 $18 ) 
+24. Bxb5 ( 24. Qe4 Rfd8 25. Qh7 Kf8 26. Be4 $16 ) 
+Qe7 25. Bd2 { White is simply a pawn up, and the rest of the game is not so relevant to us, thus I leave it with only sparse comments. } f5 26. exf6 Rxf6 27. Bc4 Qf7 28. Bxd5 $5 { Keeping things simple and clear, even at the cost of decreasing the advantage somewhat. } ( { An option was } 28. Bd3 $1 { with a near-decisive advantage. } ) 
+exd5 29. Bb4 Rf4 30. Bc5 Bf8 $2 ( { A better defence was: } 30... Re4 $1 { ± } ) 
+31. Qe6 ( { More potent was } 31. Qa6 $1 Rc7 32. Bxf8 Qxf8 33. Qg6 Rg7 34. Qc6 { winning another pawn, and the game. } ) 
+Qxe6 32. Rxe6 Kf7 33. Ra6 Bxc5 34. dxc5 Rxc5 35. Rxh6 Ra4 36. Rb1 $18 { The invasion on the seventh rank decides the game. } d4 37. Rb7+ Kg8 38. Rg6+ Kh8 39. Rh6+ Kg8 40. Rd6 Rc8 41. h6 d3 42. g3 ( { But not: } 42. Rg7 Kh8 43. Rdd7 $2 Rc1 44. Kh2 Rh4 45. Kg3 Rxh6 $16 ) 
+ ( { The text move makes a space on g2 for the king, and covers the h4-square, which forced Black to resign. For example, } 42. g3 Rxa2 $4 43. Rg7 Kh8 ( 43. g3 Kf8 44. Rf6 Ke8 45. h7 { mating } ) 
+44. Rdd7 { threatening mate in three. Final remarks 1. The key to this game was the timely e4-e5 advance, which gave White all the benefits but none of the drawbacks of this move. 2. The disadvantage in placing a knight on a5 is that after e4-e5 it takes many moves to reach the d5-square. By the time this knight reached d5, Black’s camp was already far too weakened. } ) 
+
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2838793/"]
+[Date "????.??.??"]
+[Round "8.22"]
+[White "7) Grünfeld Centre"]
+[Black "Mircea Parligras vs. Ian Nepomniachtchi #1"]
+[Result "*"]
+[FEN "2rq1rk1/pp2ppbp/2n3p1/8/3PP3/4BB2/P2Q1PPP/3R1RK1 b - - 0 1"]
+
+1... { -KEY- } Na5 { Aiming to play ...Nc4xe3. } ( { An interesting option was } 14... e5 $5 15. d5 Nd4 16. Rc1 $1 { preparing Be2 with a small advantage. } ( { But not } 15... Na5 15. Be2 $4 Rc2 $19 ) 
+Nxf3 17. gxf3 $14 { when Whites king is reasonably safe, while the d5-pawn is strong. } ) 
+2. Bg5 $1 { Suddenly Blacks knight will not have much to do on c4. } ( { Probably Nepomniachtchi was hoping for } 15. Be2 Nc4 16. Bxc4 Rxc4 17. Rc1 b5 { when Black had reasonable chances to play for a win, as in the game Praszak Eljanov, Polanica Zdroj 1999. } ) 
+b6 3. e5 $1 { A good positional decision. Generally speaking, the e4-e5 advance is double-edged in the Grunfeld structure. On the positive side, it restricts the action of the g7-bishop and creates some attacking chances on the kingside. On the negative side, it may permanently weaken the d5 square, and it often gives up the possibility of creating a passed d-pawn, as Black can simply neutralize the majority with the standard ...e7-e6. This position is different, and the key is the lack of Blacks light-squared bishop and the misplacement of Blacks knight, many moves away from the d5-square. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2838794/"]
+[Date "????.??.??"]
+[Round "8.23"]
+[White "7) Grünfeld Centre"]
+[Black "Mircea Parligras vs. Ian Nepomniachtchi #2"]
+[Result "*"]
+[FEN "2r2rk1/p2qppbp/1p4p1/4P1B1/2nP4/5B2/P3QPPP/3RR1K1 b - - 0 1"]
+
+1... b5 $2 2. Bg4 $1 e6 3. d5 Qe8 4. dxe6 fxe6 5. Rd6 $1 { The key move. } Nxd6 6. exd6 Kh8 7. Bxe6 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2838795/"]
+[Date "????.??.??"]
+[Round "8.24"]
+[White "7) Grünfeld Centre"]
+[Black "Mircea Parligras vs. Ian Nepomniachtchi #3"]
+[Result "*"]
+[FEN "2r2rk1/p2q1pbp/1p2p1p1/4P1B1/2nP4/5B2/P3QPPP/3RR1K1 w - - 0 1"]
+
+1. h4 { Intending to create more weaknesses around Blacks king. } h6 2. Bc1 b5 3. h5 g5 4. Be4 Nb6 5. Bd3 a6 $2 6. Qe4 $1 f5 7. exf6 { And Black's king position is dangerously weakened. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2838796/"]
+[Date "????.??.??"]
+[Round "8.25"]
+[White "7) Grünfeld Centre"]
+[Black "Mircea Parligras vs. Ian Nepomniachtchi #4"]
+[Result "*"]
+[FEN "2r2rk1/p2q1pbp/1p2p1p1/4P1B1/2nP4/5B2/P3QPPP/3RR1K1 w - - 0 1"]
+
+1. h4 b5 2. h5 Nb6 3. h6 Bh8 { White is pushing but Black's position still holds. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2838797/"]
+[Date "????.??.??"]
+[Round "8.26"]
+[White "7) Grünfeld Centre"]
+[Black "Mircea Parligras vs. Ian Nepomniachtchi #5"]
+[Result "*"]
+[FEN "2r2rk1/p2q1pb1/1p2p1pp/4P3/2nP3P/5B2/P3QPP1/2BRR1K1 b - - 0 1"]
+
+1... h5 2. g4 hxg4 3. Be4 Rfd8 4. Qxg4 Qb5 5. Bg5 Rd7 6. h5 { With a winning attack. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551036/"]
+[Date "????.??.??"]
+[Round "8.27"]
+[White "7) Grünfeld Centre"]
+[Black "Yuri Vovk vs. Andrei Volokitin"]
+[Result "0-1"]
+
+ { Yuri Vovk – Andrei Volokitin, Kiev 2012 Learning objectives: 1. This game illustrates how Black may neutralize White’s kingside attack after e4-e5 has been played. 2. After Black neutralizes such an attack, we arrive in a superior endgame which illustrates the advantage of having a remote pawn majority. } 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8. Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Rc1 ( { PH: In 2010 I was part of Anand's team in his WC match against Topalov, and we prepped the Grunfeld for half a year... Only to have Vishy lose a Grunfeld game against Topalov in about 2 hours time! That game continued } 12. Qd2 e5 13. Bh6 { and White started an attack on the kingside. } ) 
+ { So far we have been following theory quite closely, and now: } e6 $5 { This is somewhat rare, but still a good move and a standard one in Black’s set-up. } ( { More common is } 12... cxd4 13. cxd4 e6 14. Qd2 Bb7 { with typical Grünfeld play. } ) 
+ ( 12... e5 $5 { is also possible. } ) 
+13. Qd2 ( { If } 13. dxc5 { Black is often ready to play with compensation for the pawn after } Qc7 $1 14. cxb6 axb6 { with level chances, since the c3- and a2-pawns are rather weak. For example, } 15. Rb1 Nc4 16. Bxc4 Qxc4 17. Rxb6 $6 ( { better is } 17. Rb4 Qxa2 $11 ) 
+Qxe4 $5 { with slightly better chances for Black. } ) 
+Bb7 14. Bg5 ( { Again, Black is fine after } 14. dxc5 Qc7 15. cxb6 axb6 { . } ) 
+ ( { Another option was } 14. Rfd1 cxd4 15. cxd4 Qd7 { when the position is quite flexible. A possible continuation is } 16. Bh6 Bxh6 17. Qxh6 Rac8 18. h4 Rxc1 19. Rxc1 Nc6 $5 { with a balanced game. } ) 
+ ( { PH: Nowadays the computers just say that White should go } 14. h4 $1 { Black can't take the pawn because the queen gets trapped: } Qxh4 15. Bg5 Qg4 16. f3 Qh5 17. Ng3 { . But if the pawn is allowed to push to h5 and h6, Black is just in trouble. } ) 
+Qd6 $2 ( { PH: Black is trying to induce e4-e5, but objectively it would have been better to play the more cautious } 14... Qd7 { . } ) 
+15. e5 $5 { A double-edged decision that is typical in this position. } ( { Again the conservative } 15. Rfd1 { was possible, with level chances. } ) 
+Qd7 { This is a critical position in the game. By advancing e4-e5, White has created some attacking prospects on the kingside, while at same time weakening the d5-square and losing the option of creating a passed pawn on the d-file. The reader should compare this position to the previous game, and realize that Black is much better prepared to meet this advance in this position, since he does have a light-squared bishop to create counterplay down the a8-h1 diagonal. Overall, chances are approximately balanced. } 16. Qe3 { Preparing the manoeuvre Ng3-e4-f6. This plan is reasonable, but somewhat slow. } ( { An alternative was } 16. h4 Rfc8 17. h5 cxd4 18. cxd4 Rxc1 19. Rxc1 Nc6 ( { if } 19. Qe3 Rc8 $6 20. Rxc8 Qxc8 21. Bf6 $14 { and Black experiences some problems } ) 
+20. Bb1 ( { but not } 20. Be4 $2 Nxd4 $1 ) 
+Rc8 21. Rc3 Ne7 $5 { with level chances. } ) 
+ ( { Or } 16. Bf6 cxd4 ( { but not } 16. Qe3 Bxf6 $6 17. exf6 { with the threat Qh6-g7# } ) 
+17. cxd4 Rac8 18. h4 $5 { with a balanced game. } ) 
+Rac8 17. Ng3 cxd4 18. cxd4 Rxc1 19. Rxc1 Nc6 $1 { Attacking the d4-pawn, preventing White from completing the plan with Ne4-f6, and manoeuvring the knight to d5 via b4. } ( { If } 19... Rc8 $6 { then } 20. Rxc8 Qxc8 21. Ne4 $14 { followed by Nf6 with the preferable position. } ) 
+20. Be4 ( { But not: } 20. Ne4 $2 Qxd4 $1 ( { if } 20. Be4 Nxd4 $6 21. Nf6 Bxf6 22. Bxf6 Qd5 23. f3 { and Black’s position looks scary } ) 
+21. Qxd4 Nxd4 $15 ) 
+Rc8 21. h4 Nb4 { Trading light-squared bishops and heading to the key d5-square. } 22. Rxc8+ Qxc8 23. Bf6 ( { If } 23. Bxb7 Qxb7 24. Ne4 Nd5 { we reach a position with similar characteristics to the game, a possible continuation being } 25. Qd2 Qc6 26. h5 a5 $5 { when I feel only Black may play for a win, but White should be able to hold due to his kingside predominance. } ) 
+Bxe4 24. Bxg7 Kxg7 ( { There is no point in gaining a pawn with } 24... Bxg2 $6 { because of } 25. Bh6 $1 { and now it is Black who must play for a draw due to the strong threats against his king. } ) 
+25. Nxe4 { The position has been simplified and White’s plan e4-e5 has only half worked, as Black seems to have enough resources to defend. Still, White’s chances should not be underestimated, as there are threats associated with h4-h5-h6, Qf3-f6, Nd6 etc. } Nd5 { The most precise in my opinion, keeping White’s kingside initiative under control, and playing on for the win. } ( 25... Nxa2 $5 { White forces a draw after: } 26. Qf3 $1 ( { But not: } 25... Nd5 25. h5 $4 Qc1 $19 ) 
+Nb4 27. Nd6 Qd7 28. Qa8 $1 { Threatening Ne8 winning; the only defence is: } Qc6 $1 ( { If } 28... Nd5 $2 29. Ne8 Kh6 30. g4 { when Black is helpless against the checkmate threats. Say, after: } Qe7 ( 30... b5 31. Nf6 Nxf6 32. Qf8 ) 
+31. Nf6 $1 Nxf6 32. exf6 Qxf6 33. g5 $18 ) 
+29. Qxa7 Qc1 30. Kh2 Qf4 31. Kg1 Qc1 $11 { With a perpetual check. } ) 
+26. Nd6 { This is not technically a mistake, though it is heading in the wrong direction; White should not swap queens. } ( { A healthier decision was } 26. Qd2 $5 Qc4 27. h5 { with approximately level chances, say after } h6 ( 27. Nd6 a5 $6 28. h6 $14 ) 
+28. hxg6 fxg6 29. g3 a5 30. Nd6 Qc3 31. Qd1 $11 { when Black cannot easily advance his queenside majority due to potential kingside threats. White should not have trouble securing a draw. } ) 
+Qc3 ( { The endgame after } 26... Nxe3 $6 27. Nxc8 Nc2 28. Nxa7 Nxd4 { is just a draw as Black has lost his majority on the queenside, and the weak d4-pawn is off the board. } ) 
+27. Qxc3 $2 { Going into a very difficult endgame. } ( 27. Qe4 $1 { was necessary, though Black can play for a win without risk after: } b5 $1 ( { another option is } 27. Qxc3 h5 $5 { , but grabbing the pawn with } Qa1 28. Kh2 Qxa2 { only yields a draw after } 29. Qf3 $1 f5 30. exf6 Nxf6 31. Qb7 Kh6 32. Nf7 Kg7 33. Nd6 { with a perpetual check } ) 
+ { For example: } 28. Nxb5 $2 ( { correct is } 28. g3 { with objective equality, though accuracy is required from White } ) 
+Qc1 29. Kh2 Qb2 30. Nd6 Qxf2 $17 ) 
+Nxc3 { The reader should closely examine this endgame, as it reflects Black’s strategy in its pure form. The plan was to simplify the position and neutralize the kingside attack in order to go into an endgame with these characteristics. Black will obtain a remote passed pawn, probably on the a-file, while White cannot advance his extra pawn on d4. This position is an example of White’s biggest fears when playing the double-edged e4-e5. It is possible that Vovk estimated that he should be able to hold this position, but this task is actually very far from trivial as we shall see. } 28. Nc8 ( { The alternative } 28. Kf1 Nxa2 29. Nc8 a5 30. Nxb6 Nc3 { transposes to the game, while } 28. a3 $2 { loses a pawn after } Ne2 29. Kf1 Nxd4 { . } ) 
+a5 $1 { Black chooses to keep the a-pawn, as it is further away from White’s king. } ( { If } 28... Nxa2 $2 29. Nxa7 Nc3 30. Kf1 b5 31. Nc6 { White has a much easier time holding the game. } ) 
+29. Nxb6 Nxa2 30. Kf1 ( { Or } 30. Nc4 a4 31. Kf1 Nc3 32. Na3 Kh6 { transposing into the game. } ) 
+Nc3 31. Nc4 ( { An alternative was } 31. Ke1 a4 32. Kd2 Ne4 33. Kc2 ( 33. Ke3 $4 a3 { and the pawn is unstoppable } ) 
+a3 $5 ( { the alternative is } 33. Nc4 Nxf2 ) 
+34. Nc4 Nxf2 35. Nxa3 Ne4 36. Kd3 Ng3 $17 { winning a pawn. } ) 
+a4 32. Na3 { Preventing ...Nb5 followed by ...a4-a3. White’s knight is completely tied to stopping the a-pawn and will not make another move in the game. Since move 27 everything has been pretty much forced, and now Black chooses a strong plan to proceed. } Kh6 $1 { Intending to invade the kingside. White faces a very difficult dilemma: should he race to the queenside, attempting to capture the a-pawn, and then try to return to the kingside before it is too late? Or should he wait on the kingside, risking zugzwang? } 33. g4 $2 { The decisive mistake, attempting to prevent the invasion, but also giving Black nice tactical resources as we will see. } ( { If } 33. Ke1 { Black wins neatly with } Kh5 34. Kd2 Nd5 35. g3 Kg4 36. Ke2 h5 { when White will fall into zugzwang after the nice sequence: } 37. Nc2 Kh3 38. Kf3 Kh2 39. Ke2 ( 39. g4 $2 Kh3 $19 ) 
+Kg2 40. Ne1 Kh3 41. Nc2 Kg4 $1 42. Na3 Ne7 43. Nc2 Nf5 { Zugzwang! White is forced to give up the f3-square: } 44. Ke1 Kf3 45. Kf1 Ke4 $19 ) 
+ ( { The best defence was } 33. g3 g5 34. hxg5 Kxg5 35. f3 $1 { attempting to create a barrier against Black’s king, though White’s position remains difficult after } Nd5 $5 { ∓ attempting to follow up with ...Ne7-f5 , in addition to a well-timed ...h5-h4 . } ) 
+Kg7 { The position is already winning for Black, but I will not call it ”-+” until it is a little clearer. } 34. Ke1 ( { Another attempt was } 34. f3 h5 35. Kg2 { keeping an eye on the kingside, though after } Kf8 $5 { Black’s king will march to the queenside decisively. For example: } 36. Kf1 Ke8 37. Ke1 ( { waiting on the kingside with } 37. Kg2 { only makes things easier after } Kd7 38. Kf2 Nd5 39. Ke2 Kc6 40. Kf2 Kb6 { followed by ...Ka5-b4 winning } ) 
+g5 $1 { Winning in similar fashion to the game. } ) 
+h5 $1 35. Kd2 ( { If } 35. gxh5 gxh5 36. Kd2 Nd5 37. Nc4 Kg6 { Black wins easily after ...Kf5-g4xh4 making the h-pawn passed. } ) 
+ ( { Or } 35. g5 Nd5 36. Kd2 Ne7 { followed by ...Nf5 winning. } ) 
+g5 $1 { -+ A very pretty blow, creating a new passed pawn on the h-file. } 36. hxg5 h4 37. Ke1 ( { If } 37. Ke3 h3 38. Kf3 Ne2 { then White’s king is paralyzed, and the game is lost after ...Kg6xg5-h4 and ...Nf4; if } 39. Kxe2 $2 h2 { . } ) 
+h3 38. Kf1 Kg6 39. f4 ( 39. Kg1 Kxg5 40. Kh2 Kxg4 { and wins. } ) 
+Nd5 40. Kf2 Nxf4 { Final remarks 1. The key moment in the game was after 26... Qc3. White’s kingside play had not been completely neutralized (there were at least chances for perpetual check), hence White should have kept the queens on. 2. It is possible that White did not properly evaluate the knight ending. The strength of a remote passed pawn should not be underestimated. 3. The move 28... a5! was very important, choosing to keep a passed a-pawn rather than a b-pawn, because the further away the pawn is from the white king, the harder it is to stop it. 4. Black’s creation of a kingside passed pawn with 35... g5! is a beautiful illustration of the concept of creating two fronts, which defined the game. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2860374/"]
+[Date "????.??.??"]
+[Round "8.28"]
+[White "7) Grünfeld Centre"]
+[Black "Yuri Vovk vs. Andrei Volokitin #1"]
+[Result "*"]
+[FEN "5rk1/pb1q1pbp/1p2p1p1/n3P1B1/3P4/3BQ1N1/P4PPP/2r2RK1 w - - 0 1"]
+
+1. Rxc1 Nc6 { Attacking the d4-pawn, preventing White from completing the plan with Ne4-f6, and manoeuvring the knight to d5 via b4. } ( { If } 19... Rc8 $6 { then } 20. Rxc8 Qxc8 21. Ne4 $14 { followed by Nf6 with the preferable position. } ) 
+2. Be4 ( { But not: } 20. Ne4 $2 Qxd4 $1 ( { If } 20. Be4 Nxd4 $6 21. Nf6 Bxf6 22. Bxf6 Qd5 23. f3 { and Blacks position looks scary. } ) 
+21. Qxd4 Nxd4 $15 ) 
+Rc8 3. h4 Nb4 { Trading light-squared bishops and heading to the key d5-square. } 4. Rxc8+ Qxc8 5. Bf6 ( { If } 23. Bxb7 Qxb7 24. Ne4 Nd5 { we reach a position with similar characteristics to the game, a possible continuation being } 25. Qd2 Qc6 26. h5 a5 $5 { when I feel only Black may play for a win, but White should be able to hold due to his kingside predominance. } ) 
+Bxe4 6. Bxg7 Kxg7 ( { There is no point in gaining a pawn with } 24... Bxg2 $6 { because of } 25. Bh6 $1 { and now it is Black who must play for a draw due to the strong threats against his king. } ) 
+7. Nxe4 { The position has been simplified and Whites plan e4-e5 has only half worked, as Black seems to have enough resources to defend. Still, Whites chances should not be underestimated, as there are threats associated with h4-h5-h6, Qf3-f6, Nd6 etc. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2860379/"]
+[Date "????.??.??"]
+[Round "8.29"]
+[White "7) Grünfeld Centre"]
+[Black "Yuri Vovk vs. Andrei Volokitin #2"]
+[Result "*"]
+[FEN "2q5/p4pkp/1p2p1p1/4P3/1n1Pb2P/4Q1N1/P4PP1/6K1 w - - 0 25"]
+
+25. Nxe4 Nd5 26. Nd6 Qc3 { A very nice move. Black wants to swap queens and offers the swap with a better endgame. } 27. Qxc3 $2 ( 27. Qe4 $1 { was necessary, though Black can play for a win without risk. } ) 
+Nxc3 { The reader should closely examine this endgame, as it reflects Blacks strategy in its pure form. The plan was to simplify the position and neutralize the kingside attack in order to go into an endgame with these characteristics. Black will obtain a remote passed pawn, probably on the a-file, while White cannot advance his extra pawn on d4. This position is an example of Whites biggest fears when playing the double-edged e4-e5. It is possible that White should be able to hold this position, but this task is actually very far from trivial as we shall see. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2860376/"]
+[Date "????.??.??"]
+[Round "8.30"]
+[White "7) Grünfeld Centre"]
+[Black "Yuri Vovk vs. Andrei Volokitin #3"]
+[Result "*"]
+[FEN "8/p4pkp/1p1Np1p1/4P3/3P3P/2n5/P4PP1/6K1 w - - 0 1"]
+
+1. Nc8 a5 { Black chooses to keep the a-pawn, as it is further away from Whites king. } ( { If } 28... Nxa2 $2 29. Nxa7 Nc3 30. Kf1 b5 31. Nc6 { White has a much easier time holding the game. } ) 
+2. Nxb6 Nxa2 3. Nc4 a4 4. Na3 { Preventing ...Nb5 followed by ...a4-a3. Whites knight is completely tied to stopping the a-pawn and will not make another move in the game. Since move 27 everything has been pretty much forced, and now Black chooses a strong plan to proceed. } Nc3 5. Kf1 ( { Or } 30. Nc4 { a4 31.Kf1 Nc3 32.Na3 } Kh6 { transposing into the game. } ) 
+Kh6 { Intending to invade the kingside. White faces a very difficult dilemma: should he race to the queenside, attempting to capture the a-pawn, and then try to return to the kingside before it is too late ? Or should he wait on the kingside, risking zugzwang ? } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2860377/"]
+[Date "????.??.??"]
+[Round "8.31"]
+[White "7) Grünfeld Centre"]
+[Black "Yuri Vovk vs. Andrei Volokitin #4"]
+[Result "*"]
+[FEN "8/p4pkp/1p1Np1p1/3nP3/3P3P/2q1Q3/P4PP1/6K1 w - - 4 27"]
+
+27. Qe4 { Was necessary, though Black can play for a win without risk. } b5 $1 28. Nxb5 $2 Qc1+ 29. Kh2 Qb2 30. Nd6 Qxf2 $19 
+ *

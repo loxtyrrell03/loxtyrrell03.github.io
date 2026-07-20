@@ -1,0 +1,366 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12523500/"]
+[Date "????.??.??"]
+[Round "9.1"]
+[White "2.1 The Passed Pawn"]
+[Black "The passed pawn"]
+[Result "*"]
+
+ { The passed pawn holds a tremendous importance in the chess battle, and I investigated the subject quite extensively in 'Mastering Chess Strategy'. Here are some more examples, with focus on the endgame stage. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520501/"]
+[Date "????.??.??"]
+[Round "9.2"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 52- Korchnoi- V. vs. Kasparov- G.- Wijk aan Zee 2000"]
+[Result "0-1"]
+[FEN "8/5r1p/8/p3p1k1/NpR1Pn2/1P2K3/P4P2/8 b - - 0 1"]
+
+ { Material is equal but Black has a clear advantage thanks to his more active pieces (in particular, the enemy knight is very badly placed on a4) and superior pawn structure. Kasparov proceeds with the most obvious plan in the position. } 1... { -KEY- } h5 $1 { Passed pawns should move forward, as the old saying goes. } 2. Rc5 Ng2+ { This intermediate check clears the f-file for the rook on f7, so that a later f2-f3 can be met by ...Rxf3. } 3. Ke2 h4 $1 { Forward! The idea of enhancing a passed pawn at the cost of material is quite typical not only in the endgame, but in the middlegame as well. } 4. Rxe5+ Kg4 5. Re8 { Opting for a rear attack, usually a good option in the battle against a passed pawn, but here Black will be able to neutralize it with simple means. } ( { a) Nevertheless, after } 5. Kf1 Nf4 6. Rf5 Rd7 $1 ) 
+ ( { b) or } 5. f3 $5 Rxf3 6. Rg5 Kxg5 7. Kxf3 Ne1 8. Kf2 Nd3 9. Kf3 Ne5 $1 10. Kg2 Kg4 { White is lost anyway; e.g. } 11. Nc5 h3 12. Kf2 ( { or } 12. Kh2 Kh4 ) 
+Kh4 13. Ne6 Nd3 14. Kf3 Ne1 15. Kf2 h2 { - Kasparov. } ) 
+ ( { c) As for } 5. Rxa5 { after } h3 6. f3 Kh4 7. Kf2 Nf4 8. Ra8 Rh7 $1 9. Kg1 Rg7 10. Kh1 Nd3 { heading for f2, Black is again winning - Krasenkow. } ) 
+Nf4+ 6. Ke3 h3 7. f3+ ( { Or } 7. Rg8 Kh4 { with the decisive threat of ...Nh5, building a 'bridge'. } ) 
+Kh4 ( { In view of } 7... Kh4 8. Rh8 Nh5 9. Kf2 Rg7 $1 { followed by ...h3-h2, White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520502/"]
+[Date "????.??.??"]
+[Round "9.3"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 53- Vallejo Pons- F. vs. Mamedyarov- S.- Calvia Olympiad 2004"]
+[Result "1-0"]
+[FEN "2r5/p1P2kb1/4p2p/3p4/7P/3N4/P4PP1/2R3K1 w - - 0 1"]
+
+ { A passed pawn has a kind of dual nature - it can be incredibly strong, exhausting all the enemy resources, but it can also turn into a weakness if insufficiently protected.Black has just played ...Kg8-f7 in order to approach the c7-pawn, a plan that White must stop by any means. } 1. { -KEY- } Rc6 $1 Ke7 2. Nc5 $1 { An important triumph for White - the opponent's king cannot get any closer to the passed pawn. } e5 3. h5 { By this move Vallejo signals the plan of a new 'front' on the kingside which, if successful, is bound to exhaust Black's defences. } e4 4. Kf1 ( { The immediate } 4. g4 { was also fine. Please notice that Black has difficulties moving at this point, which makes a good occasion for a useful move like } 4. Kf1 { , bringing the king a step closer to Black's passed pawn. } ) 
+Bd4 5. g4 $1 ( { Getting on with the plan. Another tempting option was } 5. Na6 { when } Kd7 { can be met by } 6. Nb8 { but Vallejo's solution is more clear-cut. } ) 
+Bxc5 6. Rxc5 Kd6 7. Rc1 Ke5 ( { Both } 7... Rxc7 8. Rxc7 Kxc7 9. g5 ) 
+ ( { and } 7... d4 8. g5 hxg5 9. h6 d3 10. Ke1 $1 Kd5 11. h7 { win for White - Finkel. } ) 
+8. g5 $1 hxg5 9. Rc6 $1 ( { Before pushing the h-pawn, White cuts off the enemy king from the sixth rank. } 9. h6 { would also work, e.g. } Kf6 10. Ke2 d4 11. Rh1 $1 Rxc7 12. h7 Rc2 13. Kd1 { etc. - hobbsey. } ) 
+d4 10. h6 Kd5 11. Rc1 Kd6 12. h7 Kd7 { By now virtually any move wins for White, since Black will end up in zugzwang. } 13. Rc4 ( { In view of lines like } 13. Rc4 d3 14. Rd4 Ke7 15. Rd8 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786497/"]
+[Date "????.??.??"]
+[Round "9.4"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 54- Hellsten- J. vs. Fernandez Siles- L.- Copenhagen 1996"]
+[Result "1-0"]
+[FEN "8/7p/6pk/P2n1p2/5P2/8/7P/5BK1 w - - 0 1"]
+
+ { Material is equal but White has a magnificent passed pawn; besides, the bishop tends to outperform the knight in open positions. } 1. { -KEY- } a6 { The further this pawn gets, the stronger. } ( { Other moves are less convincing; e.g. } 1. Bc4 $6 Nc7 2. a6 $2 Nxa6 3. Bxa6 g5 $1 { simplifying to a theoretical draw. } ) 
+g5 2. a7 Nc7 3. Kf2 { Heading for the queenside to assist the passed pawn. } ( { Of course } 3. Bg2 $6 gxf4 4. a8=Q $2 Nxa8 5. Bxa8 { also had to be avoided. } ) 
+gxf4 4. Kf3 Kg5 5. Bc4 { Due to the knight's inability to lose tempi, Black will soon end up in zugzwang. } Na8 6. Bd5 Nc7 7. Bc6 Kg6 ( 7... h6 8. Bb7 { doesn't change anything. } ) 
+8. Kxf4 Kf6 9. Bb7 h6 10. Ke3 $1 { Heading for b6, a plan that Black can only prevent temporarily. } Ke5 11. Kd3 Kd6 12. Kc4 Kd7 ( 12... f4 13. Bf3 { is similar. } ) 
+13. Kc5 Kd8 14. Bc6 Ke7 15. Kb6 Kd8 16. Kb7 f4 17. Be4 $1 { Losing a tempo. } Kd7 18. Bf3 Kd8 19. Bc6 { Finding himself in a fatal zugzwang, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520503/"]
+[Date "????.??.??"]
+[Round "9.5"]
+[White "2.1 The Passed Pawn"]
+[Black "Hellsten- J. vs. Fernandez Siles- L.- #1"]
+[Result "1-0"]
+[FEN "8/7p/6pk/P2n1p2/5P2/8/7P/5BK1 w - - 0 1"]
+
+ { Material is equal but White has a magnificent passed pawn; besides, the bishop tends to outperform the knight in open positions. } 1. { -KEY- } a6 { The further this pawn gets, the stronger. } ( { Other moves are less convincing; e.g. } 1. Bc4 $6 Nc7 2. a6 $2 Nxa6 3. Bxa6 g5 $1 { simplifying to a theoretical draw. } ) 
+g5 2. a7 Nc7 3. Kf2 { Heading for the queenside to assist the passed pawn. } ( { Of course } 3. Bg2 $6 gxf4 4. a8=Q $2 Nxa8 5. Bxa8 { also had to be avoided. } ) 
+ ( { However } 3. fxg5 Kxg5 4. Kf2 { is also possible, e.g. } Kf4 5. Bg2 Ke5 6. Ke3 { with similar play as in the game. } ) 
+gxf4 4. Kf3 Kg5 5. Bc4 { Due to the knight's inability to lose tempi, Black will soon end up in zugzwang. } Na8 6. Bd5 Nc7 7. Bc6 Kg6 ( 7... h6 8. Bb7 { doesn't change anything. } ) 
+8. Kxf4 Kf6 9. Bb7 ( { The immediate } 9. Ke3 { is also fine, whereas the text has the merit of meeting } Ke6 { with 10.Bc8+ winning the f5-pawn. } ) 
+h6 10. Ke3 $1 { Heading for b6, a plan that Black can only prevent temporarily. See next position. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520595/"]
+[Date "????.??.??"]
+[Round "9.6"]
+[White "2.1 The Passed Pawn"]
+[Black "Hellsten- J. vs. Fernandez Siles- L.- #2"]
+[Result "1-0"]
+[FEN "8/PBn5/5k1p/5p2/8/4K3/7P/8 b - - 0 10"]
+
+10... { -KEY- } Ke5 11. Kd3 Kd6 12. Kc4 Kd7 ( 12... f4 13. Bf3 { is similar. } ) 
+13. Kc5 Kd8 14. Bc6 Ke7 15. Kb6 Kd8 16. Kb7 f4 17. Be4 $1 { Losing a tempo. } Kd7 18. Bf3 Kd8 19. Bc6 { Finding himself in a fatal zugzwang, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520504/"]
+[Date "????.??.??"]
+[Round "9.7"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 55- Larsen- B. vs. Andersson- U.- Stockholm (7th matchgame) 1975"]
+[Result "1-0"]
+[FEN "8/5pp1/1Q5p/1P1ppk1P/P7/6P1/2q2P1K/8 w - - 0 1"]
+
+ { As we discussed in Krush-Akopian, the queen is an excellent companion of the passed pawn, something that converts the latter into the key factor of many queen endings. } 1. { -KEY- } a5 $1 { White pins all his hopes on the passed pawns. } d4 2. Qb7 $1 Qxf2+ ( { Or } 2... d3 3. Qxf7 Ke4 4. b6 { with an easy win. } ) 
+3. Qg2 Qe3 4. b6 $1 ( { But not } 4. a6 $2 d3 { and the pawns can't advance any further. } ) 
+Qb3 $2 { This attempt to control the passed pawns fails fatally to White's next move. } ( { The brave } 4... d3 $1 5. b7 d2 { had to be tried; e.g. } 6. b8=Q $11 ( { or } 5... Qb3 5. Qf1 $6 Kg4 $1 7. b8=Q $11 Qxg3 8. Kh1 Qh4 { with a perpetual; } ) 
+d1=Q $11 7. Qh3 Kf6 8. Qh4 g5 $5 9. hxg6 Qg5 10. Qb6 Kg7 { and Black is still alive. } ) 
+5. a6 $1 { An elegant sacrifice which secures the promotion of the a-pawn. } Qxb6 6. Qb7 Qa5 7. a7 ( { In view of } 7. a7 Qa2 8. Kh3 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520505/"]
+[Date "????.??.??"]
+[Round "9.8"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 56- Karpov- A. vs. Miles- A.- London 1982"]
+[Result "1-0"]
+[FEN "2r2k2/4pp1p/P2p2p1/1prn4/3R1PPP/PK2R3/2P5/5B2 w - - 0 1"]
+
+ { Here is one more example illustrating the principle that the passed pawn annuls any other positional factors. } 1. { -KEY- } Rxd5 $1 { A splendid exchange sacrifice to support the a6-pawn. } Rxd5 2. Rc3 $1 Rd8 ( { After } 2... Ra8 $2 3. Bg2 ) 
+ ( { or } 2... Rxc3 3. Kxc3 Rc5 4. Kb4 Rc7 5. Bg2 { White is winning - Karpov } ) 
+ ( { and } 2... Rdc5 3. Rxc5 dxc5 4. Bg2 $1 { is similar. } ) 
+3. Rc7 $5 { A flexible choice. } ( { Obviously, } 3. Bg2 $2 Rd4 4. a7 d5 $1 { had to be avoided } ) 
+ ( { but the straightforward } 3. a7 { was equally strong; e.g. } b4 ( { or } 3. Rc7 Rd1 4. Bxb5 Ra8 5. Rc7 { with similar play to the game } ) 
+4. axb4 Rd1 5. Ba6 Ra1 6. b5 Ra8 7. Rc7 { followed by Kb4, c4-c5 etc, with the king entering the enemy camp sooner or later. } ) 
+Rd1 ( 3... Rd4 { now fails to } 4. Bxb5 ) 
+ ( { and } 3... Rc5 { was still bad due to } 4. Rxc5 dxc5 5. Bg2 ) 
+4. Bxb5 e5 5. a7 $1 { Enjoying sufficient support, the passed pawn finally advances with decisive effect. } exf4 6. Rb7 Rb1+ 7. Ka4 Rxb5 8. Rxb5 ( 8. Kxb5 { was also possible, since after } f3 9. Rb8 f2 10. Rxd8 Kg7 11. a8=Q $11 f1=Q { White could avoid the queen checks in several ways, for example by } 12. c4 Qb1 13. Ka6 { . Anyway, Karpov's move is a natural choice for humans, avoiding Black queening with check. } ) 
+f3 9. Rb8 f2 10. Rxd8+ 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520506/"]
+[Date "????.??.??"]
+[Round "9.9"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 57- Karpov- A. vs. Korchnoi- V.- Candidates final (8th matchgame)- Moscow 1974"]
+[Result "1/2-1/2"]
+[FEN "8/1p3pk1/pb4p1/3P4/6P1/1P3N2/P4PK1/8 b - - 0 1"]
+
+ { Of course a passed pawn doesn't mean an automatic win. In the example below, Black, despite being a pawn down, managed to save himself by launching a direct attack on the d5-pawn. } 1... { -KEY- } Kf6 $1 { The king should approach the pawn while it is insufficiently protected, and this is the right route. } ( { In contrast, } 1... Kf8 $6 { permits } 2. Ne5 $1 Bc7 3. f4 { with Kf3-e4 coming up. } ) 
+2. Kf1 ( { The attempt to create a 'barrier' (more on this topic in Chapter Four) by } 2. Nd2 Bc7 3. Nc4 { fails to } b5 ) 
+Ke7 3. Nd2 ( { Or } 3. Ke2 Kd6 4. Ng5 f5 $1 { - Speelman. } ) 
+Bc7 $1 ( { Some prophylaxis is recommended. In contrast, the immediate } 3... Kd6 $6 { allows } 4. Nc4 Kc5 5. Ne5 ( 4... Bc7 4. d6 { is tempting, but after } f6 $1 { , denying Nc4-e5 while preparing ...Bd8 and ...b7-b5, White has difficulties making progress, as noticed by KweenZaekrefais. } ) 
+Kxd5 6. Nxf7 { , with greater practical chances for victory than in the game, since one more pair of pawns stays on the board. } ) 
+4. Ne4 ( { Or } 4. Nc4 b5 5. Ne3 Kd6 { followed by ...Bb6, and the d-pawn falls anyway. } ) 
+f5 $1 { Preventing 5.g5 with a decisive barrier. Besides, pawn exchanges tend to help the defender. } 5. gxf5 gxf5 6. Nc5 Kd6 $1 7. Nxb7+ Kxd5 { White remains a pawn up, but he is now forced to weaken his pawn structure in order to save the badly placed knight. } 8. b4 Kc4 $1 9. Nc5 ( { Or } 9. a3 Kb3 10. Nc5 Kxa3 11. Nxa6 Bb6 12. Ke2 Ka4 { followed by ...Kb5 - Speelman. } ) 
+Bb6 $1 ( { A smart way of forcing the elimination of White's queenside pawns. In contrast, } 9... a5 $6 10. Ne6 $1 Bb6 11. bxa5 Bxa5 12. Ke2 { would unnecessarily prolong the battle, while } Kxb4 $4 { obviously failed to } 10. Nxa6 ) 
+ ( { A similar case is } 9... Bd6 $6 { , since after } 10. Nxa6 Kb5 11. Nc5 Kxb4 12. Ne6 { heading for g7, the battle would be prolonged. No wonder Korchnoi opted for the more precise } Bb6 { in order to be able to take f2 at this very point. } ) 
+10. Nxa6 Kb5 11. Nc5 Kxb4 12. Nb3 Ka3 ( { Draw agreed, in view of } 12... Ka3 13. Nc1 Kb2 ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520507/"]
+[Date "????.??.??"]
+[Round "9.10"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 58- Salov- V. vs. Gligoric- S.- Belgrade 1987"]
+[Result "*"]
+[FEN "7R/8/5p2/1p1r4/3k1p2/7P/5KP1/8 w - - 0 1"]
+
+ { The passed pawn can also be used as a defensive weapon, as in the next example.Black's passed b-pawn is a huge asset; even so, White could have saved this endgame by accurate defence. } 1. { -KEY- } h4 $1 { Pinning his hopes on his own passed pawn. } ( { a) In contrast, the game went } 1. Kf3 $2 b4 2. Kxf4 b3 3. Rb8 Kc3 $1 { (in order to create a bridge by ...Rd4-b4) } 4. Rc8 Kb4 5. Rc1 Rh5 $1 ( { less convincing is } 5. h4 b2 $2 6. Rb1 Kc3 7. g4 Kc2 8. Rxb2 Kxb2 9. h4 { - Gligoric } ) 
+6. Rb1 Kc3 7. Rh1 b2 8. g4 Ra5 $1 { (winning a tempo by the threat ...Ra1) } 9. Rb1 Ra1 10. Rxb2 Kxb2 11. Kf5 Rf1 12. Kg6 Kc3 13. h4 Kd4 14. h5 Ke5 15. h6 Rg1 { and in view of } 16. h7 Rxg4 17. Kh5 Rg1 { White resigned. } ) 
+ ( { b) } 1. Rb8 { might also work, as noticed by ItzRadim. After } Kc4 2. h4 $1 ( 2. Rc8 { at once allows } Rc5 $1 { with the king ready to catch the h-pawn if White trades rooks. } ) 
+b4 3. Rc8 $1 { Pushing away Black's king from the b-pawn. } Kd3 ( 3. h4 Rc5 { can now be met by } 4. Rxc5 Kxc5 5. h5 { , with both sides queening. } ) 
+4. Rb8 Kc3 5. Rc8 Kb2 6. Kf3 $1 b3 7. Kxf4 Ka3 8. Rb8 b2 9. Rxb2 $1 Kxb2 10. g4 { , we have actually reached the end of Gligoric's 5...b2 subline within the previous note. At this point, both } Kc3 11. g5 $1 { and } Rd1 11. Kf5 $1 { seems to keep White on their feet, but it will be challenging for most of us to find and understand all this over the board! } ) 
+b4 2. h5 b3 3. h6 b2 ( { a) Or } 3... Rh5 4. h7 b2 5. Rb8 Rxh7 6. Rxb2 { with a dead draw; } ) 
+ ( { b) whereas after } 3... Rb5 $6 4. h7 b2 5. Rd8 { followed by h8Q, only White is playing for a win, since he will have the first check. } ) 
+4. Rb8 Kc3 5. Rc8+ $1 ( { Black can't make progress - Gligoric. For example } 5. Rc8 Kd2 6. Rb8 Kc1 7. Rc8 Kd1 8. Rb8 ) 
+ ( { Note that a different move order with } 5. h7 { first also works, provided that after } Rh5 { we revert to Gligoric's idea - a rear attack with the rook to harass Black's king - by } 6. Rc8 $1 ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520508/"]
+[Date "????.??.??"]
+[Round "9.11"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 59- Salov- V. vs. Lautier- J.- Wijk aan Zee 1991"]
+[Result "1-0"]
+[FEN "3r2k1/p1q2pbp/2p1n1p1/2P1p2n/2Q1P2P/4BNPB/P4P2/3R2K1 w - - 0 22"]
+
+ { Next, let's see a few examples from earlier stages of the game, where the passed pawn is yet to be created, and by different means.Black has just played ...Ra8-d8, contesting the open file. Salov found an elegant way of transposing to a superior endgame. } 22. { -KEY- } Rd6 $1 Rxd6 { It is hard to see any alternative; } ( { e.g. } 22... Nf8 23. Ng5 $1 { intending } Bf6 24. Rxc6 $1 ) 
+ ( { or } 22... Bf8 23. Rxe6 $1 fxe6 24. Qxe6 { followed by 25.Nxe5 with a huge advantage. } ) 
+23. cxd6 Qxd6 24. Bxe6 $1 { Damaging the enemy pawn structure and avoiding any tactical pitfalls; } ( { such as } 24. Bxa7 $2 Qd1 25. Kg2 Nef4 $1 26. gxf4 Nxf4 27. Kg3 Nh5 { with a draw. } ) 
+Qxe6 ( { Or } 24... fxe6 25. Ng5 { followed by Nxe6, and Black will even have problems with his king. } ) 
+25. Qxe6 fxe6 26. Bxa7 { This is what White was aiming at four moves ago: the passed a-pawn is a giant, and Black's minor pieces are too remotely placed to challenge it. } Nf6 27. a4 $1 Nd7 ( { Or if } 27... Nxe4 28. a5 Nc3 29. a6 Nd5 30. Bc5 Nc7 31. a7 e4 32. Ng5 { is winning - Salov. } ) 
+28. a5 Bf8 29. a6 c5 30. Nd2 Kf7 31. Nc4 ( { After } 31. Nc4 { faced with threats like } -- 32. Bb8 Nxb8 33. a7 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520509/"]
+[Date "????.??.??"]
+[Round "9.12"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 60- Gallagher- J. vs. Svidler- P.- Biel 2000"]
+[Result "0-1"]
+[FEN "2b2k2/8/1p1p2pp/pB1Pp3/P2qP3/2NQ2P1/1P1b3P/7K b - - 0 39"]
+
+ ( { White has just offered a queen exchange by } 38. Qd3 $2 { hoping that a minor piece endgame would yield him more chances to neutralize Black's initiative. But piece exchanges don't always favour the defender. } ) 
+ { -KEY- } Qxd3 $1 { Svidler has seen that by simple means he can create a strong outside passed pawn, just like in the previous example. } 39. Bxd3 Bxc3 40. bxc3 Bd7 $1 41. Bc2 ( 41. Bb5 $2 { failed to } Bxb5 42. axb5 a4 ) 
+b5 $1 42. axb5 Bxb5 { By now several factors speak in Black's favour: the outside passed pawn, a potential weakness on e4, and White's distant king. } 43. Kg2 a4 44. c4 ( { Or } 44. Kf3 a3 45. Bb3 Bd3 46. Ba2 Ke7 47. Ke3 Bc2 { with similar play as in the game. } ) 
+a3 $1 ( { Of course Black rejects the pawn swap. With his next two moves White avoids instant defeat, but the passed pawn and the 'second weakness' on e4 will soon exhaust his defences. The game continued } 44... a3 44. Bb3 Ba4 46. Ba2 Ke7 47. Kf3 Bc2 48. Ke3 Kd7 49. Kd2 ( { Since } 48... a3 48. Kf3 Kc7 { followed by the black king's entrance, is hopeless for him, Gallagher abandons the e4-pawn. } ) 
+Bxe4 50. Kc3 Bf3 51. Kd3 ( { Or } 50... a3 50. Kb4 e4 { - Svidler. } ) 
+Kc7 52. Ke3 Bg4 { 0-1 } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520510/"]
+[Date "????.??.??"]
+[Round "9.13"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 61- Sutovsky- E. vs. Hansen- C.- Malmö 2003"]
+[Result "1-0"]
+[FEN "8/r2bk1p1/1rn1pp1p/p1RpP2P/5PP1/1P2KN2/P3B3/2R5 w - - 0 28"]
+
+ { In a typical French endgame, Black has hesitated with the ...f6xe5 capture, and Sutovsky now manages to create a strong passed pawn on the h-file. } 28. { -KEY- } exf6+ $1 gxf6 ( { After } 28... Kxf6 $6 29. Bb5 { the weaknesses on e5 and e6 are quite strongly felt; e.g. } Nb8 30. g5 Ke7 31. Bxd7 Nxd7 32. Rc6 { preparing } -- 33. Nd4 { with a clear advantage. } ) 
+29. g5 $1 fxg5 30. fxg5 hxg5 31. h6 $1 { Given the absence of black pieces on the kingside, this move certainly suggests itself. The g5-pawn can wait. } ( { After } 31. Nxg5 Kf6 { Black defends better than in the game, e.g. } 32. h6 Rb8 $1 { (taking the knight allows an obstruction trick with Rg1-g8.) followed by 33...Rh8. } ) 
+Ra8 ( { On } 31... g4 $5 { there can follow } 32. h7 Ra8 33. Nh4 Kf6 34. Bb5 $1 { and White wins material, although after } Rh8 35. Bxc6 Bxc6 36. Rxc6 Rxc6 37. Rxc6 Rxh7 { Black might actually have better drawing chances than in the game - the knight is not very comfortable in such open positions with pawns on both flanks. } ) 
+32. Bb5 $1 { A typical method for the side possessing a passed pawn: create a new front on a different part of the board, in order to exhaust the enemy defences. } Kd6 $6 { After this natural reply White wins comfortably. } ( { The last practical chance was } 32... Nb4 $5 33. Bxd7 Nxa2 { when White would have to find } 34. Rc8 $1 Rxb3 35. Kf2 Nxc1 36. Rxa8 Nd3 37. Kg3 { At this point, both } Ne1 { and } Ne5 { are decisively met by } 38. h7 { - Sutovsky. } ) 
+33. h7 d4+ ( { After } 33... Ne7 34. Bxd7 Kxd7 35. Ne5 Kd6 36. Nf7 ) 
+ ( { or } 33... Rh8 34. Bxc6 Rxc6 35. Nxg5 $1 Rxc5 36. Nf7 Ke7 37. Nxh8 Rxc1 38. Ng6 { White wins - Sutovsky. } ) 
+34. Kd2 $1 { The most technical way, avoiding any tactical surprises. } e5 35. Nxg5 ( { The threat of } 36. Nf7 { ( or } 36. h8Q { ) proves irresistible. } ) 
+Rxb5 36. Rxb5 Ke7 37. Rb7 $1 { In view of the multiple threats, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520511/"]
+[Date "????.??.??"]
+[Round "9.14"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 62- Kramnik- V. vs. Timman- J.- Novgorod 1995"]
+[Result "1-0"]
+[FEN "r4rk1/p3pp2/1p3bpp/R1BP4/8/5B2/5PPP/3R2K1 w - - 0 23"]
+
+ ( { In a sharp Grunfeld battle, Black, having just played } 22. Rb7 b6 { , seems to be coming out fine from the complications. However, Kramnik has a strong reply prepared. } ) 
+23. { -KEY- } d6 $1 ( { Thanks to the tactical detail } 23. d6 exd6 24. Bxb6 { White manages to convert his d-pawn into a magnificent passed pawn. } ) 
+Rac8 ( { After } 23... bxa5 24. dxe7 Rfe8 25. Bxa8 Rxa8 26. Rd7 { followed by a king march via f1-e2-d3-c4, White should be winning. } ) 
+24. d7 Rcd8 { This leads to a very passive game. } ( { Perhaps } 24... bxa5 $5 25. dxc8=Q $11 Rxc8 { was a lesser evil; e.g. } 26. Bd4 Bxd4 27. Rxd4 { with a clear, but not decisive advantage - Yusupov. } ) 
+25. Bxe7 $1 Bxe7 ( { Obviously, } 25... bxa5 $2 { failed to } 26. Bxf6 { - Ftacnik. } ) 
+26. Rxa7 { Despite material equality and opposite-coloured bishops, White has a huge edge thanks to his far advanced passed pawn. } Rb8 { Assigning the blockading task to the bishop means that Black will be left without active pieces; } ( { but after } 26... Bc5 27. Bc6 { preparing Re1-e8, Ra8 etc, it is hard to see any defence for him either. } ) 
+27. Re1 Bd8 28. Re8 $1 { Immobilizing most of the enemy pieces. } b5 29. Ra8 Rxa8 30. Bxa8 b4 31. Bd5 Kg7 32. Kf1 ( { Black resigned, already aware that he can't prevent a decisive transfer of the white king to c6; } 32. Kf1 f5 33. Ke2 Bc7 34. Kd3 Bd8 35. Kc4 Ba5 36. Kb5 Bc7 37. Kxb4 { followed by Kb5-c6-b7-c8. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786498/"]
+[Date "????.??.??"]
+[Round "9.15"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 63- Ivkina- O. vs. Lahno- K.- Russian Team Championship 2009"]
+[Result "0-1"]
+[FEN "8/p2N2kp/1p6/3b4/8/2P3K1/1P4P1/8 w - - 0 1"]
+
+ ( { Finally, let's see two examples where one player overlooked or underestimated the opponent's passed pawn (existing or potential), and duly paid for it.In the words of Baburin, Black is better, as in open positions with pawns on both flanks, the bishop is stronger than the knight. Even so, after the natural } 1. Kf2 { followed by g2-g3 and Ke3 , White would have good drawing chances thanks to the reduced material. Her next move, in contrast, just helps Black to create a strong passed pawn. } ) 
+1. { -KEY- } b4 $2 Be6 2. Ne5 a5 $1 { Of course. From now on, the a-pawn will be a real headache for White. } 3. bxa5 bxa5 4. Nc6 a4 5. Nd4 Kf6 6. Kf4 $6 ( 6. Nb5 { was more logical, heading for a3 in order to block the passed pawn before it advances even further - Baburin. Nevertheless, after } Ke5 7. Kf3 ( { or } 7. Kf2 Ke4 { heading for d3. } ) 
+Bd5 $1 8. Kf2 Ke4 9. c4 $5 Bc6 $1 10. Na3 Kd4 { with ...Kc3 next, Black is winning. } ) 
+a3 7. Nc2 a2 8. g3 Bf5 { The rest is relatively easy: sooner or later, Black's king will enter on either of the flanks, in similar fashion to Example 12 (Stoltz-Kashdan). } 9. Na1 Ke6 10. Nb3 Bg6 11. c4 ( { Abandoning the c-pawn; but after } 11. Ke3 Kd5 12. Kd2 Kc4 13. Na5 Kb5 14. Nb3 Ka4 15. Na1 Ka3 16. Kc1 h5 $1 { Black soon imposes a deadly zugzwang; e.g. } 17. c4 Bf5 18. c5 Be4 { - Baburin. } ) 
+Bd3 12. Na1 ( { Or } 12. c5 Bc4 13. Na1 Kd5 { with similar play. } ) 
+Bxc4 13. Ke4 Kf6 14. Kf4 Be6 15. Nc2 Bb3 16. Na1 Bd1 $1 { By applying the 'magic' distance (more on this topic inChapter Four), Black limits the range of the enemy knight, thus helping her king to break through on the kingside. } 17. Ke3 Kg5 18. Kd2 Bf3 19. Ke3 Kg4 20. Kf2 h5 21. Nc2 Bd1 22. Na1 Kh3 { Zugzwang. } 23. Ke1 Kxg3 24. Kxd1 h4 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520512/"]
+[Date "????.??.??"]
+[Round "9.16"]
+[White "2.1 The Passed Pawn"]
+[Black "Ivkina- O. vs. Lahno- K.- #1"]
+[Result "0-1"]
+[FEN "8/p2N2kp/1p6/3b4/8/2P3K1/1P4P1/8 w - - 0 1"]
+
+ { Finally, let's see two examples where one player overlooked or underestimated the opponent's passed pawn (existing or potential), and duly paid for it. } ( { In the words of Baburin, Black is better, as in open positions with pawns on both flanks, the bishop is stronger than the knight. Even so, after the natural } 0... h4 0. Kf2 { followed by g2-g3 and Ke3 , White would have good drawing chances thanks to the reduced material. Her next move, in contrast, just helps Black to create a strong passed pawn. } ) 
+1. { -KEY- } b4 $2 Be6 2. Ne5 a5 $1 { Of course. From now on, the a-pawn will be a real headache for White. } 3. bxa5 bxa5 4. Nc6 a4 5. Nd4 Kf6 6. Kf4 $6 ( 6. Nb5 { was more logical, heading for a3 in order to block the passed pawn before it advances even further - Baburin. Nevertheless, after } Ke5 7. Kf3 ( { or } 7. Kf2 Ke4 { heading for d3; } ) 
+Bd5 $1 8. Kf2 Ke4 9. c4 $5 Bc6 $1 10. Na3 Kd4 { with ...Kc3 next, Black is winning. } ) 
+a3 7. Nc2 a2 8. g3 Bf5 { The rest is relatively easy: sooner or later, Black's king will enter on either of the flanks, in similar fashion toExample 12 (Stoltz-Kashdan). Seenext position. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786500/"]
+[Date "????.??.??"]
+[Round "9.17"]
+[White "2.1 The Passed Pawn"]
+[Black "Ivkina- O. vs. Lahno- K.- #2"]
+[Result "0-1"]
+[FEN "8/7p/5k2/5b2/5K2/2P3P1/p1N5/8 w - - 0 9"]
+
+9. { -KEY- } Na1 Ke6 10. Nb3 Bg6 11. c4 ( { Abandoning the c-pawn; but after } 11. Ke3 Kd5 12. Kd2 Kc4 13. Na5 Kb5 14. Nb3 Ka4 15. Na1 Ka3 16. Kc1 h5 $1 { Black soon imposes a deadly zugzwang; e.g. } 17. c4 Bf5 18. c5 Be4 { - Baburin. } ) 
+Bd3 12. Na1 ( { Or } 12. c5 Bc4 13. Na1 Kd5 { with similar play. } ) 
+Bxc4 13. Ke4 Kf6 14. Kf4 Be6 15. Nc2 Bb3 16. Na1 Bd1 $1 { By applying the 'magic' distance (more on this topic inChapter Four), Black limits the range of the enemy knight, thus helping her king to break through on the kingside. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786501/"]
+[Date "????.??.??"]
+[Round "9.18"]
+[White "2.1 The Passed Pawn"]
+[Black "Ivkina- O. vs. Lahno- K.- #3"]
+[Result "0-1"]
+[FEN "8/7p/5k2/8/5K2/6P1/p7/N2b4 w - - 0 17"]
+
+17. { -KEY- } Ke3 Kg5 18. Kd2 Bf3 ( { Keeping the 'magic distance' with } 18... Ba4 { also works, e.g. } 19. Ke3 Kg4 20. Kf2 Kh3 21. Kf3 h5 22. Kf2 Kh2 23. Kf3 Bd1 { (equally good is 23...Kg1 in king raid fashion, as suggested by c0rias) } 24. Kf2 Kh3 { transposing to the game. } ) 
+19. Ke3 Kg4 20. Kf2 h5 21. Nc2 Bd1 22. Na1 Kh3 { Zugzwang. Chessable Note: the g3-pawn cannot be defended. } 23. Ke1 Kxg3 ( 23... Ba4 { is again a good alternative, as we already saw in the } Ba4 { subline. } ) 
+24. Kxd1 h4 { Chessable note: White is helpless against both black pawns. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786499/"]
+[Date "????.??.??"]
+[Round "9.19"]
+[White "2.1 The Passed Pawn"]
+[Black "Example 64- Kochyev- A. vs. Hansen- C.- Moscow 1989"]
+[Result "0-1"]
+[FEN "r5k1/p3ppb1/1p2q1p1/7p/Q3R3/1P1PB1P1/2r1PP1P/5RK1 b - - 0 2"]
+
+ ( { White has just played Rb4-e4, perhaps awaiting } 1... Qd6 { when } 2. Bf4 e5 3. Rc1 $1 { would let him challenge the active rook on c2. However, Hansen comes up with a better idea. } ) 
+ { -KEY- } Qd5 $1 { Sacrificing the e-pawn in order to speed up the inherent plan in the position: the creation of a powerful passed pawn on the a-file. } ( { Rather than } 1... Qd6 2. Bf4 e5 3. Rc1 $1 ) 
+2. Rxe7 b5 3. Qe4 $6 ( { With hindsight, White should have contented himself with equality after } 3. Qa6 Rxe2 4. Rb7 Qxb3 5. Rxb5 ) 
+Qxe4 4. dxe4 ( { On } 4. Rxe4 { Black could react as in the game. } ) 
+a5 $1 { Simple and strong; the e2-pawn can wait. Now there is no evident defence against the advance of the a-pawn. } 5. Rb7 a4 6. Rxb5 a3 { As often happens, an advanced passed pawn annuls any other strategic factors. } 7. e5 f6 $1 { Again the e2-pawn can wait - what matters is the rapid re-inclusion of the bishop in the battle. } 8. Bd4 { Intending a blockade with the bishop on a1, but as the remainder of the game will show us, this idea won't save White in the end. } ( { a) Then again, after } 8. f4 fxe5 9. fxe5 Rxe2 10. Bd4 a2 { preparing ...Rd8; } ) 
+ ( { b) or } 8. Rc5 Rxe2 9. b4 a2 10. Ra5 Rxa5 11. bxa5 Rb2 $1 12. a6 Rb4 { heading for a4, White is also doomed. } ) 
+fxe5 9. Ba1 ( { Or } 9. Bxe5 $2 Bxe5 10. Rxe5 a2 11. Ra1 Rb2 { etc. } ) 
+Rxe2 { Black has finally re-established the material balance, with a huge advantage thanks to his far-advanced passed pawn. } 10. b4 a2 11. Rb7 Rf8 12. Kg2 Bh8 13. Ra7 e4 $1 { Not just in order to swap the defender on a1, but also with the idea of exhausting White's first rank defence by ...e4-e3. } 14. Bxh8 Kxh8 15. b5 ( { White now loses by one tempo; but on other moves, such as } 15. Ra3 { there follows } e3 $1 { anyway. } ) 
+e3 16. b6 Rfxf2+ 17. Rxf2 Rxf2+ 18. Kh3 e2 19. b7 Rf8 20. Ra8 e1=Q 21. Rxf8+ Kg7 22. b8=Q ( { Or } 22. Rg8 Kh6 $1 23. Rh8 Kg5 { etc. } ) 
+Qe6+ ( { In view of } 22... Qe6 23. Kg2 a1=Q $11 { with a trivial win, White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520513/"]
+[Date "????.??.??"]
+[Round "9.20"]
+[White "2.1 The Passed Pawn"]
+[Black "Kochyev- A. vs. Hansen- C.- #1"]
+[Result "0-1"]
+[FEN "r5k1/p3ppb1/1p2q1p1/7p/Q3R3/1P1PB1P1/2r1PP1P/5RK1 b - - 0 2"]
+
+ ( { White has just played } 0... Qe6+ 0. Re4 { , perhaps awaiting } Qd6 { when } 2. Bf4 e5 3. Rc1 $1 { would let him challenge the active rook on c2. However, Hansen comes up with a better idea. } ) 
+ { -KEY- } Qd5 $1 { Sacrificing the e-pawn in order to speed up the inherent plan in the position: the creation of a powerful passed pawn on the a-file. } ( { Rather than } 1... Qd6 2. Bf4 e5 3. Rc1 $1 ) 
+2. Rxe7 b5 3. Qe4 $6 ( { With hindsight, White should have contented himself with equality after } 3. Qa6 Rxe2 4. Rb7 Qxb3 5. Rxb5 ) 
+Qxe4 4. dxe4 ( { On } 4. Rxe4 { Black could react as in the game. } ) 
+a5 $1 { Simple and strong; the e2-pawn can wait. Now there is no evident defence against the advance of the a-pawn. } 5. Rb7 a4 6. Rxb5 a3 { As often happens, an advanced passed pawn annuls any other strategic factors. } 7. e5 f6 $1 { Again the e2-pawn can wait - what matters is the rapid re-inclusion of the bishop in the battle. } 8. Bd4 { Intending a blockade with the bishop on a1, but as the remainder of the game will show us, this idea won't save White in the end. } ( { Then again, after } 8. f4 fxe5 9. fxe5 Rxe2 10. Bd4 a2 { preparing ...Rd8 } ) 
+ ( { or } 8. Rc5 Rxe2 9. b4 a2 10. Ra5 Rxa5 11. bxa5 Rb2 $1 12. a6 Rb4 { heading for a4, White is also doomed. } ) 
+fxe5 9. Ba1 ( { Or } 9. Bxe5 $2 Bxe5 10. Rxe5 a2 11. Ra1 Rb2 { etc. } ) 
+Rxe2 { Black has finally re-established the material balance, with a huge advantage thanks to his far-advanced passed pawn. Seenext position. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786502/"]
+[Date "????.??.??"]
+[Round "9.21"]
+[White "2.1 The Passed Pawn"]
+[Black "Kochyev- A. vs. Hansen- C.- #2"]
+[Result "0-1"]
+[FEN "5rkb/1R6/6p1/4p2p/1P6/6P1/p3rPKP/B4R2 w - - 0 13"]
+
+13. { -KEY- } Ra7 e4 $1 { Not just in order to swap the defender on a1, but also with the idea of exhausting White's first rank defence by ...e4-e3. } 14. Bxh8 Kxh8 15. b5 { White now loses by one tempo; } ( { but on other moves, such as } 15. Ra3 { , there follows } e3 $1 { anyway. } ) 
+e3 16. b6 Rfxf2+ ( 16... Rexf2 { also works, of course. } ) 
+17. Rxf2 Rxf2+ 18. Kh3 ( { In the event of } 18. Kg1 { Black wins by } Rb2 19. b7 Rb1 $1 20. Kg2 e2 { , as noticed by Benner. } ) 
+e2 ( { An excellent alternative was } 18... Rb2 19. b7 e2 { when } 20. Rxa2 e1=Q $11 21. Rxb2 { runs into } Qf1 $1 22. Kh4 Qf6 $1 { picking up the rook, as observed by DraggonZ. } ) 
+19. b7 Rf8 20. Ra8 e1=Q 21. Rxf8+ Kg7 22. b8=Q ( { Or } 22. Rg8 Kh6 $1 23. Rh8 Kg5 { etc. } ) 
+Qe6+ ( { In view of } 22... Qe6 23. Kg2 a1=Q $11 { with a trivial win, White resigned. } ) 
+
+ 0-1

@@ -1,0 +1,2157 @@
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/60884850/"]
+[Date "????.??.??"]
+[Round "7.1"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 323"]
+[Result "1-0"]
+[FEN "r1bq1n1r/pp3QpB/2pkpb2/3pN3/3P4/2N5/PPP3PP/R4RK1 w - - 0 1"]
+
+ { 323. José Raúl Capablanca - Masyutin, Kiev 1914 } { _ } 1. { -KEY- } Nc4+ $1 ( { Or } 1. Rxf6 $1 gxf6 2. Nc4 dxc4 3. Ne4 Kd5 4. Nxf6 Kxd4 ( 4. Nc4+ Kd6 5. Ne4 Kd5 6. Qh5 { with mate. } ) 
+5. Rd1 { wins the queen. } ) 
+ ( 1. Ne4 $2 dxe4 2. Nc4 Kd5 { gives White no better than repetition with } 3. Ne3 { , winning the queen in another way costs far too many pieces. } ) 
+dxc4 2. Ne4+ { With a mating attack, the game finished: } Kd5 3. Rf5+ ( 3. Rxf6 { reaches the line above and } 3. Qh5 { wins as well. } ) 
+Kxe4 ( 3... Kxd4 4. c3 Kd3 5. Rf3 Kc2 6. Rf2 Kd3 7. Nc5 { with mate next move. } ) 
+4. Re1+ Kxd4 5. c3+ Kd3 6. Rd5# { Mate. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186488/"]
+[Date "????.??.??"]
+[Round "7.2"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 324"]
+[Result "1-0"]
+[FEN "rq1n2k1/6b1/p5R1/1p1pP2r/2pP1P2/2P4P/P1QB3K/1R6 w - - 0 1"]
+
+ { 324. Jose Raul Capablanca - Joseph Blackburne, St Petersburg 1914 White is winning after most moves, but can decide the game directly in a few moves. } 1. Rxg7+ $1 Kxg7 2. Rg1+ Kf8 3. Qg6 $18 { ✔ White threatens both a mating attack and the rook (which cannot escape or be protected anyway) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186908/"]
+[Date "????.??.??"]
+[Round "7.3"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 325"]
+[Result "1-0"]
+[FEN "8/2NPk3/p5pp/P7/1P3p2/3b3P/6P1/6K1 w - - 0 1"]
+
+ { 325. Jose Raul Capablanca - Lynch/ Villegas, Buenos Aires 1914 } { _ } 1. Ne6 Kxd7 2. Nc5+ Kc6 3. Nxd3 $18 { ✔ And White won. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186909/"]
+[Date "????.??.??"]
+[Round "7.4"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 326"]
+[Result "0-1"]
+[FEN "Qnk5/p2q2pp/3p4/p1pB4/2P5/K1P1r3/4r2P/1R2B3 b - - 0 1"]
+
+ { 326. Jose Raul Capablanca - M. Wolfson, New York (simul) 1915 } { _ } 1... Ra2+ $1 2. Kxa2 Qa4+ { White resigned, as it's mate: } 3. Kb2 Re2+ 4. Kc1 Qc2# { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/61613740/"]
+[Date "????.??.??"]
+[Round "7.5"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 327"]
+[Result "1-0"]
+[FEN "6r1/p1bR4/4pkrp/5q2/B1p5/5Q2/1P3PP1/4R1K1 w - - 0 1"]
+
+ { 327. Jose Raul Capablanca - J.M. Stahr, Chicago 1915 } { _ } 1. { -KEY- } Rxe6+ $1 ( 1. Qxf5 exf5 2. Rxc7 Rxg2 { is probably winning for White, but he only keeps one of his pawns. Better is giving up a rook for the most important defender of the black position. } ) 
+Kxe6 ( 1... Kg5 2. Rd5 $18 { pins the queen. } ) 
+2. Qc6+ ( { White wins after } 2. Qc6 Ke5 3. Rd5 { . } ) 
+ ( 2. Qe2 Qe5 3. Qxc4 Kf6 4. Qf7 Kg5 { also wins. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186915/"]
+[Date "????.??.??"]
+[Round "7.6"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 328"]
+[Result "*"]
+[FEN "6k1/p1p1qp2/1rp1r1pp/2Rp2b1/3P4/1PN1P1QP/P4PP1/2R3K1 b - - 0 1"]
+
+ { 328. Jose Raul Capablanca - Christoph Wolff, New York 1915 } { _ } 1... Rxe3 $1 2. fxe3 Bxe3+ ( { If Black does not keep on the queens, White can safely continue with the counterplay on the queenside without fearing an attack: } 2... Qxe3 3. Qxe3 Bxe3 4. Kf1 Bxc1 5. Na4 Ba3 6. Ra5 { And White's active pieces compensate for the material deficit. } ) 
+3. Kh1 Bxc1 { Black has won two pawns, but Capablanca could have taken one back with } 4. Nxd5 $1 cxd5 5. Rxc1 $17 { ✔ when White has drawing chances. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186917/"]
+[Date "????.??.??"]
+[Round "7.7"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 329"]
+[Result "0-1"]
+[FEN "1k1r4/1p5p/5p2/4n1p1/3q4/8/3r1PPP/R1QB1RK1 b - - 0 1"]
+
+ { 329. Walter Shipley - Jose Raul Capablanca, Philadelphia (simul) 1915 } { _ } 1... { -KEY- } Rxf2 $1 2. Rxf2 Nd3 { The queen can't defend both f2 and a1. } ( { But not } 2... Qxf2 $4 3. Kxf2 Nd3 4. Ke3 Nxc1 5. Rxc1 $18 { . } ) 
+3. Qd2 Qxa1 { ✔ } 4. Re2 Qd4+ { White resigned, as he is two pawns down. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186918/"]
+[Date "????.??.??"]
+[Round "7.8"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 330"]
+[Result "0-1"]
+[FEN "r1b1r1k1/p1q2pp1/2pb3p/n7/2PP2n1/2NQ1N2/PP2B1PP/R1B1K2R b KQ - 0 1"]
+
+ { 330. Manfred Schroeder - Jose Raul Capablanca, New York 1916 } { _ } 1... Bg3+ $1 2. hxg3 ( 2. Kf1 Nf2 $19 { ✔ with a fork. } ) 
+Qxg3+ 3. Kd2 Nf2 $19 { ✔ The queen can't defend the rook, and that's only one of White's problems. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186933/"]
+[Date "????.??.??"]
+[Round "7.9"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 331"]
+[Result "1-0"]
+[FEN "5rk1/ppq2ppp/2p5/4bN2/4P3/6Q1/PPP2PPP/3R2K1 w - - 0 1"]
+
+ { 331. Jose Raul Capablanca - Marc Fonaroff, New York 1918 } { _ } 1. Nh6+ $1 Kh8 2. Qxe5 $1 Qxe5 3. Nxf7+ $1 { +- ✔ Black is mated or loses a piece. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186934/"]
+[Date "????.??.??"]
+[Round "7.10"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 332"]
+[Result "0-1"]
+[FEN "1k5r/pp2b3/2p2p1N/qr3p1P/2nP4/PRN5/1PP5/1KQ4R b - - 0 1"]
+
+ { 332. Jose Raul Capablanca - Walter Shipley, Philadelphia (simul) 1918 } { _ } 1... Nxa3+ $1 2. Rxa3 ( 2. bxa3 Qxc3 $1 { ✔ and White dearly misses his b-pawn. } ) 
+Rxb2+ $1 ( { The game continued: } 2... Bxa3 $2 3. Nxb5 $1 Qxb5 $14 { when Black was a pawn up, but Capablanca showed that the h-pawn is worth more than that. } ) 
+3. Qxb2 Bxa3 4. Qb3 Rxh6 $17 { Now Black is two pawns up, although White has some counter-chances due to Black's misplaced rook. However, note that he can't play: } 5. Qg8+ Kc7 6. Qg7+ ( 6. Nd1 $1 { and Black is only slightly better, if anything. } ) 
+Kb6 7. Qxh6 Qb4+ 8. Ka2 Qb2# { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186938/"]
+[Date "????.??.??"]
+[Round "7.11"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 333"]
+[Result "0-1"]
+[FEN "2b1r1k1/p1p2pp1/2pp4/2n1qPB1/4P3/1PN2Q2/P5RP/6K1 b - - 0 1"]
+
+ { 333. Harold Cole - Jose Raul Capablanca, Hastings 1919 } { _ } 1... Bxf5 $1 ( 1... Nxe4 2. Nxe4 Qxe4 3. Qxe4 Rxe4 4. Bh6 { leaves White with some hope. } ) 
+2. Qxf5 ( 2. exf5 Qe1 3. Qf1 Qxc3 $19 { ✔ also gives a position with two pawns extra. } ) 
+Qxc3 { ✔ There is nothing dangerous happening on g7 due to the exposed white king, so the material advantage is decisive. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186939/"]
+[Date "????.??.??"]
+[Round "7.12"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 334"]
+[Result "1-0"]
+[FEN "5r1k/p2q2p1/2n5/3r3p/1bQ2B2/1P3P2/P3R1PP/4RN1K w - - 0 1"]
+
+ { 334. Jose Raul Capablanca - Boris Kostic, Havana (3) 1919 White already has two pawns, but Black threatens 1...Bxe1 and 1...Rd4. There is a solution to both of these threats: } 1. Re8 $1 ( 1. Rc1 $2 { I tried this in the video, but it runs into a double threat: } Rc5 2. Qe4 Rxc1 3. Bxc1 Qd1 { and Black wins a piece. } ) 
+Rd4 ( 1... Rxe8 2. Rxe8 Qxe8 3. Qxd5 { ✔ wins, since Black can't exploit the first rank. } ) 
+2. Rxf8+ ( { Or } 2. Qe6 { . } ) 
+Bxf8 3. Qe6 { ✔ White keeps both pawns with a serious advantage. } ( 3. Qc1 { is equally strong. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186992/"]
+[Date "????.??.??"]
+[Round "7.13"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 335"]
+[Result "1-0"]
+[FEN "3rrbk1/pp1q1ppp/2pp2n1/5N2/3QnP2/1PN5/PBP3PP/3R1RK1 w - - 0 1"]
+
+ { 335. Jose Raul Capablanca - Edward Tinsley, London (simul) 1919 } { _ } 1. Nh6+ $1 gxh6 ( 1... Kh8 2. Nxe4 $18 { ✔ leaves White a piece up. } ) 
+2. Nxe4 { Threatening 3.Nf6+. The only defence is taking it, but after } Rxe4 3. Qxe4 $18 { ✔ the compensation is clearly insufficient. The black king is open, his pawns are weak, and f4-f5 can be annoying at some point if Black does not further weaken himself with ...f7-f5. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1186997/"]
+[Date "????.??.??"]
+[Round "7.14"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 336"]
+[Result "1-0"]
+[FEN "r2qr1k1/pbpnbppp/1p2pn2/6N1/3P4/3B1N2/PPP1QPPP/R1B1R1K1 w - - 0 1"]
+
+ { 336. Jose Raul Capablanca - T. Bray, Birmingham (simul) 1919 } { _ } 1. Nxf7 $1 ( 1. Ne5 $1 Nxe5 2. dxe5 { winning a piece, also gives full points, but only if you saw: } Qd5 3. Qf1 $1 { The knight cannot move due to 4.Be4 winning the b7-bishop. } ) 
+Bxf3 ( 1... Kxf7 2. Ng5 Kf8 ( 2... Kg8 3. Qxe6 Kh8 4. Nf7 Kg8 5. Nh6 Kh8 6. Qg8 Rxg8 7. Nf7 { ✔ } ) 
+3. Nxe6 $18 { ✔ A fork on the king and the queen. } ) 
+2. gxf3 ( { Also strong is } 2. Qxe6 { threatening mate, and } Bd5 3. Nxd8 Bxe6 4. Nxe6 { leaves White two pawns up with a positional advantage to boot. } ) 
+Kxf7 3. Qxe6+ Kf8 4. Bc4 { ✔ There is no defence. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187238/"]
+[Date "????.??.??"]
+[Round "7.15"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 337"]
+[Result "0-1"]
+[FEN "q5k1/2p2ppp/rr6/3p4/1p1P3P/1Q2PP2/PP1B1P2/K3R3 b - - 0 1"]
+
+ { 337. Jose Raul Capablanca - Valentin Marin y Llovet, Barcelona (simul) 1920 White has a pawn for the exchange, and with the king on b1 there would be hope. But } 1... { -KEY- } Rxa2+ $1 2. Qxa2 Ra6 $19 { is brutal. The game ended: } 3. Qxa6 Qxa6+ { ✔ } 4. Kb1 Qd3+ 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187239/"]
+[Date "????.??.??"]
+[Round "7.16"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 338"]
+[Result "1-0"]
+[FEN "r2qr1k1/pp1nbpp1/2p1pn1p/6N1/3P1P2/2PB4/PP1BQ1PP/4RRK1 w - - 0 1"]
+
+ { 338. Jose Raul Capablanca - M. Coll, Barcelona (simul) 1920 } { _ } 1. Nxf7 $1 Kxf7 ( { The game continuation was } 1... Qc7 2. Qxe6 Bf8 3. Nxh6 Kh8 4. Qg8 Nxg8 5. Nf7 { . } ) 
+2. Qxe6+ Kf8 3. Bg6 { ✔ Mate is unavoidable. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187242/"]
+[Date "????.??.??"]
+[Round "7.17"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 339"]
+[Result "1-0"]
+[FEN "2kr4/ppnq1p2/5r1p/N1pbp2P/P3NB2/1PPP1Q2/2K1B3/3R4 w - - 0 1"]
+
+ { 339. Jose Raul Capablanca - E.S. Maddock, New York (simul) 1922 } { _ } 1. { -KEY- } Nxf6 $1 Bxf3 2. Bxf3 $1 ( 2. Nxd7 Bxe2 3. Nxe5 Bxd1 4. Kxd1 f6 { is only slightly better for White, as the pawn on d3 falls. } ) 
+Qd6 3. Bxe5 { ✔ } ( { White can also start with } 3. Bxb7 { . } ) 
+Qb6 $18 ( { The point is } 3... Qxe5 4. Bxb7 Kb8 5. Nc6 $18 { ✔ with a fork. } ) 
+4. Nxb7 $2 ( { Easier was } 4. Bxb7 Kb8 5. Nc6 Kxb7 6. Nxd8 { with too many pieces for the queen, and a decisive attack. } ) 
+c4 $1 { Black threatens both 5...Qxb3+ and 5...Qf2+, but Capablanca would still have been close to winning if he had played: } 5. d4 ( { Instead, the game continued: } 5. Nxd8 { (1-0, 37 moves) but here Black could have drawn with } Qf2 6. Rd2 cxd3 7. Kc1 Qe1 8. Rd1 Qe3 9. Rd2 Qe1 { . } ) 
+Qxb3+ 6. Kd2 Qb2+ 7. Ke3 Qxc3+ 8. Kf2 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187243/"]
+[Date "????.??.??"]
+[Round "7.18"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 340"]
+[Result "0-1"]
+[FEN "2kr3r/1pp1b3/p1n1b3/4pp2/6p1/P1NPB1P1/1PPNKP2/R6R b - - 0 1"]
+
+ { 340. Jose Raul Capablanca - Perkins, New York (simul) 1924 } { _ } 1... f4 $1 ( { 1 } { _ } ... Nd4 2. Bxd4 exd4 3. Rxh8 { forced 3 } { _ } Rxh8 4. Nd1 { and Black is positionally winning. Full points, however the main variation is simpler. } ) 
+2. Rxh8 ( 2. gxf4 exf4 3. Bxf4 Nd4 4. Ke3 { and Black picks up an exchange with a winning position after } Nxc2 { ✔. } ) 
+Rxh8 3. gxf4 ( 3. Nce4 fxe3 $19 { was the hopeless game continuation (0-1, 27 moves) (.) } ) 
+exf4 4. Bxf4 Nd4+ $19 { ✔ White loses the rook. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187245/"]
+[Date "????.??.??"]
+[Round "7.19"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 341"]
+[Result "0-1"]
+[FEN "2r3k1/q4ppp/p3p3/pnNp4/2rP4/2P2P2/4R1PP/2R1Q1K1 b - - 0 1"]
+
+ { 341. Efim Bogoljubov - Jose Raul Capablanca, New York 1924 Black has two not-so-strong extra pawns, but he can increase his lead with: } 1... Nxd4 $1 2. cxd4 R8xc5 $1 ( 2... R8xc5 2. Rxc4 Rxc4 $19 { ✔ moves the rook away from the threat, } ) 
+ ( { and White loses the rook on c1 after } 2... R8xc5 2. dxc5 Qxc5 4. Kf1 Rxc1 $19 { ✔. } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187246/"]
+[Date "????.??.??"]
+[Round "7.20"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 342"]
+[Result "0-1"]
+[FEN "1k6/pp4p1/2nb1p2/4r3/P7/2PQ4/1P4PP/4rR1K b - - 0 1"]
+
+ { 342. Frank Marshall - Jose Raul Capablanca, New York 1927 } { _ } 1... { -KEY- } Rd5 $1 2. Qf3 ( 2. Qc4 Ne5 { and the queen can no longer defend the rook on f1 . } ) 
+Ne5 { ✔ The black pieces swarming around the white king will win the queen in one of several ways, for instance: } 3. Qf2 Rxf1+ ( 3... Nd3 4. Qf3 Rxf1 5. Qxf1 Nxb2 { was another way to win. } ) 
+4. Qxf1 Ng4 $1 ( { -+ Black threatens } 4... Ng4 4. -- Ne3 { and } Rd1 6. Qxd1 Nf2 { . } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/2485219/"]
+[Date "????.??.??"]
+[Round "7.21"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 343"]
+[Result "1-0"]
+[FEN "3r3k/pb1p1rp1/1pn2pp1/2qNp1B1/2B1P3/3R4/PPP2PPP/3R2K1 w - - 0 1"]
+
+ { 343. Jose Raul Capablanca - A. Souza Campos, Sao Paulo 1927 } { _ } 1. { -KEY- } Rh3+ $1 Kg8 2. Nxf6+ $1 Kf8 ( 2... gxf6 3. Bxf6 { ✔ with mate on h8 . } ) 
+3. Rh8+ { ✔ } Ke7 { There are now several ways to mate. } 4. Re8+ ( 4. Ng8 Ke8 5. Nh6 { followed by 6.B(x)f7# is equally fast. } ) 
+Rxe8 5. Rxd7+ Kf8 6. Rxf7# 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187249/"]
+[Date "????.??.??"]
+[Round "7.22"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 344"]
+[Result "0-1"]
+[FEN "2k4r/pppqb3/2n2p2/3bp2p/Q4PrN/P2PB1P1/1P2P1BK/2R2R2 b - - 0 1"]
+
+ { 344. Jose Raul Capablanca - C.H. Reid, London 1928 } { _ } 1... { -KEY- } Rxh4+ $1 ( { The move order } 1... Bxg2 { works as well, as } 2. Nxg2 { loses to } h4 { . } ) 
+ ( { But } 1... Rhg8 2. Bh3 $1 { is not as clear, although probably still winning after } f5 { . } ) 
+2. gxh4 Bxg2 3. Kxg2 ( 3. fxe5 { was the hopeless game continuation: } Qh3 4. Kg1 Bxf1 { and White resigned. } ) 
+Qg4+ 4. Kf2 Qxh4+ { ✔ } ( 4... Nd4 5. Bxd4 Qxf4 { also wins. } ) 
+5. Kf3 { White has to give up several pieces to avoid mate after for example: } Nd4+ 6. Ke4 f5+ 7. Kd5 Qf6 $19 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187253/"]
+[Date "????.??.??"]
+[Round "7.23"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 345"]
+[Result "1-0"]
+[FEN "5r2/6k1/p1r3p1/5PQ1/2q1PN2/1p6/P6P/5R1K w - - 0 1"]
+
+ { 345. Jose Raul Capablanca - Gracie Square Pharmacy Chess Club, New York (simul) 1931 } { _ } 1. { -KEY- } f6+ $1 { Black has to take on f6 to defend the g6-pawn. } Rfxf6 2. Nh5+ Kh7 $2 ( { No better is } 2... Kh8 3. Qh6 Kg8 4. Qg7 { ✔ } ) 
+ ( { Black had to play } 2... Kf7 3. Rxf6 Rxf6 4. Qxf6 Ke8 { . Without rooks, he threatens both 5...bxa2 and a lot of checks. The trick is to take on g6 , defend the f1-square and the e4-pawn with check, and then take on b3: } 5. Qxg6 { ✔ } Kd8 6. Qf6 Kc7 7. Qf4 Kb7 8. axb3 $18 ) 
+3. Nxf6+ { ✔ White can take care of the black counter-threats in more than one way, for instance: } Kg7 4. Nh5+ Kh7 5. Qe7+ Kh6 6. Ng3 $18 { The knight moves back to g3. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187254/"]
+[Date "????.??.??"]
+[Round "7.24"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 346"]
+[Result "1-0"]
+[FEN "r1br1qk1/pp1n1p2/2p2npp/4pN2/2BPP3/5N2/PP3PPP/2RQR1K1 w - - 0 1"]
+
+ { 346. Jose Raul Capablanca - Glicco, Mexico 1933 } { _ } 1. Bxf7+ $1 Kh7 ( 1... Qxf7 2. Nxh6 $18 { ✔ A fork. } ) 
+ ( 1... Kxf7 2. Qb3 Ke8 ( { or } 2... Nd5 3. exd5 gxf5 4. dxc6 { ✔ } Kg7 5. cxd7 Bxd7 6. Nxe5 $18 { with two pawns more } ) 
+3. Qe6 Qe7 4. Qxe7 { ✔ } ) 
+2. Bxg6+ $1 Kxg6 3. dxe5 $18 { 4.e6 and 5.e7 or 5.Ne5 wins material wherever Black moves the knight. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187256/"]
+[Date "????.??.??"]
+[Round "7.25"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 347"]
+[Result "0-1"]
+[FEN "2rr1nk1/pbq2ppp/8/1Bp1P3/4p3/P7/QP1N1PPP/3RR1K1 b - - 0 1"]
+
+ { 347. Jose Raul Capablanca - George Thomas, Hastings 1934 } { _ } 1... { -KEY- } Qa5 $19 { ✔ A double threat against the bishop and knight. } ( { Thomas started with } 1... Rxd2 $6 2. Rxd2 { before playing } Qa5 { . He was winning, and won, but there was little reason to give away the exchange. } ) 
+ { Perhaps he feared the knight coming to d6, but apart from giving up the exchange when that happens, he could also win with: } 2. Nc4 Rxd1 $1 3. Rxd1 ( 3. Nxa5 Rxe1 4. Bf1 Ba6 $19 ) 
+Qxb5 4. Nd6 Qd7 { When all is well and safe. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187257/"]
+[Date "????.??.??"]
+[Round "7.26"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 348"]
+[Result "1-0"]
+[FEN "r1b2rk1/pp1n2pp/4p3/6q1/2NPQn2/3B4/PP4PP/2R2RK1 w - - 0 1"]
+
+ { 348. Jose Raul Capablanca - Llusa, Barcelona (simul) 1935 } { _ } 1. Qxh7+ ( 1. Rxf4 $2 Rxf4 $19 ) 
+Kf7 2. Rxf4+ $1 Qxf4 ( { After } 2... Ke7 { White has to find either } 3. Qh4 { with a pawn up or } 3. Rff1 { . } ) 
+3. Rf1 Qxf1+ 4. Bxf1 $18 { ✔ Black has no chance of surviving, with poor development and weak king. } ( { Or } 4. Kxf1 $18 { . } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187262/"]
+[Date "????.??.??"]
+[Round "7.27"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 349"]
+[Result "1-0"]
+[FEN "4k3/rp3ppb/1np1p2p/N7/1PP5/6P1/4PPBP/3R2K1 w - - 0 1"]
+
+ { 349. Jose Raul Capablanca - Andor Lilienthal, Moscow 1936 } { _ } 1. { -KEY- } Nxb7 $1 Rxb7 ( 1... Nxc4 $1 { is the best defence. White is a pawn up after } 2. Bxc6 $16 { but there is work left to convert. } ) 
+2. Bxc6+ Rd7 $18 { ✔ It is possible to imagine a situation where Black blockades the queenside pawns, but it is not realistic with careful play. } 3. c5 { Was played in the game: 1-0, 54 moves. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187270/"]
+[Date "????.??.??"]
+[Round "7.28"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 350"]
+[Result "1-0"]
+[FEN "r2q1r1k/1p2pp1p/p4n2/2pp2Q1/4p3/2NP2P1/PPP2PK1/R6R w - - 0 1"]
+
+ { 350. Jose Raul Capablanca - J.C. Rather, New York (simul) 1936 } { _ } 1. Nxd5 $1 Qxd5 ( { No better are } 1... Nxd5 2. Rxh7 Kxh7 3. Rh1 { ✔ } ) 
+ ( { or } 1... Rg8 2. Nxf6 $1 Rxg5 3. Rxh7 { ✔ } ) 
+2. Rxh7+ $1 Nxh7 ( 2... Kxh7 3. Rh1 { ✔ with mate. } ) 
+3. Qxd5 $18 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187595/"]
+[Date "????.??.??"]
+[Round "7.29"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 351"]
+[Result "1-0"]
+[FEN "1rbq1r2/4bpk1/p3p1p1/1p2P1P1/2pPBP2/2P5/PP2Q1P1/2KR3R w - - 0 1"]
+
+ { Alexander Alekhine When asked “How is it that you pick better moves than your opponents?” I responded: “I’m very glad you asked me that, because, as it happens, there is a very simple answer. I think up my own moves, and I make my opponent think up his.”351. V. Malkov – Alexander Alekhine, corr. 1902 } { _ } 1. Rh7+ $1 Kxh7 2. Qh5+ Kg8 ( 2... Kg7 3. Qh6 { ✔ } Kg8 4. Rh1 { with mate. } ) 
+3. Bxg6 { There are other ways to win, but this is the cleanest. } fxg6 4. Qxg6+ Kh8 5. Rh1# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187596/"]
+[Date "????.??.??"]
+[Round "7.30"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 352"]
+[Result "0-1"]
+[FEN "3qr1k1/pp3ppp/3b4/8/1nrN3P/P1N1P3/1P1K1PP1/1Q3R1R b - - 0 1"]
+
+ { 352. Alexander Alekhine - Nikolay Zubakin, corr. 1902 White's king seems reasonably safe in the centre, but with } 1... Rxd4+ $1 { Black exposes it to the deadly onslaught of his entire army. } 2. exd4 ( 2. Kc1 Rc4 3. axb4 Bxb4 { Would have been White's best option. } ) 
+Bf4+ 3. Kd1 Qxd4+ 4. Qd3 Qxd3# { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187597/"]
+[Date "????.??.??"]
+[Round "7.31"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 353"]
+[Result "*"]
+[FEN "r2qk2r/2p2p2/p1np3p/1pb1p1pb/4P3/1B1P1NPP/PPP3P1/RN1Q1R1K w - - 0 1"]
+
+ { 353. Alexander Alekhine - S. Antushev, corr. 1903 } { _ } 1. Nxe5 $1 Bxd1 ( { The game went } 1... Nxe5 2. Qxh5 $18 { ✔. } ) 
+2. Bxf7+ Kf8 3. Nxc6 { This wins back the queen. } ( { Also good is the long but forcing variation: } 3. Bd5 Ke8 4. Bxc6 Ke7 5. Ng6 Ke6 6. Bd5 Kd7 7. Rf7 Kc8 8. Ne7 Qxe7 9. Rxe7 $16 { . } ) 
+Qd7 4. Be6+ $16 { ✔ White is two pawns up and has good winning chances. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187600/"]
+[Date "????.??.??"]
+[Round "7.32"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 354"]
+[Result "0-1"]
+[FEN "2k1r3/ppp2p1p/8/7q/5Bn1/Q1P3pN/PP4P1/R4K2 b - - 0 1"]
+
+ { 354. Alexander Alekhine - V. Zhukovsky, corr. 1905 } { _ } 1... Nf2 $1 ( { Zhukovsky played } 1... Qb5 $2 { when strongest is } 2. c4 $1 { ∞ to open the third rank for the queen. } ) 
+ ( 1... Nh2 $2 2. Kg1 Nf3 { also fails to win after. } 3. Kh1 Rg8 $1 ( { threatening } 3... Nf2 3. -- Qxh3 5. gxh3 g2 ) 
+4. Bxg3 $1 Rxg3 5. Qf8 $11 { It's almost perpetual, and if not then White can defend the knight on h3 . } ) 
+2. Kg1 ( 2. Bxg3 Nxh3 $1 3. gxh3 Qf3 { ✔ leads to mate, } ) 
+ ( { as does } 2. Nxf2 Qe2 3. Kg1 Qe1 4. Rxe1 Rxe1 { ✔. } ) 
+Nxh3+ $1 3. gxh3 Qxh3 $1 { ✔ White will be mated. } ( 3... Qe2 4. Bxg3 Qe3 5. Kh2 Qf3 $1 6. Re1 Rd8 $1 { is also mating. } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187875/"]
+[Date "????.??.??"]
+[Round "7.33"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 355"]
+[Result "1-0"]
+[FEN "1rb1q2k/ppp1r2p/4p1p1/4PpN1/P6R/2Q5/5PPP/3R2K1 w - - 0 1"]
+
+ { 355. V.M. Manko - Alexander Alekhine, corr. 1906 } { _ } 1. Nxh7 $1 ( 1. Rxh7 $1 { gives the same result. } ) 
+Rxh7 2. Rxh7+ ( 2. Qh3 $4 Rh5 $1 ) 
+Kxh7 3. Qxc7+ Kh6 4. Rd8 $18 { ✔ } ( { Black is mated or loses the queen, e.g. 4 } { _ } . Rd8 Qc6 5. Rh8 Kg5 6. Qd8 Kf4 7. Rh4 Kxe5 8. Qd4 { . } ) 
+ { } ( { Other winning moves are } 4. Qxb8 $18 { , } ) 
+ ( { or even } 4. h4 $18 { . } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187880/"]
+[Date "????.??.??"]
+[Round "7.34"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 356"]
+[Result "1-0"]
+[FEN "r3rnk1/1pqnb3/p3p1p1/3p2P1/7B/2NB4/PPP1Q2P/5RRK w - - 0 1"]
+
+ { 356. Alexander Alekhine - Otto Kunze, Düsseldorf 1908 } { _ } 1. { -KEY- } Bxg6 $1 Nxg6 2. Qxe6+ Kh8 3. Qxg6 { ✔ White threatens 4.Rf7 or moving the queen with check followed by g5-g6. It is a forced mate. The game ended with: } Qc6 4. Qh5+ Kg8 5. Qf7+ Kh8 6. g6 d4+ 7. Nd5 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187882/"]
+[Date "????.??.??"]
+[Round "7.35"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 357"]
+[Result "1-0"]
+[FEN "r1b2r1k/ppp3pp/3b4/4Npq1/2B5/8/PPP2PPP/R2QR1K1 w - - 0 1"]
+
+ { 357. Alexander Alekhine - H. Koehnlein, Düsseldorf 1908 } { _ } 1. Qxd6 $1 ( 1. Nf7 Rxf7 2. Bxf7 Bd7 $18 { is not quite as good. } ) 
+cxd6 2. Nf7+ Rxf7 3. Re8+ Rf8 4. Rxf8# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187884/"]
+[Date "????.??.??"]
+[Round "7.36"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 358"]
+[Result "0-1"]
+[FEN "5r2/2p3k1/1p1p1rBp/p1nPpP2/6q1/2P1R1Pp/P1P4K/4QR2 b - - 0 1"]
+
+ { 358. Alexander Alekhine - Dawid Daniuszewski, St Petersburg 1909 Black is positionally winning and after } 1... Qxg6 $1 ( 1... Qc4 { picks up a pawn, and if you are 100% sure you would win this, you can give yourself full points (hand on your heart!) } ) 
+2. fxg6 Rxf1 $19 { ✔ he also wins material. White's queen cannot escape. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187906/"]
+[Date "????.??.??"]
+[Round "7.37"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 359"]
+[Result "*"]
+[FEN "5r2/p1ppk1r1/1pn1p2p/8/2PP1N2/2P5/P2K2PP/R4R2 w - - 0 1"]
+
+ { 359. Alexander Alekhine - Savielly Tartakower, Hamburg 1910 } { _ } 1. Nd5+ $1 Ke8 ( 1... exd5 2. Rae1 $18 { ✔ followed by 3.Rxf8 . } ) 
+2. Nxc7+ Ke7 3. Nd5+ Ke8 $16 { ✔ The knight retreats to e3, with or without the exchange on f8. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187908/"]
+[Date "????.??.??"]
+[Round "7.38"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 360"]
+[Result "1-0"]
+[FEN "2kr3r/pppq1p2/3p4/3Nb1p1/2B1P1nP/2P3P1/PP2Q1K1/R4R2 w - - 0 1"]
+
+ { 360. Alexander Alekhine - Krotky, Tula (simul) 1910 } { _ } 1. { -KEY- } Rxf7 $1 Qxf7 2. Nb6+ axb6 3. Bxf7 { ✔ If Black had time to move the knight and take on h4, he would have compensation for the exchange. But there is no hope after: } Nf6 4. hxg5 $18 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187910/"]
+[Date "????.??.??"]
+[Round "7.39"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 361"]
+[Result "1-0"]
+[FEN "r2q1rk1/pp1nbppp/2pnb3/3p2BN/3P1Q1P/2NB4/PPP2PP1/2KR3R w - - 0 1"]
+
+ { 361. Alexander Alekhine - Gutkevitsch, Moscow (simul) 1910 } { _ } 1. Bh6 $1 ( 1. Nxg7 $2 Kxg7 2. Bh6 Kh8 { is not mating. } ) 
+Ne8 ( 1... gxh6 2. Qxh6 $18 { ✔ threatens mate both on g7 and h7 . } ) 
+ ( { The best defence was } 1... g6 { , since Black gets the bishop pair if White takes the exchange. But } 2. Ng7 $1 { puts an end to that dream. } ) 
+2. Bxg7 $1 { An important move - otherwise 1.Bh6 makes no sense. } Nxg7 3. Qh6 $18 { ✔ Mate is unstoppable. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/4199059/"]
+[Date "????.??.??"]
+[Round "7.40"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 362"]
+[Result "0-1"]
+[FEN "br1q1rk1/p3p1bp/6p1/1p1n2B1/2pPB3/P1P4P/2Q2PP1/1R1R1NK1 b - - 0 1"]
+
+ { 362. Ossip Bernstein - Alexander Alekhine, Vilnius 1912 } { _ } 1... { -KEY- } Nxc3 $1 2. Bxg6 ( 2. Qxc3 Bxe4 $19 { ✔ is over, } ) 
+ ( { and Black wins an exchange after } 2. Bxa8 Nxb1 $19 { ✔. } ( { not } 2. Bxg6 Nxd1 $6 3. Bf3 $17 { and the knight is trapped } ) 
+ ) 
+ { After the game move, there are many ways to win: capturing a rook or creating a double threat against g2 and g5. Alekhine chose: } Qd5 3. Bxh7+ Kh8 4. f4 Nxb1 5. Rxb1 Qxd4+ 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187951/"]
+[Date "????.??.??"]
+[Round "7.41"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 363"]
+[Result "0-1"]
+[FEN "5k1r/p2p4/bpqP2p1/5p2/2P1rP2/2QR1B2/P4b2/5KR1 b - - 0 1"]
+
+ { 363. Alexander Alekhine - Boris Koyalovich, St Petersburg 1912 } { _ } 1... Bd4 $1 { Black defends against 2. Qf6+ or 2. Qxh8+. } 2. Rxd4 Bxc4+ $1 3. Kf2 ( { No salvation is offered by } 3. Rxc4 Qxc4 $19 { ✔ } ) 
+ ( { or } 3. Kg2 Bf1 $19 { . } ) 
+Rh2+ $1 { The king will be forced to a light square, allowing the bishop to move with check. } 4. Kg3 ( 4. Rg2 Re2 ( { or } 4. Kg3 Rxg2 5. Kxg2 Bf1 6. Kxf1 Qxc3 $19 ) 
+5. Bxe2 Qxg2 6. Ke3 Qxe2 { ✔ } ) 
+Rh3+ { The only winning move. } 5. Kxh3 Bf1+ $1 6. Rxf1 Qxc3 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187953/"]
+[Date "????.??.??"]
+[Round "7.42"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 364"]
+[Result "1-0"]
+[FEN "2r1k2r/p2nbppp/q3pn2/1Np5/PpNP1P2/4P3/1P1BQ1PP/R4RK1 w k - 0 1"]
+
+ { 364. Dawid Janowski - Alexander Alekhine, Scheveningen 1913 } { _ } 1. Ncd6+ $1 { White wins the exchange or the queen with a discovered attack. } Bxd6 2. Nc7+ Rxc7 3. Qxa6 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187954/"]
+[Date "????.??.??"]
+[Round "7.43"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 365"]
+[Result "0-1"]
+[FEN "4r1k1/1pp2ppp/p1b5/6Q1/5q1P/1BN5/PP1r1PP1/5RKR b - - 0 1"]
+
+ { 365. Alexander Alekhine - Efim Bogoljubov, St Petersburg 1913 } { _ } 1... { -KEY- } Rxf2 $1 2. Bxf7+ ( { The two captures hit hard: } 2. Rxf2 Re1 3. Rf1 Rxf1 { ✔ } ) 
+ ( { and } 2. Qxf4 Rxg2 { ✔. } ) 
+Kh8 $1 { ✔ White is still mated if he captures the rook or the queen, and } 3. Rd1 Qxf7 $19 { also gave no hope (0-1, 27 moves) . } ( { or } 3... Rxg2 $19 { . } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1188198/"]
+[Date "????.??.??"]
+[Round "7.44"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 366"]
+[Result "0-1"]
+[FEN "1kr4r/pb1q2pp/1p6/4bp2/1Q3N1P/3pPP2/PP1N1P2/1KR4R b - - 0 1"]
+
+ { 366. Sergey Lebedev - Alexander Alekhine, St Petersburg 1914 } { _ } 1... { -KEY- } Rc2 $1 { White has three ways to defend against 2...Rxb2, but none helps. } 2. Rxc2 ( { A. } 2. Nc4 Bxf4 3. exf4 Qd4 $1 { -+ ✔ Black does not have to exploit the pin. Next is 4...Bxf3. } ) 
+ ( { B. } 2. Nxd3 Rxc1 ( 2. Rxc2 Bd6 $19 { also wins a piece } ) 
+3. Nxc1 a5 $1 { -+ ✔ The knight on d2 is lost. } ) 
+dxc2+ $19 { ✔ } 3. Kxc2 { Black is not in a hurry, but there is a way to end the game that's easier than others: } Rc8+ 4. Kb1 ( { Or } 4. Kd1 Bxf3 { mating. } ) 
+a5 $1 { -+ The next move is 5...Qxd2. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190578/"]
+[Date "????.??.??"]
+[Round "7.45"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 367"]
+[Result "1-0"]
+[FEN "2r2r1k/6R1/p2b3p/3P3q/1pPppB2/1P1Q1P1P/P6K/6R1 w - - 0 1"]
+
+ { 367. Dawid Janowski - Alexander Alekhine, Mannheim 1914 } { _ } 1. Rg8+ $1 { The rook sacrifice ensures that the next moves come with check. } ( 1. Rh7 $2 Kxh7 2. Qxe4 Rf5 3. Bxd6 Qxf3 $14 { gives counterplay with the d4-pawn alive. } ) 
+Rxg8 2. Qxd4+ $1 Kh7 3. Qxe4+ Rg6 ( 3... Kh8 { and White wins by taking on d6 now or after a few checks. } ) 
+4. Bxd6 $18 { ✔ Exchanging first } ( 43. Rxg6 Z0 { , but not } 43. Qxg6 ) 
+ { was also winning. The rook is no match for the connected passed pawns supported by the bishop. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190579/"]
+[Date "????.??.??"]
+[Round "7.46"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 368"]
+[Result "0-1"]
+[FEN "6rr/1b1k1p2/p3p2b/1pQpP3/5P1q/3B4/PP4N1/2R1R1K1 b - - 0 1"]
+
+ { 368. Nikolay Tselikov - Alexander Alekhine, Moscow 1915 } { _ } 1... { -KEY- } Rxg2+ $1 2. Kxg2 d4+ $19 { ✔ } ( 2... Rg8 { is also mating in various ways, } ) 
+ ( { and } 2... Qg4 { as well as } ) 
+ ( 2... Bg5 { are also winning. } ) 
+3. Be4 { The point of 2...d4 is shown after } Rg8+ 4. Kf1 Qxf4+ { when White can't defend the check with Qf2. One way to end the game is: } 5. Ke2 Qxe4+ 6. Kd1 Qd3# 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190583/"]
+[Date "????.??.??"]
+[Round "7.47"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 369"]
+[Result "1-0"]
+[FEN "r2qr1k1/pb1nb1pp/1p2pn2/2p1Np2/2PP1B2/3B1N2/PP2QPPP/R4RK1 w - - 0 1"]
+
+ { 369. Alexander Alekhine - Feldt, Tarnopol (blindfold simul) 1916 } { _ } 1. Nf7 $1 ( 1. Nc6 Bxc6 2. Qxe6 Kh8 3. Qxc6 $18 { wins a pawn (one point) (.) } ) 
+Kxf7 2. Qxe6+ $1 Kg6 ( 2... Kxe6 3. Ng5 { ✔ is over, } ) 
+ ( { and Black has to give up too much to avoid mate after } 2... Kf8 3. Ng5 $18 { ✔ } ) 
+3. g4 { 4.Bxf5# and 4.Nh4# are two threats Black can't defend against. } ( { Also mating are } 3. Bxf5 Kh5 4. g4 Nxg4 5. Bxg4 ) 
+ ( { and } 3. Nh4 Kh5 4. Qxf5 { , with mate on the next move. } ) 
+Be4 4. Nh4# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190585/"]
+[Date "????.??.??"]
+[Round "7.48"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 370"]
+[Result "1-0"]
+[FEN "3rk2r/pbqnbppp/1pp1pn2/4N3/3P4/3B2N1/PPPBQPPP/4RRK1 w k - 0 1"]
+
+ { 370. Alexander Alekhine - Vasiutinsky, Odessa (simul) 1918 } { _ } 1. Nxf7 $1 { Black castled here (1-0, 28 moves) . } Kxf7 2. Qxe6+ Kf8 3. Qxe7+ $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190587/"]
+[Date "????.??.??"]
+[Round "7.49"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 371"]
+[Result "0-1"]
+[FEN "4r1k1/p1p2rp1/2p2n2/5PBq/4p1P1/4Q3/PPP4R/4R1K1 b - - 0 1"]
+
+ { 371. Nikolay Pavlov-Pianov - Alexander Alekhine, Moscow 1919 } { _ } 1... Qxh2+ ( 1... Qxg4 2. Rg2 Qxf5 $17 { leaves White fighting. } ) 
+2. Kxh2 Nxg4+ 3. Kg3 Nxe3 $19 { ✔ Black takes on f5 and wins two pawns and an exchange with no counterplay left for White. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190590/"]
+[Date "????.??.??"]
+[Round "7.50"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 372"]
+[Result "1-0"]
+[FEN "5k1r/pp2nppp/2p1b3/4N3/3r1P2/1B2R3/PP4PP/4R1K1 w - - 0 1"]
+
+ { 372. Alexander Alekhine - Nikolay Grigoriev, Moscow 1919 } { _ } 1. { -KEY- } Nxf7 $1 { ✔ } Kxf7 ( { White also wins a pawn after } 1... Bxf7 2. Bxf7 $16 { . } ( 1... Kxf7 1. Rxe7 $16 ) 
+ ) 
+2. Rxe6 ( 2. Bxe6 $16 { is good enough, but the text move is stronger. } ) 
+Nd5 3. Re7+ $18 { 1-0, 36 moves } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190642/"]
+[Date "????.??.??"]
+[Round "7.51"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 373"]
+[Result "0-1"]
+[FEN "r4rk1/p1pp2pp/1p2p3/n6q/Q1PPR3/2P2P2/P2B2PP/5RK1 b - - 0 1"]
+
+ { 373. Ilya Rabinovich - Alexander Alekhine, Moscow 1920 } { _ } 1... Nxc4 $1 { ∓ Black wins a pawn due to: } 2. Qxc4 d5 3. Qb5 a6 $1 { -+ ✔ The only good move. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190644/"]
+[Date "????.??.??"]
+[Round "7.52"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 374"]
+[Result "1-0"]
+[FEN "3r4/4kp2/1RQ4p/p2rP1p1/P7/3q3P/5BP1/6K1 w - - 0 1"]
+
+ { 374. Alexander Alekhine - G. Resser, The Hague (simul) 1921 } { _ } 1. Qf6+ $1 ( 1. e6 { wins after 1 } { _ } Kf8 2. Bc5 Rxc5 3. Qxc5 Kg8 4. exf7 Kxf7 { and now you have to find } 5. Kh2 $3 ) 
+Ke8 2. e6 $1 { White doesn't have to move with check - Black's counterplay is too slow. } Qf5 $1 { A strong defence, forcing White to find the only way to win. } ( 2... Qg6 3. exf7 ( { or } 2... Qf5 2. Qh8 Ke7 4. Bc5 $1 { +- } ) 
+Qxf7 4. Re6 Kf8 5. Qxh6 $18 { And Black must give up up the queen for the rook. } ( 4... Qf5 4. Qh8 $18 ) 
+ ) 
+3. exf7+ Kf8 4. Bc5+ $1 Rxc5 5. Qxd8+ Kxf7 6. Rb7+ $1 { ✔ Black will be mated. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190645/"]
+[Date "????.??.??"]
+[Round "7.53"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 375"]
+[Result "0-1"]
+[FEN "3r1r1k/1b4p1/pb5p/4Pp1q/2pBnP2/5N1N/PPQ3PP/3R1R1K b - - 0 1"]
+
+ { 375. Joaquin Torres Caravaca - Alexander Alekhine, Spain (simul) 1922 } { _ } 1... Bxd4 ( 1... Rxd4 { gives the same outcome: } 2. Rxd4 ( 1... Bxd4 1. Nxd4 Qxh3 $19 ) 
+Bxd4 3. Nxd4 Qxh3 $19 ) 
+2. Rxd4 ( 2. Nxd4 Qxh3 $1 3. gxh3 Nf2 4. Kg1 Nxh3 { ✔ } ) 
+Rxd4 3. Nxd4 Qxh3 $1 4. gxh3 Nf2+ 5. Kg1 Nxh3# { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190646/"]
+[Date "????.??.??"]
+[Round "7.54"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 376"]
+[Result "0-1"]
+[FEN "2r1k3/p4R1Q/1p4Bp/3pP3/6P1/P4K2/1P4P1/2r1q3 b - - 0 1"]
+
+ { 376. Alexander Alekhine - Frederick Yates. Hastings 1922 Black is almost getting mated, and he can take a perpetual check, but more can be achieved: } 1... R8c3+ $1 ( 1... R1c3 { makes no difference. } ) 
+2. bxc3 Rxc3+ 3. Bd3 Qf1+ $1 4. Ke3 Rxd3+ 5. Qxd3 Qxd3+ 6. Kxd3 Kxf7 $19 { ✔ White's ruined pawn structure makes him a hopeless victim. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/52543417/"]
+[Date "????.??.??"]
+[Round "7.55"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 377"]
+[Result "*"]
+[FEN "2rq1bk1/3b1ppp/p1p5/3p4/3Nr3/1P2PQ1P/PB3PP1/2RR2K1 w - - 0 1"]
+
+ { 377. Alexander Alekhine - N.N., Berlin 1922 } { _ } 1. { -KEY- } Nxc6 { ± White won a pawn due to: } Bxc6 2. Rxc6 Rxc6 3. Qxe4 dxe4 4. Rxd8 { ✔ } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190648/"]
+[Date "????.??.??"]
+[Round "7.56"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 378"]
+[Result "1-0"]
+[FEN "6k1/3nrppp/2B5/p1b2P2/5Q2/1P5P/Pr6/5R1K w - - 0 1"]
+
+ { 378. Alexander Alekhine - Manuel Golmayo de la Torriente, Spain 1922 } { _ } 1. f6 $1 ( 1. Bxd7 $2 Rxd7 2. Qe5 { is a triple threat } ( { 3.Qxb2 , 3.Qxc5 and 3.Qe8+ } 3. f6 Bf8 { 4.Qxd7 } ) 
+ { , but } Rdd2 $11 { defends, because } 3. Qxc5 $4 Rh2 4. Kg1 Rbg2 ) 
+gxf6 ( 1... Nxf6 2. Qb8 $18 { ✔ is over. } ) 
+ { After the game move, the open g-file can be exploited in several ways. Alekhine chose: } 2. Bxd7 Rxd7 3. Qg4+ $18 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190652/"]
+[Date "????.??.??"]
+[Round "7.57"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 379"]
+[Result "0-1"]
+[FEN "3r1r1k/pb4pp/3b4/1Pp2nq1/2Q1p3/1P1pP2P/PB3PPN/R2NR2K b - - 0 1"]
+
+ { 379. Siegbert Tarrasch - Alexander Alekhine, Bad Pistyan 1922 } { _ } 1... { -KEY- } Ng3+ $1 2. Kg1 ( 2. fxg3 Qxg3 $19 { ✔ with a decisive double threat. } ) 
+ { After the king move, White is still not threatening to take on g3, and there are many ways to add fuel to the attack: } ( { A. } 2. Kg1 Bc8 $19 { followed by 3.Bxh3; } ) 
+ ( { B. } 2. Kg1 d2 $19 { wins an exchange, to start with. } ) 
+ { Alekhine started with } Bd5 { and won convincingly (0-1, 38 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190653/"]
+[Date "????.??.??"]
+[Round "7.58"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 380"]
+[Result "1-0"]
+[FEN "3q1kr1/3npp1p/1p1Pn1p1/1p6/rP1Q4/P4N2/3N1PPP/R3R1K1 w - - 0 1"]
+
+ { 380. Alexander Alekhine - Heinrich Wolf, Bad Pistyan 1922 White has a winning position, and can finish the game forcefully: } 1. { -KEY- } Rxe6 $1 fxe6 2. Ng5 $18 { ✔ The threats are too numerous. } Nc5 { This defends e6 for the moment, but Black loses the knight when White moves the queen. } ( { After } 2... Qc8 ( { or } 2... Qb8 ) 
+ { (White has a winning attack with a combination of Ng5xe6, Re1 and d6xe7. There is no need to calculate a concrete variation.) } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190655/"]
+[Date "????.??.??"]
+[Round "7.59"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 381"]
+[Result "1-0"]
+[FEN "3qr1k1/p4rpp/1pRbp3/1Q1p4/1P1Bn3/4P1PB/P4P1P/5RK1 w - - 0 1"]
+
+ { 381. Alexander Alekhine - Frederick Yates, Portsmouth 1923 } { _ } 1. f3 $1 { Wherever the knight moves, White takes on d6 and e8. The game continuation was: } Nd2 2. Rxd6 Qxd6 3. Qxe8+ $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190656/"]
+[Date "????.??.??"]
+[Round "7.60"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 382"]
+[Result "1-0"]
+[FEN "1k1r3r/pp1q2p1/4pp2/1P6/2RP1P2/1Q2P2p/6PP/R5K1 w - - 0 1"]
+
+ { 382. Alexander Alekhine - Lester Samuels, New York (simul) 1923 } { _ } 1. Rxa7 $1 Qd5 ( 1... Kxa7 2. Qa3 ( { or } 1... Qd5 1. b6 Ka6 3. Rc5 $1 { with a mate after } Ra8 4. Qb4 $1 ) 
+Kb6 3. Qc5 { ✔ with mate in a few moves. } ) 
+2. Qa2 $1 ( { Alekhine played } 2. Ra2 $2 Rc8 $1 { ±. } ) 
+Qxg2+ ( 2... Qxc4 3. Ra8 Kc7 4. Qxc4 $18 { ✔ } ) 
+3. Qxg2 hxg2 4. b6 Rc8 { The only defence against 5.Rc7. } 5. Rca4 $18 { ✔ To avoid mate, Black has to part with a rook. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190659/"]
+[Date "????.??.??"]
+[Round "7.61"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 383"]
+[Result "1-0"]
+[FEN "r2qnrk1/2p2ppp/p1QN4/4p3/8/8/PPP2PPP/R1BR2K1 w - - 0 1"]
+
+ { 383. Alexander Alekhine - Reib, Prague (simul) 1923 } { _ } 1. { -KEY- } Bg5 $1 { ✔ Black has to take, as otherwise he is a piece down. } Qxg5 2. Ne4 ( 2. Qxa8 $18 { wins } ) 
+ ( { and } 2. Nxf7 $1 { +- gains an extra pawn. } ) 
+Qf4 3. Qxa8 Nd6 $18 { The knight is lost here, but White is still winning. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190660/"]
+[Date "????.??.??"]
+[Round "7.62"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 384"]
+[Result "1-0"]
+[FEN "6k1/1Qn3pp/1B2pr2/1q1nNp2/3P4/1P6/5PPP/R5K1 w - - 0 1"]
+
+ { 384. Alexander Alekhine - Menzel, Boston (simul) 1923 } { _ } 1. Ra8+ $1 Nxa8 ( { After } 1... Ne8 { White has two immediate ways to exploit the eight rank: A. } 2. Bc5 ( { Or B. } 1... Nxa8 1. Nd7 { with a double threat. } ) 
+Qxb7 3. Rxe8 Rf8 4. Rxf8 ) 
+ ( { Or } 1... Rf8 2. Rxf8 Kxf8 3. Qb8 { picks up a piece on c7 , as } Ne8 4. Bc5 $18 { wins the queen. } ) 
+2. Qc8+ { Black resigned due to: } Rf8 3. Qxe6+ $1 Kh8 4. Nf7+ Kg8 ( 4... Rxf7 { loses to } 5. Qc8 { ✔ with back-rank mate. } ) 
+5. Nh6+ ( { Or } 5. Nd6 $18 { winning the queen. } ) 
+Kh8 6. Qg8+ Rxg8 7. Nf7# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190664/"]
+[Date "????.??.??"]
+[Round "7.63"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 385"]
+[Result "1-0"]
+[FEN "3r2k1/pp2qppp/2b1p3/3p4/5P2/b2BPR2/1B1N2PP/3Q2K1 w - - 0 1"]
+
+ { 385. Alexander Alekhine - John Drewitt, Portsmouth 1923 } { _ } 1. Bxh7+ $1 Kxh7 2. Rh3+ Kg8 3. Qh5 { Simplest and best. } ( { The game continued: } 3. Bxg7 $6 f6 4. Bh6 { , which is a more complicated way to win. } Qh7 5. Qh5 Bf8 6. Qg4 Kf7 7. Bxf8 $18 { wins back the sacrificed piece, keeping the g- and h-pawns. } ) 
+f6 4. Bxa3 Qxa3 5. Qh8+ Kf7 6. Qxd8 Qc1+ 7. Nf1 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190665/"]
+[Date "????.??.??"]
+[Round "7.64"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 386"]
+[Result "0-1"]
+[FEN "4Q3/3N1pkp/3q2pb/p7/Pp1p2P1/1P6/2r2P1P/3R2K1 b - - 0 1"]
+
+ { 386. Siegbert Tarrasch - Alexander Alekhine, Karlsbad 1923 Black has a good position, but faces the threat of 2.Rxd4 Qxd4 3.Qf8#. } 1... Be3 $1 2. fxe3 ( { Tarrsch played } 2. Rf1 { but when White was forced into passivity, Black can do whatever he wishes with a winning position (0-1, 54 moves) (.) } ) 
+Qxh2+ 3. Kf1 Qh1# { ✔ } ( { Or } 3... Qf2 ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190667/"]
+[Date "????.??.??"]
+[Round "7.65"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 387"]
+[Result "*"]
+[FEN "5rk1/1p5p/4p1p1/1P1pn2r/1P1R1P2/6P1/6KP/4RB2 b - - 0 1"]
+
+ { 387. Alexander Alekhine - Herman Steiner, New York (simul) 1924 } { _ } 1... Rxh2+ $1 2. Kxh2 Nf3+ 3. Kg2 Nxd4 $17 { ✔ Black lost despite his extra pawn. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190669/"]
+[Date "????.??.??"]
+[Round "7.66"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 388"]
+[Result "1-0"]
+[FEN "3rkb1r/pp3p1p/1q4p1/4nN2/4N3/8/PP2QPPP/R4RK1 w k - 0 1"]
+
+ { 388. Alexander Alekhine - Leon Kussman, New York (simul) 1924 } { _ } 1. Qb5+ Nd7 ( 1... Qxb5 2. Nf6 { ✔ } ) 
+2. Rfe1 $1 { +- ✔ There is no satisfying defence against the discovered attack. } ( 2. Nf6 Qxf6 3. Rae1 Be7 4. Rxe7 Kf8 5. Qb4 $1 { is also winning, } ) 
+ ( { as is } 2. Rae1 $1 { . } ) 
+ { } ( { 2 } { _ } . Rfe1 Be7 { can be met in many ways. A reader pointed out a beautiful line: } 3. Ned6 Kf8 4. Rxe7 Qxb5 5. Rxf7 Kg8 6. Ne7 { mate } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190670/"]
+[Date "????.??.??"]
+[Round "7.67"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 389"]
+[Result "1-0"]
+[FEN "r3nr1k/pppq1ppp/3p1R2/3Nn1BQ/2B1P3/3P3P/PPP3P1/7K w - - 0 1"]
+
+ { 389. Alexander Alekhine - J.Y. Downman, USA (simul) 1924 } { _ } 1. Rh6 $1 gxh6 2. Bf6+ ( { White can also play } 2. Nf6 $18 ) 
+ ( { or } 2. Qxh6 Rg8 3. Nf6 Rg7 4. Nxd7 $18 { . } ) 
+Nxf6 ( 2... Kg8 3. Ne7 $18 { wins the queen. } ) 
+3. Nxf6 Qe7 4. Qxh6 Qxf6 5. Qxf6+ Kg8 $18 { ✔ Black has two rooks for the queen but his king has no hope against h3-h4-h5-h6, and he soon resigned. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190672/"]
+[Date "????.??.??"]
+[Round "7.68"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 390"]
+[Result "1-0"]
+[FEN "2k1r2r/pp1n1q2/2pb3p/3pnB1Q/5B2/2N5/PPP3PP/4RRK1 w - - 0 1"]
+
+ { 390. Alexander Alekhine - F. Casciato, USA (simul) 1924 } { _ } 1. Rxe5 $1 ( 1. Bxd7 Kxd7 2. Rxe5 { transposes. } ) 
+Qxh5 2. Bxd7+ Kxd7 3. Rxh5 $18 { ✔ The rook was "sacrificed" on e5, but survived with the help of a lifeline - escaping the threat by a queen exchange on h5. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190673/"]
+[Date "????.??.??"]
+[Round "7.69"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 391"]
+[Result "1-0"]
+[FEN "5r2/pb2qp1k/1pnr2pp/7Q/4B3/4P1N1/P4PPP/2R2RK1 w - - 0 1"]
+
+ { 391. Walter Michel - Alexander Alekhine, Basel (simul) 1925 } { _ } 1. Nf5 $1 gxh5 ( 1... gxf5 2. Qxf5 Rg6 3. Bxc6 Bxc6 4. Rxc6 $16 { ✔ gives White an extra pawn, but was Black's only hope. } ) 
+2. Nxe7+ f5 3. Bxc6 $18 { ✔ White wins a piece, and he could also have gone for an exchange with } ( 3. Nxf5 Re6 4. Nd6 Rxe4 5. Nxe4 $18 { . } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190675/"]
+[Date "????.??.??"]
+[Round "7.70"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 392"]
+[Result "0-1"]
+[FEN "6k1/p3Qpp1/Pp5p/4P3/4q3/5N1P/5nPK/8 b - - 0 1"]
+
+ { 392. Alexander Alekhine - H.A. Woher, Amsterdam (simul) 1925 } { _ } 1... Qf4+ $1 2. Kg1 Nxh3+ $1 3. gxh3 Qg3+ $1 ( 3... Qxf3 4. Qxa7 $11 { is only a draw. } ) 
+4. Kh1 Qxf3+ $19 { ✔ After one or two more checks, Black takes on a6. If White then captures on f7, Black picks up the e5-pawn. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190676/"]
+[Date "????.??.??"]
+[Round "7.71"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 393"]
+[Result "1-0"]
+[FEN "r1b3k1/pp3p1p/1qp3p1/8/3rPP2/PP6/1BQ2PBP/5RK1 w - - 0 1"]
+
+ { 393. Alexander Alekhine - A.H.M. Wap, Rotterdam (simul) 1925 } { _ } 1. Qc3 $1 ( 1. Bxd4 $2 Qxd4 2. Rd1 Qf6 $1 { ∞ } ) 
+c5 2. b4 $1 { +- Black's rook is undermined, and he has no time for } f6 3. bxc5 { ✔ comes with a double threat. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190682/"]
+[Date "????.??.??"]
+[Round "7.72"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 394"]
+[Result "1-0"]
+[FEN "r1b2rk1/pp4pp/8/3Pqp2/2B1nN2/5R2/PP1Q2PP/R5K1 w - - 0 1"]
+
+ { 394. Alexander Alekhine - Anna Stephan, Czechoslovakia (simul) 1925 } { _ } 1. d6+ $1 Kh8 ( 1... Be6 2. Bxe6 Qxe6 3. Nxe6 { ✔ } Nxd2 4. Rd3 $18 { wins an exchange. } ) 
+2. Ng6+ $1 hxg6 3. Rh3# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190683/"]
+[Date "????.??.??"]
+[Round "7.73"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 395"]
+[Result "1-0"]
+[FEN "4n1k1/pbrq2p1/4rB1Q/4P3/4p3/6RP/PP4P1/5RK1 w - - 0 1"]
+
+ { 395. Alexander Alekhine - Harold Lommer, Geneva (simul) 1925 } { _ } 1. Bxg7 $1 Nxg7 ( 1... Rxh6 2. Rf8 Kh7 3. Rh8 { ✔ } ) 
+2. Rf8+ $1 ( { Alekhine played } 2. Rxg7 $2 Qxg7 3. Qxe6 $11 { . White is a piece down, but the open black king is enough to draw the game. } ) 
+Kxf8 3. Qh8+ Ke7 4. Rxg7# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190685/"]
+[Date "????.??.??"]
+[Round "7.74"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 396"]
+[Result "0-1"]
+[FEN "r5k1/2Bn1ppp/2p1pb2/2Pp4/3P1P2/r1NqP3/3Q2PP/2R1K2R b K - 0 1"]
+
+ { 396. Alexander Alekhine - Walter Henneberger, Basel (simul) 1925 } { _ } 1... Nxc5 $1 2. dxc5 ( { Alekhine tried to keep the loss to a pawn with } 2. Bd6 { but to no avail: } Rxc3 ( 2. dxc5 Bh4 3. g3 Bd8 { is also winning, } ) 
+ ( { while } 2. dxc5 Qxd2 3. Kxd2 Nb3 4. Kc2 Nxc1 5. Bxa3 Rxa3 6. Rxc1 $17 { might be what many would settle for } ) 
+3. Rxc3 ( 3. Qxc3 Ra2 $1 { -+ } ) 
+Ra1 $19 { Black has a winning attack. However, you do not have to see all that to take on c5 . } ) 
+Bxc3 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1190882/"]
+[Date "????.??.??"]
+[Round "7.75"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 397"]
+[Result "1-0"]
+[FEN "r3r1k1/pppqnppp/2n3b1/3p3N/3P4/2PB2Q1/P1PB1PPP/R3R1K1 w - - 0 1"]
+
+ { 397. Alexander Alekhine - Moriz Henneberger, Basel (simul) 1925 } { _ } 1. Bh6 $1 Nf5 ( 1... gxh6 2. Nf6 $18 { ✔ with a fork. } ) 
+2. Bxf5 Rxe1+ 3. Rxe1 Qxf5 4. Nxg7 Qxc2 $18 { ✔ Black won his pawn back, but his king position is in ruins. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191683/"]
+[Date "????.??.??"]
+[Round "7.76"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 398"]
+[Result "0-1"]
+[FEN "4r1k1/Q5pp/p1p2r2/1p1p1PN1/6P1/4n2P/PPP2K2/8 b - - 0 1"]
+
+ { 398. Alexander Alekhine - Karl Gilg, Czechoslovakia (simul) 1925 } { _ } 1... Nxf5 $1 { The only move that gives Black an advantage. } 2. Nxh7 ( 2. gxf5 Rxf5 3. Nf3 Ref8 $19 { ✔ } ) 
+Rf7 $1 { -+ Precise, but it was also good enough to take back on h7. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191684/"]
+[Date "????.??.??"]
+[Round "7.77"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 399"]
+[Result "1-0"]
+[FEN "3r2k1/p2r1pp1/1pQ3p1/3P2q1/P7/6P1/5P1P/2R1R1K1 w - - 0 1"]
+
+ { 399. Alexander Alekhine - Edgard Colle, Paris 1925 } { _ } 1. Qxd7 $1 Rxd7 2. Re8+ ( { Not } 2. Rc8 $4 Rd8 $19 { . } ) 
+Kh7 3. Rcc8 { ✔ There is no defence since the queen cannot safely move with check. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191685/"]
+[Date "????.??.??"]
+[Round "7.78"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 400"]
+[Result "1-0"]
+[FEN "3r3r/p1p2kpp/1pn1pp2/1Q1q1n2/2NP4/4PN2/PP3PPP/2RR2K1 w - - 0 1"]
+
+ { 400. Alexander Alekhine - Saint Germain, Paris (simul) 1925 } { _ } 1. Qxc6 $1 Qxc6 ( { Black made things worse with } 1... Rd7 $2 2. Qxd7 $18 { . } ) 
+2. Nce5+ fxe5 3. Nxe5+ Kf6 4. Rxc6 $18 { ✔ White wins a second pawn on c7. } ( 4. Nxc6 { is equally strong. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191687/"]
+[Date "????.??.??"]
+[Round "7.79"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 401"]
+[Result "1-0"]
+[FEN "r3k2r/p2q1ppp/R3b3/1ppN4/8/1P6/1PP2PPP/3QR1K1 w kq - 0 1"]
+
+ { 401. Alexander Alekhine - Peter Potemkin, Paris (simul) 1925 } { _ } 1. Rexe6+ ( { Or } 1. Raxe6 $1 ) 
+ ( { but not } 1. Qf3 $6 O-O 2. Nb6 Qd6 3. Rd1 Qxb6 4. Rxb6 axb6 { when Black is fighting. } ) 
+ ( 1. Nb6 $6 Qxd1 2. Rxd1 Rd8 $1 3. Rxd8 Kxd8 4. Rxa7 Re8 { when White's knight is in trouble. } ) 
+fxe6 2. Rxe6+ $1 Kf7 ( 2... Qxe6 3. Nc7 { ✔ is similar. } ) 
+3. Re7+ Qxe7 4. Nxe7 Kxe7 $18 { ✔ Black's two rooks are still on their initial squares and White's queen has time to collect a second pawn. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191688/"]
+[Date "????.??.??"]
+[Round "7.80"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 402"]
+[Result "1-0"]
+[FEN "r1b2r2/pp2nq1k/6pp/2pp4/4BPPN/2P5/P1Q3KP/4RR2 w - - 0 1"]
+
+ { 402. Alexander Alekhine - N. Schwartz, London (simul) 1926 } { _ } 1. Bxg6+ $1 ( 1. Nxg6 $6 dxe4 $1 2. Nxe7 { is not as good } ( 2. Nxf8 { is better } ) 
+ { after } Bxg4 3. Qxe4 Bf5 4. Nxf5 Qxf5 5. Qxb7 Kh8 $16 { , even though the extra pawn and the active rooks might be enough. } ) 
+Nxg6 2. Nxg6 ( 2. Re7 $4 Qxe7 3. Nxg6 ( { Chessable Note: } 3. Qxg6 Kh8 4. Qxh6 Kg8 { after which } 5. -- Qg7 { should lead to a winning position for Black. } ) 
+Qe4 4. Qxe4 dxe4 5. Nxf8 Kg7 { And the knight is trapped, leaving White a piece down. } ) 
+Kg8 ( 2... Qxg6 3. Re7 $18 { ✔ wins the queen. } ) 
+3. Nxf8 $18 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191689/"]
+[Date "????.??.??"]
+[Round "7.81"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 403"]
+[Result "0-1"]
+[FEN "1r4k1/p4pp1/3p4/6P1/q1p5/2Qn1N2/PP1R1PP1/1K6 b - - 0 1"]
+
+ { 403. Alexander Alekhine - Raul Molina, Buenos Aires 1926 } { _ } 1... Rxb2+ $1 2. Qxb2 ( 2. Rxb2 Qd1 3. Qc1 Qxc1 { ✔ } ) 
+Nxb2 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191691/"]
+[Date "????.??.??"]
+[Round "7.82"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 404"]
+[Result "0-1"]
+[FEN "2q1r1k1/5p1p/1p1P2p1/2p5/PpNbr2P/1P1Q2P1/3R4/5R1K b - - 0 1"]
+
+ { 404. Alexander Alekhine - Julio Menendez, Buenos Aires 1926 } { _ } 1... Re2 $1 2. Rxe2 Rxe2 3. Qxe2 ( { Alekhine gave up a rook with } 3. Rf5 $19 { (0-1, 37 moves) (.) } ) 
+Qh3+ 4. Qh2 Qxf1+ 5. Qg1 Qxg1# { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191692/"]
+[Date "????.??.??"]
+[Round "7.83"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 405"]
+[Result "1-0"]
+[FEN "r2qkb1r/1b3ppp/pn2p3/4N3/2pP4/2N1B3/PP3PPP/R2Q1RK1 w - - 0 1"]
+
+ { 405. Alexander Alekhine - Colman Lernen, Buenos Aires 1926 } { _ } 1. d5 $1 { +- ✔ There is no defence against 2. Bxb6 Qxb6 3. Qa4+, with a winning attack. } ( { Alekhine won a pawn with } 1. Nxc4 Nxc4 2. Qa4 Qd7 3. Qxc4 $14 { but the bishop pair and the long diagonal gave some compensation. } ) 
+ ( { Chessable Note: } 1. d5 Nxd5 2. Qa4 Ke7 { and } 3. Rad1 { with a winning attack. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191694/"]
+[Date "????.??.??"]
+[Round "7.84"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 406"]
+[Result "*"]
+[FEN "r1b2r2/p1q1bpk1/1np1pn1p/1p6/3P3P/3B1N2/PPPBQPP1/2KRR3 w - - 0 1"]
+
+ { 406. Alexander Alekhine - Carmichael, Newcastle upon Tyne (simul) 1926 } { _ } 1. Bxh6+ $1 Kg8 ( 1... Kxh6 2. Qe3 Kg7 3. Qg5 Kh8 4. Qh6 Kg8 5. Re5 $1 { ✔ with mate. } ) 
+2. Ne5 $1 { +- ✔ Black can't defend against the attack, even though it takes a few moves before it is over. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191697/"]
+[Date "????.??.??"]
+[Round "7.85"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 407"]
+[Result "0-1"]
+[FEN "2r2rk1/1p4p1/pq2pnQp/3p4/4P3/2N4P/PP1R1PP1/3R2K1 b - - 0 1"]
+
+ { 407. Alexander Alekhine - Rudolf Spielmann, Semmering 1926 } { _ } 1... { -KEY- } Rxc3 $1 2. bxc3 Nxe4 { ✔ } 3. Rd4 ( 3. Rc2 Nxf2 4. Rd4 { tries to hold onto the exchange, but Black has a winning attack after } Qb1 { ✔ } ( { the positional } 4. Rd4 Ne4 { is also winning } ) 
+5. Kh2 Qh1 6. Kg3 Qe1 7. Kh2 Ne4 { and 8.Rf1 . } ) 
+Rxf2 $1 { -+ White cannot defend c3 in a good way. } ( { Spielmann played } 3... Nxc3 $6 { ∓ which wins back the exchange or the pawn on f2 . Surprisingly, he agreed to a draw a few moves later. } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191700/"]
+[Date "????.??.??"]
+[Round "7.86"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 408"]
+[Result "1-0"]
+[FEN "r4k2/pb3rpp/1p3p2/1Bn1pq2/3R2NP/6Q1/P1P2PP1/3R2K1 w - - 0 1"]
+
+ { 408. Frederick Yates - Alexander Alekhine, Kecskemet 1927 } { _ } 1. Rd8+ $1 ( { Yates started with } 1. Nh6 $2 { but it allowed } Qc8 $1 { . Best now is } 2. Rg4 $1 { ± with an initiative. } ( { About equal is } 2. Nxf7 ( { while the game continuation was } 2. Rd8 Qxd8 3. Rxd8 Rxd8 4. Nxf7 Kxf7 $13 { (0-1, 75 moves) (.) } ) 
+exd4 $11 ) 
+ ) 
+Rxd8 2. Rxd8+ Ke7 3. Nh6 $1 gxh6 ( 3... Qxc2 4. Re8 $1 Kd6 5. Nxf7 $18 { ✔ } ) 
+4. Qg8 $18 { ✔ Black's king cannot escape, so he must give up lots of material to avoid mate. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191701/"]
+[Date "????.??.??"]
+[Round "7.87"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 409"]
+[Result "1-0"]
+[FEN "2k1r3/p2nrp2/1pb1q1pp/2p1p2n/2P5/2QNPPB1/PPBR2PP/2KR4 w - - 0 1"]
+
+ { 409. Alexander Alekhine - Aron Nimzowitsch, New York 1927 } { _ } 1. Nxc5 $1 { It doesn't matter how Black takes back. } Nxc5 2. Rd6 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191705/"]
+[Date "????.??.??"]
+[Round "7.88"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 410"]
+[Result "1-0"]
+[FEN "r3r1k1/pp3ppp/1q2pn2/1Nb1n3/2P5/1P1BB3/P4PPP/R2QR1K1 w - - 0 1"]
+
+ { 410. Alexander Alekhine - Carbonell, Barcelona (simul) 1928 } { _ } 1. Bxc5 $1 Qxc5 2. b4 $1 { The queen cannot keep defending the knight on e5. } Qxb4 3. Rxe5 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191845/"]
+[Date "????.??.??"]
+[Round "7.89"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 411"]
+[Result "0-1"]
+[FEN "2r2bk1/1p3pp1/7p/1P1Pp3/B7/P2q4/Q4PPP/4R1K1 b - - 0 1"]
+
+ { 411. Alexander Alekhine - Efim Bogoljubov, Berlin (13) 1929 } { _ } 1... Qe4 $1 { -+ A double threat against e1 and a4. } 2. Rxe4 Rc1+ 3. Re1 Rxe1# { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191847/"]
+[Date "????.??.??"]
+[Round "7.90"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 412"]
+[Result "1-0"]
+[FEN "3r4/1kbQ4/1q2p3/3p4/3P2p1/pP1N4/P6P/1KR5 w - - 0 1"]
+
+ { 412. Efim Bogoljubov - Alexander Alekhine, The Hague (18) 1929 } { _ } 1. Rxc7+ $1 ( 1. Qxe6 Bxh2 2. Qxg4 { also wins a pawn and should be winning, but Black still has hope. } ) 
+ ( { Chessable Note: After } 1. Nc5 Qxc5 2. dxc5 Rxd7 3. c6 Kc8 4. cxd7 Kxd7 { White still has winning chances, but it's going to be difficult to convert. } ) 
+Qxc7 2. Nc5+ Kb6 3. Qxc7+ Kxc7 4. Nxe6+ Kc8 5. Nxd8 Kxd8 { ✔ It's an easily winning endgame. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191848/"]
+[Date "????.??.??"]
+[Round "7.91"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 413"]
+[Result "0-1"]
+[FEN "2rq1rk1/p5b1/4p2p/1pN1Pn2/2pP2pp/2P5/PPB4Q/4RRK1 b - - 0 1"]
+
+ { 413. Alexander Alekhine - Mayerhofer, Regensburg 1930 } { _ } 1... Nxd4 $1 2. cxd4 ( { Alekhine's } 2. Nb7 { should not help, but he held a draw. } ) 
+Qxd4+ $19 { ✔ Black takes back the piece and has several extra pawns and the safer king. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191849/"]
+[Date "????.??.??"]
+[Round "7.92"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 414"]
+[Result "1-0"]
+[FEN "3r2k1/7p/bq2ppp1/p1R5/Pp2P2P/4QB2/1P3PP1/6K1 w - - 0 1"]
+
+ { 414. Alexander Alekhine - Salo Flohr, Bled 1931 } { _ } 1. e5 $1 ( 1. Rc8 Qd6 2. e5 $1 { also wins, but requires some variations: } ( { A. } 2. e5 Qf8 3. Rc7 ) 
+ ( { B. } 2. e5 Qd7 3. Rc6 ) 
+ ( { C. } 2. e5 Qe7 3. exf6 Qxf6 4. Rxd8 Qxd8 5. Qxe6 Kg7 6. Qxa6 ) 
+ ) 
+f5 $2 ( 1... fxe5 2. Rc8 $1 Qd6 3. Rc6 $18 { ✔ and the pawn sacrifice opened up lines for the f3-bishop. } ) 
+2. Rc8 $1 { The d6-square is no longer available for the queen. } Qxe3 3. Rxd8+ Kf7 4. fxe3 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191850/"]
+[Date "????.??.??"]
+[Round "7.93"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 415"]
+[Result "1-0"]
+[FEN "r3r1k1/pb1q2p1/1p1np1Qp/5p2/1BP2P2/3BR3/P5PP/4R1K1 w - - 0 1"]
+
+ { 415. Alexander Alekhine - Edgard Colle, Bled 1931 } { _ } 1. Bxd6 Qxd6 2. Bxf5 $1 { +- ✔ Black cannot take back on f5, nor can he allow White to penetrate on h7. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191851/"]
+[Date "????.??.??"]
+[Round "7.94"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 416"]
+[Result "0-1"]
+[FEN "2r1k1r1/1b2bp1p/4pn2/p2q4/Pp6/1P1NQPB1/N1P3PP/2R2R1K b - - 0 1"]
+
+ { 416. Alexander Alekhine - Nate Grossman, New York (simul) 1932 } { _ } 1... Rxg3 $1 2. hxg3 Ng4 $1 3. Nf4 ( { There is no miraculous rescue after } 3. fxg4 Qxg2 { ✔ } ) 
+ ( { or } 3. Qf4 Qh5 4. Kg1 Qh2 { ✔ } ) 
+Nxe3 $19 { ✔ Black gets two bishops for a rook and is winning no matter how he takes back on d5. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191854/"]
+[Date "????.??.??"]
+[Round "7.95"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 417"]
+[Result "0-1"]
+[FEN "r4rk1/p1p2ppp/2Q1pq2/3P4/3Pn1b1/2P1PP2/P5PP/R1B1KB1R b KQ - 0 1"]
+
+ { 417. Alexander Alekhine - L. Castaneda, Guadalajara (simul) 1932 } { _ } 1... Bxf3 $1 ( 1... Qh4 2. Ke2 Bh5 $1 { also wins due to the threat of 3.Ng3+ . } ) 
+2. gxf3 Qxf3 ( 2... Qh4 $4 3. Ke2 Qf2 4. Kd3 Qxf3 5. Rg1 { And White is doing alright. } ) 
+3. Rg1 ( 3. dxe6 fxe6 { gives no counterplay. } ) 
+Qf2+ 4. Kd1 Qxg1 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191855/"]
+[Date "????.??.??"]
+[Round "7.96"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 418"]
+[Result "0-1"]
+[FEN "1k1r4/1pp1q1n1/p2p4/3BnP1p/4PB1b/2PPQ3/PP1K2bP/R5R1 b - - 0 1"]
+
+ { 418. Schut Bueters - Alexander Alekhine, Surabaya (simul) 1933 } { _ } 1... Nxf5 $1 { The e4-pawn is pinned. } ( { Not } 1... Nf3 2. Kc2 Nxg1 3. Rxg1 Nxf5 { =. } ) 
+ { After 2.Qe2 Black has three solutions: a 2...Bg5 'followed by an invasion on e3.' b 2...Bf3 3.Qf1 Qf6 4.Bxe5 Qh6+ with a deadly fork on e3. c 2...Ng6 3.Rxg2 Nxf4 4.Qf3 Nxd5 } 2. exf5 Bxd5 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191857/"]
+[Date "????.??.??"]
+[Round "7.97"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 419"]
+[Result "1-0"]
+[FEN "r2br2k/pbqn2p1/1p2Qn1p/2p5/3P1P1N/P1PB4/1P1B2PP/3R1RK1 w - - 0 1"]
+
+ { 419. Alexander Alekhine - Lista, Bratislava (simul) 1933 } { _ } 1. Ng6+ $1 { The knight checks its way to h6. } Kh7 2. Ne5+ $1 Kh8 ( 2... Be4 3. Bxe4 { ✔ } Nxe4 4. Qxe8 $18 ) 
+3. Nf7+ Kg8 4. Nxh6+ Kh8 5. Qg8+ Nxg8 6. Nf7# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191858/"]
+[Date "????.??.??"]
+[Round "7.98"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 420"]
+[Result "1-0"]
+[FEN "2kr3r/ppqnbppp/2p1pnb1/4N3/2BP1PP1/2N4P/PPPBQ3/2KR3R w - - 0 1"]
+
+ { 420. Alexander Alekhine - W.J. Haeften, Jakarta (simul) 1933 } { _ } 1. f5 $1 { Opening the e-file. } exf5 2. Nxg6 fxg6 3. Qxe7 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191859/"]
+[Date "????.??.??"]
+[Round "7.99"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 421"]
+[Result "1-0"]
+[FEN "2rqkb1r/1b1n1pp1/p1p1pn1p/1p2N3/P2P4/3BPN2/1PQB1PPP/R3K2R w KQk - 0 1"]
+
+ { 421. Alexander Alekhine - Fricis Apsenieks, Folkestone (ol) 1933 } { _ } 1. Bg6 $1 fxg6 ( 1... Nxe5 2. Nxe5 { does not change anything since the game move } Rc7 { could be met by } 3. Ba5 $1 { ✔ with a winning attack (1-0, 23 moves) (.) } ( 2... fxg6 2. Bxf7 { , before or after a4xb5 (, might be winning too.) } ) 
+ ) 
+2. Qxg6+ Ke7 { White has many ways to win. } 3. Bb4+ ( { The simplest to calculate might be } 3. Nf7 Qe8 4. Nxh8 $18 { . } ) 
+c5 4. dxc5 { Black is busted, for example: } Nxc5 5. Qf7+ Kd6 6. Qxb7 $18 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191860/"]
+[Date "????.??.??"]
+[Round "7.100"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 422"]
+[Result "1-0"]
+[FEN "r4rk1/ppp3p1/2bpq3/5pPR/3Qn3/5N2/PPP2PP1/2K4R w - - 0 1"]
+
+ { 422. Alexander Alekhine - Hoelsder, Amsterdam (simul) 1933 } { _ } 1. Ne5 $1 ( 1. g6 Qxg6 2. Ne5 { is almost winning, but Black has } Qxh5 $1 3. Rxh5 dxe5 $17 { . } ( 1. Rh7 Qg6 2. Qc4 d5 3. Rh8 Kf7 4. Ne5 Ke6 5. Nxg6 dxc4 6. Nxf8 Kf7 7. Ng6 $1 Rxh8 8. Nxh8 { also wins - full points. The last two moves made sure to save the knight with tempo and keep a full extra exchange. } ) 
+ ) 
+dxe5 2. g6 $1 ( 2. Qc4 $2 { would have been a blunder, for example: } Qxc4 3. g6 Qf1 4. Rxf1 Be8 $19 { . } ) 
+Qxg6 3. Qc4+ Rf7 4. Rh8# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191863/"]
+[Date "????.??.??"]
+[Round "7.101"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 423"]
+[Result "0-1"]
+[FEN "6k1/1p3pp1/p3p3/1b4Pp/3P4/5P2/q1r1N2P/2NQK2R b K - 0 1"]
+
+ { 423. Hermann Joss - Alexander Alekhine, Zurich 1934 } { _ } 1... Rxc1 $1 ( 1... Qb2 $19 { is also winning, but Black has to calculate or find a lot more moves. For instance, all Black's moves in the following line are the only winning ones: } 2. Nd3 Qb3 3. Ndf4 e5 $1 4. dxe5 Qb4 5. Kf2 Rd2 $1 6. Qxd2 Qxd2 $19 ) 
+2. Nxc1 ( 2. Qxc1 Qxe2 { ✔ } ) 
+Qg2 $1 { -+ ✔ The rook has no square. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191864/"]
+[Date "????.??.??"]
+[Round "7.102"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 424"]
+[Result "1-0"]
+[FEN "6k1/rb4pp/pN6/P3rp2/1pRp4/3B2qP/1P2Q1P1/4R1K1 w - - 0 1"]
+
+ { 424. Alexander Alekhine - Efim Bogoljubov, Germany (2) 1934 White is a piece up, but must solve the threats against e2, e1 and g2. } 1. Rc8+ $1 Kf7 ( 1... Bxc8 2. Qxe5 $18 { ✔ } ) 
+2. Qh5+ $18 { ✔ White's attack is mating, and there are so many ways that it does not make sense to give every line. Two other moves would also have forced resignation: } ( 2. Rc7 Kg6 3. Rxg7 Kxg7 4. Qxe5 $18 ) 
+ ( { and } 2. Rf8 Kxf8 3. Nd7 $18 { . } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/2035489/"]
+[Date "????.??.??"]
+[Round "7.103"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 425"]
+[Result "*"]
+[FEN "2k3r1/3r2N1/ppp4p/3bPN2/P1p1n3/6P1/1PP4K/3R1R2 w - - 0 30"]
+
+ { 425. Alexander Alekhine - Efim Bogoljubov, Germany (16) 1934 } { _ } 30. e6 $1 Rdxg7 ( { 1 } { _ } ... Rc7 2. e7 Kd7 3. e8=Q { and White wins the exchange and the game. } ) 
+31. Nxg7 Rxg7 32. Rxd5 $1 { Or } ( 32. Rf8 { first. } ) 
+cxd5 33. Rf8+ Kc7 34. Rf7+ $18 { Black must give up a rook as } Rxf7 $2 35. exf7 { queens. ✔ } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1191869/"]
+[Date "????.??.??"]
+[Round "7.104"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 426"]
+[Result "0-1"]
+[FEN "2kr3r/pp3bpp/1qp5/3n1p2/P1PPpP2/B3P1P1/2Q1BKP1/R6R b - - 0 1"]
+
+ { 426. Alexander Alekhine - Rafael Llorens, Barcelona (simul) 1935 } { _ } 1... Nxe3 $1 2. Qc3 ( 2. Kxe3 Qxd4 { ✔ } ) 
+Ng4+ ( { Or } 2... Nxc4 3. Bxc4 Bxc4 ( { Instead Llorens played: } 3... Rxd4 $2 4. Be2 $16 { Black has no good discovered check and Alekhine won after: } Bc4 $2 5. a5 $18 { (1-0, 25 moves) } ) 
+4. Qxc4 Rxd4 $13 { with about enough pawns for the piece. } ) 
+3. Bxg4 fxg4 $13 { ✔ Black keeps the pawn, although the opposite-coloured bishops give White fair compensation. However, Black’s best was clearly to take on e3, since it would be so passive to retreat with the knight, when White would have enjoyed a clear advantage. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187259/"]
+[Date "????.??.??"]
+[Round "7.105"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 427"]
+[Result "1-0"]
+[FEN "r1r3k1/pp3p2/4pp1p/2q5/b1nN4/3BP3/P3QPPP/1R3RK1 w - - 0 1"]
+
+ { 427. Alexander Alekhine – Jan Foltys, Podebrady 1936 } { _ } 1. { -KEY- } Nxe6 $1 ( 1. Rxb7 $16 { is strong enough for half a point. } ) 
+fxe6 2. Qg4+ Kh8 3. Rxb7 { Black has to give up the knight on c4 to defend against the mate, so White wins a pawn. } Rc7 4. Rxc7 { ✔ } Qxc7 5. Bxc4 $1 { +– Keeping the queens on with the weak black king in mind. However, since the alternative is also good, you do not need to make that decision before playing 1 Nxe6. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187261/"]
+[Date "????.??.??"]
+[Round "7.106"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 428"]
+[Result "0-1"]
+[FEN "2k1q3/ppp1r3/3brpp1/n2p1n2/3P1PNp/1PP2Q1P/P2BN1P1/3KRR2 b - - 0 1"]
+
+ { 428. William Winter – Alexander Alekhine, Nottingham 1936 } { _ } 1... { -KEY- } Nc4 $1 { Black gets access to the e3-square with a winning position if White does not take. } 2. bxc4 Qa4+ { ✔ } ( 2... dxc4 { and only then ...Qa4+ also gives a winning attack. The text move is strongest though. } ) 
+3. Kc1 Ba3+ 4. Kb1 Rb6+ { It will soon be mate. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187265/"]
+[Date "????.??.??"]
+[Round "7.107"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 429"]
+[Result "1-0"]
+[FEN "1r3rk1/pbpn2qp/1p1p1np1/3P1p2/1P5N/5PPB/PB5P/2QR1RK1 w - - 0 1"]
+
+ { 429. Alexander Alekhine – C.H.O’D. Alexander, Nottingham 1936 } { _ } 1. Bxf5 $1 gxf5 ( { The game saw } 1... Kh8 { (1–0, 27 moves) (.) } ) 
+2. Nxf5 Qh8 { The only square that doesn’t move into a fork. } 3. Nh6+ { Other moves are also winning, thanks to this weak square. } Kg7 4. Qg5# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187268/"]
+[Date "????.??.??"]
+[Round "7.108"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 430"]
+[Result "0-1"]
+[FEN "6k1/p6p/2p5/6pq/2P2rn1/2B5/PP4Q1/4R1K1 b - - 0 1"]
+
+ { 430. Savielly Tartakower – Alexander Alekhine, Nottingham 1936 } { _ } 1... Nh2 $1 { The knight continues to f3 if White does not take. } 2. Qxh2 Rg4+ ( { Or } 2... Qf3 { followed by 3...Rg4+ . } ) 
+3. Kh1 Rh4 $19 { ✔ Black wins the queen. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187272/"]
+[Date "????.??.??"]
+[Round "7.109"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 431"]
+[Result "1-0"]
+[FEN "rnb2rk1/2qpbpp1/p6p/2pPp3/Q3P3/2P1NN2/1P3PPP/3RKB1R w K - 0 1"]
+
+ { 431. Alexander Alekhine – Endre Steiner, Kemeri 1937 } { _ } 1. d6 $1 Bxd6 2. Nf5 $1 { +– ✔ The bishop is trapped. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187274/"]
+[Date "????.??.??"]
+[Round "7.110"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 432"]
+[Result "1-0"]
+[FEN "Rnk5/1p4pp/1Pp2pq1/2B1r3/1P6/7P/3r2PQ/5RK1 w - - 0 1"]
+
+ { 432. Alexander Alekhine – Samuel Reshevsky, Kemeri 1937 } { _ } 1. Rxb8+ $1 Kxb8 2. Qxe5+ $1 { ✔ Black resigned, as he will be mated. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187277/"]
+[Date "????.??.??"]
+[Round "7.111"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 433"]
+[Result "1-0"]
+[FEN "3Rnrk1/6pp/2r5/pR3p2/2q1pP2/Q1P3P1/P3P1BP/7K w - - 0 1"]
+
+ { 433. Alexander Alekhine – Max Euwe, Netherlands (14) 1937 } { _ } 1. { -KEY- } Rxf5 $1 Rxf5 ( { Euwe played } 1... Rcf6 { (1–0, 52 moves) (.) } ) 
+2. Rxe8+ { ✔ With a winning attack. After } Kf7 { The easiest win is: } 3. Qe7+ Kg6 4. Bxe4 $18 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187283/"]
+[Date "????.??.??"]
+[Round "7.112"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 434"]
+[Result "1-0"]
+[FEN "5rk1/p2q2pp/3p2r1/1ppPp3/2n1P3/P1P2P2/6PP/1QBRR2K b - - 0 1"]
+
+ { 434. Eliashoff/Kahn/Ros – Alexander Alekhine, Nice 1938 } { _ } 1... Rxf3 $1 { –+ Deflecting the important defender on g2. } 2. gxf3 $2 Qh3 $1 3. Rg1 Qxf3+ 4. Rg2 Qxg2# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187285/"]
+[Date "????.??.??"]
+[Round "7.113"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 435"]
+[Result "1-0"]
+[FEN "1n5r/R5pp/2rNpp2/2k5/8/4P3/1P2P1KP/3R4 w - - 0 1"]
+
+ { 435. Vladimirs Petrovs – Alexander Alekhine, Margate 1938 } { _ } 1. { -KEY- } b4+ $1 Kxb4 2. Rb7+ $1 { ✔ After two precise moves, there are several ways that lead to mate or a decisive material gain. } Kc3 ( 2... Kc5 3. Rb5 ) 
+3. Ne4+ Kc2 4. Rbb1 { 5 Rdc1# is inevitable. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187289/"]
+[Date "????.??.??"]
+[Round "7.114"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 436"]
+[Result "1-0"]
+[FEN "1r2r1k1/ppp2ppp/8/q1PP3b/5P2/4R1P1/P1Q3BP/1R4K1 w - - 0 1"]
+
+ { 436. Alexander Alekhine – Olivera, Montevideo 1939 } { _ } 1. Rxb7 $1 { ± ✔ White wins a pawn, since Black cannot take a rook without getting checkmated. } ( 1. Rxe8 Rxe8 2. Rxb7 { would allow sufficient counterplay after, for instance, } g6 { with the idea ...Re2 . } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187290/"]
+[Date "????.??.??"]
+[Round "7.115"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 437"]
+[Result "1-0"]
+[FEN "r2qkb1r/1pp1npp1/p1np3p/4p2b/4P3/1BNP1N1P/PPP2PP1/R1BQK2R w KQkq - 0 1"]
+
+ { 437. Alexander Alekhine – Arrais, Lisbon (simul) 1940 } { _ } 1. Nxe5 $1 Nxe5 ( 1... Bxd1 2. Bxf7 { ✔ } ) 
+2. Qxh5 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187294/"]
+[Date "????.??.??"]
+[Round "7.116"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 438"]
+[Result "1-0"]
+[FEN "5rk1/pp1q2pp/1np5/5pQ1/3P4/1P1N2RP/1P3PP1/6K1 w - - 0 1"]
+
+ { 438. Alexander Alekhine – A. Amores, Lisbon (simul) 1940 } { _ } 1. Nc5 $1 Qf7 ( 1... Qxd4 2. Ne6 { ✔ gives no salvation. } ) 
+2. Ne6 $1 { +– ✔ A double attack on f8 and g7. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187295/"]
+[Date "????.??.??"]
+[Round "7.117"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 439"]
+[Result "0-1"]
+[FEN "4r1k1/pp3pp1/2p3p1/5p1q/3P4/2PRNnPP/PP3PQ1/5K2 b - - 0 1"]
+
+ { 439. Max Bluemich – Alexander Alekhine, Krakow/Warsaw 1941 } { _ } 1... f4 $1 { Opening the fifth rank for the queen. } 2. gxf4 ( 2. Nc2 Nh4 $1 ( 2. gxf4 Nh2 { is also strong: } 3. Kg1 Qf5 $19 { picking up the rook } ( { Or } 3. gxf4 Qe2 $19 ) 
+ ) 
+ ( { Or even } 2. gxf4 Qb5 $19 ) 
+3. gxh4 Qe2 $1 4. Kg1 Qxd3 $19 { ✔ } ) 
+Qb5 $1 3. c4 ( 3. Ke2 Qxd3 ( { Or } 3. c4 Ne1 $1 4. Kxe1 Qxd3 ) 
+4. Kxd3 Ne1 5. Kd2 Nxg2 { ✔ } ) 
+Qxc4 $1 { –+ ✔ The knight is pinned. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187300/"]
+[Date "????.??.??"]
+[Round "7.118"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 440"]
+[Result "0-1"]
+[FEN "2r5/p3p1kp/q1n2pp1/8/1p6/1P2PP2/PN4PP/Q3K2R b - - 0 1"]
+
+ { 440. Herbert Weil – Alexander Alekhine, Lublin/Warsaw/Krakow 1942 } { _ } 1... Nd4 $1 { Opening up for the rook to enter on the second rank. } 2. exd4 ( 2. Qd1 { loses to } Rc1 { and other moves. } ) 
+Rc2 $1 3. Nc4 ( 3. Qd1 Rxb2 { ✔ } ( { Or } 3. Nc4 Qe6 4. Kf1 Rxb2 ) 
+ ) 
+Rxa2 ( { Or } 3... Qe6 4. Ne5 Rxg2 { when Black wins back the piece and White’s king cannot escape. } ( { Alekhine’s } 4... fxe5 { was even stronger, but only since White couldn’t castle – he had already moved his king. } ) 
+ ) 
+4. Qd1 Ra1 $19 { ✔ } ( { Or } 4... Qe6 5. Kf1 Qa6 ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187322/"]
+[Date "????.??.??"]
+[Round "7.119"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 441"]
+[Result "1-0"]
+[FEN "5r1k/pb4pp/1pnrp3/1Q3pq1/8/P1N2B2/1P3PPP/R3R1K1 w - - 0 1"]
+
+ { 441. Alexander Alekhine – Kurt Paul Richter, Munich 1942 } { _ } 1. { -KEY- } Ne4 $1 { A simple fork, but Black has some counterplay. } Qg6 $1 ( 1... Qe7 { defends the b7-bishop, but } 2. Nxd6 Nd4 3. Qe5 { wins – Black needed the queen on the g-file. } ) 
+2. Nxd6 { ✔ } ( 2. Bh5 $2 Rd5 $1 3. Qxd5 exd5 4. Bxg6 fxe4 $14 { with some compensation. } ) 
+Nd4 { Time for another exercise: } 3. Bxb7 $1 ( { Not as strong is: } 3. Nf7 $6 Qxf7 ( 3. Bxb7 Kg8 4. Ne5 $16 ) 
+4. Qe5 Nxf3 5. gxf3 $14 ) 
+Nxb5 4. Nxb5 $18 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187324/"]
+[Date "????.??.??"]
+[Round "7.120"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 442"]
+[Result "1-0"]
+[FEN "3r1rk1/2q2p1p/1n5Q/1pp1pp2/8/1BP4P/1P3PP1/R2R2K1 w - - 0 1"]
+
+ { 442. Alexander Alekhine – Klaus Junge, Lublin/Warsaw/Krakow 1942 } { _ } 1. Bxf7+ ( { The same idea is reached by } 1. Qg5 Kh8 2. Qf6 Kg8 3. Rxd8 Rxd8 4. Bxf7+ { , which is as strong. Full points! } ) 
+Qxf7 ( 1... Rxf7 2. Qg5+ { ✔ with a fork. } ( { While } 1... Kxf7 2. Qxh7 { ✔ wins the queen. } ) 
+ ) 
+2. Rxd8 Rxd8 ( { Instead the game ended: } 2... Na4 3. b3 { 1–0 } ) 
+3. Qg5+ $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187330/"]
+[Date "????.??.??"]
+[Round "7.121"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 443"]
+[Result "*"]
+[FEN "r1b3k1/pp2q1pp/1b3p2/3rp3/3N4/4P1P1/PP3P1P/R1BQ1RK1 w - - 0 1"]
+
+ { 443. Alexander Alekhine – Efim Bogoljubov, Salzburg 1943 } { _ } 1. Nf5 $1 Bxf5 ( 1... Rxd1 2. Nxe7 Kf7 3. Rxd1 Kxe7 { ✔ wins White an exchange. } ( { As does } 1... Qf7 2. Qxd5 $16 { ✔ } ( { Or } 1... Bxf5 1. Ne7 $16 ) 
+ ) 
+ ) 
+2. Qxd5+ $16 { ✔ (½–½, 44 moves) } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187333/"]
+[Date "????.??.??"]
+[Round "7.122"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 444"]
+[Result "1-0"]
+[FEN "2brq1k1/1pRn1r1p/p3p1p1/3nP1P1/4NP2/BP2Q1P1/P2R2B1/6K1 w - - 0 1"]
+
+ { 444. Alexander Alekhine – Ruzena Sucha, Prague 1943 } { _ } 1. { -KEY- } Rxd5 $1 { ✔ } exd5 2. Nd6 $18 { The threats against c8, e8, f7 and d5 are too much for Black. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187337/"]
+[Date "????.??.??"]
+[Round "7.123"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 445"]
+[Result "0-1"]
+[FEN "1r3rk1/p1p3b1/2Pp2Qp/2pP2pP/5q2/2N5/PP1RR1P1/2K5 b - - 0 1"]
+
+ { 445. Jaromir Florian – Alexander Alekhine, Prague 1943 } { _ } 1... Rxb2 $1 2. Kxb2 ( { Florian played on a pawn down: } 2. Qe4 { (0–1, 43 moves) (.) } ) 
+Qb4+ 3. Kc1 Qxc3+ 4. Qc2 Qa1+ ( { Or } 4... Rf1 { first. } ) 
+5. Qb1 Rf1+ $19 { ✔ Black wins the queen. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187349/"]
+[Date "????.??.??"]
+[Round "7.124"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 446"]
+[Result "0-1"]
+[FEN "8/6k1/1N2p3/p2b1p2/3P3p/2BK1P2/6P1/6b1 b - - 0 1"]
+
+ { 446. Francesco Lupi – Alexander Alekhine, Sabadell 1945 } { _ } 1... { -KEY- } Bxf3 $1 2. Be1 ( { The h-pawn is unstoppable after } 2. gxf3 h3 { . } ) 
+Bxg2 3. Bxh4 { Black wins not only a second pawn, but also a third, after (for example) Alekhine’s } e5 $19 { Which was enough to make White resign. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187784/"]
+[Date "????.??.??"]
+[Round "7.125"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 447"]
+[Result "0-1"]
+[FEN "Q7/ppp2kpp/8/2b5/4RP1q/7b/PPP3PP/3R3K b - - 0 1"]
+
+ { Max Euwe Let us repeat once more the methods by which we can increase our combinative skill: (1) by careful examination of the different types and by a clear understanding of their motives and their premises, (2) By memorising a number of outstanding as well as of common examples and solutions, (3) Frequent repetition (in thought, if possible) of important combinations, so as to develop the imagination. Strategy & Tactics in Chess (1937)447. Max Euwe – Richard Reti, Amsterdam (1) 1920 } { _ } 1... Bxg2+ $1 2. Kxg2 Qg4+ ( { Or } 2... Qf2 3. Kh3 Qf3 4. Kh4 Bf2 ( 4... g5 { also mates. } ) 
+ { with a mating attack. } ) 
+3. Kf1 Qf3+ ( 3... Qxd1 { is also good enough. } ) 
+4. Ke1 Qf2# { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187785/"]
+[Date "????.??.??"]
+[Round "7.126"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 448"]
+[Result "1-0"]
+[FEN "4r1k1/ppp2qpp/2r5/3N1P2/4p2n/1Q6/PPP3PP/3RR1K1 w - - 0 1"]
+
+ { 448. Max Euwe – Henri Weenink, Amsterdam 1920 } { _ } 1. Ne7+ $1 Rxe7 ( { Weenink gave up the exchange with: } 2... Kf8 3. Qxf7 ( { Or } 2... Rxe7 2. Nxc6 ) 
+Kxf7 4. Nxc6 { ✔ } ) 
+2. Rd8+ Re8 3. Rxe8# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187786/"]
+[Date "????.??.??"]
+[Round "7.127"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 449"]
+[Result "*"]
+[FEN "r5k1/p2b3p/2pb2p1/7R/2P5/1P4P1/PB6/6KB w - - 0 1"]
+
+ { 449. Max Euwe – Ernst Grünfeld, Gothenburg 1920 } { _ } 1. { -KEY- } Bd5+ $1 cxd5 2. Rxd5 { White enjoys an extra passed pawn, but with opposite-coloured bishops, he needs to use his king to break the blockade; Black has decent drawing chances. } Bf5 $5 ( { In the game, a draw was prematurely agreed after } 2... Kf7 3. Rxd6 ) 
+3. Rxd6 { ✔ } Bb1 $14 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187790/"]
+[Date "????.??.??"]
+[Round "7.128"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 450"]
+[Result "*"]
+[FEN "r4rk1/ppp1qpb1/2n1b2p/3p1p2/3P3N/2N1Q1PB/PPP2P1P/2KR3R b - - 0 1"]
+
+ { 450. Max Euwe – Adolf Olland, Amsterdam (match) 1921 } { _ } 1... { -KEY- } f4 $1 { Black wins a piece. } 2. gxf4 ( 2. Qxf4 Bxh3 { ✔ } ) 
+Qxh4 { ✔ } 3. f5 $1 { White has some counterplay, but Black is still clearly better. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187792/"]
+[Date "????.??.??"]
+[Round "7.129"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 451"]
+[Result "1-0"]
+[FEN "r3r3/pp3k2/q3bppB/2pQ4/1b1p2PP/8/1PP1N3/1NKR1R2 w - - 0 1"]
+
+ { 451. Max Euwe – Adolf Olland, Amsterdam (match) 1921 } { _ } 1. Rxf6+ $1 { Opening up the king’s position. } Kxf6 2. Rf1+ ( { Or } 2. Qg5 Kf7 3. Qf4 Ke7 4. Qc7 Bd7 5. Bg5+ ) 
+Bf5 ( 2... Ke7 3. Bg5 ) 
+3. Qd7 $1 { ✔ White has two threats: } ( 3. Qd7 -- 4. Bg7 { and } 4. Bg5 Ke5 5. Bf4 Kf6 ( 5. Qd7 Ke4 6. Ng3 ) 
+6. g5 ) 
+ { } ( { Defending against both with } 3. Qd7 Re7 { runs into } 4. Rxf5 gxf5 5. Qxf5 ) 
+ { } ( { Instead, Euwe drew after } 3. gxf5 $2 Qxe2 4. Qd6 Kf7 5. Qd5 Kf6 $11 ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187793/"]
+[Date "????.??.??"]
+[Round "7.130"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 452"]
+[Result "1-0"]
+[FEN "7r/pp1br2B/8/2k1Pp2/2p5/7R/PPP3P1/2K4R w - - 0 1"]
+
+ { 452. Max Euwe – H.V. von Hartingsvelt, Amsterdam 1922 } { _ } 1. Bxf5 $1 Rxh3 2. Bxh3 $16 { ✔ The bishop is saved by a lifeline, and White won a pawn (the e5-pawn was lost anyway) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187794/"]
+[Date "????.??.??"]
+[Round "7.131"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 453"]
+[Result "0-1"]
+[FEN "4kb1Q/1p3p2/2n1q3/5p2/3prBp1/3R2K1/PP4PP/5R2 b - - 0 1"]
+
+ { 453. Max Euwe – Rudolf Spielmann, Bad Pistyan 1922 } { _ } 1... Rxf4 $1 2. Kxf4 ( 2. Rxf4 Qe1 3. Rf2 f4+ { ✔ followed by 4...Qxf2. } ( { Or } 3. Kxf4 Ne5 { with a winning attack. } ) 
+ ) 
+Ne5 { ✔ A double threat: 3...Nxd3 and 3...Ng6+. } ( { There is also nothing wrong with } 2... Qe4 3. Kg5 Qxd3 ) 
+ ( { Or } 2... Qd6 3. Kg5 f6+ { winning a rook. } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187801/"]
+[Date "????.??.??"]
+[Round "7.132"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 454"]
+[Result "0-1"]
+[FEN "2b3k1/2p2rbp/1p1p2p1/p2Pq3/P1PNpr2/1P4PP/2BQRP2/1K1R4 b - - 0 1"]
+
+ { 454. Sturm – Max Euwe, Amsterdam 1923 } { _ } 1... Rxf2 $1 2. Rxf2 ( { Sturm gave up a piece with: } 2. Bxe4 Qxd4 { (0–1, 39 moves) (.) } ) 
+e3 3. Re2 exd2 4. Rxe5 $19 { ✔ Black has good winning chances after either recapture. White’s kingside pawns have no defenders. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187805/"]
+[Date "????.??.??"]
+[Round "7.133"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 455"]
+[Result "1-0"]
+[FEN "r3rbk1/pbq2ppp/1p3n2/2pPN3/5P2/1P4P1/PB4BP/R2Q1RK1 w - - 0 1"]
+
+ { 455. Max Euwe – Jacques Davidson, Amsterdam (9) 1924 } { _ } 1. d6 $1 Qb8 ( 1... Bxd6 2. Bxb7 Qxb7 3. Qxd6 { ✔ } ) 
+2. d7 Rd8 3. Nc6 $1 { +– ✔ White wins an exchange. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187807/"]
+[Date "????.??.??"]
+[Round "7.134"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 456"]
+[Result "0-1"]
+[FEN "2kr3r/pppqp1bp/6p1/n4p2/1P1PpP2/4P2P/P1PN2P1/R1BQ1RK1 b - - 0 1"]
+
+ { 456. Willem Schelfhout – Max Euwe, Amsterdam 1927 } { _ } 1... { -KEY- } Bxd4 $1 2. exd4 Qxd4+ 3. Kh1 Qxa1 $19 { ✔ Black is an exchange up. And White does not win a piece with } 4. bxa5 { Due to: } e3 $19 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187811/"]
+[Date "????.??.??"]
+[Round "7.135"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 457"]
+[Result "1-0"]
+[FEN "r3kb1r/ppp2ppp/2nqb3/3n2N1/2Bp4/8/PPP2PPP/RNBQR1K1 w kq - 0 1"]
+
+ { 457. Max Euwe – Sonnenburg, Amsterdam 1927 } { _ } 1. { -KEY- } Nxf7 $1 Kxf7 2. Qf3+ { The king does not want to go to the e-file, but the alternatives are even worse. } Ke7 ( { A } 2... Kg6 3. Bd3 Bf5 4. Qxf5 ( { B } 2... Kg8 3. Rxe6 $1 Qxe6 4. Qxd5 { ✔ (mating) (.) } ( { Or } 3... Ke7 3. Bxd5 { (winning) (.) } ) 
+ ) 
+ ) 
+3. Bxd5 { ✔ White has a huge advantage due to the exposed black king, but it is not easily winning. The best line for both seems to be } Ne5 4. Qh5 Qxd5 5. Rxe5 Qc6 $18 { When White should develop a piece and then adjust his attacking ideas depending on Black’s reply. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187815/"]
+[Date "????.??.??"]
+[Round "7.136"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 458"]
+[Result "1-0"]
+[FEN "2r5/qpBnrkpb/p2Qpp2/3p3p/6nN/1P1P2P1/P3PPBP/2R2RK1 w - - 0 1"]
+
+ { 458. Max Euwe – Valentin Marin y Llovet, London (ol) 1927 } { _ } 1. { -KEY- } Bxd5 $1 exd5 2. Qxd5+ Kf8 ( 2... Ke8 3. Qxh5+ { ✔ wins a piece. } ) 
+3. Qxh5 { ✔ There is only one way to defend both the bishop on h7 and the knight on g4. } Nh6 4. Bd6 $1 { +– Black has two pieces for a rook, but fighting against three pawns with a weak king is far too much. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187818/"]
+[Date "????.??.??"]
+[Round "7.137"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 459"]
+[Result "*"]
+[FEN "5rk1/ppQ2ppp/6q1/3rP3/3p1R2/P7/1P4PP/5RK1 w - - 0 1"]
+
+ { 459. Edgard Colle – Max Euwe, Amsterdam (1) 1928 } { _ } 1. Rxf7 $1 Re8 $16 { White is satisfied to restore material equality. Both players have passed pawns, but only White has active heavy pieces, attacking the queenside pawns. White should not trade off his active rook as he did in the game (0–1, 35 moves) (and instead either push the e-pawn) (best) } ( { or take the b-pawn either immediately or after the intermediate } 1... Re8 1. Qe7 { . } ) 
+ ( { Instead } 1... Rxf7 2. Qc8 { ✔ is mate. } ) 
+ ( { White also wins after: } 1... Qxf7 2. Rxf7 Rxf7 3. Qc8 $1 Rf8 4. Qe6+ { ✔ } ) 
+
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1187819/"]
+[Date "????.??.??"]
+[Round "7.138"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 460"]
+[Result "1-0"]
+[FEN "6k1/5pb1/1p1N3p/p5p1/5q2/Q6P/PPr5/3RR2K w - - 0 1"]
+
+ { 460. Milan Vidmar Sr. – Max Euwe, Karlsbad 1929 } { _ } 1. Re8+ $1 Bf8 ( 1... Kh7 2. Qd3+ { ✔ wins the rook. } ) 
+2. Rxf8+ $1 Kxf8 3. Nf5+ $1 { Euwe resigned here. } Kg8 4. Qf8+ ( 4. Rd8 $2 Kh7 5. Rh8 Kg6 $1 { and White has to fight for a draw after exchanging queens, for example: } 6. Nh4 Kh5 7. Qf3 Qxf3 8. Nxf3 Rxb2 $15 ) 
+Kxf8 5. Rd8# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192878/"]
+[Date "????.??.??"]
+[Round "7.139"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 461"]
+[Result "0-1"]
+[FEN "1k6/1p5p/p2b4/3p1p2/P1pP1P1q/2PrB1rP/1P2RQP1/4R2K b - - 0 1"]
+
+ { 461. Frederick Yates – Max Euwe, Hastings 1930 } { _ } 1... Rdxe3 $1 2. Rxe3 Rxh3+ { The queen is suddenly undefended. } 3. Rxh3 Qxf2 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192879/"]
+[Date "????.??.??"]
+[Round "7.140"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 462"]
+[Result "1-0"]
+[FEN "3r2k1/1p2Qb1p/1q3pp1/pP1p4/P2N3P/2P5/5PP1/4R1K1 w - - 0 1"]
+
+ { 462. Max Euwe – A.A. Abdul Satar, Indonesia (simul) 1930 } { _ } 1. Re6 $1 Bxe6 2. Nxe6 $18 { ✔ Black must give up the queen to avoid mate. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192880/"]
+[Date "????.??.??"]
+[Round "7.141"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 463"]
+[Result "1-0"]
+[FEN "r3qrk1/2R1b1pp/1p2p3/3b1p2/1P1Nn3/P3B1P1/5PBP/1Q1R2K1 w - - 0 1"]
+
+ { 463. Max Euwe – Salo Landau, Amsterdam (4) 1931 } { _ } 1. Nxf5 $1 { White wins a pawn. } exf5 ( 1... Rxf5 2. Bxe4 { ✔ } ) 
+2. Rxd5 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192881/"]
+[Date "????.??.??"]
+[Round "7.142"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 464"]
+[Result "0-1"]
+[FEN "5rk1/1Q3pp1/1N1Bp2p/p2p4/3P4/2nqP3/P2b1PPP/5RK1 b - - 0 1"]
+
+ { 464. Max Euwe – Eduard Spanjaard, The Hague 1932 } { _ } 1... { -KEY- } Ne2+ $1 2. Kh1 Ng3+ $1 3. hxg3 Qxf1+ $19 { ✔ } 4. Kh2 Qxf2 $1 ( { Or } 4... Be1 5. Bxf8 Bxf2 { with the same idea as the game continuation. } ( 4... Rd8 5. Qe7 Rxd6 6. Qxd6 Qxf2 { is also winning, but not as convincingly. } ) 
+ ) 
+5. Bxf8 Bxe3 $1 ( { Instead the game turned around after } 5... Kxf8 $4 6. Nd7 { when it suddenly is White who gives mate: } Kg8 7. Qc8 Kh7 8. Nf8 Kg8 9. Ng6 Kh7 10. Ne7 $1 { 1–0 } ) 
+ { The capture on e3 forces checkmate, for example: } 6. Qb8 Qg1+ 7. Kh3 Qh1+ 8. Kg4 Qd1+ 9. Kh4 g5+ 10. Kh3 Qh5# 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192882/"]
+[Date "????.??.??"]
+[Round "7.143"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 465"]
+[Result "0-1"]
+[FEN "3r1rk1/pp3ppp/2p5/8/4qP2/2RBP2b/PP2Q1PP/5R1K b - - 0 1"]
+
+ { 465. Max Euwe – G. Boersma, Rotterdam (simul) 1933 } { _ } 1... { -KEY- } Rxd3 $1 2. Rxd3 ( 2. Qxd3 Qxg2 { ✔ } ) 
+Bxg2+ 3. Kg1 ( 3. Qxg2 Qxd3 { ✔ Black is a pawn up, and with White’s open king, it is a decisive advantage. } ) 
+Bxf1 { ✔ } 4. Qxf1 $19 { White kept control over the d-file, however he can do nothing active since he must defend his e-pawn. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192883/"]
+[Date "????.??.??"]
+[Round "7.144"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 466"]
+[Result "0-1"]
+[FEN "1r2kb1r/p2n1ppp/2Q1pn2/8/3R4/2B5/qPP1NPPP/2KR4 b k - 0 1"]
+
+ { 466. William Felderhof – Max Euwe, The Hague/Leiden/Scheveningen 1933 } { _ } 1... Ba3 $1 { White has dangerous threats against the uncastled black king, so Black gives up a piece to get to safety, and then continue with his own attack. } 2. bxa3 ( { The best move. In the game, White was too kind with } 2. Qa4 $2 { , as there was no reason to allow Black to keep the piece with } Bxb2 $19 { . } ( { Also bad is } 2. Rxd7 $2 Bxb2 $1 3. Bxb2 Qxb2+ { ✔ when White does not win anything on d7 , since his king will obstruct the d-file. } ) 
+ ) 
+O-O $1 { ∓ ✔ Black has a promising attack with threats such as ...Rfc8 and ...Qxa3+. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192884/"]
+[Date "????.??.??"]
+[Round "7.145"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 467"]
+[Result "1-0"]
+[FEN "2nq2k1/2r3pp/p1p1rp2/PpQ1N3/1P1PR3/8/5PPP/2R3K1 w - - 0 1"]
+
+ { 467. Max Euwe – Alexander Alekhine, Zurich 1934 } { _ } 1. Nf7 $1 Qe8 ( 1... Kxf7 2. Qh5 $1 Ke7 3. Rxe6 Kxe6 4. Re1 $1 { with forced mate: } Kd6 5. Qc5 Kd7 6. Qf5 Kd6 7. Qe6 { ✔ } ) 
+2. Rxe6 $1 Qxe6 3. Nd8 $1 { ✔ White wins the pawn on c6 with good winning chances. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192885/"]
+[Date "????.??.??"]
+[Round "7.146"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 468"]
+[Result "1-0"]
+[FEN "rnbq1rk1/pp2p1bp/2p2pp1/3p4/2PP4/2NBP1P1/PP3PP1/R2QK1NR w KQ - 0 1"]
+
+ { 468. Max Euwe – Alexander Alekhine, Netherlands (14) 1935 } { _ } 1. Rxh7 $1 Kxh7 { Alekhine played the unchallenging 1...f5+–. } 2. Qh5+ Kg8 3. Bxg6 $18 { ✔ The only defence against mate is to give up a whole rook. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192886/"]
+[Date "????.??.??"]
+[Round "7.147"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 469"]
+[Result "1-0"]
+[FEN "3r2k1/q5pp/4bp2/prb1p3/8/3P2P1/n1RNPPBP/B2Q1RK1 w - - 0 1"]
+
+ { 469. Efim Bogoljubov – Max Euwe, Zandvoort 1936 } { _ } 1. Rxa2 $1 Bxa2 2. Qa4 $18 { ✔ A double threat, and the pieces cannot defend each other. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192887/"]
+[Date "????.??.??"]
+[Round "7.148"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 470"]
+[Result "1-0"]
+[FEN "rn1r2k1/1b2bppp/p7/2pp2B1/4q3/1B2PN2/PP2QPPP/2RR2K1 w - - 0 1"]
+
+ { 470. Max Euwe – Theodore Tylor, Nottingham 1936 } { _ } 1. { -KEY- } Rxc5 $1 ( { As simple as it looks; the bishop on e7 is pinned. But } 1. Bc2 $6 Qe6 2. Bf5 Qd6 $16 { does not win a pawn. } ) 
+ ( { White won smoothly after: } 1. Rxc5 Bxc5 2. Bxd8 $16 { ✔ (1–0, 25 moves) (.) } ) 
+Bxg5 2. Nxg5 $1 ( { ✔ } 2. Rc7 $16 { is also a pawn up. } ) 
+Qe7 { A double threat, but there are many remedies. We will give the easiest solution for a human as the main line and three alternatives. } 3. Bxd5 ( { A } 3. Qh5 h6 4. Qxf7 Qxf7 5. Nxf7 Kxf7 6. Rc7 Rd7 7. Rxb7 Rxb7 8. Bxd5 Kf6 9. Bxb7 { with three extra pawns. } ( { B } 3. Qc2 Qxg5 4. Bxd5 Bxd5 5. Rcxd5 { and Black loses due to the back-rank problems. } ) 
+ ( { C } 3. Nxf7 { and White continues with a capture on d5 , after which the rook on a8 is in trouble. } Kxf7 ( 3. Bxd5 Qxf7 4. Rdxd5 $1 Bxd5 5. Bxd5 Rxd5 6. Rc8+ ) 
+4. Rcxd5 Rxd5 5. Bxd5 Bxd5 6. Qh5 $1 Kf8 7. Qxd5 Ra7 8. Qf5 ( { But not } 8. Qd8 $2 Qe8 $14 ) 
+Kg8 9. Qc8+ ) 
+ ) 
+Bxd5 4. Rcxd5 $18 { The knight on g5 is defended. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192888/"]
+[Date "????.??.??"]
+[Round "7.149"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 471"]
+[Result "0-1"]
+[FEN "6k1/1p3p2/5Qp1/2q1p1p1/P3P1P1/1r5P/3R2K1/8 b - - 0 1"]
+
+ { 471. Fritz Sämisch – Max Euwe, Bad Nauheim 1937 } { _ } 1... Rg3+ $1 ( 1... Rd3 { also defends against the mate, but is a tempo and thus a pawn worse. } 2. Rxd3 Qc2 3. Kg1 Qxd3 4. Qxe5 $17 ) 
+2. Kxg3 Qe3+ ( { Or } 2... Qc3 ) 
+3. Qf3 Qxd2 $19 { ✔ Black exchanges queens or wins the e4-pawn with check. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192889/"]
+[Date "????.??.??"]
+[Round "7.150"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 472"]
+[Result "1-0"]
+[FEN "rnbqkbnr/p4ppp/2p5/1p6/2BpP3/2N2N2/PP3PPP/R1BQK2R w KQkq - 0 1"]
+
+ { 472. Alexander Alekhine – Max Euwe, Netherlands (6) 1937 } { _ } 1. Nxb5 $1 Ba6 ( 1... cxb5 2. Bd5 { ✔ } ) 
+2. Qb3 $1 { +– } ( 2. Qxd4 Qxd4 3. Nfxd4 { is also good enough – Black can’t take on b5 due to the same reason as before. } ) 
+ ( { But White should avoid } 2. Na3 $2 Bxa3 3. Bxa6 Bb4 $19 { . In the game, he is ready to rescue the knight. } ) 
+Bxb5 ( { Euwe played: } 2... Qe7 3. O-O { (1–0, 23 moves) (.) } ) 
+3. Bxf7+ Kd7 { ✔ The black king is a decisive factor – you don't have to calculate any longer. Seeing the trick with Bd5 trapping the rook is the main pattern in this exercise. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192890/"]
+[Date "????.??.??"]
+[Round "7.151"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 473"]
+[Result "1-0"]
+[FEN "r4r2/n1q1k1pb/1p2P2p/p1p1P3/P4QP1/B1P5/B6P/2R2RK1 w - - 0 1"]
+
+ { 473. Max Euwe – Siegfried van Mindeno, Amsterdam 1938 White has a winning advantage after any queen retreat, but can decide the game in a few moves by going the other way. } 1. Qf7+ $1 Rxf7 2. Rxf7+ Kd8 3. Rd1+ $1 Kc8 4. Rxc7+ Kxc7 5. Rd7+ { ✔ The active rook together with the light-squared bishop and passed pawns spells the end. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192891/"]
+[Date "????.??.??"]
+[Round "7.152"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 474"]
+[Result "1-0"]
+[FEN "2r5/1p3Qpk/3q1n1p/2p1N3/1n6/6P1/5PBP/R5K1 w - - 0 1"]
+
+ { 474. Max Euwe – Salo Flohr, Netherlands 1938 } { _ } 1. Be4+ $1 Kh8 ( 1... Nxe4 { unblocks the route to the f5-square: } 2. Qf5 Kg8 3. Qxc8+ { ✔ } ) 
+2. Ng6+ ( 2. Qxb7 { is also winning. } ) 
+Kh7 3. Ne7+ $18 { ✔ White takes on c8. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192892/"]
+[Date "????.??.??"]
+[Round "7.153"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 475"]
+[Result "1-0"]
+[FEN "r1bq1rk1/ppp1b1pp/8/3nnp2/8/4P1PN/PP1N1PBP/R1BQ1RK1 w - - 0 1"]
+
+ { 475. Max Euwe – Nicolaas Cortlever, Beverwijk 1940 } { _ } 1. Nc4 $1 ( { +– Both black knights are hanging and } 1. Nc4 Nxc4 2. Bxd5 { ✔ } ( { Or } 1. Qxd5 { comes with check and picks up the second knight. } ) 
+ ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1192925/"]
+[Date "????.??.??"]
+[Round "7.154"]
+[White "5.3) Intermediate Exercises I"]
+[Black "Exercise 476"]
+[Result "1-0"]
+[FEN "4r1k1/2q2p1p/p5pB/1pb2PPn/3Q4/1B5P/PP3P2/R5K1 w - - 0 1"]
+
+ { 476. Max Euwe – Haije Kramer, Netherlands (3) 1941 } { _ } 1. Bxf7+ $1 ( 1. Rc1 { would be winning, if it were not for: } Qg3 $1 ( 1. Bxf7+ Rc8 2. Bxf7 $1 ) 
+ ( { Or } 1. Bxf7+ Re5 2. Bd5 $1 ) 
+2. fxg3 Bxd4 3. Kg2 Re2 4. Kf3 Re3 { With perpetual check. } ) 
+Qxf7 ( 1... Kxf7 2. Qd5 { ✔ with mate. } ) 
+2. Qxc5 $16 { ✔ The point behind White’s little combination was to exchange bishops to keep his king safe. He is still a pawn up when Black captures on f5, although the isolated bishop on h6 gives Black compensation. If you evaluated this position as dangerous for White and deliberately allowed the draw, you also get full points. } 
+ 1-0

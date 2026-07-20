@@ -1,0 +1,2880 @@
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193885/"]
+[Date "????.??.??"]
+[Round "9.1"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 527"]
+[Result "0-1"]
+[FEN "2r2rk1/1p3pp1/4n3/1P1Rn1q1/4P2p/7P/2P2QN1/R4BK1 b - - 0 1"]
+
+ { 527. Enrico Paoli – Vassily Smyslov, Venice 1950 } { _ } 1... Rxc2 $1 2. Qxc2 ( 2. Rxe5 { defends against the check on f3, but the problem is the undefended rook on a1: } Qxe5 3. Qxc2 Qxa1 { ✔ } ) 
+Nf3+ 3. Kf2 ( 3. Kh1 Qg3 { ✔ and 4...Qh2/Qg1#. } ) 
+Qg3+ $1 4. Ke2 Nfd4+ ( { Or } 4... Ned4 $19 ) 
+5. Kd1 Nxc2 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193886/"]
+[Date "????.??.??"]
+[Round "9.2"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 528"]
+[Result "1-0"]
+[FEN "bq3rk1/2pnnppp/3p1b2/1p1Pp3/4P3/NBP2N1P/1P3PP1/2BQR1K1 w - - 0 1"]
+
+ { 528. Isaak Boleslavsky – Vassily Smyslov, Moscow 1950 } { _ } 1. Nxb5 $1 Qxb5 ( { Black played: } 2... c6 { (1–0, 83 moves) (.) } ) 
+2. Ba4 $16 ( { ✔ There would follow 3.Bxd7 . } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193888/"]
+[Date "????.??.??"]
+[Round "9.3"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 529"]
+[Result "1-0"]
+[FEN "8/1q4kp/2np1p2/4p3/2PpP2P/6P1/r1PQ2BK/5R2 w - - 0 1"]
+
+ { 529. Vassily Smyslov – Efim Geller, Moscow 1951 } { _ } 1. Rxf6 $1 Kxf6 ( 1... Qe7 $18 { was played in the game (1–0, 48 moves) (.) } ) 
+2. Qh6+ Kf7 3. Qxh7+ Kf6 4. Qxb7 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193889/"]
+[Date "????.??.??"]
+[Round "9.4"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 530"]
+[Result "0-1"]
+[FEN "8/pR6/4p1k1/2p1P1rn/P3R3/4N1P1/4r2P/6K1 b - - 0 1"]
+
+ { 530. Gideon Stahlberg – Vassily Smyslov, Stockholm 1954 } { _ } 1... { -KEY- } Nxg3 $1 2. hxg3 ( 2. Rg4 { does not keep the material balance, for example: } Ne4 3. Rxg5 Nxg5 4. Nc4 Re4 5. Nd6 Rxa4 $15 ) 
+Rxg3+ 3. Kf1 Rexe3 4. Rxe3 Rxe3 5. Rxa7 { ✔ White should draw, but Black is pressing. That is quite a difference from the starting position, where White was a pawn up. } Kf5 $17 { 0–1, 64 moves } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193891/"]
+[Date "????.??.??"]
+[Round "9.5"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 531"]
+[Result "1-0"]
+[FEN "2r3k1/pppqrpb1/3n1npp/3Pp3/P3P3/BP3NP1/2R1QPBP/2R3K1 w - - 0 1"]
+
+ { 531. Vassily Smyslov – Wolfgang Unzicker, Hastings 1954 } { _ } 1. Bh3 $1 Qxh3 2. Bxd6 $18 { ✔ White chooses between the c7- and e5-pawns. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193898/"]
+[Date "????.??.??"]
+[Round "9.6"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 532"]
+[Result "1-0"]
+[FEN "3n4/pp3p2/4k2p/1PP1p3/4NP2/Pb2K3/6BP/8 w - - 0 1"]
+
+ { 532. Vassily Smyslov – Laszlo Szabo, Hastings 1954 } { _ } 1. c6 $1 { Clearing c5 for the knight. } exf4+ 2. Kxf4 bxc6 { The only way to stop 3 c7. } 3. Nc5+ Kd6 4. Nxb3 $18 { ✔ (1–0, 43 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193900/"]
+[Date "????.??.??"]
+[Round "9.7"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 533"]
+[Result "0-1"]
+[FEN "3r2k1/2R2pp1/7B/p3p3/qb4Q1/7P/1P3PPK/2r5 b - - 0 1"]
+
+ { 533. Paul Keres – Vassily Smyslov, Moscow 1955 } { _ } 1... Rh1+ $1 { Magnet sacrifice. } 2. Kxh1 ( { Keres played } 2. Kg3 { . Without the rook hanging on c1 , Black can play } g6 { with an extra rook. } ( { Or go for a winning attack with } 3. Kxh1 Rd3 { . } ) 
+ ) 
+Qd1+ $1 3. Kh2 Qxg4 4. hxg4 gxh6 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193902/"]
+[Date "????.??.??"]
+[Round "9.8"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 534"]
+[Result "*"]
+[FEN "2r3k1/p1r1qp1p/1p3np1/nP2p1N1/7Q/3N2P1/P3PPKP/2RR4 w - - 0 1"]
+
+ { 534. Vassily Smyslov – Miguel Najdorf, Moscow 1956 } { _ } 1. Nxh7 $1 { ± White won a pawn, since } Nxh7 { isn’t possible: } 2. Qxe7 Rxe7 3. Rxc8+ $18 { ✔ Najdorf fought on with 1...Kg7 and made a draw. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193905/"]
+[Date "????.??.??"]
+[Round "9.9"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 535"]
+[Result "1-0"]
+[FEN "r1bb1r1k/p4ppp/2p2n1N/7Q/2p5/2B2N2/qPP2PPP/2KR3R w - - 0 1"]
+
+ { 535. Mikhail Tal – Vassily Smyslov, Bled/Zagreb/Belgrade 1959 } { _ } 1. Qxf7 $1 ( 1. Nxf7 $2 Kg8 2. Nh6 gxh6 3. Qxh6 $11 { and White holds the balance after some accuracy. The game move highlights the awkward placement of the black bishops. } ) 
+Qa1+ ( 1... Rxf7 2. Rxd8 Rf8 3. Rxf8 { mate ✔ } ) 
+2. Kd2 Rxf7 ( 2... Qxd1 3. Rxd1 ( { Or } 2... Rxf7 2. Kxd1 Rxf7 4. Nxf7 Kg8 3. Nxd8 ) 
+Rxf7 4. Nxf7 Kg8 5. Nxd8 { ✔ } ) 
+3. Nxf7+ Kg8 4. Rxa1 $18 { ✔ (1–0, 26 moves) } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193949/"]
+[Date "????.??.??"]
+[Round "9.10"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 536"]
+[Result "0-1"]
+[FEN "1r4k1/3q1p2/p4P1p/2r1p1bQ/4p3/2P3R1/P5PP/5R1K b - - 0 1"]
+
+ { 536. Robert Fischer – Vassily Smyslov, Bled/Zagreb/Belgrade 1959 Black has a large material advantage, but is under attack. } 1... { -KEY- } Qf5 $1 2. Kg1 ( 2. Qd1 Qxf1 3. Qxf1 Rcb5 { ✔ regains the queen with a winning material advantage. } ( { And } 2. Qe2 { can be met in the same way, or with } Rb2 3. Qe1 Qg6 4. h4 e3 { . } ) 
+ ) 
+Qg6 $1 { –+ ✔ Black managed to defend his king, retaining a winning material advantage. } 3. Qe2 Rc6 ( { Even better is: } 3... Rcb5 $1 4. h4 Rb2 5. Qe1 ( 4... Rc6 4. Qd1 e3 ) 
+e3 6. hxg5 e2 { . } ) 
+4. h4 Rxf6 { Still, Black had enough pawns to win (48 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193950/"]
+[Date "????.??.??"]
+[Round "9.11"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 537"]
+[Result "0-1"]
+[FEN "3r4/1q5k/p3p1pp/2p1Rp1n/2P2P2/P4b1P/1PB4K/2B3Q1 b - - 0 1"]
+
+ { 537. Nikolac Bakulin – Vassily Smyslov, Moscow 1961 } { _ } 1... Qxb2 $1 2. Bxb2 Rd2+ $19 { ✔ Black wins back the queen, and then both bishops. In the game, 2 Re2–+ limited the loss to a second pawn, but even that was too much (0–1, 41 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193952/"]
+[Date "????.??.??"]
+[Round "9.12"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 538"]
+[Result "1-0"]
+[FEN "4b3/r4kp1/4Rn1p/p4p2/P4N2/6P1/P1r3BP/4R1K1 w - - 0 1"]
+
+ { 538. Vassily Smyslov – Ratmir Kholmov, Baku 1961 } { _ } 1. Rxf6+ $1 ( 1. Rxe8 { would win if not for } Rxg2 $1 2. Kxg2 Nxe8 { , as pointed out by several readers. } ) 
+Kxf6 ( 1... gxf6 { shows why the knight had to go: } 2. Bd5 $1 Kf8 3. Ne6 { with beautiful coordination of the white pieces. } Kf7 ( 3... Ke7 { going for the d5-bishop does not help because of the bishop on e8: } 4. Nd4 Kd6 5. Nxc2 Kxd5 6. Rxe8 { ✔ } ) 
+4. Nd4 $1 Kf8 5. Nxc2 { ✔ } ) 
+2. Rxe8 $16 { ✔ By keeping the rooks on the board, White can play for an attack (1–0, 43 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193953/"]
+[Date "????.??.??"]
+[Round "9.13"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 539"]
+[Result "1-0"]
+[FEN "7k/p6p/2P1nNp1/4rbP1/3p3P/P3P3/3KB3/7R w - - 0 1"]
+
+ { 539. Vassily Smyslov – Hector Rossetto, Mar del Plata 1962 } { _ } 1. { -KEY- } e4 $1 ( 1. exd4 Nxd4 $11 { is a double threat. } ) 
+Bxe4 2. Nxe4 Rxe4 $18 { ✔ By forcing Black’s rook to an unpleasant square, while keeping the king away from checks, White has made the c-pawn a winner. Most moves win, among them Smyslov’s: } 3. Rb1 Re3 4. Rb8+ Kg7 5. Bc4 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193954/"]
+[Date "????.??.??"]
+[Round "9.14"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 540"]
+[Result "0-1"]
+[FEN "2r5/5pk1/4pqp1/p4p2/5P2/QPr3PP/P2R3K/4R3 b - - 0 1"]
+
+ { 540. Georgi Tringov – Vassily Smyslov, Havana 1965 } { _ } 1... Rxg3 $1 2. Kxg3 ( 1. Qxa5 Qh4 { ✔ 0–1 was the game, with mate. } ) 
+Qc3+ 3. Kf2 Qxd2+ $19 { ✔ Black either picks up the f4-pawn with check or forces mate. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193955/"]
+[Date "????.??.??"]
+[Round "9.15"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 541"]
+[Result "0-1"]
+[FEN "3r1rk1/1p4p1/p1p1qpQ1/8/1P3Pp1/P2R2Pn/1B2P2P/3R1K2 b - - 0 1"]
+
+ { 541. Vassily Smyslov – Eleazar Jimenez Zerquera, Havana 1965 } { _ } 1... Qe3 $1 2. Ke1 $1 ( { The only defence against mate. } 2. Rxe3 Rxd1 3. Kg2 Rg1 { ✔ } ) 
+Qg1+ $1 3. Kd2 Rxd3+ $1 4. exd3 ( 4. Qxd3 { This would have been possible if Black checked with the queen on f2 , but now there's a nice tactic. } Qxd1 $1 5. Kxd1 Nf2+ { ✔ } ) 
+Qxh2+ 5. Kc3 Qxg3 $19 { It’s too many pawns (0–1, 59 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193957/"]
+[Date "????.??.??"]
+[Round "9.16"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 542"]
+[Result "1-0"]
+[FEN "r3r1k1/p3q3/1pn1b1pB/2p1PpN1/5P1Q/7R/P1p3PP/4R1K1 w - - 0 1"]
+
+ { 542. Efim Geller – Vassily Smyslov, Moscow 1965 } { _ } 1. Bf8 $1 { White could maybe have postponed the sacrifice for one move, although that would be somewhat weaker – Black had no sufficient defence. } Kxf8 ( 1... Qxf8 2. Qh7 { ✔ } ( { Or } 1... Kxf8 1. Qh8 ) 
+ ) 
+2. Qh8+ Bg8 3. Rh7 $1 { +– ✔ Taking the queen with the rook is stronger, since there is more to come with e5-e6 and Qf6+. } ( { Geller played } 3. Nh7 $6 Kf7 4. e6 Qxe6 5. Ng5 Ke7 6. Nxe6 Bxe6 7. Qg7 Kd6 { when White is probably winning, but not easily (1-0, 60 moves). } ) 
+ ( 3. e6 $2 Qd8 $17 { and there is no follow-up. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1193960/"]
+[Date "????.??.??"]
+[Round "9.17"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 543"]
+[Result "1-0"]
+[FEN "5n2/3bp1r1/1r1p3k/p1p2pNp/1nP2P1P/1PN1PB1K/P5R1/6R1 w - - 0 1"]
+
+ { 543. Vassily Smyslov – Antonio Magrin, Lugano (ol) 1968 } { _ } 1. Nf7+ $1 Rxf7 2. Rg5 $18 { ✔ The only defence against 36.Rxh5 mate is to give back the piece, when White still has a winning attack (1–0, 41 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194003/"]
+[Date "????.??.??"]
+[Round "9.18"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 544"]
+[Result "0-1"]
+[FEN "1br4k/pp4pp/8/2n1q2b/P7/6PP/1P1NnPBK/R1B1NQ2 b - - 0 1"]
+
+ { 544. Donald Byrne – Vassily Smyslov, Lugano (ol) 1968 } { _ } 1... { -KEY- } Nxg3 $1 2. fxg3 Qxg3+ 3. Kg1 Qh2+ { ✔ Black has a winning attack. } 4. Kf2 Bg3+ { There are other moves as well. } 5. Ke3 Bxe1 { It will soon be mate. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194044/"]
+[Date "????.??.??"]
+[Round "9.19"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 545"]
+[Result "0-1"]
+[FEN "5rk1/R5pp/4p1q1/1p2Q3/2p2nN1/2Pr3P/1P3PP1/R5K1 b - - 0 1"]
+
+ { 545. Mikhail Tal – Vassily Smyslov, Herceg Novi (blitz) 1970 } { _ } 1... { -KEY- } Nxh3+ $1 ( 1... h5 2. Ra8 { and we have an equal position. } ) 
+2. gxh3 Rxh3 { It is not possible to save the knight on g4. } 3. Qd4 Rd3 $19 { 0–1, 39 moves } ( { Or } 3... h5 { . } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194046/"]
+[Date "????.??.??"]
+[Round "9.20"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 546"]
+[Result "1-0"]
+[FEN "4k1r1/pQ1n1p1R/1pq5/5P2/2r5/P7/5PB1/3R2K1 w - - 0 1"]
+
+ { 546. Leonid Stein – Vassily Smyslov, Moscow 1972 } { _ } 1. Rh8 $1 ( { The g2-bishop is unpinned and White wins material. Stein executed the same motif with: } 1. Qxc6 Rxc6 2. Rh8 { (1–0, 35 moves) (.) } ) 
+Qxb7 2. Rxg8+ Ke7 3. Bxb7 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194047/"]
+[Date "????.??.??"]
+[Round "9.21"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 547"]
+[Result "1-0"]
+[FEN "rqr3k1/1b1nbppp/ppnpp3/8/N1PNP3/1P4P1/PB2QPBP/2RR2K1 w - - 0 1"]
+
+ { 547. Vassily Smyslov – Roman Dzindzichashvili, Moscow 1972 } { _ } 1. Nxe6 $1 fxe6 2. Qg4 { A double threat against g7 and e6. } Nf6 ( 2... Nde5 3. Qxe6 Kh8 4. Nxb6 { is similar to the game. } ( { And } 2... Nce5 $2 3. Qxe6 Kf8 4. f4 { ✔ wins back the piece. } ) 
+ ) 
+3. Qxe6+ Kh8 4. Nxb6 $16 { ✔ White gets more than enough for the knights: a rook and three pawns (1–0, 26 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194048/"]
+[Date "????.??.??"]
+[Round "9.22"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 548"]
+[Result "1-0"]
+[FEN "1rbq1rk1/4ppbp/3pn1p1/1p1Nn3/1P6/2N3P1/P2BPPBP/2RQ1RK1 w - - 0 1"]
+
+ { 548. Vassily Smyslov – Walter Browne, Hastings 1972 } { _ } 1. Nxb5 $1 Rxb5 ( { Browne fought on with } 1... Ba6 $16 { (0–1, 33 moves) (.) } ) 
+2. Rxc8 Qxc8 3. Nxe7+ Kh8 4. Nxc8 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194049/"]
+[Date "????.??.??"]
+[Round "9.23"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 549"]
+[Result "0-1"]
+[FEN "7k/6p1/5p2/2B4p/5P2/Q4K1P/6P1/4q1b1 b - - 0 1"]
+
+ { 549. Gerardo Lebredo Zarragoitia – Vassily Smyslov, Cienfuegos 1973 } { _ } 1... { -KEY- } Qf1+ $1 2. Kg3 h4+ $1 3. Kg4 ( 3. Kxh4 Qxf4 4. g4 { ✔ Black wins the bishop in several ways, for instance } Qg5+ { . } ) 
+Qxg2+ { ✔ The king cannot go to the fifth rank due to the queen check on d5. And after } 4. Kxh4 { There are again several ways to win. Easiest is: } g5+ 5. Kh5 gxf4 $19 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194050/"]
+[Date "????.??.??"]
+[Round "9.24"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 550"]
+[Result "0-1"]
+[FEN "r4r1k/1p5p/1bp2N2/2n1p1B1/p3P3/2P5/PPB2PP1/3R2K1 b - - 0 1"]
+
+ { 550. Vassily Smyslov – Boris Spassky, Moscow 1973 } { _ } 1... h6 $1 ( 1... Bd8 $2 2. Be3 $15 { does not win material. } ) 
+ ( 1... Ne6 $1 2. Bh4 Bd8 { also works - full points. } ) 
+2. Bh4 Bd8 $19 { ✔ Smyslov gave up a second exchange and continued for just a few moves (0-1, 33 moves). } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194051/"]
+[Date "????.??.??"]
+[Round "9.25"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 551"]
+[Result "1-0"]
+[FEN "r2q2k1/p2rppbp/1pp3p1/4B3/NPPP2b1/P3Q3/5PPP/R4RK1 w - - 0 1"]
+
+ { 551. Vassily Smyslov – Istvan Bilek, Venice 1974 } { _ } 1. Bxg7 $1 { A magnet exchange followed by a clearance sacrifice. } Kxg7 2. d5 $1 { White threatens 3 dxc6 as well as 3 Qd4+ Kg8 4 Qxg4. } Kg8 3. dxc6 $16 { ✔ (1–0, 30 moves) } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194064/"]
+[Date "????.??.??"]
+[Round "9.26"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 552"]
+[Result "0-1"]
+[FEN "2r4k/1p3pbp/p1b2N2/4r1q1/2pN1R2/7P/PPP2QP1/3R2K1 b - - 0 1"]
+
+ { 552. Garry Kasparov – Vassily Smyslov, Leningrad 1975 } { _ } 1... Bxf6 $1 ( 1... Bxg2 $2 { does not work immediately: } 2. h4 $1 { and the queen cannot keep a connection to both f4 and g2: } Qh6 ( 2... Qg6 3. Qxg2 ) 
+3. Kxg2 ) 
+2. Rxf6 Bxg2 $1 { Black wins an important pawn. } 3. h4 ( { The game continued: } 3. Kh2 $2 Re3 { . } ( 3. h4 Bxh3 { is also winning. } ) 
+ ( { Instead, White should settle for } 3. Rf5 Rxf5 4. Qxf5 Qxf5 5. Nxf5 Bxh3 $17 { . } ) 
+ ) 
+Qg4 $19 ( { ✔ There is a threat against d1 . Also winning is } 3... Qh5 { . } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194065/"]
+[Date "????.??.??"]
+[Round "9.27"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 553"]
+[Result "1-0"]
+[FEN "2rqr1k1/1b1n1ppp/p1n1pbP1/3p3P/3N1PQ1/2PN4/1P3BB1/R2R2K1 w - - 0 1"]
+
+ { 553. Vassily Smyslov – Lothar Vogt, Leningrad 1977 } { _ } 1. gxf7+ $1 Kxf7 2. Nxe6 $1 Rxe6 3. Bxd5 { ✔ White efficiently removed the black pawns on d5, e6 and f7. White now wins the whole rook on e6 with a huge material surplus (1–0, 40 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194066/"]
+[Date "????.??.??"]
+[Round "9.28"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 554"]
+[Result "*"]
+[FEN "5rk1/3qbp1p/p1r5/1p2Np2/8/1P2Q1P1/P3PP1P/R5K1 b - - 0 1"]
+
+ { 554. Vassily Smyslov – Jingxuan Qi, Buenos Aires 1978 Black is a rook up, but is about to lose it. However, there is a way to keep the bishop. } 1... f4 $1 ( 1... Re6 $2 { Almost the only move I looked at when trying to solve this in the video recording. } 2. Nxd7 Rxe3 3. fxe3 $14 { . } ) 
+2. Qxf4 ( 2. gxf4 $6 Rg6+ { ✔ } ) 
+Qc7 { Other queen moves are the same. } 3. Nxc6 Qxc6 $17 { ✔ The queen cannot take on e7 anymore. White later managed to outplay his much lower-rated opponent though (1-0, 74 moves). } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194067/"]
+[Date "????.??.??"]
+[Round "9.29"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 555"]
+[Result "1-0"]
+[FEN "r7/1p2q1k1/5pp1/nPr4p/3RP3/3B3P/5QP1/5RK1 w - - 0 1"]
+
+ { 555. Vassily Smyslov – Wlodzimierz Schmidt, Moscow 1980 } { _ } 1. Qxf6+ $1 Qxf6 2. Rd7+ Kh6 3. Rxf6 { ✔ A pawn and an ongoing attack should be enough to win (1–0, 38 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194068/"]
+[Date "????.??.??"]
+[Round "9.30"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 556"]
+[Result "1-0"]
+[FEN "q4rbk/p1r4p/6B1/4b3/Ppp2N2/1n2B1PQ/1P5P/4RRK1 w - - 0 1"]
+
+ { 556. Vassily Smyslov – Robert Hübner, Velden 1983 } { _ } 1. Bxh7 $1 Rxh7 ( 2... Bxh7 3. Ng6+ { ✔ winning the rook on f8 . } ) 
+2. Ng6+ { White has a decisive attack. } Kg7 3. Qd7+ $1 ( 3. Qg4 $1 { also wins. } ( { But } 3. Rxf8 Rxh3 4. Rxa8 { is less clear, even though it should be winning eventually. } ) 
+ ) 
+Rf7 ( { Chessable Note: } 3... Kxg6 4. Qg4 { is mate. } ) 
+4. Rxf7+ Bxf7 5. Nxe5 $18 { ✔ (1–0, 48 moves) } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194069/"]
+[Date "????.??.??"]
+[Round "9.31"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 557"]
+[Result "1-0"]
+[FEN "R4bk1/5pp1/5n1p/4Q3/3B4/1qprPBP1/5P1P/6K1 w - - 0 1"]
+
+ { 557. Vassily Smyslov – Gennadi Sosonko, Tilburg 1984 } { _ } 1. Rxf8+ $1 Kxf8 2. Qc5+ { Black resigned, as White picks up the rook on d3 after } Kg8 3. Qc8+ Kh7 4. Qf5+ Kg8 5. Qxd3 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194070/"]
+[Date "????.??.??"]
+[Round "9.32"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 558"]
+[Result "0-1"]
+[FEN "r1bqr1k1/1p3ppp/2pp1n2/p1b1n3/2PNP3/2NBB2P/PPQ2PP1/4RRK1 b - - 0 1"]
+
+ { 558. Kevin Spraggett – Vassily Smyslov, Montpellier 1985 } { _ } 1... Bxh3 $1 { White resigned (prematurely) } ( { . The point is: } 1... Bxh3 1. gxh3 Bxd4 3. Bxd4 Nf3 4. Kg2 Nxd4 $17 { ✔ White is a pawn down and is weak on the dark squares. } ( { But it would not hurt to play on with, for instance, } 1... Bxh3 1. Be2 $17 { . } ) 
+ ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194260/"]
+[Date "????.??.??"]
+[Round "9.33"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 559"]
+[Result "1-0"]
+[FEN "1k1r4/pp2n1pp/3r1pb1/2Np4/8/1P4PP/P1R1PPB1/2R1K3 w - - 0 1"]
+
+ { 559. Vassily Smyslov – Helgi Olafsson, Copenhagen 1985 } { _ } 1. Nxb7 $1 Bxc2 ( 1... Kxb7 2. Rc7 Kb6 3. Rxe7 $16 { ✔ } ) 
+2. Nxd6 ( { The knight is trapped after } 2. Nxd8 $2 Bg6 { . } ) 
+Bxb3 3. Nf7 $1 Rf8 4. axb3 Rxf7 5. Rc5 $1 { ± ✔ White wins a pawn (1–0, 53 moves) } ( { . } 5. Rd1 { is also good enough. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194261/"]
+[Date "????.??.??"]
+[Round "9.34"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 560"]
+[Result "1-0"]
+[FEN "2r1r1k1/q2bb2p/p2p1pp1/1p1P4/8/1P5P/PQ3PP1/BB1RR1K1 w - - 0 1"]
+
+ { 560. Petar Popovic – Vassily Smyslov, Ljubljana 1985 } { _ } 1. { -KEY- } Rxe7 $1 Rxe7 2. Qxf6 $18 { ✔ Black is lost on the dark squares and cannot close the diagonal. The game finished: } Re5 ( 2... Rce8 3. Qh8 Kf7 4. Qg7 ) 
+3. Qxd6 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194262/"]
+[Date "????.??.??"]
+[Round "9.35"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 561"]
+[Result "1-0"]
+[FEN "r2q1rk1/4npbp/b1p1pnp1/p3N3/2BP2P1/B4N2/PP3P1P/2RQR1K1 w - - 0 1"]
+
+ { 561. Ilya Smirin – Vassily Smyslov, Moscow 1988 } { _ } 1. Nxf7 $1 Rxf7 ( 1... Kxf7 { could be met with, among others, } 2. Ng5 Kg8 3. Nxe6 { and White wins back the piece (at least) (and keeps the pawns.) } ) 
+2. Bxe6 $18 { ✔ Black is unable to deal with 3 Ng5 and 3 Ne5 (1–0, 28 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194264/"]
+[Date "????.??.??"]
+[Round "9.36"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 562"]
+[Result "1-0"]
+[FEN "r2r2k1/p3pp1p/2p2npQ/6N1/2b3P1/2P2R1P/Pq3P2/5RK1 w - - 0 1"]
+
+ { 562. Vassily Smyslov – Jan Timman, Moscow (blitz) 1993 } { _ } 1. Rxf6 $1 exf6 2. Qxh7+ Kf8 { Timman may have thought that the king was escaping. } 3. Re1 $1 Be6 4. Rxe6 $1 { ✔ It is mate on f7. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194265/"]
+[Date "????.??.??"]
+[Round "9.37"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 563"]
+[Result "1-0"]
+[FEN "4r3/pp1nr3/2p4p/4pkb1/4RP2/1PBN2P1/P1P1K3/3R4 w - - 0 1"]
+
+ { 563. Vassily Smyslov – Lembit Oll, Rostov on Don 1993 } { _ } 1. g4+ $1 Kxe4 ( 1... Kxg4 2. fxg5+ ) 
+2. Nf2+ Kxf4 3. Rg1 $1 { The threat is 4.Bd2#. } ( 3. Bd2 $2 Kg3 4. Rg1 Kh4 { ( } Kh2 5. Kf1 { with mate.) } 5. Rh1 Kg3 6. Kf1 { . In the video, I thought this was mate - I was even sure! But I missed a move... ( } 6. Rg1 { repeats.) } Bxd2 $19 { and White would like to have the rook and the bishop back. } ) 
+e4 4. Nh3# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194268/"]
+[Date "????.??.??"]
+[Round "9.38"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 564"]
+[Result "1-0"]
+[FEN "6k1/6p1/4p2p/4N3/3P2Pq/4PP2/n6P/2R3K1 w - - 0 1"]
+
+ { 564. Susan Polgar – Vassily Smyslov, Vienna 1993 Loose pieces, even queens, are in danger of dropping off. } 1. Rc8+ Kh7 2. Rh8+ $1 Kxh8 3. Ng6+ Kh7 4. Nxh4 $18 { ✔ (1–0, 63 moves) } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194269/"]
+[Date "????.??.??"]
+[Round "9.39"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 565"]
+[Result "1-0"]
+[FEN "r3qrk1/2p2pb1/p6p/1p2pb2/5p2/1BP2N2/PP3PPP/R2QR1K1 w - - 0 1"]
+
+ { 565. Vassily Smyslov – Johan Ingbrandt, Stockholm 1996 } { _ } 1. Nxe5 $1 Bxe5 2. Qh5 $18 { ✔ The pin along the fifth rank wins back the piece, with numerous threats against the remaining bishop, the queen, the king and the weak pawns – something will drop off. } ( { But instead } 2. Qd5 $6 Rd8 3. Qxe5 Qxe5 4. Rxe5 Bg6 { is not so much better for White. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194272/"]
+[Date "????.??.??"]
+[Round "9.40"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 566"]
+[Result "1-0"]
+[FEN "r5k1/p5p1/7p/Q2N1b2/8/1P3q1P/2P1rP2/2KR2R1 w - - 0 1"]
+
+ { 566. Ketevan Arakhamia-Grant – Vassily Smyslov, London 1996 } { _ } 1. { -KEY- } Nf6+ $1 ( 1. Rxg7 $2 Kxg7 2. Rg1 Bg6 { and White’s best is a repetition with: } 3. Qc7 Qf7 4. Qc3 Kh7 5. Nf6 Kh8 6. Nh5 Kh7 7. Nf6 ) 
+Kf7 ( 1... Kf8 2. Qc5 $1 { ✔ transposes, as } Re7 { moves into a deadly pin. } ( { And } 1... Kh8 { is met by: } 2. Rd8 Rxd8 3. Qxd8 Re8 4. Qxe8 { ✔ } ) 
+ ) 
+2. Qc7+ $1 Re7 ( 2... Kxf6 { , Black is mated after } 3. Rd6 { (Or } 3. Qxg7 Ke6 4. Qxh6 { ) } Be6 4. Qxg7 Kf5 5. Qg6 Ke5 6. Qxe6 { . } ) 
+3. Rxg7+ $1 Kxg7 4. Qxe7+ { ✔ White’s position is generally winning, but there is also a mating attack on the way. Black resigned after: } Kh8 5. Rg1 ( 5. Rd7 { is also good enough. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194277/"]
+[Date "????.??.??"]
+[Round "9.41"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 567"]
+[Result "1-0"]
+[FEN "r3bqk1/1p2rppn/p3p2p/3pP2Q/3P1RN1/2PB3P/PP4P1/R5K1 w - - 0 1"]
+
+ { Mikhail Tal To play for a draw, at any rate with White, is to some degree a crime against chess.567. Mikhail Tal – A. Leonov, Vilnius 1949 } { _ } 1. Nf6+ $1 ( 1. Rf6 $5 gxf6 $2 23. Nxh6+ ( { And } 1. Qh4 { both retain a huge advantage. } ) 
+ ( 1. Bxh7 Kxh7 { 2.Nf6+ allows 2...Kh8 even though 3.Rh4 is a slowly winning attack. } ) 
+ ) 
+Nxf6 ( { After } 1... gxf6 { , White can transpose or use one of the extra options: } 2. Bxh7 { and 2 Rg4+ are both winning. } ) 
+2. exf6 gxf6 ( 2... Rc7 3. fxg7 { was the game, and Black resigned on the next move. } ) 
+3. Rxf6 ( { Or } 3. Rg4 Kh8 4. Qh4 $18 { , which is however more complicated after } f5 { . } ) 
+Qg7 4. Rxh6 ( 4. Raf1 { can be played first. } ) 
+f5 5. Qh4 $18 { ✔ White is a pawn up and can manoeuvre the other rook into the attack. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194280/"]
+[Date "????.??.??"]
+[Round "9.42"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 568"]
+[Result "0-1"]
+[FEN "rnb3k1/pp4pp/3p3r/2p1p1qn/P1PPPpP1/2PB1P2/3QNB1P/R5RK b - - 0 1"]
+
+ { 568. Marks Pasman – Mikhail Tal, Riga 1952 } { _ } 1... Ng3+ $1 2. Kg2 ( 2. Nxg3 fxg3 ( { Or } 2. Kg2 Rxh2 3. Kxh2 fxg3+ { , winning the queen } ) 
+3. Qxg5 Rxh2 { ✔ } ) 
+Qh4 $1 { There are threats against h3 and h2. Not } ( 2... Bxg4 $2 3. Bxg3 $1 { and White holds on. } ) 
+3. Bxg3 fxg3 4. hxg3 ( 4. Nxg3 Qxh2 5. Kf1 Qxd2 { ✔ } ) 
+Qh2+ 5. Kf1 Rf6 $1 { ✔ The only way to win after 1...Ng3+. Black threatens 6...Rxf3+ and 6...Bxg4 (0–1, 35 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194282/"]
+[Date "????.??.??"]
+[Round "9.43"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 569"]
+[Result "1-0"]
+[FEN "r3r1k1/p1qn1pbp/2p2np1/1p6/2BPp3/BPN1P2P/P3QPP1/2RR2K1 w - - 0 1"]
+
+ { 569. Mikhail Tal – Artur Darznieks, Riga 1953 } { _ } 1. { -KEY- } Nxb5 $1 { There is a second solution with the same theme: } ( 1. Bxf7 Kxf7 2. Nxb5 Qb6 3. Nd6 Kg8 4. Nxe8 Rxe8 5. Qc4 Nd5 6. Qxc6 $18 ) 
+ { Full points! } Qa5 ( { White loses a piece on the queenside, but is compensated on f7 and e8 . } 1... cxb5 $2 { loses straight away: } 2. Bxf7 Kxf7 3. Rxc7 { ✔ } ) 
+2. Nd6 ( { Or } 2. Bxf7 Kxf7 3. Rxc6 ) 
+ ( { Or } 2. b4 { . } ) 
+Qxa3 3. Bxf7+ Kh8 4. Nxe8 Nxe8 5. Bxe8 Rxe8 6. Rxc6 $18 { White has too many pawns. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194284/"]
+[Date "????.??.??"]
+[Round "9.44"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 570"]
+[Result "*"]
+[FEN "r2qr1k1/ppp2ppp/3p1b2/1B1P1b2/5P2/2P1B1P1/PP1Q3P/R3K2R b KQ - 0 1"]
+
+ { 570. Mikhail Tal – Vladimir Saigin, Riga 1954 } { _ } 1... c6 $1 { ∓ White has to retreat, since } 2. dxc6 $2 Qb6 $19 { ✔ is a double threat. Tal managed to draw after 2 Bc4∓. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194285/"]
+[Date "????.??.??"]
+[Round "9.45"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 571"]
+[Result "0-1"]
+[FEN "5r1k/6pp/p7/1pnP3q/2p1P3/2P4b/PPB4Q/4R1NK b - - 0 1"]
+
+ { 571. A. Ostrauskas – Mikhail Tal, Vilnius 1955 } { _ } 1... { -KEY- } Bg2+ $1 2. Kxg2 Rf2+ $1 3. Kxf2 Qxh2+ { ✔ } 4. Kf3 Qxc2 $19 { 0–1, 39 moves } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194286/"]
+[Date "????.??.??"]
+[Round "9.46"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 572"]
+[Result "0-1"]
+[FEN "4r1k1/4qRpp/p2p4/1p2r3/8/2Pn1Q2/PP4PP/5R1K b - - 0 1"]
+
+ { 572. Abram Khasin – Mikhail Tal, Leningrad 1956 } { _ } 1... Re1 $1 ( 1... Ne1 $2 2. Rxe7 Nxf3 3. Rxe8 Rxe8 4. gxf3 Re2 $17 ) 
+2. Qd5 ( 2. Rxe7 Rxf1 ( 2. Qd5 R8xe7 $4 3. Qf8 ) 
+3. Qxf1 Rxe7 { ✔ and the queen cannot be saved. } ) 
+Qxf7 ( 2... Qe6 { and } Kh8 { also win. } ) 
+3. Qxf7+ Kh8 4. Kg1 Rxf1+ 5. Qxf1 ( 5. Kxf1 Re1 { ✔ } ) 
+Re1 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194287/"]
+[Date "????.??.??"]
+[Round "9.47"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 573"]
+[Result "0-1"]
+[FEN "r1bqr1k1/p1n2pbp/1p1p2p1/2pP4/P3P1n1/2N4P/1PQNBPP1/R1B1R1K1 b - - 0 1"]
+
+ { 573. Bukhuti Gurgenidze – Mikhail Tal, Moscow 1957 } { _ } 1... { -KEY- } Nxf2 $1 2. Kxf2 $2 ( { White should prefer } 2. Nf3 Bxc3 3. bxc3 Nxe4 $15 { ✔, although he does not have full compensation for the two pawns. } ) 
+Qh4+ ( 2... Bd4 { is pointless after } 3. Kg3 { even though } Be5 4. Kf2 Qh4 5. Kf1 Bd4 { transposes to the game. } ) 
+3. Kf1 Bd4 4. Nd1 { The only defence against the mate on f2. } Qxh3 $1 ( { ✔ } 4... Bxh3 $6 5. Ra3 $1 { ∓ is slower but also gives full points. } ) 
+5. Bf3 Qh2 $19 { White is defenceless against ...f7-f5, ...Ba6 and ...Nxd5, although that is not so easy to see (0–1, 27 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194289/"]
+[Date "????.??.??"]
+[Round "9.48"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 574"]
+[Result "0-1"]
+[FEN "1r1r2k1/1p3p2/p1p2bp1/7p/2Pn3P/2B1q1P1/PP1RPQB1/2R3K1 b - - 0 1"]
+
+ { 574. Anatolij Bannik – Mikhail Tal, Moscow 1957 } { _ } 1... Nxe2+ $1 2. Rxe2 Qxc1+ { Black has won an exchange, but he needs something against the following double threat. } 3. Re1 Bxc3 $1 4. Rxc1 Bd4 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194291/"]
+[Date "????.??.??"]
+[Round "9.49"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 575"]
+[Result "1-0"]
+[FEN "1r1nkn1r/4bp1p/p1p4B/1pqpPQ2/8/1B5P/PP1N2P1/R4R1K w k - 0 1"]
+
+ { 575. Mikhail Tal – Rudolf Teschner, Vienna 1957 } { _ } 1. { -KEY- } Ne4 $1 ( { ✔ } 1. Bg7 $6 Rg8 2. Ne4 { is worse, since the knight has to check on f6 instead of d6: } Qd4 3. Nf6 Bxf6 4. exf6 Rxg7 5. fxg7 Qxg7 { and Black is worse but not lost. } ) 
+dxe4 ( { Otherwise the knight continues to d6 , opening up the e-file with devastating effect. I will give one sample line to see some attacking ideas for White: } 2... Qd4 3. Nd6 Bxd6 4. exd6 Nfe6 5. Rad1 Qa7 6. Rde1 Kd7 7. Rxe6 fxe6 8. Qf6 { Winning the rook with a continuing attack. } ) 
+2. Rad1 $18 ( 2. Bxf7 { is also winning, as well as many other moves. } ( 2. Rac1 Qb6 3. Rcd1 { mating, was the game finish. } ) 
+ ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194294/"]
+[Date "????.??.??"]
+[Round "9.50"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 576"]
+[Result "1-0"]
+[FEN "r2qr1k1/pp2bppp/2b1p3/3nN1B1/3P4/1BPR4/P3QPPP/4R1K1 w - - 0 1"]
+
+ { 576. Mikhail Tal – N.N., Riga (simul) 1958 } { _ } 1. Nxf7 $1 Kxf7 2. Qxe6+ Kf8 3. Bc1 $1 { +– ✔ Black has no defence against 4 Rf3+ Bf6 5 Ba3+ (1–0, 27 moves) . } ( 3. Rf3 $2 { is a mistake: } Bf6 4. Rxf6 Qxf6 ) 
+ ( { But 3 } { _ } . Bf4 { gives White a winning advantage, as does } 3. Bxe7 { . But to get full points for the last one you have to see all of the following moves: } Rxe7 4. Rf3 Ke8 5. Qf7 $1 { The only move. } Kd7 6. Rxe7 Qxe7 ( 6. Bc1 Nxe7 7. Qe6 { (Or 7 d5+–) } Kc7 8. Rf7 { winning the knight. } ) 
+7. Bxd5 ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194295/"]
+[Date "????.??.??"]
+[Round "9.51"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 577"]
+[Result "1-0"]
+[FEN "r7/2k1Pp1p/p1n2p2/P1b1r3/2p5/2P3P1/5P1P/1R1Q2K1 w - - 0 1"]
+
+ { 577. Mikhail Tal – Dieter Keller, Zurich 1959 } { _ } 1. Rb7+ $1 Kxb7 2. Qd7+ Kb8 3. e8=Q+ Rxe8 4. Qxe8+ Kb7 5. Qd7+ Kb8 6. Qxc6 $18 { ✔ It was all forced. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194297/"]
+[Date "????.??.??"]
+[Round "9.52"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 578"]
+[Result "0-1"]
+[FEN "r4rk1/1q1nbppp/p1b5/4pP2/NpP1Nn2/1B3Q2/PP3BPP/R3R1K1 b - - 0 1"]
+
+ { 578. Robert Fischer – Mikhail Tal, Bled 1959 } { _ } 1... g6 $1 { Spotting the trouble on the a8-h1 diagonal. } 2. fxg6 ( 2. g4 { is not a move White wants to play. One way to punish it is } gxf5 4. gxf5 Kh8 { . } ) 
+f5 $1 ( { –+ ✔ Or } 2... hxg6 { which might be even stronger as White cannot save the knight anyway because of the weakness on g2 . } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194301/"]
+[Date "????.??.??"]
+[Round "9.53"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 579"]
+[Result "1-0"]
+[FEN "3rr1k1/3nbppp/p1R2n2/q2Bp3/1p2P3/5N1P/PP1B1PP1/2RQ2K1 w - - 0 1"]
+
+ { 579. Mikhail Tal – Wolfgang Unzicker, Stockholm 1960 } { _ } 1. Bxf7+ $1 Kxf7 2. Qb3+ ( { White can also start with } 2. Ng5 { . } ) 
+Kf8 ( 2... Kg6 { and for example } 3. Nh4 Kh5 4. Qf3 Kxh4 5. Qg3 Kh5 6. Qg5 { . } ) 
+3. Ng5 { ✔ The threat of 4 Qf7# is decisive. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194303/"]
+[Date "????.??.??"]
+[Round "9.54"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 580"]
+[Result "1-0"]
+[FEN "r4k1r/1q2bp1p/p3pp2/3p3Q/1p1N1P2/4R3/PPP3PP/1K1R4 w - - 0 1"]
+
+ { 580. Mikhail Tal – Martin Johansson Sr., Stockholm 1961 Thanks to the weak kingside, White is winning after normal moves, but can decide matters right now. } 1. Rxe6 $1 fxe6 2. Nxe6+ Kg8 3. Rd3 $18 { ✔ To avoid mate, Black must give up the bishop and the queen – without getting anything in return. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194305/"]
+[Date "????.??.??"]
+[Round "9.55"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 581"]
+[Result "1-0"]
+[FEN "6k1/6pp/p4p2/2pN3b/2P1r3/1P6/P5PP/5RK1 w - - 0 1"]
+
+ { 581. Mikhail Tal – Eero Böök, Stockholm 1961 } { _ } 1. Rxf6 $1 { ± } gxf6 $2 ( 1... Re1 2. Rf1 $16 { ✔ is Black’s best, accepting the loss of a pawn (1–0, 48 moves) (.) } ) 
+2. Nxf6+ Kf7 3. Nxe4 $18 { White wins a second and a third pawn. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194310/"]
+[Date "????.??.??"]
+[Round "9.56"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 582"]
+[Result "1-0"]
+[FEN "r1b1r1k1/2q1bppp/p2p1n2/1p2p3/3PP3/1B1n1N1P/PB1N1PP1/R2QR1K1 w - - 0 1"]
+
+ { 582. Mikhail Tal – Bukhuti Gurgenidze, Baku 1961 } { _ } 1. Bxf7+ $1 Kf8 { Black has two other moves: } ( { A } 1... Kxf7 2. Qb3 Kf8 3. Qxd3 $16 { ✔ } ) 
+ ( { B } 1... Kh8 2. Bxe8 Nxe8 ( 2... Nxb2 { can be met with either } 3. Qb3 { or } ( 2... Kf8 2. Qb1 ) 
+ ) 
+3. Qb3 Nxe1 4. Rxe1 $16 ) 
+2. Bxe8 Nxb2 3. Qb1 $1 ( 3. Qb3 $2 Nc4 { and White cannot save the e8-bishop since } 4. Nxc4 bxc4 { threatens the queen. } ) 
+Na4 ( 3... Nc4 4. Nxc4 { and the bishop escapes after } bxc4 { Or } ( 4... Qxc4 5. Rc1 Qa4 6. Bc6 { ✔ } ) 
+5. Ba4 { ✔ } ) 
+4. Rc1 $18 { ✔ The bishop escapes to c6 (1–0, 35 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194311/"]
+[Date "????.??.??"]
+[Round "9.57"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 583"]
+[Result "0-1"]
+[FEN "r1bq1rk1/5ppp/p1Np1b2/1p6/4P3/P4Q1P/1PBB1nP1/R3R1K1 b - - 0 1"]
+
+ { 583. Mikhail Tal – Paul Keres, Curacao 1962 } { _ } 1... Nxh3+ $1 ( 1... Qb6 $2 2. e5 $1 ( 1... Nxh3+ 1. Qxf2 Qxc6 3. e5 $11 { is also not convincing for Black. } ) 
+Ng4 ( 2... Nd3 $2 3. Be3 ) 
+3. Kh1 Nxe5 4. Rxe5 $1 ( 3... Nxh3+ 3. Nxe5 Bxe5 5. Qxa8 Bb7 6. Ba5 $11 ) 
+dxe5 5. Rf1 $16 { and White threatens 6 Qe4 . There is no good defence as the f6-bishop has no square, so Black loses a piece. } ) 
+2. Kh2 ( 2. gxh3 Qb6+ { ✔ is a double attack. } ( { As is } 2. Qxh3 Qb6 3. Qe3 Qxc6 $17 { ✔. } ) 
+ ) 
+Be5+ ( { Weaker is } 2... Qc7 3. e5 $1 Bxe5 4. Rxe5 ( 3... Be5+ 3. Nxe5 Qxc2 $17 ) 
+dxe5 5. Ba5 e4 6. Bxc7 exf3 7. Ne7 $15 { when Black has a lot of pawns, but his rooks are not very active. } ) 
+3. Nxe5 dxe5 $17 { ✔ The bishop on d2 is en prise, and Black keeps the two pawns (0–1, 41 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194312/"]
+[Date "????.??.??"]
+[Round "9.58"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 584"]
+[Result "1-0"]
+[FEN "2r3k1/1nqbrp2/p5pp/1p1Pp1N1/8/1P5P/P1B2PP1/2RQR1K1 w - - 0 1"]
+
+ { 584. Mikhail Tal – Aleksandar Matanovic, Moscow 1963 } { _ } 1. { -KEY- } Nxf7 $1 Rxf7 ( 1... Kxf7 2. Bxg6+ { ✔ wins the queen. } ) 
+2. Bxg6 { ✔ } Qd6 ( 2... Qxc1 3. Bxf7 Kxf7 4. Qh5 { wins the queen. } ) 
+3. Bxf7+ Kxf7 4. Rxc8 Bxc8 5. Qc2 $18 { A double attack against the bishop and the h7-square. The attack is decisive (1–0, 30 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194314/"]
+[Date "????.??.??"]
+[Round "9.59"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 585"]
+[Result "1-0"]
+[FEN "1r1qrbk1/1p3p1p/p2p2p1/P2NpBn1/4P3/2P3P1/1P3P1P/R2Q1RK1 w - - 0 1"]
+
+ { 585. Mikhail Tal – Robert Wade, Reykjavik 1964 } { _ } 1. Bd7 $1 { The rook is trapped. } Re6 ( 1... Qxd7 2. Nf6 Kg7 3. Nxd7 { ✔ } ) 
+2. Bxe6 $18 { ✔ (1–0, 26 moves) } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194316/"]
+[Date "????.??.??"]
+[Round "9.60"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 586"]
+[Result "1-0"]
+[FEN "5rk1/7p/pqb1Ppp1/1p3p2/7R/2N5/PPPQ2PP/7K w - - 0 1"]
+
+ { 586. Mikhail Tal – Vladimir Ljavdansky, Kiev 1964 } { _ } 1. e7 $1 ( 1. Nd5 $5 { almost works: } Bxd5 2. Qxd5 ( { White can try the same idea as in the main line: } 2. e7 $5 Bxg2 $1 3. Qxg2 ( 3. Kxg2 $2 Qb7 4. Kg1 Qxe7 ) 
+Re8 { with the same type of play. However, with the open white king, Black has perpetual checks: } 4. Qd5 Kg7 5. Rxh7 Kxh7 6. Qf7 Kh6 7. Qxe8 Qf2 $11 ) 
+Qd8 $1 { and Black defends. } ) 
+Re8 2. Nd5 $1 { The queen cannot defend f6, so Black must take. } Bxd5 3. Qxd5+ Kg7 4. Rxh7+ $1 { The queen needs to penetrate to f7. } Kxh7 5. Qf7+ Kh6 6. Qxe8 { White creates luft for the king with check, and queens. } Qf2 7. Qh8+ Kg5 8. h4+ $1 Kg4 9. e8=Q $18 { ✔ Black has only a few checks since e1 is covered by the new queen (1–0, 41 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194399/"]
+[Date "????.??.??"]
+[Round "9.61"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 587"]
+[Result "1-0"]
+[FEN "2r1rbk1/2q3pp/p1b2p2/1p1pnN2/4P1Q1/1P5P/PB3PP1/1B1RR1K1 w - - 0 1"]
+
+ { 587. Mikhail Tal – Svetozar Gligoric, Reykjavik 1964 } { _ } 1. Bxe5 $1 ( { It is also possible to start with } 1. Nh6 { . } ) 
+Rxe5 ( 1... fxe5 { keeps the rook on c8 defended, but Black loses the d-pawn after } 2. exd5 { ✔ 3 d6 and 4 Nh6 wins. } ) 
+2. Nh6+ Kh8 3. Nf7+ $1 Qxf7 4. Qxc8 $18 { ✔ (1–0, 40 moves) } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194400/"]
+[Date "????.??.??"]
+[Round "9.62"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 588"]
+[Result "0-1"]
+[FEN "8/3nbp1k/ppR4p/5P1N/P3P2P/1r3B2/6K1/8 b - - 0 1"]
+
+ { 588. Anatoly Bykhovsky – Mikhail Tal, Kislovodsk 1964 } { _ } 1... Rxf3 $1 2. Rc7 ( { A double attack, but the pieces can defend each other. } 2. Kxf3 { loses to: } Ne5 3. Kf4 Nxc6 { ✔ } ) 
+Rd3 $1 ( { –+ ✔ Not the other way around: } 2... Ne5 $4 3. Rxe7 ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194402/"]
+[Date "????.??.??"]
+[Round "9.63"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 589"]
+[Result "1-0"]
+[FEN "r1b1k1nr/1p1n1pbp/p1pQ2p1/4p3/2B1PB2/2q2N2/P1P2PPP/1R1R2K1 w kq - 0 1"]
+
+ { 589. Mikhail Tal – Georgi Tringov, Amsterdam 1964 } { _ } 1. Bxf7+ $1 ( 1. Rxb7 $6 { is the start of a long forced line: } Qxc4 2. Rxd7 Bxd7 3. Qxd7 Kf8 4. Qd6 $1 Ke8 5. Bxe5 Bxe5 6. Qxe5 Kf8 7. Qxh8 Qxc2 $16 { White has attacking chances with Ng5 or e4-e5-e6. } ) 
+Kxf7 2. Ng5+ Ke8 3. Qe6+ ( { ✔ Black resigned due to: } 3. Qe6+ Kd8 4. Nf7 Kc7 5. Qd6 ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194453/"]
+[Date "????.??.??"]
+[Round "9.64"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 590"]
+[Result "1-0"]
+[FEN "2rrb1k1/p4ppp/4pn2/1p2N3/3P4/qBPQ3R/P4PPP/4R1K1 w - - 0 1"]
+
+ { 590. Mikhail Tal – Wladyslaw Schinzel, Warsaw (simul) 1966 } { _ } 1. { -KEY- } Ng4 $1 Nxg4 2. Qxh7+ { ✔ } Kf8 { White has several ways to continue his winning attack; the famous attacker Tal unsurprisingly chose the strongest one: } 3. Qh8+ Ke7 4. Qxg7 $18 { White has threats against e6 and g4 (1–0, 29 moves) } ( { . } 4. Bxe6 fxe6 5. Qxg7 { is also winning for White, but not as clearly. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194454/"]
+[Date "????.??.??"]
+[Round "9.65"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 591"]
+[Result "1-0"]
+[FEN "r1b4r/1p2kp2/pqp1pp2/7p/4P3/3R4/P1PQBPPP/3R2K1 w - - 0 1"]
+
+ { 591. Mikhail Tal – Svend Hamann, Kislovodsk 1966 } { _ } 1. e5 $1 { +– ✔ White lands first, before Black can put a pawn on e5. It’s over – the dark squares are too weak. No variations needed. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194455/"]
+[Date "????.??.??"]
+[Round "9.66"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 592"]
+[Result "1-0"]
+[FEN "3r1k2/5p2/r1p2p1p/1p6/n1bP1NP1/R1P2P2/2BK3P/R7 w - - 0 1"]
+
+ { 592. Mikhail Tal – Mato Damjanovic, Sarajevo 1966 } { _ } 1. { -KEY- } Bxa4 $1 Rda8 2. Bxb5 $1 { Only like so – otherwise the first move would have been a mistake. } Bxb5 ( 2... Rxa3 3. Rxa3 Rxa3 4. Bxc4 { ✔ } ) 
+3. Rxa6 { ✔ } Rxa6 4. Rxa6 Bxa6 $18 { The endgame should be easily winning, at least for a world-class player (1–0, 35 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194457/"]
+[Date "????.??.??"]
+[Round "9.67"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 593"]
+[Result "0-1"]
+[FEN "3qr1k1/1b1n1p1p/p2Pp1p1/2p1PP2/r1Bp4/6QP/4NRP1/2R3K1 b - - 0 1"]
+
+ { 593. Erling Kristiansen – Mikhail Tal, Havana (ol) 1966 } { _ } 1... Rxc4 $1 ( 1... exf5 $2 2. Bxf7 $1 Kxf7 3. Qb3 Kf8 4. Qxa4 $17 { is also strong, but losing the f-pawn is totally unnecessary. } ) 
+2. Rxc4 exf5 $19 { ✔ Black wins the pawns on e5 and d6 (0–1, 35 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194458/"]
+[Date "????.??.??"]
+[Round "9.68"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 594"]
+[Result "*"]
+[FEN "r4bk1/2pQ2p1/p6B/2n1qp2/p7/2P3RP/5PP1/1R4K1 w - - 0 1"]
+
+ { 594. Mikhail Tal – Svetozar Gligoric, Budva 1967 White is an exchange up for a pawn, but if he has to start retreating his pieces, Black will have sufficient counterplay. For that reason, forceful action is called for, taking advantage of the unprotected rook on a8. } 1. Bxg7 $1 Bxg7 2. Rxg7+ Qxg7 3. Qd5+ ( 3. Qxf5 { is also winning, as the knight will have to be sacrificed to avoid losing the rook anyway. } ) 
+Kh7 4. Qxa8 { ✔ White is clearly winning, but fell for a drawing trick in the end (½-½, 53 moves) . } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194459/"]
+[Date "????.??.??"]
+[Round "9.69"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 595"]
+[Result "1-0"]
+[FEN "r2q1rk1/1p3pbp/p2p2p1/nPpPp2n/4P3/3Q2P1/PPNB1PBP/R4RK1 w - - 0 1"]
+
+ { 595. Lajos Portisch – Mikhail Tal, Moscow 1967 } { _ } 1. b6 $1 { +– ✔ The knight on a5 is trapped and is lost after 2 Qc3 (1–0, 24 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194460/"]
+[Date "????.??.??"]
+[Round "9.70"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 596"]
+[Result "1-0"]
+[FEN "3r1k2/p5pp/2P5/1R4p1/2n5/1Bb4P/P4PP1/5K2 w - - 0 1"]
+
+ { 596. Mikhail Tal – Evgeni Vasiukov, Kharkov 1967 } { _ } 1. c7 $1 ( 1. Bxc4 $16 ) 
+Re8 $1 ( 1... Rc8 2. Rb8 Nb6 3. Be6 { ✔ } ) 
+2. Rb8 Nb6 3. Ba4 $1 Rc8 4. Bd7 $1 { ✔ 1 c7 would have been bad if this 37th move did not exist (1–0, 40 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194461/"]
+[Date "????.??.??"]
+[Round "9.71"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 597"]
+[Result "1-0"]
+[FEN "3r2k1/2q1bppp/2n1b3/1ppPp3/8/2P2N1P/1PB2PP1/2BQR1K1 w - - 0 1"]
+
+ { 597. Mikhail Tal – Alexander Cherepkov, Alma-Ata 1968 } { _ } 1. { -KEY- } Bxh7+ $1 Kxh7 ( { The game was } 1... Kf8 2. Be4 $16 { (1–0, 32 moves) (.) } ) 
+2. Qc2+ Kg8 3. dxe6 { ✔ } fxe6 $18 { It is only a positional advantage, but it’s a great one. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194462/"]
+[Date "????.??.??"]
+[Round "9.72"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 598"]
+[Result "*"]
+[FEN "N5k1/pp2r1bp/3p4/3P4/7q/4Q2b/PP3N1P/2R1K1R1 w - - 0 1"]
+
+ { 598. Bent Larsen – Mikhail Tal, Eersel (5) 1969 } { _ } 1. Rxg7+ $1 Kxg7 ( 1... Rxg7 $4 2. Qe8 { ✔ } ) 
+2. Rc7 $1 Bd7 $1 ( 2... Rxc7 $2 3. Nxc7 { ✔ } ) 
+3. Rxd7 { The queen on e3 survives – the point of White’s double-rook sacrifice. } Rxd7 $13 ( { ✔ White should exchange queens to safeguard his king, with an okay position despite the knight in the corner. In the game, White instead went for the greedy } 3... Rxd7 3. Qxa7 $2 { and lost (0–1, 40 moves) (.) } ) 
+
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194463/"]
+[Date "????.??.??"]
+[Round "9.73"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 599"]
+[Result "0-1"]
+[FEN "1r4k1/3b1q1p/pr1p1np1/2pP4/2Bb2P1/1PN2P2/Q2B2KP/1RR5 b - - 0 1"]
+
+ { 599. Vladimir Tukmakov – Mikhail Tal, Moscow 1969 } { _ } 1... Nxg4 $1 2. fxg4 ( { White instead resigned after } 2. Ne4 Ne5 { . } ) 
+Qf2+ 3. Kh3 ( 3. Kh1 Qf3 { ✔ } ) 
+Qf3+ 4. Kh4 Qxg4# { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1194464/"]
+[Date "????.??.??"]
+[Round "9.74"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 600"]
+[Result "1-0"]
+[FEN "r3k2r/2q1np1p/p2pP1p1/1p2n2Q/8/2PBB3/P1PR2PP/5RK1 w kq - 0 1"]
+
+ { 600. Mikhail Tal – Alexey Suetin, Tbilisi 1969 } { _ } 1. { -KEY- } Qxe5 $1 dxe5 2. exf7+ Kd7 ( 2... Kf8 3. Bh6 { ✔ is short. } ( { And } 2... Kd8 { leaves White to choose his preferred route to victory, one being: } 3. f8=Q Rxf8 4. Rxf8 Kd7 5. Rxa8 ) 
+ ) 
+3. Bf5+ $1 { A double check; Black has to give up too much material. } Kc6 4. Be4+ { ✔ } Nd5 5. Rxd5 ( { White wins the queen with a decisive material advantage. } 5. Bxd5 Kd7 6. Bxa8+ { is also good enough. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196141/"]
+[Date "????.??.??"]
+[Round "9.75"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 601"]
+[Result "1-0"]
+[FEN "2b2r1k/r5pp/p1B2p2/2q5/Pp6/1Pp5/2P1QPPP/3RR1K1 w - - 0 1"]
+
+ { 601. Mikhail Tal – Viktor Korchnoi, Herceg Novi (blitz) 1970 } { _ } 1. Qe8 $1 { White threatens 2 Rd8. } Rf7 ( 1... Kg8 { prepares to escape via f7 , but that dream comes to an end after } 2. Bd5 $1 Kh8 3. Bc4 { ✔ } ) 
+2. Rd8 $18 { ✔ It is not possible to defend against both 3. Rxc8 and 3. Qxf7. Also good enough is } ( 2. Rd5 Qb6 3. Qxf7 { . } ) 
+ ( { And } 2. Qxf7 Rxf7 3. Rd8 Rf8 4. Ree8 g6 5. Rxf8 Kg7 6. Rxc8 { wins as well, but is slightly unnecessary. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196142/"]
+[Date "????.??.??"]
+[Round "9.76"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 602"]
+[Result "0-1"]
+[FEN "r1bq1rk1/ppp1npbp/3p2p1/4p3/3nP3/3PBNP1/PPPQNPBP/R3K2R b KQ - 0 1"]
+
+ { 602. Gedeon Barcza – Mikhail Tal, Tallinn 1971 } { _ } 1... Bh3 $1 2. Nfxd4 Bxg2 3. Rg1 exd4 $19 { ✔ Black has won a piece (0–1, 23 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196143/"]
+[Date "????.??.??"]
+[Round "9.77"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 603"]
+[Result "1-0"]
+[FEN "r1bk1bQ1/1p1pRr2/p2n1P2/5P2/3p1N2/8/qPP3PP/4R2K w - - 0 1"]
+
+ { 603. Mikhail Tal – Andres Vooremaa, Tallinn 1971 } { _ } 1. Ne6+ $1 { The black queen is shut out from the defence of the rook on f7. } dxe6 ( { The game ended: } 1... Qxe6 2. fxe6 Rxf6 3. Rf7 { 1–0 } ) 
+2. Rxf7 Nxf7 3. Qxf8+ Kc7 4. Qxf7+ $18 { ✔ The f-pawn queens. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196145/"]
+[Date "????.??.??"]
+[Round "9.78"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 604"]
+[Result "0-1"]
+[FEN "r1r3k1/5p1p/3b2p1/3Pp3/4B1P1/1PR5/qPK1Q2P/2BR4 b - - 0 1"]
+
+ { 604. Karoly Honfi – Mikhail Tal, Sukhumi 1972 } { _ } 1... Rxc3+ 2. Kxc3 Bb4+ $1 ( 2... Rc8 3. Kd2 { and the king escapes. } ) 
+3. Kxb4 ( 3. Kc4 Qa6 4. Kxb4 Qxe2 { ✔ } ( { Or } 4. Kxb4 Rb8 { mating. } ) 
+ ) 
+Qa5+ 4. Kc4 Qa6+ $19 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196147/"]
+[Date "????.??.??"]
+[Round "9.79"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 605"]
+[Result "1-0"]
+[FEN "r1b2r1k/1pq2p1p/p3pp2/4b3/6Q1/1N1B4/PPP3PP/1K1R1R2 w - - 0 1"]
+
+ { 605. Mikhail Tal – Leonid Shamkovich, Baku 1972 } { _ } 1. Bxh7 $1 Kxh7 ( 1... f5 2. Qh4 { ✔ was quite hopeless (1–0, 26 moves) (. Both 2 Qh5 and 2 Qh3 also win, but the latter makes little sense.) } ) 
+2. Rf3 ( { ✔ Mate is on the way. } 2. Rd3 { also wins. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196148/"]
+[Date "????.??.??"]
+[Round "9.80"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 606"]
+[Result "1-0"]
+[FEN "3qnrk1/r3bppp/p2p3B/2p1pN2/P3P2N/1b1P1Q2/1P3PPP/R4RK1 w - - 0 1"]
+
+ { 606. Mikhail Tal – Valeri Korensky, Sochi 1973 } { _ } 1. { -KEY- } Nxg7 $1 Nxg7 2. Qg3 $1 ( 2. Qg4 $2 Bf6 3. Nf5 Be6 { pins the knight. } ) 
+Bg5 ( 3... Bf6 4. Nf5 { ✔ } ) 
+3. Bxg5 f6 4. Bh6 $16 { White has won a pawn and weakened the enemy’s king’s position (1–0, 41 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196149/"]
+[Date "????.??.??"]
+[Round "9.81"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 607"]
+[Result "1-0"]
+[FEN "2q2rk1/3rbpn1/pB2p1pQ/1p2P2p/4B3/8/PPP3PP/4RR1K w - - 0 1"]
+
+ { 607. Mikhail Tal – William Hartston, Hastings 1973 } { _ } 1. Rxf7 $1 Rxf7 ( 1... Kxf7 2. Bxg6 Kg8 3. Qh7 { ✔ } ) 
+2. Bxg6 Nf5 { The best try. } 3. Bxf7+ Kxf7 4. Qh7+ ( { ✔ Black loses the queen if he goes to the eighth rank, and is mated after: } 4. Qh7+ Ng7 ( 4. Qh7+ Ke8 5. Qxh5 Kf8 6. Qh8+ ) 
+5. Rf1 ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196153/"]
+[Date "????.??.??"]
+[Round "9.82"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 608"]
+[Result "*"]
+[FEN "1r3rk1/2Q2p1p/4q1p1/1b6/8/p1BnP1P1/PP4BP/R4RK1 w - - 0 1"]
+
+ { 608. Michael Basman – Mikhail Tal, Hastings 1973 } { _ } 1. { -KEY- } Rxf7 $1 Rxf7 ( 1... Qxf7 2. Bd5 $1 Qxd5 3. Qg7 { ✔ } ( 1... Qxe3 2. Kh1 Rxf7 3. Qxb8 Be8 ( 3... Qe8 4. Qxe8 Bxe8 5. Bd5 { ✔ should be winning as well. } ) 
+4. Bd5 { ✔ The king gets a square and the black rook is pinned. White must still take some care, but he is winning. } ) 
+ ) 
+2. Qxb8+ { ✔ } Be8 ( 2... Rf8 3. Qa7 { is important, defending the e3-pawn. } ) 
+3. Bd4 $1 { Defending against 3...Qxe3+ 4 Kh1 Nf2+. } axb2 $16 ( { White is close to winning if he plays accurately, but it’s difficult in practical play. Still it’s a good outcome from the diagram position. Basman played } 3... axb2 3. Rd1 { , and } ( 3... axb2 3. Rf1 { was also a reasonable alternative. } ) 
+ ) 
+
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196156/"]
+[Date "????.??.??"]
+[Round "9.83"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 609"]
+[Result "1/2-1/2"]
+[FEN "2r1r1k1/1ppb1pp1/p1np2np/3Np3/3PP3/2P2qP1/PP1Q1P1P/R2BR1K1 b - - 0 1"]
+
+ { 609. Mikhail Tal – Paul Keres, Tallinn 1973 } { _ } 1... { -KEY- } Nh4 $1 { The only move that saves the trapped queen. } 2. gxh4 ( 2. Bxf3 $2 Nxf3 3. Kg2 Nxd2 { ✔ wins a piece. } ) 
+Qh3 3. Nf6+ $1 { White had to do something before Black took on h4. } gxf6 $1 ( 3... Kh8 $6 4. Nxe8 $16 { was the game (1–0, 45 moves) (.) } ) 
+4. Qxh6 exd4 $1 { Stopping 5 Re3. } 5. Kh1 $1 ( 5. cxd4 Nxd4 6. Re3 Nf5 $1 7. exf5 Rxe3 $17 ) 
+Ne5 $1 6. Rg1+ Bg4 $1 ( 6... Ng4 $2 7. Bxg4 Bxg4 8. Rg3 ) 
+7. Rg3 $1 ( { A White has a narrow way to draw with: } 7. cxd4 Nf3 $1 8. Rg2 Rxe4 9. Bb3 $1 Nxh4 10. Rg3 Rce8 11. Rag1 $1 Re1 12. Bxf7 $1 Kxf7 13. Qh7 Kf8 14. Qh8 Kf7 $11 ( { B } 7. Bxg4 $6 Nxg4 8. Rxg4 ( 8. Rg3 $4 Qxh2 { – this is the reason why White should start with } 9. Rg3 { on the 7th move } ) 
+Qxg4 9. Rg1 Qxg1 $15 ) 
+ ) 
+Qf1+ 8. Rg1 Qh3 $11 { Black should have seen about this far before getting his queen trapped on f3, but from the diagram position, Black has no choice but to go for 1...Nh4 and make it up along the way. So you don’t need to see anything of this to get full points. } 
+ 1/2-1/2
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196158/"]
+[Date "????.??.??"]
+[Round "9.84"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 610"]
+[Result "1-0"]
+[FEN "2rq1bk1/pp1b1pp1/5n1p/n2BrN2/8/2N1B1PP/PPQ1PP2/3R1RK1 w - - 0 1"]
+
+ { 610. Mikhail Tal – Michael Stean, Moscow 1975 } { _ } 1. { -KEY- } Nxh6+ $1 gxh6 2. Qg6+ Kh8 ( 2... Bg7 3. Bxf7 { ✔ } Kf8 4. Bxh6 $1 ( 3... Kh8 3. Bf4 { seems almost as strong and simpler: } Re7 5. Bd6 $16 ) 
+Bxh6 5. Bd5 $1 Qe7 6. Qxh6 Qg7 $16 { With Black’s king in mind, White should keep the queens on. } ) 
+3. Bxf7 $18 { ✔ There is no defence against 4 Bxh6. If } Rh5 { Then White wins by challenging the knight on f6 in some fashion. } ( { In the game, Black tried } 3... Rc6 { and was immediately rewarded: } 4. Rd5 $2 Rxe3 $1 { (which he didn’t play) } 5. fxe3 Bg7 { Instead, 4 Bf4! , 4 Bxh6 and 4 Nd5 are all winning. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196160/"]
+[Date "????.??.??"]
+[Round "9.85"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 611"]
+[Result "1-0"]
+[FEN "6r1/pp2Q1pk/7p/2p2N2/1qP1P3/1P3rP1/P4P1P/5RK1 w - - 0 1"]
+
+ { 611. Oleg Romanishin – Mikhail Tal, Tallinn 1977 } { _ } 1. Nxh6 $1 { White gets a third pawn for the exchange with a continuing attack. Since } Kxh6 2. Qh4+ { Wins the rook: } Kg6 3. Qg4+ Kh6 4. Qxf3 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196161/"]
+[Date "????.??.??"]
+[Round "9.86"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 612"]
+[Result "0-1"]
+[FEN "6R1/1p4p1/1N6/p3r2p/Pb4kP/5rP1/1PRn1PK1/8 b - - 0 1"]
+
+ { 612. Mikhail Tal – Tamaz Giorgadze, Minsk 1979 } { _ } 1... Rxg3+ $1 { Opening up the second rank to take advantage of the unprotected rook on c2. } 2. fxg3 Re2+ 3. Kh1 ( 3. Kg1 Nf3+ { ✔ } ) 
+ ( { There are several ways to clinch the attack. The fastest is } 3. Kh1 Kh3 { with mate coming. } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196162/"]
+[Date "????.??.??"]
+[Round "9.87"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 613"]
+[Result "1-0"]
+[FEN "4qr2/1b1n2k1/r2P1p2/1p2pR1p/2p5/2P4P/1PBQ2P1/5R1K w - - 0 1"]
+
+ { 613. Mikhail Tal – Boris Spassky, Tilburg 1980 } { _ } 1. Rg5+ $1 Kf7 ( 1... fxg5 2. Qxg5 Kh8 3. Qh6 Kg8 4. Qh7 { ✔ } ) 
+2. Bg6+ $18 { ✔ Tal won the queen (1–0, 46 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196164/"]
+[Date "????.??.??"]
+[Round "9.88"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 614"]
+[Result "1-0"]
+[FEN "4r1k1/4b1n1/1q3rP1/p2p1p2/1p3B2/5NN1/PPPQ1P2/1K5R w - - 0 1"]
+
+ { 614. Mikhail Tal – Rico Mascarinas, Lvov 1981 } { _ } 1. Bc7 $1 { The bishop moves with tempo to clear the way for the queen. } Qxc7 2. Rh8+ ( { Or } 2. Qh6 { . } ) 
+Kxh8 3. Qh6+ Kg8 4. Qh7+ Kf8 5. Qh8# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196166/"]
+[Date "????.??.??"]
+[Round "9.89"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 615"]
+[Result "0-1"]
+[FEN "4rbk1/1q3ppp/3pp3/2n5/3NP3/BP2Q3/5PPP/4R1K1 b - - 0 1"]
+
+ { 615. Jan Ambroz – Mikhail Tal, Riga 1981 } { _ } 1... Nxe4 $1 2. Qxe4 ( 2. f3 { was played in the game (0–1, 40 moves) (.) } ) 
+d5 $17 { ✔ A double attack regaining the piece with an extra pawn and bishop versus knight. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196167/"]
+[Date "????.??.??"]
+[Round "9.90"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 616"]
+[Result "1-0"]
+[FEN "2b2k2/2p2r1p/p2pR3/1p3PQ1/3q3N/1P6/2P3PP/5K2 w - - 0 1"]
+
+ { 616. Mikhail Tal – David Bronstein, Tbilisi (simul match) 1982 } { _ } 1. Ng6+ $1 { Preparing a square for the rook. } hxg6 2. Qd8+ Kg7 3. Rxg6+ Kh7 4. Qg8# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196168/"]
+[Date "????.??.??"]
+[Round "9.91"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 617"]
+[Result "1-0"]
+[FEN "r2q1rk1/ppp3p1/2npbn1p/3N4/2PP4/3Q2P1/PP4BP/R1B2RK1 w - - 0 1"]
+
+ { 617. Mikhail Tal – Jim Plaskett, Sochi 1984 } { _ } 1. Bxh6 $1 Bxd5 ( 1... gxh6 2. Qg6 { ✔ } Kh8 3. Rxf6 ) 
+2. cxd5 Nb4 3. Qg6 $1 { +– ✔ White has won a pawn and has the bishop pair and more active position (1–0, 24 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196171/"]
+[Date "????.??.??"]
+[Round "9.92"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 618"]
+[Result "1-0"]
+[FEN "3rn1k1/1pr1bpp1/pn2p1p1/q3P3/3N2P1/P3B2P/1P1R1PB1/R2Q2K1 w - - 0 1"]
+
+ { 618. Mikhail Tal – Alexander Shabalov, Jurmala 1985 } { _ } 1. Nxe6 $1 fxe6 ( 1... Rxd2 2. Bxd2 { ✔ with threats against the queen and rook. } ) 
+2. Rxd8 Bxd8 3. Qxd8 { ✔ With a clearly winning position for White (1–0, 39 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196172/"]
+[Date "????.??.??"]
+[Round "9.93"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 619"]
+[Result "0-1"]
+[FEN "5rk1/7p/1npq2pQ/pp2pp2/4P2P/1PPr1BP1/P2N2K1/2BR4 b - - 0 1"]
+
+ { 619. Zoltan Ribli – Mikhail Tal, Montpellier 1985 } { _ } 1... Rxf3 $1 2. Nxf3 ( 2. Kxf3 Qd3+ { ✔ wins the rook on d1 . } ) 
+Qxd1 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196173/"]
+[Date "????.??.??"]
+[Round "9.94"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 620"]
+[Result "1-0"]
+[FEN "r1bk1b1r/pp1np1p1/1q3nBp/4p3/2PN4/8/PP1B1PPP/R2Q1RK1 w - - 0 1"]
+
+ { 620. Mikhail Tal – Lembit Oll, Riga 1986 } { _ } 1. { -KEY- } c5 $1 { The move Ne6 would be mate if it were not for the queen, so White starts harassing Her Majesty. } Nxc5 ( { The alternatives lead to mate: } 1... Qxc5 2. Ne6 { ✔ } ( { Or } 1... Qa6 2. Ba5 Qxa5 3. Ne6 { ✔ } ) 
+ ) 
+2. Ba5 $1 { ✔ Only like so. } exd4 $18 ( { Or } 2... Qxa5 3. Ne6 { . In the game, Black had three pieces for the queen, but no development and the king in the centre (1–0, 22 moves) (.) } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196175/"]
+[Date "????.??.??"]
+[Round "9.95"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 621"]
+[Result "1-0"]
+[FEN "r2q1rk1/1b2bppp/p2ppn2/8/1BR1P3/1PN3P1/P2Q1PBP/R5K1 w - - 0 1"]
+
+ { 621. Mikhail Tal – Ovidiu Foisor, Tbilisi 1986 } { _ } 1. e5 $1 Nd5 ( 1... Bxg2 2. exf6 { ✔ with a double threat. } ( 1... Nd5 1. Kxg2 { also wins material – either a pawn or an exchange: } Nd7 3. exd6 Bg5 $16 ) 
+ ) 
+2. Nxd5 ( { Tal played the weaker } 2. Bxd5 exd5 3. Nxd5 Bg5 $16 { (1–0, 27 moves) (.) } ) 
+exd5 3. Bxd5 $18 { ✔ White won a pawn and will win a second one on d6, or an exchange. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196177/"]
+[Date "????.??.??"]
+[Round "9.96"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 622"]
+[Result "1-0"]
+[FEN "1r3rk1/p3pp1p/1q1p1npQ/3P1nN1/1pp5/2N4P/PPP1B1P1/R4R1K w - - 0 1"]
+
+ { 622. Mikhail Tal – Miguel Quinteros, Santiago del Estero (blitz) 1987 } { _ } 1. Rxf5 $1 gxf5 2. Nce4 $1 { After } fxe4 3. Rf1 { ✔ there is no defence against 4 Rxf6 exf6 5 Qxh7#. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196178/"]
+[Date "????.??.??"]
+[Round "9.97"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 623"]
+[Result "1-0"]
+[FEN "rR6/2nb2kp/2Np2p1/3Pp2n/1P2Pp2/3q1N1P/1Q3PP1/6K1 w - - 0 1"]
+
+ { 623. Mikhail Tal – Johann Hjartarson, Reykjavik 1987 } { _ } 1. Ncxe5 $1 ( 1. Rxa8 Nxa8 2. Ncxe5 $1 { avoids the counterplay Black tried in the game, but it is not so easy to evaluate the position after } dxe5 3. Qxe5 Kf8 4. d6 { . However, White is winning here too. } ) 
+Qd1+ ( 1... dxe5 2. Qxe5 Nf6 ( 2... Kf7 3. Ng5 ) 
+3. Qe7+ { ✔ } ) 
+2. Kh2 Ra1 3. Ng4+ Kf7 4. Nh6+ Ke7 5. Ng8+ ( { For aesthetic reasons, Tal could have given up his queen: } 5. Qg7 Nxg7 6. Ng8 Kf7 7. Ng5 ) 
+Kf7 6. Ng5# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196192/"]
+[Date "????.??.??"]
+[Round "9.98"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 624"]
+[Result "1-0"]
+[FEN "r1b1k2r/pp1nbppp/1q2pn2/6N1/2Bp4/5N2/PPP2PPP/R1BQR1K1 w kq - 0 1"]
+
+ { 624. Mikhail Tal – Eduard Meduna, Germany 1989 } { _ } 1. { -KEY- } Nxf7 $1 ( 1. Bxe6 fxe6 2. Nxe6 { is also a serious advantage for White. } ) 
+Kxf7 ( { The game went: } 1... Qc7 2. Bxe6 { (1–0, 20 moves) } ) 
+2. Rxe6 $1 ( { ✔ } 2. Ng5 Ke8 3. Nxe6 { is also strong enough, even though White has to play some more good moves. } ) 
+Qb4 ( { Or } 2... Qxe6 3. Ng5+ { . (The b4-square is the only way to escape from the discovered check.) } ) 
+ { But White has many winning moves, among them } 3. Rxf6+ Kxf6 4. Qxd4+ { With mate. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196211/"]
+[Date "????.??.??"]
+[Round "9.99"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 625"]
+[Result "*"]
+[FEN "1r2r1k1/3b1n1p/1q2pbp1/1p1p4/1N3N2/1P4PP/P2Q1PB1/R2R2K1 w - - 0 1"]
+
+ { 625. Soenke Maus – Mikhail Tal, Germany 1990 } { _ } 1. Nbxd5 $1 ( { Taking advantage of the unprotected bishops and exposed queen. } 1. Nfxd5 { leads to the same. } ) 
+exd5 2. Nxd5 Qd6 3. Nxf6+ Qxf6 4. Qxd7 $18 { ✔ White is winning, but blundered on the next move (0–1, 28 moves) . } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196220/"]
+[Date "????.??.??"]
+[Round "9.100"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 626"]
+[Result "1-0"]
+[FEN "2r4k/5p1p/2bQP3/5pr1/1PpR1P2/2q5/P4K1P/4R3 w - - 0 1"]
+
+ { 626. Mikhail Tal – Vladimir Akopian, Barcelona 1992 } { _ } 1. Qe5+ $1 { White wins with a discovered check on the next move. } Rg7 2. Rd8+ Rxd8 3. Qxc3 $18 { ✔ (1–0, 38 moves) } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196264/"]
+[Date "????.??.??"]
+[Round "9.101"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 627"]
+[Result "1-0"]
+[FEN "r4rk1/pp2ppbp/3p2p1/5P2/3BP1n1/2N5/PqP1Q2P/3R1RK1 w - - 0 1"]
+
+ { Tigran Petrosian Strategy is a piece of stone you are working on, and tactics is basically the instrument you use to cut the stone. So we should see tactics as an instrument to help us to achieve what we want to achieve.627. Malashkhia – Tigran Petrosian, Tbilisi 1944 } { _ } 1. f6 $1 Bxf6 ( 1... Nxf6 { is a better try, but White is much better after } 2. Nd5 $1 Qxa2 3. Nxe7 Kh8 4. Bxf6 $16 { ✔ } ( { Or } 3... Bxf6 3. Rxf6 $16 { . } ) 
+ ) 
+2. Rxf6 $1 Nxf6 3. Nd5 ( { ✔ Black resigned due to } 3. Nd5 Qxa2 4. Nxe7 Kg7 5. Nd5 { with a deadly attack. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196301/"]
+[Date "????.??.??"]
+[Round "9.102"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 628"]
+[Result "0-1"]
+[FEN "3r2k1/pp2ppbp/6p1/n2p4/3P2b1/PP2PNP1/R4PKP/B1rB1R2 b - - 0 1"]
+
+ { 628. Agamalian – Tigran Petrosian, Tbilisi 1944 } { _ } 1... Nxb3 $1 2. Bb2 ( 2. Bxb3 Bxf3 { ✔ } ( 2. Bb2 Rxf1 $6 3. Kxf1 Bxf3 $17 { is also good, but it is better to keep control over the c-file. } ) 
+3. Kg1 { Black is a healthy pawn up with a positional advantage to boot. } ) 
+Rb1 $1 ( { Black has to stay on the first rank. It seems unnecessary to give away the bishop with: } 2... Bxf3 3. Kxf3 Rb1 $17 ) 
+3. Bxb3 Bxf3+ ( 3... Rxf1 { is a tempo worse, but also good enough. } ) 
+4. Kg1 Rxf1+ 5. Kxf1 $17 { ✔ Black is a healthy pawn up (0–1, 56 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196302/"]
+[Date "????.??.??"]
+[Round "9.103"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 629"]
+[Result "1-0"]
+[FEN "4N1r1/p3n1pQ/1p2p2P/1P2kp2/r5P1/8/5P1K/8 w - - 0 1"]
+
+ { 629. Yury Vasilchuk – Tigran Petrosian, Leningrad 1945 } { _ } 1. Qxg8 $1 ( { Black resigned due to } 1. Qxg8 Nxg8 2. h7 { ✔ and the h-pawn queens. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196319/"]
+[Date "????.??.??"]
+[Round "9.104"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 630"]
+[Result "0-1"]
+[FEN "r4rk1/p4ppp/1pn1pn2/3q4/3P4/2PBBP2/P1Q2P1P/2KR3R b - - 0 1"]
+
+ { 630. Palavandishvili – Tigran Petrosian, Tbilisi 1945 Black is clearly better, but can push his advantage further with: } 1... { -KEY- } Nb4 $1 2. Qb3 ( 2. cxb4 $2 { allows } Rac8 { ✔ or } Rfc8 { . } ) 
+Nxd3+ $19 { Trading off White’s bishop pair, which was his only compensation for his many pawn weaknesses. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196320/"]
+[Date "????.??.??"]
+[Round "9.105"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 631"]
+[Result "0-1"]
+[FEN "r3r1k1/3q1ppp/5n2/2Rp4/p4P2/P2QPNPP/P3K3/7R b - - 0 2"]
+
+ { 631. Nersesov – Tigran Petrosian, Tbilisi 1945 } { _ } ( { Black is clearly better with, for example, } 1... Rab8 $17 { , but he has a way to gain a winning position. } ) 
+Ne4 $1 { All the exposed white pieces make lovely targets for a centralized knight. } 2. Rxd5 ( 2. Rc2 Nxg3+ { ✔ } ) 
+Qxd5 ( { Or } 2... Nxg3+ { . White resigned as 3.Qxd5 Nc3+ gives Black an extra rook. } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196323/"]
+[Date "????.??.??"]
+[Round "9.106"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 632"]
+[Result "0-1"]
+[FEN "6k1/p4ppp/4p3/1r2P3/3p1q1P/1r1P4/QP2KNP1/1R5R b - - 0 1"]
+
+ { 632. Nikolay Grigoriev – Tigran Petrosian, Tbilisi 1945 } { _ } 1... Rxe5+ $1 ( { Abandoning the bind on the queenside to go for the kill. } 1... g6 $6 { ∓ is not killing. } ) 
+2. Kf1 ( 2. Kd1 Qxf2 $1 3. Qxb3 Qe2 4. Kc1 Rc5 5. Qc4 Rxc4+ { ✔ } 6. dxc4 d3 7. b4 Qc2 ) 
+Rf5 $1 { ✔ Mating. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196324/"]
+[Date "????.??.??"]
+[Round "9.107"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 633"]
+[Result "0-1"]
+[FEN "2r2bk1/8/4p1p1/4PpP1/1pqBpP2/r1P1R3/PQR3K1/8 b - - 0 1"]
+
+ { 633. Kristaps Smilga – Tigran Petrosian, Leningrad 1946 Black is already winning, but has a chance to finish the game quickly. } 1... Rxa2 $1 2. Qxa2 b3 3. Qb2 bxc2 4. Qxc2 ( 4. Kg1 { can be met in many ways, including } Qxd4 5. cxd4 c1=Q+ { . } ( { And } 4. Re1 { also allows many wins, including } Qd3 { . The queen infiltration is lethal. } ) 
+ ) 
+Qxd4 $1 { –+ ✔ 0–1 (44 moves) } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196332/"]
+[Date "????.??.??"]
+[Round "9.108"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 634"]
+[Result "1-0"]
+[FEN "2rq1r1k/3b1pp1/p3pb1p/1p6/1PN1B3/4PN2/2Q2PPP/3R1RK1 w - - 0 1"]
+
+ { 634. Tigran Petrosian – Yuri Kotkov, Leningrad 1946 White is a piece up, but it looks like he will lose the knight on c4. } 1. { -KEY- } Rxd7 $1 ( 1. Nfe5 Bxe5 2. Nxe5 Rxc2 3. Bxc2 { is clearly better for White, since he holds onto the minor pieces after: } Qc7 4. Nxd7 Rd8 5. Nc5 $1 { However, the game continuation is much clearer. } ) 
+Qxd7 2. Nb6 $1 ( 2. Nce5 $16 { only gives two pieces for a rook and pawn. } ) 
+Rxc2 ( 2... Qc7 3. Nxc8 { ✔ } ) 
+3. Nxd7 { ✔ } Rc4 4. Nd2 $1 ( { +– The last difficult move, keeping the b-pawn on the board. } 4. Nxf8 $6 Rxe4 { allows Black to win the b-pawn, although White is winning anyway. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196354/"]
+[Date "????.??.??"]
+[Round "9.109"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 635"]
+[Result "0-1"]
+[FEN "2kr3r/pp3pp1/2pPp1p1/4P3/3Q1P2/P1n4P/2qB2PK/RR6 b - - 0 1"]
+
+ { 635. Tigran Petrosian – Genrikh Kasparian, Yerevan (1) 1946 } { _ } 1... Rxh3+ $1 ( 1... Nxb1 2. Qxa7 { and Black cannot defend against White’s attack, but he has } Rxh3 ( { Either now or after } 2... Qb2 { / Qb3 } 3. Bb4 { . } ) 
+3. Kxh3 Rh8 4. Kg3 Qb3 5. Kg4 Qd1 ( 5... Nxd2 6. Qa5 Kb8 $1 7. Qc7 { is also a draw. } ) 
+6. Kg3 { with a draw. } ) 
+2. gxh3 ( 2. Kxh3 Qf5+ { ✔ and the knight fork on e2 is unavoidable. } ) 
+Nxb1 3. Rxb1 ( 3. Qxa7 Qxd2+ { ✔ comes with check, and Black gets the tempo he needs to check the queen to b5 and win. } ) 
+Qxb1 4. Qxa7 Qb5 $1 5. Ba5 Re8 $1 { –+ ✔ The only winning move, since Black has to be able to protect the rook after Qa8+ (0–1, 39 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199552/"]
+[Date "????.??.??"]
+[Round "9.110"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 636"]
+[Result "0-1"]
+[FEN "r6r/1q5k/p5pn/3pQ1P1/1P4P1/2P4R/2P4P/6K1 b - - 0 1"]
+
+ { 636. Tigran Petrosian – Manoian, Yerevan 1948 } { _ } 1... Kg8 $1 { –+ ✔ is the solution, and a type of move that’s often overlooked, simply moving the king out of the way in anticipation of a check. } ( { The game continued: } 1... Qg7 $4 { The idea is to be able to play ...Kg8 , but the attack is irresistible with the white rook on h6 . } 2. Rxh6 Kg8 3. Qe6+ ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196376/"]
+[Date "????.??.??"]
+[Round "9.111"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 637"]
+[Result "1-0"]
+[FEN "rnbqk2r/pp2bppp/2p5/3p2B1/3Pn3/2N1P3/PPQ2PPP/R3KBNR w KQkq - 0 1"]
+
+ { 637. Alexander Kotov – Tigran Petrosian, Moscow 1949 } { _ } 1. Bxe7 $1 Qxe7 $6 ( 1... Kxe7 2. Nxe4 dxe4 3. Qxe4 $16 { ✔ } ) 
+2. Nxd5 $1 { Taking full advantage of Black’s premature knight jump to e4. } cxd5 3. Qxc8+ $18 { ✔ White is winning; Black resigned in a few moves. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196377/"]
+[Date "????.??.??"]
+[Round "9.112"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 638"]
+[Result "*"]
+[FEN "rb1qrnk1/p4ppp/1ppP1p2/2P5/8/1B1bB2P/PP1N1PP1/R2Q1RK1 w - - 0 1"]
+
+ { 638. Tigran Petrosian – Alexey Sokolsky, Moscow 1949 } { _ } 1. Bxf7+ $1 Kxf7 2. Qb3+ Re6 3. Qxd3 $16 { ✔ White has won a pawn (½–½, 51 moves) . } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196379/"]
+[Date "????.??.??"]
+[Round "9.113"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 639"]
+[Result "0-1"]
+[FEN "3r1rk1/1p4bp/1qp3p1/p1n5/2PR2P1/1PB4P/PQ3PB1/5RK1 b - - 0 1"]
+
+ { 639. Boris Ratner – Tigran Petrosian, Gorky 1950 } { _ } 1... Na4 $1 ( 1... Bxd4 2. Bxd4 $15 ) 
+2. bxa4 Qxb2 3. Bxb2 Bxd4 $19 { ✔ After a series of forced moves, Black is an exchange up for a pawn, but also has much more active play and fewer weaknesses. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196381/"]
+[Date "????.??.??"]
+[Round "9.114"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 640"]
+[Result "0-1"]
+[FEN "5rk1/R4pp1/7p/p2r4/4Q3/3n3P/1q2BPP1/3R2K1 b - - 0 1"]
+
+ { 640. Tigran Petrosian – Ratmir Kholmov, Vilnius 1951 } { _ } 1... { -KEY- } Nxf2 $1 2. Rb7 $2 ( { A } 2. Kxf2 Rxd1 { and the pin along the second rank makes Black’s day. } ( { B } 2. Qxd5 Nxd1 { ✔ and the knight cannot be taken due to 3...Qb6+ picking up the rook, so Black has two extra pawns and an initiative. } ) 
+ ( { C } 2. Rb1 $1 { was the only move. } Nxe4 3. Rxb2 $17 { With the rook on a7 , White has hopes of attacking a5 or f7 . } ) 
+ ) 
+Rxd1+ ( { ✔ Or } 2... Nxe4 { . } ) 
+3. Bxd1 Qd2 $19 { 0–1, 43 moves } ( 3... Nxe4 { was also winning. } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196382/"]
+[Date "????.??.??"]
+[Round "9.115"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 641"]
+[Result "1-0"]
+[FEN "2r2k2/8/p1pP1r2/2P2p2/B4ppp/7P/PP3PP1/4R1K1 w - - 0 1"]
+
+ { 641. Herman Pilnik – Tigran Petrosian, Budapest 1952 } { _ } 1. { -KEY- } Bxc6 $1 ( 1. hxg4 $5 fxg4 2. Bxc6 $1 { could be a slight improvement, as White has less to worry about on the first rank. But the game move is good enough. } ) 
+Kg7 ( 1... Rxc6 2. d7 { ✔ queens. } ) 
+ ( { After having moved the king } 1... Kg7 { , Black threatens } 2. -- Rxc6 3. d7 Rfd6 4. cxd6 Rxd6 { with drawing chances. } ) 
+2. Re7+ $1 ( { ✔ The game continued: } 2. d7 Rfxc6 $1 3. dxc8=Q $11 Rxc8 4. b4 { The rook ending should be winning, but it is not over yet. However, 2.d7 is a good and practical choice. (1–0, 50 moves). Instead, checking on e7 is accurate when Black’s king cannot go to f6. } ) 
+ { The two pawns, supported by bishop and rook, are strong enough to gain a winning rook endgame, for instance: } Kf8 $5 3. Re5 Rxc6 4. d7 Rfd6 5. Rxf5+ Kg7 6. Rg5+ Kh6 7. cxd6 g3 8. Kf1 Rxd6 9. Rg4 $18 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196384/"]
+[Date "????.??.??"]
+[Round "9.116"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 642"]
+[Result "1-0"]
+[FEN "rn4k1/ppb2qp1/2p3r1/4PN2/5PQ1/5R2/PP4PP/3R2K1 w - - 0 1"]
+
+ { 642. Tigran Petrosian – Ludek Pachman, Saltsjobaden 1952 } { _ } 1. Qxg6 $1 ( 1. Ne7 $6 Qxe7 2. Qxg6 $16 { is not as good. With queens on the board, Black has some chances to get his pieces working properly. } ) 
+Qxg6 2. Ne7+ Kf7 3. Nxg6 Kxg6 $18 { ✔ The minor pieces are no match for so many pawns on the kingside (1–0, 36 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196386/"]
+[Date "????.??.??"]
+[Round "9.117"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 643"]
+[Result "0-1"]
+[FEN "r3r1k1/p4p1p/q2p2p1/3P4/Pp1QnP2/6P1/1P5P/RN2R1K1 b - - 0 1"]
+
+ { 643. Zdravko Milev – Tigran Petrosian, Bucharest 1953 } { _ } 1... Nxg3 $1 { Using the back-rank weakness to create a winning attack. } ( 1... Ng5 $2 { does not work due to the defence } 2. Nd2 ) 
+ { and the knight is trapped on g5. } 2. Rxe8+ ( { Instead the game went: } 2. Nc3 bxc3 3. hxg3 c2 { . } ) 
+Rxe8 3. hxg3 Re1+ 4. Kh2 Qe2+ 5. Kh3 Rh1# { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196389/"]
+[Date "????.??.??"]
+[Round "9.118"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 644"]
+[Result "0-1"]
+[FEN "2r1n1k1/2q1bpp1/p1r4p/8/N1NRP3/8/P3QPPP/2R3K1 b - - 0 1"]
+
+ { 644. Laszlo Szabo – Tigran Petrosian, Zurich 1953 } { _ } 1... { -KEY- } Bf6 $1 { Trying to chase away a defender of c4. } 2. e5 { The only serious move, which White had surely planned in advance. } Bxe5 $1 { ✔ But the pinned knight is not an effective defender, as it cannot move! } 3. Re4 Nf6 $19 { The rook cannot maintain its defence of c4 } ( 3... f6 ) 
+ ( { Or } 3... Bxh2 4. Kh1 Nf6 { does not spoil anything either. } ) 
+ { And } 4. Rxe5 Rxc4 5. Rxc4 Qxc4 6. Qxc4 Rxc4 { is a decisive double threat. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196391/"]
+[Date "????.??.??"]
+[Round "9.119"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 645"]
+[Result "0-1"]
+[FEN "r4rk1/1ppb1pb1/3p1qp1/2nPp2p/p1P1P2P/P1N3PB/1P3P1K/1R1QNR2 b - - 0 1"]
+
+ { 645. Gideon Stahlberg – Tigran Petrosian, Zurich 1953 } { _ } 1... Bxh3 2. Kxh3 Nxe4 $1 { Simply winning a central pawn; Black is much better. } 3. Nxe4 Qf5+ 4. Kh2 Qxe4 $17 { ✔ (0–1, 64 moves) } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196395/"]
+[Date "????.??.??"]
+[Round "9.120"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 646"]
+[Result "1-0"]
+[FEN "r1n1q1k1/5rpp/4b3/p2pPp2/2pP1P1Q/B1P2R2/2B3PP/R5K1 w - - 0 1"]
+
+ { 646. Mark Taimanov – Tigran Petrosian, Zurich 1953 } { _ } 1. Ba4 $1 ( { Since the queen needs to remain in control of d8 , White wins material. After } 1. g4 $6 g6 $16 { White is still clearly better, but Black has hope. } ) 
+Bd7 ( { Black played } 1... Rd7 { (1–0, 40 moves) (.) } ) 
+2. e6 $1 ( { Now the queen has to allow the decisive Qd8+. Instead } 2. Rh3 $5 h6 ( 2. e6 g6 3. e6 Qxe6 4. Re1 ) 
+3. Bd1 { , infiltrating the light squares, is also good. } ) 
+Qxe6 3. Qd8+ ( { Or } 3. Re1 { . } ) 
+Qe8 4. Qxe8+ Bxe8 5. Bxe8 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196396/"]
+[Date "????.??.??"]
+[Round "9.121"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 647"]
+[Result "1-0"]
+[FEN "1n3rk1/7q/p1P2p2/1n1P1Rpp/1Q6/3N4/4r1PP/5RK1 w - - 0 1"]
+
+ { 647. Svetozar Gligoric – Tigran Petrosian, Belgrade 1954 } { _ } 1. Rxg5+ $1 ( 1. Rxf6 $11 ) 
+Kf7 ( 1... fxg5 2. Qxf8 { ✔ } ) 
+2. Rxf6+ ( { Forcing mate, while several other moves also win. The best alternative is } 2. Ne5+ { . } ) 
+Kxf6 3. Qxf8+ $1 Kxg5 4. h4+ $1 { It’s mate: } ( 4. h4+ Kxh4 5. Qf4 { ✔ } ) 
+ ( { Or } 4. h4+ Kg6 5. Nf4 { ✔ } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196407/"]
+[Date "????.??.??"]
+[Round "9.122"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 648"]
+[Result "1-0"]
+[FEN "2k4r/p3qp2/bp1r1npp/n1pPp3/2P1P2B/P1PB1N2/6PP/R2Q1RK1 w - - 0 1"]
+
+ { 648. Tigran Petrosian – Pal Benko, Budapest 1955 } { _ } 1. Nxe5 $1 { Black is surely missing his dark-squared bishop now! } Qxe5 2. Bg3 Qe7 3. e5 $1 Rd7 4. Rxf6 $18 { ✔ White is clearly winning – the central pawns and bishop pair reign supreme (1–0, 27 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196500/"]
+[Date "????.??.??"]
+[Round "9.123"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 649"]
+[Result "1-0"]
+[FEN "5rk1/p1r2qpp/8/2p1Rp2/1n2n2P/1P2P1P1/PB3PB1/2RQ2K1 w - - 0 1"]
+
+ { 649. Tigran Petrosian – Alexander Tolush, Riga 1958 } { _ } 1. { -KEY- } Bf1 $1 { The bishop manoeuvre to the a2-g8 diagonal wins at least the f5-pawn, with a completely winning position. } ( 1. Bh3 { tries to provoke ...g6 before manoeuvring the bishop to c4, but Black has } Rd7 { in between, when the queen has no good square. } 2. Qf1 g6 3. Rxe4 fxe4 4. Bxd7 Qxd7 5. Qc4 Qf7 6. Qxf7 Kxf7 7. Rxc5 { wins a pawn, but it’s not over yet. } ) 
+Kh8 2. Bc4 $18 { ✔ White is winning. Here are some sample lines: } Qf6 ( 2... Qd7 3. Be6 Qxd1 4. Rxd1 ( 2... Qg6 3. Re6 Nf6 4. Qd6 { and Black has lost all active counterplay while White’s pieces have gained in strength. } ) 
+ ) 
+3. Re8 Rxe8 4. Bxf6 $18 { 1–0, 37 moves } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196501/"]
+[Date "????.??.??"]
+[Round "9.124"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 650"]
+[Result "1-0"]
+[FEN "rn2brk1/5ppp/1q2p3/p2p4/3P4/P1NBQ3/1P3PPP/2R1R1K1 w - - 0 1"]
+
+ { 650. Tigran Petrosian – Eduard Gufeld, Tbilisi 1959 } { _ } 1. Nxd5 $1 exd5 2. Qxe8 $18 { ✔ The queen cannot be taken, so White has gained a winning advantage with his extra pawn and better pieces (1–0, 30 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196502/"]
+[Date "????.??.??"]
+[Round "9.125"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 651"]
+[Result "1-0"]
+[FEN "3qk3/pr3ppr/4p1n1/1p1pP3/b1pP2B1/2P3P1/2P2RP1/2BQ1RK1 w - - 0 1"]
+
+ { 651. Leonid Stein – Tigran Petrosian, Moscow 1961 } { _ } 1. Bxe6 $1 { Black resigned. } ( 1. Rxf7 $2 Rxf7 2. Bxe6 { leads nowhere after: } Rxf1 3. Qxf1 Qe7 $17 ) 
+ ( { And } 1. Bh5 Nh8 $11 { is equal. } ) 
+fxe6 ( { Or } 1... Nh8 { when White, among others, has } 2. Qg4 { . } ) 
+2. Qg4 $1 { +– ✔ The knight cannot move because of Rf8+, so Black is totally lost. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196511/"]
+[Date "????.??.??"]
+[Round "9.126"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 652"]
+[Result "0-1"]
+[FEN "r4rk1/p1n1B1pp/bp1p4/2p1pP2/2PnP1PQ/Pq1B3N/1P5P/3R1RK1 b - - 0 1"]
+
+ { 652. Tigran Petrosian – Paul Keres, Zurich 1961 } { _ } 1... Qxd1 $1 ( 1... Nf3 $2 2. Rxf3 Qxd1 3. Kg2 $16 { is a lot worse, since White retains attacking chances with the queens still on and has a double attack with the bishop. } ) 
+2. Rxd1 Nf3+ 3. Kg2 Nxh4+ 4. Bxh4 $17 { ✔ Black’s pieces are not impressive, and the d6-pawn is quite useless, so it is not over yet, but winning an exchange is of course a good start (0–1, 50 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196512/"]
+[Date "????.??.??"]
+[Round "9.127"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 653"]
+[Result "0-1"]
+[FEN "3rr3/5pkp/p1b3p1/4p3/p2nPn2/N6P/2P2PP1/R1N1RBK1 b - - 0 1"]
+
+ { 653. Semen Furman – Tigran Petrosian, Moscow 1961 } { _ } 1... Nxh3+ $1 2. gxh3 ( 2. Kh2 Nxf2 { was hopeless in the game (0–1, 41 moves) (.) } ) 
+Nf3+ 3. Kh1 Nxe1 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196513/"]
+[Date "????.??.??"]
+[Round "9.128"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 654"]
+[Result "1-0"]
+[FEN "2rr1nk1/pp3ppp/4qn2/3p1N2/6P1/2BQP2P/PP3P2/1K1R3R w - - 0 1"]
+
+ { 654. Tigran Petrosian – Georgi Ilivitzki, Moscow 1964 White has a clear positional advantage after most moves, but can use his superiority to gain a decisive material advantage. } 1. { -KEY- } Nxg7 $1 Kxg7 2. g5 $18 { ✔ White wins an important pawn, or more. The opening of the g-file secures the pawn that will arrive on f6. } Nd7 3. Qxd5 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1196514/"]
+[Date "????.??.??"]
+[Round "9.129"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 655"]
+[Result "1/2-1/2"]
+[FEN "r4rk1/1ppb4/n2p1npb/3Ppp1q/1PP1P3/2N2NP1/2Q1BB2/1R1R2K1 w - - 0 1"]
+
+ { 655. Tigran Petrosian – Leonid Stein, Moscow 1967 } { _ } 1. Nxe5 $1 { Sometimes the best you can do is make a draw. } ( 1. Nh2 Ng4 $17 ) 
+Qh3 ( 1... Ng4 $2 2. Bxg4 fxg4 3. Nxd7 { ✔ } Rf7 4. e5 $16 ) 
+ { (The knight gets out with an extra piece, or White gets a very strong passed e6-pawn.) } ( 1... Qg5 { should be met with } 2. Nf3 $11 { , as White is worse after other moves. The challenge with this exercise is to realize that White is satisfied with a draw. } ) 
+2. Bf1 ( 2. Nxd7 $2 Be3 $3 { ∓ } ) 
+Qh5 3. Be2 ( { White can also play on with } 3. Nxd7 Nxd7 4. exf5 $11 { but should probably try the same repetition soon. } ) 
+Qh3 4. Bf1 Qh5 { ✔ } 
+ 1/2-1/2
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199553/"]
+[Date "????.??.??"]
+[Round "9.130"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 656"]
+[Result "*"]
+[FEN "2r5/p4pk1/1p4pp/4P2n/6R1/5Q2/PPBr3q/1K1R4 w - - 0 1"]
+
+ { 656. Tigran Petrosian – Aron Reshko, Leningrad 1967 } { _ } 1. Rxg6+ $1 ( { The only move that is not worse for White. } 1. Rxd2 $2 Qxd2 2. Rxg6 $17 { allows Black to move the king, as the pawn on h6 is defended. It is also a huge difference that Black threatens to check (and mate) (.) } ) 
+fxg6 ( 1... Kf8 $2 2. Rxh6 $16 ( { Or } 1... fxg6 1. Rg8 Kxg8 3. Qg4 Kf8 4. Qxc8 Ke7 $16 ) 
+ ( { Or } 1... fxg6 1. Rf1 $16 ) 
+ ) 
+2. Qb7+ Kh8 ( { ChessBase gives } 2... Kg8 $2 { but it seems unlikely, as it allows } 3. Bb3 { with mate. } ) 
+3. Qxc8+ $13 { ✔ The game should end in a draw, but Black made a mistake and lost (1–0, 40 moves) . } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199555/"]
+[Date "????.??.??"]
+[Round "9.131"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 657"]
+[Result "1-0"]
+[FEN "2r5/7p/3q2k1/p2Np1p1/Pp1bPpP1/1P3P2/4Q2P/3R3K w - - 0 1"]
+
+ { 657. Tigran Petrosian – Jonathan Penrose, Palma de Mallorca 1969 } { _ } 1. Ne7+ $1 ( 1. Qb5 { is a positional win – White still has the same threat. } ) 
+Qxe7 2. Qa6+ Kg7 3. Qxc8 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199557/"]
+[Date "????.??.??"]
+[Round "9.132"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 658"]
+[Result "0-1"]
+[FEN "4r1k1/pp3pp1/5q1p/P1Rp4/3P1nP1/1P3PN1/3Q1K1P/1b3B2 b - - 0 1"]
+
+ { 658. Tigran Petrosian – Boris Spassky, Moscow (4) 1969 } { _ } 1... Bd3 $1 { The queen is obstructed from the defence of the d-pawn. } 2. Nf5 ( 2. Qc3 Qh4 3. Kg1 Bxf1 $1 { Black wins. } 4. Rc8 ( { No better are } 4. Kxf1 Qh3 5. Kf2 Qg2 ) 
+ ( { Or } 4. Nxf1 Ne2+ ) 
+Bb5 { ✔ The light-squared bishop does a good job. } ) 
+Qg5 $1 { The threats are 3...Nh3+ and 3...Bxf5 followed by 4...Qh4+. } ( 2... Bxf5 3. Qxf4 g5 { also wins – White has to give up the d- or the g-pawns (also full points) (.) } ) 
+3. Ne3 Qh4+ 4. Kg1 Bxf1 $19 ( { ✔ White resigned due to } 4... Bxf1 4. Nxf1 Re2 6. Qxf4 Qf2 7. Kh1 Qxf1 ( { And } 4... Bxf1 4. Kxf1 Qh3 6. Kg1 Qxf3 { with mate coming soon. } ) 
+ ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199558/"]
+[Date "????.??.??"]
+[Round "9.133"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 659"]
+[Result "1-0"]
+[FEN "r4r2/1p2pkbQ/5qp1/8/p3P3/4B2R/P4PP1/2R2K2 w - - 0 1"]
+
+ { 659. Tigran Petrosian – Vladimir Savon, Moscow 1969 } { _ } 1. { -KEY- } e5 $1 { ✔ Preparing a check on f3. But not } ( 1. Rf3 $2 Qxf3 $1 2. gxf3 Rh8 $11 { . } ) 
+Qxe5 2. Bh6 $18 { There is no defence against 3. Rf3+. } ( { Petrosian’s } 2. Rf3 Ke6 3. Qxg6 Bf6 { was also winning, but required some more moves (1–0, 37 moves) (.) } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199559/"]
+[Date "????.??.??"]
+[Round "9.134"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 660"]
+[Result "0-1"]
+[FEN "2r1r1k1/p1qn1p1p/1p3n2/2p2P2/2PpP2P/1P2b1P1/PB1NQ1NK/R4R2 b - - 0 1"]
+
+ { 660. Lev Polugaevsky – Tigran Petrosian, Soviet Union 1970 } { _ } 1... { -KEY- } Bxd2 $1 2. Qxd2 Qxg3+ $1 ( 2... Rxe4 $17 { If you saw the queen sacrifice, winning a pawn, but still decided to keep the queens on the board, you get full points. } ) 
+3. Kxg3 Nxe4+ 4. Kf4 Nxd2 $19 { ✔ After } 5. Rfe1 { Black played } Nf6 { to get the knight out in a good way. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199562/"]
+[Date "????.??.??"]
+[Round "9.135"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 661"]
+[Result "1-0"]
+[FEN "5k2/1brnrpb1/p1pR1np1/Pp2p1N1/4P3/1BN1B2P/1PP2P2/3R2K1 w - - 0 1"]
+
+ { 661. Rudolf Maric – Tigran Petrosian, Vinkovci 1970 } { _ } 1. { -KEY- } Bxf7 $1 { White is better after other moves, but this wins. } Rxf7 2. Ne6+ $1 Kg8 3. Nxc7 $18 { ✔ The final moves were: } Bf8 4. Ne8 Kh7 5. Rxd7 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199564/"]
+[Date "????.??.??"]
+[Round "9.136"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 662"]
+[Result "1-0"]
+[FEN "3r2k1/pb2bpp1/1pn1p2p/8/1P2q3/PQ2PN1P/1B2BPP1/3R2K1 w - - 0 1"]
+
+ { 662. Tigran Petrosian – Anthony Saidy, San Antonio 1972 } { _ } 1. Bd3 $1 Qd5 2. Bh7+ $1 Kxh7 3. Rxd5 $18 { ✔ (1–0, 56 moves) Black was trying to equalize by trading rooks, but forgot about his queen. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199566/"]
+[Date "????.??.??"]
+[Round "9.137"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 663"]
+[Result "1-0"]
+[FEN "2r2k2/5p2/2pp1q1p/2n1bPp1/2P5/B3Q1PP/5PB1/3R3K w - - 0 1"]
+
+ { 663. Tigran Petrosian – Miguel Quinteros, Manila 1974 } { _ } 1. { -KEY- } f4 $1 { Driving away the best defender of d6. } gxf4 2. gxf4 Bb2 3. Rxd6 $1 ( 3. Bxb2 Qxb2 4. Rxd6 Qb1 5. Kh2 Qxf5 6. Rxh6 { should also win, but it’s only a pawn. } ) 
+Re8 ( 3... Qxd6 4. Bxc5 { ✔ } ) 
+4. Rxf6 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199567/"]
+[Date "????.??.??"]
+[Round "9.138"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 664"]
+[Result "1-0"]
+[FEN "3r4/p5k1/1pp2bn1/4p3/2P1N1q1/1PB1Q1P1/P5K1/7R w - - 0 1"]
+
+ { 664. Tigran Petrosian – Radolfo Cardoso, Manila 1974 } { _ } 1. Rh7+ $1 ( 1. Qh6 $2 Kf7 2. Qh7 $2 Ke6 ) 
+Kxh7 2. Nxf6+ Kg7 3. Nxg4 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199576/"]
+[Date "????.??.??"]
+[Round "9.139"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 665"]
+[Result "1-0"]
+[FEN "r2q1rk1/pp2n1b1/3p2pp/1b1Pp1B1/1P2N3/1Q4PP/P4PB1/R1R3K1 w - - 0 1"]
+
+ { 665. Tigran Petrosian – Bukhuti Gurgenidze, Riga 1975 } { _ } 1. Nxd6 $1 { White did not have to respond to the threat to the bishop by moving it. } hxg5 ( 1... Qxd6 $2 2. Bxe7 Qxe7 3. d6 Qf7 4. Bd5 { ✔ } ) 
+2. Nxb5 { 1–0, 31 moves } ( 2. Nxb7 { also wins if White follows up with 3 d6+ . } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199578/"]
+[Date "????.??.??"]
+[Round "9.140"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 666"]
+[Result "0-1"]
+[FEN "2r3k1/pq2n1b1/4prN1/1pPbN1p1/3P2P1/8/P6Q/1B2RRK1 b - - 0 1"]
+
+ { 666. Tigran Petrosian – Nigel Short, London (simul) 1978 } { _ } 1... Rxg6 $1 ( { In order to exploit White’s weak king, Black needs to get at the d4-pawn with the bishop. So } 1... Nxg6 2. Rxf6 Bxf6 3. Bxg6 { is not enough. } ) 
+2. Qh5 { Three alternatives: } ( { A } 2. Bxg6 Nxg6 3. Nxg6 Bxd4+ { ✔ } ) 
+ ( { B } 2. Nxg6 Bxd4+ { ✔ } ) 
+ ( { C } 2. Rf7 Rh6 $1 3. Qxh6 Bxh6 4. Bh7 Kh8 5. Rxe7 Qxe7 6. Ng6 Kxh7 7. Nxe7 { ✔ is just a piece up for Black (and there were no good alternatives on the way) (.) } ) 
+Rh6 $1 ( 2... Bxe5 $6 3. Rxe5 $16 ) 
+3. Qf7+ Kh8 { ✔ White is a piece down. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199580/"]
+[Date "????.??.??"]
+[Round "9.141"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 667"]
+[Result "0-1"]
+[FEN "5r1k/p5p1/1p3n1p/1Pp5/2RPp3/P3P2P/2Q3PK/2N1q3 b - - 0 1"]
+
+ { 667. Gerardo Lebredo Zarragoitia – Tigran Petrosian, Vilnius 1978 } { _ } 1... Ng4+ $1 2. hxg4 Rf1 $1 { ✔ Black could have won with many moves, but a mate-in-four should not be missed. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199584/"]
+[Date "????.??.??"]
+[Round "9.142"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 668"]
+[Result "1-0"]
+[FEN "2brrbk1/3n3p/pp1Pp1p1/5p2/PqP2P2/2N2B2/1B2Q1PP/3R1R1K w - - 0 1"]
+
+ { 668. Lev Polugaevsky – Tigran Petrosian, Kislovodsk 1982 } { _ } 1. Nd5 $1 exd5 ( { A } 1... Qxd6 2. Nf6+ { ✔ wins the queen. } ( { B Black tried to fight on with } 1... Qc5 { but did not last long: } 2. Nc7 ( { Or } 1... exd5 1. Ne7 Bxe7 3. Qxe6+ ) 
+ ( { Or even } 1... exd5 1. Qc2 ) 
+ ) 
+ ) 
+2. Bxd5+ { ✔ It is mate on the next move. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199585/"]
+[Date "????.??.??"]
+[Round "9.143"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 669"]
+[Result "1-0"]
+[FEN "1r5k/6p1/p1pQ1p1p/1q6/1n2N3/1P6/1KP2PPP/3R4 w - - 0 1"]
+
+ { Boris Spassky The best indicator of a chess player’s form is his ability to sense the climax of the game.669. Boris Spassky – Vladlen Zurakhov, Leningrad 1954 } { _ } 1. { -KEY- } Nxf6 $1 { +– Threatening 2.Qd8+ with mate. Black can’t take back, as } gxf6 2. Qxf6+ { ✔ } Kg8 3. Rd7 { Leads to mate. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199586/"]
+[Date "????.??.??"]
+[Round "9.144"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 670"]
+[Result "1-0"]
+[FEN "4r1k1/pQ4pp/2r5/1bq2p1n/2p1P3/P1P2P2/3BB1PP/R3R2K w - - 0 1"]
+
+ { 670. Semen Furman – Boris Spassky, Moscow 1955 Black is threatening 1...f4 followed by 2...Ng3+ 3.hxg3 Rh6#. } ( 1. Rab1 { is better for White, but allows Black to complicate things with: } Rb6 2. Qxa7 Ng3 3. hxg3 Rh6 4. Bxh6 Qxa7 5. Rxb5 gxh6 $16 { So the solution is another move: } ) 
+1. Be3 $1 ( 1. exf5 $2 { threatens Bxc4+ but runs into } Rc7 $1 { when White must give up a piece with } 2. Bxc4 { to avoid losing his queen. } ) 
+Qe5 ( 1... Qxe3 2. Bxc4+ { ✔ is a discovered attack. } ( { And } 1... Rc7 2. Bxc5 Rxb7 3. Rab1 { wins a second pawn with a capture on b5 next. } ) 
+ ) 
+2. f4 $18 { White threatens not only the queen, but also the knight on h5. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199589/"]
+[Date "????.??.??"]
+[Round "9.145"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 671"]
+[Result "1-0"]
+[FEN "r3kb1r/1bp1n2p/p3qp2/1p2p1p1/4P2N/1PN1BQ2/1PP2PPP/R2R2K1 w kq - 0 1"]
+
+ { 671. Boris Spassky – Mark Taimanov, Moscow 1955 } { _ } 1. Nxb5 $1 axb5 2. Qh5+ ( { Or } 2. Rxa8 { first. } ) 
+Qf7 3. Rxa8+ Bxa8 4. Rd8+ Kxd8 5. Qxf7 gxh4 { ✔ Black has a rook, a bishop and a knight for the queen, but his pieces are passive and his pawns are falling. White is clearly winning. Spassky took the pawns on f6, e5, b5 and c7, and continued with b3-b4-b5-b6-b7-b8=Q (1–0, 39 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199591/"]
+[Date "????.??.??"]
+[Round "9.146"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 672"]
+[Result "0-1"]
+[FEN "4N2k/4B3/6pp/pp3p2/2bb1PP1/P1n2K2/2B4P/8 b - - 0 1"]
+
+ { 672. Nikolai Krogius – Boris Spassky, Leningrad 1957 } { _ } 1... { -KEY- } Bd5+ $1 2. Kg3 Ne2+ 3. Kh3 Nxf4+ ( { An even faster move is } 3... Bf2 { when White cannot defend against both 4...Nxf4# and 4...Ng1# . } ) 
+4. Kg3 Ne2+ { ✔ } 5. Kh3 Ng1+ 6. Kg3 f4+ 7. Kxf4 Ne2# 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199593/"]
+[Date "????.??.??"]
+[Round "9.147"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 673"]
+[Result "0-1"]
+[FEN "r4r1k/pb2Nppp/1p3n2/q3n3/N3p2R/1B2P3/PP3PPP/R3Q1K1 b - - 0 1"]
+
+ { 673. David Bronstein – Boris Spassky, Riga 1958 } { _ } 1... { -KEY- } Nf3+ $1 ( { Black could also start with } 1... Qb5 { and execute the winning combination on the next move. } ) 
+2. gxf3 Qg5+ { ✔ } 3. Kh1 ( 3. Rg4 Nxg4 4. fxg4 Qxe7 { leaves Black an exchange up, with the safer king. } ) 
+Qxh4 $19 { Spassky easily converted his material advantage (0–1, 30 moves) . } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199595/"]
+[Date "????.??.??"]
+[Round "9.148"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 674"]
+[Result "1-0"]
+[FEN "4rr1k/5p2/p2p3q/1p1n1PRP/2p1pQ2/2P5/PPB2PR1/7K w - - 0 1"]
+
+ { 674. Boris Spassky – Fridrik Olafsson, Moscow 1959 } { _ } 1. { -KEY- } Rg8+ $1 Kh7 ( 1... Rxg8 2. Qxh6 { ✔ } ) 
+2. R2g7+ $1 ( { Or } 2. R8g7 { . } ) 
+Qxg7 3. Rxg7+ Kxg7 4. f6+ ( 4. Qg5 { gives the same result. } ) 
+Nxf6 5. Qg5+ Kh7 6. Qxf6 { ✔ White is winning and Black resigned after: } Re5 7. Bxe4+ 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199596/"]
+[Date "????.??.??"]
+[Round "9.149"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 675"]
+[Result "1-0"]
+[FEN "1n3r2/r4p1k/p2R2p1/2p5/1p2q3/1QB1P3/PP3P2/2K3R1 w - - 0 1"]
+
+ { 675. Igor Zaitsev – Boris Spassky, Rostov on Don 1960 } { _ } 1. Qc4 $1 { The black queen is overloaded and cannot defend both h1 and h4. } ( 1. Qc4 f5 { is a good try, but loses after } 2. Qxe4 fxe4 3. Rh1 Kg8 4. Rh8 Kf7 5. Rf6 ) 
+Qxc4 2. Rh1+ Kg8 3. Rh8# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199597/"]
+[Date "????.??.??"]
+[Round "9.150"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 676"]
+[Result "1-0"]
+[FEN "1k1r4/2q2p2/Q3pPP1/8/Pb1pP3/1p1P4/8/1KBR4 w - - 0 1"]
+
+ { 676. Boris Spassky – Vladimir Shishkin, Rostov on Don 1960 White’s pawns on the kingside are decisive, but first he must defend against the mate. } 1. Bf4 $1 Qxf4 2. Qb6+ ( 2. Qb5 Ka7 { should be winning, but is less clear. } ) 
+Kc8 ( 2... Ka8 { drops the rook with check: } 3. Qxd8+ { ✔ } ) 
+3. Qxb4 $18 { ✔ Now it is the black king that is exposed; there is no defence against 4 Rc1+. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199600/"]
+[Date "????.??.??"]
+[Round "9.151"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 677"]
+[Result "1-0"]
+[FEN "1n3N1k/r4p2/2pR2pp/1pq1p3/6QP/8/PPp2PP1/3R2K1 w - - 0 1"]
+
+ { 677. Boris Spassky – Alberto Foguelman, Mar del Plata 1960 } { _ } 1. { -KEY- } Nxg6+ $1 ( 1. Rc1 { loses to } Qxd6 { , but there is a way to move the rook from d6 with check. } ) 
+fxg6 2. Rd8+ ( 2. Qxg6 $2 cxd1=Q 3. Rxd1 { is not winning after } Qf8 $11 { . } ) 
+Kg7 ( 2... Kh7 3. Rc1 { ✔ } ) 
+3. Rg8+ $3 ( 3. Rc1 { also wins. } ) 
+Kxg8 4. Qxg6+ Rg7 ( { Or } 4... Kf8 5. Qf6 { with mate. } ( { And } 4... Rg7 4. Rd8 { also wins. } ) 
+ ) 
+5. Rd8+ { ✔ White wins the queen and can pick up the c2-pawn, with a winning material advantage. The game finished: } Qf8 6. Rxf8+ Kxf8 7. Qxc2 Kg8 8. Qc5 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199602/"]
+[Date "????.??.??"]
+[Round "9.152"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 678"]
+[Result "1-0"]
+[FEN "r1b1r1k1/pp3ppp/3b1q2/3Q2N1/2B5/6K1/PPP3PP/R1B2R2 w - - 0 1"]
+
+ { 678. Boris Spassky – Dragoljub Ciric, Marianske Lazne 1962 } { _ } 1. { -KEY- } Rf4 $1 ( { ✔ There are no other moves that do not lose, so you do not need to see further to get the full score. However, there is a little twist later. Instead } 1. Bf4 $2 Re3 { wins for Black. } ) 
+Be6 2. Nxe6 Rxe6 { Black threatens 3...g5. But } 3. Qxd6 $1 Qg6+ 4. Rg4 { is over and out, either with two bishops for a rook. Or with } Re3+ 5. Bxe3 Qxd6+ $18 { And White has one piece too many for the queen (1–0, 29 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199605/"]
+[Date "????.??.??"]
+[Round "9.153"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 679"]
+[Result "1-0"]
+[FEN "4r1k1/pb1q1r1p/2np2p1/2pN1pB1/2P1nP2/P1P2B2/6PP/1R1QR1K1 w - - 0 1"]
+
+ { 679. Boris Spassky – Valery Bykov Leningrad 1963 } { _ } 1. Rxe4 $1 Rxe4 ( 1... fxe4 $2 2. Bg4 { ✔ traps the queen. } ( { Or } 1... Re6 2. Rxb7 { when Black will be two pieces down. } ) 
+ ) 
+2. Bxe4 fxe4 3. Nf6+ Rxf6 4. Bxf6 $18 { ✔ Black has lost an exchange (1–0, 40 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199609/"]
+[Date "????.??.??"]
+[Round "9.154"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 680"]
+[Result "1-0"]
+[FEN "rn3rk1/pb3ppp/1p2qb2/3p4/3p4/2NN2P1/PP2PPBP/2RQ1RK1 w - - 0 1"]
+
+ { 680. Boris Spassky – Viktor Korchnoi, Moscow 1964 } { _ } 1. Nxd5 $1 { White threatens 2 Nc7 and 2 Nxf6+ Qxf6 3 Bxb7. } Bxd5 ( 1... Bd8 2. Nf6 { wins an exchange. } ( { But } 1... Bxd5 1. Nc7 { shows even less mercy; Black loses a piece. } ) 
+ ) 
+2. Nf4 $1 Qd6 $18 { ✔ White wins an exchange and the game after either capture on d5. } ( { But not } 2... Bxg2 $2 3. Nxe6 { ✔ } Bxf1 4. Nxf8 Bh3 { when Black temporarily gets three pieces for the queen, but his luck is short-lived after (among others) } 5. Qd3 Kxf8 6. Qe4 { trapping the rook. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199612/"]
+[Date "????.??.??"]
+[Round "9.155"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 681"]
+[Result "1-0"]
+[FEN "2kr1bnr/pppq1ppp/2n5/4P3/2Pp4/1Q3NPb/PP2PPBP/RNB2RK1 w - - 0 1"]
+
+ { 681. Boris Spassky – Gyozo Forintos, Sochi 1964 } { _ } 1. e6 $1 Bxe6 ( 1... Qxe6 2. Ng5 { ✔ forks the queen and bishop. } ) 
+2. Ne5 $1 Qd6 ( 2... Nxe5 3. Qxb7 { ✔ } ) 
+3. Nxc6 ( 3. Bf4 { is also winning. } ) 
+bxc6 { ✔ White gains a winning attack after developing the pieces in almost any way. It would not even help Black if it was his move. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199614/"]
+[Date "????.??.??"]
+[Round "9.156"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 682"]
+[Result "1-0"]
+[FEN "r1r2bk1/p4ppp/1pq5/3R1N2/n1P5/4R3/PB2QPPP/6K1 w - - 0 1"]
+
+ { 682. Boris Spassky – Kick Langeweg, Sochi 1967 } { _ } 1. Bxg7 $1 Qxd5 ( 1... Bxg7 2. Ne7+ { ✔ forks king and queen. } ) 
+2. Nh6+ ( 2. cxd5 $6 Rc1 3. Qf1 Rxf1 4. Kxf1 Bxg7 5. Rg3 { should also win in the end, but can be messed up by White for sure (so not full points) (.) } ) 
+ ( { But } 6. Be5 { forces Black to part with the queen and is good enough to win. } ) 
+Kxg7 3. Qg4+ ( { Black is mated in two moves. } 3. Rg3 { is a longer route to mate. } ) 
+Kf6 4. Ng8# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199616/"]
+[Date "????.??.??"]
+[Round "9.157"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 683"]
+[Result "0-1"]
+[FEN "3rr1k1/p4pb1/1p4p1/3p1nq1/3P1NPp/1QR1P2P/PP1B1K2/6R1 b - - 0 1"]
+
+ { 683. Shimon Kagan – Boris Spassky, Winnipeg 1967 This exercise was in the book that Hans Tikkanen used the first time he tried the Woodpecker Method. } 1... Nxe3 $1 2. Bxe3 ( 2. Rxe3 Qxf4 { ✔ } 3. Ke2 Qh2 { wins a piece. } ) 
+Rxe3 3. Rxe3 ( 3. Kxe3 Bxd4 $1 4. Kxd4 Qxf4+ { ✔ and Black picks up the rook on g1 . } ) 
+Qxf4+ 4. Ke2 { Black wins back the exchange with interest after: } Qh2+ 5. Kf1 Bxd4 $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199619/"]
+[Date "????.??.??"]
+[Round "9.158"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 684"]
+[Result "1-0"]
+[FEN "5rk1/1prnqpp1/p3p2p/P2nN3/3P4/1B5P/1P2QPP1/R2R2K1 w - - 0 1"]
+
+ { 684. Boris Spassky – Klaus Darga, Beverwijk 1967 } { _ } 1. { -KEY- } Ng6 $1 fxg6 2. Bxd5 { ✔ } Rf6 { The only move that holds onto the pawn, but Black has a bad pawn structure and is badly coordinated. Spassky continued with } 3. Rac1 { And had a clear advantage (1–0, 33 moves) . A combination doesn’t have to win material. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199620/"]
+[Date "????.??.??"]
+[Round "9.159"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 685"]
+[Result "0-1"]
+[FEN "6k1/p3r1p1/5p2/3P2p1/1P6/8/p4PPP/2R2K2 b - - 0 1"]
+
+ { 685. Istvan Csom – Boris Spassky, Amsterdam 1970 Black can't win with best play. Find a way where White can go wrong. Spassky managed to win. } 1... { -KEY- } Rc7 $1 { The rook is on the way to b1. } ( 1... a5 { is a trap as } 2. bxa5 Rb7 { wins. However, instead of capturing on a5 , White can go Ra1 to make a draw. } ) 
+2. Rd1 ( 2. Ra1 Rc2 { ✔ } 3. g3 Kf7 { wins, as the king picks up the d-pawn and continues to b3 . } ) 
+Rc2 ( 2... a5 3. d6 Rb7 4. Ra1 $1 { is again a draw. } ) 
+3. d6 Rd2 $1 { ✔ The best try. } 4. Rc1 { This was played in the game. } ( 4. Rxd2 $1 { a1Q 5.Ke2 and Black has to stop the d-pawn with the queen. It's not possible to make progress. } ) 
+Kf7 { White resigned. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199622/"]
+[Date "????.??.??"]
+[Round "9.160"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 686"]
+[Result "0-1"]
+[FEN "3r1rk1/1R3pp1/4q2p/8/8/2pBPRP1/1bQ1P2P/6K1 b - - 0 1"]
+
+ { 686. Mark Taimanov – Boris Spassky Rostov on Don 1971 } { _ } 1... { -KEY- } Rxd3 $1 { Setting up a double attack by deflecting the defender of the f3-rook. } 2. exd3 ( 2. Qxd3 { loses after } Qc8 { ✔ followed by 3...c2 } ( 2. exd3 Qc6 $2 { allows } 3. Rbxf7 $1 Rxf7 4. Qd8 Kh7 5. Rxf7 c2 6. Rf1 c1=Q 7. Rxc1 Qxc1 8. Kf2 { and we will not debate whether this is won or not. } ) 
+ ) 
+Qd5 ( { The rooks cannot defend each other, and the b-pawn stays alive after the forced capture on b2 . But not } 2... Qc6 $2 3. Rxb2 $11 { . } ) 
+3. Rxb2 cxb2 $17 { ✔ Black has good winning chances and the game only lasted seven more moves: } 4. Rf1 Qe5 5. e4 Ra8 6. Qb3 Ra1 7. Kg2 Rc1 8. Qxf7+ Kh7 9. Rf5 Qd6 10. e5 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199625/"]
+[Date "????.??.??"]
+[Round "9.161"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 687"]
+[Result "1-0"]
+[FEN "5nr1/pp3k2/4ppq1/2B1b3/P5Pp/1B6/1P4P1/2RQ2K1 w - - 0 1"]
+
+ { 687. Boris Spassky – Derek Banks, Vancouver 1971 } { _ } 1. { -KEY- } Bxe6+ $1 ( 1. Bxe6+ Nxe6 2. Qd7 { ✔ } ) 
+Kxe6 2. Qb3+ { ✔ White has a tremendous attack that wins in several ways. } Kd7 3. Qxb7+ ( 3. Ba3 { and 3 Qb5+ are also winning. } ) 
+Ke6 4. Rd1 Qxg4 5. Qd5+ ( { Black resigned with } 5. Qd5+ Kf5 6. Rf1 Kg6 7. Qxg8+ { in mind. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199727/"]
+[Date "????.??.??"]
+[Round "9.162"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 688"]
+[Result "*"]
+[FEN "r6r/1p1qkp2/p2p1pb1/b1pP3p/4N3/P3P1N1/1P3PPP/R2Q1RK1 w - - 0 1"]
+
+ { 688. Boris Spassky – Walter Dobrich, Vancouver 1971 } { _ } 1. { -KEY- } b4 $1 { ✔ Black’s pawn structure is undermined. The queen gets access to d4 if he captures, and ...d6xc5 would fatally open his king. } h4 $1 ( { Black is not lost yet, but is in grave danger after } 1... Bb6 2. bxc5 Bxc5 3. Qf3 f5 4. Nxc5 dxc5 $16 { and d5-d6 now or later. } ) 
+2. bxa5 hxg3 3. Nxg3 $16 { White has won a pawn and Black’s counterplay is not impressive at all (1–0, 28 moves) . } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1199884/"]
+[Date "????.??.??"]
+[Round "9.163"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 689"]
+[Result "1-0"]
+[FEN "7k/1b4q1/pp4r1/2p1p3/P1Q1N3/6R1/1P4PP/6K1 w - - 0 1"]
+
+ { 689. Boris Spassky – Robert Zuk, Vancouver 1971 } { _ } 1. { -KEY- } Ng5 $1 Bc8 { The only defence against 2 Rh3+. } ( 1... Rh6 2. Nf7+ ) 
+ ( { And } 1... Rxg5 2. Qh4 { ✔ } ( { Or } 1... Bc8 1. Rh3+ ) 
+ { (are hopeless. However, also after the game move White has a generally winning position.) } ) 
+ { Strongest is } 2. Qe4 $18 { Threatening 3 Ne6 as a decisive discovered attack. Black will have to give up material to survive. } ( 2. a5 { is also definitely winning. } ) 
+ ( { But not the game move } 2. Nf7 $6 { as it allows } Kg8 $1 { (which was not played) } 3. Nxe5 Be6 $16 { and Black has fighting chances only a pawn down. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200082/"]
+[Date "????.??.??"]
+[Round "9.164"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 690"]
+[Result "1-0"]
+[FEN "5k2/pp4p1/4pp2/1P6/7p/P3P1P1/4KP1b/2B5 w - - 0 1"]
+
+ { 690. Boris Spassky – Robert Fischer, Reykjavik (1) 1972 I expect that you recognized the first move, but it would have been a mistake were it not for a critical move later in the variation. } 1. { -KEY- } Kf3 $1 ( { Putting Black under pressure. Instead } 1. gxh4 { should be a draw. } ) 
+Ke7 ( { The critical position arises after } 1... h3 2. Kg4 Bg1 3. Kxh3 Bxf2 { when Fischer may have missed that the bishop is trapped after: } 4. Bd2 { ✔ Zero points if you didn’t see this move! (Harsh – but on the other hand 1 gxh4 is worth one point.) } ) 
+2. Kg2 hxg3 3. fxg3 Bxg3 4. Kxg3 Kd6 5. a4 Kd5 6. Ba3 Ke4 $6 ( { Fischer lost this famous game. } 6... a6 $1 { has been analysed to a draw. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1236262/"]
+[Date "????.??.??"]
+[Round "9.165"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 690a"]
+[Result "*"]
+[FEN "5k2/pp4p1/4pp2/1P6/7p/P3P1P1/4KP1b/2B5 w - - 0 1"]
+
+ { 690. Boris Spassky – Robert Fischer, Reykjavik (1) 1972 } { _ } 1. Kf3 $1 h3 2. Kg4 Bg1 3. Kxh3 Bxf2 4. Bd2 { Fischer may have missed that the bishop is trapped after: 4. ♗d2!+– ✔ Zero points if you didn’t see this move! } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200083/"]
+[Date "????.??.??"]
+[Round "9.166"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 691"]
+[Result "0-1"]
+[FEN "5k2/3b2p1/1p4qp/p1pPp1p1/P1P1Pn2/2P5/2Q3PP/3BB1K1 b - - 0 1"]
+
+ { 691. Boris Spassky – Robert Fischer, Reykjavik (5) 1972 } { _ } 1... Bxa4 $1 ( { White resigned, since he is mated after } 1... Bxa4 1. Qxa4 Qxe4 { ✔. } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200084/"]
+[Date "????.??.??"]
+[Round "9.167"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 692"]
+[Result "1-0"]
+[FEN "1r2k2r/2pq2p1/b2p4/pNpQP1Pp/3p1P2/6P1/PPP5/2KR3R w k - 0 1"]
+
+ { 692. Boris Spassky – Heikki Westerinen, Dortmund 1973 } { _ } 1. { -KEY- } Rxh5 $1 Rf8 ( 1... Rxh5 2. Qg8 Ke7 3. exd6 $1 { ✔ followed by 4 Re1+ decides. Westerinen accepted his fate by not taking back on h5 . } ) 
+ { White can continue forcefully by using the e-file, but Spassky’s } 2. a4 { is also good enough for a win. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200087/"]
+[Date "????.??.??"]
+[Round "9.168"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 693"]
+[Result "1-0"]
+[FEN "r4k2/ppr2p1p/4PQ2/2bp4/7P/8/qPP3P1/2KR1R2 w - - 0 1"]
+
+ { 693. Boris Spassky – Valeri Korensky, Sochi 1973 } { _ } 1. { -KEY- } e7+ $1 { Black is mated in one move if he captures the pawn, and loses the f7-pawn with check if he does not. } ( 1. Qh8 Ke7 2. Rxf7 $2 ( 2. Qf6 Ke8 $11 ) 
+Kd6 { is not the way – White’s attack is over. } ) 
+Kg8 ( 1... Rxe7 2. Qh8 { ✔ } ) 
+2. Qxf7+ Kh8 3. e8=Q+ Rxe8 4. Qxe8+ $18 { ✔ } Kg7 5. Qe5+ Kg8 6. Qg5+ { It’s mate in seven moves. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200088/"]
+[Date "????.??.??"]
+[Round "9.169"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 694"]
+[Result "1-0"]
+[FEN "br1qr1k1/3n1p1p/3p2p1/1pnPp1b1/4P3/R1P1B2P/2BNQPP1/R4NK1 w - - 0 1"]
+
+ { 694. Boris Spassky – Ratmir Kholmov, Sochi 1973 } { _ } 1. Rxa8 $1 { The queen is removed from the defence of the g5-bishop. } Rxa8 2. Rxa8 Qxa8 3. Bxg5 $18 { ✔ (1–0, 41 moves) } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200091/"]
+[Date "????.??.??"]
+[Round "9.170"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 695"]
+[Result "*"]
+[FEN "1rbq1rk1/p3ppbp/1p1p1np1/8/2PQP3/2N3P1/PP3PBP/1RB2RK1 b - - 0 1"]
+
+ { 695. Boris Rytov – Boris Spassky, Tallinn 1973 } { _ } 1... { -KEY- } Nxe4 $1 2. Qxe4 Bxc3 ( { If black goes } 2... Bf5 { immediately, White can recapture with the queen on c3 and win: } 3. Qe3 Bxc3 4. Qxc3 Bxb1 5. Bh6 ) 
+3. Bg5 ( 3. bxc3 Bf5 { and the queen can’t defend the rook on b1 . It is not over yet though: } 4. Qe2 Bxb1 { ✔ } 5. g4 $1 { ⩱ and Black has to sacrifice a pawn to get the bishop out. } ) 
+Be5 $15 { Black is a healthy pawn up. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200094/"]
+[Date "????.??.??"]
+[Round "9.171"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 696"]
+[Result "1-0"]
+[FEN "2r3k1/4bppp/1r2p3/qb6/5B2/2N3R1/PP4PP/2R1Q2K w - - 0 1"]
+
+ { 696. Boris Spassky – Orest Averkin, Moscow 1973 } { _ } 1. Bc7 $1 Rxc7 2. Qe5 { The double threat against c7 and g7 picks up an exchange. } Kf8 3. Qxc7 $16 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200097/"]
+[Date "????.??.??"]
+[Round "9.172"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 697"]
+[Result "*"]
+[FEN "4k3/1p3p2/p2pbp2/4p1b1/1P2Pr2/8/1PP2PB1/3RKR2 b - - 0 1"]
+
+ { 697. Bojan Kurajica – Boris Spassky, Solingen 1974 } { _ } 1... Bh3 $1 2. Bh1 $1 { ∓ Despite being a pawn down, White has decent chances to hold with the opposite-coloured bishops, and Kurajica managed to do so. } ( 2. Bxh3 { is met by } Rxe4 { ✔ } ) 
+ ( { And } 2. Rg1 Bxg2 3. Rxg2 Rxe4 { wins not only one but two pawns: } 4. Kf1 Rxb4 5. Rxd6 Rxb2 $17 { ✔ Black is much better, although the immobile pawns still give White drawing chances. } ) 
+
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200099/"]
+[Date "????.??.??"]
+[Round "9.173"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 698"]
+[Result "1-0"]
+[FEN "r5k1/1Q3p2/r2p4/P1pP1qpp/2N2b2/2PP4/5R1P/6RK w - - 0 1"]
+
+ { 698. Efim Geller – Boris Spassky, Moscow 1975 } { _ } 1. Nxd6 $1 ( 1. Rxg5 Qxg5 2. Rg2 { is also a combination, but not as strong. Black has drawing chances after: } Qxg2 3. Kxg2 Rxa5 4. Nxa5 Rxa5 $16 { After the knight capture, the threat against f7 and the pins along the f- and g-files force Black to give up the exchange. } ) 
+ { But he is simply lost after: } Rxd6 2. Qxa8+ $18 { ✔ (1–0, 39 moves) } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200101/"]
+[Date "????.??.??"]
+[Round "9.174"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 699"]
+[Result "1-0"]
+[FEN "3q2kr/n1pbR1b1/p6p/P2P4/2P2p2/2NB1N2/2K2P2/Q7 w - - 0 1"]
+
+ { 699. Boris Spassky – Francisco Sanz Alonso, Montilla 1978 } { _ } 1. Rxg7+ $1 Kxg7 2. Ne4+ ( { ✔ Black resigned, as forks or discovered attacks are unavoidable, for example: } 2. Ne4+ Kf7 3. Ne5 Ke8 4. Nc6 ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200103/"]
+[Date "????.??.??"]
+[Round "9.175"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 700"]
+[Result "1-0"]
+[FEN "3r4/2qrbbk1/5p1p/pp1P1Pp1/6P1/P1BR3P/1P2R1B1/3Q3K w - - 0 1"]
+
+ { 700. Anatoly Karpov – Boris Spassky, Montreal 1979 } { _ } 1. Rxe7 $1 { White is much better anyway, but this is directly winning. } Rxe7 2. d6 $1 Qc4 3. b3 $1 ( { +– ✔ Driving away the counterattack against d3 , and ending up plenty of material ahead. } 3. Bxa5 Red7 4. Bxd8 Rxd8 { should also win. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200104/"]
+[Date "????.??.??"]
+[Round "9.176"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 701"]
+[Result "1-0"]
+[FEN "r4bk1/2Rnrppp/2p5/2qpP3/5B2/2N1P2P/2Q2PP1/3R2K1 w - - 0 1"]
+
+ { 701. Bent Larsen – Boris Spassky, Montreal 1979 } { _ } 1. { -KEY- } Rxd5 $1 cxd5 2. Rxc5 Nxc5 3. Nxd5 $16 { ✔ Two rooks are often stronger than a queen and two pawns, but they are weak defenders against pawn storms, and White’s plan is to attack on the kingside. Larsen won after: } Rea7 4. Bg5 Ra1+ 5. Kh2 R8a2 6. Qf5 Ne6 7. Bh4 Rf1 $6 8. f4 Rc1 9. Qg4 Rc4 $2 10. Nf6+ Kh8 11. Qh5 $1 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200105/"]
+[Date "????.??.??"]
+[Round "9.177"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 702"]
+[Result "1-0"]
+[FEN "3r1bk1/1pq2p1p/6p1/3nN3/1P6/2P2QPP/5PB1/1R4K1 w - - 0 1"]
+
+ { 702. Boris Spassky – Otto Borik, Germany 1982 } { _ } 1. Nxf7 $1 ( { Spassky played } 1. Qxf7 Qxf7 2. Nxf7 { when } Nxc3 $1 { ⩲ would have limited the material loss to a pawn. } ) 
+Qxf7 2. Rd1 $16 { ✔ Exchanging on f7 would have helped the black king to e6, and forced c3-c4 to win back the piece. And that would have left the b4-pawn en prise. The opposite-coloured bishops give Black drawing chances, but fortunately White can keep the rooks on in order to make better use of his advantage. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200106/"]
+[Date "????.??.??"]
+[Round "9.178"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 703"]
+[Result "1-0"]
+[FEN "3qr2k/1b4pp/p3Qp2/1p4b1/2pPn3/P5B1/NP3PPP/3R1RK1 w - - 0 1"]
+
+ { 703. Lajos Portisch – Boris Spassky, London 1982 If the queen moves, Black wins back the exchange with ...Bc8 and/or ...Nd2. } 1. { -KEY- } Bc7 $1 { ✔ } Qa8 { The only try. } 2. Qh3 ( 2. Qd7 { is also clearly better. } ) 
+Re7 $16 ( 2... Bc8 3. Qf3 $16 { is no longer a problem, since the knight on e4 is semi-pinned. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200107/"]
+[Date "????.??.??"]
+[Round "9.179"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 704"]
+[Result "1-0"]
+[FEN "4r1kb/1b1p1p1p/3Pr1pB/ppqnP2P/2p5/P4N2/1P3PP1/1BQRR1K1 w - - 0 1"]
+
+ { 704. Jan Timman – Boris Spassky, Hilversum (1) 1983 } { _ } 1. Bf5 $1 { Black loses an exchange after } gxf5 2. Qg5+ Rg6 3. hxg6 $18 { ✔ when 4 Nh4 is the most efficient follow-up. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200109/"]
+[Date "????.??.??"]
+[Round "9.180"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 705"]
+[Result "0-1"]
+[FEN "3r1bk1/1b2qp2/4n1p1/2r1P2p/N2p4/Q4NP1/1R3PBP/3R2K1 b - - 0 1"]
+
+ { 705. Jan Timman – Boris Spassky, Hilversum (3) 1983 } { _ } 1... Rc1 $1 2. Qd3 ( 2. Qb3 Bd5 { ✔ only postpones the end. } ( { And } 2. Qxe7 Rxd1+ { ✔ is no better. } ) 
+ ) 
+Qa3 $1 { The threat is to capture the queen. } 3. Qf1 Rxd1 ( { Also winning is } 3... Bxf3 4. Rxc1 Bxg2 5. Qxg2 Qxa4 { with two pieces for a rook. } ) 
+4. Qxd1 Bc6 $1 { –+ ✔ White loses the knight or the rook. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200110/"]
+[Date "????.??.??"]
+[Round "9.181"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 706"]
+[Result "1-0"]
+[FEN "2rq1r2/3n1pk1/p2Pp2p/1p4p1/2p3P1/2N1PP2/PPQ2P2/2KR3R w - - 0 1"]
+
+ { 706. Aldo Haik – Boris Spassky, Paris (3) 1983 } { _ } 1. { -KEY- } Rxh6 $1 { +– Black can’t take the rook: } Kxh6 ( 1... Rh8 2. Rxh8 { was the game (1–0, 44 moves) (.) } ) 
+2. Rh1+ Kg7 3. Qh7+ { With a mating attack. } Kf6 4. f4 ( { The quickest way to mate, but it is also possible to mate with only checks: } 4. Qh6 Ke5 5. Qh2 Kf6 6. Ne4 Kg7 7. Qh7 ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200111/"]
+[Date "????.??.??"]
+[Round "9.182"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 707"]
+[Result "0-1"]
+[FEN "2r3k1/p4pp1/bp5p/3p4/3N4/4PPPq/PP1Q3P/4K1R1 b - - 0 1"]
+
+ { 707. Eugenio Torre – Boris Spassky, Bugojno 1984 } { _ } 1... Rc1+ $1 2. Qxc1 Qxh2 { White can’t save the rook. } 3. Rf1 ( 3. g4 { is best, but Black is clearly better with his extra pawn. } ) 
+Qxg3+ { The rook has to go anyway. } 4. Rf2 ( 4. Kd2 Qg2 { ✔ } 5. Kc3 Qxf1 ) 
+Qg1+ $19 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200114/"]
+[Date "????.??.??"]
+[Round "9.183"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 708"]
+[Result "0-1"]
+[FEN "r1b1r1k1/1p3pp1/2p4p/3p4/1R5Q/4B1P1/PPq2PP1/R5K1 b - - 0 1"]
+
+ { 708. Jonathan Ady – Boris Spassky, London 1984 } { _ } 1... { -KEY- } Rxa2 $1 { Black wins a second pawn after } 2. Rxa2 Qb1+ 3. Kh2 Qxa2 { ✔ And } 4. Bxh6 { is not enough for White. Black could play either } Qb1 $17 { 0–1, 37 moves } ( { or } 4... gxh6 5. Qxh6 Bf5 6. Qf6 Be4 $1 { ∓, stopping Rh4 . } ) 
+
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200116/"]
+[Date "????.??.??"]
+[Round "9.184"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 709"]
+[Result "1-0"]
+[FEN "2r4k/p2b1R1p/1p2p3/2qpP3/3N4/P5Q1/6rP/K4R2 w - - 0 1"]
+
+ { 709. Kevin Spraggett – Boris Spassky, Montpellier 1985 } { _ } 1. { -KEY- } Rxh7+ $1 ( { ✔ } 1. Qxg2 $6 Qxd4 2. Qb2 Rc3 $1 { and White is not better, for example: } 3. R7f3 Rxf3 $1 4. Qxd4 Rxf1 $11 ) 
+Kxh7 2. Rf7+ ( 2. Qh3 { is also mating. } ) 
+Kh6 3. Rf6+ ( { The fastest mate is: } 3. Qh4 Kg6 4. Qf6 Kh5 5. Rh7 Kg4 6. Qh4 ) 
+Kh7 4. Qh3+ Kg7 5. Qxg2+ Kh7 6. Qg6+ 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200119/"]
+[Date "????.??.??"]
+[Round "9.185"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 710"]
+[Result "*"]
+[FEN "r5k1/2p3bp/4n1p1/1Ppq1p2/4p3/1N2P2P/2Q2PPB/3R2K1 b - - 0 1"]
+
+ { 710. Lajos Portisch – Boris Spassky, Montpellier 1985 } { _ } 1... Ra2 $1 ( { Black is a pawn up but cannot allow } 1... Qb7 $2 2. Qc4 { with a decisive pin. } ) 
+2. Rxd5 Rxc2 $19 { ✔ The c-pawn should perhaps be decisive, but Portisch held a draw after 64 moves. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200228/"]
+[Date "????.??.??"]
+[Round "9.186"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 711"]
+[Result "1-0"]
+[FEN "r2n1rk1/pq2n1pp/1p2p3/3pPpN1/1B1P4/P5Q1/2P2PPP/R4RK1 w - - 0 1"]
+
+ { 711. Boris Spassky – Lucas Brunner, Solingen 1986 } { _ } 1. Nxh7 $1 Kxh7 2. Qh4+ Kg8 3. Bxe7 $1 { ± ✔ White should keep the queens on the board, partly to attack Black’s king and partly to avoid a light-square blockade (1–0, 36 moves) . } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200229/"]
+[Date "????.??.??"]
+[Round "9.187"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 712"]
+[Result "1-0"]
+[FEN "r7/p3N1pk/7p/1p1pN2P/1P2r3/P2K3b/6R1/5R2 w - - 0 1"]
+
+ { 712. Boris Spassky – Artur Yusupov, Belfort 1988 } { _ } 1. Rxg7+ $1 Kxg7 ( 1... Kh8 2. Rh7 { postpones the mate by one move. } ) 
+2. Rf7+ Kh8 3. N5g6# { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200232/"]
+[Date "????.??.??"]
+[Round "9.188"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 713"]
+[Result "0-1"]
+[FEN "2r3k1/1b1r4/p4p1p/1p2q1p1/1B1nP3/R2PN2P/1RP2QP1/7K b - - 0 1"]
+
+ { 713. Boris Spassky – Jan Timman, Cannes 1990 } { _ } 1... Nf3 $1 { A double threat: 2...Qxb2 and 2...Qh2#. } 2. Qxf3 Qxb2 $17 { ✔ } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200256/"]
+[Date "????.??.??"]
+[Round "9.189"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 714"]
+[Result "*"]
+[FEN "r5k1/1bp1q1pp/p2p4/1p2n3/5B2/1P3P2/1PP2P1P/R2QR1K1 b - - 0 1"]
+
+ { 714. Boris Spassky – Artur Yusupov, Linares 1990 } { _ } 1... Nxf3+ $1 ( 1... Bxf3 $4 2. Rxe5 $1 dxe5 3. Qxf3 ) 
+2. Qxf3 Qxe1+ { An intermediate move with check. } 3. Rxe1 Bxf3 $15 { ✔ Black has won a pawn, but must keep the rook on the board to have reasonable chances of winning the game. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200293/"]
+[Date "????.??.??"]
+[Round "9.190"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 715"]
+[Result "1-0"]
+[FEN "3qQ3/p5pk/b4rNp/2p5/5P1P/P5R1/3r2P1/4R1K1 w - - 0 1"]
+
+ { 715. Alexander Beliavsky – Boris Spassky, Linares 1990 } { _ } 1. Nf8+ $1 ( 1. f5 { and } 1. h5 { should also be winning, thanks to the continuing threat of Nf8+. } ) 
+Kg8 ( 1... Rxf8 2. Qg6 Kh8 3. Qxg7 { ✔ } ) 
+2. Nd7+ $1 { +– White is a rook up after: } Qxe8 3. Nxf6+ { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200296/"]
+[Date "????.??.??"]
+[Round "9.191"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 716"]
+[Result "1-0"]
+[FEN "1rr2b1k/1q1b1pp1/4p2p/3pP3/p2N1B2/1PP3R1/4QPPP/R5K1 w - - 0 1"]
+
+ { 716. Boris Spassky – Eric Prie, Montpellier 1991 } { _ } 1. Bxh6 $1 gxh6 ( { Prie made a desperate attempt with } 1... Rxc3 { . } ) 
+2. Qg4 { ✔ Mate follows on g7 or g8. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200300/"]
+[Date "????.??.??"]
+[Round "9.192"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 717"]
+[Result "1-0"]
+[FEN "3b2nr/6pp/ppk1bp2/2p1P3/4N3/1N2BP2/1PP3PP/R5K1 w - - 0 1"]
+
+ { 717. Robert Fischer – Boris Spassky, Belgrade (9) 1992 } { _ } 1. Nbxc5 $1 ( 1. Nexc5 { does not work: } bxc5 2. Rxa6 Bb6 3. Bxc5 Bxb3 { and Black wins a piece. } ) 
+bxc5 ( { Spassky played } 1... Bc8 { and resigned two moves later. } ) 
+2. Rxa6+ Kd7 3. Nxc5+ { ✔ White wins back the piece with three pawns as interest. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200305/"]
+[Date "????.??.??"]
+[Round "9.193"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 718"]
+[Result "1-0"]
+[FEN "6n1/p1q2k2/1r1p2p1/2pPbp1p/Q1P2B1P/3P2PK/P3R1B1/8 w - - 0 1"]
+
+ { 718. Robert Fischer – Boris Spassky, Belgrade (19) 1992 } { _ } 1. { -KEY- } Rxe5 $1 ( 1. Bxe5 $6 dxe5 2. Rxe5 $14 { is too soft – Black has more counterplay with the rooks on the board and it’s easier to control a passed d-pawn than an a-pawn. } ) 
+dxe5 2. Bxe5 Qe7 ( 2... Qxe5 3. Qxa7+ { ✔ and the rook on b6 is lost. } ) 
+3. d6 $1 { Black’s queen has no squares to defend the a7-pawn. And after the only move } Rxd6 { White will emerge with an extra passed pawn: } 4. Bxd6 { White is winning, } Qxd6 { White is winning, however Black managed to escape with a draw. } 5. Qxa7+ $16 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200309/"]
+[Date "????.??.??"]
+[Round "9.194"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 719"]
+[Result "1-0"]
+[FEN "6k1/5p2/2qP3p/4n1pN/2pb4/1p3P2/1P2Q1PP/2R4K w - - 0 1"]
+
+ { 719. Nana Ioseliani – Boris Spassky, Copenhagen 1997 Black would have had compensation for the exchange if he was allowed to pick up the d-pawn for free. } 1. { -KEY- } d7 $1 ( { Counterattacking with } 1. Ra1 { is an interesting option. With the knight on h5 , Black should probably seek safety for his king in the centre with } Kf8 $16 { . } ) 
+Qd6 ( 1... Nxd7 2. Qe8 { ✔ and Black loses the f-pawn. } ( { While } 1... Qxd7 2. Nf6 { ✔ forks the queen. } ) 
+ ) 
+2. Rxc4 { Many other moves were also winning. Black loses one of his pieces due to the pin on the d-file after: } Nxd7 ( 2... Nxc4 3. Qe8+ { and White queens. } ) 
+3. Qd1 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200313/"]
+[Date "????.??.??"]
+[Round "9.195"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 720"]
+[Result "*"]
+[FEN "5rk1/1pp3bp/3p2p1/3Pp3/1PP1N1q1/6Pn/2QN1PKP/R7 b - - 0 1"]
+
+ { 720. Boris Spassky – Viktor Korchnoi, St Petersburg (5) 1999 } { _ } 1... Nxf2 $1 2. Rf1 ( 1. Nxf2 Qe2 $1 ( 2. Rf1 Rxf2 $6 3. Kxf2 Qd4 4. Kg2 Qxa1 5. Ne4 { and White has compensation, with firm control over the light squares. } ) 
+2. Rf1 Bh6 { ✔ Black wins back the piece with an extra pawn and an attack. } ) 
+Qh3+ ( 2... Nxe4 { is also a reasonable advantage for Black. } ) 
+3. Kg1 Ng4 $1 { ✔ White’s knights are stepping on each other, and Black uses his solo knight for offensive purposes. Black has a clear advantage, but Spassky managed to draw. } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200317/"]
+[Date "????.??.??"]
+[Round "9.196"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 721"]
+[Result "1-0"]
+[FEN "r1bB2r1/pp3pnp/2p5/4k3/4P3/2N2P2/PPP1B2P/2KR4 w - - 0 1"]
+
+ { 721. Boris Spassky – Nicolas Eliet, France 2002 } { _ } 1. f4+ $1 ( { The only winning move. } 1. Be7 { traps the king, but there is no mate after } Ne8 $16 { . } ) 
+Kxf4 2. Bc7+ ( { Spassky’s } 2. Rf1 { induced resignation, as } Ke5 3. Bc7 Ke6 4. Bc4 Ke7 5. Rxf7 Ke8 6. Bd6 { creates a decisive threat of 7. Re7+ followed by 8. Bxg8 (you need to see this far if you chose 2. Rf1) } ( { The mating threat } 2. Bf6 { with the idea of Rf1, is stopped by } Bh3 ) 
+ ) 
+Kg5 ( 2... Ke3 3. Bg3 { with mate on d3. } ) 
+3. Rg1+ Kf6 4. e5+ ( { Or White can start with } 4. Bd6 { although that gives Black some better options than transposing with } Ke6 { . } ) 
+Ke7 5. Bd6+ Kd8 6. Ne4 ( { ✔ The knight on g7 drops after 6 Nf6 . And it’s equally good to win the knight with } 6. Bd3 { . } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200320/"]
+[Date "????.??.??"]
+[Round "9.197"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 722"]
+[Result "1-0"]
+[FEN "r1b2r2/p3q1p1/1pn1ppk1/2npP1N1/5PQ1/2N5/PPP3PP/R4RK1 w - - 0 1"]
+
+ { 722. Boris Spassky – Scott Coleman, Reno (simul) 2004 } { _ } 1. { -KEY- } Nxd5 $1 ( { A second and more complicated solution is: } 1. exf6 Rxf6 ( 1. Nxd5 gxf6 2. Nxe6 Kf7 3. Qh5 Kxe6 4. Qxd5 ) 
+2. Qh4 ( { Or } 2. Qh3 ) 
+Rf5 3. Qh7 { You need to see this far. } Kf6 4. g4 Rxg5 5. fxg5 Ke5 { Black is one move from escaping, but does not get enough time: } 5. Qg6 $1 Ba6 { (defending against Nb5) } 6. Rf7 Qe8 7. Rd1 { White has a crushing attack; } Kd6 { is not possible right now, and all White’s pieces are homing in on the black king. } ) 
+ ( { At the start, } 1. Nxe6 { is a good try but doesn’t seem to win straight away. } Kf7 { Preventing White from capturing on f8 with check. } 2. exf6 Qxe6 ( 2. Nxd5 Qxf6 3. f5 ) 
+3. Qxg7 Ke8 4. Rfe1 Ne4 5. Nxd5 $1 { White sacrifices a third piece! } Qxd5 6. Rad1 Qf5 7. Rd4 $1 { The rook is immune and White wins back at least a piece and a rook. One line given by the engine is: } Rxf6 8. Rdxe4 Be6 9. Qg8 Rf8 10. Qxe6 Qxe6 11. Rxe6 Kd7 12. g3 $16 ) 
+exd5 2. f5+ Bxf5 3. Qxf5+ Kh5 4. Qh7+ ( 4. Rf3 { is also quite strong, with mate in one, and there are other ways. } ) 
+Kg4 5. h3+ Kxg5 6. Rf5# 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200324/"]
+[Date "????.??.??"]
+[Round "9.198"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 723"]
+[Result "1-0"]
+[FEN "4r1kb/q1r1pp1p/p2p2p1/1p1n2B1/1P6/2P2RPP/1P2QPB1/4R1K1 w - - 0 1"]
+
+ { 723. Boris Spassky – Craig Christensen, Reno (simul) 2004 } { _ } 1. { -KEY- } Rxf7 $1 { ✔ } Nxc3 ( 1... Kxf7 2. Qe6 ( 1... Nxc3 1. Bxd5 { also wins. } ) 
+Kg7 3. Bxd5 { Threatening mate on f7 . After } Rf8 { , White is winning after any move that defends the pawn on f2. One efficient way is } 4. Be3 { followed by 5 Bd4+. } ( 1... e6 $5 2. Rxc7 Nxc7 { and at least one of Black’s weak centre pawns will lost, for instance: } 3. Bf4 d5 4. Bxc7 Qxc7 5. Bxd5 ) 
+ ) 
+2. Qe6 { Mate is coming. } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200328/"]
+[Date "????.??.??"]
+[Round "9.199"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 724"]
+[Result "*"]
+[FEN "2r1r1k1/pp2p3/3p2p1/5P2/1q2P1p1/2N5/1PPQ4/1K5R b - - 0 1"]
+
+ { Robert Fischer All that matters on the chessboard is good moves.724. Robert Fischer – Heinz Matthai, Montreal 1956 } { _ } 1... Rxc3 $1 { The only way to avoid defeat. } 2. fxg6 $5 ( { White has other moves that lead to a draw, among them } 2. Rh8 { . } ( { But not } 2. Qxc3 $2 Qxc3 3. bxc3 ) 
+ ( { Or } 2. Qh6 Qd4 { , when Black may have a tiny plus. } ) 
+ ) 
+Rh3 $1 { Also the only move; the threat was 3 Rh8+ with mate. } 3. Qxb4 Rxh1+ $11 { ✔ (½–½, 108 moves) } 
+ *
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200331/"]
+[Date "????.??.??"]
+[Round "9.200"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 725"]
+[Result "1-0"]
+[FEN "3q2k1/1r1P1pp1/8/1p2B1p1/2pQ2P1/3nR2P/1P3PK1/8 w - - 0 1"]
+
+ { 725. Robert Fischer – Attilio Di Camillo, Washington DC 1956 } { _ } 1. Bc7 $1 { Blocking the black rook while unblocking the white one! } Nf4+ 2. Kf1 ( 2. Qxf4 $2 Qxd7 $1 { ⩱ } ) 
+ ( { The game move forced resignation due to: } 2. Kf1 Rxc7 3. Re8+ { ✔ } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200334/"]
+[Date "????.??.??"]
+[Round "9.201"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 726"]
+[Result "0-1"]
+[FEN "2rq1rk1/p2bppbp/2n3p1/1nB5/3P4/2P3P1/PQ1N2BP/R3NRK1 b - - 0 1"]
+
+ { 726. George Kramer – Robert Fischer, New York 1957 } { _ } 1... { -KEY- } Nxc3 $1 { Totally destroying the seemingly strong dark-square fortification. } 2. Qxc3 Nxd4 $19 { ✔ White has three loose pieces: a1-rook, queen on c3, and c5-bishop. } 3. Qb4 Ne2+ ( { Stronger is } 3... a5 $1 4. Qa3 Nb5 { and Black picks up the rook without having to sacrifice on c5 . } ) 
+4. Kh1 Rxc5 5. Qxc5 Bxa1 { Black is probably still winning, and that was the result nine moves later. } 
+ 0-1
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200338/"]
+[Date "????.??.??"]
+[Round "9.202"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 727"]
+[Result "1-0"]
+[FEN "5rk1/5ppp/3p4/3B2q1/R3P1n1/2r5/P3Q1PP/5R1K w - - 0 1"]
+
+ { 727. Robert Fischer – James Sherwin, New York 1957 } { _ } 1. Rxf7 $5 ( { The best move. Although it does not lead to a decisive advantage against correct defence, it is best both objectively and practically, as Black can easily go wrong. After } 1. Bxf7 $6 Kh8 $15 { , Black might take over. } ) 
+Rc1+ $2 ( { Natural but losing. Black had to find: } 1... h5 $1 2. Rc4 ( 1... Rc1+ 1. Rf5 $4 Kh7 { and White is back-rank mated if he takes the queen. } ) 
+Rxc4 3. Rxf8 Kxf8 4. Qxc4 $14 ) 
+2. Qf1 $3 ( { Everything checks out for White. But not } 2. Rf1 $2 Kh8 { . } ) 
+h5 { Three alternatives: } ( { A } 2... Rxf1 3. Rxf1 Qxd5 4. Rxf8 Kxf8 5. exd5 ) 
+ ( { B } 2... Rxf7 3. Ra8 { ✔ mating. } ) 
+ ( { C } 2... Nf2 3. Rxf2+ { ✔ } ) 
+3. Qxc1 $1 Qxc1+ 4. Rf1+ Kh7 5. Rxc1 $18 { ✔ } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200340/"]
+[Date "????.??.??"]
+[Round "9.203"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 728"]
+[Result "1-0"]
+[FEN "r1bq1rk1/pp1pppbp/5np1/n7/3NP3/1BN1B3/PPP2PPP/R2QK2R w KQ - 0 1"]
+
+ { 728. Robert Fischer – Samuel Reshevsky, New York 1958 } { _ } 1. e5 $1 Ne8 ( 1... Nh5 2. g4 { ✔ traps the knight. } ( { And } 1... Nxb3 { is met by: } 2. exf6 $1 Nxa1 3. fxg7 $16 { ✔ } ) 
+ ) 
+2. Bxf7+ $1 { This is now a well-known trick in this line. } Kxf7 ( 2... Rxf7 3. Ne6 ) 
+3. Ne6 $3 dxe6 ( 3... Kxe6 4. Qd5 { ✔ } Kf5 { and Black is mated in several ways. } ) 
+4. Qxd8 $18 { ✔ (1–0, 42 moves) } 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200343/"]
+[Date "????.??.??"]
+[Round "9.204"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 729"]
+[Result "1-0"]
+[FEN "2r2n2/1RP3kp/p5p1/4pp2/B7/5P2/P5PP/6K1 w - - 0 1"]
+
+ { 729. Robert Fischer – Hector Rossetto, Mar del Plata 1959 } { _ } 1. { -KEY- } Bb3 $1 { Black is in zugzwang. Moving the king or the rook allows 2 Rb8, moving the knight allows 2 Be6. All that remains are a few pawn moves. } a5 2. a4 h6 3. h3 g5 4. g4 fxg4 5. hxg4 
+ 1-0
+
+[Event "The Woodpecker Method"]
+[Site "https://www.chessable.com/variation/1200345/"]
+[Date "????.??.??"]
+[Round "9.205"]
+[White "6.2) Intermediate Exercises II"]
+[Black "Exercise 730"]
+[Result "0-1"]
+[FEN "2r3k1/q4pp1/3p3p/1p1QpPb1/r3P3/1NP3PP/1P4K1/R3R3 b - - 0 1"]
+
+ { 730. Wolfgang Unzicker – Robert Fischer, Varna (ol) 1962 } { _ } 1... { -KEY- } Ra2 $1 { Going for the b2-pawn and the vulnerable second rank. } 2. Kf1 ( 2. Rxa2 Qxa2 3. Re2 Rxc3 $1 { ✔ } ) 
+ ( { And } 1. Kh1 Qf2 $1 { ✔ wins - or exchanging on a1 first. } ) 
+Rxc3 { With an attack and a material advantage, it’s all over. } 3. Rxa2 ( 3. bxc3 $2 Qf2 { ✔ } ) 
+Rf3+ 4. Ke2 Rf2+ { ✔ } 5. Kd3 Qxa2 $19 ( { Or } 5... Qc7 { . } ) 
+
+ 0-1

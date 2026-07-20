@@ -1,0 +1,161 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12610414/"]
+[Date "????.??.??"]
+[Round "7.1"]
+[White "1.6 Shelter"]
+[Black "Shelter"]
+[Result "*"]
+
+ { Sometimes in major piece endings, the stronger side manages to bring his king to a square where it can't be easily harassed by the enemy forces. Such a square, typically located in front of a pawn of either colour, is referred to as a 'shelter' in this work. Let's start with an archetypal example. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12518597/"]
+[Date "????.??.??"]
+[Round "7.2"]
+[White "1.6 Shelter"]
+[Black "Example 46- Kotov- A. vs. Eliskases- E.- Saltsjöbaden Interzonal 1952"]
+[Result "1-0"]
+[FEN "4k3/1R6/5P2/4K1p1/8/8/5r2/8 w - - 0 1"]
+
+ { Without the g5-pawn on the board, Black would make an easy draw by rear checks, but here White wins easily by using the g6-square as a shelter for his king. } 1. { -KEY- } Ke6 Re2+ 2. Kf5 g4 ( { Or } 2... Rf2 3. Kg6 $1 { with similar play. } ) 
+3. Kg6 $1 { White ignores the g-pawn and installs his king on the sheltered square. } Rf2 4. f7+ Kf8 5. Rb8+ Ke7 6. Re8+ { In view of 7.f8Q coming next, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12518598/"]
+[Date "????.??.??"]
+[Round "7.3"]
+[White "1.6 Shelter"]
+[Black "Example 47- Berkes- F. vs. Horvath- A.- Hungarian Championship- Kazincbarcika 2005"]
+[Result "1-0"]
+[FEN "4k3/5RK1/4p1p1/p3P2p/3P1PrP/8/8/8 w - - 0 1"]
+
+ ( { Here are two more complex examples on the same topic. At first sight it is not easy to see how White can convert his superior activity into something more concrete, since the desired } 1. Kf6 $4 { runs into } Rxf4 { . Berkes finds a great solution: create a shelter for his king by means of a powerful double pawn sacrifice. } ) 
+1. { -KEY- } d5 $1 ( { Less powerful is } 1. Ra7 $2 Rxf4 2. Kxg6 Rxh4 3. Kf6 Rxd4 4. Kxe6 Kf8 $1 { (towards the short side of the enemy pawn) } 5. Rxa5 Re4 ( { or } 5. d5 Rb4 ) 
+6. Ra8 Kg7 7. Kd6 Kf7 { with a draw. } ) 
+ ( { Also wrong is } 1. f5 $6 { due to } gxf5 $1 2. Kf6 f4 { when both } 3. Kxe6 $2 ( { and } 3. d5 $2 f3 ) 
+Rg6 { fail tactically for White. } ) 
+exd5 2. e6 $1 ( { A different move order with } 2. f5 gxf5 3. Kf6 { yields Black the additional option of } f4 $1 { freeing vital space for the rook, e.g. } 4. e6 f3 5. Ra7 Rf4 6. Ke5 Rb4 $1 { enabling both side checks and rear checks depending on where White's king goes. } ) 
+d4 ( { On } 2... Rxh4 ) 
+ ( { or } 2... a4 { White replies as in the game. } ) 
+3. f5 $1 gxf5+ 4. Kf6 { The shelter is ready. } Re4 ( { There is nothing better; e.g. } 4... d3 5. Re7 Kd8 ( { or } 5... Kf8 6. Ra7 ) 
+6. Rd7 Ke8 7. Rxd3 Re4 8. Rg3 $1 { (deflecting the black rook from the e-file) } Rg4 9. Rc3 Rd4 10. Rc8 Rd8 11. Rxd8 Kxd8 12. Kf7 { etc. } ) 
+5. Ra7 ( { In view of } 5. Ra7 Kd8 6. e7 Kc8 7. Ra8 Kd7 8. Rd8 Kc6 9. Rxd4 $1 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12518599/"]
+[Date "????.??.??"]
+[Round "7.4"]
+[White "1.6 Shelter"]
+[Black "Example 48- Granda Zuniga- J. vs. Vladimirov- E.- Tilburg 1992"]
+[Result "1-0"]
+[FEN "3k4/R7/3P3p/4p2P/6PK/8/8/5r2 w - - 0 1"]
+
+ { White is a pawn up, but with such a passive king it is difficult for him to aspire at anything. With his next move Granda addresses this issue. } 1. { -KEY- } g5 $1 { This advance doesn't just creates a passed pawn on the h-file, it also clears a path for the king towards the shelter on e6. } Rh1+ ( { After } 1... hxg5 2. Kxg5 Rg1 ( { or } 2... e4 3. h6 { and the h-pawn costs Black a rook } ) 
+3. Kf6 { followed by 4 Ke6, White wins at once. } ) 
+ ( { Neither does } 1... Rf4 { make sense, in view of } 2. Kg3 hxg5 3. h6 Rh4 4. h7 { and the threat of } -- 5. h8=Q Rxh8 6. Ra8 { again decides. } ) 
+2. Kg4 hxg5 ( { Or } 2... Rg1 3. Kf5 Rxg5 4. Ke6 { winning - Granda. } ) 
+3. Rh7 $1 { A key move to liberate the king from the defence of the h-pawn. } ( { The immediate } 3. Kf5 $2 { permits } Rxh5 4. Ke6 Rh6 5. Kd5 Rh1 $1 6. Kc6 ( 6. Rg7 { preparing 7 Rg6, is useless as Black can play the move ...Kd7 once the white rook leaves the seventh rank } ) 
+Rc1 7. Kd5 Rh1 $1 { neutralizing the shelter idea. } ) 
+ ( { Probably } 3. Kxg5 { works too: } e4 4. Re7 $1 ( { but not } 4. h6 $2 e3 5. Re7 Rg1 6. Kf6 Rf1 7. Kg7 Rg1 8. Kh8 Rg3 9. h7 Kc8 { and White seems unable to progress; e.g. } 10. Rg7 e2 $1 11. Re7 Rg2 { etc } ) 
+Rg1 5. Kf5 e3 ( { or } 5. Rh7 Rh1 6. Rh7 e3 7. Ke6 ) 
+6. Rxe3 Rh1 7. Kg6 Rg1 8. Kh7 Kd7 9. Rd3 Rg2 10. h6 Rg1 11. Kh8 Rg2 12. h7 Rg1 13. Ra3 { and White wins by Ra8-g8 followed by the king's withdrawal. Anyway, Granda's solution is much more clear-cut. } ) 
+e4 ( { After } 3... Rd1 4. h6 Rxd6 5. Rh8 { followed by 6 h7, White wins by one tempo. } ) 
+4. Kf5 $1 e3 5. Ke6 { The shelter is ready, and Black can only rely on desperate moves. } Kc8 6. d7+ Kc7 7. Ke7 $1 ( { Avoiding the trap } 7. Rh8 Rd1 8. Rc8 Kb7 9. d8=Q $4 ( { although } 9. Rc2 { wins as well } ) 
+Rxd8 10. Rxd8 e2 ) 
+Rd1 8. Ke8 ( { In view of the inevitable } 9. d8Q { , Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12518600/"]
+[Date "????.??.??"]
+[Round "7.5"]
+[White "1.6 Shelter"]
+[Black "Example 49- Krush- I. vs. Akopian- V.- Gibraltar 2007"]
+[Result "1-0"]
+[FEN "7k/p5p1/4P2p/3Q3P/2p5/4q3/6P1/3K4 w - - 0 1"]
+
+ { In queen endings the power of passed pawns increase dramatically, since the queen is very good at assisting their advance, and other factors such as material become secondary. Thus in the above position White, despite being a pawn down, is very close to winning, thanks to her strong e-pawn. } 1. { -KEY- } Qd8+ Kh7 2. e7 $1 { A very appropriate choice. White doesn't fear a series of enemy queen checks, aware that her king will have excellent sheltering possibilities on the queenside. Interestingly, if we take the c4-pawn off the board, Black's drawing chances would increase greatly. } Qg1+ 3. Kc2 Qxg2+ 4. Kc3 Qf3+ 5. Kb4 $1 { The enemy pawns should of course remain on the board, in order to obstruct the black queen. } a5+ 6. Kc5 $1 { In the same spirit. } ( { After } 6. Kxa5 $2 Qa3 { it is far from clear that White can avoid a perpetual. } ) 
+ ( { As for } 6. Kb5 $6 { , Black then has } Qb7 { complicating the win. } ) 
+Qxh5+ 7. Kc6 Qg6+ 8. Kc7 Qg3+ 9. Kc8 $1 { Thanks to the c-pawn, White's king is safe here; } ( { in view of } 9. Kc8 Qh3 10. Qd7 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13787023/"]
+[Date "????.??.??"]
+[Round "7.6"]
+[White "1.6 Shelter"]
+[Black "Example 50- Marshall- F. vs. Tarrasch- S.- Ostend 1907"]
+[Result "*"]
+[FEN "8/8/Q6p/3kp3/8/6P1/P2q4/7K b - - 0 1"]
+
+ { In the next old, but instructive example the stronger side will have more difficulties to find a shelter for his king, but he finally solves the issue.Material is equal but Black's advanced e-pawn yields him a clear advantage. } 1... { -KEY- } e4 $1 { Black should advance the passed pawn as far as possible, without bothering about the enemy queen checks, just like in the previous example. } 2. Qb5+ Kd4 $1 { We already know that in queen endings, the sheltering possibilities tend to be higher in enemy territory. } 3. Qb6+ Kd3 4. Qa6+ Ke3 $1 { The h-pawn doesn't matter, the main thing is to assist the e-pawn. } ( { After } 4... Kc2 $6 5. Qa4 $1 { , the king would have to return. } ) 
+5. Qxh6+ Ke2 { Thanks to his clever first move, Black can calmly offer a queen exchange. } 6. Qh5+ Ke1 7. g4 $2 ( { White's checks are over for the moment, so he clears some space for his queen, and advances his own passed pawn. However, this natural move also has the defect of clearing the e1-h4 diagonal for Black's queen, which cannot have been easy to establish over the board, without moving the pieces! For this reason, passive defense with } 7. Qf5 { was called for. Farciarz provides the variation } e3 8. Qe4 e2 9. Kg2 Kd1 10. Qb1 Qc1 11. Qd3 Ke1 12. Kg1 Qc5 13. Kg2 Qf2 14. Kh1 { (this is the moment where Black, contrary to the game, is missing a queen check on h4) } Kf1 15. Qb1 e1=Q $11 16. Qd3 { with a perpetual despite the presence of two black queens! Well, I wouldn't blame Marshall for not seeing all these intricacies over the board. In practical play, White's task was difficult from the very beginning, as long as human players are involved, obviously. } ) 
+e3 8. Qc5 ( { In the event of } 8. g5 e2 9. g6 { a good plan for Black would be to bring his king to a shelter square on a1; e.g. } Kf2 ( { not } 9. Qc5 Kd1 $2 10. g7 { and the d-pawn is pinned } ) 
+10. Qh2 Kf3 11. Qh3 Ke4 12. Qg2 Kd4 13. Qg4 Kc3 14. Qg3 Kb2 15. Qe5 Kb1 16. Qe4 Ka1 17. Qe5 Qb2 { and wins. } ) 
+Kd1 ( { Of course not } 8... e2 $4 9. Qg1 ) 
+9. Qf5 e2 $1 { Whenever it can, the passed pawn should advance. } ( { In contrast, the game went } 9... Qf2 $2 10. Qb1 Ke2 11. Qb5 Kf3 12. Qd5 { and White later managed a perpetual, now that the black queen can no longer neutralize the side checks from b1 and b2. } ) 
+10. Qb1+ Qc1 11. Qd3+ Ke1 12. Kg2 ( { Obviously, } 12. Qg3 { runs into } Kd2 { (with check). After the text only one step remains for Black to win the game: dislodge the enemy king from the g-file in order to shelter his own king on g1. } ) 
+Qc6+ $1 13. Kg1 Qc5+ 14. Kg2 Qf2+ $1 15. Kh3 ( { Or } 15. Kh1 Qh4 16. Kg2 Qxg4 17. Kh2 Kf2 $1 { , catching White's king in a mating net. } ) 
+Kf1 16. g5 Kg1 { Thanks to the shelter provided by the g5-pawn, Black's king can no longer be harassed by checks, and the e-pawn queens on the next move. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12518601/"]
+[Date "????.??.??"]
+[Round "7.7"]
+[White "1.6 Shelter"]
+[Black "Marshall- F. vs. Tarrasch- S.- #1"]
+[Result "*"]
+[FEN "8/8/Q6p/3kp3/8/6P1/P2q4/7K b - - 0 1"]
+
+ { In the next old, but instructive example the stronger side will have more difficulties to find a shelter for his king, but he finally solves the issue.Material is equal but Black's advanced e-pawn yields him a clear advantage. } 1... { -KEY- } e4 $1 { Black should advance the passed pawn as far as possible, without bothering about the enemy queen checks, just like in the previous example. } 2. Qb5+ Kd4 $1 { We already know that in queen endings, the sheltering possibilities tend to be higher in enemy territory. } 3. Qb6+ Kd3 4. Qa6+ Ke3 $1 { The h-pawn doesn't matter, the main thing is to assist the e-pawn. } ( { After } 4... Kc2 $6 5. Qa4 $1 { , the king would have to return. } ) 
+5. Qxh6+ Ke2 { Thanks to his clever first move, Black can calmly offer a queen exchange. } 6. Qh5+ Ke1 7. g4 ( { White's checks are over for the moment, so he clears some space for his queen, and advances his own passed pawn. However, this natural move also has the defect of clearing the e1-h4 diagonal for Black's queen, which cannot have been easy to establish over the board, without moving the pieces! For this reason, passive defense with } 7. Qf5 { was called for. Farciarz provides the variation } e3 8. Qe4 e2 9. Kg2 Kd1 10. Qb1 Qc1 11. Qd3 Ke1 12. Kg1 Qc5 13. Kg2 Qf2 14. Kh1 { (this is the moment where Black, contrary to the game, is missing a queen check on h4) } Kf1 15. Qb1 e1=Q $11 16. Qd3 { with a perpetual despite the presence of two black queens! Well, I wouldn't blame Marshall for not seeing all these intricacies over the board. In practical play, White's task was difficult from the very beginning, as long as human players are involved, obviously. } ) 
+e3 8. Qc5 ( { In the event of } 8. g5 e2 9. g6 { a good plan for Black would be to bring his king to a shelter square on a1; e.g. } Kf2 ( { not } 9. Qc5 Kd1 $2 10. g7 { and the d-pawn is pinned } ) 
+10. Qh2 Kf3 11. Qh3 Ke4 12. Qg2 Kd4 13. Qg4 Kc3 14. Qg3 Kb2 15. Qe5 Kb1 16. Qe4 Ka1 17. Qe5 Qb2 { and wins. } ) 
+Kd1 ( { Of course not } 8... e2 $4 9. Qg1 ) 
+9. Qf5 e2 $1 { Whenever it can, the passed pawn should advance. } ( { In contrast, the game went } 9... Qf2 $2 10. Qb1 Ke2 11. Qb5 Kf3 12. Qd5 { and White later managed a perpetual, now that the black queen can no longer neutralize the side checks from b1 and b2. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12518603/"]
+[Date "????.??.??"]
+[Round "7.8"]
+[White "1.6 Shelter"]
+[Black "Marshall- F. vs. Tarrasch- S.- #2"]
+[Result "*"]
+[FEN "8/8/8/5Q2/6P1/8/P2qp3/3k3K w - - 0 10"]
+
+10. { -KEY- } Qb1+ Qc1 11. Qd3+ Ke1 12. Kg2 ( { Obviously, } 12. Qg3 { runs into } Kd2 { (with check). After the text only one step remains for Black to win the game: dislodge the enemy king from the g-file in order to shelter his own king on g1. } ) 
+Qc6+ $1 13. Kg1 Qc5+ 14. Kg2 Qf2+ $1 15. Kh3 ( { Or } 15. Kh1 Qh4 16. Kg2 Qxg4 17. Kh2 Kf2 $1 { , catching White's king in a mating net. } ) 
+Kf1 16. g5 Kg1 { Thanks to the shelter provided by the g5-pawn, Black's king can no longer be harassed by checks, and the e-pawn queens on the next move. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12518602/"]
+[Date "????.??.??"]
+[Round "7.9"]
+[White "1.6 Shelter"]
+[Black "Example 51- Topalov- V. vs. Kasparov- G.- Linares 1999"]
+[Result "0-1"]
+[FEN "6Q1/8/p3p3/P3Pp1p/1PqP3P/1k2K3/8/8 b - - 0 1"]
+
+ { Usually the shelter works in combination with a passed pawn, but it can also have other functions, as in the following, thrilling example. Black is a pawn down but his pieces are very active. Kasparov finds a brilliant idea. } 1... { -KEY- } Kc3 $1 { Instead of capturing any of the enemy pawns, Black approaches his king in order to create a mating net. For this idea to work, the d4-pawn must evidently remain on the board. } 2. Qd8 $2 ( { Defending the d4-pawn is not the highest priority in this sharp position. } 2. b5 $1 { was a more active try, in order to create a passed pawn on the a-file or in the center. Stohl gives the sample variation } Qxd4 3. Kf3 Qd5 4. Kf2 axb5 5. Qc8 { preparing a5-a6. } ) 
+ ( 2. Qg5 $5 { attacking the h5-pawn was another good choice, for example, } Qxd4 3. Kf3 Kxb4 { ( } f4 4. Qxf4 { makes no sense for Black, while if } Qg4 { White simply moves their king, finally } Qxe5 { allows } 4. Qxh5 { ) } 4. Qe7 { (of course not } 4. Qxh5 $4 Qd1 { ) } Kc3 5. Qxe6 { and the e-pawn is strong enough to secure a draw, as observed by Farciarz. } ) 
+Qd3+ 3. Kf4 ( { Probably } 3. Kf2 { was better, although after } f4 $1 4. Qg5 Qxd4 5. Ke2 Qd2 6. Kf1 Qe3 { Black should win' - Stohl. } ) 
+Qd2+ ( { Kasparov also suggests } 3... Kd2 $5 4. Kg5 f4 $1 { when the pawn is immune due to mate and its further advance can't be easily parried. } ) 
+ ( { Of course } 3... Qxd4 $4 4. Qxd4 Kxd4 5. b5 { wasn't Black's idea. } ) 
+4. Kf3 Qd1+ 5. Ke3 ( { Or } 5. Kf2 f4 $1 6. Qc8 Kd2 { followed by a check on either e2 or g3-h4, after which the ...f5-f4-f3 advance decides. } ) 
+Qg1+ $1 { The mating net is taking shape. } 6. Ke2 ( { Obviously, } 6. Kf4 { fails to } Kd3 { e.g. } 7. Kf3 f4 $1 8. Qg5 Qf1 ) 
+ ( { while after } 6. Kf3 Qf1 7. Ke3 ( { or } 7. Kg3 f4 8. Kh2 Qe2 9. Kh1 f3 10. Qg5 f2 { and the passed pawn takes its toll; } ) 
+f4 8. Ke4 Kd2 $1 { Black gives mate on d3-e3 - Stohl. } ) 
+Qg2+ 7. Ke3 ( { White is also mated after } 7. Ke1 Kd3 ) 
+f4+ $1 ( { In view of } 7... f4 8. Kxf4 Kd3 $1 9. Qg5 Qf2 { White resigned. } ) 
+
+ 0-1

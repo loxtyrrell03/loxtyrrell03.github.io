@@ -1,0 +1,320 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12541079/"]
+[Date "????.??.??"]
+[Round "17.1"]
+[White "2.9 Passed Pawns Races"]
+[Black "Passed pawns races"]
+[Result "*"]
+
+ { One of the most intriguing endgame situations is when both sides have a passed pawn ready to 'run'. Such pawn races sometimes end up in a queen ending, but the result can also be determined earlier if one side manages to: a. promote with check; b. promote and control the opponent's queening square; or c. achieve a queen exchange (or a skewer winning the queen) after the dual promotion. Obviously, a lot of calculation is required. Let's see some examples of this topic. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520585/"]
+[Date "????.??.??"]
+[Round "17.2"]
+[White "2.9 Passed Pawns Races"]
+[Black "Example 136"]
+[Result "*"]
+[FEN "8/8/8/p6p/8/P6k/1PK5/8 w - - 0 1"]
+
+ { Here is a simple case. White wins by queening with check. } 1. { -KEY- } b4 axb4 2. a4 $1 { So that the pawn queens on a8. } ( { After } 2. axb4 $2 h4 3. b5 Kg2 { , it is a draw. } ) 
+b3+ 3. Kb1 $1 ( { But not } 3. Kxb3 $2 Kg2 4. a5 h4 5. a6 h3 6. a7 h2 7. a8=Q Kg1 { with a draw. } ) 
+ ( 3. Kb2 $2 { is also wrong since compared to the main line, at the moment White plays 15.Qf2 Black will be stalemated, as noticed by Anunnaki. } ) 
+Kg2 ( { Or } 3... Kg3 4. a5 h4 5. a6 h3 6. a7 h2 7. a8=Q $11 { and White's new queen controls the opponent's queening square. } ) 
+4. a5 h4 5. a6 h3 6. a7 h2 7. a8=Q+ ( { White wins due to the b-pawn remaining on the board; i.e. } 7. a8=Q Kg1 8. Qg8 Kf2 9. Qf7 Kg1 10. Qg6 Kf2 11. Qf5 Kg1 12. Qg4 Kf2 13. Qh3 Kg1 14. Qg3 Kh1 15. Qf2 b2 16. Qf1 ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520586/"]
+[Date "????.??.??"]
+[Round "17.3"]
+[White "2.9 Passed Pawns Races"]
+[Black "Example 137- Larsen- B. vs. Uhlmann- W.- Las Palmas (9th matchgame) 1971"]
+[Result "1-0"]
+[FEN "8/8/p2n3p/P1B1k3/1P2p3/6K1/5P2/8 w - - 0 1"]
+
+ { After some careful calculation, Larsen decided to enter the pawn ending. } 1. { -KEY- } Bxd6+ $1 Kxd6 2. Kf4 Kd5 3. b5 $1 ( { Not } 3. Kf5 $2 h5 $1 4. Kg5 Kc4 { and Black escapes. } ) 
+axb5 4. a6 Kc6 5. Kxe4 { It is the f-pawn's turn to run. } ( 5. a7 $2 Kb7 6. Kxe4 Kxa7 7. f4 Kb6 { should obviously be avoided. } ) 
+b4 ( { a) Similar play arises after } 5... Kb6 6. f4 ) 
+ ( { b) or } 5... h5 6. f4 ) 
+6. f4 { Here Black resigned. Let's see a possible conclusion of the game: } b3 7. Kd3 b2 8. Kc2 h5 9. f5 h4 10. f6 h3 11. a7 Kb7 12. f7 ( { A different move order with } 12. a8=Q Kxa8 13. f7 { also works, as noticed by UltraSuperBrainPower. } ) 
+h2 13. a8=Q+ $1 { The point - White gains a tempo by promoting with check. } ( { In contrast, } 13. f8=Q $2 { would let Black save himself by the same trick: } b1=Q $1 14. Kxb1 h1=Q ) 
+Kxa8 14. f8=Q+ { White wins. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13797045/"]
+[Date "????.??.??"]
+[Round "17.4"]
+[White "2.9 Passed Pawns Races"]
+[Black "Larsen- B. vs. Uhlmann- W.- #1"]
+[Result "1-0"]
+[FEN "8/8/p2n3p/P1B1k3/1P2p3/6K1/5P2/8 w - - 0 1"]
+
+ { After some careful calculation, Larsen decided to enter the pawn ending. } 1. { -KEY- } Bxd6+ $1 Kxd6 2. Kf4 Kd5 3. b5 $1 ( { Not } 3. Kf5 $2 h5 $1 4. Kg5 Kc4 { and Black escapes. } ) 
+axb5 4. a6 Kc6 5. Kxe4 { It is the f-pawn's turn to run. } ( 5. a7 $2 Kb7 6. Kxe4 Kxa7 7. f4 Kb6 { should obviously be avoided. } ) 
+b4 ( { Similar play arises after } 5... Kb6 6. f4 ) 
+ ( { or } 5... h5 6. f4 ) 
+6. f4 { Here Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13797049/"]
+[Date "????.??.??"]
+[Round "17.5"]
+[White "2.9 Passed Pawns Races"]
+[Black "Larsen- B. vs. Uhlmann- W.- #2"]
+[Result "1-0"]
+[FEN "8/8/P1k2P2/8/7p/8/1pK5/8 b - - 0 10"]
+
+10... { -KEY- } h3 11. a7 Kb7 12. f7 ( { A different move order with } 12. a8=Q Kxa8 13. f7 { also works, as noticed by UltraSuperBrainPower. } ) 
+h2 13. a8=Q+ $1 { The point - White gains a tempo by promoting with check. } ( { In contrast, } 13. f8=Q $2 { would let Black save himself by the same trick: } b1=Q $1 14. Kxb1 h1=Q ) 
+Kxa8 14. f8=Q+ { White wins. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520587/"]
+[Date "????.??.??"]
+[Round "17.6"]
+[White "2.9 Passed Pawns Races"]
+[Black "Example 138- Fischer- RJ. vs. Letelier Martner- R.- Mar del Plata 1959"]
+[Result "*"]
+[FEN "8/8/p7/Pppk1K2/6P1/1P6/8/8 b - - 0 1"]
+
+ { Black is in some trouble since his king would be checked once the g-pawn queens. Letelier found the only defence. } 1... { -KEY- } Kd4 $1 ( { a) The natural } 1... c4 $2 { loses after } 2. bxc4 bxc4 ( { a1) or } 2... Kxc4 3. g5 { and White queens with check; } ) 
+3. g5 c3 4. g6 c2 5. g7 c1=Q $11 6. g8=Q Kd4 ( { a2) or } 6... Kd6 7. Qd8 { and 8.Qc8+; } ) 
+7. Qd8 $1 Kc3 ( { a3) the desired } 7... Ke3 { fails to } 8. Qg5 ) 
+8. Qc7 Kb2 9. Qxc1 Kxc1 10. Ke4 $1 Kd2 11. Kd4 { (obstruction) } Ke2 12. Kc5 ) 
+ ( { b) As for } 1... b4 $2 2. g5 c4 { , White wins by } 3. g6 $1 ) 
+2. g5 c4 3. bxc4 b4 $1 { So that the pawn queens with check. } ( 3... bxc4 $2 4. g6 c3 5. g7 c2 6. g8=Q $11 c1=Q $11 7. Qd8 $1 { returns to 1...c4? above. } ) 
+4. g6 ( { In the game Fischer erred incredibly with } 4. c5 $4 { and had to resign after } b3 5. c6 b2 6. c7 b1=Q 7. Ke6 Qb7 8. Kd7 Kd5 9. g6 Qc6 10. Kd8 Qd6 { . } ) 
+b3 5. g7 b2 6. g8=Q b1=Q+ { Black saves a draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520588/"]
+[Date "????.??.??"]
+[Round "17.7"]
+[White "2.9 Passed Pawns Races"]
+[Black "Example 139- Quinteros- M. vs. Andersson- U.- America vs. Europe match- Mar del Plata 1981"]
+[Result "0-1"]
+[FEN "8/8/4Pk2/2p2P1K/pp6/P7/1P6/8 w - - 0 1"]
+
+ { In this tense pawn ending Black has just advanced ...b5-b4, and White must now play his cards right. } 1. { -KEY- } axb4 $2 { This capture yields Black an extra tempo in the pawn race. } ( { Correct was } 1. Kh6 $1 c4 2. e7 Kxe7 3. Kg7 c3 4. bxc3 bxc3 5. f6 Ke6 6. f7 c2 7. f8=Q $11 c1=Q $11 { with a draw - Andersson. } ) 
+cxb4 2. Kh6 a3 3. e7 Kxe7 4. Kg7 ( { Unfortunately for White, after } 4. bxa3 bxa3 5. Kg7 a2 { , Black queens with check. } ) 
+axb2 5. f6+ Kd7 $1 ( { Andersson has seen that from here the king will support a future exchange of queens on e7. Instead after } 5... Ke6 $2 6. f7 b1=Q $11 7. f8=Q $11 { White manages to stay in a queen endgame, with good drawing chances. } ) 
+6. f7 b1=Q 7. f8=Q { White had probably pinned his hopes on defending this queen ending a pawn down; however... } Qg1+ $1 ( { After } 7... Qg1 8. Kh6 ( { and } 7... Qg1+ 7. Kh7 Qh2 9. Kg7 Qg3 10. Kh7 Qh4 11. Kg6 Qe4 12. Kh6 Qe6 { leads to the same thing } ) 
+Qe3 $1 { Black manages a queen exchange either on e8 or e7, so White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520589/"]
+[Date "????.??.??"]
+[Round "17.8"]
+[White "2.9 Passed Pawns Races"]
+[Black "Example 140- Marsalek- J. vs. Smyslov- V.- European Team Championship- Oberhausen 1961"]
+[Result "0-1"]
+[FEN "8/5pp1/4p2p/1K6/p4P1P/P2P2k1/1P6/8 b - - 0 1"]
+
+ { Black has an extra tempo in this pawn race, but how to take advantage of it? } 1... { -KEY- } Kxf4 $1 ( { After } 1... Kxh4 $2 2. Kxa4 { , followed by 3 b4, White queens as well. } ) 
+2. Kxa4 g5 3. hxg5 hxg5 $1 { The pawn should queen on g1. Here White resigned; let's see why: } 4. b4 g4 5. b5 Ke5 $1 { By approaching the b-pawn with his king, Black aims at forcing the white king to a7, so that the g-pawn queens with check. } 6. b6 Kd6 7. Kb5 g3 8. Ka6 g2 9. b7 Kc7 $1 10. Ka7 g1=Q+ { Black wins - Smyslov. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520590/"]
+[Date "????.??.??"]
+[Round "17.9"]
+[White "2.9 Passed Pawns Races"]
+[Black "Example 141- Asqui- J. vs. Paredes- L.- Riobamba 2012"]
+[Result "*"]
+[FEN "8/7p/1p6/1k6/4K2P/5P2/8/8 w - - 0 1"]
+
+ { Here is a game between two of my students, in which White could have triumphed in the pawn race by precise play. } 1. { -KEY- } Kd5 $1 { Obstruction. } ( { In contrast, the game saw both players err: } 1. f4 $2 Kc5 $2 ( { a draw was achieved by } 1. Kd5 Kc6 $1 2. Ke5 Kd7 { or 2...b5 } ) 
+2. Ke5 Kc6 ( { after } 2. Kd5 b5 3. f5 b4 4. f6 { , White queens with check } ) 
+3. Ke6 $1 b5 ( { or } 3. Kd5 Kc7 4. f5 Kd8 5. Kf7 $1 { and White again queens with check } ) 
+4. f5 b4 5. f6 b3 6. f7 b2 7. f8=Q $11 b1=Q $11 8. Qc8 { and Black resigned. } ) 
+Ka4 ( { If instead } 1... Ka6 { going for the f-pawn, then after } 2. f4 Kb7 3. f5 Kc7 4. Ke6 $1 { White wins, as we already saw in the previous note. } ) 
+2. f4 b5 3. f5 b4 4. Kc4 $1 ( { But not } 4. f6 $2 b3 5. f7 b2 6. f8=Q $11 b1=Q $11 7. Qa8 Kb3 8. Qb7 Ka2 9. Qxb1 Kxb1 10. Ke6 Kc2 { and the black king reaches the f-file in the end. } ) 
+b3 5. Kc3 $1 { Luring the black king to the 'mined' a3-square, in similar fashion to Smyslov's play in the previous example. } Ka3 6. f6 b2 7. f7 b1=Q 8. f8=Q+ Ka4 ( { Or } 8... Ka2 9. Qa8 ) 
+9. Qa8+ Kb5 10. Qb8+ { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520591/"]
+[Date "????.??.??"]
+[Round "17.10"]
+[White "2.9 Passed Pawns Races"]
+[Black "Example 142- Shirov- A. vs. Morozevich- A.- Jurmala (rapid) 2012"]
+[Result "*"]
+[FEN "8/7p/p1k5/1p6/1P4P1/8/5K1P/8 b - - 0 1"]
+
+ { In this critical position Black should carefully evaluate the option of 1... Kb6 and 2...a5, entering a pawn race. } 1... { -KEY- } Kb6 $1 { Accepting the challenge. } ( { In contrast, the game saw } 1... Kd5 $2 2. h4 Ke4 3. Kg3 $1 Ke5 4. Kf3 Kd4 5. g5 Ke5 6. Kg4 a5 7. bxa5 b4 ( { or } 7... Kd6 8. a6 Kc7 9. a7 Kb7 10. h5 b4 11. g6 hxg6 12. hxg6 b3 13. g7 b2 14. a8=Q $1 { , a theme familiar to us from Example 137, Larsen-Uhlmann } ) 
+8. a6 b3 9. a7 b2 10. a8=Q $11 b1=Q $11 11. Qe8 $1 Kd6 12. Qf8 Kc7 13. Qe7 Kc6 14. Qe6 Kc7 15. Kh5 $1 { and White won. } ) 
+2. Ke3 ( { More demanding than } 2. g5 a5 3. bxa5 Kxa5 4. h4 b4 { with a draw. } ) 
+a5 3. bxa5+ Kxa5 4. g5 ( { After } 4. Kd3 Ka4 5. Kc2 Ka3 6. Kb1 Kb3 $1 ( { or } 6. g5 Kb4 $1 ) 
+7. h4 Kc4 { , the king catches the enemy pawns. } ) 
+Ka4 $1 { King first. } ( { a) The straightforward } 4... b4 $2 { failed to } 5. Kd3 Ka4 6. Kc2 Ka3 7. Kb1 ) 
+ ( { b) while } 4... Kb6 $2 { also loses to } 5. h4 Kc5 6. h5 Kd5 7. g6 hxg6 8. h6 { - Muller. } ) 
+5. h4 ( { Or } 5. Kd2 Ka3 6. Kc2 Ka2 $1 7. Kc3 Ka3 { , repeating moves. } ) 
+b4 6. h5 b3 7. Kd2 Ka3 $1 8. g6 hxg6 9. hxg6 b2 10. g7 b1=Q 11. g8=Q { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520592/"]
+[Date "????.??.??"]
+[Round "17.11"]
+[White "2.9 Passed Pawns Races"]
+[Black "Example 143- Mas- H. vs. Valdes- L.- Turin Olympiad 2006"]
+[Result "1-0"]
+[FEN "8/8/2p5/8/1P2k1p1/p1K3P1/P1P5/8 w - - 0 1"]
+
+ { The scene is set for a pawn race: Black will take the g3-pawn, and White should create his own passed pawn on the queenside. But where to put the king? } 1. { -KEY- } Kd2 $1 { Towards the g-pawn, in order to interfere with Black's race. } ( { After } 1. Kb3 $2 Kf3 2. c4 Kxg3 3. b5 cxb5 4. cxb5 Kf3 5. b6 g3 6. b7 g2 7. b8=Q $11 g1=Q $11 { , Black should make a draw. } ) 
+Kf3 2. c4 Kxg3 3. b5 cxb5 4. cxb5 Kf2 ( { a) Stepping into a skewer; but the other squares had their defects as well: } 4... Kh2 { permits } 5. b6 g3 6. b7 g2 7. b8=Q { , queening with check; } ) 
+ ( { b) } 4... Kh3 { leads to a skewer on the g-file after } 5. b6 g3 6. b7 g2 7. b8=Q $11 g1=Q $11 8. Qh8 $1 ) 
+ ( { c) while } 4... Kf3 { fails to } 5. Ke1 $1 g3 6. Kf1 { , which is why only 1.Kd2! works. } ) 
+5. b6 g3 6. b7 g2 7. b8=Q g1=Q 8. Qb6+ Kg2 9. Qxg1+ Kxg1 10. Kc3 { White wins by one tempo. } Kf2 11. Kb3 Ke3 12. Kxa3 Ke4 13. Kb4 Ke5 14. Kc5 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13797050/"]
+[Date "????.??.??"]
+[Round "17.12"]
+[White "2.9 Passed Pawns Races"]
+[Black "Mas- H. vs. Valdes- L.- #1"]
+[Result "1-0"]
+[FEN "8/8/2p5/8/1P2k1p1/p1K3P1/P1P5/8 w - - 0 1"]
+
+ { The scene is set for a pawn race: Black will take the g3-pawn, and White should create his own passed pawn on the queenside. But where to put the king? } 1. { -KEY- } Kd2 $1 { Towards the g-pawn, in order to interfere with Black's race. } ( { After } 1. Kb3 $2 Kf3 2. c4 Kxg3 3. b5 cxb5 4. cxb5 Kf3 5. b6 g3 6. b7 g2 7. b8=Q $11 g1=Q $11 { Black should make a draw. } ) 
+Kf3 2. c4 Kxg3 3. b5 cxb5 4. cxb5 Kf2 ( { a) Stepping into a skewer; but the other squares had their defects as well: } 4... Kh2 { permits } 5. b6 g3 6. b7 g2 7. b8=Q { , queening with check; } ) 
+ ( { b) } 4... Kh3 { leads to a skewer on the g-file after } 5. b6 g3 6. b7 g2 7. b8=Q $11 g1=Q $11 8. Qh8 $1 ) 
+ ( { c) while } 4... Kf3 { fails to } 5. Ke1 $1 g3 6. Kf1 { , which is why only 1.Kd2! works. } ) 
+5. b6 g3 6. b7 g2 7. b8=Q 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13797046/"]
+[Date "????.??.??"]
+[Round "17.13"]
+[White "2.9 Passed Pawns Races"]
+[Black "Mas- H. vs. Valdes- L.- #2"]
+[Result "1-0"]
+[FEN "1Q6/8/8/8/8/p7/P2K1kp1/8 b - - 0 7"]
+
+7... { -KEY- } g1=Q 8. Qb6+ Kg2 9. Qxg1+ Kxg1 10. Kc3 { White wins by one tempo. } Kf2 11. Kb3 Ke3 12. Kxa3 Ke4 13. Kb4 Ke5 14. Kc5 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520593/"]
+[Date "????.??.??"]
+[Round "17.14"]
+[White "2.9 Passed Pawns Races"]
+[Black "Example 144- Ftacnik- L. vs. Bluvshtein- M.- Nuremberg 2010"]
+[Result "1-0"]
+[FEN "8/6pp/p2Kpk2/1p5P/1P3PP1/P7/8/8 w - - 0 1"]
+
+ { With his active king White is obviously better, but how to make progress? Ftacnik concluded that winning on a single flank is impossible and, after some calculation, opted for a pawn race. } 1. { -KEY- } Kc5 $1 e5 2. g5+ ( { Simpler was } 2. fxe5 Kxe5 3. Kb6 Kf4 4. Kxa6 Kxg4 5. Kxb5 Kxh5 6. Kc4 $1 { (we are already familiar with this method from the previous examples) } ( { in contrast } 6. a4 $2 { would just draw after } g5 ) 
+g5 7. b5 g4 8. Kd3 Kh4 9. b6 g3 10. Ke2 Kh3 11. b7 g2 12. Kf2 $1 { and wins - as in fact occurred in P.Wells-D.Rogozenco, Odorheiu Secuiesc 1993 (with White beginning 1 Kc6! and Black resigning after 11 b7). } ) 
+Kf5 3. fxe5 Kxe5 4. Kb6 Kf5 5. h6 { In order to delay Black's race. This must have been White's idea when playing 2.g5+. } ( { However, } 5. Kxa6 { was much simpler; i.e. } Kxg5 6. Kxb5 Kxh5 7. Kc4 $1 { and we are back in the previous note. } ) 
+g6 6. Kxa6 Kxg5 7. Kxb5 Kh5 ( { a) } 7... Kh4 { was more tenacious, when White would have to use his queen very precisely: } 8. Kc4 g5 9. b5 g4 10. b6 g3 11. b7 g2 12. b8=Q $11 g1=Q $11 13. Qf4 $1 Kh3 ( { a1) after } 13... Kh5 14. Qe5 $1 Kxh6 15. Qf6 Kh5 16. Qf7 Kh6 17. Qf8 $1 Kh5 18. Qc5 { , the a-pawn queens, controlling the h1-square; } ) 
+14. Qf5 Kh4 15. Qf6 Kh3 ( { a2) or } 15... Kh5 16. Qe5 $1 { , transposing to 13...Kh5 etc. } ) 
+16. Qc3 $1 Kh2 17. Qe5 { and the exchange of queens proves inevitable. } ) 
+8. Kc4 g5 9. Kd3 Kh4 10. b5 g4 11. b6 g3 12. b7 { Ftacnik has seen that he can force the queen exchange after the dual promotion. } ( { Of course } 12. Ke3 Kh3 13. b7 g2 14. Kf2 $1 { was also possible. } ) 
+g2 13. b8=Q g1=Q 14. Qf4+ Kh5 ( { Or } 14... Kh3 15. Qe3 ) 
+15. Qe5+ $1 ( { Black resigned, seeing that after } 15. Qe5 Kxh6 { (or } Kh4 16. Qd4 { in similar fashion) } 16. Qe3 $1 Qxe3 17. Kxe3 { , only the White pawn queens. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13797051/"]
+[Date "????.??.??"]
+[Round "17.15"]
+[White "2.9 Passed Pawns Races"]
+[Black "Ftacnik- L. vs. Bluvshtein- M.- #1"]
+[Result "1-0"]
+[FEN "8/6pp/p2Kpk2/1p5P/1P3PP1/P7/8/8 w - - 0 1"]
+
+ { With his active king White is obviously better, but how to make progress? Ftacnik concluded that winning on a single flank is impossible and, after some calculation, opted for a pawn race. } 1. { -KEY- } Kc5 $1 ( { The similar } 1. Kc6 { is also possible, although the text appears more logical since it allows the king to approach the rest of the board more quickly 'just in case'. Having said that, } 1. Kc6 { was actually the choice of GM Wells in a game mentioned in the next note. } ) 
+e5 2. g5+ ( { Simpler was } 2. fxe5 Kxe5 3. Kb6 Kf4 4. Kxa6 Kxg4 5. Kxb5 Kxh5 6. Kc4 $1 { (we are already familiar with this method from the previous examples) } ( { in contrast } 6. a4 $2 { would just draw after } g5 ) 
+g5 7. b5 g4 8. Kd3 Kh4 9. b6 g3 10. Ke2 Kh3 11. b7 g2 12. Kf2 $1 { and wins - as in fact occurred in P.Wells-D.Rogozenco, Odorheiu Secuiesc 1993 (with White beginning 1.Kc6 and Black resigning after 11.b7). } ) 
+Kf5 3. fxe5 Kxe5 4. Kb6 Kf5 5. h6 { In order to delay Black's race. This must have been White's idea when playing 2.g5+. } ( { However, } 5. Kxa6 { was much simpler; i.e. } Kxg5 6. Kxb5 Kxh5 7. Kc4 $1 { and we are back in the previous note. } ) 
+g6 6. Kxa6 Kxg5 7. Kxb5 Kh5 ( { a) } 7... Kh4 { was more tenacious, when White would have to use his queen very precisely: } 8. Kc4 g5 9. b5 g4 10. b6 g3 11. b7 g2 12. b8=Q $11 g1=Q $11 13. Qf4 $1 Kh3 ( { a1) after } 13... Kh5 14. Qe5 $1 Kxh6 15. Qf6 Kh5 16. Qf7 Kh6 17. Qf8 $1 Kh5 18. Qc5 { , the a-pawn queens, controlling the h1-square; } ) 
+14. Qf5 Kh4 15. Qf6 Kh3 ( { a2) or } 15... Kh5 16. Qe5 $1 { , transposing to 13...Kh5 etc. } ) 
+16. Qc3 $1 Kh2 17. Qe5 { and the exchange of queens proves inevitable. } ) 
+8. Kc4 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13797047/"]
+[Date "????.??.??"]
+[Round "17.16"]
+[White "2.9 Passed Pawns Races"]
+[Black "Ftacnik- L. vs. Bluvshtein- M.- #2"]
+[Result "1-0"]
+[FEN "8/7p/6pP/7k/1PK5/P7/8/8 b - - 0 8"]
+
+8... { -KEY- } g5 9. Kd3 Kh4 10. b5 g4 11. b6 g3 12. b7 ( { Ftacnik has seen that he can force the queen exchange after the dual promotion. Of course } 12. Ke3 Kh3 13. b7 g2 14. Kf2 $1 { was also possible, and } 12. Ke2 { in similar fashion also works. } ) 
+g2 13. b8=Q g1=Q 14. Qf4+ Kh5 ( { Or } 14... Kh3 15. Qe3 ) 
+15. Qe5+ $1 ( { In view of } 15. Qe5 Kxh6 16. Qe3 $1 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520594/"]
+[Date "????.??.??"]
+[Round "17.17"]
+[White "2.9 Passed Pawns Races"]
+[Black "Example 145- Vaganian- R. vs. Lautier- J.- Manila Interzonal 1990"]
+[Result "0-1"]
+[FEN "8/5pk1/2bp1q2/2p2p2/2P2P2/1NQP4/2K5/8 b - - 0 1"]
+
+ { Relying on an extra pawn Lautier takes the opportunity to transpose to a pawn ending, perhaps already at this point anticipating a future race of passed pawns. } 1... { -KEY- } Ba4 $1 2. d4 { The best try. } ( { a) After } 2. Qa5 Qa1 $1 ) 
+ ( { b) or } 2. Kd2 Qxc3 3. Kxc3 Bxb3 4. Kxb3 Kg6 5. Ka4 Kh5 6. Kb5 Kg4 7. Kc6 Kxf4 8. Kxd6 Ke3 { , followed by 9...f4, Black wins with less effort - Lautier. } ) 
+Qxd4 3. Qxd4+ cxd4 4. Kb2 Bxb3 $1 { Setting the scene for a pawn race. } ( { Less convincing is } 4... d3 $6 5. Nd2 Bc6 ( { or } 5... Kg6 6. Kc3 Bc2 7. Nf1 { , heading for e3; } ) 
+6. Kc3 Be4 7. Nf1 $1 Kg6 8. Ng3 { with a barrier. } ) 
+5. Kxb3 { This position has been used as a blindfold exercise in my classes, with Black to play and win. If you are up for a little challenge, try it out - it is about one, long line without any subvariations until the very end. } Kg6 ( { A different plan with } 5... Kf6 { also works, e.g. } 6. Kc2 Ke6 7. Kd3 ( { after } 6... Kg6 6. Kd2 d5 8. c5 Kd7 9. Kd3 Kc6 10. Kxd4 f6 $1 { the value of the extra pawn is again visible } ) 
+Kd7 8. Kxd4 Kc6 9. Kd3 Kc5 $1 10. Kc3 d5 11. cxd5 Kxd5 12. Kd3 f6 { . This line highlights the fact that any kind of extra pawn, even a "bad" one like the one on f7 in this example, acquires more importance once a pure pawn ending is reached. } ) 
+ ( { Equally possible is } 5... Kf8 { in similar fashion to the previous line, as observed by DraggonZ. } ) 
+6. Kc2 Kh5 7. Kd3 Kg4 8. Kxd4 Kxf4 9. Kd5 Ke3 $1 { As often occurs in pawn races, the king move releasing the pawn's advance is the key to success. } ( { a) Both } 9... Kg4 $2 10. Kxd6 f4 11. c5 f3 12. c6 f2 13. c7 f1=Q $11 14. c8=Q ) 
+ ( { b) and } 9... Kg3 $2 10. Kxd6 f4 11. c5 f3 12. c6 f2 13. c7 f1=Q $11 14. c8=Q $11 Qf6 15. Kd5 $1 { would fail the test; } ) 
+ ( { c) but } 9... Kg5 $5 { with a check on f6 at the end, also works. } ) 
+10. Kxd6 f4 11. c5 f3 12. c6 f2 13. c7 f1=Q 14. c8=Q Qf6+ $1 { The final detail. } ( { The exchange of queens is inevitable, e.g. } 14... Qf6 15. Kd5 Qd4 16. Kc6 Qc4 { , so White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13797052/"]
+[Date "????.??.??"]
+[Round "17.18"]
+[White "2.9 Passed Pawns Races"]
+[Black "Vaganian- R. vs. Lautier- J.- #1"]
+[Result "0-1"]
+[FEN "8/5pk1/2bp1q2/2p2p2/2P2P2/1NQP4/2K5/8 b - - 0 1"]
+
+ { Relying on an extra pawn Lautier takes the opportunity to transpose to a pawn ending, perhaps already at this point anticipating a future race of passed pawns. } 1... { -KEY- } Ba4 $1 2. d4 { The best try. } ( { a) After } 2. Qa5 Qa1 $1 ) 
+ ( { b) or } 2. Kd2 Qxc3 3. Kxc3 Bxb3 4. Kxb3 Kg6 5. Ka4 Kh5 6. Kb5 Kg4 7. Kc6 Kxf4 8. Kxd6 Ke3 { followed by } 9. -- f4 { , Black wins with less effort - Lautier. } ) 
+Qxd4 3. Qxd4+ cxd4 4. Kb2 Bxb3 $1 { Setting the scene for a pawn race. } ( { Less convincing is } 4... d3 $6 5. Nd2 Bc6 ( { or } 5... Kg6 6. Kc3 Bc2 7. Nf1 { , heading for e3 } ) 
+6. Kc3 Be4 7. Nf1 $1 Kg6 8. Ng3 { with a barrier. } ) 
+5. Kxb3 { This position has been used as a blindfold exercise in my classes, with Black to play and win. If you are up for a little challenge, try it out - it is about one, long line without any subvariations until the very end. } Kg6 ( { A different plan with } 5... Kf6 { also works, e.g. } 6. Kc2 Ke6 7. Kd3 ( { after } 6... Kg6 6. Kd2 d5 8. c5 Kd7 9. Kd3 Kc6 10. Kxd4 f6 $1 { the value of the extra pawn is again visible } ) 
+Kd7 8. Kxd4 Kc6 9. Kd3 Kc5 $1 10. Kc3 d5 11. cxd5 Kxd5 12. Kd3 f6 { . This line highlights the fact that any kind of extra pawn, even a "bad" one like the one on f7 in this example, acquires more importance once a pure pawn ending is reached. } ) 
+ ( { Equally possible is } 5... Kf8 { in similar fashion to the previous line, as observed by DraggonZ. } ) 
+6. Kc2 Kh5 7. Kd3 Kg4 8. Kxd4 Kxf4 9. Kd5 Ke3 $1 { As often occurs in pawn races, the king move releasing the pawn's advance is the key to success. } ( { a) Both } 9... Kg4 $2 10. Kxd6 f4 11. c5 f3 12. c6 f2 13. c7 f1=Q $11 14. c8=Q ) 
+ ( { b) and } 9... Kg3 $2 10. Kxd6 f4 11. c5 f3 12. c6 f2 13. c7 f1=Q $11 14. c8=Q $11 Qf6 15. Kd5 $1 { would fail the test; } ) 
+ ( { c) but } 9... Kg5 $5 { with a check on f6 at the end, also works. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13797048/"]
+[Date "????.??.??"]
+[Round "17.19"]
+[White "2.9 Passed Pawns Races"]
+[Black "Vaganian- R. vs. Lautier- J.- #2"]
+[Result "0-1"]
+[FEN "8/5p2/3p4/3K1p2/2P5/4k3/8/8 w - - 0 10"]
+
+10. { -KEY- } Kxd6 f4 11. c5 f3 12. c6 f2 13. c7 f1=Q 14. c8=Q Qf6+ $1 { The final detail. } ( { The exchange of queens is inevitable, e.g. } 14... Qf6 15. Kd5 Qd4 16. Kc6 Qc4 { so White resigned. } ) 
+
+ 0-1

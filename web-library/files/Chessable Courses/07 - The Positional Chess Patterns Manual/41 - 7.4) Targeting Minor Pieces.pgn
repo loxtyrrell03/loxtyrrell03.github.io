@@ -1,0 +1,132 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967660/"]
+[Date "????.??.??"]
+[Round "41.1"]
+[White "7.4) Targeting Minor Pieces"]
+[Black "Pushing Back Minor Pieces 1"]
+[Result "*"]
+[FEN "3r2k1/2p2qp1/4Q2p/2P2p2/4pNn1/P3P1P1/5P2/2R3K1 b - - 0 1"]
+
+ { In this section, we're going to take a look at how you can use your pawns in order to fight against your opponent's minor pieces. Common methods here range from pushing back your opponent's pieces, to using your pawns as barriers in order to prevent them from reaching more active posts. Since pawns can also get in the way of your own pieces, we'll also take a look at some common mistakes to avoid in this respect later on. Let's start things off with a quick puzzle! This position was reached in the online game Carlsen,M - Bogdan-Daniel,D (2023) . Can you spot the crushing move missed by Black? } 1... { -KEY- } g5 $1 { Correct! Black uses his pawn to push the knight back. } ( 1... Rd2 $2 { was the game continuation. However, this lets White off the hook. One possible continuation would be } 2. Qc8 Kh7 3. Qe6 $1 { when Black can win a pawn after } Qxe6 4. Nxe6 Nxf2 { but now White grabs on c7. } 5. Nxc7 $11 { The position remains complex with White's king being the more vulnerable one, but White's c6 pawn should provide enough resources to hold the balance. } ) 
+2. Qxf7+ Kxf7 { Black's king and rook work together to cover the forward jumps of White's knight, forcing it to passively retreat. } 3. Nh3 { White retreats to h3 to defend the f2 pawn, but now the knight is completely out of the game. } ( 3. Ne2 $6 { Given one more move, the knight would place itself on the central outpost on d4 when the position would be fine for him, but Black is in time to kill this plan: } Rd2 $19 { White's knight is permanently tied down because of the weakness of the f2 pawn, while Black can play ...Ra2 next and begin to collect material. Black is winning. } ) 
+Rd2 $19 { Black is already winning, as he is in effect playing with an extra piece. The only concern is White's passed a-pawn, but Black has calculated that he is in time to stop its advance. } 4. Ra1 Ke6 5. a4 Kd7 6. a5 Kc8 7. a6 Kb8 $19 { With the pawn unable to continue its march forward, Black can begin to target both of White's queenside pawns with his rook. Staying alert for ways to push back the opponent's pieces to passive squares is one of the fastest ways to a positional advantage. Let's take a look at a more advanced example of this next. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967661/"]
+[Date "????.??.??"]
+[Round "41.2"]
+[White "7.4) Targeting Minor Pieces"]
+[Black "Pushing Back Minor Pieces 2"]
+[Result "*"]
+[FEN "1rbq2k1/pp4bp/2np2p1/2p2r2/P4B2/2PP2P1/1P1Q2BP/R2N1RK1 b - - 0 1"]
+
+ { This is taken from another of Magnus Carlsen's online games, with the Black player being the strong Russian GM Aleksei Sarana. It's Black to play, and the problem that he faces is that White is threatening Nd1-e3 striking at the Black rook and from there jumping the knight to either the weak d5 square, or perhaps to c4 from where it can target the d6 pawn. Can you find a move that puts a stop to this plan? } 1... { -KEY- } g5 $1 { Correct! Now White now has no time to play his desired move of Nd1-e3. } ( 1... Be6 { was played in the game. } ) 
+2. Be3 { The only square for the bishop, but Nd1-e3 ideas have been stopped for now. } Rxf1+ 3. Bxf1 h6 $11 { Black defends the g5 pawn and the game hangs in the balance. While it's true that Black's kingside pawn cover is now a little bit more shaky, that is a small price to pay for having killed off White's main positional idea. So far we've seen situations where the pawns help to push back the pieces. Another common technique involves using your pawns to form a barrier to keep pieces from advancing. We'll look at this in action next. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967662/"]
+[Date "????.??.??"]
+[Round "41.3"]
+[White "7.4) Targeting Minor Pieces"]
+[Black "Pawns As Barriers"]
+[Result "*"]
+[FEN "3rk2r/1p1nbp2/p2p1qnp/P1pPp1p1/2B1P3/2N1B1QP/1PP2PP1/3R1RK1 w k - 0 1"]
+
+ { White has a nice position here with more space in the centre and queenside. As a consequence, Black's minor pieces are generally quite passive. The only chance for active piece play that Black has is to play the move ...Nf4. Because of this, White comes up with a strange-looking but highly effective plan. } 1. { -KEY- } Qh2 $1 { It's rare that the best move in a position would be to make your queen as passive of a piece as possible! The point however is that now White's pawn on g2 is free to step forward. } ( 1. Qg4 $6 { This square would be less accurate, as it would feed into Black's plan of advancing with ...h5 and then ...g4. } h5 $1 2. Qf5 Qg7 $13 { Suddenly White has to deal with pawn breaks as well as the possibility of having their queen trapped. The position is messy and unclear. } ) 
+h5 { Black moves forward with the pawns, but now White has a strong technique available to them. } ( 1... Nf4 $2 { Now the immediate knight jump is easily refuted. } 2. g3 $1 Rg8 { Black uses tactics to maintain the knight on f4 now, with the point being that if White plays gxf4 here then after ...gxf4+ Black will get their piece back on the next move. } 3. Bd2 $16 { Now White is threatening to capture the knight. } Ng6 4. Be2 $16 { White will soon activate their queen, while none of Black's pieces are able to find good squares. Notice how it is not only the kingside pawns, but also White's pawns on the centre and queenside that are restricting Black's army. } ) 
+2. g3 $1 { This method of closing the doors against enemy pawn breaks is discussed in detail in the famous book 'Techniques of Positional Play', also released on Chessable. The point is that if Black now goes for the ...g4 pawn break, then White plays h3-h4 and the positions remains closed. While if Black plays ...h4 then White can maintain the lock with g3-g4 if they'd like. } h4 ( 2... g4 $2 3. h4 $1 { This is an ideal structure for White, since the g3/h4 pawn formation keeps Black's knight on g6 unable to make further inroads into the White position. With 2...h4 Black is trying to destabilize White's kingside pawn chain. However, here White has two reasonable approaches. One option is to play g3-g4, conceding the f4 outpost but arguing that White will have no real issues playing around the knight on f4. The alternative approach is similar in strength but more in keeping with my personal prefences. } ) 
+3. Be2 $1 { White keeps the pawn tension and points the bishop at the newly weakened light squares on the kingside. } Qg7 4. Qg2 $16 { The queen will eventually return to the action via f3. In the long run, White stands better due to their space advantage on the queenside, and the possibility to maneuver a piece to the f5 outpost. This kind of situation is relatively rare. A much more common way to use pawns as barriers is when targeting the enemy bishop as in our next two examples. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967663/"]
+[Date "????.??.??"]
+[Round "41.4"]
+[White "7.4) Targeting Minor Pieces"]
+[Black "Locking Out The Bishop 1"]
+[Result "*"]
+[FEN "rnb2rk1/pp2ppbp/5np1/q1p5/4P3/2N1B2P/PPPN1PP1/R2QKB1R w KQ - 0 1"]
+
+ { One of the most common targets for pawns is Black's dark-squared fianchettoed bishop. In this position, we see that Black has gone for an aggressive opening, bringing their queen out early in the hopes of putting White's centre under pressure. The problem is that White can set up a highly effective pawn formation that will shut out the fianchettoed bishop. } 1. { -KEY- } e5 $1 { First, the knight is pushed back to a more passive square. } Nfd7 2. f4 $1 { Now White sets up a pawn barrier with f4/e5. This is extremely problematic for Black since the pawn break ...f7-f6 will always have the problem of weakening the e6 square and the a2-f7 diagonal. } Nc6 { Black focuses on development. Let's show how the game might play out over the next few moves. } ( 2... f6 $4 { is too weakening, and in this case loses material after } 3. e6 $1 { since the knight only has one square to jump to, but after } Nb6 4. Nb3 $1 Qb4 5. a3 $18 { The queen is trapped! } ) 
+3. Nb3 Qc7 4. Qf3 ( { But not } 4. Nxc5 $2 { when after } Nxc5 5. Bxc5 Nxe5 $17 { Black recovers their pawn with a near-winning position owing to White's weakened king.This is the danger of the e5/f4 pawn formation - your king is left very exposed should the opponent find a way of breaking out of the cage. } ) 
+b6 5. Nd5 $16 { White is clearly in control here, with long castling likely to come next and the potential to attack on the kingside with the h4-h5 pawn break. Sometimes, the path to blocking your opponent's bishop requires less aggressive-looking measures than this and can be done by way of a simple central pawn exchange, as in our next example. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967664/"]
+[Date "????.??.??"]
+[Round "41.5"]
+[White "7.4) Targeting Minor Pieces"]
+[Black "Locking Out The Bishop 2"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2ppbp/3p1np1/2p5/3P1B2/2P1PN1P/PP3PP1/RN1QKB1R w KQ - 0 7"]
+
+ { This London System position was reached by move 6 in an online game. GM Vugar Rasulov has just played ...c5, challenging White's central control and inviting a change in structure. } 7. { -KEY- } dxc5 $1 { The exchange of pawns condemns Black's fianchettoed bishop to a passive role. } ( 7. Be2 $6 { A mechanical move such as this one would on the other hand have given Black all the chances to fight for an edge: } Qb6 8. Qc1 cxd4 $1 9. exd4 e5 $1 { At first glance this seems like a pawn sacrifice, but in fact White won't have time to win any material. } 10. dxe5 Nd5 11. Bh2 dxe5 12. O-O ( 12. Bxe5 $2 { Grabbing the pawn with White's king uncastled would be a recipe for disaster. } Bxe5 13. Nxe5 Re8 $17 { White will struggle to survive, with no plan available in order to castle without losing material. } ) 
+Nc6 $15 { Black has the better chances due to their better central control and well-placed pieces. } ) 
+dxc5 { With the d-pawns off the board, we can see that White's f4 bishop has gained activity, while the b2/c3 pawn chain makes it difficult for its dark-squared counterpart to play a significant role in the middlegame battle ahead. Over the coming moves, White goes about setting up the ideal piece/pawn configuration. } 8. Nbd2 Nc6 9. Qc2 Bf5 10. e4 $1 Be6 11. Be2 $16 { White reaches the ideal arrangement. Black's position is uncomfortable as both of his bishops are struggling for ideal squares. In the same way that bishops can be effectively blocked by enemy pawns, they can also find themselves blocked by friendly pawns. Let's study a couple of examples of this next. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967665/"]
+[Date "????.??.??"]
+[Round "41.6"]
+[White "7.4) Targeting Minor Pieces"]
+[Black "Don't Hurt Your Own Pieces! 1"]
+[Result "*"]
+[FEN "r1bq1rk1/ppp1ppbp/2np1np1/8/2BPP3/2N1BN2/PPP2PPP/R2Q1RK1 b - - 0 1"]
+
+1... { -KEY- } e5 $2 { In their eagerness to fight for the centre, Black mistakenly puts one of their own pawns in front of their dark-squared bishop. } ( 1... Nxe4 $1 { The tactical approach should have been preferred, when after } 2. Nxe4 d5 $11 { Black recovers their piece while reducing the amount of material on the board, helpful when you are the side with a little less space. } ) 
+2. dxe5 $1 { White jumps at the chance to lock the pawn structure in the centre. } ( 2. h3 $6 { Keeping the central pawn tension would be a significant mistake, allowing Black to keep their dark-squared bishop active: } exd4 $1 3. Nxd4 Re8 $1 { Suddenly it's not easy to defend the pawn on e4. This is where mistakes quickly creep in. For example: } 4. f3 $2 { Now the bishop on e3 is undefended. } Na5 5. Bd3 d5 $17 { Suddenly Black is the one with the initiative, with their fianchettoed bishop remaining a powerful piece. } ) 
+Nxe5 ( { Forced, since } 2... dxe5 $2 { runs into tactical problems: } 3. Bc5 $1 Re8 4. Ng5 $1 { There is no good way to defend the f7 pawn. } Be6 { A sad necessity. } 5. Nxe6 fxe6 6. Bb5 $16 { White will capture on c6 next, further crippling Black's structure. } ) 
+3. Nxe5 $1 { White continues the plan of forcing a fixed central structure. } dxe5 { The effect of the exchanges can be seen in the difference between the dark-squared bishops. } 4. Qxd8 Rxd8 5. Rfd1 { Even though Black was the first to arrive onto the d-file, a surprising problem appears for them. In order to hold the file, they need to develop their light-squared bishop. But the more active squares of e6 and g4 are too well-guarded by the opponent! } Bd7 { Black has nothing better than to step to the passive d7 square. } ( 5... Bg4 $6 6. f3 { and the bishop is kicked back. } ) 
+ ( 5... Be6 $6 6. Bxe6 $16 { Black's structure is heavily damaged. } ) 
+6. f3 $14 { White has a small but stable plus based on their superior minor pieces. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967666/"]
+[Date "????.??.??"]
+[Round "41.7"]
+[White "7.4) Targeting Minor Pieces"]
+[Black "Don't Hurt Your Own Pieces! 2"]
+[Result "*"]
+[FEN "r1b2rk1/pp3p1p/1np2qp1/3p4/8/P3P3/1PQP1PPP/RBB2RK1 w - - 0 16"]
+
+ ( { In this position, which move do you think is best between } 1. d3 { or } 1. d4 $2 ) 
+16. { -KEY- } d3 $1 { Correct! With this move White keeps the advantage, since not only do they stop Black from trading off the bishop pair but they also keep the a1-h8 diagonal to be used by their dark-squared bishop. } ( 16. d4 $2 { After this move White's dark-squared bishop will never exert pressure along the a1-h8 diagonal. To make matters worse, it is now Black to play and they have a strong positional idea! } Bf5 $1 { Forcing off White's bishop pair. } 17. Qc3 Bxb1 $15 { Not only has White been robbed of the bishop pair, but they are likely facing a good knight vs bad bishop dynamic due to the majority of their pawns being on dark squares. } ) 
+Bf5 17. Bd2 Rfe8 18. Bc3 $16 { White's bishop arrives on the long diagonal, and with it White sets up the better middlegame chances. Note also that the d3 pawn does a good job of restricting the forward jumps of Black's knight by controlling the c4 square. The lesson here is that it's important to make use of ways in which you can restrict your opponent's pieces with your pawns, but it's equally important to make sure that you don't restrict your own pieces! We'll now close out the section with two instructive sequences. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967667/"]
+[Date "????.??.??"]
+[Round "41.8"]
+[White "7.4) Targeting Minor Pieces"]
+[Black "Winter-W - Capablanca-J"]
+[Result "0-1"]
+[FEN "r1bq1rk1/ppp2pp1/3b1n1p/2pNp3/4P2B/3P1N2/PPP2PPP/R2Q1RK1 b - - 0 10"]
+
+ { White had just played 10.Nd5?! in the game Winter,W - Capablanca,J (1919) . From here Black played what was to become a famous positional sequence broken up into several strategic steps. } 10... { -KEY- } g5 $1 { Step 1: Break the pin, and force the bishop's retreat to the passive g3 square. } 11. Nxf6+ ( 11. Bg3 $2 { is similar to the game but worse, since after } Nxd5 $1 12. exd5 f6 $17 { Black builds an impregnable barrier along the dark squares, leaving White's bishop sidelined on the g3 square. } ) 
+ ( 11. Nxg5 $2 { This tactical idea fails to } Nxd5 $19 { since after } 12. exd5 hxg5 $19 { Black goes up a piece. } ( { Black should avoid } 11. Nxf6+ hxg5 { because of } 12. Bxg5 Be7 13. Nxe7 Qxe7 14. Qf3 Kg7 15. Qg3 $16 { when White is the side that is pressing, with a lot of attacking possibilities for only a small amount of sacrificed material. } ) 
+ ) 
+Qxf6 12. Bg3 { White's bishop no longer has any squares to move to, but he can still hope to bring it back into the game by retreating his knight and then playing f2-f3. } Bg4 $1 { Step 2: Pin the f3 knight to the queen. } 13. h3 Bxf3 $1 { Step 3: Give up the bishop pair to cripple White's structure and ensure that the f2 and f3 pawns will be unable to move for the remainder of the game. } 14. Qxf3 Qxf3 15. gxf3 f6 $1 { Step 4: In the final step, Black completes the bunker-like formation of pawns, ensuring maximum stability and control over the critical f4 square. The point is that so long as White can never play f3-f4, then they have no pathway to activate their bishop! And as long as this is so, then Black is effectively a piece to the good! From here on out, Capablanca instructively converts his advantage by shifting the focus to the queenside. } 16. Kg2 a5 17. a4 Kf7 18. Rh1 Ke6 { Centralizing the king. } 19. h4 Rfb8 { Preparing to open lines on the queenside. } 20. hxg5 hxg5 21. b3 c6 22. Ra2 b5 { The first pawn break. } 23. Rha1 c4 $1 { The second pawn break! } 24. axb5 cxb3 $1 { White's queenside structure crumbles. } 25. cxb3 Rxb5 26. Ra4 Rxb3 ( 26... c5 $1 { Shutting down d3-d4 possibilities was a little more precise. } ) 
+27. d4 Rb5 28. Rc4 $2 ( { The final mistake, } 28. dxe5 { offered better hopes for survival. } ) 
+Rb4 $1 29. Rxc6 Rxd4 $19 { Black is up a pawn while White's bishop remains cemented. White resigned. } 
+ 0-1
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967668/"]
+[Date "????.??.??"]
+[Round "41.9"]
+[White "7.4) Targeting Minor Pieces"]
+[Black "Collins-S - Trevelyan-J"]
+[Result "*"]
+[FEN "r2r4/1p2kp2/p2p1p1p/2nRp3/4P3/6P1/PPP2PBP/2K4R w - - 0 17"]
+
+ { Our final instructive sequence is taken from the game Collins,S - Trevelyan,J (2005) . The position is objectively equal here, but from here on out White uses his pawns to great effect, progressively restricting Black's knight and eventually carving out a winning advantage. } 17. { -KEY- } Re1 Ne6 $6 { The first inaccuracy. } ( 17... b5 $1 { Black needed to be careful here and play a move such as this one. The reason is a subtle one. Since White has the light-squared bishop, he is seeking to arrange his pawns on dark squares, including a pawn on b4. Black therefore begins advancing his pawns to contest this square. } 18. a3 Rab8 19. c3 { White might try c2-c3, with the idea of playing Kc2 and eventually b2-b4. However, Black is first to the party: } ( 18... Ne6 18. b4 $2 { is too dangerous since now Black can play } Na4 $15 { when the c3 and c4 squares are too weak for White to claim any advantage. } ) 
+a5 $1 20. Kc2 b4 $11 { With the b2-b4 advance permanently stopped, Black is not in any danger. } ) 
+18. Re3 { White lifts his rook with the possibility of transferring his rook to c3 or b3 at an opportune moment. } Nd4 { The knight lands on the central square, but as it is not an outpost, it will soon find itself pushed back. } 19. c3 Rac8 20. b4 $1 { A very nice move. White frees the b2 square for his king, while seizing control over the c5 square at the same time. If we compare this position to a few moves ago, we can see that Black has gained nothing from his maneuvering. The knight was much better placed on c5 in our starting position than it is on d4. } Nc6 $2 { The knight is not well-placed here as all its forward jumps are controlled by the White pawns. } 21. Kb2 a5 { Black tries to fight for the b4 square, but by now it is firmly under White's grip. } 22. a3 $1 { Maintaing the ideal pawn formation to keep Black's knight restricted. } axb4 23. axb4 Ra8 { The rook transfers to the newly opened file, hoping to rustle up some counterplay. However, an important concept when battling for open files is that they are typically only valuable if you can eventually find an entry square. White shows that here this is not the case. } 24. Bf1 $1 Ra7 25. Re1 Rda8 26. Bc4 { White has secured control of both entry points, and can soon look to target Black's backward pawn on d6. } Rd8 27. Red1 { The end of the sequence that we're interested in, with White already having a decisive positional advantage. I've included the full game for any student who is curious to see how play unfolded. } Raa8 28. R5d2 Ra7 29. Kb3 Rda8 30. Kb2 Rd8 31. Bd5 Rda8 32. f4 { Much like Capablanca in the previous game, White needs to open some new lines of attack in order to impose their positional advantage. } Rd8 33. Rf2 Nb8 34. Bb3 Nd7 35. Rfd2 Nf8 36. Rf2 Ne6 $2 { Under pressure for a long time, Black makes the final mistake. } 37. fxe5 fxe5 ( { If } 37... dxe5 { then after } 38. Rdf1 { there is no way to save the f6 pawn. } ) 
+38. Rdf1 Rf8 39. Rf6 $18 { White is threatening both Rxh6 and Bxe6, since after the latter ...fxe6 will lose a rook after Rxf8. } Ng5 40. Bd5 { White has too many threats, and so Black resigned. I hope you enjoyed this section, which has been all about using the pawns to fight against pieces. In the final section of the chapter we'll be showing the power of pawn majorities, in particular the dangerous 4 vs 3 majority. } 
+ *

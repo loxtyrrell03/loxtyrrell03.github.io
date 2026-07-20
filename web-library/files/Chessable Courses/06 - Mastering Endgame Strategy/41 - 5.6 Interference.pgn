@@ -1,0 +1,197 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12634965/"]
+[Date "????.??.??"]
+[Round "41.1"]
+[White "5.6 Interference"]
+[Black "Interference"]
+[Result "*"]
+
+ { In any type of ending, interference with the enemy play is an important idea for the defender, and even more so in queen endings, considering the power of this piece. Here are some examples. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630174/"]
+[Date "????.??.??"]
+[Round "41.2"]
+[White "5.6 Interference"]
+[Black "Example 326- Alekhine- A. vs. Reshevsky- S.- AVRO Tournament- The Netherlands 1938"]
+[Result "1/2-1/2"]
+[FEN "6k1/3q1p2/6pp/8/P7/5PP1/Q5KP/8 b - - 0 1"]
+
+ { Black's task is difficult, but the fact that White has weakened his kingside with f2-f3 gives hope of a successful defence. } 1... { -KEY- } Qc6 $1 { Heading for the great square on a6, from which the queen will control the a-pawn and eye the opposite flank at the same time. } ( 1... Qa7 $5 { with the same idea is also possible, as noticed by c0rias. } ) 
+2. a5 Qa6 3. g4 { Trying to create a shelter for the king on g3. } ( { a) After } 3. Qd5 Kg7 4. Qd4 Kg8 5. Qb6 Qe2 $1 6. Qf2 Qa6 { White hasn't made progress - Speelman. } ) 
+ ( { b) If the queens were rooks, then a king march to the opposite flank would be White's natural plan, but here the king will have nowhere to hide from the checks; e.g. } 3. Kf2 Qa7 4. Ke2 Qa6 5. Ke3 Qa7 6. Kd3 Qa6 7. Kd4 Qa7 8. Kc4 Qa6 9. Kb4 Qd6 10. Ka4 Qc6 ) 
+g5 { Denying White further expansion on the kingside. } 4. Kf2 Qd6 $1 { Some useful interference. } 5. Kf1 Qa6+ 6. Kg2 Kg7 { Marking time, awaiting White's next step. } 7. Qb2+ Kg8 8. Qb8+ Kg7 9. Qe5+ Kg8 10. Kf2 Qa7+ 11. Ke2 Qa6+ 12. Kd2 Qc4 $1 { Very clever, obstructing the way for White's king. } 13. Qf5 Qd4+ 14. Ke2 Qb2+ 15. Kd3 Qb3+ 16. Ke2 Qb2+ 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630175/"]
+[Date "????.??.??"]
+[Round "41.3"]
+[White "5.6 Interference"]
+[Black "Example 327- Ribli- Z. vs. Spassky- B.- Montpellier Candidates 1985"]
+[Result "1/2-1/2"]
+[FEN "8/8/5pk1/3q3p/PQ4pP/6P1/5P2/6K1 b - - 0 1"]
+
+ { Here White's king is much better protected than in the previous example, so Black has to look for alternative ways of interfering with the opponent's play. } 1... { -KEY- } Qd1+ 2. Kh2 Qc2 3. Qd4 Qc7 { We will soon see that, from here, the queen has better chances of creating counterplay than on a2, which, by the way, would be the right angle in a rook ending. } 4. Qe4+ Kg7 5. Qa8 $1 { White is ready to move the passed pawn forward, in similar fashion toExample 315 (Gelfand-Akopian). } f5 $1 { The only chance for counterplay lies in exposing the enemy king by ...f5-f4. } 6. Qd5 ( { The natural } 6. a5 { was stronger. Ribli might have omitted that after } f4 7. gxf4 Qxf4 8. Kg2 g3 { (else Black can't really get at White's king) there is the strong retreat } 9. Qf3 $1 { finishing off Black's counterplay } ) 
+Qa7 $1 ( { Not } 6... f4 $2 7. Qd4 ( { or } 6... Qa7 6. Qg5 { With the text Spassky manages to take the a-pawn, thus limiting the battle to one single flank. } ) 
+ ) 
+7. Qxf5 Qxa4 8. Qxh5 Qe4 9. Qg5+ Kh7 10. h5 Qf3 $1 { Keeping up the active defence. } 11. Qg6+ Kh8 12. Qh6+ Kg8 13. Qf4 Qd1 14. Qg5+ ( { After } 14. h6 Kh7 15. Qg5 ( { or } 15. Qf6 ) 
+Qd7 $1 { it won't be easy for White to win, since the pawn ending arising after the exchange on g7 is drawn unless he already has his king on f1, a scenario that Black will prevent by means of queen checks. } ) 
+Kh7 15. Qf5+ Kg7 16. Qe4 { Ribli finally opts for a new plan: a timely f2-f4 to liberate his king. } Kh8 17. Kg2 Kg7 18. f4 $5 gxf3+ $1 ( { After } 18... Qd2 19. Kf1 Qd1 20. Kf2 Qd2 21. Qe2 Qd4 22. Qe3 Qb2 23. Ke1 Qb1 { it is not clear how White can make progress either. Nevertheless, the text is simpler, leaving the opponent with the 'bad' g- and h-pawns, a kind of theoretical draw that we already came across within Example 314 (Caruana-Dominguez). } ) 
+19. Qxf3 Qc2+ 20. Kh3 Qd2 21. Qg4+ Kh8 22. h6 $6 { Tempting, but now Black can start looking for stalemate motifs. } ( { Instead, Ribli recommends } 22. Qe4 { preparing g3-g4, when } Qc1 23. g4 Qd2 24. Kh4 Kg7 25. g5 Qf2 26. Kg4 Qg1 27. Kf5 Qf2 28. Qf4 Qc2 { is one possible defence - Nalimov's tablebases. } ) 
+Qb2 $1 ( { Not } 22... Qxh6 $2 23. Qh4 Qh7 24. Kg4 $1 { and White wins - Ribli. } ) 
+23. Kh4 $6 ( { Something like } 23. Qe6 { would have been more promising in practice; e.g. } Qc3 24. Kh4 Kh7 { (for some reason, the only move) } 25. g4 { and here Black must find } Qc7 $1 { enabling a check on h2 - Nalimov's tablebases. } ) 
+Qh2+ 24. Kg5 ( { Or } 24. Qh3 Qd2 $1 { - Ribli, when } 25. Kh5 { can be met by } Qd5 26. Kg6 Qe6 $1 ) 
+Qxh6+ $1 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13882712/"]
+[Date "????.??.??"]
+[Round "41.4"]
+[White "5.6 Interference"]
+[Black "Ribli- Z. vs. Spassky- B.- #1"]
+[Result "1/2-1/2"]
+[FEN "8/8/5pk1/3q3p/PQ4pP/6P1/5P2/6K1 b - - 0 1"]
+
+ { Here White's king is much better protected than in the previous example, so Black has to look for alternative ways of interfering with the opponent's play. } 1... { -KEY- } Qd1+ 2. Kh2 Qc2 3. Qd4 Qc7 { We will soon see that, from here, the queen has better chances of creating counterplay than on a2, which, by the way, would be the right angle in a rook ending. } 4. Qe4+ Kg7 5. Qa8 $1 { White is ready to move the passed pawn forward, in similar fashion toExample 315 (Gelfand-Akopian). } ( 5. Qf5 Qa7 6. a5 { is also winning if we ask the chess engine but after } Qd4 { , the human might keep practical chances for a draw, e.g. } 7. a6 $2 Qa7 $1 { , with a welcome pawn trade. } ) 
+f5 $1 { The only chance for counterplay lies in exposing the enemy king by ...f5-f4. } 6. Qd5 ( { After } 6. a5 f4 7. gxf4 Qxf4 8. Kg2 g3 $1 { Black keeps chances for a draw. } ) 
+Qa7 $1 ( { Not } 6... f4 $2 7. Qd4 ( { or } 6... Qa7 6. Qg5 { With the text Spassky manages to take the a-pawn, thus limiting the battle to one single flank. } ) 
+ ) 
+7. Qxf5 Qxa4 8. Qxh5 Qe4 9. Qg5+ Kh7 10. h5 Qf3 $1 { Keeping up the active defence. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/24555062/"]
+[Date "????.??.??"]
+[Round "41.5"]
+[White "5.6 Interference"]
+[Black "Ribli- Z. vs. Spassky- B.- #2"]
+[Result "1/2-1/2"]
+[FEN "8/6k1/8/7P/4Q1p1/6P1/5PK1/3q4 w - - 15 18"]
+
+18. { -KEY- } f4 $5 gxf3+ $1 ( { After } 18... Qd2 19. Kf1 Qd1 20. Kf2 Qd2 21. Qe2 Qd4 22. Qe3 Qb2 23. Ke1 Qb1 { it is not clear how White can make progress either. Nevertheless, the text is simpler, leaving the opponent with the 'bad' g- and h-pawns, a kind of theoretical draw that we already came across within Example 314 (Caruana-Dominguez). } ) 
+19. Qxf3 Qc2+ 20. Kh3 Qd2 21. Qg4+ Kh8 22. h6 $6 { Tempting, but now Black can start looking for stalemate motifs. } ( { Instead, Ribli recommends } 22. Qe4 { preparing g3-g4, when } Qc1 23. g4 Qd2 24. Kh4 Kg7 25. g5 Qf2 26. Kg4 Qg1 27. Kf5 Qf2 28. Qf4 Qc2 { is one possible defence - Nalimov's tablebases. } ) 
+Qb2 $1 ( { Not } 22... Qxh6 $2 23. Qh4 Qh7 24. Kg4 $1 { and White wins - Ribli. } ) 
+23. Kh4 $6 ( { Something like } 23. Qe6 { would have been more promising in practice; e.g. } Qc3 24. Kh4 Kh7 { (for some reason, the only move) } 25. g4 { and here Black must find } Qc7 $1 { enabling a check on h2 - Nalimov's tablebases. } ) 
+Qh2+ 24. Kg5 ( { Or } 24. Qh3 Qd2 $1 { - Ribli, when } 25. Kh5 { can be met by } Qd5 26. Kg6 Qe6 $1 ) 
+Qxh6+ $1 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630176/"]
+[Date "????.??.??"]
+[Round "41.6"]
+[White "5.6 Interference"]
+[Black "Example 328- Taimanov- M. vs. Keres- P.- Gagra 1953"]
+[Result "1/2-1/2"]
+[FEN "4q3/8/6k1/p4p2/P2P4/1Q3P2/1P6/1K6 w - - 0 1"]
+
+ { On this occasion, the defender's task is even more difficult, being two pawns down and about to lose a third one. However, Keres spots a strong plan in practice: attack the f3-pawn with both pieces in order to create a passed pawn. } 1. { -KEY- } Qb6+ Kg5 $1 2. Qxa5 Qe2 ( { Of course not } 2... Kf4 $2 3. Qe5 ) 
+3. Qc3 f4 4. Ka2 { Now that 4...Qd1+ can no longer be met by 5.Qc1 check, Taimanov parries this threat in advance. } Kh4 5. d5 Kg3 { Black has improved his pieces to a maximum, and further actions now depends on White's play. } 6. Ka3 $6 ( { So far White has played well, but here he misses an easier win: } 6. Qd4 $1 Kxf3 7. d6 { - Taimanov. At the cost of just one pawn White has centralized his queen, which now limits the enemy checks and provides the passed d-pawn with excellent support. } ) 
+Qd1 { Obviously, the f3-pawn cannot be taken. } 7. Qb3 Qd2 8. Ka2 $6 ( 8. Qc4 $1 { was stronger, with the idea } Kxf3 9. Qc3 { - Taimanov. After } Qxc3 10. bxc3 Ke2 11. d6 f3 12. d7 f2 13. d8=Q $11 f1=Q $11 14. Qd5 $1 { (centralization first), Black is unlikely to save himself. } ) 
+Qd4 $1 { Centralizing the queen and tying White to the defence of his pawns. } 9. Kb1 $6 ( { Taimanov might have discarded } 9. a5 { in view of } Qc5 { and Black wins a pawn back, although after } 10. Qc3 Qxd5 11. Ka3 { White keeps excellent winning chances. } ) 
+Qg1+ 10. Kc2 Qc5+ 11. Kd2 Qd4+ 12. Ke2 ( { The last chance for a win was probably } 12. Kc2 { followed by Kb1-a2, reverting to the previous note. } ) 
+Kg2 $1 ( { Seeing that } 12... Qf2 13. Kd3 Qxf3 14. Kc4 { leads to a bad ending after } Qxb3 15. Kxb3 f3 16. d6 f2 17. d7 f1=Q $11 18. d8=Q $11 Qf7 19. Ka3 { Keres avoids the pin along the third rank in advance, while awaiting the opponent's next step. } ) 
+13. a5 Qf2+ 14. Kd1 ( { Or } 14. Kd3 Qxf3 15. Kc4 Qe4 $1 { (compare the previous note) } 16. Kc5 f3 { and Black won't lose. } ) 
+Qd4+ 15. Kc1 Qe3+ $1 16. Kc2 Qc5+ $2 { A strange error - or perhaps a misprint. } ( { a) } 16... Qe2 { maintained the perpetual, since } 17. Kb1 Qe1 18. Ka2 { fails to } Qxa5 ) 
+ ( { b) Instead, after } 16... Qc5 { a draw was agreed, though here } 17. Qc3 $1 Qxd5 18. Qd2 { led to a win - Taimanov. Beyond the turbulent conclusion of the battle, Black's defence was truly heroic in this game. } ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630185/"]
+[Date "????.??.??"]
+[Round "41.7"]
+[White "5.6 Interference"]
+[Black "Taimanov- M. vs. Keres- P.- #1"]
+[Result "1/2-1/2"]
+[FEN "8/8/8/3P4/P4p2/1Q3Pk1/KP1q4/8 b - - 0 8"]
+
+8... { -KEY- } Qd4 $1 { Centralizing the queen and tying White to the defence of his pawns. } 9. Kb1 $6 ( { Taimanov might have discarded } 9. a5 { in view of } Qc5 { and Black wins a pawn back, although after } 10. Qc3 Qxd5 11. Ka3 { White keeps excellent winning chances. } ) 
+Qg1+ 10. Kc2 Qc5+ 11. Kd2 Qd4+ 12. Ke2 ( { The last chance for a win was probably } 12. Kc2 { followed by Kb1-a2, reverting to the previous note. } ) 
+Kg2 $1 ( { Seeing that } 12... Qf2 13. Kd3 Qxf3 14. Kc4 { leads to a bad ending after } Qxb3 15. Kxb3 f3 16. d6 f2 17. d7 f1=Q $11 18. d8=Q $11 Qf7 19. Ka3 { Keres avoids the pin along the third rank in advance, while awaiting the opponent's next step. } ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630177/"]
+[Date "????.??.??"]
+[Round "41.8"]
+[White "5.6 Interference"]
+[Black "Example 329- Mkrtchian- L. vs. Cmilyte- V.- Krasnoturyinsk 2006"]
+[Result "1/2-1/2"]
+[FEN "8/5k2/3Q2p1/3P4/4q3/7P/6PK/8 w - - 0 1"]
+
+ { In the next example, a drawish outcome seems even more remote than in the previous one, but Black was finally rewarded for her stubborn defence. This example, alongside some of the previous ones in the present chapter, also highlights the fact that, in queen endings, a transposition to a pawn ending is always around the corner, due to the ease with which the queens can be exchanged. With two healthy extra pawns, it is time for White to look for the most technical path to victory. } 1. { -KEY- } Qd7+ $6 ( { Among all types of endings, the one where an extra pawn is most strongly felt is the pawn ending. Here } 1. Qe6 $1 Qxe6 2. dxe6 Kxe6 3. Kg3 { led to a trivial win, as long as White improves her king before advancing the pawns. There could follow } Kf5 4. Kf3 ( 4. Kh4 { also works - Baburin. } ) 
+g5 5. Kg3 $1 ( { but not } 5. g3 $2 g4 $1 ) 
+Kf6 6. Kg4 Kg6 7. g3 Kf6 8. Kh5 Kf5 9. g4 Kf6 10. Kh6 { and wins. } ) 
+Kf6 2. Qd8+ Kf5 3. Qf8+ Kg5 4. Qf3 Qd4 $1 { Obviously, Black could not swap queens, so instead keeps her majesty in the centre. } 5. Qg3+ $6 ( { Again, the idea of sacrificing one of the pawns to reach a pawn ending was available: } 5. Qg4 $1 Qxg4 6. hxg4 Kf6 7. Kg3 g5 $1 8. d6 Ke6 9. Kf3 Kxd6 10. Ke4 Ke6 11. g3 $1 Kf6 12. Kd5 { and White soon wins, e.g. by a later waiting move with the g3-pawn - Baburin. } ) 
+Kf6 6. Qd6+ Kg5 7. Qe7+ Kh6 8. Qf8+ Kh7 9. Qf7+ Kh6 10. Qf8+ Kh7 11. Qe7+ Kh6 12. d6 $1 { Correct, betting on the passed pawn without worrying about the enemy queen checks. } Qf4+ 13. Kg1 Qc1+ 14. Kf2 Qd2+ 15. Kg3 g5 ( { After } 15... Qd3 16. Kh2 { the king escapes, so Cmilyte prefers to create a mating threat. } ) 
+16. Qf6+ Kh5 17. Qf7+ Kh6 18. Qe6+ Kh5 19. Qe5 $1 { Centralization. } Kh6 20. Kh2 $6 ( { An excellent alternative was } 20. h4 $1 { exposing the enemy king to future checks; e.g. } Qd3 ( { not } 20. Kh2 gxh4 21. Kxh4 Qxg2 $2 22. Qh8 $1 ) 
+21. Kh2 gxh4 22. Qf6 { and the exchange of queens is imminent - Baburin. } ) 
+Kh5 21. Qh8+ ( { A better choice was } 21. Qf6 { , for example } g4 22. hxg4 Kxg4 23. Qg6 Kh4 24. d7 $1 { and White wins, as shown by FSU70 / Stockfish. However, such variations are not easily visualized at the board when you are already beyond move ninety! } ) 
+Kg6 22. Qe8+ Kh6 23. Qe6+ Kh5 24. Qg4+ Kh6 25. Qe6+ Kh5 26. Qe8+ $6 { This doesn't spoil anything yet, but it is a step in the wrong direction - Baburin. } ( { Correct was } 26. d7 $1 Qf4 27. Kg1 Qc1 28. Kf2 Qf4 ( { or } 28. Qe8+ Qd2 29. Qe2 { check } ) 
+29. Ke2 { when the threat of Qe8+ and d8Q decides, as the white queen covers the crucial c4-square. } ) 
+ ( { Another good option was } 26. Qf6 { transposing to the 21.Qf6 variation featured earlier in this example. } ) 
+Kh6 27. d7 $2 { A fatal misevaluation; with the queen on e8, the king won't be able to escape the checks. } ( { Again } 27. Qe6 { followed by d6-d7, was called for. } ) 
+Qf4+ 28. Kg1 Qc1+ 29. Kf2 Qd2+ { The rest is rather obvious, with the white king being short of shelter. } 30. Kf3 Qd3+ 31. Kg4 Qd4+ 32. Kf5 Qf4+ 33. Ke6 Qe4+ 34. Kd6 Qd4+ 35. Ke6 Qe4+ 36. Kf6 Qf4+ 37. Ke6 Qe4+ 38. Kd6 Qd4+ 39. Kc6 Qc4+ 40. Kb6 Qb4+ 41. Ka6 Qa4+ 42. Kb7 Qb5+ 43. Kc7 Qc5+ 44. Kd8 Qa5+ $1 ( { But not } 44... Qb6 $2 45. Ke7 Qc5 46. Kf6 $1 Qf2 { (the queen should have been on f4 at this moment) } 47. Ke6 Qb6 48. Kf7 Qg6 49. Ke7 Qe4 50. Kf8 { and White wins - Baburin. } ) 
+45. Kc8 Qc5+ 46. Kb7 Qb5+ 47. Kc8 Qc5+ 48. Kd8 Qa5+ 49. Ke7 Qe5+ 50. Kf7 Qf5+ 51. Ke7 ( { There was even a way to lose to the game: } 51. Kg8 $4 Qh7 52. Kf8 Qg7 ) 
+Qe5+ 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13882714/"]
+[Date "????.??.??"]
+[Round "41.9"]
+[White "5.6 Interference"]
+[Black "Mkrtchian- L. vs. Cmilyte- V.- #1"]
+[Result "*"]
+[FEN "8/5k2/3Q2p1/3P4/4q3/7P/6PK/8 w - - 0 1"]
+
+ { Among all types of endings, the one where an extra pawn is most strongly felt is the pawn ending. } 1. { -KEY- } Qe6+ $1 Qxe6 2. dxe6+ Kxe6 3. Kg3 { A trivial win, as long as White improves her king before advancing the pawns. } Kf5 4. Kf3 ( 4. Kh4 { also works - Baburin } ) 
+g5 5. Kg3 $1 ( { Not } 5. g3 $2 g4 $1 ) 
+Kf6 6. Kg4 Kg6 7. g3 ( { Another good option is } 7. h4 { , as noticed by DraggonZ. } ) 
+Kf6 8. Kh5 Kf5 9. g4+ Kf6 10. Kh6 { And wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13882715/"]
+[Date "????.??.??"]
+[Round "41.10"]
+[White "5.6 Interference"]
+[Black "Mkrtchian- L. vs. Cmilyte- V.- #2"]
+[Result "*"]
+[FEN "8/8/6p1/3P2k1/4q3/5Q1P/6PK/8 b - - 0 4"]
+
+4... { -KEY- } Qd4 $1 { Obviously, Black could not swap queens, so instead keeps her majesty in the centre. Again, the idea of sacrificing one of the pawns to reach a pawn ending was available. } 5. Qg4+ $1 Qxg4 6. hxg4 Kf6 7. Kg3 ( { A different move order with } 7. d6 { first also works, as noticed by Neilthesculptor. } ) 
+g5 $1 8. d6 ( { A different move order with } 8. Kf3 { first also works. } ) 
+Ke6 9. Kf3 Kxd6 10. Ke4 Ke6 11. g3 $1 Kf6 12. Kd5 { White soon wins, e.g. by a later waiting move with the g3-pawn - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13882716/"]
+[Date "????.??.??"]
+[Round "41.11"]
+[White "5.6 Interference"]
+[Black "Mkrtchian- L. vs. Cmilyte- V.- #3"]
+[Result "1-0"]
+[FEN "8/8/3P4/4Q1pk/8/6KP/3q2P1/8 b - - 0 19"]
+
+19... { -KEY- } Kh6 { An excellent alternative was } 20. h4 $1 { Exposing the enemy king to future checks. } Qd3+ ( { Not } 20... gxh4 21. Kxh4 Qxg2 $2 22. Qh8 $1 ) 
+21. Kh2 gxh4 22. Qf6+ { And the exchange of queens is imminent - Baburin. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13882717/"]
+[Date "????.??.??"]
+[Round "41.12"]
+[White "5.6 Interference"]
+[Black "Mkrtchian- L. vs. Cmilyte- V.- #4"]
+[Result "*"]
+[FEN "8/8/3PQ2k/6p1/8/7P/3q2PK/8 b - - 0 25"]
+
+25... { -KEY- } Kh5 26. d7 $1 Qf4+ 27. Kg1 Qc1+ 28. Kf2 Qf4+ ( { Or } 28... Qd2 29. Qe2 { check. } ) 
+29. Ke2 { When the threat of Qe8+ and d8Q decides, as the white queen covers the crucial c4-square. } 
+ *

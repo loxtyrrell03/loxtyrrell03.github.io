@@ -1,0 +1,86 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9327896/"]
+[Date "????.??.??"]
+[Round "12.1"]
+[White "11. Scotch Game - 8.c4 Nb6 9.Nd2 and 9.b3"]
+[Black "Scotch Game 9.b3 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch Game had always remained in the shadow of the Ruy Lopez and the Italian Game, until Garry Kasparov started playing it successfully in the 1990s. Since then, many players have decided to follow the world champion's example and nowadays it is a popular opening on both professional and amateur level. } exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 { Black blocks his bishop, but forces White to do the same. } 7. Qe2 Nd5 8. c4 { Absolutely the main move but we covered all the alternatives in the previous chapters. -KEY- } Nb6 ( 8... Ba6 { is the main line, but I recommend to play the text move, because it is at least as good and requires less memorization. Now the most popular is } 9. Nc3 { which will be covered in the next chapter. Here we will focus on } 9. Nd2 { and have a brief look at } 9. b3 { . } ) 
+9. b3 { This is sometimes played, but should transpose to 9. Nd2 } a5 10. Bb2 a4 11. Qe3 ( { This has some independent value so let's check it briefly. Probably White's best is } 11. Nd2 Qe6 { which transposes to 9.Nd2 } ) 
+axb3 ( 11... Qe6 { is fine but this one is even stronger because it allows us to displace the White king. } ) 
+12. axb3 Rxa1 13. Bxa1 Qb4+ 14. Qc3 $2 ( { Everyone played this move. After } 14. Nd2 Qa3 15. Bc3 Bc5 16. Qd3 d5 $1 { Black is clearly better. Probably the only good move is } 14. Kd1 { which is around equal after } Bc5 { . } ) 
+Na4 $1 { A nice way to reposition the knight. } 15. Qxb4 Bxb4+ 16. Kd1 Nc5 { Black has a much better structure, the pawn on b3 is just weak. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9495952/"]
+[Date "????.??.??"]
+[Round "12.2"]
+[White "11. Scotch Game - 8.c4 Nb6 9.Nd2 and 9.b3"]
+[Black "Scotch Game 9.b3 #02"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch Game had always remained in the shadow of the Ruy Lopez and the Italian Game, until Garry Kasparov started playing it successfully in the 1990s. Since then, many players have decided to follow the world champion's example and nowadays it is a popular opening on both professional and amateur level. } exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 { Black blocks his bishop, but forces White to do the same. } 7. Qe2 Nd5 8. c4 { Absolutely the main move but we covered all the alternatives in the previous chapters. } Nb6 { 8...Ba6 is the main line, but I recommend to play the text move, because it is at least as good and requires less memorization. Now the most popular is 9. Nc3 which will be covered in the next chapter. Here we will focus on 9. Nd2 and have a brief look at 9.b3. } 9. b3 { This is sometimes played, but should transpose to 9. Nd2 } a5 10. Ba3 { -KEY- } Qe6 11. Bxf8 Rxf8 $1 ( 11... Kxf8 { was played in V.Plat-L.Jarmula, Pardubice 2020 and it's fine too but it is better to preserve option of castling long (after ... Bb7) or putting the king to d8 as we will see. } ) 
+12. Nc3 ( 12. Nd2 a4 { is also nice for Black. } ) 
+a4 13. O-O-O Kd8 $1 { A very deep move, but the idea is simple. We want to play ...f6 and don't trade the queens. Black has a nice initiative. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9327897/"]
+[Date "????.??.??"]
+[Round "12.3"]
+[White "11. Scotch Game - 8.c4 Nb6 9.Nd2 and 9.b3"]
+[Black "Scotch Game 9.Nd2 & 10.g3"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch Game had always remained in the shadow of the Ruy Lopez and the Italian Game, until Garry Kasparov started playing it successfully in the 1990s. Since then, many players have decided to follow the world champion's example and nowadays it is a popular opening on both professional and amateur level. } exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 { Black blocks his bishop, but forces White to do the same. } 7. Qe2 Nd5 8. c4 { Absolutely the main move but we covered all the alternatives in the previous chapters. } Nb6 { 8...Ba6 is the main line, but I recommend to play the text move, because it is at least as good and requires less memorization. Now the most popular is 9. Nc3 which will be covered in the next chapter. Here we will focus on 9. Nd2 and have a brief look at 9.b3. } 9. Nd2 { -KEY- } Qe6 { Black prepares ...Bb4 and ... Ba6. } 10. g3 $6 { This typical move is inadequate here, since it does nothing to stop Black's idea. White could also play this on move 9.g3 Qe6 but 10.Nd2 would transpose. } Bb4 $1 11. a3 Bxd2+ 12. Bxd2 a5 $15 { White is left with a glaring weakness on c4 and he is already the one who has to worry about equalizing. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9327898/"]
+[Date "????.??.??"]
+[Round "12.4"]
+[White "11. Scotch Game - 8.c4 Nb6 9.Nd2 and 9.b3"]
+[Black "Scotch Game 9.Nd2 & 10.Qe4 - transposition"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch Game had always remained in the shadow of the Ruy Lopez and the Italian Game, until Garry Kasparov started playing it successfully in the 1990s. Since then, many players have decided to follow the world champion's example and nowadays it is a popular opening on both professional and amateur level. } exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 { Black blocks his bishop, but forces White to do the same. } 7. Qe2 Nd5 8. c4 { Absolutely the main move but we covered all the alternatives in the previous chapters. } Nb6 { 8...Ba6 is the main line, but I recommend to play the text move, because it is at least as good and requires less memorization. Now the most popular is 9. Nc3 which will be covered in the next chapter. Here we will focus on 9. Nd2 and have a brief look at 9.b3. } 9. Nd2 Qe6 { Black prepares ...Bb4 and ... Ba6. } 10. Qe4 { -KEY- } d5 { This will transpose to the 9.Nc3 line. } 11. exd6 Qxe4+ $1 12. Nxe4 cxd6 { see the next chapter. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9327899/"]
+[Date "????.??.??"]
+[Round "12.5"]
+[White "11. Scotch Game - 8.c4 Nb6 9.Nd2 and 9.b3"]
+[Black "Scotch Game 9.Nd2 & 10.b3 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch Game had always remained in the shadow of the Ruy Lopez and the Italian Game, until Garry Kasparov started playing it successfully in the 1990s. Since then, many players have decided to follow the world champion's example and nowadays it is a popular opening on both professional and amateur level. } exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 { Black blocks his bishop, but forces White to do the same. } 7. Qe2 Nd5 8. c4 { Absolutely the main move but we covered all the alternatives in the previous chapters. } Nb6 { 8...Ba6 is the main line, but I recommend to play the text move, because it is at least as good and requires less memorization. Now the most popular is 9. Nc3 which will be covered in the next chapter. Here we will focus on 9. Nd2 and have a brief look at 9.b3. } 9. Nd2 Qe6 { Black prepares ...Bb4 and ... Ba6. } 10. b3 { White strengthens the c4 pawn and prepares to meet ...Bb4 with Bb2. -KEY- } a5 { The key idea of the variation. The a-pawn march essentially solves all Black's problems. } 11. Bb2 ( 11. Qe3 a4 12. Bb2 Bb4 { transposes to our main line. } ) 
+a4 ( 11... Bb4 { is dubious because } 12. a3 Bxd2 13. Qxd2 { is just better for White who got a bishop pair for nothing. Somehow Black can't easily break through. This was played in the 16th game of the World Championship match Kasparov-Karpov in 1990. Kasparov went on to win that game and later the match by one point. } ) 
+12. Qe3 { White just wants to develop the bishop and castle. } Bb4 13. Bd3 $6 { Most popular, but not very precise. } d6 ( { Not } 13... d5 14. O-O { and Black has no real play against the c4-pawn. In contrast to 13. Be2, White cannot castle short now. } ) 
+14. O-O-O $6 { This is asking for trouble, since Black's play on the queenside is already far-advanced. } axb3 15. axb3 d5 $1 { Now that White has castled long, Black switches to undermining the queenside and avoids a queen trade. Black is better, as White's king is obviously weak. An exemplary line runs as follows: } 16. Qg5 O-O 17. Qh4 g6 18. cxd5 Nxd5 19. Ne4 Qe7 20. Nf6+ Nxf6 21. exf6 Qc5+ 22. Kb1 Re8 23. Qh6 Qf8 24. Qxf8+ Bxf8 $15 { 25...Be6 comes next. White's queenside remains weak even without queens. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9327900/"]
+[Date "????.??.??"]
+[Round "12.6"]
+[White "11. Scotch Game - 8.c4 Nb6 9.Nd2 and 9.b3"]
+[Black "Scotch Game 9.Nd2 & 10.b3 #02"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch Game had always remained in the shadow of the Ruy Lopez and the Italian Game, until Garry Kasparov started playing it successfully in the 1990s. Since then, many players have decided to follow the world champion's example and nowadays it is a popular opening on both professional and amateur level. } exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 { Black blocks his bishop, but forces White to do the same. } 7. Qe2 Nd5 8. c4 { Absolutely the main move but we covered all the alternatives in the previous chapters. } Nb6 { 8...Ba6 is the main line, but I recommend to play the text move, because it is at least as good and requires less memorization. Now the most popular is 9. Nc3 which will be covered in the next chapter. Here we will focus on 9. Nd2 and have a brief look at 9.b3. } 9. Nd2 Qe6 { Black prepares ...Bb4 and ... Ba6. } 10. b3 { White strengthens the c4 pawn and prepares to meet ...Bb4 with Bb2. } a5 { The key idea of the variation. The a-pawn march essentially solves all Black's problems. } 11. Bb2 { 11.Qe3 a4 12.Bb2 Bb4 transposes to our main line. } a4 { 11...Bb4 is dubious because 12.a3 Bxd2+ 13. Qxd2 is just better for White who got a bishop pair for nothing. Somehow Black can't easily break through. This was played in the 16th game of the World Championship match Kasparov-Karpov in 1990. Kasparov went on to win that game and later the match by one point. } 12. Qe3 { White just wants to develop the bishop and castle. } Bb4 13. Bd3 $6 { Most popular, but not very precise. } d6 ( { Not } 13... d5 { 14.0-0 and Black has no real play against the c4-pawn. In contrast to 13. Be2, White cannot castle short now. } ) 
+14. O-O $2 { -KEY- } a3 $1 15. Bc1 Qxe5 $17 { Black has won a pawn for nothing. You can see why it was more important to play 13...d6 rather than for example castling. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9327901/"]
+[Date "????.??.??"]
+[Round "12.7"]
+[White "11. Scotch Game - 8.c4 Nb6 9.Nd2 and 9.b3"]
+[Black "Scotch Game 9.Nd2 & 10.b3 #03"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch Game had always remained in the shadow of the Ruy Lopez and the Italian Game, until Garry Kasparov started playing it successfully in the 1990s. Since then, many players have decided to follow the world champion's example and nowadays it is a popular opening on both professional and amateur level. } exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 { Black blocks his bishop, but forces White to do the same. } 7. Qe2 Nd5 8. c4 { Absolutely the main move but we covered all the alternatives in the previous chapters. } Nb6 { 8...Ba6 is the main line, but I recommend to play the text move, because it is at least as good and requires less memorization. Now the most popular is 9. Nc3 which will be covered in the next chapter. Here we will focus on 9. Nd2 and have a brief look at 9.b3. } 9. Nd2 Qe6 { Black prepares ...Bb4 and ... Ba6. } 10. b3 { White strengthens the c4 pawn and prepares to meet ...Bb4 with Bb2. } a5 { The key idea of the variation. The a-pawn march essentially solves all Black's problems. } 11. Bb2 { 11.Qe3 a4 12.Bb2 Bb4 transposes to our main line. } a4 { 11...Bb4 is dubious because 12.a3 Bxd2+ 13. Qxd2 is just better for White who got a bishop pair for nothing. Somehow Black can't easily break through. This was played in the 16th game of the World Championship match Kasparov-Karpov in 1990. Kasparov went on to win that game and later the match by one point. } 12. Qe3 { White just wants to develop the bishop and castle. } Bb4 13. Bd3 $6 { Most popular, but not very precise. } d6 { (Not 13... d5 14.0-0 and Black has no real play against the c4-pawn.) In contrast to 13. Be2, White cannot castle short now. } 14. exd6 { A sad necessity for White. -KEY- } Qxe3+ 15. fxe3 cxd6 $15 { Black has a slight pressure in the endgame. } 
+ *

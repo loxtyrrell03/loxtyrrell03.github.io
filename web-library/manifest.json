@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-20T03:27:39.475Z",
+  "generatedAt": "2026-07-20T12:53:43.735Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -995,6 +995,2386 @@
       "url": "files/Blindfold%20games/game%201.pgn",
       "lastModified": 1779035667000,
       "sizeBytes": 910
+    },
+    {
+      "type": "file",
+      "name": "01 - Introduction",
+      "filename": "01 - Introduction.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/01 - Introduction.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/01%20-%20Introduction.pgn",
+      "lastModified": 1784549234368.7551,
+      "sizeBytes": 45852
+    },
+    {
+      "type": "file",
+      "name": "02 - 1. Basic Endings",
+      "filename": "02 - 1. Basic Endings.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/02 - 1. Basic Endings.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/02%20-%201.%20Basic%20Endings.pgn",
+      "lastModified": 1784549234369.2556,
+      "sizeBytes": 34589
+    },
+    {
+      "type": "file",
+      "name": "03 - 2. Basic Test",
+      "filename": "03 - 2. Basic Test.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/03 - 2. Basic Test.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/03%20-%202.%20Basic%20Test.pgn",
+      "lastModified": 1784549234369.7559,
+      "sizeBytes": 12142
+    },
+    {
+      "type": "file",
+      "name": "04 - 3. Knight vs. Pawn",
+      "filename": "04 - 3. Knight vs. Pawn.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/04 - 3. Knight vs. Pawn.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/04%20-%203.%20Knight%20vs.%20Pawn.pgn",
+      "lastModified": 1784549234370.7588,
+      "sizeBytes": 14088
+    },
+    {
+      "type": "file",
+      "name": "05 - 4. Queen vs. Pawn",
+      "filename": "05 - 4. Queen vs. Pawn.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/05 - 4. Queen vs. Pawn.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/05%20-%204.%20Queen%20vs.%20Pawn.pgn",
+      "lastModified": 1784549234371.27,
+      "sizeBytes": 17473
+    },
+    {
+      "type": "file",
+      "name": "06 - 5. Rook vs. Pawn",
+      "filename": "06 - 5. Rook vs. Pawn.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/06 - 5. Rook vs. Pawn.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/06%20-%205.%20Rook%20vs.%20Pawn.pgn",
+      "lastModified": 1784549234371.822,
+      "sizeBytes": 28387
+    },
+    {
+      "type": "file",
+      "name": "07 - 6. Rook vs. 2 Pawns",
+      "filename": "07 - 6. Rook vs. 2 Pawns.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/07 - 6. Rook vs. 2 Pawns.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/07%20-%206.%20Rook%20vs.%202%20Pawns.pgn",
+      "lastModified": 1784549234372.3247,
+      "sizeBytes": 12124
+    },
+    {
+      "type": "file",
+      "name": "08 - 7. Same coloured bishops - B+P vs. B",
+      "filename": "08 - 7. Same coloured bishops - B+P vs. B.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/08 - 7. Same coloured bishops - B+P vs. B.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/08%20-%207.%20Same%20coloured%20bishops%20-%20B%2BP%20vs.%20B.pgn",
+      "lastModified": 1784549234372.3247,
+      "sizeBytes": 14368
+    },
+    {
+      "type": "file",
+      "name": "09 - 8. Bishop vs. Knight - One Pawn",
+      "filename": "09 - 8. Bishop vs. Knight - One Pawn.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/09 - 8. Bishop vs. Knight - One Pawn.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/09%20-%208.%20Bishop%20vs.%20Knight%20-%20One%20Pawn.pgn",
+      "lastModified": 1784549234372.8252,
+      "sizeBytes": 15232
+    },
+    {
+      "type": "file",
+      "name": "10 - 9. Opp. Coloured - B+2 Pawns vs. B",
+      "filename": "10 - 9. Opp. Coloured - B+2 Pawns vs. B.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/10 - 9. Opp. Coloured - B+2 Pawns vs. B.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/10%20-%209.%20Opp.%20Coloured%20-%20B%2B2%20Pawns%20vs.%20B.pgn",
+      "lastModified": 1784549234373.3267,
+      "sizeBytes": 37338
+    },
+    {
+      "type": "file",
+      "name": "11 - 10. Rook + Pawn vs. Rook",
+      "filename": "11 - 10. Rook + Pawn vs. Rook.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/11 - 10. Rook + Pawn vs. Rook.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/11%20-%2010.%20Rook%20%2B%20Pawn%20vs.%20Rook.pgn",
+      "lastModified": 1784549234373.827,
+      "sizeBytes": 67464
+    },
+    {
+      "type": "file",
+      "name": "12 - 11. Rook + two Pawns vs. Rook",
+      "filename": "12 - 11. Rook + two Pawns vs. Rook.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/12 - 11. Rook + two Pawns vs. Rook.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/12%20-%2011.%20Rook%20%2B%20two%20Pawns%20vs.%20Rook.pgn",
+      "lastModified": 1784549234374.3281,
+      "sizeBytes": 38204
+    },
+    {
+      "type": "file",
+      "name": "13 - 12. Pawn endings",
+      "filename": "13 - 12. Pawn endings.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/13 - 12. Pawn endings.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/13%20-%2012.%20Pawn%20endings.pgn",
+      "lastModified": 1784549234374.8286,
+      "sizeBytes": 72982
+    },
+    {
+      "type": "file",
+      "name": "14 - 13. Other material relations",
+      "filename": "14 - 13. Other material relations.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/14 - 13. Other material relations.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/14%20-%2013.%20Other%20material%20relations.pgn",
+      "lastModified": 1784549234375.329,
+      "sizeBytes": 55729
+    },
+    {
+      "type": "file",
+      "name": "15 - 14. Final Test",
+      "filename": "15 - 14. Final Test.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/15 - 14. Final Test.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/15%20-%2014.%20Final%20Test.pgn",
+      "lastModified": 1784549234375.8296,
+      "sizeBytes": 39144
+    },
+    {
+      "type": "file",
+      "name": "16 - 15. Appendix",
+      "filename": "16 - 15. Appendix.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/01 - 100 Endgames You Must Know/16 - 15. Appendix.pgn",
+      "url": "files/Chessable%20Courses/01%20-%20100%20Endgames%20You%20Must%20Know/16%20-%2015.%20Appendix.pgn",
+      "lastModified": 1784549234376.3298,
+      "sizeBytes": 19816
+    },
+    {
+      "type": "file",
+      "name": "01 - Course Introduction",
+      "filename": "01 - Course Introduction.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/02 - Calculation - A Complete Guide for Tournament Players/01 - Course Introduction.pgn",
+      "url": "files/Chessable%20Courses/02%20-%20Calculation%20-%20A%20Complete%20Guide%20for%20Tournament%20Players/01%20-%20Course%20Introduction.pgn",
+      "lastModified": 1784549234384.3567,
+      "sizeBytes": 5978
+    },
+    {
+      "type": "file",
+      "name": "02 - 1. The Burger Technique",
+      "filename": "02 - 1. The Burger Technique.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/02 - Calculation - A Complete Guide for Tournament Players/02 - 1. The Burger Technique.pgn",
+      "url": "files/Chessable%20Courses/02%20-%20Calculation%20-%20A%20Complete%20Guide%20for%20Tournament%20Players/02%20-%201.%20The%20Burger%20Technique.pgn",
+      "lastModified": 1784549234385.8723,
+      "sizeBytes": 72517
+    },
+    {
+      "type": "file",
+      "name": "03 - 2. Reciprocal Thinking",
+      "filename": "03 - 2. Reciprocal Thinking.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/02 - Calculation - A Complete Guide for Tournament Players/03 - 2. Reciprocal Thinking.pgn",
+      "url": "files/Chessable%20Courses/02%20-%20Calculation%20-%20A%20Complete%20Guide%20for%20Tournament%20Players/03%20-%202.%20Reciprocal%20Thinking.pgn",
+      "lastModified": 1784549234386.3767,
+      "sizeBytes": 35360
+    },
+    {
+      "type": "file",
+      "name": "04 - 3. Pattern Internalisation Essentials",
+      "filename": "04 - 3. Pattern Internalisation Essentials.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/02 - Calculation - A Complete Guide for Tournament Players/04 - 3. Pattern Internalisation Essentials.pgn",
+      "url": "files/Chessable%20Courses/02%20-%20Calculation%20-%20A%20Complete%20Guide%20for%20Tournament%20Players/04%20-%203.%20Pattern%20Internalisation%20Essentials.pgn",
+      "lastModified": 1784549234386.881,
+      "sizeBytes": 62343
+    },
+    {
+      "type": "file",
+      "name": "05 - 4. Essential Theoretical Endgames",
+      "filename": "05 - 4. Essential Theoretical Endgames.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/02 - Calculation - A Complete Guide for Tournament Players/05 - 4. Essential Theoretical Endgames.pgn",
+      "url": "files/Chessable%20Courses/02%20-%20Calculation%20-%20A%20Complete%20Guide%20for%20Tournament%20Players/05%20-%204.%20Essential%20Theoretical%20Endgames.pgn",
+      "lastModified": 1784549234387.3855,
+      "sizeBytes": 72838
+    },
+    {
+      "type": "file",
+      "name": "06 - 5. Endgame Ideas",
+      "filename": "06 - 5. Endgame Ideas.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/02 - Calculation - A Complete Guide for Tournament Players/06 - 5. Endgame Ideas.pgn",
+      "url": "files/Chessable%20Courses/02%20-%20Calculation%20-%20A%20Complete%20Guide%20for%20Tournament%20Players/06%20-%205.%20Endgame%20Ideas.pgn",
+      "lastModified": 1784549234387.8928,
+      "sizeBytes": 26082
+    },
+    {
+      "type": "file",
+      "name": "07 - 6. Typical Mistakes",
+      "filename": "07 - 6. Typical Mistakes.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/02 - Calculation - A Complete Guide for Tournament Players/07 - 6. Typical Mistakes.pgn",
+      "url": "files/Chessable%20Courses/02%20-%20Calculation%20-%20A%20Complete%20Guide%20for%20Tournament%20Players/07%20-%206.%20Typical%20Mistakes.pgn",
+      "lastModified": 1784549234387.8928,
+      "sizeBytes": 12475
+    },
+    {
+      "type": "file",
+      "name": "08 - Q&A",
+      "filename": "08 - Q&A.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/02 - Calculation - A Complete Guide for Tournament Players/08 - Q&A.pgn",
+      "url": "files/Chessable%20Courses/02%20-%20Calculation%20-%20A%20Complete%20Guide%20for%20Tournament%20Players/08%20-%20Q%26A.pgn",
+      "lastModified": 1784549234388.3977,
+      "sizeBytes": 22452
+    },
+    {
+      "type": "file",
+      "name": "09 - Bonus Puzzles",
+      "filename": "09 - Bonus Puzzles.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/02 - Calculation - A Complete Guide for Tournament Players/09 - Bonus Puzzles.pgn",
+      "url": "files/Chessable%20Courses/02%20-%20Calculation%20-%20A%20Complete%20Guide%20for%20Tournament%20Players/09%20-%20Bonus%20Puzzles.pgn",
+      "lastModified": 1784549234389.0083,
+      "sizeBytes": 30862
+    },
+    {
+      "type": "file",
+      "name": "01 - Introduction",
+      "filename": "01 - Introduction.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/01 - Introduction.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/01%20-%20Introduction.pgn",
+      "lastModified": 1784549234419.6938,
+      "sizeBytes": 26901
+    },
+    {
+      "type": "file",
+      "name": "02 - 1) The Isolani",
+      "filename": "02 - 1) The Isolani.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/02 - 1) The Isolani.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/02%20-%201)%20The%20Isolani.pgn",
+      "lastModified": 1784549234419.6938,
+      "sizeBytes": 74013
+    },
+    {
+      "type": "file",
+      "name": "03 - 2) Hanging Pawns",
+      "filename": "03 - 2) Hanging Pawns.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/03 - 2) Hanging Pawns.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/03%20-%202)%20Hanging%20Pawns.pgn",
+      "lastModified": 1784549234420.6985,
+      "sizeBytes": 49505
+    },
+    {
+      "type": "file",
+      "name": "04 - 3) Caro-Kann Formation",
+      "filename": "04 - 3) Caro-Kann Formation.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/04 - 3) Caro-Kann Formation.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/04%20-%203)%20Caro-Kann%20Formation.pgn",
+      "lastModified": 1784549234421.2139,
+      "sizeBytes": 61406
+    },
+    {
+      "type": "file",
+      "name": "05 - 4) Slav Formation",
+      "filename": "05 - 4) Slav Formation.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/05 - 4) Slav Formation.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/05%20-%204)%20Slav%20Formation.pgn",
+      "lastModified": 1784549234421.7185,
+      "sizeBytes": 55919
+    },
+    {
+      "type": "file",
+      "name": "06 - 5) The Carlsbad Formation",
+      "filename": "06 - 5) The Carlsbad Formation.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/06 - 5) The Carlsbad Formation.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/06%20-%205)%20The%20Carlsbad%20Formation.pgn",
+      "lastModified": 1784549234422.223,
+      "sizeBytes": 53034
+    },
+    {
+      "type": "file",
+      "name": "07 - 6) Stonewall",
+      "filename": "07 - 6) Stonewall.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/07 - 6) Stonewall.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/07%20-%206)%20Stonewall.pgn",
+      "lastModified": 1784549234422.726,
+      "sizeBytes": 68189
+    },
+    {
+      "type": "file",
+      "name": "08 - 7) Grünfeld Centre",
+      "filename": "08 - 7) Grünfeld Centre.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/08 - 7) Grünfeld Centre.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/08%20-%207)%20Gr%C3%BCnfeld%20Centre.pgn",
+      "lastModified": 1784549234423.2283,
+      "sizeBytes": 54922
+    },
+    {
+      "type": "file",
+      "name": "09 - 8) Najdorf Type I",
+      "filename": "09 - 8) Najdorf Type I.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/09 - 8) Najdorf Type I.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/09%20-%208)%20Najdorf%20Type%20I.pgn",
+      "lastModified": 1784549234423.7292,
+      "sizeBytes": 62322
+    },
+    {
+      "type": "file",
+      "name": "10 - 9) Najdorf Type II",
+      "filename": "10 - 9) Najdorf Type II.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/10 - 9) Najdorf Type II.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/10%20-%209)%20Najdorf%20Type%20II.pgn",
+      "lastModified": 1784549234424.2285,
+      "sizeBytes": 69435
+    },
+    {
+      "type": "file",
+      "name": "11 - 10) The Hedgehog",
+      "filename": "11 - 10) The Hedgehog.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/11 - 10) The Hedgehog.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/11%20-%2010)%20The%20Hedgehog.pgn",
+      "lastModified": 1784549234425.228,
+      "sizeBytes": 97107
+    },
+    {
+      "type": "file",
+      "name": "12 - 11) The Maroczy",
+      "filename": "12 - 11) The Maroczy.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/12 - 11) The Maroczy.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/12%20-%2011)%20The%20Maroczy.pgn",
+      "lastModified": 1784549234425.73,
+      "sizeBytes": 80154
+    },
+    {
+      "type": "file",
+      "name": "13 - 12) Asymmetric Benoni",
+      "filename": "13 - 12) Asymmetric Benoni.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/13 - 12) Asymmetric Benoni.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/13%20-%2012)%20Asymmetric%20Benoni.pgn",
+      "lastModified": 1784549234426.2292,
+      "sizeBytes": 59537
+    },
+    {
+      "type": "file",
+      "name": "14 - 13) Symmetric Benoni",
+      "filename": "14 - 13) Symmetric Benoni.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/14 - 13) Symmetric Benoni.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/14%20-%2013)%20Symmetric%20Benoni.pgn",
+      "lastModified": 1784549234426.731,
+      "sizeBytes": 61242
+    },
+    {
+      "type": "file",
+      "name": "15 - 14) KID Type I",
+      "filename": "15 - 14) KID Type I.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/15 - 14) KID Type I.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/15%20-%2014)%20KID%20Type%20I.pgn",
+      "lastModified": 1784549234427.2317,
+      "sizeBytes": 64987
+    },
+    {
+      "type": "file",
+      "name": "16 - 15) KID Type II",
+      "filename": "16 - 15) KID Type II.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/16 - 15) KID Type II.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/16%20-%2015)%20KID%20Type%20II.pgn",
+      "lastModified": 1784549234427.2317,
+      "sizeBytes": 55197
+    },
+    {
+      "type": "file",
+      "name": "17 - 16) KID Type III",
+      "filename": "17 - 16) KID Type III.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/17 - 16) KID Type III.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/17%20-%2016)%20KID%20Type%20III.pgn",
+      "lastModified": 1784549234428.2317,
+      "sizeBytes": 90626
+    },
+    {
+      "type": "file",
+      "name": "18 - 17) Open KID",
+      "filename": "18 - 17) Open KID.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/18 - 17) Open KID.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/18%20-%2017)%20Open%20KID.pgn",
+      "lastModified": 1784549234428.7322,
+      "sizeBytes": 47677
+    },
+    {
+      "type": "file",
+      "name": "19 - 18) KID Complex",
+      "filename": "19 - 18) KID Complex.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/19 - 18) KID Complex.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/19%20-%2018)%20KID%20Complex.pgn",
+      "lastModified": 1784549234429.2334,
+      "sizeBytes": 55522
+    },
+    {
+      "type": "file",
+      "name": "20 - 19) French Type I",
+      "filename": "20 - 19) French Type I.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/20 - 19) French Type I.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/20%20-%2019)%20French%20Type%20I.pgn",
+      "lastModified": 1784549234429.2334,
+      "sizeBytes": 37400
+    },
+    {
+      "type": "file",
+      "name": "21 - 20) French Type II",
+      "filename": "21 - 20) French Type II.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/21 - 20) French Type II.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/21%20-%2020)%20French%20Type%20II.pgn",
+      "lastModified": 1784549234430.2334,
+      "sizeBytes": 66758
+    },
+    {
+      "type": "file",
+      "name": "22 - 21) French Type III",
+      "filename": "22 - 21) French Type III.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/22 - 21) French Type III.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/22%20-%2021)%20French%20Type%20III.pgn",
+      "lastModified": 1784549234430.2334,
+      "sizeBytes": 59208
+    },
+    {
+      "type": "file",
+      "name": "23 - 22.1) The 3-3 vs 4-2 Structure",
+      "filename": "23 - 22.1) The 3-3 vs 4-2 Structure.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/23 - 22.1) The 3-3 vs 4-2 Structure.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/23%20-%2022.1)%20The%203-3%20vs%204-2%20Structure.pgn",
+      "lastModified": 1784549234430.734,
+      "sizeBytes": 9948
+    },
+    {
+      "type": "file",
+      "name": "24 - 22.2) The Panov Structure",
+      "filename": "24 - 22.2) The Panov Structure.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/24 - 22.2) The Panov Structure.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/24%20-%2022.2)%20The%20Panov%20Structure.pgn",
+      "lastModified": 1784549234431.2346,
+      "sizeBytes": 16199
+    },
+    {
+      "type": "file",
+      "name": "25 - 22.3) The Dragon Formation",
+      "filename": "25 - 22.3) The Dragon Formation.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/25 - 22.3) The Dragon Formation.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/25%20-%2022.3)%20The%20Dragon%20Formation.pgn",
+      "lastModified": 1784549234431.7349,
+      "sizeBytes": 12437
+    },
+    {
+      "type": "file",
+      "name": "26 - 22.4) The Scheveningen Structure",
+      "filename": "26 - 22.4) The Scheveningen Structure.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/26 - 22.4) The Scheveningen Structure.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/26%20-%2022.4)%20The%20Scheveningen%20Structure.pgn",
+      "lastModified": 1784549234432.2354,
+      "sizeBytes": 13705
+    },
+    {
+      "type": "file",
+      "name": "27 - 22.5) The Benko Structure",
+      "filename": "27 - 22.5) The Benko Structure.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/27 - 22.5) The Benko Structure.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/27%20-%2022.5)%20The%20Benko%20Structure.pgn",
+      "lastModified": 1784549234432.7363,
+      "sizeBytes": 8836
+    },
+    {
+      "type": "file",
+      "name": "28 - 22.6) The Closed Ruy Lopez",
+      "filename": "28 - 22.6) The Closed Ruy Lopez.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/28 - 22.6) The Closed Ruy Lopez.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/28%20-%2022.6)%20The%20Closed%20Ruy%20Lopez.pgn",
+      "lastModified": 1784549234433.2368,
+      "sizeBytes": 12584
+    },
+    {
+      "type": "file",
+      "name": "29 - 22.7) The Lopez Formation",
+      "filename": "29 - 22.7) The Lopez Formation.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/29 - 22.7) The Lopez Formation.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/29%20-%2022.7)%20The%20Lopez%20Formation.pgn",
+      "lastModified": 1784549234433.2368,
+      "sizeBytes": 13371
+    },
+    {
+      "type": "file",
+      "name": "30 - 23) Exercises",
+      "filename": "30 - 23) Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/03 - Chess Structures – A Grandmaster Guide/30 - 23) Exercises.pgn",
+      "url": "files/Chessable%20Courses/03%20-%20Chess%20Structures%20%E2%80%93%20A%20Grandmaster%20Guide/30%20-%2023)%20Exercises.pgn",
+      "lastModified": 1784549234433.7383,
+      "sizeBytes": 64714
+    },
+    {
+      "type": "file",
+      "name": "01 - Quickstarter Guide",
+      "filename": "01 - Quickstarter Guide.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/01 - Quickstarter Guide.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/01%20-%20Quickstarter%20Guide.pgn",
+      "lastModified": 1784549234442.306,
+      "sizeBytes": 29290
+    },
+    {
+      "type": "file",
+      "name": "02 - 1. Ruy Lopez - Rio de Janeiro - Intro & rare 6th moves",
+      "filename": "02 - 1. Ruy Lopez - Rio de Janeiro - Intro & rare 6th moves.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/02 - 1. Ruy Lopez - Rio de Janeiro - Intro & rare 6th moves.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/02%20-%201.%20Ruy%20Lopez%20-%20Rio%20de%20Janeiro%20-%20Intro%20%26%20rare%206th%20moves.pgn",
+      "lastModified": 1784549234442.8074,
+      "sizeBytes": 7505
+    },
+    {
+      "type": "file",
+      "name": "03 - 2. Ruy Lopez - Rio de Janeiro - 9.Be3 and 9.b3",
+      "filename": "03 - 2. Ruy Lopez - Rio de Janeiro - 9.Be3 and 9.b3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/03 - 2. Ruy Lopez - Rio de Janeiro - 9.Be3 and 9.b3.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/03%20-%202.%20Ruy%20Lopez%20-%20Rio%20de%20Janeiro%20-%209.Be3%20and%209.b3.pgn",
+      "lastModified": 1784549234443.307,
+      "sizeBytes": 8757
+    },
+    {
+      "type": "file",
+      "name": "04 - 3. Ruy Lopez - Rio de Janeiro - 9.c4 and 9.Nd4",
+      "filename": "04 - 3. Ruy Lopez - Rio de Janeiro - 9.c4 and 9.Nd4.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/04 - 3. Ruy Lopez - Rio de Janeiro - 9.c4 and 9.Nd4.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/04%20-%203.%20Ruy%20Lopez%20-%20Rio%20de%20Janeiro%20-%209.c4%20and%209.Nd4.pgn",
+      "lastModified": 1784549234443.8079,
+      "sizeBytes": 15390
+    },
+    {
+      "type": "file",
+      "name": "05 - 4. Ruy Lopez - Rio de Janeiro - 9.Nc3 The Main Line",
+      "filename": "05 - 4. Ruy Lopez - Rio de Janeiro - 9.Nc3 The Main Line.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/05 - 4. Ruy Lopez - Rio de Janeiro - 9.Nc3 The Main Line.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/05%20-%204.%20Ruy%20Lopez%20-%20Rio%20de%20Janeiro%20-%209.Nc3%20The%20Main%20Line.pgn",
+      "lastModified": 1784549234444.308,
+      "sizeBytes": 30318
+    },
+    {
+      "type": "file",
+      "name": "06 - 5. Ruy Lopez - Berlin Defence - 5.Re1 and 5.Qe2",
+      "filename": "06 - 5. Ruy Lopez - Berlin Defence - 5.Re1 and 5.Qe2.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/06 - 5. Ruy Lopez - Berlin Defence - 5.Re1 and 5.Qe2.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/06%20-%205.%20Ruy%20Lopez%20-%20Berlin%20Defence%20-%205.Re1%20and%205.Qe2.pgn",
+      "lastModified": 1784549234444.308,
+      "sizeBytes": 15007
+    },
+    {
+      "type": "file",
+      "name": "07 - 6. Ruy Lopez - Anti-Berlin - 4.d3 with 5.0-0 & others",
+      "filename": "07 - 6. Ruy Lopez - Anti-Berlin - 4.d3 with 5.0-0 & others.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/07 - 6. Ruy Lopez - Anti-Berlin - 4.d3 with 5.0-0 & others.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/07%20-%206.%20Ruy%20Lopez%20-%20Anti-Berlin%20-%204.d3%20with%205.0-0%20%26%20others.pgn",
+      "lastModified": 1784549234444.8086,
+      "sizeBytes": 13366
+    },
+    {
+      "type": "file",
+      "name": "08 - 7. Ruy Lopez - Anti-Berlin - 4.d3 with 5.c3",
+      "filename": "08 - 7. Ruy Lopez - Anti-Berlin - 4.d3 with 5.c3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/08 - 7. Ruy Lopez - Anti-Berlin - 4.d3 with 5.c3.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/08%20-%207.%20Ruy%20Lopez%20-%20Anti-Berlin%20-%204.d3%20with%205.c3.pgn",
+      "lastModified": 1784549234445.308,
+      "sizeBytes": 13594
+    },
+    {
+      "type": "file",
+      "name": "09 - 8. Ruy Lopez - Anti-Berlin - 4.d3 with 5.Bxc6",
+      "filename": "09 - 8. Ruy Lopez - Anti-Berlin - 4.d3 with 5.Bxc6.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/09 - 8. Ruy Lopez - Anti-Berlin - 4.d3 with 5.Bxc6.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/09%20-%208.%20Ruy%20Lopez%20-%20Anti-Berlin%20-%204.d3%20with%205.Bxc6.pgn",
+      "lastModified": 1784549234445.8096,
+      "sizeBytes": 9603
+    },
+    {
+      "type": "file",
+      "name": "10 - 9. Scotch Game - Intro & 8.g3",
+      "filename": "10 - 9. Scotch Game - Intro & 8.g3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/10 - 9. Scotch Game - Intro & 8.g3.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/10%20-%209.%20Scotch%20Game%20-%20Intro%20%26%208.g3.pgn",
+      "lastModified": 1784549234446.3093,
+      "sizeBytes": 7100
+    },
+    {
+      "type": "file",
+      "name": "11 - 10. Scotch Game - 8.Nd2 and 8.h4",
+      "filename": "11 - 10. Scotch Game - 8.Nd2 and 8.h4.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/11 - 10. Scotch Game - 8.Nd2 and 8.h4.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/11%20-%2010.%20Scotch%20Game%20-%208.Nd2%20and%208.h4.pgn",
+      "lastModified": 1784549234446.3093,
+      "sizeBytes": 5585
+    },
+    {
+      "type": "file",
+      "name": "12 - 11. Scotch Game - 8.c4 Nb6 9.Nd2 and 9.b3",
+      "filename": "12 - 11. Scotch Game - 8.c4 Nb6 9.Nd2 and 9.b3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/12 - 11. Scotch Game - 8.c4 Nb6 9.Nd2 and 9.b3.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/12%20-%2011.%20Scotch%20Game%20-%208.c4%20Nb6%209.Nd2%20and%209.b3.pgn",
+      "lastModified": 1784549234446.8105,
+      "sizeBytes": 12648
+    },
+    {
+      "type": "file",
+      "name": "13 - 12. Scotch Game - 8.c4 Nb6 9.Nc3",
+      "filename": "13 - 12. Scotch Game - 8.c4 Nb6 9.Nc3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/13 - 12. Scotch Game - 8.c4 Nb6 9.Nc3.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/13%20-%2012.%20Scotch%20Game%20-%208.c4%20Nb6%209.Nc3.pgn",
+      "lastModified": 1784549234447.3242,
+      "sizeBytes": 4827
+    },
+    {
+      "type": "file",
+      "name": "14 - 13. Scotch Four Knights Game - 4.d4",
+      "filename": "14 - 13. Scotch Four Knights Game - 4.d4.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/14 - 13. Scotch Four Knights Game - 4.d4.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/14%20-%2013.%20Scotch%20Four%20Knights%20Game%20-%204.d4.pgn",
+      "lastModified": 1784549234447.8252,
+      "sizeBytes": 7341
+    },
+    {
+      "type": "file",
+      "name": "15 - 14. Four Knights Game - 4.Bb5 Nd4 5.Bc4",
+      "filename": "15 - 14. Four Knights Game - 4.Bb5 Nd4 5.Bc4.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/15 - 14. Four Knights Game - 4.Bb5 Nd4 5.Bc4.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/15%20-%2014.%20Four%20Knights%20Game%20-%204.Bb5%20Nd4%205.Bc4.pgn",
+      "lastModified": 1784549234448.3381,
+      "sizeBytes": 8761
+    },
+    {
+      "type": "file",
+      "name": "16 - 15. Four Knights Game - 4.Bb5 Nd4 5.Ba4 & 5.others",
+      "filename": "16 - 15. Four Knights Game - 4.Bb5 Nd4 5.Ba4 & 5.others.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/16 - 15. Four Knights Game - 4.Bb5 Nd4 5.Ba4 & 5.others.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/16%20-%2015.%20Four%20Knights%20Game%20-%204.Bb5%20Nd4%205.Ba4%20%26%205.others.pgn",
+      "lastModified": 1784549234448.8408,
+      "sizeBytes": 8540
+    },
+    {
+      "type": "file",
+      "name": "17 - 16. Italian Four Knights Game - 4.Bc4 & 4.others",
+      "filename": "17 - 16. Italian Four Knights Game - 4.Bc4 & 4.others.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/17 - 16. Italian Four Knights Game - 4.Bc4 & 4.others.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/17%20-%2016.%20Italian%20Four%20Knights%20Game%20-%204.Bc4%20%26%204.others.pgn",
+      "lastModified": 1784549234448.8408,
+      "sizeBytes": 8334
+    },
+    {
+      "type": "file",
+      "name": "18 - 17. Italian Game - 4.c3 with 5.d4 (Giuoco Piano)",
+      "filename": "18 - 17. Italian Game - 4.c3 with 5.d4 (Giuoco Piano).pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/18 - 17. Italian Game - 4.c3 with 5.d4 (Giuoco Piano).pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/18%20-%2017.%20Italian%20Game%20-%204.c3%20with%205.d4%20(Giuoco%20Piano).pgn",
+      "lastModified": 1784549234449.3389,
+      "sizeBytes": 17157
+    },
+    {
+      "type": "file",
+      "name": "19 - 18. Italian Game - 4.c3 with 5.d3 and 4.Nc3",
+      "filename": "19 - 18. Italian Game - 4.c3 with 5.d3 and 4.Nc3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/19 - 18. Italian Game - 4.c3 with 5.d3 and 4.Nc3.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/19%20-%2018.%20Italian%20Game%20-%204.c3%20with%205.d3%20and%204.Nc3.pgn",
+      "lastModified": 1784549234449.8394,
+      "sizeBytes": 12218
+    },
+    {
+      "type": "file",
+      "name": "20 - 19. Italian Game - 4.0-0 Intro & Modern 8.a4",
+      "filename": "20 - 19. Italian Game - 4.0-0 Intro & Modern 8.a4.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/20 - 19. Italian Game - 4.0-0 Intro & Modern 8.a4.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/20%20-%2019.%20Italian%20Game%20-%204.0-0%20Intro%20%26%20Modern%208.a4.pgn",
+      "lastModified": 1784549234450.3398,
+      "sizeBytes": 15397
+    },
+    {
+      "type": "file",
+      "name": "21 - 20. Italian Game - The Main line",
+      "filename": "21 - 20. Italian Game - The Main line.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/21 - 20. Italian Game - The Main line.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/21%20-%2020.%20Italian%20Game%20-%20The%20Main%20line.pgn",
+      "lastModified": 1784549234450.8403,
+      "sizeBytes": 18584
+    },
+    {
+      "type": "file",
+      "name": "22 - 21.Evans Gambit",
+      "filename": "22 - 21.Evans Gambit.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/22 - 21.Evans Gambit.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/22%20-%2021.Evans%20Gambit.pgn",
+      "lastModified": 1784549234451.3406,
+      "sizeBytes": 5393
+    },
+    {
+      "type": "file",
+      "name": "23 - 22. Halloween- Goring & other gambits after 2.Nf3",
+      "filename": "23 - 22. Halloween- Goring & other gambits after 2.Nf3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/23 - 22. Halloween- Goring & other gambits after 2.Nf3.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/23%20-%2022.%20Halloween-%20Goring%20%26%20other%20gambits%20after%202.Nf3.pgn",
+      "lastModified": 1784549234451.8413,
+      "sizeBytes": 8059
+    },
+    {
+      "type": "file",
+      "name": "24 - 23. Ponziani Opening",
+      "filename": "24 - 23. Ponziani Opening.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/24 - 23. Ponziani Opening.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/24%20-%2023.%20Ponziani%20Opening.pgn",
+      "lastModified": 1784549234451.8413,
+      "sizeBytes": 7160
+    },
+    {
+      "type": "file",
+      "name": "25 - 24. King's Gambit with 3.Nf3",
+      "filename": "25 - 24. King's Gambit with 3.Nf3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/25 - 24. King's Gambit with 3.Nf3.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/25%20-%2024.%20King's%20Gambit%20with%203.Nf3.pgn",
+      "lastModified": 1784549234452.3416,
+      "sizeBytes": 11072
+    },
+    {
+      "type": "file",
+      "name": "26 - 25. King's Gambit with 3.Bc4",
+      "filename": "26 - 25. King's Gambit with 3.Bc4.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/26 - 25. King's Gambit with 3.Bc4.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/26%20-%2025.%20King's%20Gambit%20with%203.Bc4.pgn",
+      "lastModified": 1784549234452.8438,
+      "sizeBytes": 6273
+    },
+    {
+      "type": "file",
+      "name": "27 - 26. King's Gambit - 3.others",
+      "filename": "27 - 26. King's Gambit - 3.others.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/27 - 26. King's Gambit - 3.others.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/27%20-%2026.%20King's%20Gambit%20-%203.others.pgn",
+      "lastModified": 1784549234453.3423,
+      "sizeBytes": 4563
+    },
+    {
+      "type": "file",
+      "name": "28 - 27. Bishop's Opening (2.Bc4)",
+      "filename": "28 - 27. Bishop's Opening (2.Bc4).pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/28 - 27. Bishop's Opening (2.Bc4).pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/28%20-%2027.%20Bishop's%20Opening%20(2.Bc4).pgn",
+      "lastModified": 1784549234453.8428,
+      "sizeBytes": 5193
+    },
+    {
+      "type": "file",
+      "name": "29 - 28. Vienna- Glek etc. (2.Nc3)",
+      "filename": "29 - 28. Vienna- Glek etc. (2.Nc3).pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/29 - 28. Vienna- Glek etc. (2.Nc3).pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/29%20-%2028.%20Vienna-%20Glek%20etc.%20(2.Nc3).pgn",
+      "lastModified": 1784549234453.8428,
+      "sizeBytes": 6934
+    },
+    {
+      "type": "file",
+      "name": "30 - 29. Centre Game (2.d4) & Others",
+      "filename": "30 - 29. Centre Game (2.d4) & Others.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/04 - From Berlin to Rio - 1.e4 e5 for Black/30 - 29. Centre Game (2.d4) & Others.pgn",
+      "url": "files/Chessable%20Courses/04%20-%20From%20Berlin%20to%20Rio%20-%201.e4%20e5%20for%20Black/30%20-%2029.%20Centre%20Game%20(2.d4)%20%26%20Others.pgn",
+      "lastModified": 1784549234454.3433,
+      "sizeBytes": 2974
+    },
+    {
+      "type": "file",
+      "name": "01 - 1. Introduction",
+      "filename": "01 - 1. Introduction.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/05 - Grandmaster Preparation - Calculation/01 - 1. Introduction.pgn",
+      "url": "files/Chessable%20Courses/05%20-%20Grandmaster%20Preparation%20-%20Calculation/01%20-%201.%20Introduction.pgn",
+      "lastModified": 1784549234469.8672,
+      "sizeBytes": 25769
+    },
+    {
+      "type": "file",
+      "name": "02 - 2. Candidate Moves",
+      "filename": "02 - 2. Candidate Moves.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/05 - Grandmaster Preparation - Calculation/02 - 2. Candidate Moves.pgn",
+      "url": "files/Chessable%20Courses/05%20-%20Grandmaster%20Preparation%20-%20Calculation/02%20-%202.%20Candidate%20Moves.pgn",
+      "lastModified": 1784549234470.3672,
+      "sizeBytes": 59526
+    },
+    {
+      "type": "file",
+      "name": "03 - 3. Combinational Vision",
+      "filename": "03 - 3. Combinational Vision.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/05 - Grandmaster Preparation - Calculation/03 - 3. Combinational Vision.pgn",
+      "url": "files/Chessable%20Courses/05%20-%20Grandmaster%20Preparation%20-%20Calculation/03%20-%203.%20Combinational%20Vision.pgn",
+      "lastModified": 1784549234471.3674,
+      "sizeBytes": 71462
+    },
+    {
+      "type": "file",
+      "name": "04 - 4. Prophylaxis",
+      "filename": "04 - 4. Prophylaxis.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/05 - Grandmaster Preparation - Calculation/04 - 4. Prophylaxis.pgn",
+      "url": "files/Chessable%20Courses/05%20-%20Grandmaster%20Preparation%20-%20Calculation/04%20-%204.%20Prophylaxis.pgn",
+      "lastModified": 1784549234471.8694,
+      "sizeBytes": 53898
+    },
+    {
+      "type": "file",
+      "name": "05 - 5. Comparison",
+      "filename": "05 - 5. Comparison.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/05 - Grandmaster Preparation - Calculation/05 - 5. Comparison.pgn",
+      "url": "files/Chessable%20Courses/05%20-%20Grandmaster%20Preparation%20-%20Calculation/05%20-%205.%20Comparison.pgn",
+      "lastModified": 1784549234472.369,
+      "sizeBytes": 48010
+    },
+    {
+      "type": "file",
+      "name": "06 - 6. Elimination",
+      "filename": "06 - 6. Elimination.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/05 - Grandmaster Preparation - Calculation/06 - 6. Elimination.pgn",
+      "url": "files/Chessable%20Courses/05%20-%20Grandmaster%20Preparation%20-%20Calculation/06%20-%206.%20Elimination.pgn",
+      "lastModified": 1784549234472.87,
+      "sizeBytes": 43429
+    },
+    {
+      "type": "file",
+      "name": "07 - 7. Intermediate Moves",
+      "filename": "07 - 7. Intermediate Moves.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/05 - Grandmaster Preparation - Calculation/07 - 7. Intermediate Moves.pgn",
+      "url": "files/Chessable%20Courses/05%20-%20Grandmaster%20Preparation%20-%20Calculation/07%20-%207.%20Intermediate%20Moves.pgn",
+      "lastModified": 1784549234473.3706,
+      "sizeBytes": 39442
+    },
+    {
+      "type": "file",
+      "name": "08 - 8. Imagination",
+      "filename": "08 - 8. Imagination.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/05 - Grandmaster Preparation - Calculation/08 - 8. Imagination.pgn",
+      "url": "files/Chessable%20Courses/05%20-%20Grandmaster%20Preparation%20-%20Calculation/08%20-%208.%20Imagination.pgn",
+      "lastModified": 1784549234473.3706,
+      "sizeBytes": 69328
+    },
+    {
+      "type": "file",
+      "name": "09 - 9. Traps",
+      "filename": "09 - 9. Traps.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/05 - Grandmaster Preparation - Calculation/09 - 9. Traps.pgn",
+      "url": "files/Chessable%20Courses/05%20-%20Grandmaster%20Preparation%20-%20Calculation/09%20-%209.%20Traps.pgn",
+      "lastModified": 1784549234474.3716,
+      "sizeBytes": 43840
+    },
+    {
+      "type": "file",
+      "name": "10 - 10. Tests",
+      "filename": "10 - 10. Tests.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/05 - Grandmaster Preparation - Calculation/10 - 10. Tests.pgn",
+      "url": "files/Chessable%20Courses/05%20-%20Grandmaster%20Preparation%20-%20Calculation/10%20-%2010.%20Tests.pgn",
+      "lastModified": 1784549234474.3716,
+      "sizeBytes": 66748
+    },
+    {
+      "type": "file",
+      "name": "11 - 11. Difficult Positions",
+      "filename": "11 - 11. Difficult Positions.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/05 - Grandmaster Preparation - Calculation/11 - 11. Difficult Positions.pgn",
+      "url": "files/Chessable%20Courses/05%20-%20Grandmaster%20Preparation%20-%20Calculation/11%20-%2011.%20Difficult%20Positions.pgn",
+      "lastModified": 1784549234475.3726,
+      "sizeBytes": 129444
+    },
+    {
+      "type": "file",
+      "name": "01 - Introduction",
+      "filename": "01 - Introduction.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/01 - Introduction.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/01%20-%20Introduction.pgn",
+      "lastModified": 1784549234508.5786,
+      "sizeBytes": 5187
+    },
+    {
+      "type": "file",
+      "name": "02 - 1.1 King First!",
+      "filename": "02 - 1.1 King First!.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/02 - 1.1 King First!.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/02%20-%201.1%20King%20First!.pgn",
+      "lastModified": 1784549234509.079,
+      "sizeBytes": 25705
+    },
+    {
+      "type": "file",
+      "name": "03 - 1.2 Opposition",
+      "filename": "03 - 1.2 Opposition.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/03 - 1.2 Opposition.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/03%20-%201.2%20Opposition.pgn",
+      "lastModified": 1784549234509.5789,
+      "sizeBytes": 28277
+    },
+    {
+      "type": "file",
+      "name": "04 - 1.3 Obstruction",
+      "filename": "04 - 1.3 Obstruction.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/04 - 1.3 Obstruction.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/04%20-%201.3%20Obstruction.pgn",
+      "lastModified": 1784549234510.0793,
+      "sizeBytes": 14447
+    },
+    {
+      "type": "file",
+      "name": "05 - 1.4 The King’s Route",
+      "filename": "05 - 1.4 The King’s Route.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/05 - 1.4 The King’s Route.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/05%20-%201.4%20The%20King%E2%80%99s%20Route.pgn",
+      "lastModified": 1784549234510.5803,
+      "sizeBytes": 7494
+    },
+    {
+      "type": "file",
+      "name": "06 - 1.5 King Raids",
+      "filename": "06 - 1.5 King Raids.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/06 - 1.5 King Raids.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/06%20-%201.5%20King%20Raids.pgn",
+      "lastModified": 1784549234511.0808,
+      "sizeBytes": 12403
+    },
+    {
+      "type": "file",
+      "name": "07 - 1.6 Shelter",
+      "filename": "07 - 1.6 Shelter.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/07 - 1.6 Shelter.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/07%20-%201.6%20Shelter.pgn",
+      "lastModified": 1784549234511.0808,
+      "sizeBytes": 15337
+    },
+    {
+      "type": "file",
+      "name": "08 - Chapter 1 Exercises",
+      "filename": "08 - Chapter 1 Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/08 - Chapter 1 Exercises.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/08%20-%20Chapter%201%20Exercises.pgn",
+      "lastModified": 1784549234511.5813,
+      "sizeBytes": 18677
+    },
+    {
+      "type": "file",
+      "name": "09 - 2.1 The Passed Pawn",
+      "filename": "09 - 2.1 The Passed Pawn.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/09 - 2.1 The Passed Pawn.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/09%20-%202.1%20The%20Passed%20Pawn.pgn",
+      "lastModified": 1784549234512.0813,
+      "sizeBytes": 32089
+    },
+    {
+      "type": "file",
+      "name": "10 - 2.2 Connected Passed Pawns",
+      "filename": "10 - 2.2 Connected Passed Pawns.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/10 - 2.2 Connected Passed Pawns.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/10%20-%202.2%20Connected%20Passed%20Pawns.pgn",
+      "lastModified": 1784549234512.5796,
+      "sizeBytes": 14797
+    },
+    {
+      "type": "file",
+      "name": "11 - 2.3 Separated passed pawns",
+      "filename": "11 - 2.3 Separated passed pawns.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/11 - 2.3 Separated passed pawns.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/11%20-%202.3%20Separated%20passed%20pawns.pgn",
+      "lastModified": 1784549234513.083,
+      "sizeBytes": 8950
+    },
+    {
+      "type": "file",
+      "name": "12 - 2.4 Protected Passed Pawns",
+      "filename": "12 - 2.4 Protected Passed Pawns.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/12 - 2.4 Protected Passed Pawns.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/12%20-%202.4%20Protected%20Passed%20Pawns.pgn",
+      "lastModified": 1784549234513.5808,
+      "sizeBytes": 7727
+    },
+    {
+      "type": "file",
+      "name": "13 - 2.5 Outside Passed Pawns",
+      "filename": "13 - 2.5 Outside Passed Pawns.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/13 - 2.5 Outside Passed Pawns.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/13%20-%202.5%20Outside%20Passed%20Pawns.pgn",
+      "lastModified": 1784549234514.0823,
+      "sizeBytes": 35193
+    },
+    {
+      "type": "file",
+      "name": "14 - 2.6 The Breakthrough",
+      "filename": "14 - 2.6 The Breakthrough.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/14 - 2.6 The Breakthrough.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/14%20-%202.6%20The%20Breakthrough.pgn",
+      "lastModified": 1784549234514.584,
+      "sizeBytes": 44820
+    },
+    {
+      "type": "file",
+      "name": "15 - 2.7 Pawn Majorities",
+      "filename": "15 - 2.7 Pawn Majorities.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/15 - 2.7 Pawn Majorities.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/15%20-%202.7%20Pawn%20Majorities.pgn",
+      "lastModified": 1784549234515.0847,
+      "sizeBytes": 20189
+    },
+    {
+      "type": "file",
+      "name": "16 - 2.8 One Pawn Stops Two",
+      "filename": "16 - 2.8 One Pawn Stops Two.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/16 - 2.8 One Pawn Stops Two.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/16%20-%202.8%20One%20Pawn%20Stops%20Two.pgn",
+      "lastModified": 1784549234515.5842,
+      "sizeBytes": 6055
+    },
+    {
+      "type": "file",
+      "name": "17 - 2.9 Passed Pawns Races",
+      "filename": "17 - 2.9 Passed Pawns Races.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/17 - 2.9 Passed Pawns Races.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/17%20-%202.9%20Passed%20Pawns%20Races.pgn",
+      "lastModified": 1784549234516.084,
+      "sizeBytes": 23112
+    },
+    {
+      "type": "file",
+      "name": "18 - Chapter 2 Exercises",
+      "filename": "18 - Chapter 2 Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/18 - Chapter 2 Exercises.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/18%20-%20Chapter%202%20Exercises.pgn",
+      "lastModified": 1784549234516.918,
+      "sizeBytes": 36423
+    },
+    {
+      "type": "file",
+      "name": "19 - 3.1 The Three Angles",
+      "filename": "19 - 3.1 The Three Angles.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/19 - 3.1 The Three Angles.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/19%20-%203.1%20The%20Three%20Angles.pgn",
+      "lastModified": 1784549234517.423,
+      "sizeBytes": 45342
+    },
+    {
+      "type": "file",
+      "name": "20 - 3.2 Intermediate Checks",
+      "filename": "20 - 3.2 Intermediate Checks.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/20 - 3.2 Intermediate Checks.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/20%20-%203.2%20Intermediate%20Checks.pgn",
+      "lastModified": 1784549234517.423,
+      "sizeBytes": 10101
+    },
+    {
+      "type": "file",
+      "name": "21 - 3.3 Bridges",
+      "filename": "21 - 3.3 Bridges.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/21 - 3.3 Bridges.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/21%20-%203.3%20Bridges.pgn",
+      "lastModified": 1784549234518.157,
+      "sizeBytes": 9054
+    },
+    {
+      "type": "file",
+      "name": "22 - 3.4 Cutting The King Off",
+      "filename": "22 - 3.4 Cutting The King Off.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/22 - 3.4 Cutting The King Off.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/22%20-%203.4%20Cutting%20The%20King%20Off.pgn",
+      "lastModified": 1784549234518.157,
+      "sizeBytes": 31666
+    },
+    {
+      "type": "file",
+      "name": "23 - 3.5 The Rook Behind The Passed Pawn",
+      "filename": "23 - 3.5 The Rook Behind The Passed Pawn.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/23 - 3.5 The Rook Behind The Passed Pawn.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/23%20-%203.5%20The%20Rook%20Behind%20The%20Passed%20Pawn.pgn",
+      "lastModified": 1784549234518.6572,
+      "sizeBytes": 46553
+    },
+    {
+      "type": "file",
+      "name": "24 - 3.6 Rook Defends Pawns",
+      "filename": "24 - 3.6 Rook Defends Pawns.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/24 - 3.6 Rook Defends Pawns.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/24%20-%203.6%20Rook%20Defends%20Pawns.pgn",
+      "lastModified": 1784549234519.2893,
+      "sizeBytes": 14180
+    },
+    {
+      "type": "file",
+      "name": "25 - 3.7 Files And Ranks",
+      "filename": "25 - 3.7 Files And Ranks.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/25 - 3.7 Files And Ranks.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/25%20-%203.7%20Files%20And%20Ranks.pgn",
+      "lastModified": 1784549234520.3003,
+      "sizeBytes": 13336
+    },
+    {
+      "type": "file",
+      "name": "26 - 3.8 Exploiting The Rook’s Mobility",
+      "filename": "26 - 3.8 Exploiting The Rook’s Mobility.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/26 - 3.8 Exploiting The Rook’s Mobility.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/26%20-%203.8%20Exploiting%20The%20Rook%E2%80%99s%20Mobility.pgn",
+      "lastModified": 1784549234520.8032,
+      "sizeBytes": 15074
+    },
+    {
+      "type": "file",
+      "name": "27 - Chapter 3 Exercises",
+      "filename": "27 - Chapter 3 Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/27 - Chapter 3 Exercises.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/27%20-%20Chapter%203%20Exercises.pgn",
+      "lastModified": 1784549234521.3042,
+      "sizeBytes": 28718
+    },
+    {
+      "type": "file",
+      "name": "28 - 4.1 One Single Diagonal",
+      "filename": "28 - 4.1 One Single Diagonal.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/28 - 4.1 One Single Diagonal.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/28%20-%204.1%20One%20Single%20Diagonal.pgn",
+      "lastModified": 1784549234521.8047,
+      "sizeBytes": 13841
+    },
+    {
+      "type": "file",
+      "name": "29 - 4.2 Barrier",
+      "filename": "29 - 4.2 Barrier.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/29 - 4.2 Barrier.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/29%20-%204.2%20Barrier.pgn",
+      "lastModified": 1784549234521.8047,
+      "sizeBytes": 10408
+    },
+    {
+      "type": "file",
+      "name": "30 - 4.3 The Magic Distance",
+      "filename": "30 - 4.3 The Magic Distance.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/30 - 4.3 The Magic Distance.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/30%20-%204.3%20The%20Magic%20Distance.pgn",
+      "lastModified": 1784549234522.3047,
+      "sizeBytes": 13338
+    },
+    {
+      "type": "file",
+      "name": "31 - 4.4 Fixing Pawns",
+      "filename": "31 - 4.4 Fixing Pawns.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/31 - 4.4 Fixing Pawns.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/31%20-%204.4%20Fixing%20Pawns.pgn",
+      "lastModified": 1784549234522.806,
+      "sizeBytes": 119248
+    },
+    {
+      "type": "file",
+      "name": "32 - 4.5 Provocation",
+      "filename": "32 - 4.5 Provocation.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/32 - 4.5 Provocation.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/32%20-%204.5%20Provocation.pgn",
+      "lastModified": 1784549234523.3062,
+      "sizeBytes": 58315
+    },
+    {
+      "type": "file",
+      "name": "33 - 4.6 Blockade",
+      "filename": "33 - 4.6 Blockade.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/33 - 4.6 Blockade.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/33%20-%204.6%20Blockade.pgn",
+      "lastModified": 1784549234523.8076,
+      "sizeBytes": 27252
+    },
+    {
+      "type": "file",
+      "name": "34 - 4.7 The Team Of Bishop And Knight",
+      "filename": "34 - 4.7 The Team Of Bishop And Knight.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/34 - 4.7 The Team Of Bishop And Knight.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/34%20-%204.7%20The%20Team%20Of%20Bishop%20And%20Knight.pgn",
+      "lastModified": 1784549234524.3074,
+      "sizeBytes": 12039
+    },
+    {
+      "type": "file",
+      "name": "35 - Chapter 4 Exercises",
+      "filename": "35 - Chapter 4 Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/35 - Chapter 4 Exercises.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/35%20-%20Chapter%204%20Exercises.pgn",
+      "lastModified": 1784549234524.8086,
+      "sizeBytes": 22356
+    },
+    {
+      "type": "file",
+      "name": "36 - 5.1 Mates And Perpetuals",
+      "filename": "36 - 5.1 Mates And Perpetuals.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/36 - 5.1 Mates And Perpetuals.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/36%20-%205.1%20Mates%20And%20Perpetuals.pgn",
+      "lastModified": 1784549234525.3086,
+      "sizeBytes": 7807
+    },
+    {
+      "type": "file",
+      "name": "37 - 5.2 Betting On The Passed Pawn",
+      "filename": "37 - 5.2 Betting On The Passed Pawn.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/37 - 5.2 Betting On The Passed Pawn.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/37%20-%205.2%20Betting%20On%20The%20Passed%20Pawn.pgn",
+      "lastModified": 1784549234525.8086,
+      "sizeBytes": 8855
+    },
+    {
+      "type": "file",
+      "name": "38 - 5.3 Centralization",
+      "filename": "38 - 5.3 Centralization.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/38 - 5.3 Centralization.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/38%20-%205.3%20Centralization.pgn",
+      "lastModified": 1784549234525.8086,
+      "sizeBytes": 14762
+    },
+    {
+      "type": "file",
+      "name": "39 - 5.4 Series Of Checks",
+      "filename": "39 - 5.4 Series Of Checks.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/39 - 5.4 Series Of Checks.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/39%20-%205.4%20Series%20Of%20Checks.pgn",
+      "lastModified": 1784549234526.3098,
+      "sizeBytes": 6515
+    },
+    {
+      "type": "file",
+      "name": "40 - 5.5 Exposing The Enemy King",
+      "filename": "40 - 5.5 Exposing The Enemy King.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/40 - 5.5 Exposing The Enemy King.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/40%20-%205.5%20Exposing%20The%20Enemy%20King.pgn",
+      "lastModified": 1784549234526.81,
+      "sizeBytes": 5200
+    },
+    {
+      "type": "file",
+      "name": "41 - 5.6 Interference",
+      "filename": "41 - 5.6 Interference.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/41 - 5.6 Interference.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/41%20-%205.6%20Interference.pgn",
+      "lastModified": 1784549234527.3103,
+      "sizeBytes": 17471
+    },
+    {
+      "type": "file",
+      "name": "42 - Chapter 5 Exercises",
+      "filename": "42 - Chapter 5 Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/42 - Chapter 5 Exercises.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/42%20-%20Chapter%205%20Exercises.pgn",
+      "lastModified": 1784549234527.811,
+      "sizeBytes": 9961
+    },
+    {
+      "type": "file",
+      "name": "43 - 6.1 Zugzwang",
+      "filename": "43 - 6.1 Zugzwang.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/43 - 6.1 Zugzwang.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/43%20-%206.1%20Zugzwang.pgn",
+      "lastModified": 1784549234528.3113,
+      "sizeBytes": 51967
+    },
+    {
+      "type": "file",
+      "name": "44 - 6.2 Space",
+      "filename": "44 - 6.2 Space.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/44 - 6.2 Space.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/44%20-%206.2%20Space.pgn",
+      "lastModified": 1784549234528.812,
+      "sizeBytes": 89915
+    },
+    {
+      "type": "file",
+      "name": "45 - 6.3 Restriction",
+      "filename": "45 - 6.3 Restriction.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/45 - 6.3 Restriction.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/45%20-%206.3%20Restriction.pgn",
+      "lastModified": 1784549234529.3108,
+      "sizeBytes": 65940
+    },
+    {
+      "type": "file",
+      "name": "46 - Chapter 6 Exercises",
+      "filename": "46 - Chapter 6 Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/46 - Chapter 6 Exercises.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/46%20-%20Chapter%206%20Exercises.pgn",
+      "lastModified": 1784549234529.813,
+      "sizeBytes": 32476
+    },
+    {
+      "type": "file",
+      "name": "47 - 7.1 Simplification",
+      "filename": "47 - 7.1 Simplification.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/47 - 7.1 Simplification.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/47%20-%207.1%20Simplification.pgn",
+      "lastModified": 1784549234530.3135,
+      "sizeBytes": 17793
+    },
+    {
+      "type": "file",
+      "name": "48 - 7.2 Transpositions",
+      "filename": "48 - 7.2 Transpositions.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/48 - 7.2 Transpositions.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/48%20-%207.2%20Transpositions.pgn",
+      "lastModified": 1784549234530.8137,
+      "sizeBytes": 28522
+    },
+    {
+      "type": "file",
+      "name": "49 - 7.3 Piece Exchanges",
+      "filename": "49 - 7.3 Piece Exchanges.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/49 - 7.3 Piece Exchanges.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/49%20-%207.3%20Piece%20Exchanges.pgn",
+      "lastModified": 1784549234531.3154,
+      "sizeBytes": 46404
+    },
+    {
+      "type": "file",
+      "name": "50 - 7.4 Pawn Exchanges",
+      "filename": "50 - 7.4 Pawn Exchanges.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/50 - 7.4 Pawn Exchanges.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/50%20-%207.4%20Pawn%20Exchanges.pgn",
+      "lastModified": 1784549234531.815,
+      "sizeBytes": 22697
+    },
+    {
+      "type": "file",
+      "name": "51 - Chapter 7 Exercises",
+      "filename": "51 - Chapter 7 Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/51 - Chapter 7 Exercises.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/51%20-%20Chapter%207%20Exercises.pgn",
+      "lastModified": 1784549234532.3132,
+      "sizeBytes": 29361
+    },
+    {
+      "type": "file",
+      "name": "52 - 8.1 Active King",
+      "filename": "52 - 8.1 Active King.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/52 - 8.1 Active King.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/52%20-%208.1%20Active%20King.pgn",
+      "lastModified": 1784549234532.8135,
+      "sizeBytes": 28385
+    },
+    {
+      "type": "file",
+      "name": "53 - 8.2 Active Defence",
+      "filename": "53 - 8.2 Active Defence.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/53 - 8.2 Active Defence.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/53%20-%208.2%20Active%20Defence.pgn",
+      "lastModified": 1784549234532.8135,
+      "sizeBytes": 17562
+    },
+    {
+      "type": "file",
+      "name": "54 - 8.3 Activity Above Material",
+      "filename": "54 - 8.3 Activity Above Material.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/54 - 8.3 Activity Above Material.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/54%20-%208.3%20Activity%20Above%20Material.pgn",
+      "lastModified": 1784549234533.314,
+      "sizeBytes": 19217
+    },
+    {
+      "type": "file",
+      "name": "55 - 8.4 Opening A New Front",
+      "filename": "55 - 8.4 Opening A New Front.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/55 - 8.4 Opening A New Front.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/55%20-%208.4%20Opening%20A%20New%20Front.pgn",
+      "lastModified": 1784549234533.8152,
+      "sizeBytes": 34133
+    },
+    {
+      "type": "file",
+      "name": "56 - 8.5 Fortresses",
+      "filename": "56 - 8.5 Fortresses.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/56 - 8.5 Fortresses.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/56%20-%208.5%20Fortresses.pgn",
+      "lastModified": 1784549234534.3152,
+      "sizeBytes": 28287
+    },
+    {
+      "type": "file",
+      "name": "57 - 8.6 Theoretical Draws",
+      "filename": "57 - 8.6 Theoretical Draws.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/57 - 8.6 Theoretical Draws.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/57%20-%208.6%20Theoretical%20Draws.pgn",
+      "lastModified": 1784549234534.3152,
+      "sizeBytes": 18497
+    },
+    {
+      "type": "file",
+      "name": "58 - Chapter 8 Exercises",
+      "filename": "58 - Chapter 8 Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/06 - Mastering Endgame Strategy/58 - Chapter 8 Exercises.pgn",
+      "url": "files/Chessable%20Courses/06%20-%20Mastering%20Endgame%20Strategy/58%20-%20Chapter%208%20Exercises.pgn",
+      "lastModified": 1784549234535.3186,
+      "sizeBytes": 34332
+    },
+    {
+      "type": "file",
+      "name": "01 - Introduction",
+      "filename": "01 - Introduction.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/01 - Introduction.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/01%20-%20Introduction.pgn",
+      "lastModified": 1784549234555.6035,
+      "sizeBytes": 12984
+    },
+    {
+      "type": "file",
+      "name": "02 - 1) Weak Squares",
+      "filename": "02 - 1) Weak Squares.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/02 - 1) Weak Squares.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/02%20-%201)%20Weak%20Squares.pgn",
+      "lastModified": 1784549234556.1035,
+      "sizeBytes": 2681
+    },
+    {
+      "type": "file",
+      "name": "03 - 1.1) The Role of Weak Squares",
+      "filename": "03 - 1.1) The Role of Weak Squares.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/03 - 1.1) The Role of Weak Squares.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/03%20-%201.1)%20The%20Role%20of%20Weak%20Squares.pgn",
+      "lastModified": 1784549234557.105,
+      "sizeBytes": 14207
+    },
+    {
+      "type": "file",
+      "name": "04 - 1.2) Targeting Weak Squares",
+      "filename": "04 - 1.2) Targeting Weak Squares.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/04 - 1.2) Targeting Weak Squares.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/04%20-%201.2)%20Targeting%20Weak%20Squares.pgn",
+      "lastModified": 1784549234557.105,
+      "sizeBytes": 20227
+    },
+    {
+      "type": "file",
+      "name": "05 - 1.3) Creating & Defending Weak Squares",
+      "filename": "05 - 1.3) Creating & Defending Weak Squares.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/05 - 1.3) Creating & Defending Weak Squares.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/05%20-%201.3)%20Creating%20%26%20Defending%20Weak%20Squares.pgn",
+      "lastModified": 1784549234557.6057,
+      "sizeBytes": 26262
+    },
+    {
+      "type": "file",
+      "name": "06 - 1.4) Color Complexes",
+      "filename": "06 - 1.4) Color Complexes.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/06 - 1.4) Color Complexes.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/06%20-%201.4)%20Color%20Complexes.pgn",
+      "lastModified": 1784549234558.1067,
+      "sizeBytes": 28192
+    },
+    {
+      "type": "file",
+      "name": "07 - 1.5) Weak Squares - Test",
+      "filename": "07 - 1.5) Weak Squares - Test.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/07 - 1.5) Weak Squares - Test.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/07%20-%201.5)%20Weak%20Squares%20-%20Test.pgn",
+      "lastModified": 1784549234558.6064,
+      "sizeBytes": 26082
+    },
+    {
+      "type": "file",
+      "name": "08 - 2) Outposts",
+      "filename": "08 - 2) Outposts.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/08 - 2) Outposts.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/08%20-%202)%20Outposts.pgn",
+      "lastModified": 1784549234559.1072,
+      "sizeBytes": 1483
+    },
+    {
+      "type": "file",
+      "name": "09 - 2.1) Outposts - General Concepts",
+      "filename": "09 - 2.1) Outposts - General Concepts.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/09 - 2.1) Outposts - General Concepts.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/09%20-%202.1)%20Outposts%20-%20General%20Concepts.pgn",
+      "lastModified": 1784549234559.1072,
+      "sizeBytes": 26508
+    },
+    {
+      "type": "file",
+      "name": "10 - 2.2) Creating Outposts & Maneuvering",
+      "filename": "10 - 2.2) Creating Outposts & Maneuvering.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/10 - 2.2) Creating Outposts & Maneuvering.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/10%20-%202.2)%20Creating%20Outposts%20%26%20Maneuvering.pgn",
+      "lastModified": 1784549234559.6072,
+      "sizeBytes": 19740
+    },
+    {
+      "type": "file",
+      "name": "11 - 2.3) The Fight For Outposts",
+      "filename": "11 - 2.3) The Fight For Outposts.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/11 - 2.3) The Fight For Outposts.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/11%20-%202.3)%20The%20Fight%20For%20Outposts.pgn",
+      "lastModified": 1784549234560.108,
+      "sizeBytes": 15476
+    },
+    {
+      "type": "file",
+      "name": "12 - 2.4) Power Outposts",
+      "filename": "12 - 2.4) Power Outposts.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/12 - 2.4) Power Outposts.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/12%20-%202.4)%20Power%20Outposts.pgn",
+      "lastModified": 1784549234560.6082,
+      "sizeBytes": 20224
+    },
+    {
+      "type": "file",
+      "name": "13 - 2.5) Pseudo Outposts",
+      "filename": "13 - 2.5) Pseudo Outposts.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/13 - 2.5) Pseudo Outposts.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/13%20-%202.5)%20Pseudo%20Outposts.pgn",
+      "lastModified": 1784549234561.106,
+      "sizeBytes": 13003
+    },
+    {
+      "type": "file",
+      "name": "14 - 2.6) Outposts - Test",
+      "filename": "14 - 2.6) Outposts - Test.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/14 - 2.6) Outposts - Test.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/14%20-%202.6)%20Outposts%20-%20Test.pgn",
+      "lastModified": 1784549234561.6067,
+      "sizeBytes": 18560
+    },
+    {
+      "type": "file",
+      "name": "15 - 3) Space",
+      "filename": "15 - 3) Space.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/15 - 3) Space.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/15%20-%203)%20Space.pgn",
+      "lastModified": 1784549234562.107,
+      "sizeBytes": 5728
+    },
+    {
+      "type": "file",
+      "name": "16 - 3.1) How To Evaluate Space",
+      "filename": "16 - 3.1) How To Evaluate Space.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/16 - 3.1) How To Evaluate Space.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/16%20-%203.1)%20How%20To%20Evaluate%20Space.pgn",
+      "lastModified": 1784549234562.6074,
+      "sizeBytes": 15187
+    },
+    {
+      "type": "file",
+      "name": "17 - 3.2) The Space Advantage",
+      "filename": "17 - 3.2) The Space Advantage.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/17 - 3.2) The Space Advantage.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/17%20-%203.2)%20The%20Space%20Advantage.pgn",
+      "lastModified": 1784549234563.1077,
+      "sizeBytes": 17405
+    },
+    {
+      "type": "file",
+      "name": "18 - 3.3) Fighting Against Space",
+      "filename": "18 - 3.3) Fighting Against Space.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/18 - 3.3) Fighting Against Space.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/18%20-%203.3)%20Fighting%20Against%20Space.pgn",
+      "lastModified": 1784549234563.6082,
+      "sizeBytes": 16900
+    },
+    {
+      "type": "file",
+      "name": "19 - 3.4) Space - Test",
+      "filename": "19 - 3.4) Space - Test.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/19 - 3.4) Space - Test.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/19%20-%203.4)%20Space%20-%20Test.pgn",
+      "lastModified": 1784549234564.1086,
+      "sizeBytes": 16018
+    },
+    {
+      "type": "file",
+      "name": "20 - 4) Central Control",
+      "filename": "20 - 4) Central Control.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/20 - 4) Central Control.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/20%20-%204)%20Central%20Control.pgn",
+      "lastModified": 1784549234564.609,
+      "sizeBytes": 5972
+    },
+    {
+      "type": "file",
+      "name": "21 - 4.1) The Power Of The Centre",
+      "filename": "21 - 4.1) The Power Of The Centre.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/21 - 4.1) The Power Of The Centre.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/21%20-%204.1)%20The%20Power%20Of%20The%20Centre.pgn",
+      "lastModified": 1784549234565.1096,
+      "sizeBytes": 16759
+    },
+    {
+      "type": "file",
+      "name": "22 - 4.2) Fighting Against The Centre",
+      "filename": "22 - 4.2) Fighting Against The Centre.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/22 - 4.2) Fighting Against The Centre.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/22%20-%204.2)%20Fighting%20Against%20The%20Centre.pgn",
+      "lastModified": 1784549234565.1096,
+      "sizeBytes": 16951
+    },
+    {
+      "type": "file",
+      "name": "23 - 4.3) Protecting The Centre",
+      "filename": "23 - 4.3) Protecting The Centre.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/23 - 4.3) Protecting The Centre.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/23%20-%204.3)%20Protecting%20The%20Centre.pgn",
+      "lastModified": 1784549234565.61,
+      "sizeBytes": 16381
+    },
+    {
+      "type": "file",
+      "name": "24 - 4.4) Central Control - Test",
+      "filename": "24 - 4.4) Central Control - Test.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/24 - 4.4) Central Control - Test.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/24%20-%204.4)%20Central%20Control%20-%20Test.pgn",
+      "lastModified": 1784549234566.1113,
+      "sizeBytes": 17502
+    },
+    {
+      "type": "file",
+      "name": "25 - 5) Piece Play",
+      "filename": "25 - 5) Piece Play.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/25 - 5) Piece Play.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/25%20-%205)%20Piece%20Play.pgn",
+      "lastModified": 1784549234566.6797,
+      "sizeBytes": 2060
+    },
+    {
+      "type": "file",
+      "name": "26 - 5.1) Activity & Passivity",
+      "filename": "26 - 5.1) Activity & Passivity.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/26 - 5.1) Activity & Passivity.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/26%20-%205.1)%20Activity%20%26%20Passivity.pgn",
+      "lastModified": 1784549234566.6797,
+      "sizeBytes": 20310
+    },
+    {
+      "type": "file",
+      "name": "27 - 5.2) Piece Exchanges",
+      "filename": "27 - 5.2) Piece Exchanges.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/27 - 5.2) Piece Exchanges.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/27%20-%205.2)%20Piece%20Exchanges.pgn",
+      "lastModified": 1784549234567.185,
+      "sizeBytes": 14757
+    },
+    {
+      "type": "file",
+      "name": "28 - 5.3) Minor Piece Battles",
+      "filename": "28 - 5.3) Minor Piece Battles.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/28 - 5.3) Minor Piece Battles.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/28%20-%205.3)%20Minor%20Piece%20Battles.pgn",
+      "lastModified": 1784549234567.6904,
+      "sizeBytes": 27616
+    },
+    {
+      "type": "file",
+      "name": "29 - 5.4) Positional Sacrifices",
+      "filename": "29 - 5.4) Positional Sacrifices.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/29 - 5.4) Positional Sacrifices.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/29%20-%205.4)%20Positional%20Sacrifices.pgn",
+      "lastModified": 1784549234567.6904,
+      "sizeBytes": 23458
+    },
+    {
+      "type": "file",
+      "name": "30 - 5.5) The Exchange Sacrifice",
+      "filename": "30 - 5.5) The Exchange Sacrifice.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/30 - 5.5) The Exchange Sacrifice.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/30%20-%205.5)%20The%20Exchange%20Sacrifice.pgn",
+      "lastModified": 1784549234568.6956,
+      "sizeBytes": 15425
+    },
+    {
+      "type": "file",
+      "name": "31 - 5.6) Piece Play - Test",
+      "filename": "31 - 5.6) Piece Play - Test.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/31 - 5.6) Piece Play - Test.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/31%20-%205.6)%20Piece%20Play%20-%20Test.pgn",
+      "lastModified": 1784549234568.6956,
+      "sizeBytes": 23906
+    },
+    {
+      "type": "file",
+      "name": "32 - 6) Open Files",
+      "filename": "32 - 6) Open Files.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/32 - 6) Open Files.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/32%20-%206)%20Open%20Files.pgn",
+      "lastModified": 1784549234569.7134,
+      "sizeBytes": 4405
+    },
+    {
+      "type": "file",
+      "name": "33 - 6.1) The Battle For Entry Squares",
+      "filename": "33 - 6.1) The Battle For Entry Squares.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/33 - 6.1) The Battle For Entry Squares.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/33%20-%206.1)%20The%20Battle%20For%20Entry%20Squares.pgn",
+      "lastModified": 1784549234569.7134,
+      "sizeBytes": 15084
+    },
+    {
+      "type": "file",
+      "name": "34 - 6.2) The Value Of Outposts",
+      "filename": "34 - 6.2) The Value Of Outposts.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/34 - 6.2) The Value Of Outposts.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/34%20-%206.2)%20The%20Value%20Of%20Outposts.pgn",
+      "lastModified": 1784549234569.7134,
+      "sizeBytes": 10256
+    },
+    {
+      "type": "file",
+      "name": "35 - 6.3) Semi-Open Files",
+      "filename": "35 - 6.3) Semi-Open Files.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/35 - 6.3) Semi-Open Files.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/35%20-%206.3)%20Semi-Open%20Files.pgn",
+      "lastModified": 1784549234570.7178,
+      "sizeBytes": 21007
+    },
+    {
+      "type": "file",
+      "name": "36 - 6.4) Open Files - Test",
+      "filename": "36 - 6.4) Open Files - Test.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/36 - 6.4) Open Files - Test.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/36%20-%206.4)%20Open%20Files%20-%20Test.pgn",
+      "lastModified": 1784549234571.2273,
+      "sizeBytes": 12047
+    },
+    {
+      "type": "file",
+      "name": "37 - 7) Pawn Play",
+      "filename": "37 - 7) Pawn Play.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/37 - 7) Pawn Play.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/37%20-%207)%20Pawn%20Play.pgn",
+      "lastModified": 1784549234571.7266,
+      "sizeBytes": 1103
+    },
+    {
+      "type": "file",
+      "name": "38 - 7.1) The Role Of Pawn Breaks",
+      "filename": "38 - 7.1) The Role Of Pawn Breaks.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/38 - 7.1) The Role Of Pawn Breaks.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/38%20-%207.1)%20The%20Role%20Of%20Pawn%20Breaks.pgn",
+      "lastModified": 1784549234572.228,
+      "sizeBytes": 16871
+    },
+    {
+      "type": "file",
+      "name": "39 - 7.2) Defending Versus Pawn Breaks",
+      "filename": "39 - 7.2) Defending Versus Pawn Breaks.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/39 - 7.2) Defending Versus Pawn Breaks.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/39%20-%207.2)%20Defending%20Versus%20Pawn%20Breaks.pgn",
+      "lastModified": 1784549234572.7288,
+      "sizeBytes": 15901
+    },
+    {
+      "type": "file",
+      "name": "40 - 7.3) Targeting The Structure",
+      "filename": "40 - 7.3) Targeting The Structure.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/40 - 7.3) Targeting The Structure.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/40%20-%207.3)%20Targeting%20The%20Structure.pgn",
+      "lastModified": 1784549234573.2273,
+      "sizeBytes": 23649
+    },
+    {
+      "type": "file",
+      "name": "41 - 7.4) Targeting Minor Pieces",
+      "filename": "41 - 7.4) Targeting Minor Pieces.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/41 - 7.4) Targeting Minor Pieces.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/41%20-%207.4)%20Targeting%20Minor%20Pieces.pgn",
+      "lastModified": 1784549234573.73,
+      "sizeBytes": 21082
+    },
+    {
+      "type": "file",
+      "name": "42 - 7.5) The 4v3 Pawn Majority",
+      "filename": "42 - 7.5) The 4v3 Pawn Majority.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/42 - 7.5) The 4v3 Pawn Majority.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/42%20-%207.5)%20The%204v3%20Pawn%20Majority.pgn",
+      "lastModified": 1784549234574.2305,
+      "sizeBytes": 20482
+    },
+    {
+      "type": "file",
+      "name": "43 - 7.6) Pawn Types - Techniques To Study",
+      "filename": "43 - 7.6) Pawn Types - Techniques To Study.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/43 - 7.6) Pawn Types - Techniques To Study.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/43%20-%207.6)%20Pawn%20Types%20-%20Techniques%20To%20Study.pgn",
+      "lastModified": 1784549234574.7314,
+      "sizeBytes": 23985
+    },
+    {
+      "type": "file",
+      "name": "44 - 7.7) Pawn Play - Test",
+      "filename": "44 - 7.7) Pawn Play - Test.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/44 - 7.7) Pawn Play - Test.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/44%20-%207.7)%20Pawn%20Play%20-%20Test.pgn",
+      "lastModified": 1784549234574.7314,
+      "sizeBytes": 30175
+    },
+    {
+      "type": "file",
+      "name": "45 - 8) Endgame Play",
+      "filename": "45 - 8) Endgame Play.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/45 - 8) Endgame Play.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/45%20-%208)%20Endgame%20Play.pgn",
+      "lastModified": 1784549234575.232,
+      "sizeBytes": 1560
+    },
+    {
+      "type": "file",
+      "name": "46 - 8.1) Schematic Thinking",
+      "filename": "46 - 8.1) Schematic Thinking.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/46 - 8.1) Schematic Thinking.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/46%20-%208.1)%20Schematic%20Thinking.pgn",
+      "lastModified": 1784549234575.7317,
+      "sizeBytes": 24669
+    },
+    {
+      "type": "file",
+      "name": "47 - 8.2) Paralysis & Fortresses",
+      "filename": "47 - 8.2) Paralysis & Fortresses.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/47 - 8.2) Paralysis & Fortresses.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/47%20-%208.2)%20Paralysis%20%26%20Fortresses.pgn",
+      "lastModified": 1784549234576.233,
+      "sizeBytes": 14600
+    },
+    {
+      "type": "file",
+      "name": "48 - 8.3) Pawns In The Endgame",
+      "filename": "48 - 8.3) Pawns In The Endgame.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/48 - 8.3) Pawns In The Endgame.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/48%20-%208.3)%20Pawns%20In%20The%20Endgame.pgn",
+      "lastModified": 1784549234576.7324,
+      "sizeBytes": 14309
+    },
+    {
+      "type": "file",
+      "name": "49 - 8.4) The Role Of The King",
+      "filename": "49 - 8.4) The Role Of The King.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/49 - 8.4) The Role Of The King.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/49%20-%208.4)%20The%20Role%20Of%20The%20King.pgn",
+      "lastModified": 1784549234576.7324,
+      "sizeBytes": 19901
+    },
+    {
+      "type": "file",
+      "name": "50 - 8.5) Endgame Play - Test",
+      "filename": "50 - 8.5) Endgame Play - Test.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/50 - 8.5) Endgame Play - Test.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/50%20-%208.5)%20Endgame%20Play%20-%20Test.pgn",
+      "lastModified": 1784549234577.2336,
+      "sizeBytes": 20881
+    },
+    {
+      "type": "file",
+      "name": "51 - 9) Final Test",
+      "filename": "51 - 9) Final Test.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/07 - The Positional Chess Patterns Manual/51 - 9) Final Test.pgn",
+      "url": "files/Chessable%20Courses/07%20-%20The%20Positional%20Chess%20Patterns%20Manual/51%20-%209)%20Final%20Test.pgn",
+      "lastModified": 1784549234577.7444,
+      "sizeBytes": 31536
+    },
+    {
+      "type": "file",
+      "name": "01 - 1) Introduction",
+      "filename": "01 - 1) Introduction.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/08 - The Woodpecker Method/01 - 1) Introduction.pgn",
+      "url": "files/Chessable%20Courses/08%20-%20The%20Woodpecker%20Method/01%20-%201)%20Introduction.pgn",
+      "lastModified": 1784549234604.9983,
+      "sizeBytes": 42367
+    },
+    {
+      "type": "file",
+      "name": "02 - 2) Summary Of Tactical Motifs",
+      "filename": "02 - 2) Summary Of Tactical Motifs.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/08 - The Woodpecker Method/02 - 2) Summary Of Tactical Motifs.pgn",
+      "url": "files/Chessable%20Courses/08%20-%20The%20Woodpecker%20Method/02%20-%202)%20Summary%20Of%20Tactical%20Motifs.pgn",
+      "lastModified": 1784549234605.4402,
+      "sizeBytes": 8535
+    },
+    {
+      "type": "file",
+      "name": "03 - 3) Instructions",
+      "filename": "03 - 3) Instructions.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/08 - The Woodpecker Method/03 - 3) Instructions.pgn",
+      "url": "files/Chessable%20Courses/08%20-%20The%20Woodpecker%20Method/03%20-%203)%20Instructions.pgn",
+      "lastModified": 1784549234606.0154,
+      "sizeBytes": 11880
+    },
+    {
+      "type": "file",
+      "name": "04 - 4) Easy Exercises",
+      "filename": "04 - 4) Easy Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/08 - The Woodpecker Method/04 - 4) Easy Exercises.pgn",
+      "url": "files/Chessable%20Courses/08%20-%20The%20Woodpecker%20Method/04%20-%204)%20Easy%20Exercises.pgn",
+      "lastModified": 1784549234607.0159,
+      "sizeBytes": 109700
+    },
+    {
+      "type": "file",
+      "name": "05 - 5.1) Intermediate Exercises I",
+      "filename": "05 - 5.1) Intermediate Exercises I.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/08 - The Woodpecker Method/05 - 5.1) Intermediate Exercises I.pgn",
+      "url": "files/Chessable%20Courses/08%20-%20The%20Woodpecker%20Method/05%20-%205.1)%20Intermediate%20Exercises%20I.pgn",
+      "lastModified": 1784549234607.5178,
+      "sizeBytes": 34717
+    },
+    {
+      "type": "file",
+      "name": "06 - 5.2) Intermediate Exercises I",
+      "filename": "06 - 5.2) Intermediate Exercises I.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/08 - The Woodpecker Method/06 - 5.2) Intermediate Exercises I.pgn",
+      "url": "files/Chessable%20Courses/08%20-%20The%20Woodpecker%20Method/06%20-%205.2)%20Intermediate%20Exercises%20I.pgn",
+      "lastModified": 1784549234608.0173,
+      "sizeBytes": 31659
+    },
+    {
+      "type": "file",
+      "name": "07 - 5.3) Intermediate Exercises I",
+      "filename": "07 - 5.3) Intermediate Exercises I.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/08 - The Woodpecker Method/07 - 5.3) Intermediate Exercises I.pgn",
+      "url": "files/Chessable%20Courses/08%20-%20The%20Woodpecker%20Method/07%20-%205.3)%20Intermediate%20Exercises%20I.pgn",
+      "lastModified": 1784549234609.018,
+      "sizeBytes": 98273
+    },
+    {
+      "type": "file",
+      "name": "08 - 6.1) Intermediate Exercises II",
+      "filename": "08 - 6.1) Intermediate Exercises II.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/08 - The Woodpecker Method/08 - 6.1) Intermediate Exercises II.pgn",
+      "url": "files/Chessable%20Courses/08%20-%20The%20Woodpecker%20Method/08%20-%206.1)%20Intermediate%20Exercises%20II.pgn",
+      "lastModified": 1784549234609.5215,
+      "sizeBytes": 30860
+    },
+    {
+      "type": "file",
+      "name": "09 - 6.2) Intermediate Exercises II",
+      "filename": "09 - 6.2) Intermediate Exercises II.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/08 - The Woodpecker Method/09 - 6.2) Intermediate Exercises II.pgn",
+      "url": "files/Chessable%20Courses/08%20-%20The%20Woodpecker%20Method/09%20-%206.2)%20Intermediate%20Exercises%20II.pgn",
+      "lastModified": 1784549234610.0183,
+      "sizeBytes": 134846
+    },
+    {
+      "type": "file",
+      "name": "10 - 7) Intermediate Exercises III",
+      "filename": "10 - 7) Intermediate Exercises III.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/08 - The Woodpecker Method/10 - 7) Intermediate Exercises III.pgn",
+      "url": "files/Chessable%20Courses/08%20-%20The%20Woodpecker%20Method/10%20-%207)%20Intermediate%20Exercises%20III.pgn",
+      "lastModified": 1784549234611.0195,
+      "sizeBytes": 172949
+    },
+    {
+      "type": "file",
+      "name": "11 - 8) Advanced Exercises",
+      "filename": "11 - 8) Advanced Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/08 - The Woodpecker Method/11 - 8) Advanced Exercises.pgn",
+      "url": "files/Chessable%20Courses/08%20-%20The%20Woodpecker%20Method/11%20-%208)%20Advanced%20Exercises.pgn",
+      "lastModified": 1784549234611.52,
+      "sizeBytes": 147627
+    },
+    {
+      "type": "file",
+      "name": "01 - Introduction",
+      "filename": "01 - Introduction.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/01 - Introduction.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/01%20-%20Introduction.pgn",
+      "lastModified": 1784549234638.5967,
+      "sizeBytes": 35911
+    },
+    {
+      "type": "file",
+      "name": "02 - 1.1) Priyome - Public Education Exercises #1",
+      "filename": "02 - 1.1) Priyome - Public Education Exercises #1.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/02 - 1.1) Priyome - Public Education Exercises #1.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/02%20-%201.1)%20Priyome%20-%20Public%20Education%20Exercises%20%231.pgn",
+      "lastModified": 1784549234639.5974,
+      "sizeBytes": 38892
+    },
+    {
+      "type": "file",
+      "name": "03 - 1.2) Priyome - Public Education Exercises #2",
+      "filename": "03 - 1.2) Priyome - Public Education Exercises #2.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/03 - 1.2) Priyome - Public Education Exercises #2.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/03%20-%201.2)%20Priyome%20-%20Public%20Education%20Exercises%20%232.pgn",
+      "lastModified": 1784549234640.0962,
+      "sizeBytes": 37768
+    },
+    {
+      "type": "file",
+      "name": "04 - 1.3) Priyome - Public Education Exercises #3",
+      "filename": "04 - 1.3) Priyome - Public Education Exercises #3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/04 - 1.3) Priyome - Public Education Exercises #3.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/04%20-%201.3)%20Priyome%20-%20Public%20Education%20Exercises%20%233.pgn",
+      "lastModified": 1784549234640.5977,
+      "sizeBytes": 36665
+    },
+    {
+      "type": "file",
+      "name": "05 - 1.4) Priyome - Public Education Exercises #4",
+      "filename": "05 - 1.4) Priyome - Public Education Exercises #4.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/05 - 1.4) Priyome - Public Education Exercises #4.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/05%20-%201.4)%20Priyome%20-%20Public%20Education%20Exercises%20%234.pgn",
+      "lastModified": 1784549234641.597,
+      "sizeBytes": 35946
+    },
+    {
+      "type": "file",
+      "name": "06 - 1.5) Priyome - Public Education Exercises #5",
+      "filename": "06 - 1.5) Priyome - Public Education Exercises #5.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/06 - 1.5) Priyome - Public Education Exercises #5.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/06%20-%201.5)%20Priyome%20-%20Public%20Education%20Exercises%20%235.pgn",
+      "lastModified": 1784549234642.097,
+      "sizeBytes": 36401
+    },
+    {
+      "type": "file",
+      "name": "07 - 1.6) Priyome - Public Education Exercises #6",
+      "filename": "07 - 1.6) Priyome - Public Education Exercises #6.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/07 - 1.6) Priyome - Public Education Exercises #6.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/07%20-%201.6)%20Priyome%20-%20Public%20Education%20Exercises%20%236.pgn",
+      "lastModified": 1784549234642.5974,
+      "sizeBytes": 31875
+    },
+    {
+      "type": "file",
+      "name": "08 - 1.7) Priyome - Exam",
+      "filename": "08 - 1.7) Priyome - Exam.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/08 - 1.7) Priyome - Exam.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/08%20-%201.7)%20Priyome%20-%20Exam.pgn",
+      "lastModified": 1784549234643.0981,
+      "sizeBytes": 33059
+    },
+    {
+      "type": "file",
+      "name": "09 - 2.1) Priyome - Academic Level Exercises #1",
+      "filename": "09 - 2.1) Priyome - Academic Level Exercises #1.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/09 - 2.1) Priyome - Academic Level Exercises #1.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/09%20-%202.1)%20Priyome%20-%20Academic%20Level%20Exercises%20%231.pgn",
+      "lastModified": 1784549234643.5986,
+      "sizeBytes": 44595
+    },
+    {
+      "type": "file",
+      "name": "10 - 2.2) Priyome - Academic Level Exercises #2",
+      "filename": "10 - 2.2) Priyome - Academic Level Exercises #2.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/10 - 2.2) Priyome - Academic Level Exercises #2.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/10%20-%202.2)%20Priyome%20-%20Academic%20Level%20Exercises%20%232.pgn",
+      "lastModified": 1784549234644.0989,
+      "sizeBytes": 48724
+    },
+    {
+      "type": "file",
+      "name": "11 - 2.3) Priyome - Academic Level Exercises #3",
+      "filename": "11 - 2.3) Priyome - Academic Level Exercises #3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/11 - 2.3) Priyome - Academic Level Exercises #3.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/11%20-%202.3)%20Priyome%20-%20Academic%20Level%20Exercises%20%233.pgn",
+      "lastModified": 1784549234644.5994,
+      "sizeBytes": 42870
+    },
+    {
+      "type": "file",
+      "name": "12 - 2.4) Priyome - Academic Level Exercises #4",
+      "filename": "12 - 2.4) Priyome - Academic Level Exercises #4.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/12 - 2.4) Priyome - Academic Level Exercises #4.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/12%20-%202.4)%20Priyome%20-%20Academic%20Level%20Exercises%20%234.pgn",
+      "lastModified": 1784549234645.0999,
+      "sizeBytes": 48294
+    },
+    {
+      "type": "file",
+      "name": "13 - 3.1) Positional Rules of Thumb - Medium Difficulty #1",
+      "filename": "13 - 3.1) Positional Rules of Thumb - Medium Difficulty #1.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/13 - 3.1) Positional Rules of Thumb - Medium Difficulty #1.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/13%20-%203.1)%20Positional%20Rules%20of%20Thumb%20-%20Medium%20Difficulty%20%231.pgn",
+      "lastModified": 1784549234645.6003,
+      "sizeBytes": 34587
+    },
+    {
+      "type": "file",
+      "name": "14 - 3.2) Positional Rules of Thumb - Medium Difficulty #2",
+      "filename": "14 - 3.2) Positional Rules of Thumb - Medium Difficulty #2.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/14 - 3.2) Positional Rules of Thumb - Medium Difficulty #2.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/14%20-%203.2)%20Positional%20Rules%20of%20Thumb%20-%20Medium%20Difficulty%20%232.pgn",
+      "lastModified": 1784549234646.1,
+      "sizeBytes": 32178
+    },
+    {
+      "type": "file",
+      "name": "15 - 3.3) Positional Rules of Thumb - Medium Difficulty #3",
+      "filename": "15 - 3.3) Positional Rules of Thumb - Medium Difficulty #3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/15 - 3.3) Positional Rules of Thumb - Medium Difficulty #3.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/15%20-%203.3)%20Positional%20Rules%20of%20Thumb%20-%20Medium%20Difficulty%20%233.pgn",
+      "lastModified": 1784549234647.1018,
+      "sizeBytes": 32238
+    },
+    {
+      "type": "file",
+      "name": "16 - 3.4) Positional Rules of Thumb - Medium Difficulty #4",
+      "filename": "16 - 3.4) Positional Rules of Thumb - Medium Difficulty #4.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/16 - 3.4) Positional Rules of Thumb - Medium Difficulty #4.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/16%20-%203.4)%20Positional%20Rules%20of%20Thumb%20-%20Medium%20Difficulty%20%234.pgn",
+      "lastModified": 1784549234647.6023,
+      "sizeBytes": 29710
+    },
+    {
+      "type": "file",
+      "name": "17 - 4.1) Positional Rules of Thumb - Hard Challenge #1",
+      "filename": "17 - 4.1) Positional Rules of Thumb - Hard Challenge #1.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/17 - 4.1) Positional Rules of Thumb - Hard Challenge #1.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/17%20-%204.1)%20Positional%20Rules%20of%20Thumb%20-%20Hard%20Challenge%20%231.pgn",
+      "lastModified": 1784549234648.1025,
+      "sizeBytes": 36792
+    },
+    {
+      "type": "file",
+      "name": "18 - 4.2) Positional Rules of Thumb - Hard Challenge #2",
+      "filename": "18 - 4.2) Positional Rules of Thumb - Hard Challenge #2.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/18 - 4.2) Positional Rules of Thumb - Hard Challenge #2.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/18%20-%204.2)%20Positional%20Rules%20of%20Thumb%20-%20Hard%20Challenge%20%232.pgn",
+      "lastModified": 1784549234648.6028,
+      "sizeBytes": 35536
+    },
+    {
+      "type": "file",
+      "name": "19 - 4.3) Positional Rules of Thumb - Hard Challenge #3",
+      "filename": "19 - 4.3) Positional Rules of Thumb - Hard Challenge #3.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/19 - 4.3) Positional Rules of Thumb - Hard Challenge #3.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/19%20-%204.3)%20Positional%20Rules%20of%20Thumb%20-%20Hard%20Challenge%20%233.pgn",
+      "lastModified": 1784549234649.103,
+      "sizeBytes": 37682
+    },
+    {
+      "type": "file",
+      "name": "20 - 4.4) Positional Rules of Thumb - Hard Challenge #4",
+      "filename": "20 - 4.4) Positional Rules of Thumb - Hard Challenge #4.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/20 - 4.4) Positional Rules of Thumb - Hard Challenge #4.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/20%20-%204.4)%20Positional%20Rules%20of%20Thumb%20-%20Hard%20Challenge%20%234.pgn",
+      "lastModified": 1784549234649.6035,
+      "sizeBytes": 38284
+    },
+    {
+      "type": "file",
+      "name": "21 - 4.5) Positional Rules of Thumb - Hard Challenge #5",
+      "filename": "21 - 4.5) Positional Rules of Thumb - Hard Challenge #5.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/21 - 4.5) Positional Rules of Thumb - Hard Challenge #5.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/21%20-%204.5)%20Positional%20Rules%20of%20Thumb%20-%20Hard%20Challenge%20%235.pgn",
+      "lastModified": 1784549234650.1038,
+      "sizeBytes": 31589
+    },
+    {
+      "type": "file",
+      "name": "22 - 5.1) Positional Rules of Thumb - Expert Exercises",
+      "filename": "22 - 5.1) Positional Rules of Thumb - Expert Exercises.pgn",
+      "extension": "pgn",
+      "path": "Chessable Courses/09 - The Woodpecker Method 2 - Positional Play/22 - 5.1) Positional Rules of Thumb - Expert Exercises.pgn",
+      "url": "files/Chessable%20Courses/09%20-%20The%20Woodpecker%20Method%202%20-%20Positional%20Play/22%20-%205.1)%20Positional%20Rules%20of%20Thumb%20-%20Expert%20Exercises.pgn",
+      "lastModified": 1784549234650.604,
+      "sizeBytes": 23047
     },
     {
       "type": "file",

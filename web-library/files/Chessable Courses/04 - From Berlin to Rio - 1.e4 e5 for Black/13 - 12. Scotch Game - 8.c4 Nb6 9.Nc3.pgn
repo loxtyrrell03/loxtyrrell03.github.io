@@ -1,0 +1,35 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9327840/"]
+[Date "????.??.??"]
+[Round "13.1"]
+[White "12. Scotch Game - 8.c4 Nb6 9.Nc3"]
+[Black "Scotch 9.Nc3 & 10.b3"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch Game had always remained in the shadow of the Ruy Lopez and the Italian Game, until Garry Kasparov started playing it successfully in the 1990s. Since then, many players have decided to follow the world champion's example and nowadays it is a popular opening on both professional and amateur level. } exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 { Black blocks his bishop, but forces White to do the same. } 7. Qe2 Nd5 8. c4 Nb6 ( 8... Ba6 { is the main line, but I recommend to play the text move, because it is at least as good and requires less memorization. } ) 
+9. Nc3 { This is the most straightforward continuation and the starting point of this chapter (all the alternatives were covered in the previous chapters). -KEY- } Qe6 10. b3 $6 a5 { This standard method works just as well here as in the 8.Nd2 variation. } 11. Bb2 a4 12. O-O-O axb3 13. axb3 Ba3 $15 { Black has easy play against White's weak queenside. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9327838/"]
+[Date "????.??.??"]
+[Round "13.2"]
+[White "12. Scotch Game - 8.c4 Nb6 9.Nc3"]
+[Black "Scotch 9.Nc3 & 10.Bd2 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch Game had always remained in the shadow of the Ruy Lopez and the Italian Game, until Garry Kasparov started playing it successfully in the 1990s. Since then, many players have decided to follow the world champion's example and nowadays it is a popular opening on both professional and amateur level. } exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 { Black blocks his bishop, but forces White to do the same. } 7. Qe2 Nd5 8. c4 Nb6 { (8...Ba6 is the main line, but I recommend to play the text move, because it is at least as good and requires less memorization.) } 9. Nc3 { This is the most straightforward continuation and the starting point of this chapter (all the alternatives were covered in the previous chapters). } Qe6 10. Bd2 { Playing for a quick long castle. -KEY- } Ba6 11. b3 Ba3 $1 { Stopping the above-mentioned plan. } 12. Qe4 $6 { This move has been played most often by White, but Black has a powerful reply. } O-O 13. Bd3 f5 $1 { The key move. } 14. exf6 Qxe4+ 15. Bxe4 d5 $1 { Energetically opening the lines, taking advantage of the White king's vulnerable position in the centre. } 16. Bf3 ( { White erred with } 16. cxd5 $2 { and was already lost after } Bb2 { in Papp-Batsiashvili, Gibraltar 2018. } ) 
+Rae8+ 17. Kd1 Rxf6 $15 { White is under pressure. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9327842/"]
+[Date "????.??.??"]
+[Round "13.3"]
+[White "12. Scotch Game - 8.c4 Nb6 9.Nc3"]
+[Black "Scotch 9.Nc3 & 10.Qe4 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 { The Scotch Game had always remained in the shadow of the Ruy Lopez and the Italian Game, until Garry Kasparov started playing it successfully in the 1990s. Since then, many players have decided to follow the world champion's example and nowadays it is a popular opening on both professional and amateur level. } exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 { Black blocks his bishop, but forces White to do the same. } 7. Qe2 Nd5 8. c4 Nb6 { (8...Ba6 is the main line, but I recommend to play the text move, because it is at least as good and requires less memorization.) } 9. Nc3 { This is the most straightforward continuation and the starting point of this chapter (all the alternatives were covered in the previous chapters). } Qe6 10. Qe4 { By far the most popular choice. -KEY- } d5 { The most straightforward way to equalize. } 11. exd6 Qxe4+ $1 ( { It is important to exchange the queens immediately in order not to allow White to retake on e4 with the bishop after } 11... cxd6 12. Bd3 { This accurate move wasn't considered in any books/DVDs known to us. Not only some older books like Vladimir Barsky - 'The Scotch Game for White' (Chess Stars 2009) or Yelena Dembo & Richard Palliser - 'The Scotch Game' (Everymanchess 2011) , but also Parimarjan Negi's Chessbase DVD - 'The Modern Scotch Opening' and John Shaw - 'Playing 1.e4. Caro-Kann, 1...e5 and Minor Lines' (Quality Chess 2016) cover only automatic but dubious 11...cxd6. } ) 
+12. Nxe4 cxd6 { All White's attempts from this position fail to pose Black any problems. } 13. b3 d5 { When b3 is on the board ... d5 followed by ... a5-a4 is usually good. } 14. cxd5 Nxd5 15. Bc4 Bf5 16. Ng3 Bb4+ { When we can develop with a tempo we should always consider it. } 17. Bd2 Bxd2+ 18. Kxd2 Be6 $11 { We have three pawn islands, but the strong d5 outpost compensates for them } 
+ *

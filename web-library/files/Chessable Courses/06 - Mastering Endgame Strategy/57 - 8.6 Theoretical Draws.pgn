@@ -1,0 +1,157 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12690448/"]
+[Date "????.??.??"]
+[Round "57.1"]
+[White "8.6 Theoretical Draws"]
+[Black "Theoretical draws"]
+[Result "*"]
+
+ { By a 'theoretical draw' I refer specifically to an endgame which is drawn according to 'the books', despite a certain material deficit. Some well-known cases are: a. king and two knights vs. king; b. king, 'wrong' bishop and rook's pawn vs. king. While in these cases the defence is elementary, the same thing cannot be said about some other theoretical draws such as: c. rook and bishop vs. rook; d. rook, f- and h-pawns vs. rook. In the middle of the scale we would find: e. rook vs. bishop; f. rook and knight vs. rook, and many others.In the previous section we saw that the fortress idea required a certain degree of creativity and ingenuity from its constructor. On the other hand, the theoretical draw concept obviously has more to do with our theoretical knowledge. Aware that a certain, potential endgame is drawn, the player can take practical decisions in critical situations. Indeed, an important part of this concept is the transposition required to get there.This book is in fact replete with theoretical draws, just one case being the transposition to a drawn rook vs. pawn ending featured in Browne-Gulko and Grischuk-Anand, among others. Here are some further examples. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676299/"]
+[Date "????.??.??"]
+[Round "57.2"]
+[White "8.6 Theoretical Draws"]
+[Black "Example 497- Galojan- L. vs. Tsiganova- M.- European Women’s Championship- Plovdiv 2008"]
+[Result "1/2-1/2"]
+[FEN "8/6k1/1r2n3/2p3P1/p3RPB1/K7/8/8 b - - 0 1"]
+
+ { Black is in trouble, but a little combination based on the motif of a theoretical draw saved her. } 1... { -KEY- } Nxf4 $1 ( { a) Not } 1... Rb4 $2 2. Rxe6 Rxf4 3. Bh5 Rf5 4. Rg6 Kh7 5. Kxa4 { etc. } ) 
+ ( { b) While } 1... Nxg5 $6 2. fxg5 Kg6 3. Bd1 ( { if } 2... Nxf4 2. Re5 { then } Rb3 4. Ka2 Rg3 ) 
+Kxg5 { would soon have produced a different case of a theoretical draw: rook and bishop vs. rook - Baburin. However, as I mentioned earlier, the defence in such an ending is far from trivial, and even very strong players sometimes go wrong there. } ) 
+2. Rxf4 Rb4 $1 { The point - White is soon left with a lonely bishop. } 3. Rxb4 cxb4+ 4. Kxb4 Kg6 { Draw agreed. Incidentally, such an extreme application of the theoretical draw idea, sweeping the mating material from the board, is familiar to us fromExample 390 (Nielsen-Sutovsky). } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676300/"]
+[Date "????.??.??"]
+[Round "57.3"]
+[White "8.6 Theoretical Draws"]
+[Black "Example 498- Seirawan- Y. vs. Gelfand- B.- Istanbul Olympiad 2000"]
+[Result "1/2-1/2"]
+[FEN "8/2n4B/1pP2k2/8/1P4p1/8/7P/6K1 b - - 0 1"]
+
+ { White is a pawn up and his bishop outranks the knight, but even so Black saved himself without much effort, exploiting the motif of a theoretical draw with the 'wrong' bishop and rook's pawn. } 1... { -KEY- } Ke5 $1 { Gelfand prepares to take the c6-pawn with the king, then return it to the corner, and finally sacrifice his knight for the b-pawn - Golod. } 2. Kf2 Kd5 3. Kg3 Kxc6 4. Kxg4 Kd6 $1 5. Bd3 ( { After } 5. Kf5 Ke7 6. Kg6 Kf8 { the bishop becomes misplaced on h7. } ) 
+Ke7 6. Kf5 Kf8 7. Ke5 b5 $1 { Just in time, enabling ...Na6 before White plays 8.Kd6. } 8. Kd4 Na6 9. Kc3 Nxb4 $1 10. Kxb4 Kg7 11. Kxb5 Kh8 12. Kc5 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13893289/"]
+[Date "????.??.??"]
+[Round "57.4"]
+[White "8.6 Theoretical Draws"]
+[Black "Example 499- Timman- J. vs. Morozevich- A.- Wijk aan Zee 2002"]
+[Result "1/2-1/2"]
+[FEN "4k3/1p2q2p/p2n2p1/2NQ2P1/P3p3/2b4P/4R3/5K2 b - - 0 1"]
+
+ { In this early endgame the initiative is definitely with White, whose immediate threat of Nxe4 can't be parried by simple means. Morozevich found a practical solution. } 1... { -KEY- } Qf7+ $1 ( { After } 1... e3 $6 2. Nxb7 $1 { both } Nxb7 3. Qc6 ( { and } 2... Qxb7 3. Rxe3 { lead to increased difficulties for Black. } ) 
+ ) 
+2. Qxf7+ Kxf7 3. Nxe4 Nxe4 4. Rxe4 { The picture has changed completely - White is no longer attacking but instead enjoys a material advantage. The reason why Morozevich wanted to reach this ending is simple: if we remove the queenside pawns from the board, then the ensuing position with rook and two pawns against bishop and two pawns is inside the boundaries of a theoretical draw. } b5 $1 { Forcing the exchange of the dangerous a4-pawn. } 5. Ke2 bxa4 6. Rxa4 a5 7. Rc4 Bg7 { The reason for this particular retreat will become evident two moves later. } 8. Rc7+ Kg8 9. Ra7 { Timman now plans Kf3-g4, followed by h3-h4-h5 with an unpleasant situation for Black: if he permits h5-h6, then the h7-pawn is fixed as a weakness; besides, a back-rank mate will be in the air once the white king arrives at e6. On the other hand, if he replies ...g6xh5, then after Kxh5 and g5-g6 at the right moment, White would have winning chances in the ensuing rook vs. bishop ending, considering that Black's king is located in one of the 'wrong' corners. } h6 $1 { A key decision. By giving up the a-pawn, which has no relevance anyway for the theoretical draw involved, Morozevich finishes off the enemy plan in advance. } 10. gxh6 ( { After } 10. h4 hxg5 11. hxg5 { the deployment of the bishop on the long diagonal will prevent the white king from reaching the crucial f6-square; e.g. } Bc3 12. Kd3 Bg7 13. Rxa5 Kf7 14. Ke4 Bc3 15. Ra7 Kg8 16. Kd5 Bb2 { ( } Bg7 $2 17. Rxg7 $1 Kxg7 18. Ke6 { has to be avoided, in similar fashion toPolgar - Ciocaltea in the 'King first!' chapter) } 17. Ke6 Bc3 ) 
+Bxh6 11. Rxa5 Bg7 12. Kf3 Bc3 13. Ra7 Bb2 14. Ke4 ( { If } 14. Kg4 { , then } Bf6 15. h4 ( { or } 15. Rb7 Kf8 $1 { losing a tempo; } ) 
+Kf8 $1 16. h5 gxh5 17. Kxh5 Ke8 { and the king moves over to one of the 'right' corners on a8. } ) 
+Bc3 15. Kd5 Bb2 16. Ke6 Bc3 17. Rd7 { Timman prepares a frontal attack at g6, but this will let Black's king approach the h4-pawn. Nevertheless, there was no other way of making progress. } Bb2 18. Rd2 Bc3 19. Rg2 Kg7 20. Rg4 Bb2 $1 ( { After the text Timman instead agreed to a draw. Let's make a few more moves: Morozevich of course avoids } 20... Kh6 $2 21. Kf7 { with increased winning chances for White. } ) 
+21. h4 Kh6 $1 ( { Now it is right to activate the king, in view of the threat of } 21... Kh6 21. h5 ) 
+22. Kf7 Kh5 23. Rxg6 Kxh4 24. Ke6 Kh3 { This time the king is heading for the other safe corner on h1. } 25. Kd5 Kh2 26. Ke4 Kh1 27. Rg5 ( { After } 27. Kf3 Be5 { , the bishop assists successfully in the defence; e.g. } 28. Kf2 Bc7 29. Rg1 ( 29. Rh6 Bh2 { makes no sense; } ) 
+Kh2 30. Rg7 Bb6 ) 
+Ba3 $1 { Having been denied the e5-square, the bishop instead tries to reach the h2-b8 diagonal via d6. } 28. Kf3 ( 28. Rd5 Kg2 { doesn't achieve much; e.g. } 29. Rd2 Kh1 30. Kf3 Bc5 $1 { and the bishop finds the corresponding diagonal. } ) 
+Bd6 29. Kf2 Bc7 { We saw a similar position in the 27.Kf3 subline. Thanks to the location of the king in one of the safe corners and the deployment of the bishop on the h2-b8 diagonal, Black draws. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676301/"]
+[Date "????.??.??"]
+[Round "57.5"]
+[White "8.6 Theoretical Draws"]
+[Black "Timman- J. vs. Morozevich- A.- #1"]
+[Result "1/2-1/2"]
+[FEN "4k3/1p2q2p/p2n2p1/2NQ2P1/P3p3/2b4P/4R3/5K2 b - - 0 1"]
+
+ { In this early endgame the initiative is definitely with White, whose immediate threat of Nxe4 can't be parried by simple means. Morozevich found a practical solution. } 1... { -KEY- } Qf7+ $1 ( { After } 1... e3 $6 2. Nxb7 $1 { both } Nxb7 ( { and } 2... Qxb7 3. Rxe3 ) 
+3. Qc6 { lead to increased difficulties for Black. } ) 
+2. Qxf7+ Kxf7 3. Nxe4 Nxe4 4. Rxe4 { The picture has changed completely - White is no longer attacking but instead enjoys a material advantage. The reason why Morozevich wanted to reach this ending is simple: if we remove the queenside pawns from the board, then the ensuing position with rook and two pawns against bishop and two pawns is inside the boundaries of a theoretical draw. } b5 $1 { Forcing the exchange of the dangerous a4-pawn. } 5. Ke2 bxa4 6. Rxa4 a5 7. Rc4 Bg7 { The reason for this particular retreat will become evident two moves later. } 8. Rc7+ Kg8 9. Ra7 { Timman now plans Kf3-g4, followed by h3-h4-h5 with an unpleasant situation for Black: if he permits h5-h6, then the h7-pawn is fixed as a weakness; besides, a back-rank mate will be in the air once the white king arrives at e6. On the other hand, if he replies ...g6xh5, then after Kxh5 and g5-g6 at the right moment, White would have winning chances in the ensuing rook vs. bishop ending, considering that Black's king is located in one of the 'wrong' corners. } h6 $1 { A key decision. By giving up the a-pawn, which has no relevance anyway for the theoretical draw involved, Morozevich finishes off the enemy plan in advance. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13893291/"]
+[Date "????.??.??"]
+[Round "57.6"]
+[White "8.6 Theoretical Draws"]
+[Black "Timman- J. vs. Morozevich- A.- #2"]
+[Result "1/2-1/2"]
+[FEN "6k1/R7/4K1p1/8/8/2b4P/8/8 w - - 0 17"]
+
+17. { -KEY- } Rd7 { Timman prepares a frontal attack at g6, but this will let Black's king approach the h4-pawn. Nevertheless, there was no other way of making progress. } Bb2 ( 17... Ba1 { also works, as observed by Neilthesculptor. } ) 
+18. Rd2 Bc3 19. Rg2 Kg7 20. Rg4 Bb2 $1 ( { After the text Timman instead agreed to a draw. Let's make a few more moves: Morozevich of course avoids } 20... Kh6 $2 21. Kf7 { with increased winning chances for White. } ) 
+21. h4 Kh6 $1 ( { Now it is right to activate the king, in view of the threat of } 21... Kh6 21. h5 ) 
+22. Kf7 Kh5 23. Rxg6 Kxh4 24. Ke6 Kh3 { This time the king is heading for the other safe corner on h1. } 25. Kd5 Kh2 26. Ke4 Kh1 27. Rg5 ( { After } 27. Kf3 Be5 { , the bishop assists successfully in the defence; e.g. } 28. Kf2 Bc7 29. Rg1 ( 29. Rh6 Bh2 { makes no sense; } ) 
+Kh2 30. Rg7 Bb6 ) 
+Ba3 $1 { Having been denied the e5-square, the bishop instead tries to reach the h2-b8 diagonal via d6. } 28. Kf3 ( 28. Rd5 Kg2 { doesn't achieve much; e.g. } 29. Rd2 Kh1 30. Kf3 Bc5 $1 { and the bishop finds the corresponding diagonal. } ) 
+Bd6 29. Kf2 Bc7 { We saw a similar position in the 27.Kf3 subline. Thanks to the location of the king in one of the safe corners and the deployment of the bishop on the h2-b8 diagonal, Black draws. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13893290/"]
+[Date "????.??.??"]
+[Round "57.7"]
+[White "8.6 Theoretical Draws"]
+[Black "Example 500- Hellsten- J. vs. Granda Zuniga- J.- Santa Cruz 2005"]
+[Result "0-1"]
+[FEN "8/8/5k1p/8/5PP1/1Bp5/4K3/2r5 b - - 0 1"]
+
+ { In endings with pawns on both flanks, an extra exchange tends to be decisive. The defensive efforts of the minor piece are usually surpassed by the rook's mobility and attacking ability, a fact of which we saw proof in Example 231 (Matanovic-Larsen). However, on occasion the defender can look for a transposition to a theoretical draw, and this is what the above position is about. } 1... { -KEY- } Rg1 $2 { A natural move in order to win a pawn, but it has a big flaw. } ( { a) } 1... c2 $2 { is equally bad due to } 2. Kd3 Rg1 3. g5 $1 Ke7 ( { or } 3... hxg5 4. fxg5 Kxg5 5. Bxc2 { with a kind of theoretical draw that we recognize from the previous example; } ) 
+4. Bxc2 h5 5. Ke3 h4 6. Kf2 { neutralizing the h-pawn after both } Rg4 ( { and } 6... Ra1 7. Bf5 ) 
+7. Kf3 Rg3 8. Kf2 ) 
+ ( { b) Instead, the prophylactic } 1... Ke7 $1 { was called for, avoiding g4-g5 with check. There can follow } 2. Kd3 ( { here and on the next move, } 1... Rg1 1. g5 { is strongly met by } h5 $1 ) 
+Rg1 3. Kxc3 Rxg4 4. Kd4 Rxf4 5. Ke3 { Interestingly, there do exist theoretical draws where a bishop fights against a rook and a rook's pawn, but for that to happen the (black) pawn should already be on the third rank (occasionally the fourth is enough); besides, the defender should have the 'right' bishop. Here neither condition is met as the colour of White's bishop makes h1 a 'wrong' corner for the king. Thus Black could win in several ways, for example by cutting off the enemy king before pushing the pawn: } Rf5 6. Bc2 ( { or } 5... Rg1 5. Bd1 h5 7. Bf3 Rg5 8. Kf4 Kf6 { with similar play; } ) 
+Rg5 7. Kf4 Kf6 8. Bd1 h5 9. Be2 h4 10. Bg4 Rg8 $1 { (the rook is waiting to settle on g3) } 11. Bh3 ( { or } 10... Rg1 10. Kf3 Ke5 12. Bd7 Rg3 13. Kf2 Kf4 { with h4-h3-h2 and ...Rg1 to follow; } ) 
+Rg3 12. Bg4 Ra3 13. Bf3 h3 14. Bd5 ( { if } 13... Rg1 13. Kg3 { then } h2 ) 
+h2 15. Bc6 Ra1 ) 
+2. g5+ $1 { White of course exploits the moment to take the black h-pawn off the board. } hxg5 3. fxg5+ Rxg5 { The rook prepares to defend the pawn from behind. } ( { After } 3... Kxg5 $6 4. Kd3 Rg3 5. Kd4 { followed by Bc2-d3, White draws on the spot. } ) 
+4. Kd3 Rc5 ( { Thanks to } 4... Rc5 5. Bc4 $2 Rxc4 ( { or } 5... c2 { the pawn has been secured. } ) 
+ ) 
+5. Bc2 ( 5. Kc2 { was perfectly possible, placing the king on the correct square right from the beginning - more about this soon. } ) 
+Ke5 6. Bb3 Kd6 { The only way for the king to approach the pawn. } 7. Bc2 Kc6 { Tired after a long fight (we were already beyond move 80), while supposing, as did my opponent, that the battle would be over once Black's king replaces the rook in the defence of the pawn, here I resigned! A few weeks later I discovered, to my horror, the similarities between this endgame and the old encounter L.Szabo-M.Botvinnik, Budapest 1952, which I had recently touched upon in my endgame classes. Let's make a few more moves to familiarize ourselves with the defensive plan: } 8. Ba4+ Kb6 9. Kc2 { The king should stay here until Black gives check on the second rank, upon which it retreats to c1. } Ka5 10. Be8 Kb4 11. Bg6 $1 { The right place for the bishop, on the long diagonal of the pawn. } Rg5 12. Be4 $1 { Temporarily preventing 12... Rg2+ } ( { In contrast, after } 12. Bh7 $2 Rg2 13. Kc1 Kb3 { , Black wins. A must for the defence is to give check when the black king settles on b3 - here the bad move 12 Bh7? made that impossible. } ) 
+Rh5 ( { Or } 12... Kc4 13. Bd3 Kd4 14. Bh7 Rg2 15. Kc1 Kc4 16. Bf5 $1 Kb3 17. Be6 { etc. } ) 
+13. Bg6 ( { Not } 13. Bd3 $2 Rh2 14. Kc1 Kb3 ) 
+Rh2+ 14. Kc1 c2 ( { Seeing that } 14... Kb3 15. Bf7 { leads nowhere, Black makes a more astute try. } ) 
+15. Kb2 $1 { A key reply. } ( { In contrast, } 15. Bxc2 $2 { loses to } Kc3 { ; e.g. } 16. Be4 Re2 17. Bf3 Re1 18. Bd1 Rf1 ) 
+c1=Q+ { There is nothing better. } 16. Kxc1 Kc3 17. Kb1 $1 ( { Heading for the safe corner on a1 . A draw is inevitable; e.g. } 17. Kb1 Rb2 18. Ka1 Rg2 19. Bf5 Kb3 20. Be6 Ka3 21. Bf5 { .Incidentally, note that this theoretical draw wouldn't have worked if the pawn had not yet advanced to the third (sixth for a white pawn) rank - in that case, the stronger side wins in 'king first!' fashion, transferring the king to c3 and expelling White's king with the rook before advancing the pawn. Neither would White be able to draw if he had a dark-squared bishop instead - that bishop only works against the f-pawn, as you can find out yourself. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13893292/"]
+[Date "????.??.??"]
+[Round "57.8"]
+[White "8.6 Theoretical Draws"]
+[Black "Hellsten- J. vs. Granda Zuniga- J.- #1"]
+[Result "0-1"]
+[FEN "8/8/5k1p/8/5PP1/1Bp5/4K3/2r5 b - - 0 1"]
+
+1... { -KEY- } Ke7 $1 { This prophylactic retreat was called for, avoiding g4-g5 with check. } 2. Kd3 ( { Here and on the next move, } 2. g5 { is strongly met by } h5 $1 ) 
+Rg1 3. Kxc3 Rxg4 4. Kd4 Rxf4+ 5. Ke3 { Interestingly, there do exist theoretical draws where a bishop fights against a rook and a rook's pawn, but for that to happen the (black) pawn should already be on the third rank (occasionally the fourth is enough); besides, the defender should have the 'right' bishop. Here neither condition is met as the colour of White's bishop makes h1 a 'wrong' corner for the king. Thus Black could win in several ways, for example by cutting off the enemy king before pushing the pawn. } Rf5 6. Bc2 ( { Or } 6. Bd1 h5 7. Bf3 Rg5 8. Kf4 Kf6 { with similar play. } ) 
+Rg5 7. Kf4 Kf6 8. Bd1 h5 9. Be2 h4 10. Bg4 Rg8 $1 { The rook is waiting to settle on g3. } ( 10... Rg6 { and } Rg7 { also work, although in general terms, the more space for our rook, the better. } ) 
+11. Bh3 ( { Or } 11. Kf3 Ke5 12. Bd7 Rg3 13. Kf2 Kf4 { with h4-h3-h2 and ...Rg1 to follow } ) 
+Rg3 12. Bg4 Ra3 13. Bf3 h3 14. Bd5 ( { If } 14. Kg3 { then } h2 ) 
+h2 15. Bc6 Ra1 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13893293/"]
+[Date "????.??.??"]
+[Round "57.9"]
+[White "8.6 Theoretical Draws"]
+[Black "Hellsten- J. vs. Granda Zuniga- J.- #2"]
+[Result "0-1"]
+[FEN "4B3/8/8/k1r5/8/2p5/2K5/8 b - - 0 10"]
+
+10... { -KEY- } Kb4 11. Bg6 $1 { The right place for the bishop, on the long diagonal of the pawn. } Rg5 12. Be4 $1 { Temporarily preventing 12...Rg2+. } ( { In contrast, after } 12. Bh7 $2 Rg2 13. Kc1 Kb3 { Black wins. A must for the defence is to give check when the black king settles on b3 - here the bad move 12.Bh7? made that impossible. } ) 
+Rh5 ( { Or } 12... Kc4 13. Bd3 Kd4 14. Bh7 Rg2 15. Kc1 Kc4 16. Bf5 $1 Kb3 17. Be6 { etc. } ) 
+13. Bg6 ( { Not } 13. Bd3 $2 Rh2 14. Kc1 Kb3 ) 
+Rh2+ 14. Kc1 c2 ( { Seeing that } 14... Kb3 15. Bf7 { leads nowhere, Black makes a more astute try. } ) 
+15. Kb2 $1 { A key reply. } ( { In contrast, } 15. Bxc2 $2 { loses to } Kc3 { ; e.g. } 16. Be4 Re2 17. Bf3 Re1 18. Bd1 Rf1 ) 
+c1=Q+ { There is nothing better. } 16. Kxc1 Kc3 17. Kb1 $1 ( { Heading for the safe corner on a1 . A draw is inevitable; e.g. } 17. Kb1 Rb2 18. Ka1 Rg2 19. Bf5 Kb3 20. Be6 Ka3 21. Bf5 { Incidentally, note that this theoretical draw wouldn't have worked if the pawn had not yet advanced to the third (sixth for a white pawn) rank - in that case, the stronger side wins in 'king first!' fashion, transferring the king to c3 and expelling White's king with the rook before advancing the pawn. Neither would White be able to draw if he had a dark-squared bishop instead - that bishop only works against the f-pawn, as you can find out yourself. } ) 
+
+ 0-1

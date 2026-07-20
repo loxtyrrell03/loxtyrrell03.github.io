@@ -1,0 +1,73 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12632895/"]
+[Date "????.??.??"]
+[Round "40.1"]
+[White "5.5 Exposing The Enemy King"]
+[Black "Exposing the enemy king"]
+[Result "*"]
+
+ ( { An idea closely linked to the previous theme is the exposure of the enemy king to future checks. Often it is managed by a pawn advance, as we already saw in Hellsten-Iturry ( } 15... Qf3 15. f4 { ). Here are a few more examples. } ) 
+1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630171/"]
+[Date "????.??.??"]
+[Round "40.2"]
+[White "5.5 Exposing The Enemy King"]
+[Black "Example 323- Jansa- V. vs. Korchnoi- V.- Nice Olympiad 1974"]
+[Result "*"]
+[FEN "6k1/5p2/8/1P3QP1/8/2q4p/5P1K/8 w - - 0 1"]
+
+ { White is about to win a second pawn, but some accuracy is still required. } 1. { -KEY- } g6 $1 { Exposing the enemy king. } ( { Instead, the game went } 1. Qf6 $2 Qc7 $1 2. Kxh3 ( { or } 2. f4 Qc2 3. Kxh3 Qb3 { and the b-pawn falls anyway } ) 
+Qd7 3. Kh4 Qxb5 4. g6 Qb4 $1 { (before taking on g6, Black avoids a queen exchange) } 5. Kg3 Qb3 6. f3 fxg6 7. Qxg6 Kf8 { and a draw was soon agreed. } ) 
+ ( 1. b6 Qc6 $1 { isn't constructive either for White. } ) 
+ ( 1. f3 { is tempting in order to keep all the pawns defended, but after } Qc4 $1 { , heading for f1 without letting White interfere by 2.Qd3, Black seems to hold. For instance, } 2. Qxh3 Qxb5 { or } 2. Kxh3 Qf1 3. Kg4 Qg1 $1 4. Kf4 Qc1 5. Ke5 Qc5 6. Ke4 Qc2 { etc. } ) 
+fxg6 ( { After } 1... Qc7 2. Kxh3 Qc3 3. Kg2 fxg6 4. Qxg6 Kf8 5. Qh6 $1 { White soon forces a queen exchange, just as in the main line. } ) 
+2. Qxg6+ Kf8 ( { If } 2... Kh8 { then } 3. Qh6 Kg8 4. Qg5 Kh8 5. Qh4 Kg8 6. Qg3 ) 
+3. Qd6+ Kf7 4. Qf4+ $1 Ke8 ( { Or } 4... Kg6 5. Qg3 ) 
+5. Qe3+ Qxe3 6. fxe3 { White wins - Jansa. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630172/"]
+[Date "????.??.??"]
+[Round "40.3"]
+[White "5.5 Exposing The Enemy King"]
+[Black "Example 324- Platonov- I. vs. Gurgenidze- B.- (analysis variation) USSR 1971"]
+[Result "*"]
+[FEN "1Q6/5p2/6k1/1P4p1/1q5p/7P/6P1/7K b - - 0 1"]
+
+ { Black is on the verge of losing, but by exposing the enemy king to checks he can still save a draw. } 1... { -KEY- } f5 $1 { Heading for f4 in order to create checking possibilities on g3-e1 before White prevails on the opposite flank. } ( { Less convincing is } 1... g4 $6 2. hxg4 h3 ( { not } 2... Qxg4 $4 3. Qg8 ) 
+3. Qg8 Kf6 4. Qd8 Kg7 5. Qd3 hxg2 6. Kxg2 { and White keeps some chances for a win. } ) 
+2. b6 f4 $1 ( { Simplest; though } 2... g4 { also works - Gufeld; e.g. } 3. hxg4 fxg4 4. b7 Qe1 5. Kh2 Qe6 $1 { preparing 6...g3+. } ) 
+ ( 2... Qe1 3. Kh2 f4 { is another possible move order, and actually 1...Qe1+ also worked on the previous move. Still, it seems more logical to keep this check in the pocket so that White's queen remains tied to the b-pawn. } ) 
+3. b7 ( { Or } 3. Kh2 $5 Qb3 $1 { eyeing the g3-square. } ) 
+Qe1+ 4. Kh2 Qg3+ { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630173/"]
+[Date "????.??.??"]
+[Round "40.4"]
+[White "5.5 Exposing The Enemy King"]
+[Black "Example 325- Nikolic- P. vs. Seirawan- Y.- Wijk aan Zee 1995"]
+[Result "1-0"]
+[FEN "8/8/5pkp/1P1Q4/8/3p2P1/4qPK1/8 w - - 0 1"]
+
+ { In this tense position Black has the more advanced passed pawn, but even so he is in trouble due to his unsafe king and the fact that White is to move. } 1. { -KEY- } Qg8+ $1 { Before placing his queen on the strong c4-square, Nikolic brings out the enemy king so as to expose it to future checks. } ( { a) Instead, } 1. b6 $2 d2 { only leads to a draw. } ) 
+ ( { b) While the immediate } 1. Qc4 $6 { is also unconvincing in view of } Kg7 $1 2. b6 Qb2 ) 
+Kf5 2. Qc4 $1 { A typical pin in queen endings. Now it is difficult for Black to find a good move. } Qc2 ( { After } 2... Kg6 $2 3. b6 { Black can no longer play } Qb2 { due to } 4. Qxd3 { with check } ) 
+ ( { while the pawn ending that emerges after } 2... Qe4 3. Qxe4 Kxe4 { is won for White thanks to his outside passed pawn: } 4. Kf1 $1 Kd4 5. Ke1 Kc5 ( { or } 5... Kc3 6. Kd1 ) 
+6. Kd2 Kxb5 7. Kxd3 h5 ( { if } 7... Kc5 { then } 8. Ke4 Kd6 9. Kf5 Ke7 10. Kg6 { etc } ) 
+8. Ke4 Kc4 9. f4 $1 { followed by Kf5 - L.B.Hansen; } ( { but not } 8... Qc2 8. Kf5 $2 Kd3 $1 { with a draw soon. } ) 
+ ) 
+3. Qd5+ Kg6 4. b6 Qb1 ( { The desirable } 4... d2 { fails to } 5. Qg8 $1 Kh5 ( { or } 5... Kf5 6. Qh7 ) 
+6. Kh3 $1 { with decisive mating threats - Seirawan; e.g. } Qg6 7. g4 Kg5 8. Qd5 f5 9. Qxd2 { etc. } ) 
+5. b7 d2 6. Qg8+ $1 { The story is repeated. } Kh5 ( { Now } 6... Kf5 7. Qh7 { costs Black the queen, so he has to expose his king to a mating attack. } ) 
+7. Qf7+ ( { Instead } 7. Qe8 Kg5 8. f4 $6 { allows } Kf5 { somewhat prolongs the battle since White, contrary to the game, doesn't have a skewer with 9.Qh7+ at their disposal. } ) 
+Kg5 ( { In the event of } 7... Qg6 { White wins by } 8. g4 Kg5 9. f4 $1 Kxf4 10. b8=Q ) 
+8. f4+ $1 Kg4 9. Qe6+ Kh5 { Other replies lead to mate in one. } 10. b8=Q $1 ( { In view of } 10. b8=Q $11 d1=Q $11 ( { or } 10. b8=Q Qxb8 11. Qf5 ) 
+11. Qh3 Kg6 12. Qg8 { Black resigned. } ) 
+
+ 1-0

@@ -1,0 +1,80 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12632797/"]
+[Date "????.??.??"]
+[Round "39.1"]
+[White "5.4 Series Of Checks"]
+[Black "Series of checks"]
+[Result "*"]
+
+ { Another useful endgame idea involving the queen is a series of checks in order to bring it to a specific square or area of the board. Such action can have different functions; e.g. support a passed pawn, limit enemy counterplay, enable mate, etc. Here are a few examples. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630168/"]
+[Date "????.??.??"]
+[Round "39.2"]
+[White "5.4 Series Of Checks"]
+[Black "Example 320- Marjanovic- S. vs. Schussler- H.- Trstenik 1979"]
+[Result "1-0"]
+[FEN "6k1/Q4p2/4p2p/P5p1/8/4PqPP/5P1K/8 w - - 0 1"]
+
+ { A series of checks helped White to realize his advantage more comfortably. } 1. { -KEY- } Qb8+ $1 ( { Another good option was } 1. e4 $5 Qxe4 2. a6 { in similar fashion toExample 315 (Gelfand-Akopian). } ) 
+Kh7 ( { Or } 1... Kg7 2. Qb2 f6 3. a6 { with similar effect. } ) 
+2. Qb1+ f5 3. Qa2 { An ideal location for the queen. } h5 ( { After } 3... f4 4. exf4 gxf4 { White could win by both } 5. a6 ( { and } 4... h5 4. Qc2 { followed by a timely Qc7+ and Qxf4 - Marjanovic. } ) 
+ ) 
+4. a6 h4 5. a7 { The rest is easy. } hxg3+ 6. fxg3 Qa8 7. Qxe6 Qxa7 8. Qxf5+ Kh6 9. Qf6+ Kh7 10. Qxg5 { Three pawns down is at least one too many, and Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630169/"]
+[Date "????.??.??"]
+[Round "39.3"]
+[White "5.4 Series Of Checks"]
+[Black "Example 321- Berg- E. vs. Bosboom- M.- Wijk aan Zee 2007"]
+[Result "1-0"]
+[FEN "8/8/7p/qPQ3p1/6k1/6P1/1KP5/8 w - - 0 1"]
+
+ { Thanks to his advanced passed pawn White should be winning, but how to progress? } 1. { -KEY- } Qc8+ $1 { Berg initiates a series of checks in order to improve his queen. } ( { Note that the lazy } 1. Qc6 $2 { preparing b5-b6, would fail to } Qb4 { with a perpetual. } ) 
+Kh5 ( { The king must retreat, since both } 1... Kf3 { and } Kxg3 { let White swap queens by } 2. Qc3 ) 
+2. Qh3+ Kg6 3. Qe6+ Kh5 4. Qe2+ Kg6 ( { Or } 4... g4 5. Qe5 Kg6 6. Qd6 Kh5 7. Qc5 Kg6 8. Qc6 $1 Kg5 9. b6 { with similar play as in the game. } ) 
+5. Qd3+ Kh5 6. Qf3+ Kg6 7. Qc6+ $1 Kh5 { On c6 the queen proves ideally placed, assisting the passed pawn and protecting the king at the same time. Thus the moment is right to advance the pawn. } 8. b6 Qe5+ ( { Contrary to the 1.Qc6 subline above, here } 8... Qb4 { does not lead to a perpetual, in view of } 9. Ka2 Qa5 10. Kb3 $1 { - Berg. } ) 
+9. Ka2 Qxg3 ( { Now White is allowed to queen; but as just seen, } 9... Qa5 10. Kb3 { doesn't help. } ) 
+10. Qe8+ $1 Kh4 11. b7 Qc7 12. b8=Q Qxc2+ 13. Qb2 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13197635/"]
+[Date "????.??.??"]
+[Round "39.4"]
+[White "5.4 Series Of Checks"]
+[Black "Example 322- Aronian- L. vs. Ivanchuk- V.- European Championship- Antalya 2004"]
+[Result "0-1"]
+[FEN "8/8/4K3/8/4pq2/5k2/8/Q7 b - - 0 1"]
+
+ { Such endings are easier for the attacker to play than the defender, and theoretically drawn positions often end up being won anyway. } 1... { -KEY- } Qh6+ $1 { By a series of checks Ivanchuk aims at improving his queen, and only then advance the pawn. } ( { In contrast, the hasty } 1... e3 $6 { permits } 2. Qf1 Kg3 3. Qg1 { with some annoying checks. Incidentally, there is a 'merry-go-round' perpetual in queen endings, where the king is skewed by the queen wherever he moves; e.g. in this case (supposing there was one more file on the right of the board) 3 Qi1+ Kg4 4 Qi4+ Kg5 5 Qi7+ etc. } ) 
+2. Kd5 ( { a) Or } 2. Kf5 Qh3 { , transposing to the game } ) 
+ ( { b) While } 2. Kf7 { can be met by } Qh5 3. Ke7 Qh4 4. Kf7 e3 5. Qf1 Qf2 { and it is Black who gives check on the next move. } ) 
+Qd2+ 3. Ke5 ( { After } 3. Ke6 e3 4. Qf1 Kg3 5. Qg1 Kf4 $1 6. Qf1 Qf2 7. Qc4 Kg3 { , the pawn's advance is just a question of time; e.g. } 8. Qc7 Qf4 9. Qc3 Kf2 10. Qc5 Qe4 11. Kd6 Kf1 12. Qc1 Kg2 { , followed by 13...e2. } ) 
+Qh2+ 4. Kf5 Qh3+ 5. Kg5 e3 $1 { With the queen covering the f1- and h1-squares, the moment is right for this advance. } 6. Qf6+ Kg3 7. Qe5+ Kf2 8. Qd4 ( { After } 8. Qf4 Qf3 { , there are no good checks available anymore, so Aronian instead places his hopes in the pin along the g1-a7 diagonal. } ) 
+Qf3 ( 8... Qg3 9. Kh6 Kg2 10. Qb2 Kh3 { was simpler - Ivanchuk, a plan that he soon realizes in the game anyway. } ) 
+9. Kh4 Qh1+ 10. Kg4 Qg2+ 11. Kh5 Qg3 12. Qc5 ( { If } 12. Kh6 { then } Kg2 { , heading for h3, in similar fashion to the game. } ) 
+Qf4 $1 { The king should hide on h3. } 13. Qb6 Kg3 14. Qg6+ Kh3 15. Qd3 Qe5+ 16. Kh6 Kg3 { Unable to meet the threat of ...Kf2 and e3-e2, White resigned. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630170/"]
+[Date "????.??.??"]
+[Round "39.5"]
+[White "5.4 Series Of Checks"]
+[Black "Aronian- L. vs. Ivanchuk- V.- #1"]
+[Result "0-1"]
+[FEN "8/8/4K3/8/4pq2/5k2/8/Q7 b - - 0 1"]
+
+ { Such endings are easier for the attacker to play than the defender, and theoretically drawn positions often end up being won anyway. } 1... { -KEY- } Qh6+ $1 { By a series of checks Ivanchuk aims at improving his queen, and only then advance the pawn. } ( { In contrast, the hasty } 1... e3 $6 { permits } 2. Qf1 Kg3 3. Qg1 { with some annoying checks. Incidentally, there is a 'merry-go-round' perpetual in queen endings, where the king is skewed by the queen wherever he moves; e.g. in this case (supposing there was one more file on the right of the board) 3.Qi1+ Kg4 4.Qi4+ Kg5 5.Qi7+ etc. } ) 
+2. Kd5 ( { a) Or } 2. Kf5 Qh3 { transposing to the game } ) 
+ ( { b) While } 2. Kf7 { can be met by } Qh5 3. Ke7 Qh4 4. Kf7 e3 5. Qf1 Qf2 { and it is Black who gives check on the next move. } ) 
+Qd2+ 3. Ke5 ( { After } 3. Ke6 e3 4. Qf1 Kg3 5. Qg1 Kf4 $1 6. Qf1 Qf2 7. Qc4 Kg3 { the pawn's advance is just a question of time; e.g. } 8. Qc7 Qf4 9. Qc3 Kf2 10. Qc5 Qe4 11. Kd6 Kf1 12. Qc1 Kg2 { followed by } 13. -- e2 ) 
+Qh2+ 4. Kf5 Qh3+ 5. Kg5 e3 $1 { With the queen covering the f1- and h1-squares, the moment is right for this advance. } 6. Qf6+ Kg3 7. Qe5+ Kf2 8. Qd4 ( { After } 8. Qf4 Qf3 { there are no good checks available anymore, so Aronian instead places his hopes in the pin along the g1-a7 diagonal. } ) 
+Qf3 ( 8... Qg3 9. Kh6 Kg2 10. Qb2 Kh3 { was simpler - Ivanchuk, a plan that he soon realizes in the game anyway. } ) 
+
+ 0-1

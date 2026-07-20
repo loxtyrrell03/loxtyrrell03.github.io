@@ -1,0 +1,121 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967625/"]
+[Date "????.??.??"]
+[Round "38.1"]
+[White "7.1) The Role Of Pawn Breaks"]
+[Black "Barebones Structure 1"]
+[Result "*"]
+[FEN "4k3/p1p2ppp/4p3/1p1pP3/3P1P2/2P5/PP4PP/4K3 b - - 0 1"]
+
+ { A pawn break is 'a pawn advance to a square attacked by an enemy pawn, with the intent of opening the position or challenging the opponent's pawn structure.' This can lead to many positional benefits. Typically these include opening lines, improving your structure or damaging the opponent's, as well as contesting the centre and generating attacking chances on either flank. Let's now consider the benefits of a pawn break from Black's perspective, and then in the next example we'll keep the same position but look at it from the White side instead. One last thing, this is a barebones structure that has been stripped of all the pieces. In reality, this will have a huge impact on whether the pawn break should be played or not. } 1... { -KEY- } c5 { Black breaks with 1...c5, and White is left with two options: a) Capture it b) Ignore it } 2. Ke2 { White chooses to ignore the break. In this case Black has three options: ...b4, ...c4, and ...cxd4. } ( 2. dxc5 { If White chooses to capture: - White's central control has been undermined as they no longer have a pawn on d4. - If Black is in a position to recapture on c5 with a piece, this may lead to greater piece activity. - If White's king is sitting on the g1 square (having castled short), then White's king safety will also be significantly undermined. - Black now has two follow-up pawn breaks: ...b5-b4, and ...d5-d4. } ) 
+cxd4 ( 2... b4 { A second pawn break allows Black to threaten to open up not just the c-file, but also the b-file. } ) 
+ ( 2... c4 { It now becomes a lot harder for White to ever move the b2 pawn, since a move like b2-b3 may result in ...cxb3, leaving a very vulnerable undefended pawn on c3 along a semi-open file. } ) 
+3. cxd4 { Black now has an open c-file. Note how the side that plays the pawn break has the power to choose if and when to open up the file, depending on what favors their pieces the most. Let's flip perspective, this time with White to move. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967626/"]
+[Date "????.??.??"]
+[Round "38.2"]
+[White "7.1) The Role Of Pawn Breaks"]
+[Black "Barebones Structure 2"]
+[Result "*"]
+[FEN "4k3/p1p2ppp/4p3/1p1pP3/3P1P2/2P5/PP4PP/4K3 w - - 0 1"]
+
+ { This is the same structure, but now we'll take a look at the main pawn break that White can play. } 1. { -KEY- } f5 $1 { White carries out their own pawn break. It's worth noting that this is not the only pawn break in the position. Depending on White's piece arrangement, 1.a4, or even preparing a break on the c4 square may have been stronger. } ( { Assisted pawn break: } 1. g4 { White could also have 'assisted' the pawn break by pushing the g-pawn first.This can add potency and even more favourable outcomes for the attacking side. For instance: } Kd8 2. f5 exf5 3. gxf5 { The change in structure favors White, as they now have the semi-open g-file to maneuver along. } ) 
+Kf8 { What happens if Black ignores the pawn break? } ( 1... exf5 { The capture weakens the d5 pawn, particularly significant if Black did not have a pawn on the c-file to support it. If White could recapture on f5 with a piece, then White will now have several open lines of attack against Black's kingside to operate on. Other pieces could also have benefited e.g. a bishop on c1 or d2 would now enjoy greater range of movement. } 2. e6 { A second pawn break! In theory, White could now advance their e-pawn. Here it doesn't look like a very good idea since there are no pieces on the board. But in a real game, such sacrifices can offer a route to the enemy king. } ) 
+2. f6 { White can also choose to advance the pawn further. In this case, the pawn on the 6th rank constitutes a so-called 'pawn wedge' (covered elsewhere in the course). Such pawns are highly dangerous as they can quickly assist in forming mating nets around the enemy king. } ( 2. fxe6 { White can exchange at a moment that suits them, cracking open the f-file. } fxe6 { White will often have a rook on f1, so this opening up is very dangerous. Note also how the e6 pawn no longer has a base pawn to defend it. Black must now guard their e-pawn with pieces for the remainder of the game, a constant liability to worry about! } ) 
+gxf6 ( 2... g6 { Black doesn't want to crack their structure, but in avoiding this they have left themselves with pawns all on light squares. Sometimes pawn breaks are designed as part of an attack along specific 'color complexes', a topic discussed in the chapter on 'Weak Squares'. } ) 
+3. exf6 { Black has been left with a fractured pawn structure. Additionally, the e5 square is now a potential outpost for a White piece, as well as the h2-b8 diagonal having opened up. Hopefully the discussion of this 'barebones' structure has been helpful to build a solid picture of the types of benefits that come with pawn breaks, and to understand why experienced players often build positional plans around pawn breaks. Let's turn to some real world examples next. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967627/"]
+[Date "????.??.??"]
+[Round "38.3"]
+[White "7.1) The Role Of Pawn Breaks"]
+[Black "Multiple Pawn Breaks"]
+[Result "*"]
+[FEN "1rb5/2pp1qpk/2p3pp/p1N1P3/P1PQ1P2/1P1R3P/6PK/8 w - - 0 31"]
+
+ { One of the advantages of a well-timed pawn break is that it transforms the structure in a way that is favorable for the attacking side. In this example, taken from the game Schlechter,C - Janowski,D (1900), White uses a pawn break as a sacrificial tool in order to cripple Black's pawn structure. } 31. { -KEY- } e6 $1 dxe6 ( { Forced, since otherwise } 31... -- 32. exd7 { would win material. } ) 
+32. Qe5 $1 { The pawn break has left Black with isolated pawns on the c- and e-files, more than enough compensation for the sacrificed pawn. Additionally, the d-file has opened up for White's rook. Finally, the White knight on c5 now sits on a permanently weak square. The combination of factors means that White already enjoys a winning position. } Qe7 33. g4 Rb4 34. Kg3 { White patiently improves his pieces. There is no need to rush when your opponent has no active plan. } Rb6 35. h4 Qf8 36. h5 $1 { A second pawn break, this time designed to open lines of attack against the Black king. } gxh5 37. Qxh5 Rb8 38. Qe5 Rb6 39. g5 $1 { And now a third break! Soon Black's king will not be able to find shelter. } h5 40. g6+ $1 Kxg6 41. Qg5+ Kh7 42. Qxh5+ Kg8 43. Qg5 ( { The effect of White's kingside pawn breaks is clear. Black has no good way to meet the threat of } 43. Qg5 -- 44. Rd8 { . } ) 
+Kf7 44. Rd8 Qe7 45. Qh5+ ( { Black resigned in view of the line } 45. Qh5+ g6 46. Qh7 Kf6 47. Qh8 Kf7 48. Qg8 Kf6 49. Rf8 Qxf8 50. Qxf8 { . In this game we saw that White had a crushing position from the get-go. From here he found the best strategy to convert his advantage, using a series of pawn breaks to open lines, improve his piece activity, damage the opponent's pawn chain, and finally to hunt down the king. Pawn breaks are hard to match when it comes to the breadth of benefits they can offer! } ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967628/"]
+[Date "????.??.??"]
+[Round "38.4"]
+[White "7.1) The Role Of Pawn Breaks"]
+[Black "Damaging The Structure"]
+[Result "*"]
+[FEN "r2q1rk1/pp1nb1p1/3p2np/3Ppp2/2P4P/1N3PP1/PP1QBB2/R3K2R b KQ - 0 1"]
+
+ { This position is taken from an online game between Magnus Carlsen, with the White pieces, and Alexei Sarana with the Black. Can you find the best sequence for Black? } 1... { -KEY- } f4 $1 ( 1... b6 $2 { In the game, Black was focused on stopping White from playing the c4-c5 pawn break, but in so doing they failed to spot their own active pawn break on the kingside! } ) 
+2. h5 { This move is the only way that White can avoid losing a pawn. } ( 2. g4 { allows Black to play either } Bxh4 { winning a pawn, or continue his pawn break strategy with } e4 $5 { , clearing the e5 square and setting up a pawn advance either on e3 or f3 next. } 3. fxe4 f3 4. Bf1 Nxh4 $17 { Black has a monster pawn on f3 and dangerous moves like ...Ng2+ or ...Bg5, while their d7 knight will soon occupy the powerful e5 outpost. } ) 
+fxg3 $1 { Correct! White's structure has been ruined, while now Black has a powerful outpost on f4 to take aim at. } 3. Bxg3 ( 3. hxg6 $2 gxf2 4. Kxf2 $19 { is hopeless for White, as the king has no shelter and is likely to get hunted down along the weakened dark squares. } ) 
+Bg5 4. Qc2 Nf4 $19 { Black is winning, with devastatingly active minor pieces on the f4 and g5 squares, gained as a result of the pawn break. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967629/"]
+[Date "????.??.??"]
+[Round "38.5"]
+[White "7.1) The Role Of Pawn Breaks"]
+[Black "Undermining The Centre"]
+[Result "*"]
+[FEN "rn1qk2r/pp1nbppp/2p1p3/3pP3/3P4/2N2QPP/PPP2PB1/R1B1K2R b KQkq - 0 1"]
+
+ { Another common benefit of pawn breaks has to do with undermining the centre. Oftentimes this can be simply reducing one side's central control. In more extreme cases like the following example, a well-timed break can cause a full collapse of the opponent's centre. } 1... { -KEY- } c5 $1 { The presence of White's knight on c3 stops them from being able to maintain their central pawn chain. } ( 1... O-O $2 { If Black had not seized the opportunity then White would have had the time to reorganize themselves in anticipation of the possible pawn break. } 2. Ne2 $1 c5 3. c3 $11 { With the centre stable, the position is roughly equal. } ) 
+2. Be3 $2 { In the game White tried to defend their pawn, but now their bishop will come under fire. } ( 2. Ne2 { White is not in time now to regroup, since Black can play ...cxd4 after which the pawn on e5 is defenseless. } cxd4 $17 ) 
+ ( 2. Qg4 $1 { was the only way to stay in the game, when after } g6 3. dxc5 Nxe5 4. Qe2 Nbc6 $15 { Black stands better, but White keeps practical chances due to having forced the weakening move 2...g6. } ) 
+cxd4 3. Bxd4 Nc6 $17 { Black is close to winning since the e5 pawn is hard to keep alive. Additionally, Black can capture White's valuable dark-squared bishop, leaving White vulnerable on squares like e5, f2 and b2. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967630/"]
+[Date "????.??.??"]
+[Round "38.6"]
+[White "7.1) The Role Of Pawn Breaks"]
+[Black "Activity & Attacking 1"]
+[Result "*"]
+[FEN "r1bqkb1r/p2n1ppp/2n1p3/1pppP3/3P1P2/2P2N2/PP2N1PP/R1BQKB1R w KQkq - 0 1"]
+
+ { The nature of pawn breaks is such that you can often gain several benefits at once. In this position, White finds a nasty pawn break to damage the opponent's structure and at the same time activate their pieces. } 1. { -KEY- } f5 $1 { White offers up a pawn on f5, confronting Black with the difficult decision of whether to capture or ignore the pawn. Note how White's dark-squared bishop on c1 is now much more active. } exf5 ( 1... Qb6 $6 { Ignoring the pawn break is worse: } 2. Nf4 $1 cxd4 3. cxd4 $16 { Black has no good way of defending the pawn on e6, while the move } exf5 { loses to } 4. Nxd5 { . } ) 
+2. Nf4 a6 { Defending against Bxb5. } 3. Bd3 { White targets the vulnerable f-pawn. } ( 3. Nxd5 $2 { would lose a lot of the advantage, since now after a move like } Bb7 $13 { Black would have activated their light-squared bishop. } ) 
+g6 4. a4 $1 { A second break, this time on the flank, puts the Black queenside pawns under pressure. } b4 ( 4... bxa4 $2 5. Qxa4 $16 { White's piece activity becomes too great here. } ) 
+5. O-O { Black's position is problematic: 1. White has constant pressure on the d5 pawn 2. White is threatening a dangerous second pawn break, with the move e5-e6 3. Black cannot contest White's advanced e5 pawn, since the move ...f6 would leave the e6 square too weak. } cxd4 6. cxd4 Bb7 $2 { Trying to develop, but the position now collapses: } 7. e6 $1 { This idea of playing two pawn breaks (f5, and then e6) was harmless in the barebones structure at the beginning of the chapter, but with the Black king in the middle of the board it proves decisive. } Nf6 8. Ng5 fxe6 9. Nfxe6 Qe7 10. Re1 { Threatening Nc7+ or Nxf8. } Ne4 11. Nxe4 dxe4 12. Bxe4 $1 { A well-timed piece sacrifice, opening up the central files. } fxe4 13. Rxe4 $18 { Black's queen is lost. } Rc8 14. Bg5 $1 ( 14. Nc7 $2 { would throw away the advantage since after } Rxc7 15. Rxe7 Bxe7 $15 { Black would have too much material for the queen. } ) 
+Qd6 15. Nxf8+ { The king is so vulnerable that already it is forced mate. For example: } Kxf8 16. Bh6+ Kf7 17. Qb3+ Kf6 18. Rf1+ Qf4 19. Rfxf4# { In this example we saw the powerful link between pawn breaks as a tool of positional play, and the transition to dynamic attacking chess. Let's take a look at one more example of this next. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967631/"]
+[Date "????.??.??"]
+[Round "38.7"]
+[White "7.1) The Role Of Pawn Breaks"]
+[Black "Activity & Attacking 2"]
+[Result "*"]
+[FEN "r1bq1rk1/4bppp/p1n1pn2/1p6/3P4/P1N2N2/BP3PPP/R1BQR1K1 w - - 0 13"]
+
+ { In this example, White could play a defensive move like Bc1-e3 but in the long run their isolated queen's pawn on d4 may become a liability. Instead, they use a pawn break to open lines since they have the better development. } 13. { -KEY- } d5 $1 { White is seeking to open up the a2-g8 diagonal for their bishop, as well as the e-file for their e1 rook. } exd5 14. Nxd5 Nxd5 $6 { Inviting the White queen into play will prove fatal. } ( 14... Ra7 { This difficult-to-find move was the only way to stay alive. For example: } 15. Be3 Rd7 16. Nxe7 Nxe7 17. Qc2 $14 { White has won the bishop pair, and stands slightly better. However, Black's compact pawn structure offers chances to hold the balance. } ) 
+15. Qxd5 Bb7 ( 15... Qxd5 $2 { loses a piece after } 16. Bxd5 $18 ) 
+16. Qh5 $1 { The pawn break at the start of the position forced Black's e6 pawn off the board, leaving the f7 pawn as an easy target. } Qc7 17. Bg5 Bxg5 18. Nxg5 h6 19. Re3 $1 Na5 $2 ( { Black cannot win a piece with } 19... hxg5 { , since after } 20. Rh3 $18 { there is no way to stop mate along the h-file. } ) 
+ ( 19... Ne5 { was the only way to hang on, but probably Black didn't like that after } 20. Ne6 $1 fxe6 21. Rxe5 $16 { the pawn on e6 will soon fall. } ) 
+20. Qg6 $3 { Beautiful tactical vision. Now Black is forced to capture on g5 because of the threat of mate. } hxg5 21. Rh3 Rfc8 22. Re1 { Cutting off the e-file and setting up the unstoppable threat of Qh7+ followed by Qh8#. Black resigned in Zvjaginsev - Schroeder, 2013. The combination of weakening of Black's pawn structure coupled with a quick activation of the White pieces made the pawn break in our starting position particularly venomous. Besides paving the way for an attack, a pawn break can also offer a path to breaking down an opponent's stubborn defense. Let's take a look at an example of this in the final position of the section. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967632/"]
+[Date "????.??.??"]
+[Round "38.8"]
+[White "7.1) The Role Of Pawn Breaks"]
+[Black "Decisive Breakthrough"]
+[Result "*"]
+[FEN "4k3/2p1n1q1/1p1pQb2/pP1Pp1p1/P1P5/4B1P1/2B3K1/8 w - - 0 1"]
+
+ { In this example (taken from an online game) , Magnus Carlsen with the White pieces has a clear positional advantage against GM Darius Swiercz. Can you find the crushing sequence that Magnus used in order to break down Black's defenses? } 1. { -KEY- } c5 $1 { At first glance, the pawn break seems impossible as the square is well-covered. However, this turns out to not be the case! } dxc5 ( 1... bxc5 { leads to a similar outcome after } 2. b6 $1 cxb6 3. Qxd6 $18 { Black cannot defend the queenside pawns, while White's light-squared bishop can soon enter the attack against the enemy king. } ) 
+2. d6 $1 { Pawn breaks often chain together, and it's not rare that it is the second break that does more damage than the first. } cxd6 3. Qxd6 { Correct! There is no good way to defend the queenside pawns, and to make matters worse the Black king now lacks a safe place to hide. } Nc8 4. Qc6+ Kd8 ( 4... Qd7 { drops the bishop to } 5. Qxf6 $18 ) 
+5. Bf5 $18 { Black can no longer hold the position together. In this section we have introduced pawn breaks and discussed the main benefits that they can bring to the attacking side. Next up, we'll flip perspective and take a look at how to defend against this powerful positional strategy. } 
+ *

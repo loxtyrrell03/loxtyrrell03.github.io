@@ -1,0 +1,527 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714255/"]
+[Date "????.??.??"]
+[Round "27.1"]
+[White "Chapter 3 Exercises"]
+[Black "Position 61- O'Rourke- R. vs. Redmond- J."]
+[Result "*"]
+[FEN "8/8/8/3p3R/4k3/6P1/6r1/4K3 w - - 0 1"]
+
+ { Show the simplest way to make a draw. (2-3 moves) } 1. { -KEY- } g4 $1 { Giving up the pawn in order to apply Philidor's defence. } ( { Instead, the game went } 1. Rg5 $6 d4 2. Rg8 Ke3 3. Re8 Kd3 4. Rg8 $6 Re2 5. Kf1 Kd2 6. Ra8 Re7 7. Ra2 Kc3 { with practical difficulties for White, who ended up losing. } ) 
+Rxg4 ( { Or } 1... d4 2. Rh3 { with similar play - Baburin. } ) 
+2. Rh3 d4 3. Ra3 Rg2 4. Rb3 d3 5. Rb8 { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714256/"]
+[Date "????.??.??"]
+[Round "27.2"]
+[White "Chapter 3 Exercises"]
+[Black "Position 62- Szabo- L. vs. Portisch- L."]
+[Result "*"]
+[FEN "3r2k1/5rpp/1p6/p1p5/4R3/2P1P3/6PP/R5K1 b - - 0 1"]
+
+ { Find the best continuation. (2-3 moves) } 1... { -KEY- } Rd2 $1 { Preparing to double the rooks on the second rank. } 2. Rb1 ( 2. Re8 Rf8 3. Rxf8 Kxf8 4. Rb1 { is well met by } a4 $1 { , when taking the b-pawn costs White a rook due to their cut-off king, as noticed by nayoncohr. } ) 
+Rff2 3. Rxb6 ( { Or } 3. Rg4 Rb2 4. Rd1 Rfd2 5. Rf1 a4 { etc. } ) 
+Rxg2+ 4. Kf1 Rxh2 5. Rb8+ Kf7 6. Rb7+ Kf6 7. Rb6+ Kg5 8. Kg1 Rdg2+ 9. Kf1 Rc2 $1 10. Kg1 Rhd2 { White resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714257/"]
+[Date "????.??.??"]
+[Round "27.3"]
+[White "Chapter 3 Exercises"]
+[Black "Position 63- Bronstein- D. vs. Rantanen- Y."]
+[Result "*"]
+[FEN "4n1k1/3rbp1p/pp2p1p1/2r3P1/P1PN1B1P/1P1R1K2/5P2/3R4 w - - 0 1"]
+
+ { Indicate your 1st move + short plan. } 1. { -KEY- } Ne2 $1 { Simple and strong, in order to seize the open file. } Rxd3+ 2. Rxd3 b5 $6 { Badly timed due to White's strong fifth move. } ( 2... Rc8 3. Rd7 Bc5 { was a lesser evil. } ) 
+3. cxb5 axb5 4. Rd7 Kf8 5. a5 $1 Rc6 6. Rb7 b4 7. Rb8 $1 Bc5 8. Ng3 ( { In view of } 9. Ne4 { with inevitable material losses, Black resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714258/"]
+[Date "????.??.??"]
+[Round "27.4"]
+[White "Chapter 3 Exercises"]
+[Black "Position 64- Bruzon Batista- L. vs. Navara- D."]
+[Result "*"]
+[FEN "R7/8/8/8/6P1/1p3K2/1kr5/8 b - - 0 1"]
+
+ { Find the best continuation. (2-3 moves) } 1... { -KEY- } Rc4 $1 { Cutting the enemy king off and enabling a bridge with ...Kc3 and ...Rb4. } 2. Kg3 Kc3 3. Rf8 b2 4. Rf1 Kb3 5. g5 ( 5. Rb1 { was more tenacious, when } Rc1 6. Rxb2 Kxb2 7. Kf4 Kc3 8. g5 Kd4 9. Kf5 Kd5 10. Kf6 Kd6 { is one winning path. } ) 
+Rc1 { White resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714259/"]
+[Date "????.??.??"]
+[Round "27.5"]
+[White "Chapter 3 Exercises"]
+[Black "Position 65- Gullaksen- E. vs. McDonald- N."]
+[Result "*"]
+[FEN "7r/4k3/R4N2/5K1p/8/P7/1nP5/8 w - - 0 1"]
+
+ { Find the best continuation. (2-3 moves) } 1. { -KEY- } Re6+ $1 { A clever intermediate check. } Kf7 ( { Or } 1... Kd8 2. Rb6 { with a decisive double threat. } ) 
+2. Rb6 ( { In view of } 2. Rb6 Nc4 3. Rb7 Kf8 4. Ke6 { Black resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714260/"]
+[Date "????.??.??"]
+[Round "27.6"]
+[White "Chapter 3 Exercises"]
+[Black "Position 66- Vaganian- R. vs. Khasin- A."]
+[Result "*"]
+[FEN "2rr2k1/pn3p1p/1p4p1/3P4/4P3/3B3P/P2K1P2/1RR5 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Rxc8 { This and the following moves enable White to seize the c-file. } ( 1. Ba6 $2 Rxc1 2. Rxc1 Nc5 { was less to the point. } ) 
+Rxc8 2. Ba6 $1 Rc7 3. Bxb7 Rxb7 4. Rc1 $1 { With a huge advantage. } Kf8 5. Kd3 Ke7 6. Kd4 Kd7 7. Ke5 Ke7 8. Rc6 { Black resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714261/"]
+[Date "????.??.??"]
+[Round "27.7"]
+[White "Chapter 3 Exercises"]
+[Black "Position 67- Szuhanek- R. vs. Kovacevic- B."]
+[Result "*"]
+[FEN "8/8/5R2/8/4p1r1/4k3/8/4K3 w - - 0 1"]
+
+ { Find the best continuation. (2-3 moves) } 1. { -KEY- } Kf1 $1 { To the short side of the pawn, preparing the defence of the long side. } ( { Instead, the game went } 1. Rf1 $2 Rg2 2. Rh1 Kd3 3. Rh8 Ra2 4. Rb8 Ra1 5. Kf2 e3 6. Kf3 Rf1 7. Kg2 e2 8. Rd8 Kc4 { and White resigned. } ) 
+Rh4 ( { Obviously, } 1... Rf4 2. Rxf4 Kxf4 3. Kf2 { is a draw. } ) 
+2. Ra6 $1 { To the edge. White draws. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714262/"]
+[Date "????.??.??"]
+[Round "27.8"]
+[White "Chapter 3 Exercises"]
+[Black "Position 68- Adams- M. vs. Gurevich- M."]
+[Result "*"]
+[FEN "8/5kp1/R7/8/Pr1b4/4B3/4KP2/8 b - - 0 1"]
+
+1... Bxe3 { How would you recapture, and why? } 2. { -KEY- } fxe3 $1 { The right recapture so as to create a second passed pawn. From now on, White's plan is to push the a-pawn to a7 and then use the e-pawn as bait to deflect Black's king. } ( { Instead, } 2. Kxe3 $2 g5 { is less threatening for Black; e.g. } 3. a5 Ra4 4. Ra8 Kg6 5. a6 Ra2 6. a7 Kg7 $1 { with a draw - Baburin. } ) 
+g5 ( { Later analysis showed that } 2... Ke8 $1 { running towards the a-pawn would actually save Black here, e.g. } 3. a5 Ra4 4. Ra8 Kd7 $1 5. a6 Kc6 6. Kf3 Kb6 7. Rg8 Rxa6 8. Rxg7 Ra8 $1 { followed by a frontal attack. } ) 
+3. a5 Ra4 4. Ra8 ( { In view of } 4. Ra8 g4 5. a6 Ra2 6. Kf1 g3 7. a7 Kg7 8. e4 $1 { followed by e4-e5-e6-e7, Black resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714263/"]
+[Date "????.??.??"]
+[Round "27.9"]
+[White "Chapter 3 Exercises"]
+[Black "Position 69- Sokolov- A. vs. Fressinet- L."]
+[Result "*"]
+[FEN "7k/2R3p1/8/5r1p/1P6/8/6PP/6K1 b - - 0 1"]
+
+ { Indicate your 1st move + short plan. } 1... { -KEY- } Rf4 $1 { Preparing to place the rook behind the passed pawn. } 2. b5 Rb4 3. Rc5 h4 4. Kf2 Rb2+ $1 { Sokolov's suggestion. } ( { Instead, the game saw } 4... Kh7 $2 5. Ke3 Rb2 6. Kd4 Kh6 ( { or } 6... Rxg2 7. Rh5 Kg6 8. Rxh4 ) 
+7. Kc3 Rxg2 8. b6 Rg6 9. Rb5 Rc6 10. Kb4 Rc8 11. b7 Rb8 12. Ka5 { and Black resigned. } ) 
+5. Ke3 ( { Or } 5. Kf3 Kh7 6. h3 g6 7. Kg4 Rxg2 8. Kxh4 Kh6 9. Rc6 Rb2 10. b6 Rb4 11. Kg3 Kh5 12. Kf3 Rb3 { with a draw - Sokolov. } ) 
+Rxg2 6. Rh5+ Kg8 7. Rxh4 Rb2 8. Rh5 g6 9. Rg5 Rxh2 10. Rxg6+ Kf7 { Black makes a draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714264/"]
+[Date "????.??.??"]
+[Round "27.10"]
+[White "Chapter 3 Exercises"]
+[Black "Position 70- Smeets- J. vs. Vachier Lagrave- M."]
+[Result "*"]
+[FEN "8/4R3/6r1/1p3k2/1P3p2/2K5/2P5/8 b - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1... { -KEY- } Rd6 $1 { Cutting off White's king before advancing the passed pawn. } ( { Less is promised by } 1... f3 2. Kd3 Kf4 3. Rf7 Kg3 4. c4 $1 bxc4 5. Kxc4 f2 6. Rxf2 $1 Kxf2 7. b5 { etc. } ) 
+2. Rb7 Rd5 ( { Baburin showed that } 2... f3 3. Rxb5 Kg6 { also works, but the text is more practical. } ) 
+3. Kb2 f3 ( { A different move order with } 3... Ke4 4. c4 bxc4 5. Kc3 f3 { also works, as observed by hobbsey. } ) 
+4. c4 bxc4 5. Kc3 Ke4 6. Rh7 Rf5 $1 7. Rh1 f2 8. Rf1 Kd5 9. b5 Kc5 10. b6 Rf3+ { With 11...Kxb6 next, Black soon won. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714265/"]
+[Date "????.??.??"]
+[Round "27.11"]
+[White "Chapter 3 Exercises"]
+[Black "Position 71- Carlsen- M. vs. Anand- V."]
+[Result "*"]
+[FEN "8/4k3/7R/4P1p1/p1P5/5p1P/r7/5K2 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Ra6 $1 { Placing the rook behind the most dangerous of the enemy pawns. } ( { Instead, the game saw } 1. Rf6 $2 Ra1 $1 2. Kf2 a3 3. Ra6 a2 { and White resigned. } ) 
+a3 2. c5 $1 { White hurries to create counterplay. } Ra1+ 3. Kf2 a2 4. c6 Rh1 5. c7 Kd7 6. Ra7 ( { White holds; e.g. } 6. Ra7 a1=Q $6 7. e6 Kc8 8. Rxa1 { when } Rxa1 $2 9. e7 $1 { even loses for Black - Baburin. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714266/"]
+[Date "????.??.??"]
+[Round "27.12"]
+[White "Chapter 3 Exercises"]
+[Black "Position 72- Ochsner- B. vs. Predke- A."]
+[Result "*"]
+[FEN "8/8/p5k1/3R2p1/P5P1/5PK1/2r5/8 b - - 0 1"]
+
+ { Indicate your 1st move + short plan. } 1... { -KEY- } Ra2 $1 { Placing the rook behind the passed pawn, and never mind the a6-pawn. } 2. Rd6+ Kg7 3. Rxa6 Kf7 { It transpires that White's king has been marginalized from the battle. } 4. Ra7+ ( { Obviously, } 4. f4 { at any moment runs into } Ra3 ) 
+Kf6 5. Ra8 Kg7 6. a5 Kf7 7. a6 Kg7 8. Ra7+ Kg6 9. Ra8 Kg7 10. a7 Kh7 11. f4 Ra3+ $1 12. Kf2 gxf4 { Even without the f-pawn Black wouldn't lose this, and a draw was soon agreed. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714267/"]
+[Date "????.??.??"]
+[Round "27.13"]
+[White "Chapter 3 Exercises"]
+[Black "Position 73- Fernandez- DH. vs. Illingworth- M."]
+[Result "*"]
+[FEN "8/8/3K4/8/4P3/1k6/8/2r5 b - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1... { -KEY- } Rd1+ $1 { This intermediate check displaces White's king, thus yielding Black a vital tempo. } 2. Kc6 Re1 3. Kd5 Kb4 4. e5 Kb5 5. Kd6 Kb6 6. e6 Rd1+ 7. Ke7 Kc7 8. Kf7 Rf1+ 9. Ke8 Kd6 10. e7 Re1 { White resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714268/"]
+[Date "????.??.??"]
+[Round "27.14"]
+[White "Chapter 3 Exercises"]
+[Black "Position 74- Beliavsky- A. vs. Ree- H."]
+[Result "*"]
+[FEN "1r6/8/4k3/3p4/1P1R4/1KP5/8/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } c4 $1 { This advance will leave Black's king decisively cut off from the queenside. } dxc4+ 2. Kxc4 Rc8+ 3. Kb5 Ke5 4. Rd7 $1 { Cutting Black's king off horizontally. } ( 4. Rd1 $2 Rb8 { was less to the point. } ) 
+Ke6 5. Rb7 Kd6 6. Ka6 Rc1 7. b5 Ra1+ 8. Kb6 Rb1 9. Rh7 Rb2 10. Ka6 { Black resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714269/"]
+[Date "????.??.??"]
+[Round "27.15"]
+[White "Chapter 3 Exercises"]
+[Black "Position 75- Potkin- V. vs. Grischuk- A."]
+[Result "*"]
+[FEN "8/p4pk1/2Pp4/1p3R2/r7/3K2P1/P7/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Rf2 $1 ( { With the idea of } 2. Rc2 { in order to place the rook behind the passed pawn. } ) 
+ ( { a) Instead, } 1. Rxb5 Ra6 2. c7 Rc6 ) 
+ ( { b) Or } 1. Rc5 dxc5 2. c7 Rxa2 3. c8=Q $11 Ra3 4. Ke4 Rxg3 { followed by } 5. -- Rg6 { , lets Black defend himself. } ) 
+Ra3+ ( { Or } 1... Rc4 2. Rc2 { etc. } ) 
+2. Kd4 Ra4+ 3. Kd5 Rc4 4. Kxd6 { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714270/"]
+[Date "????.??.??"]
+[Round "27.16"]
+[White "Chapter 3 Exercises"]
+[Black "Position 76- Topalov- V. vs. Aronian- L."]
+[Result "*"]
+[FEN "8/6k1/2R5/3p1P2/3P4/p3K3/7r/8 b - - 0 1"]
+
+ { Indicate your 1st move + short plan. } 1... { -KEY- } Rh6 $1 { Preparing ...Ra6 in order to place the rook behind the passed pawn. } ( { Instead, after } 1... a2 $2 2. Ra6 { White achieves the same thing with a draw. } ) 
+2. Rc1 $2 ( { The only chance was } 2. Rc7 Kf6 3. Rc5 $1 { - Baburin; e.g. } Rh1 4. Ra5 Ra1 5. Kd3 $1 { heading for the a-pawn, when White just holds the pawn endgame in the end. } ) 
+Ra6 ( { Concluding the plan. Instead } 2... a2 $2 { invites } 3. Rc7 $1 { heading for a7, in similar fashion to the } a2 $2 { line. } ) 
+3. Kd3 a2 4. Ra1 Kf6 { Thanks to the passive enemy rook, Black wins comfortably. } 5. Kc3 Kxf5 6. Kb2 Ke4 7. Re1+ Kxd4 8. Ka1 Kc3 9. Rc1+ Kd2 10. Rc2+ $5 Kd3 $1 11. Rc3+ Ke4 12. Rh3 d4 ( { The game concluded } 12... d4 13. Rh4 Kd3 14. Rh3 Kc4 15. Rc3 Kd5 16. Rh3 Rb6 $1 17. Kxa2 Kc4 18. Rh1 Kc3 { and White resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714271/"]
+[Date "????.??.??"]
+[Round "27.17"]
+[White "Chapter 3 Exercises"]
+[Black "Position 77- Svidler- P. vs. Korchnoi- V."]
+[Result "*"]
+[FEN "8/6p1/p2R2Pk/1pK4P/1P6/8/1P3r2/8 b - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1... { -KEY- } Rc2+ $1 { A timely intermediate check. } ( { a) Instead, after } 1... Rxb2 $2 2. Rxa6 ) 
+ ( { b) Or } 1... Rf5 $2 2. Kb6 Rf4 3. Ka5 Kxh5 4. Rxa6 Rf5 5. Rb6 { White should win. } ) 
+2. Kb6 Rxb2 3. Kxa6 ( { If } 3. Ka5 { then } Ra2 ) 
+Rxb4 4. Rd7 ( { In view of } 4. Rd7 Rb1 5. Ka5 b4 6. Ka4 { etc., a draw was agreed. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714272/"]
+[Date "????.??.??"]
+[Round "27.18"]
+[White "Chapter 3 Exercises"]
+[Black "Position 78 by Sozin- V."]
+[Result "*"]
+[FEN "K7/2k5/R7/8/5p2/6p1/8/8 w - - 0 1"]
+
+ { Find the best continuation. (5-6 moves) } 1. { -KEY- } Rg6 $1 { The rook behind the passed pawn(s). } Kd7 2. Rg4 ( { In order to eliminate one of the pawns before Black's king gets closer. Any other move is too slow, for example, } 2. Kb7 $2 Ke7 3. Kc6 Kf7 4. Rg4 Kf6 5. Kd5 Kf5 6. Rg8 f3 $1 7. Kd4 f2 8. Ke3 f1=N $1 9. Ke2 Nh2 { with a draw, as pointed out by Ckmt98. } ) 
+g2 ( { Or } 2... Ke6 3. Rxf4 Ke5 4. Rg4 ) 
+3. Rxg2 Ke6 4. Rg5 $1 { Cutting the king off. } f3 5. Rg3 f2 6. Rf3 { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714273/"]
+[Date "????.??.??"]
+[Round "27.19"]
+[White "Chapter 3 Exercises"]
+[Black "Position 79- Tal- M. vs. Zaitsev- I."]
+[Result "*"]
+[FEN "8/8/6pk/1R6/4r3/2K5/8/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Rb1 $1 { Preparing a frontal attack. } ( { Instead, the game went } 1. Kd3 $2 Re1 $1 { (forcing White's king to move away) } 2. Kd2 Re8 3. Rb1 g5 4. Rh1 Kg6 5. Rg1 Re5 $1 { (now the move 6 Kd4 is impossible) } 6. Kd3 Kf5 7. Kd4 Re4 8. Kd3 g4 { and White resigned. } ) 
+g5 2. Kd3 Re8 3. Rh1+ Kg6 4. Rg1 Re5 5. Kd4 $1 { White draws - Panchenko. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714274/"]
+[Date "????.??.??"]
+[Round "27.20"]
+[White "Chapter 3 Exercises"]
+[Black "Position 80- Fish- G. vs. Dinstuhl- V."]
+[Result "*"]
+[FEN "8/5p2/5kp1/R6p/5K1P/P4PP1/4r3/8 w - - 0 1"]
+
+ { Indicate your 1st move + short plan. } 1. { -KEY- } Ra6+ $1 { Preparing Rd6-d3 in order to keep all the pawns defended, in similar style to Example 224 (Morovic-Gulko). } Kg7 ( { Or } 1... Ke7 2. Ra4 { preparing Re4 in similar fashion. } ) 
+2. Rd6 ( { Also possible is } 2. Rb6 { or } 2. Rc6 { in similar fashion, as noticed by Neilthesculptor. } ) 
+Ra2 3. Rd3 Kf6 4. Re3 Ra1 5. Ke4 ( { More precise was } 5. Rc3 $1 { so that after } Ra2 6. Ke4 g5 { ( or } Rg2 7. f4 $1 { with similar play as in the game ), White can give check with } 7. Rc6 { following } Kg7 8. hxg5 Rxa3 9. Rh6 $1 { White wins another pawn, and probably the game as well. } ) 
+Rg1 ( { Missing } 5... g5 $1 { in the spirit of active defense. After } 6. hxg5 Kxg5 { , White´s idea of 'rook defending pawns' by } 7. f4 { would run into } Kg4 { , when even ...Rg1xg3 is in the air. } ) 
+ ( { As for } 6... Rg1 6. Kd4 { , just one idea for Black would be } f5 { intending f5-f4 in order to release the h-pawn. } ) 
+6. f4 $1 Ra1 ( { Or } 6... Rd1 7. Rd3 { building a bridge. } ) 
+7. Kd4 Kf5 8. Kc4 Kg4 9. Kb4 { Black resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714275/"]
+[Date "????.??.??"]
+[Round "27.21"]
+[White "Chapter 3 Exercises"]
+[Black "Position 81- Thomassen- J. vs. Tjomsland- S."]
+[Result "*"]
+[FEN "8/8/7R/8/8/3p4/1K1kr3/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Rh1 $1 { Simplest, so as to prevent 1...Kd1+. } ( { a) White could also play } 1. Kb3 { ; e.g. } Kd1 ( { or } 1. Rh1 Kc1 2. Rh1 ) 
+2. Kc3 d2 3. Kd3 $1 ) 
+ ( { b) Instead, the game went } 1. Rh3 $2 Kd1 2. Kc3 d2 3. Rh1 ( { or } 3. Kd3 Kc1 $1 { when White is missing a rear check } ) 
+Re1 4. Rh2 Re3 5. Kb2 { upon which } Rd3 $1 { followed by the king's escape, would have won for Black. } ) 
+Re1 ( { Or } 1... Rg2 2. Kb3 $1 { with a waiting game. } ) 
+2. Rh2+ Ke3 3. Rh3+ { An annoying side attack. } Ke2 4. Rh2+ Kf3 5. Rh3+ { White draws - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714276/"]
+[Date "????.??.??"]
+[Round "27.22"]
+[White "Chapter 3 Exercises"]
+[Black "Position 82- Ljubojevic- L. vs. Smeets- J."]
+[Result "*"]
+[FEN "8/1R6/2pK3r/2P5/2k5/8/8/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Kd7 $1 { Preparing a frontal attack. } ( { a) } 1. Kc7 Kxc5 2. Rb1 $1 Rh7 3. Kc8 { followed by frontal checks, worked as well } ) 
+ ( { b) Whereas the game saw } 1. Ke5 $2 Kxc5 2. Ke4 ( { or } 2. Rb1 Rh4 3. Rc1 Rc4 4. Rb1 Rb4 5. Rc1 Kb5 { and wins thanks to White's cut-off king } ) 
+Kc4 $1 3. Ke3 Kc3 4. Rc7 Re6 5. Kf4 Kc4 $1 6. Kf5 Rh6 7. Ke4 c5 8. Ke3 Rd6 $1 { and Black soon won. } ) 
+Kxc5 2. Rb1 Rh7+ 3. Ke6 Rh6+ ( { Or } 3... Rh4 4. Kd7 $1 Rc4 5. Rh1 ) 
+4. Kd7 $1 { Black can't progress - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714277/"]
+[Date "????.??.??"]
+[Round "27.23"]
+[White "Chapter 3 Exercises"]
+[Black "Position 83- Rosberg- S. vs. Al Sayed- MN."]
+[Result "*"]
+[FEN "6r1/8/4k3/7R/KP6/8/8/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Rh7 $1 { Cutting the king off from the seventh rank. } ( { Instead, the game went } 1. Rc5 $2 Kd6 2. Kb5 Rb8 $1 { (Black is just in time to launch a frontal attack) } 3. Kc4 Rh8 4. Kb5 Rb8 $1 5. Ka4 Ra8 6. Ra5 Rg8 7. Ra6 Kc7 { with a draw later on. } ) 
+Kd6 2. Ka5 Ra8+ 3. Kb6 Rb8+ 4. Rb7 $1 Rc8 5. b5 { White wins - Baburin. Indeed, there is no defence against the plan of Rh7, Kb7, b5-b6 etc. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714278/"]
+[Date "????.??.??"]
+[Round "27.24"]
+[White "Chapter 3 Exercises"]
+[Black "Position 84- Morales- M. vs. Pino- M."]
+[Result "*"]
+[FEN "6k1/1R3p1p/p3p1p1/P3P3/1P3PP1/r7/6K1/8 b - - 0 1"]
+
+1... Rb3 $2 { Black played 1...Rb3 here - why was that a mistake? What should she have played instead? } ( { a) } 1... Kg7 { was also bad due to } 2. g5 $1 { followed by a king march to the opposite flank. b) The active } h5 $1 { was called for; e.g. } 2. gxh5 gxh5 3. Rb6 Rb3 4. Rxa6 Rxb4 { and with a passed pawn of her own, Black shouldn't lose. } ) 
+2. { -KEY- } b5 $1 ( { White creates a duo of passed pawns by means of a little combination. By the way, a different move order with } 2. f5 $5 { first and only then b4-b5 also works, as observed by Sai_Hikaru. } ) 
+axb5 3. a6 Ra3 4. a7 Kg7 5. f5 $1 ( { Instead, the game saw } 5. Kf2 $2 { when } b4 $1 6. f5 gxf5 7. gxf5 b3 8. fxe6 b2 9. e7 Rxa7 $1 10. e8=Q $11 Rxb7 { would have forced White to play } 11. Qd8 b1=Q $11 12. Qf6 $1 { with a perpetual. } ) 
+gxf5 6. gxf5 Kh6 7. Rxf7 exf5 8. e6 Kg6 9. Rb7 { White wins with e6-e7 and Rb8 next. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714279/"]
+[Date "????.??.??"]
+[Round "27.25"]
+[White "Chapter 3 Exercises"]
+[Black "Position 85- Flores Rios- M. vs. Lemos- D."]
+[Result "*"]
+[FEN "6r1/4k3/8/8/1PKR4/8/8/8 w - - 0 1"]
+
+ { What result is produced by: a) 1.b5 and b) 1.Kc5? } 1. { -KEY- } Kc5 $1 ( 1. b5 $2 { This lets Black save himself by a bridge. } Rd8 $1 { Enabling Philidor's defence. } 2. Rh4 Kd6 3. Rh7 Rd7 { Enabling Philidor's defence. } 4. Rh8 Rg7 5. Kb4 Kc7 6. Ka5 Kb7 { A draw was soon agreed. } ) 
+Rc8+ 2. Kb6 Rb8+ 3. Kc7 { and White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714280/"]
+[Date "????.??.??"]
+[Round "27.26"]
+[White "Chapter 3 Exercises"]
+[Black "Position 86- Ipatov- A. vs. Vajda- L."]
+[Result "*"]
+[FEN "5K2/R4P2/8/2Pk4/8/p5r1/8/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Ra6 $1 { Building a bridge. } ( { Instead, the game went } 1. Ke7 $2 Re3 2. Kf6 Rf3 3. Kg7 Rg3 4. Kh6 Rf3 { and was later drawn. } ) 
+Kxc5 2. Ke7 Re3+ 3. Re6 Rf3 { Here and on the next move, an exchange of rooks lets White queen with check. } 4. Rf6 a2 5. Rxf3 a1=Q 6. f8=Q { White wins - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714281/"]
+[Date "????.??.??"]
+[Round "27.27"]
+[White "Chapter 3 Exercises"]
+[Black "Position 87- Oleksienko- M. vs. Grigoriants- S."]
+[Result "*"]
+[FEN "6k1/1R6/8/5K2/P7/8/r6P/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Rb4 $1 { White prefers a side angle for his rook, so as to keep it active. } ( { Instead, the game went } 1. Ra7 $2 Rxh2 2. a5 Kf8 3. a6 Rh6 $1 { (tying the enemy rook to the pawn) } 4. Ke5 Kg8 5. Kd5 Rf6 6. Ra8 Kg7 7. Kc5 Rf5 8. Kb6 { and a draw was agreed. } ) 
+Rxh2 ( { Or } 1... Kf7 2. h4 Ra1 3. h5 Kg7 4. Ke5 { heading for the opposite flank. } ) 
+2. Ke6 Kf8 3. a5 { White wins by again transferring his king to the opposite flank - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714282/"]
+[Date "????.??.??"]
+[Round "27.28"]
+[White "Chapter 3 Exercises"]
+[Black "Position 88- Short- N. vs. Amonatov- F."]
+[Result "*"]
+[FEN "8/R7/6k1/P5r1/8/4K3/8/8 b - - 0 1"]
+
+ { Find the best continuation. (2-3 moves) } 1... { -KEY- } Kh6 $1 { In such positions the pawn should be controlled from the side, as we saw in Example 217 (Kamsky-Karpov). } ( { Instead, the game went } 1... Kf6 $6 2. a6 Ra5 $2 ( { The last chance was } 2... Rd5 { - Baburin. } ) 
+3. Ra8 Ra4 4. Kd3 Kg7 5. Kc3 Rf4 6. Ra7 Kg6 7. Rb7 Ra4 8. a7 Kf6 9. Kb3 Ra1 10. Kc4 Ke6 11. Kc5 { and Black resigned. } ) 
+ ( { But } 1... Rf5 $5 { intending } 2. a6 Rf6 $1 { in a similar fashion also works, as observed by hobbsey. } ) 
+2. a6 Rg6 { Black defends - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714283/"]
+[Date "????.??.??"]
+[Round "27.29"]
+[White "Chapter 3 Exercises"]
+[Black "Position 89- Fischer- RJ. vs. Keres- P."]
+[Result "*"]
+[FEN "7k/8/4b1BP/6K1/5P2/8/8/8 w - - 0 1"]
+
+ { Indicate your 1st move + short plan. } 1. { -KEY- } Bh5 $1 { Preparing a bridge on g4 in order to enable f5-f6. Later on, a further bridge on the a2-g8 diagonal will help the pawn continue its advance. } Kh7 2. Bg4 Bc4 ( { Or } 2... Bxg4 3. Kxg4 Kxh6 4. Kf5 { - 'Bulletin'. } ) 
+3. f5 Bf7 4. Bh5 Bc4 5. Bg6+ Kg8 6. f6 { Here Black resigned. Let's see a possible continuation. } Bb3 ( { Or } 6... Kh8 7. Kf4 Bg8 8. Ke5 Ba2 9. Kd6 Bg8 10. Ke7 Bd5 11. Bh5 $1 Kh7 12. Bg4 Kxh6 13. Be6 { and wins - Barcza. } ) 
+7. Kf4 Kh8 8. Ke5 Bc4 9. Kd6 Bb3 10. Ke7 Bc4 11. Bf7 Bd3 12. Be8 $1 { Preparing a bridge on e6. } Bc4 13. Bd7 Bg8 14. Be6 $1 Bh7 15. f7 { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714284/"]
+[Date "????.??.??"]
+[Round "27.30"]
+[White "Chapter 3 Exercises"]
+[Black "Position 90- Carlsen- M. vs. Aronian- L."]
+[Result "*"]
+[FEN "6k1/p4p1p/1p3p1P/3PpP2/8/2r3P1/P4PK1/4R3 w - - 0 1"]
+
+ { Indicate your 1st move + short plan. } 1. { -KEY- } Re4 $1 { Heading for the seventh rank. } ( { a) Less convincing was } 1. Rd1 $6 Kf8 ) 
+ ( { b) Or } 1. d6 $2 Kf8 2. Rd1 Ke8 3. d7 Kd8 4. Rd6 Rc7 { - Marin. } ) 
+Kf8 ( { a) After } 1... Rc7 2. Rg4 Kh8 ( 2... Kf8 3. Rg7 { leads to the game } ) 
+3. d6 Rd7 4. Rc4 Rd8 5. d7 ) 
+ ( { b) Or } 1... Rc8 2. Rg4 Kh8 3. d6 Rd8 4. Rc4 Kg8 5. Kf3 Kf8 6. Rc6 { preparing Ke4-d5, White wins. } ) 
+ ( { Finally, also after } 1... Rd3 2. Rg4 { heading for g7, Black has a difficult time. } ) 
+2. Rg4 Rc7 3. Rg7 b5 4. Rxh7 Kg8 5. Rg7+ Kh8 ( { After } 5... Kf8 6. Rg4 { the h-pawn decides. } ) 
+6. d6 ( 6. Kf3 { first is also possible, as noticed by chessbishop_2024. } ) 
+Rd7 7. Kf3 $1 b4 8. Ke4 Rxd6 { Forced, because of the threat of Kd5-c6. } 9. Rxf7 Ra6 10. g4 $1 { Creating a second passed pawn. } Kg8 11. h7+ Kh8 12. g5 $1 fxg5 13. f6 { In view of Kf5-g6 next, Black resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714285/"]
+[Date "????.??.??"]
+[Round "27.31"]
+[White "Chapter 3 Exercises"]
+[Black "Position 91- Lie- K. vs. Sepp- O."]
+[Result "*"]
+[FEN "8/8/8/2p2k2/2K5/1P6/2R5/4r3 b - - 0 1"]
+
+ { Find the best continuation. (2-3 moves) } 1... { -KEY- } Re3 $1 { By tying the white king to the b-pawn in this way, Black prevents his own king from being cut off later on. } ( { a) Instead, the game went } 1... Rb1 $2 2. Rc3 $1 Ke6 3. Kxc5 Kd7 4. Kb5 $1 Rg1 5. b4 Rg6 6. Ka5 { and White soon won. } ) 
+ ( { b) Incidentally, } 1... Re5 $2 { would lose as well after } 2. Kb5 Ke6 3. Rxc5 Re1 4. b4 ) 
+2. Rb2 Ke6 $1 3. Kxc5 Kd7 4. Kb6 Kc8 5. b4 ( { Or } 5. Ka7 Re7 ) 
+Kb8 { Black defends. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714286/"]
+[Date "????.??.??"]
+[Round "27.32"]
+[White "Chapter 3 Exercises"]
+[Black "Position 92- Novikov- S. vs. Jakovenko- D."]
+[Result "*"]
+[FEN "1R6/1P6/4p3/7p/4k1p1/1r4P1/5K2/8 w - - 0 1"]
+
+ { Between 1.Re8 and 1.Kg2, which one is bad and for what reason? } 1. { -KEY- } Kg2 $1 { The game continuation. } ( 1. Re8 $2 { This lets Black decide the battle by an intermediate check. } Rb2 $1 ( { But not } 1. Kg2 Rxb7 $2 2. Rxe6 { with a draw. } ) 
+2. Kg1 Rxb7 3. Rxe6 Kf3 { Black wins - Deviatkin. } ) 
+Rb2+ 2. Kf1 e5 3. Kg1 Ke3 4. Kh1 e4 5. Kg1 Ke2 6. Kg2 e3 7. Kg1 Rb6 8. Kh2 Rb5 9. Kg2 Rb3 10. Kg1 Rb2 11. Kh1 Ke1 12. Re8 Rxb7 13. Rxe3+ Kf2 14. Ra3 { and was later drawn. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714287/"]
+[Date "????.??.??"]
+[Round "27.33"]
+[White "Chapter 3 Exercises"]
+[Black "Position 93- Xu Jun vs. Cao Sang"]
+[Result "*"]
+[FEN "8/8/7k/3P4/7r/6R1/4K3/8 b - - 0 1"]
+
+1... Rd4 $2 { Black played 1...Rd4 here - why was that a mistake? What was preferable? } 2. { -KEY- } Rd3 ( { Now White is able to decide matters by a bridge. Correct was } 1. Rd3 Ra4 $1 { with a waiting game; e.g. } 2. d6 Ra2 3. Kd1 Ra1 4. Kc2 Ra2 { and White can't progress - Baburin. } ) 
+Re4+ 3. Kf3 Re8 4. Re3 $1 { The key move, which helps the king to get closer to the pawn. } Rd8 5. Ke4 Kg6 6. Rf3 $1 { Cutting the enemy king off. } Kg7 7. Ke5 Ra8 8. Ke6 { Black resigned. } ( 8. d6 Rf8 9. Rxf8 Kxf8 10. Kf6 $1 { was also possible. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714288/"]
+[Date "????.??.??"]
+[Round "27.34"]
+[White "Chapter 3 Exercises"]
+[Black "Position 94- Fischer- RJ. vs. Portisch- L."]
+[Result "*"]
+[FEN "3k4/2r5/4R3/3K4/2P5/8/8/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Rd6+ $1 ( { a) Exploiting the fact that } 1. Rd6 Kc8 $2 { fails to } 2. Rc6 { White forces the enemy king to the wrong side of the pawn. } ) 
+ ( { b) In contrast, } 1. c5 Kc8 $1 2. Rc6 Kb7 ) 
+ ( { c) Or } 1. Rc6 Rh7 { leads to a draw - Panchenko. } ) 
+Ke7 2. c5 Rc8 ( { White also wins after } 2... Rd7 3. Kc6 Ra7 4. Kb6 Ra1 5. Rd2 ) 
+3. c6 Rc7 4. Rh6 Kd8 5. Rh8+ Ke7 6. Ra8 $1 { Finding himself in zugzwang, Black resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714289/"]
+[Date "????.??.??"]
+[Round "27.35"]
+[White "Chapter 3 Exercises"]
+[Black "Position 95 by Kasparian- G."]
+[Result "*"]
+[FEN "1K6/3k4/4R3/3PP3/8/8/8/r7 b - - 0 1"]
+
+ { Find the best continuation. (4-5 moves) } 1... { -KEY- } Rb1+ $1 { A timely intermediate check to displace the enemy king before attacking his pawns. } ( { Instead, after } 1... Ra5 $2 2. Rd6 Ke7 3. Kc7 $1 -- { followed by } 4. Kb6 -- { and } 5. Rh6 { , White wins. } ) 
+2. Ka7 Rb5 3. Rd6+ Kc7 $1 ( { a) Avoiding both } 3... Kc8 $2 4. e6 ) 
+ ( { b) And } 3... Ke7 $2 4. Ka6 Rc5 5. Kb6 ) 
+4. Rc6+ Kd8 $1 ( { But not } 4... Kd7 $2 5. e6 $1 Ke7 6. Rc7 -- { and } 7. Rd7 { next - Panchenko. } ) 
+5. Rd6+ Kc7 { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12714290/"]
+[Date "????.??.??"]
+[Round "27.36"]
+[White "Chapter 3 Exercises"]
+[Black "Position 96- Alekhine- A. vs. Tartakower- S."]
+[Result "*"]
+[FEN "2k5/2b5/pp6/4p3/1P4P1/1KP2p2/1P1R4/8 w - - 0 1"]
+
+ { Find the best continuation. 3-4 moves } 1. { -KEY- } Rd5 $1 { An ingenious move in order to place the rook behind the enemy passed pawns. } ( { Other tries are less convincing; e.g. } 1. Kc2 e4 2. Rd4 e3 3. Kd1 e2 4. Kd2 Bg3 5. Re4 Bh4 $1 ) 
+ ( { or } 1. g5 e4 2. Rf2 Kd7 3. g6 Be5 4. Kc2 Ke6 ) 
+ ( { while } 1. Rh2 e4 2. Rh8 Kd7 3. Rf8 { leads to a worse version of the game. } ) 
+e4 ( { Or } 1... f2 2. Rd1 e4 3. Kc2 Bf4 4. Rf1 e3 5. Kd3 { etc. } ) 
+2. Rf5 Bg3 3. g5 Kd7 ( { A sacrifice with } 3... e3 { fails to } 4. Rxf3 e2 5. Re3 e1=Q $11 6. Rxe1 Bxe1 7. g6 ) 
+4. g6 Ke6 5. g7 $1 Kxf5 6. g8=Q Bf4 7. Qf7+ Kg4 8. Qg6+ Bg5 9. Qxe4+ Kg3 10. Qg6 Kg4 11. Qxb6 { Black resigned. } 
+ *

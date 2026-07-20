@@ -1,0 +1,575 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713704/"]
+[Date "????.??.??"]
+[Round "18.1"]
+[White "Chapter 2 Exercises"]
+[Black "Position 25- Karjakin- S. vs. Morozevich- A."]
+[Result "*"]
+[FEN "8/1p1r4/PR6/1P4kp/2K3p1/6P1/8/8 b - - 0 1"]
+
+ { Between 1...Rc7+ and 1...bxa6, which one is bad and for what reason? } 1... { -KEY- } bxa6 ( 1... Rc7 $2 { This lets White decide the battle by creating a powerful pair of connected passed pawns. } 2. Rc6 $1 bxc6 3. b6 Rc8 4. b7 Rb8 5. Kc5 h4 6. a7 Rxb7 7. a8=Q $11 Rh7 8. Qg8 Kh6 9. gxh4 { White soon won. } ) 
+2. bxa6 Ra7 $1 3. Rb5+ Kh6 4. Ra5 h4 5. gxh4 g3 6. Kb5 g2 7. Ra1 Kh5 { With a draw - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713705/"]
+[Date "????.??.??"]
+[Round "18.2"]
+[White "Chapter 2 Exercises"]
+[Black "Position 26- Tzermiadianos- A. vs. Iuldachev- S."]
+[Result "*"]
+[FEN "8/1pk2p2/2p4p/p3n1p1/PP6/2P2BPP/5P2/5K2 w - - 0 1"]
+
+1. { -KEY- } Ke2 $4 { Why was 1.Ke2 a mistake? } Nxf3 2. Kxf3 b5 $1 { A decisive breakthrough. } 3. Ke4 bxa4 4. Kd3 axb4 5. cxb4 Kb6 { White resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713706/"]
+[Date "????.??.??"]
+[Round "18.3"]
+[White "Chapter 2 Exercises"]
+[Black "Position 27- Timman- J. vs. Hellsten- J."]
+[Result "*"]
+[FEN "5k2/p3qp2/1p3Rrp/8/3Q2p1/P3P3/1P4PP/1K6 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Rxg6 ( 1. Rc6 $5 { is a more spectacular way to the goal, e.g. } Qe8 2. Qh8 Rg8 3. Qxh6 Rg7 4. Qh8 Rg8 5. Qc3 $1 Qe4 6. Ka1 { , when Black's unsafe king spells the end. } ) 
+fxg6 2. Qh8+ $1 { Transposing to a pawn ending where Black's deficient pawn majority implies an easy win for White. } Kf7 3. Qh7+ Kf6 4. Qxe7+ Kxe7 5. Kc2 Kd6 6. Kd3 Ke5 7. e4 h5 8. g3 { Black resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713707/"]
+[Date "????.??.??"]
+[Round "18.4"]
+[White "Chapter 2 Exercises"]
+[Black "Position 28"]
+[Result "*"]
+[FEN "8/7p/1p1k2p1/1P6/2PK4/7P/8/8 b - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1... { -KEY- } g5 $1 { The candidate first. } ( { In contrast, after } 1... h5 $4 2. h4 $1 Ke6 3. c5 { White even wins; e.g. } bxc5 4. Kxc5 g5 5. b6 Kd7 6. hxg5 h4 7. b7 Kc7 8. g6 h3 9. g7 h2 10. b8=Q $1 Kxb8 11. g8=Q ) 
+2. Ke4 ( { White actually has a study-like saving path here: } 2. c5 $1 bxc5 3. Kc4 h5 4. b6 g4 5. hxg4 hxg4 6. Kb5 $1 g3 7. Ka6 g2 8. b7 Kc7 9. Ka7 g1=Q $11 { unfortunately for Black, the c5-pawn prevents this move from coming with check } 10. b8=Q Kd7 11. Qb5 Kd6 { and while the tablebases signal a draw here, I suspect that White will have some difficulties in practical play. } ) 
+h5 ( { But not } 2... Kc5 $2 3. Kf5 Kxc4 4. Kxg5 Kxb5 5. Kh6 Kc4 6. Kxh7 b5 7. h4 b4 8. h5 b3 9. h6 b2 10. Kg8 b1=Q $11 11. h7 { with a draw. } ) 
+3. Kf5 g4 4. hxg4 hxg4 5. Kxg4 Kc5 ( { Black wins; e.g. } 5... Kc5 6. Kf3 Kxc4 7. Ke3 Kxb5 8. Kd3 Ka4 ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713708/"]
+[Date "????.??.??"]
+[Round "18.5"]
+[White "Chapter 2 Exercises"]
+[Black "Position 29- Lema- A. vs. Adriano- A."]
+[Result "*"]
+[FEN "8/pp6/2p1kppp/3p4/3P1PP1/2P1K2P/PP6/8 b - - 0 1"]
+
+1... { -KEY- } h5 $2 { For what reason was 1... h5 bad? } 2. f5+ $1 ( { a) Instead, the game went } 2. gxh5 $2 gxh5 3. h4 $2 ( { a1) correct was } 3. Kf3 { followed by Ke3-f3; } ) 
+Kf5 4. Kf3 a6 5. a3 b6 6. b3 a5 7. c4 ( { a2) or } 7. a4 b5 ) 
+a4 $1 8. cxd5 axb3 { and Black soon prevailed. } ) 
+Kf7 ( { Even worse is } 2... gxf5 3. gxh5 -- { followed by } 4. Kf4 ) 
+3. fxg6+ Kxg6 4. gxh5+ Kxh5 ( { Or } 4... Kg5 $5 5. h6 Kxh6 6. Kf4 { etc. } ) 
+5. Kf4 Kg6 6. h4 { The outside passed pawn decides. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713709/"]
+[Date "????.??.??"]
+[Round "18.6"]
+[White "Chapter 2 Exercises"]
+[Black "Position 30- Leko- P. vs. Ivanchuk- V."]
+[Result "*"]
+[FEN "8/3k1pp1/3P4/4P1p1/2p5/7P/5PP1/5K2 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } g3 $1 { With the simple idea of f2-f4, securing the protected passed pawn on d6. Here Black resigned; let's see a possible continuation: } Ke6 2. f4 gxf4 3. gxf4 f6 4. Ke2 ( 4. h4 { is also reasonable, ruling out g7-g5. } ) 
+ ( 4. f5 { is possible as well, although before opting for this move, we need to have visualized that after } Kd7 5. e6 Kxd6 { followed by ...g6, both enemy passed pawns can be coped with. For instance, } 6. Ke2 g6 7. fxg6 Kxe6 8. Ke3 f5 9. h4 c3 10. Kd3 f4 11. Kxc3 f3 12. Kd3 { etc. } ) 
+fxe5 ( { Or } 4... g5 5. fxg5 fxe5 6. g6 { etc. } ) 
+5. fxe5 { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/15409911/"]
+[Date "????.??.??"]
+[Round "18.7"]
+[White "Chapter 2 Exercises"]
+[Black "Position 31- Hoi- C. vs. Hellsten- J."]
+[Result "*"]
+[FEN "3k4/7p/1NK1p1p1/4Pp2/5P2/6PP/5n2/8 b - - 0 1"]
+
+ { Find the best continuation (3-4 moves) . } 1... { -KEY- } Ne4 $1 { Preparing the creation of a passed pawn. } ( 1... Nxh3 $2 2. Kd6 { was less to the point. } ) 
+2. g4 fxg4 3. hxg4 h5 $1 4. f5 $2 ( 4. gxh5 gxh5 5. Nc4 { was called for, reducing the material on the board. After } h4 6. Ne3 h3 7. Ng4 Ke7 8. Nh2 Kf7 9. Kd7 { ! White restricts Black's further progress, for example } Nc5 10. Kd6 Nd3 11. f5 { ! } exf5 12. e6 Ke8 13. e7 { and the king soon finishes off Black´s remaining pawns. } ) 
+h4 { Another path to victory was } ( 4... exf5 5. gxf5 gxf5 6. Nd5 h4 7. Nf4 Ng5 { , for example } 8. Nd3 { or } ( 7... h4 7. e6 h3 9. Kd6 Ne4 10. Ke5 h2 ) 
+h3 9. Nf2 h2 10. Kd5 Ne4 $1 11. Nh1 Ke7 12. Kd4 Ke6 13. Ke3 Kxe5 14. Kf3 f4 15. Kg2 Ng3 { - Hecht. } ) 
+5. fxg6 Ke7 $1 { Avoiding a later check on d6. In the game I preferred } ( 5... Ke8 $2 { , missing } 6. Nc4 $1 Ng5 { or } ( 6... h3 7. Nd6 $1 ) 
+7. Nd2 Kf8 8. Kd7 { and the game was drawn later on. } ) 
+6. Nc4 ( 6. Nc8 Kf8 { is not constructive for White. } ) 
+h3 7. Nd6 h2 $1 8. g7 h1=Q 9. g8=Q Nf6+ { Black wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713711/"]
+[Date "????.??.??"]
+[Round "18.8"]
+[White "Chapter 2 Exercises"]
+[Black "Position 32- Andersson- U. vs. Sadler- M."]
+[Result "*"]
+[FEN "8/8/1pp1k3/p3Pp1p/2K2P1P/1P6/P7/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } a4 $1 { Softening up Black's queenside pawns, after which the protected passed pawn on e5 should take its toll. } ( 1. b4 { first is also okay. } ) 
+Ke7 2. b4 axb4 ( { Or } 2... Ke6 3. bxa5 bxa5 4. Kc5 Kd7 5. Kb6 { etc. - Ftacnik. } ) 
+3. Kxb4 Ke6 4. a5 ( { In view of } 4. a5 bxa5 5. Kxa5 Kd5 6. Kb4 c5 7. Kb3 $1 c4 8. Kc3 Kc5 9. e6 Kd6 10. Kxc4 Kxe6 11. Kc5 { etc., Black resigned. } ) 
+ ( { Actually, } 6. Kb6 $5 c5 7. e6 $1 { works too, as observed by SolomonD. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713712/"]
+[Date "????.??.??"]
+[Round "18.9"]
+[White "Chapter 2 Exercises"]
+[Black "Position 33- Averbakh- Y. vs. Bebchuk- E."]
+[Result "*"]
+[FEN "8/1p4p1/5p1p/1k3P2/6PP/3KP3/8/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } e4 $1 { Preparing a decisive breakthrough. } Kc6 2. e5 fxe5 ( { Or } 2... Kd5 3. e6 { and the protected passed pawn decides. } ) 
+3. g5 hxg5 ( { If } 3... Kd6 { then } 4. f6 $1 { anyway. } ) 
+4. f6 $1 ( { In view of } 4. f6 gxf6 5. h5 { Black resigned. } ) 
+ ( { In contrast, } 4. h5 $2 { runs into } Kd6 $1 5. f6 Ke6 6. fxg7 Kf7 { , when Black's separated passed pawns outsmart White's protected ones after } 7. h6 g4 8. Ke4 b5 { etc. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713713/"]
+[Date "????.??.??"]
+[Round "18.10"]
+[White "Chapter 2 Exercises"]
+[Black "Position 34- Sutovsky- E. vs. Smirin- I."]
+[Result "*"]
+[FEN "8/5k1p/4n1p1/3K2P1/p7/8/8/2B5 b - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1... { -KEY- } Nxg5 $1 { A clever move that leaves the bishop helpless against the three passed pawns. } ( { The lengthier } 1... a3 $5 2. Bxa3 Nxg5 { also works, provided that from this point, Black is on their guard against any liquidation sacrifices. } ) 
+2. Bxg5 a3 3. Bd2 a2 4. Bc3 h5 $1 ( { In view of } 4... h5 5. Ke5 h4 6. Kf4 g5 7. Kxg5 ( { or } 6... h5 6. Kg4 Ke6 { heading for b1; } ) 
+h3 8. Be5 h2 { White resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713714/"]
+[Date "????.??.??"]
+[Round "18.11"]
+[White "Chapter 2 Exercises"]
+[Black "Position 35- Vachev- V. vs. Radulski- J."]
+[Result "*"]
+[FEN "6k1/5pp1/4p2p/1b1p4/1p3PP1/pPqPP1KP/P3Q3/5B2 b - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1... { -KEY- } Ba4 $1 { The bishop helps in a decisive breakthrough. } ( 1... Qb2 { followed by the same idea of ...Ba4 also works, as noticed by dantenuken. } ) 
+2. bxa4 ( { Or } 2. Qd1 Bxb3 { and the a-pawn decides. } ) 
+b3 ( { In view of } 2... b3 3. axb3 Qb2 { White resigned - 'Chess Today'. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713715/"]
+[Date "????.??.??"]
+[Round "18.12"]
+[White "Chapter 2 Exercises"]
+[Black "Position 36"]
+[Result "*"]
+[FEN "8/p7/8/5K2/4p1P1/4k3/P7/8 b - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1... { -KEY- } Kd4 $1 { The right square in view of the coming pawn race. } ( { In contrast, } 1... Kf3 $2 2. g5 e3 3. g6 e2 4. g7 e1=Q $11 5. g8=Q $11 Qe4 6. Kf6 Qh4 7. Ke5 Qf4 8. Kd5 { leads to a draw. } ) 
+2. g5 e3 3. g6 e2 4. g7 e1=Q 5. g8=Q Qf1+ 6. Kg6 ( { Or } 6. Ke6 Qc4 ) 
+Qg2+ 7. Kh7 Qxg8+ 8. Kxg8 Kc3 ( 8... a5 $2 { , in the spirit of gaining space, would let White's king approach successfully after } 9. Kf7 Kc3 10. Ke6 Kb2 11. Kd5 Kxa2 12. Kc4 { , etc. } ( { Black wins; e.g. } 8... Kc3 9. Kf7 Kb2 10. a4 ( { (or } 9... Kc3 9. Ke6 Kxa2 11. Kd5 Kb3 $1 { in obstructive spirit) } ) 
+Ka3 11. a5 Ka4 12. a6 Ka5 13. Ke6 Kxa6 14. Kd5 Kb5 ) 
+ ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713716/"]
+[Date "????.??.??"]
+[Round "18.13"]
+[White "Chapter 2 Exercises"]
+[Black "Position 37- Karjakin- S. vs. Gelfand- B."]
+[Result "*"]
+[FEN "8/5p1k/p5qp/1p6/5P2/1P1Q1Kp1/P1P5/8 b - - 0 1"]
+
+ { Find the best continuation. (2-3 moves) } 1... { -KEY- } g2 $1 { Transposing to a pawn ending where two pawns will stop three. } ( 1... b4 $2 2. f5 $1 { was less to the point. } ) 
+ ( 1... Qxd3 $6 2. cxd3 { improves White's pawn structure to a considerable extent. Still, victory is possible here as well, as long as we're able to find } b4 $1 { as noticed by funnyoldlife. Before capitalizing on the outside passed pawn, Black fixes the number of waiting moves on the queenside in their favour. There could follow } 3. Kxg3 Kg6 4. Kf3 Kf5 5. Kg3 h5 6. Kf3 h4 7. d4 Ke6 $1 8. Kg4 Kd5 9. Kxh4 Kxd4 10. Kg4 Ke4 11. Kg5 f5 { with a lethal zugzwang. In any case, Gelfand's choice is significantly simpler in practice. } ) 
+2. Qxg6+ Kxg6 ( { The most natural recapture in order to activate the king. However } 2... fxg6 { would also have worked, with 3...b4 next, just like in the game. } ) 
+3. Kxg2 b4 $1 ( { In view of } 3... b4 4. Kf3 Kf5 { followed by ...h6-h5-h4, White resigned. } ) 
+ ( { A different move order with } 3... Kf5 { first also works, although applying the 'one pawn stops two' idea indeed seems very practical here. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713717/"]
+[Date "????.??.??"]
+[Round "18.14"]
+[White "Chapter 2 Exercises"]
+[Black "Position 38- Kasparov- G. vs. Vukic- M."]
+[Result "*"]
+[FEN "8/1p3pp1/p1krpn1p/P6P/2P2PP1/2B5/1PK5/4R3 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Bxf6 $1 { Launching a little breakthrough combination. } gxf6 2. Rd1 $1 ( { In view of } 2. Rd1 Rxd1 3. Kxd1 Kc5 ( { or } 3. Rd1 Kd6 4. g5 fxg5 5. fxg5 Ke7 6. gxh6 Kf8 7. b4 Kg8 8. b5 Kh7 9. bxa6 bxa6 10. c5 { etc. } ) 
+4. g5 $1 fxg5 5. fxg5 hxg5 6. h6 { Black resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713718/"]
+[Date "????.??.??"]
+[Round "18.15"]
+[White "Chapter 2 Exercises"]
+[Black "Position 39"]
+[Result "*"]
+[FEN "8/1pp5/3p4/p2P1k2/P1P4p/1P2K2P/8/8 b - - 0 1"]
+
+ { Find the best continuation. (7-8 moves) } 1... { -KEY- } Ke5 $1 ( { Black accepts the pawn race. In contrast, } 1... c6 $4 { would run into the breakthrough trick } 2. dxc6 bxc6 3. b4 $1 ) 
+2. Kf3 Kd4 ( { In the same spirit. Again } 2... c6 $2 { fails, this time due to } 3. Kg4 { (Not } 3. b4 $2 cxd5 { and Black avoids any breakthrough scenarios, while } 3. dxc6 $2 bxc6 4. b4 { doesn't work either due to } axb4 5. a5 b3 { etc.) } cxd5 4. cxd5 Kxd5 5. Kxh4 Ke4 6. Kg3 $1 { as outlined by hobbsey. Black even needs to be careful here: following } d5 7. h4 d4 8. h5 { , the natural } d3 $2 { loses after } 9. Kf2 $1 { , while } Ke3 $1 { secures a draw. } ) 
+3. Kg4 Kc3 4. Kxh4 Kxb3 5. Kg5 Kxc4 $1 { The key move, which prepares a breakthrough with the b-pawn in order to queen on b1 instead of a1. } ( { After } 5... Kxa4 $4 6. h4 { only White queens. } ) 
+6. h4 b5 7. h5 ( { After } 7. axb5 $2 a4 { only Black queens. } ) 
+b4 $1 ( { As mentioned recently, Black should make sure to the Queen on b1 . In contrast, after } 7... bxa4 $4 8. h6 { , when Black gets a new queen, White will take it with their Queen. } ) 
+8. h6 b3 9. h7 b2 10. h8=Q b1=Q { With a sound extra pawn and more active pieces, Black is winning. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713719/"]
+[Date "????.??.??"]
+[Round "18.16"]
+[White "Chapter 2 Exercises"]
+[Black "Position 40- Esquivel- E. vs. Llamuca- H."]
+[Result "*"]
+[FEN "8/pp2r3/2p1k2p/4p3/6P1/7P/PPP5/2K2R2 b - - 0 1"]
+
+ { Between 1...Rf7 and 1...Rd7, which one is bad, and for what reason? } 1... { -KEY- } Rd7 { Cutting off the enemy king. } ( 1... Rf7 $2 { A bad choice, since in the ensuing pawn ending, White's outside passed pawn will play a decisive role. } 2. Rxf7 Kxf7 3. Kd2 Kg6 4. h4 $1 b5 5. Ke3 Kf6 6. Ke4 c5 7. g5 hxg5 8. hxg5 { Black resigned. } ) 
+2. Rf5 $6 e4 3. Rh5 e3 $1 4. Rxh6+ Ke5 { Etc. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713720/"]
+[Date "????.??.??"]
+[Round "18.17"]
+[White "Chapter 2 Exercises"]
+[Black "Position 41- Makarichev- S. vs. Averbakh- Y."]
+[Result "*"]
+[FEN "8/8/8/2p2Bp1/5p1p/2p1bPkP/6P1/5K2 b - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1... { -KEY- } g4 $1 { A decisive breakthrough. } 2. hxg4 ( { Or } 2. fxg4 f3 $1 3. gxf3 Kxh3 4. g5 Kg3 5. g6 Bd4 { and the h-pawn decides. } ) 
+h3 3. gxh3 Kxf3 4. g5 Kg3 5. g6 Bd4 6. h4 f3 7. h5 Bg7 { The bishop now controls both enemy pawns, so Black just needs to transfer the king to the queenside in order to assist the c3-c2 advance. In the end, the c5-pawn will decide matters. } 8. Ke1 f2+ ( { In view of } 8... f2 9. Kf1 Kf3 { followed by ...Ke3-d2, White resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713721/"]
+[Date "????.??.??"]
+[Round "18.18"]
+[White "Chapter 2 Exercises"]
+[Black "Position 42- Benalcazar- D. vs. Ruiz- F."]
+[Result "*"]
+[FEN "4r3/1p4pp/3P4/2k5/1pp2K2/P7/1P1R2PP/8 b - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1... { -KEY- } bxa3 $1 { Preparing the creation of a passed pawn. } ( { Instead, the game saw } 1... c3 $2 2. axb4 $1 Kxb4 3. bxc3 Kxc3 4. d7 Rd8 5. Rd6 { and White went on to win. } ) 
+2. bxa3 c3 3. Rd1 c2 ( { Even } 3... Kc4 $5 { seems playable. } ) 
+4. Rc1 Kxd6 { With an equal game. } 5. Rxc2 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713722/"]
+[Date "????.??.??"]
+[Round "18.19"]
+[White "Chapter 2 Exercises"]
+[Black "Position 43- Kotronias- V. vs. Berg- E."]
+[Result "*"]
+[FEN "1R6/pp6/4p1K1/3pP3/3k4/6P1/PP5r/8 b - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1... { -KEY- } Kxe5 $1 { Creating a powerful pair of connected passed pawns. } ( 1... Rxb2 $2 2. Kf6 $1 { would have been a big mistake - Berg. } ) 
+2. Rxb7 d4 3. g4 ( { Or } 3. Rxa7 Rxb2 { with similar play. } ) 
+Kf4 $1 4. g5 e5 5. Rf7+ Ke3 6. Rxa7 d3 7. Kf5 e4 8. g6 Rxb2 9. g7 Rf2+ $1 10. Ke6 Rg2 11. Kf7 d2 { Black soon won. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713723/"]
+[Date "????.??.??"]
+[Round "18.20"]
+[White "Chapter 2 Exercises"]
+[Black "Position 44"]
+[Result "*"]
+[FEN "8/1p6/4kp2/p1Pp4/5P2/P2K3p/1P5P/8 b - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1... { -KEY- } a4 $1 { One pawn stops two. } ( { In contrast, after } 1... Kf5 $2 2. b4 $1 axb4 3. axb4 Kxf4 4. b5 Ke5 5. b6 $1 { White wins. } ) 
+2. Kd4 ( { a) After } 2. Kc3 Kf5 3. b4 ( { or } 3. Kb4 d4 $1 ) 
+axb3 4. Kxb3 d4 5. a4 Ke4 6. c6 bxc6 7. a5 d3 8. a6 Ke3 { the ensuing queen ending is won for Black; } ) 
+ ( { b) while } 2. Ke3 Kf5 3. Kf3 d4 4. Kg3 Ke4 { also wins for him. } ) 
+Kf5 3. Kxd5 Kxf4 4. Kd6 Ke4 $1 5. Kc7 Kd5 { The f-pawn decides matters. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713724/"]
+[Date "????.??.??"]
+[Round "18.21"]
+[White "Chapter 2 Exercises"]
+[Black "Position 45- Diemer- EJ. vs. Pfeiffer- G."]
+[Result "*"]
+[FEN "8/p5p1/1p1kb3/3N2p1/2P3P1/4K2P/1P6/8 w - - 0 1"]
+
+1. { -KEY- } Kd4 $2 ( 1. Nc3 Bxc4 2. Ne4 -- { followed by } 3. Nxg5 { , with chances of a draw, was correct. For what reason was 1.Kd4 a bad choice? } ) 
+Bxd5 { Black is allowed to transpose to a pawn ending where the outside passed pawn will be great asset. } 2. cxd5 a6 $1 { An accurate waiting move. } ( { a) In the same spirit, } 2... g6 { also works, for example } 3. b3 a6 $1 { transposing to the main line; } ) 
+ ( { b) but not } 2... a5 $2 3. Kc4 a4 4. Kb4 { with a draw. } ) 
+3. b3 ( { a) Both } 3. b4 a5 ) 
+ ( { b) and } 3. Ke4 a5 4. Kd4 b5 { lead to similar consequences. } ) 
+g6 $1 ( { The only appropriate waiting move. } 3... b5 $2 4. b4 { on the topic of "one pawn stops two", or } a5 $2 4. Kc4 { , heading for b5, would actually win for White instead, as observed by Anunnaki. } ) 
+4. Kc4 ( { Or } 4. b4 a5 $1 ) 
+Ke5 $1 ( { Waiting moves with the king are often the ideal ones, as we'll see later on in Chapter 6.1. Instead } 4... b5 $2 { would fail fatally to } 5. Kb4 Kxd5 6. Ka5 { , etc. } ) 
+5. b4 Kd6 6. Kd4 a5 $1 { Black soon wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713725/"]
+[Date "????.??.??"]
+[Round "18.22"]
+[White "Chapter 2 Exercises"]
+[Black "Position 46- Rowson- J. vs. Knott- S."]
+[Result "*"]
+[FEN "8/3k4/6K1/7p/3Bp2P/2P3P1/4bP2/8 w - - 0 1"]
+
+ { Find the best continuation. (2-3 moves) } 1. { -KEY- } f4 $1 { Creating a second passed pawn. } ( { Both } 1. f3 $2 Bxf3 ) 
+ ( { and } 1. c4 $6 Bf3 { were less productive. } ) 
+ ( { On the other hand, } 1. Kf5 Bf3 2. g4 $1 { is an alternative way to create a second passed pawn, as observed by cloots. Still, after } Bxg4 3. Kxe4 Ke6 { the path to victory will be much longer than in the game, where the connected passed pawns make White's task really trivial. } ) 
+exf3 2. Bf2 $1 ( { There follows } 3. Kxh5 { , with an easy win. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713726/"]
+[Date "????.??.??"]
+[Round "18.23"]
+[White "Chapter 2 Exercises"]
+[Black "Position 47- Pasto- J. vs. Parra- P."]
+[Result "*"]
+[FEN "8/5p2/5P1p/4k1p1/6P1/1K6/1P6/8 w - - 0 1"]
+
+ { Find the best continuation. (5-6 moves) } 1. { -KEY- } Kc4 $1 { Heading for the opposite flank in outside passed pawn fashion. } ( { Instead, the game went } 1. Ka4 $2 Kxf6 2. b4 { when } h5 $1 { would have yielded Black good winning chances. } ) 
+Kxf6 ( { Now, in contrast, } 1... h5 { fails to } 2. gxh5 g4 3. Kd3 { As a result, Black has to accept the fact that one pawn stops three. } ) 
+2. Kd5 Ke7 3. b4 Kd7 4. b5 Kc7 5. Kc5 $1 ( { The tempting } 5. Ke5 { fails to } Kb6 6. Kf6 Kxb5 7. Kxf7 h5 $1 { and draws. } ) 
+Kb7 6. b6 Kb8 7. Kc6 Kc8 8. b7+ Kb8 9. Kb6 { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713727/"]
+[Date "????.??.??"]
+[Round "18.24"]
+[White "Chapter 2 Exercises"]
+[Black "Position 48- Andersson- U. vs. Larsen- B."]
+[Result "*"]
+[FEN "8/4Rpk1/3p4/3P2pp/3KP3/3P2P1/5r2/8 w - - 0 1"]
+
+ { Find the best continuation. (5-6 moves) } 1. { -KEY- } e5 $1 { White hurries to create a passed pawn. } ( { Less clear is } 1. Rd7 $6 g4 $1 2. Rxd6 h4 { etc. } ) 
+h4 $1 ( { More tenacious than } 1... dxe5 2. Rxe5 { with twin threats of Rxg5 and d5-d6. } ) 
+2. gxh4 Rf4+ 3. Ke3 Rxh4 4. exd6 Rh6 5. Kd4 $1 ( { Also possible is } 5. d7 Rd6 6. Kd4 Kf6 7. Re3 Rxd7 8. Kc5 ) 
+Rxd6 6. Kc5 Rd8 7. d6 Kf6 8. Kc6 g4 9. Re3 Kg5 10. d7 f5 11. Re8 Rxd7 12. Kxd7 f4 13. Ke6 f3 14. Rf8 Kh4 15. Rf4 $1 { Black resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713728/"]
+[Date "????.??.??"]
+[Round "18.25"]
+[White "Chapter 2 Exercises"]
+[Black "Position 49- Shaposhnikov- E. vs. Berg- E."]
+[Result "*"]
+[FEN "8/5p2/1pk1pPp1/2p1P1Pp/2P2K1P/5P2/8/8 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Ke3 $1 { Preparing a timely breakthrough with f3-f4-f5. } ( 1. Ke4 $6 { in similar fashion makes less sense since Black would later recapture with check on f5, as observed by Anunnaki. In concrete terms: } b5 2. cxb5 Kxb5 3. f4 $6 Kc4 $1 4. f5 $2 exf5 5. Ke3 Kd5 $1 { and the king stops the pawns. } ) 
+b5 ( { Passive defence also fails; e.g. } 1... Kc7 2. Kd3 Kc6 3. Kc3 Kc7 4. Kb3 Kb7 5. Ka4 Kc6 6. f4 Kc7 7. Kb5 Kb7 8. f5 $1 { and White wins. } ) 
+2. cxb5+ Kxb5 3. f4 $1 Kc6 4. f5 $1 ( { In view of } 4. f5 Kd7 ( { a) neither would } 4. f5 gxf5 5. g6 ) 
+ ( { b) or } 4. f5 exf5 5. e6 { have saved him } ) 
+5. fxg6 fxg6 6. Kd3 { Black resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713729/"]
+[Date "????.??.??"]
+[Round "18.26"]
+[White "Chapter 2 Exercises"]
+[Black "Position 50- Ponce- A. vs. Calderon- J."]
+[Result "*"]
+[FEN "2kr4/pppr1ppp/8/4P3/3b1P2/1P3K1P/P5P1/1RBR4 b - - 0 1"]
+
+ { Indicate your 1st move + short plan. } 1... { -KEY- } c5 $1 { Intending ...Kc7-c6 and ...b7-b5 in order to realize the pawn majority. } 2. Ba3 Kc7 ( { A natural follow-up in order to support the march of the pawn majority with the king. Instead after } 2... b5 $6 3. Rbc1 { Black would have to move away one of their rooks from the open file in order to secure the c5-pawn. } ) 
+3. Rbc1 Kc6 4. Rc2 ( { If } 4. b4 { then } b5 $1 5. bxc5 a5 { followed by ...b5-b4. } ) 
+a5 $1 { A useful move, preventing b3-b4 at any moment while advancing the pawn majority. } ( { In contrast, the impatient } 4... b5 $2 { would run into } 5. Bxc5 $1 Bxc5 6. Rdc1 Rd5 7. b4 { , as noticed by Anunnaki. } ) 
+5. g4 Rd5 6. Re2 b5 7. e6 fxe6 8. Rxe6+ R8d6 9. Rde1 Bc3 $1 10. Rxd6+ Rxd6 11. Re2 Rd3+ 12. Kg2 Bd4 { Preparing ...Kd5 and c5-c4. Black went on to win. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/68994237/"]
+[Date "????.??.??"]
+[Round "18.27"]
+[White "Chapter 2 Exercises"]
+[Black "Position 51- Gupta- A. vs. Jarmula- L."]
+[Result "*"]
+[FEN "8/5p2/R7/1p3k2/1P2p3/P3r3/6KP/8 w - - 0 1"]
+
+ { Find the best continuation (6-7 moves). } 1. { -KEY- } h4 $1 { Betting on the passed pawn. } ( 1. Rb6 $2 Rxa3 2. Rxb5 Kf4 { leaves White helpless against the opponent's connected passed pawns. } ) 
+ ( 1. Ra5 $2 Kf4 { is similar. } ) 
+ ( 1. h3 { is well met by } Kg5 $1 { preparing ...f5-f4, e.g. } 2. h4 Kxh4 3. Rf6 Rg3 $1 4. Kf2 Kg4 5. Rxf7 Rf3 { etc. Even if White manages to promote after } 6. Rxf3 exf3 7. a4 bxa4 8. b5 { , the king soon finds itself caught in a mating net, in which the f3-pawn will play a crucial role. } ) 
+Kg4 ( 1... Ke5 2. h5 f5 3. h6 { is also safe for White, e.g. } Rd3 4. h7 Rd8 5. Rh6 Rh8 6. Kf2 f4 7. Ke2 Kd4 8. Rh4 { , when Black can't progress properly. } ) 
+ ( 1... Rf3 2. h5 Kf4 3. Rf6 { leads to similar play as in the main line! } ) 
+2. Rf6 Rf3 $5 ( 2... Rxa3 3. Rxf7 { easens White's task, e.g. } Ra2 4. Kf1 Rb2 5. Ke1 Rxb4 6. Ke2 Kxh4 7. Ke3 { , or } Rb3 7. Re7 { etc. } ) 
+3. Rxf3 $1 { The emerging pawn endgame looks terrible, but there is one last opportunity waiting to be used... } exf3+ 4. Kf2 Kxh4 5. Kxf3 ( 5. a4 $5 { at once works too. } ) 
+Kg5 6. a4 $1 { A timely breakthrough before Black's king gets closer. } bxa4 7. b5 a3 8. b6 a2 9. b7 a1=Q 10. b8=Q { With a draw – Arsovic. As long as White avoids a queen trade on f4, they should indeed be safe. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713731/"]
+[Date "????.??.??"]
+[Round "18.28"]
+[White "Chapter 2 Exercises"]
+[Black "Position 52- Hellsten- J. vs. Adler- B."]
+[Result "*"]
+[FEN "8/2k5/3R4/2P1K3/4P3/8/8/2r5 w - - 0 1"]
+
+ { Find the best continuation. (3-4 moves) } 1. { -KEY- } Ke6 $1 { One of the passed pawns is sacrificed to enhance the advance of its colleague. } ( { In the same spirit, } 1. Kd5 Rd1 2. Ke6 Rc1 3. e5 $1 { is also good. } ) 
+ ( 1. c6 { also works, as observed by Ckmt98. After } Rh1 2. Rd2 $1 Kxc6 3. Kf6 { Black's rook doesn't have enough space for its side attack, while the king remains cut off along the d-file. } ) 
+ ( { Interestingly, the immediate } 1. Rd2 $5 { would also do the trick, i.e. } Rxc5 2. Kf6 { when Black's pieces should have been placed in the opposite way in relation to the e-pawn, for instance the king on h7 and the rook along the a-file. } ) 
+ ( { On the other hand, } 1. Kf6 { was also possible, when } Rxc5 2. e5 { leads to similar play as in the game. } ) 
+Rxc5 2. e5 Rc1 3. Rd2 Rh1 4. Kf7 { With Black's king on the long side of the pawn, the rest is easy. } Rh7+ 5. Kg6 Rh1 6. e6 Rf1 7. e7 Re1 8. Kf7 Rf1+ 9. Ke8 Re1 10. Rc2+ ( { In view of the bridge after } 10. Rc2 Kb7 11. Rc4 { Black resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713732/"]
+[Date "????.??.??"]
+[Round "18.29"]
+[White "Chapter 2 Exercises"]
+[Black "Position 53- Pillsbury- H. vs. Gunsberg- I."]
+[Result "*"]
+[FEN "1n6/4k2p/4pp2/ppPp1Pp1/1N1P2P1/4P3/P3K2P/8 w - - 0 1"]
+
+ { Find the best continuation. (5-6 moves) } 1. { -KEY- } c6 $1 Kd6 2. fxe6 $1 Nxc6 ( { Or } 2... axb4 3. e7 $1 Kxe7 4. c7 ) 
+3. Nxc6 Kxc6 4. e4 $1 { The key move, which creates a decisive protected passed pawn. } dxe4 5. d5+ Kd6 6. Ke3 b4 7. Kxe4 a4 8. Kd4 ( { The similar } 8. Kd3 { also works, as noticed by HorseyChess. } ) 
+h5 9. gxh5 a3 10. Kc4 f5 11. h6 f4 12. h7 { Black resigned. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713733/"]
+[Date "????.??.??"]
+[Round "18.30"]
+[White "Chapter 2 Exercises"]
+[Black "Position 54- Rezabala- J. vs. Cardenas- A."]
+[Result "*"]
+[FEN "8/2k5/p4p2/1p4p1/2p2bPp/2PrNK1P/PP3P2/3R4 w - - 0 1"]
+
+1. { -KEY- } Ke4 $2 { Was White right in playing 1.Ke4 here? } f5+ $1 { An unexpected breakthrough. } ( { a) Instead, the game went } 1... Rxd1 $2 2. Nxd1 { and was later drawn; } ) 
+ ( { b) while } 1... Bxe3 $4 2. Rxd3 cxd3 3. Kxe3 f5 4. f3 $1 { even wins for White. } ) 
+2. gxf5 ( { a) Both } 2. Kxf5 Bxe3 ) 
+ ( { b) and } 2. Kf3 Bxe3 3. Rxd3 fxg4 4. hxg4 cxd3 5. Kxe3 h3 { win for Black. } ) 
+Bxe3 3. Rxd3 cxd3 4. Kxe3 g4 $1 5. f6 Kd6 { Black wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713734/"]
+[Date "????.??.??"]
+[Round "18.31"]
+[White "Chapter 2 Exercises"]
+[Black "Position 55- Nepomniachtchi- I. vs. Iordachescu- V."]
+[Result "*"]
+[FEN "8/8/6k1/P7/7r/K6p/1P6/7R b - - 0 1"]
+
+ { Indicate your 1st move + short plan. } 1... { -KEY- } Kf7 $1 { Heading for the queenside to fight against the passed pawns. } ( { In contrast, after } 1... Kf5 2. b4 Kg4 $2 3. b5 Kg3 4. a6 { White wins comfortably. } ) 
+ ( { On the other hand, } 1... Kf6 $2 { is wrong due to } 2. a6 $1 { when, as observed by HorseyChess, Black's king obstructs the essential ...Rh6-a6 maneuver seen in the next note. } ) 
+2. b4 ( { Black also draws after } 2. a6 Rh6 3. a7 Ra6 4. Kb4 Rxa7 5. Rxh3 Rb7 6. Kc3 Ke6 { - Baburin. } ) 
+Ke7 3. b5 Kd7 4. b6 Kc6 5. Rb1 Rh5 $1 { The most active choice, getting ready for ...Rxa5-b5 if White pushes the b-pawn. } 6. Rc1+ Kb7 7. Kb4 Rh4+ 8. Kb5 Rh5+ 9. Kb4 { Draw agreed. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713735/"]
+[Date "????.??.??"]
+[Round "18.32"]
+[White "Chapter 2 Exercises"]
+[Black "Position 56- Yusupov- A. vs. Malaniuk- V."]
+[Result "*"]
+[FEN "5r2/8/8/6p1/PR4P1/6k1/2K5/8 b - - 0 1"]
+
+1... Rf4 $2 { Was Black right in playing 1...Rf4 here? } 2. { -KEY- } Rxf4 ( { It was a bad choice, since the ensuing pawn race will work out in White's favor. Correct was } 1. Rxf4 Ra8 $1 2. Kb3 Kf3 { , keeping some chances of a draw. } ) 
+gxf4 3. g5 f3 4. g6 f2 5. g7 f1=Q 6. g8=Q+ Kh4 ( { a) After both } 6... Kh3 7. Qc8 $1 Kg3 8. Qc7 Kg4 9. Qd7 ) 
+ ( { b) and } 6... Kh2 7. Qh7 Kg2 8. Qg6 Kh2 9. Qd6 $1 { White manages to exchange queens - Malaniuk. } ) 
+7. Qd8+ ( { In view of } 7. Qd8 Kh3 ( { or } 7. Qd8+ Kh5 8. Qd1 ) 
+8. Qd3 { Black resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/49795426/"]
+[Date "????.??.??"]
+[Round "18.33"]
+[White "Chapter 2 Exercises"]
+[Black "Position 57- Wade- R. vs. Korchnoi- V."]
+[Result "*"]
+[FEN "8/1pp3k1/1p2Qqp1/3Pp3/4P2p/8/PP2KP1P/8 w - - 0 1"]
+
+ ( { Was White right in playing } 1. Qxf6 { here? } ) 
+1. { -KEY- } Qxf6+ $1 Kxf6 2. Kf3 { In this pawn ending, White's main idea is to invade with the king either along g4-f5, or on the queenside if Black touches the b-pawn. Moreover, a breakthrough with f2-f4 can sometimes set free the e-pawn. In the first scenario, an arsenal of waiting moves will play a crucial role, so the queenside pawns should be advanced with some care. } ( 2. a4 $5 { fixing Black's queenside structure also works, although after } Kg5 { , it's important that we react with } 3. Ke3 $1 { , keeping the f2-f4 breakthrough in the pocket. In contrast, the natural } 3. Kf3 $2 { leads to the complex 3.a4 line covered below. } ) 
+Kg5 ( { Or } 2... g5 3. Kg4 Kg6 4. a4 { with a first zugzwang scenario. } ) 
+3. h3 $1 { Not the only winning move, but a way of limiting the variations to be calculated. } ( 3. b4 $2 b5 { wouldn't let White progress on either side, e.g. } 4. h3 Kh5 5. Ke3 g5 { , when } 6. Kf3 $2 { even loses after } g4 $1 7. hxg4 Kg5 8. a3 b6 { on the topic of waiting moves, with Black's outside passed pawn soon deciding matters. } ) 
+ ( 3. a4 $2 { was seen in the game, when after } Kh5 4. b4 { , Black could have saved themselves by the surprising } b5 $1 5. axb5 ( 5. a5 $2 g5 6. h3 g4 $1 7. hxg4 Kg5 { is a similar zugzwang situation to the one featured in the 3.b4 note above. } ) 
+b6 { as observed by comfortable. After } 6. h3 g5 { , we have another mutual zugzwang, which puts an end to White's invasion attempts. Black could even try to win by ...g4 next, e.g. } 7. Kg2 g4 { , when only } 8. f4 $1 { in breakthrough fashion keeps White on their feet, following } gxf3 ( 8. h3 exf4 $2 9. e5 gxh3 10. Kxh3 { instead wins for White, e.g. } Kg5 11. e6 Kf6 12. Kxh4 { etc. } ) 
+9. Kxf3 Kg5 10. Ke3 { with a final deadlock. No blame on Wade and Korchnoi for omitting these turns when approaching move 40 over the board! } ) 
+ ( 3. Ke3 { first also works, although, in practice, this means we'd have to calculate } Kg4 { and } h3 { as well. } ) 
+ ( 3. a3 { with 4.h3 next is yet another possible move order. } ) 
+Kh5 ( 3... b5 { means that White can prepare an invasion on the queenside, e.g. } 4. a3 $1 { (first limiting Black's waiting moves on that side) } Kh5 ( 4... b6 { runs into } 5. Ke3 { preparing f2-f4, e.g. } Kf6 6. f4 exf4 7. Kxf4 g5 8. Kg4 { with the h-pawn deciding in the end; it's good to notice that having skipped b2-b4, White seriously slows down Black in this pawn race. } ) 
+5. Ke3 g5 ( 5... Kg5 6. f4 $1 exf4 7. Kf3 { most likely leads to the previous note. } ) 
+6. f3 Kg6 7. Kd3 Kf6 8. Kc3 c5 { (else the white king invades along b4-c5) } 9. dxc6 bxc6 10. b3 Ke6 11. a4 Kd6 12. Kb4 $1 { (king first!) } bxa4 13. bxa4 Kc7 14. Kc5 { and the outside a-pawn takes its toll. } ) 
+4. a3 $1 { Economizing with the waiting moves. } Kg5 ( 4... g5 5. a4 { lets the king enter along g4-f5, since } g4 6. hxg4 Kg5 { fails after } 7. b3 b5 $5 8. axb5 b6 9. b4 { with White just having enough waiting moves. After } h3 10. Kg3 h2 11. Kxh2 Kxg4 12. Kg2 Kf4 13. f3 { , the win is not difficult, e.g. } Ke3 14. Kg3 Kd4 15. Kg4 Kc4 16. f4 { etc. } ) 
+5. a4 { Resuming Wade's original plan, this time with more reserve tempi in the pocket. } ( 5. Ke3 { is also possible, e.g. } b5 6. f4 { and we're back in the 3...b5 note. } ) 
+b5 ( 5... Kh5 6. Ke3 g5 7. Kf3 $1 { leads back to 4...g5 above. } ) 
+6. axb5 b6 7. Ke3 ( { White wins by f2-f4 next, e.g. } 7. Ke3 Kf6 8. f4 exf4 9. Kxf4 g5 10. Kg4 Ke5 11. Kxg5 Kxe4 12. Kxh4 Kxd5 13. Kg5 { followed by the march of the h-pawn. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713737/"]
+[Date "????.??.??"]
+[Round "18.34"]
+[White "Chapter 2 Exercises"]
+[Black "Position 58- Ramesh- R. vs. Hillarp Persson- T."]
+[Result "*"]
+[FEN "R7/4p3/5pk1/P7/8/r6P/6P1/6K1 b - - 0 1"]
+
+ { Indicate your 1st move + short plan. } 1... { -KEY- } e5 $1 { Betting on the passed pawn as a defensive weapon. } ( { Instead, the game went } 1... Kg7 $6 2. a6 Kh7 3. h4 Kg7 4. h5 Kh7 5. a7 { and White later prevailed by a king march to d7. However Black could actually still save themselves at this point by a curious zugwang idea. After } Ra2 $1 { (in the game Black skipped this important move, which makes the e-pawn more powerful) } 6. g4 { (preventing f7-f5, after which the e-pawn would be better supported) } Kg7 7. Kf1 e6 $1 { (why just one step will become clear at the end of the variation) } 8. Ke1 e5 9. Kd1 e4 10. Ke1 e3 11. h6 Kh7 { a mutual zugzwang has arisen, as discovered by Farciarz. Black to play again would lose (this explains why 7...e5? would be wrong), but White to move can't progress since } 12. Kd1 { allows } Rd2 { followed by 13...Ra2, and the same thing would happen on the f-file. In any case, such intricacies are not easy to visualize over the board, and I think we could consider 1...e5 a much simpler choice in practical play. } ) 
+2. a6 Kf5 3. h4 ( { Or } 3. a7 e4 4. Kf2 Ra2 $1 { in similar style; e.g. } 5. Ke3 Ra3 6. Kd4 Kf4 7. h4 e3 8. h5 Ra4 { with a draw - Hillarp. } ) 
+e4 4. h5 Ra1+ 5. Kf2 Ra2+ { The king should be driven away from the e-pawn. } 6. Kg3 Ra3+ 7. Kh2 Kg5 $1 ( { But not } 7... e3 $2 8. Kg3 $1 ) 
+8. a7 Kf4 9. h6 Ra5 $1 10. g4 $1 ( { Less is promised by } 10. Kg1 Ra1 11. Kf2 e3 12. Ke2 Ra2 ) 
+Ra2+ 11. Kh3 Ra1 { With good drawing chances; } ( { e.g. } 11... Ra1 12. Rf8 Rxa7 13. Kh4 $5 Ke5 14. Kh5 e3 15. Re8 Kf4 16. Kg6 Kxg4 17. Rxe3 f5 { etc. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713738/"]
+[Date "????.??.??"]
+[Round "18.35"]
+[White "Chapter 2 Exercises"]
+[Black "Position 59- Schlosser- P. vs. Tseitlin- M."]
+[Result "*"]
+[FEN "8/1P4R1/1r6/8/2K1k3/5p1P/8/8 w - - 0 1"]
+
+ { Find the best continuation. (5-6 moves) } 1. { -KEY- } Kc5 $1 { Preparing Rg4-b4 with a favorable pawn race. } Rb1 ( { After } 1... f2 2. Re7 Kd3 3. Rd7 Kc3 4. Kxb6 f1=Q $11 5. b8=Q $11 { White wins - Tseitlin. } ) 
+2. Rg4+ Ke3 ( { Or } 2... Kd3 3. Rb4 Rxb4 4. Kxb4 f2 5. b8=Q $11 f1=Q $11 6. Qb5 ) 
+3. Rb4 $1 Rxb4 4. Kxb4 f2 5. b8=Q f1=Q 6. Qe5+ $1 ( { In view of } 6. Qe5 Kd2 7. Qc3 Ke2 8. Qc4 { Black resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12713739/"]
+[Date "????.??.??"]
+[Round "18.36"]
+[White "Chapter 2 Exercises"]
+[Black "Position 60- Tal- M. vs. Zapata- A."]
+[Result "*"]
+[FEN "1r6/4k3/p1bp1p1p/4pB2/2P1P1P1/1P5R/3K2P1/8 w - - 0 1"]
+
+ { Find the best continuation. (5-6 moves) } 1. { -KEY- } Rxh6 $1 { Starting a little combination that will create a strong passed pawn. } ( { Less is promised by } 1. Kc2 Rh8 2. b4 Bd7 ) 
+Rxb3 2. c5 $1 { Tal's suggestion. } ( { Instead, the game saw } 2. g5 $6 fxg5 3. c5 { when } Rb4 $1 4. cxd6 Kf7 { followed by ... Rd4, would have yielded drawing chances - Tal. } ) 
+dxc5 3. g5 Rb2+ ( { Or } 3... Bb5 4. gxf6 Kf7 5. Bg4 { preparing 6 Bh5+ and g2-g4-g5. } ) 
+4. Kc3 Rxg2 5. gxf6+ Kf7 6. Rh7+ ( { In view of } 6. Rh7 Kxf6 ( { or } 6. Rh7+ Kf8 7. Be6 ) 
+7. Rh6 { White wins. } ) 
+
+ *

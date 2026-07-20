@@ -1,0 +1,94 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39701262/"]
+[Date "????.??.??"]
+[Round "11.1"]
+[White "2.3) The Fight For Outposts"]
+[Black "Eliminating Key Pieces 1"]
+[Result "*"]
+[FEN "r1b1q1r1/2p2pbk/1p1p1n2/p1nPp1Bp/2P1P2P/2N2PN1/PP1Q4/2KR1B1R w - - 0 16"]
+
+ { In this section we'll take a look at the battle for controlling an outpost. The topics we'll take a look at are: eliminating key pieces; prophylaxis; and fighting against outposts. } ( { This position was reached in the game Geller, E - Etcheverry, E (1954). White has an outpost on f5, but the immediate jump with } 16. Nf5 $2 { would be met by } Bxf5 { . So White sets about exchanging off Black's key piece. Can you guess what move he played? } ) 
+16. { -KEY- } Bh3 $1 { Correct! Once the bishops come off the board, White's knight will be unassailable on f5. } Qf8 ( 16... Bb7 $2 { Black cannot keep the bishops on the board, since after } 17. Bf5 Kh8 18. Bxf6 { if Black recaptures with } Bxf6 { then } 19. Qh6 { is mate. } ) 
+17. Rdg1 { White could have traded on c8, but there is no rush. } Bxh3 { Black lacks good options, so he himself initiates the exchange. } 18. Rxh3 Ncd7 19. Nf5 $1 { Now the knight arrives. One of the challenges facing Black is that neither of his knights are well-positioned to challenge White's outposted piece. } Bh8 20. Rhg3 { Building up the pressure on the open file. Black's position is hopeless. The rest of the game is included, with only light annotations. } Rg6 21. Nd1 { Preparing to bring the remaining minor piece to the kingside. } Ng8 22. Qe2 Ndf6 23. Nf2 Bg7 24. Nh3 Re8 25. Bd2 { Vacating the g5 square for the knight. } Ne7 26. Ng5+ Kh8 27. Qf2 Rc8 28. Ne6 ( { Black resigned, since } 28. Ne6 Rxg3 { loses the queen while } fxe6 29. Rxg6 Nxg6 30. dxe6 $1 { also leads to material losses. The key to White's strategy was the forced exchange of the light-squared bishops. Once he landed a monster knight on f5, it became impossible to defend the kingside. } ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39701263/"]
+[Date "????.??.??"]
+[Round "11.2"]
+[White "2.3) The Fight For Outposts"]
+[Black "Eliminating Key Pieces 2"]
+[Result "*"]
+[FEN "3r1rk1/2q1bp2/5npp/1pp1p1n1/4P3/2PPN3/1P2QNPP/R1B2RK1 w - - 0 1"]
+
+ ( { Here is another typical situation. White would like to play } 1. Nd5 { , but for now that square is controlled by Black's knight. } ) 
+1. { -KEY- } Nfg4 $1 { A strong move! White forces Black's hand, securing the exchange of Black's key defensive piece. } Nxg4 { White is now facing a choice: to capture the knight with the queen or with the knight. From a positional standpoint, White wants to play Qxg4 so that their knight is ready to jump to the d5 outpost on the next move. However, Qxg4 allows Black to win a pawn with ...Rxd3. In cases like these, where the desirable positional move seems to have a tactical problem, it's worth spending some time to calculate the consequences fully. } ( 1... Ngh7 $2 { It's not possible for Black to try and hold the piece configuration, since the h-pawn is undefended. } 2. Nxh6 Kg7 3. Nhg4 $18 { White is a clean pawn to the good. } ) 
+2. Qxg4 $1 { Capturing with the queen is best, leaving the knight on e3 in order to jump to the d5 outpost as soon as possible. } Rxd3 { Black grabs a pawn. White, however, had correctly calculated the consequences of this sacrifice. } ( 2... h5 { Anything other than grabbing the d3 pawn will lead to a risk-free edge for White. For example: } 3. Qe2 Rd7 4. Nd5 $16 { White's minor pieces are much stronger than Black's. } ) 
+3. Nd5 $1 Qd8 ( 3... Rxd5 { Giving up the exchange is perhaps best. } 4. exd5 f5 5. Qe2 c4 6. Kh1 $16 { Black has some compensation here in the form of a healthy pawn chain and a little more space. But White has a clear edge overall since Black's advantages do not make up for being an exchange down. } ) 
+4. h4 $1 { This is what White had seen. The attack on Black's knight means that White will recover their pawn, and have a crushing kingside attack to boot. } Ne6 ( 4... Nxe4 $2 { fails to } 5. Nxe7 $1 { followed by taking the knight on e4. } ) 
+5. Bxh6 Re8 6. h5 $18 { White's attack crashes through. Targeting the defensive piece is usually quite straightforward, while other aspects of the fight for outposts are easier to overlook. One such method is 'prophylaxis', and will be covered in the next couple of examples. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39701264/"]
+[Date "????.??.??"]
+[Round "11.3"]
+[White "2.3) The Fight For Outposts"]
+[Black "Prophylaxis 1"]
+[Result "*"]
+[FEN "r1b2rk1/2p2pb1/1p1p2pp/p1nPp1n1/2P1P1Pq/2N1B1NP/PPBQ1P2/R3K2R w KQ - 0 1"]
+
+ { In this position, White failed to sense the danger and castled queenside. } 1. { -KEY- } O-O-O $2 ( 1. Qe2 $1 { Prophylaxis! By protecting the f3 square White would have kept a big advantage, since now Black's queen and knight cannot move. } ) 
+Nf3 $1 { Now Black can use the weak f3 square to target the central outpost. } 2. Qe2 Nd4 $1 { Black lands their knight on the powerful d4 outpost. White now faces a difficult choice between retreating with the queen or winning a pawn by capturing the knight. } 3. Bxd4 { White goes after the pawn, but this is dangerous since now Black's dark-squared bishop will become very active. } exd4 4. Nb5 d3 $1 { The best way of giving up the pawn, since this way White cannot play 5.Nxd4. And as we'll soon see, the knight on b5 is not so well-placed. } 5. Bxd3 Bd7 $17 { Black stands better due to their much more active pieces. } 6. Bc2 ( 6. Nxc7 $4 { loses to } Rac8 { since } 7. Nb5 Bxb5 $19 8. cxb5 Nxd3 { wins a piece. } ) 
+a4 7. a3 Ra5 8. Kb1 Bxb5 9. cxb5 Qf6 { White has no good way to meet the pressure against b2. For example: } 10. Bd3 Nxd3 11. Rxd3 Rxb5 { We see the point of 7...Ra5 earlier! The pressure along the dark squares is fatal for White, a direct consequence of allowing the ...Nf3-d4 maneuver in the beginning. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39701265/"]
+[Date "????.??.??"]
+[Round "11.4"]
+[White "2.3) The Fight For Outposts"]
+[Black "Prophylaxis 2"]
+[Result "*"]
+[FEN "r1bqr1k1/pp2bppp/3p1n2/3Pp3/1n2P3/5N2/PP1N1PPP/RBBQR1K1 b - - 0 1"]
+
+ { Can you find the only move that holds the balance for Black here? To arrive at the answer, it is helpful to ask yourself what White's main positional threat is. } 1... { -KEY- } a5 $1 { Correct! By playing this move, Black takes the sting out of White's positional idea. } ( 1... Bd7 $2 { If Black fails to sense the positional danger, then White will be able to shut out Black's knight. } 2. a3 $1 Na6 3. b4 $16 { This is the 'trap' that Black must avoid. Black's knight will struggle to find activity in the middlegame since the b4 and c5 squares have been taken away. } ) 
+2. a3 Na6 3. b4 { Playing their idea anyway! The problem for White is that now the b4 pawn is not stable. } ( 3. Nf1 { If White had continued quietly, then Black would have locked in the outpost on c5 by fixing White's queenside pawn structure. } Nc5 4. Ng3 a4 $1 { Note the link between outposts and backward pawns. Here Black has fixed White's b-pawn as a backward pawn by controlling the b3 square, and this in turn secures the c5 square as an outpost. } ) 
+Bd7 { With the rook defended, Black is now threatening to capture on b4. } ( 3... axb4 { Black cannot win a pawn on b4 because of the rook. } 4. axb4 Nxb4 $4 5. Rxa8 $18 ) 
+4. Qb3 axb4 5. axb4 { The b4 pawn restricts the knight, but it is isolated and so it becomes an immediate target. } Qb6 $1 6. Ba3 { White has to play the bishop to the passive a3 square to avoid losing material. } Bb5 $11 { The bishop steps onto an active diagonal. Even though White succeeded in robbing Black of the c5 square, the position remains around equal. This is because White's b4 pawn is a bit weak and their piece coordination is poor. Neither of these factors would have been true if White had been allowed to play b2-b4 without the need to exchange a-pawns. For our final two examples, we'll switch perspective and speak about ways in which the defending side can fight against outposts. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39701266/"]
+[Date "????.??.??"]
+[Round "11.5"]
+[White "2.3) The Fight For Outposts"]
+[Black "Fighting Against Outposts 1"]
+[Result "*"]
+[FEN "r4rk1/1p1q1pb1/p1n3p1/2Ppn1Np/1P1N3P/4B3/P2Q1PP1/2R2RK1 w - - 0 1"]
+
+ { Previously, we looked at a couple of examples where the attacking side forced a key piece exchange in order to access the outpost. The defending side can use this same method to defuse an outpost. In the following position, we see that Black is threatening to land a knight on the c4 outpost. White stops this plan in its tracks. } 1. { -KEY- } Ndf3 $1 { Using the pin along the d-file to force one pair of knights off the board. } ( 1. a4 $2 { Things would go downhill fast if White had failed to spot the danger: } Nc4 $1 2. Qc3 { White has to pin their queen to avoid losing the b4 pawn. } Qg4 $1 { With a double attack on d4 and h4. } 3. Ngf3 { Much like in our previous example, White is being forced to go passive and react to Black's constant threats. } Rfe8 $1 4. Rfd1 Re4 5. b5 axb5 6. axb5 Nxe3 { The series of exchanges will expose White's fragile king. } 7. fxe3 Nxd4 8. Nxd4 Ra2 $1 9. Rd2 Rxd2 10. Qxd2 Bxd4 11. exd4 Re2 $19 { Chess can be an unforgiving game! The second that Black's knight hit the c4 outpost, it was close to impossible to save the position. } ) 
+Rfe8 { This is the best move according to the engine, but now White can continue their plan of removing the knights from the board. } ( 1... Nc4 $4 { is a blunder. } 2. Rxc4 $1 { wins a piece, since } dxc4 { is not possible because of } 3. Qxd7 $18 ) 
+ ( 1... Rad8 { Black can insist on driving the knight to c4. However, in this case White can take the sting out of the outpost by forcing a series of piece exchanges. } 2. Nxe5 Nxe5 3. Bd4 $1 { After exchanging one pair of knights, White prepares the exchange of bishops. } Nc4 4. Qc3 Bxd4 5. Qxd4 $14 { The reduced material on the board reduces the influence of Black's outposted knight, while making Black's weaker structure a more significant factor. } ) 
+2. Nxe5 Nxe5 3. Bf4 $5 { Targeting the last remaining knight, taking advantage of the fact that ...Nc4 continues to be impossible because of Rxc4. } Rad8 4. Bxe5 $1 Rxe5 5. Nf3 $11 { Now that both of Black's knights have been eliminated, the c4 outpost is not significant. In this example we focused on two ideas. The first is to exchange the piece before it can reach the outpost. If this is not possible, then you can also try to seek out other piece exchanges to reduce the value of the outpost. In our final example, we'll look at more aggressive measures that can be taken when a piece has already established itself on the outpost. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39701267/"]
+[Date "????.??.??"]
+[Round "11.6"]
+[White "2.3) The Fight For Outposts"]
+[Black "Fighting Against Outposts 2"]
+[Result "*"]
+[FEN "1nr2r1k/p1b1q1pp/4p3/2NnNp2/3P4/P3B2P/1P2QPP1/2R2RK1 b - - 0 1"]
+
+ { Sometimes, you will find yourself having lost the battle for the outposts. When you find yourself in a critical situation like this, you must avoid letting your opponent consolidate their advantage. The way to do this is by finding tactical opportunities and ways of generating counterplay. In the current position, Black's situation is critical since White has two monster knights on e5 and c5. In the absence of tactical opportunities, this type of positional advantage is enough to win. For this reason, Black must find a way to strike immediately. } 1... { -KEY- } Bxe5 $1 { The first step in Black's plan. By capturing on e5, White's knight on c5 is destabilised. It goes from sitting on an outpost to a weak square, and this adds potency to Black's next move. } ( 1... f4 $2 { Immediately challenging White's bishop plays into White's hands. For example: } 2. Bd2 Bxe5 3. Qxe5 $1 Nc6 4. Qxe6 $18 { White is two pawns to the good. } ) 
+2. dxe5 f4 $1 { Black is playing concrete and aggressive chess, the right prescription for situations where you are under positional pressure. } 3. Bd4 { Since the knight is no longer supported by a pawn, White's reply is forced. } ( 3. Bd2 $4 Rxc5 $19 ) 
+f3 $1 { The first positional gain! The pawn break fractures White's pawn chain. } 4. Qe4 $1 { White is suddenly the one forced to be very precise. Any other move besides this would have lost. } ( 4. gxf3 $4 { The pawn is poisoned. } Nf4 $1 { With the White bishop no longer patrolling the c1-h6 diagonal, Black's knight can jump into f4 with an attack on the queen. } 5. Qe4 Qg5 { Black's queen steps in with check. No matter what White plays, Black will reply with Qg2#. } ) 
+ ( 4. Qd2 $2 { also loses after } Nf4 5. Rfe1 Qg5 6. g3 Nxh3 { Black wins the white queen. } ) 
+fxg2 { The damaged structure has left weak squares on f3, f4 and h4 that Black can hope to target. } ( 4... Nf4 $2 { Now this idea no longer works, as White can reply with } 5. Qxf3 $18 ) 
+5. Kxg2 { White is up a pawn, but Black is the one with the safer king. } ( 5. Qxg2 $2 Nf4 $1 6. Qg4 Nc6 7. Be3 { Bd4-c3 would lose the knight on c5, but now White's central pawn falls. } Nxe5 $19 { White is powerless against the combined threats on the kingside. } ) 
+Nf4+ { A mating nets begin to form around the White king. } 6. Kh2 Nc6 { Threatening ...Nxd4 followed by ...Nf4-e2, winning material. } 7. Be3 Qh4 8. Bxf4 { White has to eliminate the strong piece. } Rxf4 9. Qg2 Rcf8 $1 { Targeting the f2 pawn. } ( 9... Nd4 { This move looks very strong, but runs into a crushing tactic. } 10. Nxe6 $1 { Suddenly White threatens checkmate both on g7 and along the back rank! } Rg8 11. Nxf4 $18 { White is two pawns and an exchange to the good. } ) 
+10. Nd3 { Already for 9 moves White has been forced to react to Black's play. Finally, White has to retreat the advanced knight to tend to the threats against their king. } Rf3 11. Rxc6 Rxd3 { In spite of White's extra pawn (and the possibility of winning a second one on e6), the position is equal due to White's weakened structure and problems of king safety. Importantly for Black, the character of the game has changed completely. White's outposts on e5 and c5 no longer exist, and neither do the knights that previously occupied them! } 12. Rxe6 h6 13. Rg6 Qf4+ 14. Kh1 Qxe5 $11 { This brings us to the end of this section. In the fight for an outpost, well-timed piece exchanges, prophylactic moves, and an ability to shift from a positional to a dynamic battle at the right moment are all essential tools that will help you improve your results in this kind of confrontations at the chessboard. Staying alert with sharp prophylactic moves is also important. Finally, when all else fails as in this final position, then an all-out tactical war may be the only path left. After all, a positional bind is like your enemy putting you in a straitjacket. Once you sense their intentions, you must find a way to escape before your fate is sealed. Two sections remain in this chapter, in both cases introducing new terms relating to outposts. The first of these are called 'power outposts', while the second and final topic will cover 'pseudo outposts'. Let's dive in! } 
+ *

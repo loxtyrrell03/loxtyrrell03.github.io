@@ -1,0 +1,115 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964798/"]
+[Date "????.??.??"]
+[Round "35.1"]
+[White "6.3) Semi-Open Files"]
+[Black "Attacking The Backward Pawn"]
+[Result "*"]
+[FEN "3r2k1/pp3ppp/q1p1p3/2PrP3/3PQ3/P2R3P/1P4PK/3R4 b - - 0 26"]
+
+ { We will split our study on semi-open files into two parts. First, we'll look at backward pawns. Then, we'll move on to applying (and defending against) piece pressure where we'll cover some situations that arise often. Our first example on backward pawns is taken from the game Chajes,O - Capablanca,J (1915) . The most important positional feature is that Black has a powerful semi-open d-file, leaving him with active rooks while White has to defend passively. Let's see how Capablanca tried to make progress. } 26... { -KEY- } b6 { The backward pawn on d4 leaves White on the defensive, so Black goes for a pawn break to put the pressure on. } 27. cxb6 $2 { Chajes mistakenly changes the structure, with close to fatal consequences. } ( { White needed to play } 27. b4 $11 { when he would have been passive, but holding everything together as the rook on d3 does a great job of defending the vulnerable a3 pawn. } ) 
+axb6 $1 { Now the ...c6-c5 pawn advance becomes inevitable, and there is no configuration of heavy pieces that can prevent the deadly pin on the d4 pawn from leading to the eventual loss of Black's d-pawn. } 28. Rg3 { White stakes his future on an attack, but the absence of minor pieces coupled with Black's intact kingside pawn cover renders the plan ineffective. } c5 29. Qh4 $2 { White goes for one last trick. } ( 29. Qf4 { This move was better, creating some tactical resources based around moves such as Qf4-f6 and h4-h5-h6. } ) 
+g6 $1 { Killing off any attacking possibilities. The pawn on d4 is not running anywhere. } ( 29... Rxd4 $4 { Black would have had a sleepless night if he fell for White's desperate trick. } 30. Qxd8 $1 Rxd8 31. Rxd8 ) 
+30. Rf1 $4 { This blunder ended the game prematurely, though White's position was already lost. } ( 30. Rgd3 { was the best practical try, but here Black would pressure the d4 pawn with the queen sooner or later, leading to a loss of the vital d4 pawn. For example: } R8d7 31. Qe4 Qa4 $19 ) 
+Qxf1 { White resigned. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964799/"]
+[Date "????.??.??"]
+[Round "35.2"]
+[White "6.3) Semi-Open Files"]
+[Black "Fixing The Backward Pawn"]
+[Result "*"]
+[FEN "3rnrk1/pq1pbppp/1p2p3/8/2PQP3/1PN2PP1/PB4KP/3R1R2 w - - 0 16"]
+
+ { Our second example is also taken from a famous classic game - Botvinnik,M -Capablanca,J (1936) . White has what is known as a Maroczy Bind (pawns on e4 and c4 creating a vice-like grip on the d5 square) . As a result, Black's pawn on d7 finds it very difficult to advance beyond the d6 square. The broad plan here that has been discovered in times after Capablanca is the so-called 'Hedgehog formation' where Black places their pawns on e6, d6, b6, and a6 (forming a row of 'spines', hence the name) . However, at this time the correct treatment was not known and so Black was forced to think independently. He quickly goes wrong... } 16. { -KEY- } Rd2 { White builds up his forces along the semi-open file. } f5 $6 { Black has the right idea of undermining the centre, but the wrong execution. The queenside pawn break with ...a6 and ...b5 would have been a better approach since this would not have weakened either the kingside or the e5 square. } ( 16... a6 $1 { This is the modern approach. } 17. Rfd1 b5 $1 18. cxb5 axb5 { By exchanging off White's c4 pawn, it becomes more likely that in the future Black could advance their d-pawn to d5, in this way getting rid of the backward pawn. } ) 
+17. Rfd1 Bg5 18. Rd3 { The pressure against the d7 pawn is already very uncomfortable. } Bf6 { Black provokes the advance of the e-pawn in order to shut down the a1-h8 diagonal, and at at the same time soften up the h1-a8 diagonal. } 19. e5 $1 { Nevertheless, the price to pay is too high. White is inching closer to a complete bind on the d7 pawn. } Be7 20. Qf2 $1 { Stepping the queen back, since the rooks are more effective at pressuring the d7 pawn. The pawn on d7 is now a backward pawn, which is defined as 'a pawn that is behind all pawns of the same color on the adjacent files, and cannot be safely advanced.' } Rf7 ( 20... d6 $2 { Black cannot untangle. } 21. Ba3 $18 { The pawn will fall, since ...dxe5 is met by Rxd8, winning material. } ) 
+21. Qd2 ( { Tripling up on the d-file once again. The threat is } 21. Qd2 -- 22. Rxd7 { . } ) 
+Bb4 22. a3 Bf8 { Provoking the move 22.a3 has not changed matters. The problem remains the pawn on d7! Now Botvinnik sets about the task of improving his position further. Notice the paralysing effect that the vulnerable d-pawn has had on Black's game. Every piece is tied down in an effort to keep it from falling. } 23. Ne2 $1 { The knight was not doing much on c3, so Botvinnik goes about improving it. } Nc7 24. Nf4 g6 25. h4 $1 { With the knight firmly anchored on the f4 square, ideas like Nxe6 or even h4-h5 at the right moment are problematic. } b5 { Out of frustration, Black takes active measures. However, this only worsens matters as there are now more open lines of attack for White (the c-file, and the a5-d8 diagonal come to mind). } 26. cxb5 Qxb5 27. Rc1 $1 { Shifting his attention to the newly opened file. } Qb7 28. Rxc7 $6 { Botvinnik spots a way of winning a pawn and is unable to resist. It is understandable. Experienced players understand that 'tactics flow from a superior position' and so White had likely been on the lookout for a way of forcing a breakthrough for some time. } ( { However, he overlooked a much cleaner solution in the form of } 28. Qa5 $1 { The knight cannot move without losing the rook on d8. } Rc8 ( 28. Rxc7 d5 29. exd6 Bxd6 30. Be5 { is also hopeless. } ) 
+29. Rdc3 d5 30. Nxe6 $18 { Black loses an exchange and a pawn, and has almost no practical chances to trick his opponent. } ) 
+Qxc7 29. Nxe6 dxe6 30. Rxd8 $18 { White has 'cashed in' his advantage for one pawn. Coupled with the superior activity this is enough to be objectively winning. As a side note, the failure to find 28.Qa5 would go on to haunt Botvinnik, as he was later tricked and lost the game! It's a good reminder that, when in a winning position, it pays to be ruthless and to snuff out even the smallest of practical chances for your opponent. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964800/"]
+[Date "????.??.??"]
+[Round "35.3"]
+[White "6.3) Semi-Open Files"]
+[Black "Avoiding Backward Pawns"]
+[Result "*"]
+[FEN "2r1k2r/1q1nbpp1/p1bp3p/1p2pP2/4P1P1/P1NQBB2/1PP4P/3R1RK1 w k - 0 19"]
+
+ { Since backward pawns and outposts go hand in hand, whenever you have a semi-open file in your favor it's worth thinking of strategies around the outpost available to you. In this position, taken from the game Barden, L - Rossolimo,N (1950) Black has a backward pawn on d6 and so White should consider strategies that target the pawn, or that take advantage of the outpost on d5. However, instead he makes a huge positional mistake on his next move. } 19. { -KEY- } b4 $2 { White needlessly gifts his opponent an outpost on c4, at the same time creating backward pawns on a3 and c2. This reckless move set the scene for an eventual defeat. } Nb6 $1 { Immediately hunting the square. } 20. Bc1 { Retreating to defend the a3 pawn. } ( 20. Bxb6 $2 { would only worsen matters for White since after } Qxb6 { White has too many weaknesses on the dark squares. } ) 
+Nc4 21. Nd5 { White jumps into the outpost now, but it only worsens matters. } Bxd5 22. exd5 { The d-file has been shut down, while the c4 outpost remains especially strong since the knight has the backing of the Black rook on c8. } ( 22. Qxd5 Qxd5 23. Rxd5 Bg5 $17 { White would also suffer a lot here, as Black will force off the bishop pair and leave White with holes along both light and dark squares. } ) 
+Bg5 $1 { Black's central pawns are on dark squares, so exchanging his bishop is a clever idea. } 23. Rfe1 Qe7 24. Be4 Bxc1 25. Rxc1 h5 $1 { A nasty pawn break. White's position is already critical on the queenside, and now his kingside is about to collapse. } 26. Qg3 hxg4 27. Qxg4 Qf6 28. Bd3 Rh4 { In the end, Black's rook entry comes along the semi-open h-file. The position is already lost. In case you are curious, you can check out the rest of the game unannotated. } 29. Qg3 Nb6 30. Re4 Rh5 31. Rg4 Nxd5 32. Rxg7 Nf4 33. Rg8+ Kd7 34. Rxc8 Kxc8 35. Qg8+ Kb7 36. Kh1 Qh6 37. Qg1 Nxd3 38. cxd3 Rxh2+ ( { White resigned since after } 38... Rxh2+ 38. Qxh2 { there is } Qxc1 { . } ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964801/"]
+[Date "????.??.??"]
+[Round "35.4"]
+[White "6.3) Semi-Open Files"]
+[Black "Carlsen-M - Bacrot-E (2022)"]
+[Result "*"]
+[FEN "r3k2r/pp1nqpp1/2pbpnp1/3p4/2PP4/2N1PP2/PPQB2PP/2KR1B1R w kq - 0 12"]
+
+ { In our final backward pawns example we will explore the link between semi-open files, outposts and backward pawns. The position appeared in the game Carlsen,M - Bacrot,E (2022) . } 12. { -KEY- } Kb1 $1 { Anticipating that the c-file may open up in the near future. } dxc4 $6 { The veteran Grandmaster from France goes for a dubious plan of queenside expansion. } 13. Bxc4 b5 { This was Black's idea. In principle it makes sense to go for a pawn storm since White's king is on the queenside. The problem is that now White has a semi-open c-file to operate on. } 14. Be2 a5 15. g4 { White goes for his own expansion. } O-O 16. g5 Nh5 ( { Black would like to bring the knight to centre, but the problem is that after } 16... Nd5 17. h4 $16 { there is no way for Black to stop the h5 pawn break, when White's attack will prove to be the more powerful one. } ) 
+17. Ne4 $1 { With Black's knight stranded on h5, White plants his own on the e4 square. The positional attack along the c-file begins to take shape. } Rfc8 18. Rc1 $1 Bb4 ( 18... c5 $2 { is not possible because of } 19. Bxb5 cxd4 20. Qxc8 Rxc8 21. Rxc8 Kh7 22. exd4 $18 { Black's queen stands no chance against the two rooks and a pawn. } ) 
+ ( 18... e5 $6 { only makes matters worse for Black, since after } 19. dxe5 Nxe5 20. f4 Nd7 21. Nxd6 Qxd6 22. Rhd1 $18 { White is left with the bishop pair, a better centre, and tremendous piece pressure along the c- and d-files. } ) 
+19. f4 $1 { Stabilising the position, and killing off any possibility of an ...e5 break. } ( { Black's last move was probably played in the hope that White would play } 19. Bxb4 { , when at least after } axb4 { Black would get a semi-open file of his own, keeping alive some faint hopes of drumming up an attack. } ) 
+Bxd2 20. Qxd2 { With the exchange of dark-squared bishops Black loses his best defender of the c5 square. } Nb6 21. Nc5 $1 { The start of a precise knight maneuver. } Nd5 22. Nd3 $1 { By the way, this game was played in 3+2 blitz time controls as it was a Titled Tuesday event on chess.com. In spite of the fast time controls, here's a fun fact: Magnus has played the top engine move every time since our starting position! } a4 23. Bf3 Qd6 24. Rc5 { With the knight having left the outpost after 22.Nd3, it's the turn of the rook to occupy it. } Nb6 25. Ne5 { Cutting out ...Nc4 ideas. } Nd5 26. Rhc1 a3 27. b3 { White's strategy comes to a successful end. The backward pawn on c6 is about to fall. } Ne7 ( 27... Ra6 { can be met by } 28. Rxb5 cxb5 29. Rxc8 Kh7 30. Nxf7 $18 ) 
+28. Nxc6 Nxc6 29. Rxc6 Rxc6 30. Rxc6 $18 { White crowns his strategy and collects the backward pawn. To make matters worse for Black, his remaining queenside pawns are weak while his knight remains locked out of the action. } Qd7 31. Rc5 e5 $2 { A final blunder in time trouble, though the position was already hopeless. } 32. Bxa8 { White won by resignation. In going for a plan of queenside expansion, Black had to accept a vulnerable pawn along the semi-open c-file. From here, Magnus coordinated his pieces to make sure it was a backward pawn and then applied piece pressure until the pawn could be captured. This brings us to our second topic of the section, where we'll show examples where one side applies piece pressure along a semi-open file. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964802/"]
+[Date "????.??.??"]
+[Round "35.5"]
+[White "6.3) Semi-Open Files"]
+[Black "Applying Piece Pressure"]
+[Result "*"]
+[FEN "r1b1qrk1/ppp1b1pp/2n2n2/4p3/2P1N3/5NP1/PPQ2PBP/R1BR2K1 b - - 0 1"]
+
+ { Since in the case of semi-open files there is a power imbalance between each side's heavy pieces, you should be seeking out opportunities to apply piece pressure along the file when possible. Let's take a look at a typical example. } 1... { -KEY- } Qh5 $1 { The threat of pinning the knight is especially strong with the rook x-raying it from f8. Since White cannot untangle, the position is already lost. } 2. Nxf6+ { Exchanging pieces would be a good solution if not for the semi-open file. } ( 2. Be3 { This move protects the d4 square, but the pressure against the f3 knight becomes too great after } Nxe4 3. Qxe4 Bg4 $19 { Black wins at least an exchange. } ) 
+Rxf6 $1 { Threatening ...Rxf3 next. } 3. Ng5 { White tries an aggressive solution. } ( 3. Qe4 Bg4 4. Rd3 Raf8 { The arrival of the second rook forces a collapse of the kingside. } 5. Nh4 Rxf2 $19 ) 
+Nd4 { The presence of a central outpost compounds White's problems. } 4. Qd3 Bf5 ( 4... Rd6 { , switching to the open file and combining the threats of ...Bxg5 and ...Ne2+, was another way to win. } ) 
+5. Qd2 Rh6 $1 { Due to the rook lift to the third rank, the h-file functions as a semi-open file in spite of both sides having a pawn. } 6. Bd5+ Kf8 ( { But not } 6... Kh8 $2 { since then White would have had } 7. Nf7 { . } ) 
+7. h4 Bxg5 8. hxg5 { Now mate is unavoidable. } ( { If } 8. Qxg5 { then Black picks up a full rook with } Qxd1 { . } ) 
+Qh2+ 9. Kf1 Bh3+ 10. Ke1 Qg1# { We saw in this example how semi-open files are extremely dangerous dynamic avenues. Since this is a positional course, we won't look at any more examples of aggression along the semi-open file. Instead, we'll finish the section by covering a couple of common patterns to illustrate how you can ease the pressure as the defending side. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964803/"]
+[Date "????.??.??"]
+[Round "35.6"]
+[White "6.3) Semi-Open Files"]
+[Black "Protecting The Base"]
+[Result "*"]
+[FEN "2rq1rk1/4bppp/pn1p4/Np2pP2/4P2P/2N1Q1P1/PPP5/1K1R2R1 w - - 0 19"]
+
+ { This position was reached in an online game between Magnus Carlsen and GM Aleksei Sarana. White has a semi-open d-file, but Black's d6 pawn is for now very stable. Because of this, Magnus focuses on managing the pressure against him on the c-file. } 19. { -KEY- } Qe1 $1 { Prophylaxis against the ...d5 break, and also lending some stability to the knight on a5 by x-raying it. } ( 19. a3 $2 { One careless mistake could cost White the game. } d5 $1 { Whenever fighting along semi-open files, you have to be extremely careful of tactical pawn breaks. If one side can carry out a pawn break like this, they will almost always be better or even winning, since they are able to get rid of their main positional problem - the backward pawn. } 20. Qf3 $2 { White can sidestep the pin, but this allows Black to set up the dream structure. } ( 20. exd5 { was the lesser evil, but after } Bc5 $17 { Black is winning material. } ) 
+d4 $1 { The d6 pawn has gone from Black's major weakness to his biggest strength. } 21. Na2 Nc4 22. Nxc4 bxc4 $19 { Improving the structure. It's true that the c-file is no longer semi-open. However, the b-file has opened up in its place, and this one is even stronger given that the b2 focal point is on a dark square. This favors Black as they are the only side with the dark-squared bishop. White is already lost as he has no good reply against the threat of the ...c3 pawn break. } ) 
+Qc7 { Black applies piece pressure along the semi-open file and once again forces White to find the most precise defense. } 20. Rg2 $1 { The only move that keeps an advantage. When facing pressure along a semi-open file, it is not uncommon that the path to an advantage will be very narrow. This is because usually the opponent will have a lot of dynamic possibilities available to them, like a series of landmines that you must make sure not to step on. } ( 20. a3 $6 Na4 $1 { and now if Nxa4 then Black can reply with ...Qxc2+. } ) 
+ ( 20. Rd2 $2 { This clunky arrangement allows Black to get the ideal pawn break on the semi-open file after } b4 21. Nd1 d5 $1 { Black stands much better, since White cannot play } 22. exd5 Nxd5 23. Rxd5 { due to } Qxc2 24. Ka1 Qc1 ) 
+ ( 20. Qe2 $2 { White should not forget the benefit of having his queen on e1 x-raying the a5 knight, since here after } d5 $1 21. exd5 { Necessary to avoid losing a piece. } ( 21. Nxd5 $2 Nxd5 22. Rxd5 Qxa5 $19 { Black picks up the undefended knight. } ) 
+Bb4 $1 22. Nc6 Bxc3 23. bxc3 Qd6 $17 { Black stands much better due to White's ruined structure. In particular the outposts on c4 and a4 are dangerous as they can assist a quick mating attack. } ) 
+Rfe8 ( 20... b4 $1 { It was best to play this while it was still possible, though after } 21. Nd5 Nxd5 22. Rxd5 $16 { White has a nice edge, since their c2 pawn is well-guarded while Black's d6 pawn is a long-term problem. } ) 
+21. a3 $1 { Now is a good time to shut down ...b4 advances. } Bd8 22. Nb3 { The knight has done its job of guarding against ...Nc4 jumps. } Nc4 23. Nd5 $1 { Magnus spotted that if Black does get tempted by ...Nc4 jumps, then he will abandon control over d5. } Qb7 24. g4 { With the pressure largely resolved on the queenside, the time is right to make further progress on the kingside. } a5 25. g5 a4 ( { The } 25... b4 { break has no sting, since White can reply with } 26. a4 $18 ) 
+26. Nc1 b4 { Desperation. Black knows he's positionally lost on the kingside, so he gives up a pawn to try to open lines. } 27. axb4 Bb6 28. Na2 a3 29. b3 $1 { The lines stay closed! } Nb2 30. Rdd2 Bd4 31. c3 { White has nothing short of a pawn bunker on the queenside! Black had seen enough, and resigned. This game was masterful play from Carlsen, who showed a deep understanding of how to manage piece pressure along the semi-open file. Themes like placing a knight on a5, queen on e1, and guarding against the ...d5 pawn break are established patterns in these deeply studied Sicilian structures. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964804/"]
+[Date "????.??.??"]
+[Round "35.7"]
+[White "6.3) Semi-Open Files"]
+[Black "Changing The Structure"]
+[Result "*"]
+[FEN "2r2rk1/1p2ppbp/p2p1np1/q3n3/4P3/2N1B2P/PPPQBPP1/3R1RK1 w - - 0 1"]
+
+ { In the first example we saw how Magnus used various defensive techniques to hold the base pawn on c2. In this case, the piece pressure along the semi-open file is mostly on the c3 and c4 squares. White has to worry about several annoying ideas, like ...Nc4, ...Qb4, or even the exchange sacrifice with...Rxc3. Fortunately, White can rely on a strong sequence of moves that will completely neutralise the pressure and leave them with a stable edge. Can you find it? } 1. { -KEY- } Nd5 $1 ( 1. f3 $6 { White's advantage would quickly disappear with a typical move like this one: } Qb4 2. Rb1 Nc4 3. Bxc4 Qxc4 { The pressure forces White to give up the bishop pair. } 4. Rfd1 b5 $15 { Black stands better with active pieces and continued pressure along the c-file. } ) 
+Qd8 ( 1... Qxd2 $6 { The tactical complications do not favor Black. } 2. Nxe7 Kh8 3. Rxd2 Nxe4 4. Nxc8 Nxd2 5. Bxd2 Rxc8 6. c3 $16 { White has a great endgame, with the bishop pair and a better structure. } ) 
+2. Nxf6+ Bxf6 3. b3 $14 { Correct! The final move in the sequence is important, to kill off the last remaining threat of ...Nc4. Next up White can even play c2-c4, establishing a Maroczy bind. White stands better with more central space and the bishop pair. Some of you will have seen this pattern before. Much like the defensive configuration that Magnus went for in our previous example, the idea of exchanging one pair of knights and fortifying the structure with b3 and c4 has been known for many years. This brings us to a close for this section, and indeed for the chapter on the whole. What's more, it concludes the part of the course that focuses on piece play. From here, we'll turn our attention to Pawn Play, before finishing the course with a chapter dedicated to the endgame. But before this, feel free to review the chapter summary and - importantly - good luck in the exercise set. Since this was a shorter chapter, there are fewer puzzles to solve than usual. Plus, perhaps a lighter section is deserved after the big puzzle set of the previous chapter! } 
+ *

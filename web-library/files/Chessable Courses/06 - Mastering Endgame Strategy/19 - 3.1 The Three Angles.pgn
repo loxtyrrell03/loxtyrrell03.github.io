@@ -1,0 +1,591 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12556568/"]
+[Date "????.??.??"]
+[Round "19.1"]
+[White "3.1 The Three Angles"]
+[Black "The three angles"]
+[Result "*"]
+
+ { When discussing the role of the rook in the endgame, it makes sense to remember three typical ways this piece works: rear attacks, side attacks and frontal attacks. The ability to switch the rook's angle according to the needs of the position, both when fighting for win or a draw, is imperative for any player aiming at success in the endgame. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552960/"]
+[Date "????.??.??"]
+[Round "19.2"]
+[White "3.1 The Three Angles"]
+[Black "Example 146 by Philidor- A."]
+[Result "*"]
+[FEN "3k4/7R/r2P4/4K3/8/8/8/8 b - - 0 1"]
+
+ { Let's start with something very simple. Black's task is to prevent 2.Ke6, creating the threat of 3.Rh8. The only solution is a rear attack with the rook on White's king. } 1... { -KEY- } Ra1 $1 ( { Equally possible is } 1... Ra2 { , } Ra3 { or even } Ra4 { , but usually in the endgame, the further we can place our rook from the enemy forces, the better. The edges of the board (a- and h-files, 1st and 8th ranks) tend to be the rook's preferred working areas. } ) 
+2. Ke6 Re1+ 3. Kd5 Rd1+ ( { Since White isn't actually threatening anything, most other moves do as well; however, leaving the rear angle with } 3... Re8 $2 { would lead to defeat after } 4. Kc6 Rg8 5. Ra7 $1 { Such a passive defence, with king and rook on the back rank, only works against rook's pawns and knight's pawns. } ) 
+4. Kc6 Rc1+ { White can't make progress: draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552961/"]
+[Date "????.??.??"]
+[Round "19.3"]
+[White "3.1 The Three Angles"]
+[Black "Example 147"]
+[Result "*"]
+[FEN "1r2k3/R7/8/4PK2/8/8/8/8 b - - 0 1"]
+
+ { Bearing the previous example in mind, it is not difficult to spot Black's best defence here. } 1... { -KEY- } Rb6 $1 { Preventing the advance of the enemy king. } 2. e6 ( { The only way to try and progress; e.g. } 2. Rg7 Ra6 3. Rg6 { is useless due to } Rxg6 4. Kxg6 Ke7 ) 
+Rb1 $1 ( { The same procedure as before - once } 2... Rb1 2. Kf6 { is a threat, the rook prepares a rear attack. This two-step method, waiting on the sixth rank until the pawn advances and then launching a rear attack with the rook, was discovered by Philidor. His method keeps great importance in practice, as we will see in a few later examples in this section. } ) 
+3. Kf6 Rf1+ 4. Ke5 Re1+ 5. Kd6 Rd1+ { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552962/"]
+[Date "????.??.??"]
+[Round "19.4"]
+[White "3.1 The Three Angles"]
+[Black "Example 148"]
+[Result "*"]
+[FEN "2R5/8/8/8/3k4/2p5/4K3/6r1 w - - 0 1"]
+
+ { Here is a slightly different case. White hasn't managed to maintain an ideal position with his king in front of the enemy pawn; on the other hand his rook is well placed on the c-file, controlling the black pawn from the rear. How to continue? } 1. { -KEY- } Rc7 $1 { A waiting move which, if possible, tends to be an excellent choice when the opponent has no real threats. } ( { In contrast, the 'active' } 1. Rd8 $2 { fails to } Kc4 2. Rc8 ( { or } 2. Rb8 c2 3. Rc8 Kb3 { with similar play; } ) 
+Kb3 3. Rb8 Kc2 { and Black has drastically improved his king. Then he wins by pushing the pawn to c2 and building a bridge; e.g. } 4. Rc8 Kb2 5. Rb8 Kc1 6. Rc8 c2 7. Rb8 Rg7 $1 { (a switch of angle) } 8. Ke1 Re7 9. Kf2 Re5 $1 10. Rb7 Kd2 11. Rd7 Kc3 12. Rc7 Kd3 13. Rd7 Kc4 14. Rc7 Rc5 { a method discovered by Lucena. } ) 
+Rg2+ 2. Kd1 Rg1+ 3. Ke2 { Black can't make progress: draw. } ( { Of course } 3. Kc2 { is fine as well. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552963/"]
+[Date "????.??.??"]
+[Round "19.5"]
+[White "3.1 The Three Angles"]
+[Black "Example 149 by Philidor- A."]
+[Result "*"]
+[FEN "1r2k3/R7/8/4PK2/8/8/8/8 b - - 0 1"]
+
+ { Now let's see what happens if the weaker side omits the first step in Philidor's defence. } 1... Rb1 ( { Black's first move is actually not the best choice, but I think it is very useful for understanding the topic. As we already know, } 1... Rb6 { is the optimum choice here. } ) 
+2. { -KEY- } Kf6 $1 ( { a) Obviously, } 2. Ke6 Rb6 { is useless for White. } ) 
+ ( { b) As is } 2. e6 Rf1 ) 
+Re1 $1 { Tying the white king to the pawn. } ( { a) In the previous example we saw the successful usage of waiting moves. Here such an idea is clearly mistaken: after } 2... Rb2 $2 3. Ra8 Kd7 4. e6 Kd6 5. Rd8 Kc7 6. e7 { White wins; } ) 
+ ( { b) and } 2... Rb6 $2 3. e6 { is equally bad. } ) 
+ ( { c) } 2... Rf1 $2 { also loses: } 3. Ke6 Kf8 ( { c1) or } 3... Kd8 4. Ra8 Kc7 5. Ke7 { followed by e5-e6, and the black rook lacks the space for a successful side attack from the h-file. } ) 
+4. Ra8 Kg7 5. Kd7 Rd1 ( { the threat was 6.e6, and } 5... Rf7 6. Kd6 { makes no difference; } ) 
+6. Ke7 Rb1 7. e6 { and White wins, thanks to his rook controlling the edge (the a-file); e.g. } Rb7 8. Kd6 Rb6 9. Kd7 Rb7 10. Kc6 Re7 11. Kd6 ) 
+3. Ke6 ( { Or } 3. e6 Rf1 { in Philidor style. } ) 
+Kf8 $1 { To the short side of the pawn, so that the rook will have more space for a future side attack. } ( { Actually } 3... Kd8 { also draws after } 4. Ra8 Kc7 5. Re8 Rh1 6. Kf7 Rh7 7. Kg6 Kd7 $1 { an idea discovered by Lasker; but I wouldn't recommend it since it doesn't work against c- or f-pawns. } ) 
+4. Ra8+ Kg7 5. Re8 ( { Or } 5. Kd6 Kf7 $1 { preventing e5-e6. The text creates the threat of 6.Kd7, so Black needs to find a good defence. } ) 
+Ra1 $1 { A key move, preparing a side attack now that the white rook left the edge. In fact several other moves such as 5...Re2 would also have worked, using the same method somewhat later. } ( { For example, } 5... Re2 6. Kd7 Ra2 7. e6 Ra7 { with similar play as in the main line. However, in general, I think it makes sense to launch the correct plans as soon as we can. For instance, if we imagine the white king on e7 and the pawn on e6 instead, then ...Ra1 would indeed be mandatory. } ) 
+6. Kd7 ( { After } 6. Rd8 Re1 $1 7. Kd6 Kf7 { White hasn't gotten anywhere. } ) 
+Ra7+ 7. Kd6 Ra6+ { Draw. This kind of defensive set-up, with the king on the short side and the rook on the long side of the pawn, is referred to as 'the defence of the long side' in this book. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552964/"]
+[Date "????.??.??"]
+[Round "19.6"]
+[White "3.1 The Three Angles"]
+[Black "Example 150 by Levenfish- Smyslov"]
+[Result "*"]
+[FEN "3R4/4K1k1/4P3/8/8/8/8/r7 b - - 0 1"]
+
+ { If the pawn already managed to reach the sixth rank, then the defence becomes more tricky. } 1... { -KEY- } Ra7+ { Initiating a side attack. } ( { The analogous } 1... Re1 $2 { from the previous example no longer works due to } 2. Kd7 Rd1 ( { or } 2... Kf6 3. Rf8 ) 
+3. Ke8 { and the pawn reaches the seventh rank, which means a win by means of Lucena's bridge, as we saw in Example 148. } ) 
+2. Rd7 ( { a) } 2. Ke8 $2 { runs into } Kf6 3. Rd6 Re7 ) 
+ ( { b) while after } 2. Kd6 Ra6 ( { b1) not } 2. Rd7 Kf6 $2 3. Rf8 Kg7 4. e7 ) 
+3. Ke5 Ra5 4. Rd5 Ra8 $1 { White can't make progress; e. g. } 5. Rb5 Kg6 6. Rb7 ( { b2) or } 6. Kd6 Kf6 { followed by side checks; } ) 
+Ra1 7. Kd6 Ra6 8. Kd7 ( { b3) } 8. Ke7 Ra8 { is similar to 3 Rc7 Kg6! in the main line; } ) 
+Ra8 9. e7 Kf7 { with a draw. } ) 
+Ra8 $1 ( { The easiest choice, denying White of the back rank; though a king raid by } 2... Ra1 3. Ke8 Kf6 4. e7 Ke6 $1 5. Kf8 Rf1 $1 6. Ke8 Ra1 { is possible as well. } ) 
+3. Rd6 $1 { An astute try. } ( { a) After } 3. Kd6 Kf8 ( { a1) or } 3. Rd6 Kf6 4. Rf7 Kg6 5. Rf1 Ra6 $1 { followed by more side checks; } ) 
+4. e7 Ke8 5. Ke6 Ra6 6. Rd6 Ra8 { Black holds more comfortably. } ) 
+ ( { b) While } 3. Rc7 { is well met by the waiting move } Kg6 $1 { as in the main line. } ) 
+ ( { c) In contrast, } 3. Rc7 Rb8 $2 { permits } 4. Ra7 $1 { and the black rook becomes short of space; e.g. } Kg6 ( { c1) or } 4. Rd6 Rb1 5. Ra8 Rb7 6. Kd6 Rb6 7. Kd7 Rb7 8. Kc6 Re7 9. Kd6 { etc. } ) 
+5. Ra1 $1 { (a switch of angle with the aim of dislodging the enemy king from the g-file, thus liberating squares for his own king) } Rb7 6. Kd6 Rb6 7. Kd7 Rb7 8. Kd8 Kf6 ( { c2) or } 8. Rd6 Rb8 9. Kc7 Rb2 10. Re1 $1 { and the pawn reaches e7, after which the bridge decides; } ) 
+9. e7 Rb8 10. Kc7 Re8 11. Kd6 $1 Rb8 12. Rf1 Kg7 13. Kc7 Ra8 14. Ra1 $1 Re8 15. Kd7 { and wins. This variation shows the importance of controlling the edge with the rook, in this case the a-file. } ) 
+Kg6 $1 { Just as after 3.Rc7 Black should try to maintain the current defensive set-up. } ( { In contrast, } 3... Ra7 $2 { fails to } 4. Ke8 $1 { intending } Kf6 5. e7 { with check. This is the point behind 3.Rd6, and no less than Magnus Carlsen actually fell victim of such a trap once, against Aronian in Moscow 2006. } ) 
+4. Rc6 ( { As we saw earlier, } 4. Kd7 Kf6 5. e7 Kf7 { is useless for White. } ) 
+Kg7 $1 { White can't make progress: draw.The defence of the long side is quite relevant in practice since, for various reasons, Philidor's defence might not be available. For example, in the aforementioned Aronian-Carlsen game, the rook and pawn vs. rook ending emerged with the black rook already placed on f1, unable to reach the sixth rank. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552965/"]
+[Date "????.??.??"]
+[Round "19.7"]
+[White "3.1 The Three Angles"]
+[Black "Example 151"]
+[Result "*"]
+[FEN "4r3/Rp2P3/3K1k2/8/8/8/8/8 w - - 0 1"]
+
+ { Now let's see a few examples featuring a frontal attack.In this very simple example, White wins if he exploits the mobility of the rook. } 1. { -KEY- } Ra1 $1 { Switching to a frontal attack. } ( { In contrast, the greedy } 1. Rxb7 $2 { just draws after } Kf7 2. Ra7 Rb8 $1 { . } ) 
+Rxe7 ( 1... Kf7 { is met by } 2. Rf1 Kg7 3. Kd7 ) 
+2. Rf1+ ( { A decisive piece of deflection.Incidentally, White also wins without the b7-pawn on the board: } 1. Ra1 $1 Rb8 { (as after 3.Rc7 Rb8? in the previous example, the black rook runs out of space here) } 2. Rf1 Kg7 3. Kc7 $1 Ra8 4. Ra1 $1 { etc. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552966/"]
+[Date "????.??.??"]
+[Round "19.8"]
+[White "3.1 The Three Angles"]
+[Black "Example 152 by Levenfish- Smyslov"]
+[Result "*"]
+[FEN "7r/8/4k3/8/2P5/2K5/8/3R4 w - - 0 1"]
+
+ { A frequent situation for a frontal attack is when the defender's king has been cut off from the pawn's file, as in the next three examples.A typical plan for the attacker in such positions is the following: 1. transfer the king to a square located at two squares' distance diagonally from the pawn (here: a6 or e6); 2. once the pawn is attacked, protect the pawn with the rook; 3. advance the pawn, assisted by the king. If the defender can't interfere with this plan at some moment, he is bound for defeat. } 1. { -KEY- } Kb4 Rb8+ $1 2. Ka5 Rc8 $1 { Keeping up the frontal attack. Black's main priority is to prevent the advance of the pawn; } ( 2... Ra8 $2 { would be wrong in view of } 3. Kb6 Rb8 4. Kc7 { and the pawn is ready to move forward. } ) 
+3. Kb5 Rb8+ 4. Ka6 { The first step of the plan has been achieved. } Rc8 ( 4... Ra8 $2 { again loses after } 5. Kb7 Ra5 6. Kb6 { and 7.c5. } ) 
+5. Rd4 { The second step. } ( { Less critical is } 5. Rc1 Kd6 { and the black king approaches the pawn; e.g. } 6. Kb7 Rc7 7. Kb6 Rc6 8. Kb5 Kc7 { with a draw in Philidor style. } ) 
+Ke5 $1 ( { The only defence against the threat of } 5... Ke5 5. Kb7 ) 
+6. Rd5+ ( { If } 6. Rh4 { then } Kd6 $1 { again secures the draw; e.g. } 7. Kb7 Rc7 8. Kb6 Rc6 9. Kb5 Rc5 10. Kb4 Rg5 ) 
+Ke6 7. Kb5 { White tries a new plan. } Rb8+ 8. Ka4 Rc8 9. Kb4 Rb8+ 10. Rb5 Rh8 11. Rb7 { To cut off the black king from the seventh rank. However, White's own king is too remotely placed for this idea to be successful. } Kd6 12. Kb5 Rh5+ 13. Kb6 Rc5 ( { Now the only way to save the pawn is } 13... Rc5 14. Rd7 Kxd7 15. Kxc5 { but then follows } Kc7 { with a draw. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552967/"]
+[Date "????.??.??"]
+[Round "19.9"]
+[White "3.1 The Three Angles"]
+[Black "Example 153 by Levenfish- Smyslov"]
+[Result "*"]
+[FEN "7r/8/4k3/8/2P5/2K5/8/3R4 w - - 0 1"]
+
+ { Let's try something else for White from the same position: } 1. { -KEY- } c5 { In order to avoid the frontal checks, White pushes the pawn at once. } ( { Now it transpires that after } 1. c5 Rc8 $2 2. Kc4 { , followed by 3.Kb5 (or 3.c6, if Black plays 2...Rb8), the advance of the white pawn and king can't be prevented. Fortunately for Black, there is another defensive method available. } ) 
+Ke7 $1 ( { Also possible is } 1... Rh4 { cutting off White's king along the 4th rank, for example } 2. c6 Ke7 $1 3. Rd7 Ke8 { when White is unable to progress. In fact, in the later chapter about cutting the king off, we will come across an almost identical situation in the example Gashimov - Jakovenko } ) 
+2. Kc4 Rd8 $1 ( { Thus Black creates a bridge for his king towards the queenside, aware that the pawn ending arising after } 2... Rd8 3. Rxd8 Kxd8 4. Kb5 Kc7 { is drawn. } ) 
+3. Rh1 Kd7 4. Rh7+ Kc6 5. Rh6+ Kc7 ( { Black draws; e.g. } 5... Kc7 6. Kb5 Rb8 ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552968/"]
+[Date "????.??.??"]
+[Round "19.10"]
+[White "3.1 The Three Angles"]
+[Black "Example 154 by Levenfish- Smyslov"]
+[Result "*"]
+[FEN "7r/4k3/8/8/2P5/2K5/8/3R4 w - - 0 1"]
+
+ { However, if we arrange the same position with the black king on e7 instead of e6, the outcome is different: } 1. { -KEY- } Kb4 $1 ( { Incidentally, with Black to move the starting position is a draw: } 1. -- Rd8 $1 2. Rxd8 ( { or } 2. Rh1 Kd6 { and the king reaches the c-file; } ) 
+Kxd8 3. Kb4 ( { or } 3. Kd4 ) 
+Kc8 $1 { taking the opposition next move if White approaches with his king. } ) 
+Rb8+ ( { This time a bridge with } 1... Rd8 { no longer works, due to } 2. Rxd8 Kxd8 3. Kb5 { and White wins. } ) 
+2. Ka5 Rc8 3. Kb5 Rb8+ 4. Ka6 Rc8 5. Rd4 { White has achieved the two initial steps of the plan outlined inExample 152. } Ke6 ( { There is nothing better; e.g. } 5... Rb8 6. c5 ) 
+6. Kb7 $1 Rc5 ( { Black has no time for } 6... Ke5 { due to } 7. Rd5 ) 
+7. Kb6 Rc8 8. c5 { White wins by Lucena's bridge in the end. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552969/"]
+[Date "????.??.??"]
+[Round "19.11"]
+[White "3.1 The Three Angles"]
+[Black "Example 155- Rajlich- I. vs. Szczepkowska- K.- Polish Women’s Championship- Warsaw 2012"]
+[Result "*"]
+[FEN "5k2/1R6/4K3/4P1p1/rp6/8/8/8 b - - 0 1"]
+
+ { Now it is time to see some of these ideas in practice, starting with the rear attacks.In exchange for her pawn deficit White has much the more active pieces, so Black should be careful. } 1... { -KEY- } Ra6+ $1 { Initiating Philidor's defence is the easiest way to a draw. } ( { a) Another practical choice is } 1... b3 { in order to meet } 2. Kf6 { with } Rf4 ) 
+ ( { b) or else } 1... Ra1 { with the same idea of a rear check. } ) 
+ ( { c) In the game Black instead opted for the careless } 1... g4 $4 { and after } 2. Kf6 Ra8 3. Rxb4 g3 4. e6 g2 5. Rh4 $1 ( { c1) a decisive switch of angle; in contrast } 4... Ra6+ 4. Rg4 { permits the unexpected } Ra7 6. Rxg2 Rf7 $1 ) 
+g1=Q $11 6. Rh8 Qg8 7. e7 { she had to resign. } ) 
+2. Kf5 ( { Or } 2. Kd7 Kf7 3. Rxb4 Ra7 { with a side attack. } ) 
+Rc6 3. e6 Rc1 { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552970/"]
+[Date "????.??.??"]
+[Round "19.12"]
+[White "3.1 The Three Angles"]
+[Black "Example 156- Volkov- S. vs. Rublevsky- S.- Russia 2002"]
+[Result "1/2-1/2"]
+[FEN "8/6pk/7p/R7/7P/5P1K/2r3P1/8 b - - 0 1"]
+
+ { Here are two examples featuring rear attacks with more pawns on the board. } 1... { -KEY- } Rf2 $1 { In rook endings with one extra pawn on the same flank, a rear attack tends to be an excellent idea for the defender. } 2. Rf5 Kg6 3. g4 Kh7 4. Kg3 Rf1 $1 { The rook keeps its preferred angle. } 5. Ra5 Rg1+ 6. Kf4 Rh1 7. h5 Rh3 8. Ra3 Kg8 9. Ke5 Kh7 10. Ke4 Rg3 11. Rd3 Rg1 12. Rd2 ( { Or } 12. Kf5 Rg3 { and White doesn't make progress. } ) 
+Rg3 13. Kf4 Rg1 14. Kf5 Rf1 15. f4 Rg1 16. Rd7 { Preparing g4-g5. } ( { The immediate } 16. g5 { permits } hxg5 17. fxg5 g6 $1 18. hxg6 Kg7 { with a rapid draw; e.g. } 19. Rd7 Kg8 20. g7 Ra1 $1 21. Kg6 Ra6 22. Kh5 Ra1 { etc. } ) 
+Rf1 $1 { Next Black concentrates on preventing or neutralizing the g4-g5 advance. By the way, in the game L.Stein-M.Tal, Parnu 1971, Tal defended the same ending in very similar fashion. } 17. Ke4 Rg1 $1 18. Kf3 Rf1+ 19. Kg3 Rg1+ 20. Kh3 Rf1 21. f5 { This doesn't make much sense, but White had no other way of progressing. } Kg8 ( { Another option is } 21... Rf2 { for example, } 22. Kg3 Rf1 23. Rd8 Re1 24. Kf4 Rf1 25. Ke4 Rg1 ) 
+22. Rd6 Kf7 23. Rg6 Rf3+ { The rook stays on the f-file so as to rule out f5-f6. } 24. Kh2 Rf2+ 25. Kg3 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553051/"]
+[Date "????.??.??"]
+[Round "19.13"]
+[White "3.1 The Three Angles"]
+[Black "Volkov- S. vs. Rublevsky- S.- #1"]
+[Result "1/2-1/2"]
+[FEN "8/6pk/7p/R7/7P/5P1K/2r3P1/8 b - - 0 1"]
+
+ { Here are two examples featuring rear attacks with more pawns on the board. } 1... { -KEY- } Rf2 $1 { In rook endings with one extra pawn on the same flank, a rear attack tends to be an excellent idea for the defender. } 2. Rf5 Kg6 3. g4 Kh7 4. Kg3 Rf1 $1 { The rook keeps its preferred angle. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553052/"]
+[Date "????.??.??"]
+[Round "19.14"]
+[White "3.1 The Three Angles"]
+[Black "Volkov- S. vs. Rublevsky- S.- #2"]
+[Result "1/2-1/2"]
+[FEN "8/6pk/7p/5K1P/5PP1/8/3R4/6r1 w - - 0 16"]
+
+16. { -KEY- } Rd7 { Preparing g4-g5. } ( { The immediate } 16. g5 { permits } hxg5 17. fxg5 g6 $1 18. hxg6 Kg7 { with a rapid draw; e.g. } 19. Rd7 Kg8 20. g7 Ra1 $1 21. Kg6 Ra6 22. Kh5 Ra1 { etc. } ) 
+Rf1 $1 { Next Black concentrates on preventing or neutralizing the g4-g5 advance. By the way, in the game L. Stein-M.Tal, Parnu 1971, Tal defended the same ending in very similar fashion. } 17. Ke4 Rg1 $1 18. Kf3 Rf1+ 19. Kg3 Rg1+ 20. Kh3 Rf1 21. f5 { This doesn't make much sense, but White had no other way of progressing. } Kg8 ( { Another option is } 21... Rf2 { for example, } 22. Kg3 Rf1 23. Rd8 Re1 24. Kf4 Rf1 25. Ke4 Rg1 ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552971/"]
+[Date "????.??.??"]
+[Round "19.15"]
+[White "3.1 The Three Angles"]
+[Black "Example 157- Acs- P. vs. Zvjaginsev- V.- European Championship- Ohrid 2001"]
+[Result "1/2-1/2"]
+[FEN "8/5R2/4p3/4P3/6pk/4r3/6K1/8 w - - 0 1"]
+
+ { At first sight, White seems to be in big trouble since the e5-pawn can't be saved. However, a rear attack comes to his avail. } 1. { -KEY- } Rh7+ Kg5 2. Rg7+ Kf4 3. Rf7+ Kxe5 4. Rg7 { In order to tie Black's pieces to the defence of his pawns. } Kf5 5. Rg8 $1 { To the edge, increasing the rook's range. It is worth noticing that if the black g-pawn was still on g5, then the king could have hidden on g4 at this point. } e5 6. Rf8+ Ke4 7. Rg8 g3 ( { Or } 7... Re2 8. Kg3 $1 ( { But not } 7... g3 7. Kf1 $2 Ra2 { , when } 9. Rxg4 { fails to } Kf3 { Generally speaking in the endgame, avoid leaving your king cut off on the first (or eighth) rank. } ) 
+ ) 
+8. Rd8 $1 { Obviously, the g3-pawn was untouchable. Now it transpires that Black can't make progress easily without losing that pawn. } Kf5 9. Rf8+ Ke6 10. Re8+ Kd7 11. Rg8 Kd6 ( { Or } 11... e4 12. Rxg3 { with a draw. Note that in the following, Acs doesn't let his opponent play ... e5-e4, after which the transfer of the black king to e3 would become dangerous for him. } ) 
+12. Rd8+ Kc5 13. Rc8+ Kd4 14. Rd8+ Ke4 15. Ra8 { Some waiting tactics until the black king defines his next step. } Rd3 16. Ra7 Kf5 17. Rf7+ $1 ( { Passive defence with } 17. Ra8 $2 { permits } e4 $1 18. Rf8 Ke5 19. Re8 Kf4 20. Rf8 Ke3 21. Kxg3 Ra3 $1 { , seizing the edge, which means that the defence of the long side won't work properly. } ) 
+Ke6 18. Ra7 Kd5 ( { Now if } 18... e4 { , White was ready with the reply } 19. Ra5 $1 { , cutting off the king from the fifth rank, when neither } Rd5 ( { nor } 19... e3 20. Kxg3 ) 
+20. Ra6 { leads anywhere for Black. } ) 
+19. Rd7+ Kc4 20. Re7 Kd4 21. Rd7+ Ke3 22. Ra7 $1 Kf4 ( { On } 22... e4 23. Kxg3 { the point of White's previous move becomes clear: his rook now controls the edge, and after } Ke2 24. Kg2 e3 25. Ra1 $1 Rd2 26. Kg3 { , the defence of the long side secures a draw. } ) 
+23. Rf7+ Kg4 24. Rg7+ Kf5 25. Rf7+ Ke6 26. Ra7 Rc3 27. Ra8 Kd5 28. Rd8+ Kc4 29. Re8 Kd4 30. Rd8+ Ke3 31. Ra8 $1 ( { Again to the edge; so that } 31. Ra8 e4 { can be met by } 32. Kxg3 Kd2 33. Kg2 ) 
+Kd2 32. Re8 Re3 33. Ra8 e4 34. Re8 $1 { Restricting the enemy rook. } Kd3 35. Rd8+ Kc4 36. Re8 Kd5 37. Rd8+ Ke6 38. Re8+ Kd6 39. Rd8+ Ke7 40. Rg8 Kd6 41. Rxg3 Rxg3+ 42. Kxg3 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553053/"]
+[Date "????.??.??"]
+[Round "19.16"]
+[White "3.1 The Three Angles"]
+[Black "Acs- P. vs. Zvjaginsev- V.- #1"]
+[Result "1/2-1/2"]
+[FEN "8/5R2/4p3/4P3/6pk/4r3/6K1/8 w - - 0 1"]
+
+ { At first sight, White seems to be in big trouble since the e5-pawn can't be saved. However, a rear attack comes to his avail. } 1. { -KEY- } Rh7+ Kg5 2. Rg7+ Kf4 3. Rf7+ Kxe5 4. Rg7 { In order to tie Black's pieces to the defence of his pawns. } Kf5 5. Rg8 $1 { To the edge, increasing the rook's range. It is worth noticing that if the black g-pawn was still on g5, then the king could have hidden on g4 at this point. } e5 6. Rf8+ Ke4 7. Rg8 g3 ( { Or } 7... Re2 8. Kg3 $1 ( { But not } 7... g3 7. Kf1 $2 Ra2 { , when } 9. Rxg4 { fails to } Kf3 { Generally speaking in the endgame, avoid leaving your king cut off on the first (or eighth) rank. } ) 
+ ) 
+8. Rd8 $1 { Obviously, the g3-pawn was untouchable. Now it transpires that Black can't make progress easily without losing that pawn. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553054/"]
+[Date "????.??.??"]
+[Round "19.17"]
+[White "3.1 The Three Angles"]
+[Black "Acs- P. vs. Zvjaginsev- V.- #2"]
+[Result "1/2-1/2"]
+[FEN "3R4/8/8/4p3/3k4/4r1p1/6K1/8 b - - 0 14"]
+
+14... { -KEY- } Ke4 15. Ra8 { Some waiting tactics until the black king defines his next step. } Rd3 16. Ra7 ( { The equally flexible } 16. Rb8 { also works, as noticed by Ckmt98. But not } 16. Ra4 $2 Kf5 $1 { followed by e5-e4, as we will see in the next note. } ) 
+Kf5 17. Rf7+ $1 ( { Passive defence with } 17. Ra8 $2 { permits } e4 $1 18. Rf8 Ke5 19. Re8 Kf4 20. Rf8 Ke3 21. Kxg3 Ra3 $1 { seizing the edge, which means that the defence of the long side won't work properly. } ) 
+Ke6 18. Ra7 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552972/"]
+[Date "????.??.??"]
+[Round "19.18"]
+[White "3.1 The Three Angles"]
+[Black "Example 158- Sax- G. vs. Tseshkovsky- V.- Zagreb 1975"]
+[Result "*"]
+[FEN "8/8/4KPk1/8/8/6R1/8/2r5 b - - 0 1"]
+
+ { Next, let's examine some cases featuring side attacks.Black's position seems difficult, and Tseshkovsky actually resigned at this very moment. However, he could have saved himself by a side attack. } 1... { -KEY- } Kh7 $1 { The king must control g8. } ( { After } 1... Kh6 $2 2. f7 Rc8 3. Rg8 { White wins. } ) 
+2. f7 Rc8 $1 { Initiating a side attack. } 3. Kd7 ( { Or } 3. Ke7 Rc7 4. Ke8 Rc8 { and White can't make progress. } ) 
+Ra8 $1 { To the edge! } ( { It transpires that White can't do anything against the side checks; e. g. } 3... Ra8 4. Ra3 $5 Rb8 5. Ke7 Rb7 { with a draw. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552973/"]
+[Date "????.??.??"]
+[Round "19.19"]
+[White "3.1 The Three Angles"]
+[Black "Example 159- Matsukevich- A. vs. Lein- A.- USSR 1968"]
+[Result "*"]
+[FEN "8/8/8/8/1Rp5/8/1K1k4/2r5 w - - 0 1"]
+
+ { As we saw in the previous example, a bishop's pawn is less threatening to the defender than a central pawn since his rook will have one more file to work on. Even so, White should proceed with some care as the black pawn is about to reach the second rank. } 1. { -KEY- } Ka2 $1 { Such retreats from a check in advance are rather frequent in earlier stages of the battle (I covered the subject in the Prophylaxis chapter of 'Mastering Chess Strategy'), and they occasionally appear in the endgame as well. } ( { a) In contrast, the game saw } 1. Rb8 $2 c3 2. Ka2 Rd1 $1 { (creating a haven for the king on c1) } ( { a1) perhaps Matsukevich only counted on } 2. Ka2 c2 $2 3. Rd8 { with a successful rear attack; } ) 
+3. Rd8 ( { a2) or } 3. Rh8 c2 { and the pawn queens; } ) 
+Kc1 4. Rh8 c2 5. Rh2 Rd8 { and White resigned, in view of } 6. Rh1 ( { a3) or } 6. Kb3 Kb1 7. Rxc2 Rb8 ) 
+Kd2 7. Rh2 Kc3 8. Rh3 Rd3 ) 
+c3 2. Rh4 { Thanks to his prophylactic first move White gained greater flexibility on his next, and is now ready for a side attack. } Re1 ( { Or } 2... c2 3. Rh2 { and the black king has nowhere to hide. } ) 
+3. Rh2+ Re2 4. Rh1 $1 ( { Black can't make progress; e.g. } 4. Rh1 c2 5. Kb2 Re8 6. Rh2 Kd1 7. Rh1 ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552974/"]
+[Date "????.??.??"]
+[Round "19.20"]
+[White "3.1 The Three Angles"]
+[Black "Example 160- Berke- A. vs. Franciskovic- B.- Rijeka 2007"]
+[Result "*"]
+[FEN "8/1R6/8/8/5p2/6k1/r7/5K2 w - - 0 1"]
+
+ { White was never able to apply Philidor's defence, and so must now rely on the defence of the long side. } 1. { -KEY- } Rf7 $1 ( { A good angle for the rook, parrying Black's intended } 1. -- Ra1 2. Ke2 f3 ) 
+ ( { a) In the game White defended against this threat with } 1. Rb1 $4 { but after } f3 2. Rc1 Rh2 { she had to resign. As we already know, such a passive defence only works against knight's pawns and rook's pawns. It's also good to know that it won't work against doubled knight pawns, as explained within Erenburg - Ju, featured further on in the present chapter. } ) 
+ ( { b) However, } 1. Rg7 Kf3 2. Kg1 $1 { (to the short side) is also possible; e.g. } Ra1 3. Kh2 Ke3 4. Re7 Kf2 5. Rb7 $1 f3 6. Rb2 { and the bishop's pawn yields White sufficient space for her side attack. } ) 
+Kf3 ( { Obviously, } 1... f3 { is now useless due to } 2. Rg7 ) 
+2. Kg1 $1 { To the short side. } ( { Even players with an Elo rating above 2500 can fail in basic endgames, as the following fragment shows: } 2. Ke1 $4 Ra1 3. Kd2 Rf1 $1 { (shepherding the pawn to the second rank) } 4. Rf8 Kg2 5. Rg8 Kf2 6. Rg7 f3 7. Rg8 Rg1 8. Rh8 Rg2 9. Rh1 Rg8 { and White resigned, in view of the inevitable ...Kg2 and ...f2 next, Ju Wenjun-T.Grabuzova, Moscow 2010. } ) 
+Ra1+ 3. Kh2 Rf1 ( { After } 3... Ke3 4. Kg2 Ra2 5. Kf1 { , Black hasn't progressed - Baburin. } ) 
+4. Ra7 $1 { Initiating a side attack. } ( { Black can't make progress; e.g. } 4. Ra7 Re1 ( { or } 4. Ra7 Ke2 5. Ra2 ) 
+5. Rf7 Ke3 6. Kg2 ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552975/"]
+[Date "????.??.??"]
+[Round "19.21"]
+[White "3.1 The Three Angles"]
+[Black "Example 161- Pogonina- N. vs. Soumya- S.- World Team Championship- Mardin 2011"]
+[Result "*"]
+[FEN "6k1/R7/p4K2/5P2/8/8/6r1/8 b - - 0 1"]
+
+ { Here is a similar case. The a6-pawn has little relevance for the result - unless Black hangs on to it as in the game! } 1... { -KEY- } Rf2 $1 { The same method as in the previous example, tying the white king to the pawn. } ( { In contrast, the game saw } 1... Ra2 $2 2. Ra8 Kh7 3. Kf7 a5 $4 ( { materialism cost Black half a point in this game; after } 3... Rb2 $1 4. Rxa6 Rb7 5. Ke6 Kg7 6. f6 Kg6 { it is a draw; } ) 
+4. f6 Rb2 5. Kf8 a4 6. f7 a3 7. Ke7 $1 ( { of course not } 6... Rf2 6. Rxa3 $2 Rb8 ) 
+Re2 8. Kd6 { and Black resigned. } ) 
+2. Rxa6 Rf1 { A waiting move. } 3. Ra8+ Kh7 4. Ke6 Kg7 5. Ra7+ Kf8 6. Kf6 Kg8 7. Ra8+ Kh7 8. Rf8 Ra1 $1 { In view of the threat Ke7 and f6-f7, the rook switches its angle. } 9. Re8 Rf1 { Black draws - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552976/"]
+[Date "????.??.??"]
+[Round "19.22"]
+[White "3.1 The Three Angles"]
+[Black "Example 162- Khomyakov- V. vs. Miles- A.- Alushta 1999"]
+[Result "*"]
+[FEN "8/R7/8/5r2/4p3/5k1K/5P2/8 w - - 0 1"]
+
+ { Here is a more complex example. Due to his badly placed king, which should have been at least on the g-file, White is in big trouble. } 1. { -KEY- } Ra3+ $1 { Initiating a side attack, and avoiding the mate on h5. } ( { Instead, the game saw } 1. Kh2 $2 Kxf2 2. Ra2 Kf3 3. Kg1 { is a more tenacious try; } ( 3. Ra3 e3 4. Ra2 e2 { and White resigned. } ) 
+ { although after } Rd5 $1 ( { not } 3. Ra3+ e3 $2 4. Kf1 $1 { preparing the trick Rf2+. } ) 
+4. Rf2 Ke3 5. Rf8 Ra5 $1 6. Kg2 Ra2 7. Kg3 Ra1 8. Kg2 ( { or } 8. Rb8 Rg1 9. Kh2 Rg7 { - Hecht } ) 
+Kd3 9. Rb8 e3 { Black's control of the a-file leaves the white rook short of space for the side attack. } ) 
+Kxf2 2. Kg4 $1 { This is the key move: for the side attack to work properly the black king must be deprived of the f3-square. } ( { In contrast, } 2. Ra2 $2 Kf3 { loses similarly as in the game. } ) 
+Rf8 ( { Or } 2... Rd5 3. Kf4 $1 { with a draw - Baburin, since } Rd3 { can be met by } 4. Ra2 ) 
+3. Ra2+ { Now the black king has nowhere to hide. } Ke3 4. Ra3+ Kd4 5. Ra4+ Kd3 6. Ra3+ Kc2 7. Re3 { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552977/"]
+[Date "????.??.??"]
+[Round "19.23"]
+[White "3.1 The Three Angles"]
+[Black "Example 163- Moen- A. vs. Ladva- O.- Istanbul Olympiad 2012"]
+[Result "*"]
+[FEN "8/k7/P1K1R3/2P5/8/8/8/1r6 b - - 0 1"]
+
+ { The rook with f- and h-pawns vs. rook ending (here on the opposite flank) is a theoretical draw, and Black defended well up to this point, avoiding his king being cut off on the back rank. } 1... { -KEY- } Rh1 $1 { A switch of angle that enables a future side attack. } ( { a) Also possible is } 1... Rc1 2. Kd6 Rh1 { in the same spirit; e.g. } 3. c6 Kxa6 4. Kd7 Rh8 $1 { when neither } 5. Re8 ( { nor } 4... Rh1 4. c7 Kb7 ) 
+Rh7 6. Re7 Rh8 { leads anywhere for White. } ) 
+ ( { b) In contrast, the game went } 1... Kxa6 $2 2. Kd7 Ka7 3. c6 { (now the pawn inevitably reaches the seventh rank, securing the win) } Rd1 4. Rd6 Rc1 5. Rd2 Rh1 6. c7 Rh7 7. Kc6 Rh6 8. Rd6 Rh8 9. Rd8 { and Black resigned. } ) 
+2. Kd6 Rh8 ( { Black makes a draw - Baburin; e.g. } 2... Rh8 3. Kd7 Rh7 4. Re7 Rh8 5. c6 Kxa6 6. c7 Kb7 ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552978/"]
+[Date "????.??.??"]
+[Round "19.24"]
+[White "3.1 The Three Angles"]
+[Black "Example 164- Erenburg- S. vs. Ju- E.- New Jersey 2008"]
+[Result "*"]
+[FEN "6k1/2R3p1/8/6K1/2p2P2/6P1/7r/8 b - - 0 1"]
+
+ { Thanks to his more active pieces White is better, yet the draw isn't too difficult to achieve. } 1... { -KEY- } Ra2 $1 { Initiating a side attack, which will be sufficient in the rook and two pawns vs. rook and pawn ending that now emerges. } ( { a) Another option is } 1... Rh1 2. Rxc4 Kf7 { with a waiting game; e.g. } 3. Rc7 Kf8 4. g4 Rh2 5. f5 Rh1 6. Kg6 Rh6 $1 { - Baburin } ) 
+ ( { b) And of course } 1... Rh6 2. Rxc4 Ra6 { is possible too. } ) 
+ ( { c) Furthermore, } 1... Rg2 { first and only then 2...Ra(b)2 is also fine. } ) 
+ ( { d) Whereas in the game, Black became too materialistic: } 1... Rc2 $4 2. Kg6 Kf8 3. Rxg7 c3 4. Rc7 Rc1 5. f5 { and had to resign. } ) 
+2. Rxc4 ( { Obviously, } 2. Kg6 { no longer makes sense due to } Ra6 ) 
+Ra6 3. f5 Rb6 4. g4 Ra6 5. Kh5 ( { Or } 5. Kf4 g6 $1 { , swapping pawns with an easy draw. } ) 
+Rb6 6. g5 g6+ $1 { A typical trick in such endings, after which the doubled pawns will prove useless. } 7. fxg6 Rb1 $1 { In Philidor style. } ( { Note that, due to White's extra g-pawn, a passive defence with } 7... Rb8 $2 { no longer works: } 8. Kh6 Ra8 9. Rc6 $1 Rb8 10. g7 Ra8 11. Rf6 Rb8 12. Rf8 { wins. } ) 
+8. Rc8+ Kg7 9. Rc7+ Kg8 10. g7 Kh7 ( { White doesn't progress, e.g., } 10... Kh7 10. g8=Q Kxg8 12. Kh6 Rb8 { etc. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552979/"]
+[Date "????.??.??"]
+[Round "19.25"]
+[White "3.1 The Three Angles"]
+[Black "Example 165- Jobava- B. vs. Hellsten- J.- European Team Championship- Gothenburg 2005"]
+[Result "*"]
+[FEN "8/8/8/6K1/6p1/5rPk/8/4R3 b - - 0 1"]
+
+ { Here is an example which shows that a side attack can also be used by the stronger side. } 1... { -KEY- } Ra3 $1 { Before taking the pawn Black enables a side check for his rook. } ( { a) After } 1... Kxg3 $2 2. Rg1 ) 
+ ( { b) Or } 1... Rxg3 $2 2. Rh1 Kg2 3. Ra1 $1 Kh2 4. Kh4 Rg2 5. Ra3 g3 6. Rb3 Rg1 7. Ra3 { , White draws, since the pawn can't advance further due to mate. } ) 
+2. Kf4 { A waiting move, being short of better options. } ( { a) After } 2. Re4 Rxg3 { , Black wins easily; e.g. } 3. Kh5 Rg1 4. Ra4 g3 5. Rh4 Kg2 { etc. } ) 
+ ( { b) If } 2. Kh5 { he should avoid } Kxg3 $2 ( { preferring } 2. Kf4 Ra5 { and only then the capture on g3; } ) 
+3. Rg1 { with a draw. } ) 
+ ( { c) No better is } 2. Rb1 { (or } 2. Rh1 { ) } Kxg3 3. Rg1 Kh3 $1 { when } 4. Rxg4 { loses the rook; } ( { and } 4. Rh1 { runs into } Kg2 ) 
+ { after } Ra5 5. Kf4 Ra4 ) 
+ ( { d) Finally, } 2. Rg1 { fails to } Kh2 $1 ) 
+Ra4+ 3. Kg5 Kxg3 4. Re3+ ( { On } 4. Rg1 { , Black again replies } Kh3 $1 ( { it is still not too late to err: after } 4. Re3+ Kf3 $2 5. Kh4 $1 g3 6. Kh3 { White draws } ) 
+5. Rh1 Kg2 6. Rh4 Kf3 { and wins. } ) 
+Kf2 ( { In view of } 5... g3 { , White resigned. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552980/"]
+[Date "????.??.??"]
+[Round "19.26"]
+[White "3.1 The Three Angles"]
+[Black "Example 166- Sowray- P. vs. Berry- M.- British League 2011"]
+[Result "*"]
+[FEN "8/8/1p5r/3KPk2/1R6/8/8/8 w - - 0 1"]
+
+ { Now let's see some frontal attacks.The rook and pawn vs. rook and pawn ending is usually a draw, but here is an exception. } 1. { -KEY- } Rb1 $1 { Of course; White initiates a frontal attack in order to push away the enemy king. } Rh8 2. Rf1+ $1 ( { But not } 2. Rxb6 $2 Ra8 $1 { preparing a side attack. As Baburin mentions, the existence of a black pawn will help White on some occasions. } ) 
+Kg6 3. e6 Rh2 { The most tenacious. } ( { The game went } 3... b5 4. e7 Kg7 5. Ke6 Ra8 6. Rg1 -- { and Black resigned in view of 7.Kf7 next. } ) 
+4. e7 { Preparing a bridge. } ( { Another possibility is } 4. Re1 Rh8 5. Kc6 { with the plan of e6-e7 and Kd7; e.g. } Ra8 6. Kd7 Ra7 7. Kd6 Ra8 8. e7 Kf7 9. Rf1 Kg7 10. Ke6 { (without the b-pawn this would be a draw) } b5 11. Rg1 { , just like in the game. } ) 
+Rd2+ 5. Kc6 Re2 6. Kd7 Rd2+ 7. Ke8 Kg7 8. Rg1+ Kh7 ( { In the rook vs. pawn ending that follows after } 8... Kf6 9. Kf8 { , the black king won't be able to protect the pawn. } ) 
+9. Rg4 ( { White wins by means of a bridge; e.g. } 9. Rg4 b5 10. Kf7 Rf2 11. Ke6 Re2 12. Kf6 Rf2 13. Ke5 Re2 14. Re4 ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552981/"]
+[Date "????.??.??"]
+[Round "19.27"]
+[White "3.1 The Three Angles"]
+[Black "Example 167- Sokolov- I. vs. Banikas- U.- Khanty-Mansiysk Olympiad 2010"]
+[Result "1-0"]
+[FEN "r4k2/1R1K4/4P3/8/8/8/8/8 b - - 0 1"]
+
+ { Despite appearances this should be a draw, since the black rook controls the edge. However, Black made a fatal decision. } 1... { -KEY- } Re8 $2 { It rarely makes sense to put the rook next to the king in the endgame. } ( { The waiting move } 1... Kg7 { led to a draw; e.g. } 2. Ke7 Kg6 { or } 2. e7 Kf7 { etc. } ) 
+2. Rb1 $1 { A switch to a frontal attack. Here Black resigned; let's see a possible conclusion of the game: } Re7+ ( { Or } 2... Ra8 3. e7 Kf7 4. Rf1 ) 
+3. Kd6 Ra7 4. Rb8+ Kg7 5. e7 { White wins. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552982/"]
+[Date "????.??.??"]
+[Round "19.28"]
+[White "3.1 The Three Angles"]
+[Black "Example 168- Winawer- S. vs. Mackenzie- G.- London 1883"]
+[Result "*"]
+[FEN "2r5/4k3/8/8/1K1R4/2P5/8/8 b - - 0 1"]
+
+ { The black king has been cut off from the d-file, but a frontal attack still secures the draw. } 1... { -KEY- } Rb8+ $1 { By staying on the back rank, the rook keeps a maximal range. } ( { a) Another drawing option is } 1... Ke6 2. c4 Ke5 $1 { - Baburin. } ) 
+ ( { b) In contrast, the game saw } 1... Rc6 $2 2. c4 Rc8 { , and after } 3. Kb5 Rb8 4. Kc6 Rb4 5. Rd7 Ke8 6. c5 Rc4 7. Rd1 Rc2 8. Kb6 Ke7 9. c6 Rb2 10. Kc7 Re2 11. Rd7 Ke8 12. Rd5 { , Black had to resign. } ) 
+2. Ka5 Ke6 3. c4 Ke5 $1 { As we discussed earlier in this section, Black must interfere with White's defence of the pawn. } 4. Rd5+ ( 4. Rh4 { allows } Kd6 { getting the king in the right place } ) 
+Ke6 5. Rd1 Rc8 6. Kb5 Rb8+ 7. Ka6 Rc8 8. Rd4 Ke5 $1 { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552983/"]
+[Date "????.??.??"]
+[Round "19.29"]
+[White "3.1 The Three Angles"]
+[Black "Example 169- Landa- K. vs. Dambacher- M.- Dutch Team Championship 2007"]
+[Result "1/2-1/2"]
+[FEN "8/8/7p/8/2k2K1R/5P2/6r1/8 b - - 0 1"]
+
+ { Here is a more complex case. } 1... { -KEY- } Kd3 $1 { Preparing a frontal attack, for which the king will be excellently placed behind the enemy pawn. } ( { a) Instead, after } 1... Kd5 $2 2. Rxh6 { , Black is lost; e.g. } Rg8 3. Kf5 Rf8 4. Rf6 Rh8 5. f4 Rh5 6. Kg6 Rh4 7. Kg5 $1 Rh2 8. Ra6 { etc - Baburin. } ) 
+ ( { b) Obviously } 1... Rg6 $4 2. Kf5 { would be even worse. } ) 
+2. Rxh6 Rg8 3. Rf6 ( { Or } 3. Kf5 Rf8 4. Rf6 Rxf6 5. Kxf6 Ke3 { , when the virtue of Black's king raid is clearly appreciated. } ) 
+Ke2 $1 { Tying the enemy pieces to the defence of the pawn. } 4. Re6+ Kf2 5. Ke4 Ra8 { Switching to a side attack. } 6. f4 Ra4+ 7. Ke5 Kf3 8. f5 Ra5+ 9. Kf6 Kf4 10. Kg6 Rxf5 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552984/"]
+[Date "????.??.??"]
+[Round "19.30"]
+[White "3.1 The Three Angles"]
+[Black "Example 170- Popovic- P. vs. Schwalfenberg- J.- German League 2009"]
+[Result "*"]
+[FEN "8/8/5R2/5pK1/4kP2/6P1/7r/8 b - - 0 1"]
+
+ { Black seems to be on the brink to defeat, but a frontal attack could have saved him. } 1... { -KEY- } Rh8 $1 ( { a) To the edge; aware that } 1... Rh8 2. Rxf5 $4 { isn't possible because of } Rg8 ) 
+ ( { b) Instead, the game saw } 1... Rg2 $2 2. Re6 Kf3 3. Kxf5 Rxg3 4. Ra6 $1 Rg8 5. Ra3 Kg2 6. Ke6 { and Black resigned. } ) 
+2. Re6+ Kf3 3. Kxf5 Kxg3 { We have reached a similar situation to the previous example - the stronger side is unable to liberate his pieces. } 4. Ke5 ( { Or } 4. Rg6 Kh4 $1 { preparing ...Kh5 and ...Rh8 in coherence with the defense of the long side. } ) 
+Kg4 5. f5 Kg5 6. Rg6+ Kh5 7. Rg1 Ra8 $1 { Switching to a side attack. } 8. Rd1 Kg5 { White can't make progress: draw - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552985/"]
+[Date "????.??.??"]
+[Round "19.31"]
+[White "3.1 The Three Angles"]
+[Black "Example 171- Fressinet- L. vs. Kraemer- M.- German League 2009"]
+[Result "1/2-1/2"]
+[FEN "8/1r6/8/6kp/8/1P2R1P1/3K4/8 b - - 0 1"]
+
+ { White's plan is evident: help the b-pawn with his king. The fact that Black's king has been cut off from the queenside means that only a frontal attack can save him. } 1... { -KEY- } Rb8 $1 { To the edge, increasing the rook's range as a preparation for the frontal attack. } 2. Kc3 Rc8+ 3. Kb2 Rb8 $1 4. Re4 { White renews the threat of b3-b4, but in so doing leaves the third rank, a fact that Black immediately exploits. } Rf8 $1 5. Re3 ( { Obviously, } 5. b4 Rf3 6. b5 Rxg3 7. b6 Rf3 { is nothing for White. } ) 
+Rb8 6. Kc3 Rc8+ { In the following Black just continues with his frontal attack. } 7. Kd4 Rb8 8. Kc5 Rc8+ 9. Kd5 Rb8 10. Kc4 Rc8+ 11. Kd3 Rb8 12. Ke2 Rb7 13. Rd3 Rb8 14. Kd2 Kg4 15. Ke1 Rb7 16. Kf2 Kg5 17. Kf3 Rb8 18. Rc3 Rf8+ 19. Ke4 Rb8 20. Kd3 Kg4 $1 { It is finally time for some active defence. } ( { Note that a larger number of pawns actually favours the defender in this case: after } 20... h4 $2 21. gxh4 Kxh4 22. Rc4 { , White wins; e.g. } Kg5 23. Rc5 $1 Kf6 24. Kc4 Ke6 25. b4 Kd7 26. b5 Rc8 27. b6 $1 { etc. } ) 
+21. Kd4 Kh3 { With the white king unable to step on the c-file due to the check on c8, Black just waits. } 22. Ke5 Rb4 23. Kd6 Rb6+ ( { There was nothing wrong with } 23... Rb8 24. Kc7 Rb4 25. Kc6 Rb8 { , but the text is more direct. } ) 
+24. Kc5 Rg6 $1 25. b4 ( { Draw, in view of } 25. b4 Rxg3 26. Rxg3 Kxg3 27. b5 h4 { etc. } ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553055/"]
+[Date "????.??.??"]
+[Round "19.32"]
+[White "3.1 The Three Angles"]
+[Black "Fressinet- L. vs. Kraemer- M.- #1"]
+[Result "1/2-1/2"]
+[FEN "8/1r6/8/6kp/8/1P2R1P1/3K4/8 b - - 0 1"]
+
+ { White's plan is evident: help the b-pawn with his king. The fact that Black's king has been cut off from the queenside means that only a frontal attack can save him. } 1... { -KEY- } Rb8 $1 { To the edge, increasing the rook's range as a preparation for the frontal attack. } ( 1... Rd7 $2 { would leave the black rook short of a rank for the frontal checks after } 2. Kc3 Rc7 3. Kd4 Rd7 4. Kc5 Rc7 5. Kb6 $1 { followed by b4-b5, as observed by Foobarred1. } ) 
+2. Kc3 Rc8+ 3. Kb2 Rb8 $1 4. Re4 { White renews the threat of b3-b4, but in so doing leaves the third rank, a fact that Black immediately exploits. } Rf8 $1 5. Re3 ( { Obviously, } 5. b4 Rf3 6. b5 Rxg3 7. b6 Rf3 { is nothing for White. } ) 
+Rb8 6. Kc3 Rc8+ { In the following Black just continues with his frontal attack. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553056/"]
+[Date "????.??.??"]
+[Round "19.33"]
+[White "3.1 The Three Angles"]
+[Black "Fressinet- L. vs. Kraemer- M.- #2"]
+[Result "1/2-1/2"]
+[FEN "1r6/8/8/6kp/4K3/1PR3P1/8/8 w - - 0 20"]
+
+20. { -KEY- } Kd3 Kg4 $1 { It is finally time for some active defence. } ( { Note that a larger number of pawns actually favours the defender in this case: after } 20... h4 $2 21. gxh4 Kxh4 22. Rc4 { , White wins; e.g. } Kg5 23. Rc5 $1 Kf6 24. Kc4 Ke6 25. b4 Kd7 26. b5 Rc8 27. b6 $1 { etc. } ) 
+21. Kd4 Kh3 { With the white king unable to step on the c-file due to the check on c8, Black just waits. } 22. Ke5 Rb4 23. Kd6 Rb6+ ( { There was nothing wrong with } 23... Rb8 24. Kc7 Rb4 25. Kc6 Rb8 { , but the text is more direct. } ) 
+24. Kc5 Rg6 $1 25. b4 ( { Draw, in view of } 25. b4 Rxg3 26. Rxg3 Kxg3 27. b5 h4 { etc. } ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552986/"]
+[Date "????.??.??"]
+[Round "19.34"]
+[White "3.1 The Three Angles"]
+[Black "Example 172- Klinova- M. vs. Krush- I.- Dresden Olympiad 2008"]
+[Result "*"]
+[FEN "8/8/3P4/5P2/3p4/3P1kp1/1r6/4R1K1 b - - 0 1"]
+
+ { Finally, let's see three examples where the rook switched its angle with great success. } 1... { -KEY- } g2 $1 { The prelude to a surprising mating attack. } ( { In contrast, the game went } 1... Rg2 $2 2. Kf1 Rh2 3. Kg1 { and a draw was soon agreed. } ) 
+2. d7 { There is nothing better. } Rb8 $1 ( { Black wins - 'Chess Today'; e.g. } 2... Rb8 2. f6 Rh8 { with the inevitable threat of ...Rh1+. } ) 
+ ( { or } 2... Rb8 2. Re8 Rb1 ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552987/"]
+[Date "????.??.??"]
+[Round "19.35"]
+[White "3.1 The Three Angles"]
+[Black "Example 173- Anand- V. vs. Vallejo Pons- F.- Linares 2005"]
+[Result "*"]
+[FEN "7R/7P/8/8/8/1p2p3/1k5r/3K4 b - - 0 1"]
+
+ { In the current position, Black's problem is that he can't bring his king out without permitting a white rook check. However, a clever rook manoeuvre could have solved this problem. } 1... { -KEY- } Rd2+ $1 { The rook is transferred to the seventh rank, to serve as a shield for the king. } ( { Instead, the game went } 1... Kb1 $2 2. Rb8 $1 Rxh7 { and Black accepted a draw without waiting for 3.Rxb3+. } ) 
+2. Ke1 Rd7 3. Ke2 Rc7 ( { a) Similar winning paths are } 3... Ra7 4. Kxe3 Ka2 ) 
+ ( { b) And } 3... Re7 4. Kd1 ( { or } 3... Rc7 3. Ke1 e2 { with zugzwang } ) 
+Ra7 5. Ke2 Ka2 { - Stohl, 'Chess Today'. } ) 
+4. Kxe3 Kc2 { White is helpless against the threat of ...b3-b2. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12552988/"]
+[Date "????.??.??"]
+[Round "19.36"]
+[White "3.1 The Three Angles"]
+[Black "Example 174- Titenko- V. vs. Murey- J.- Moscow 1963"]
+[Result "1/2-1/2"]
+[FEN "2r5/8/pRP5/P5pP/3pk1P1/3p4/3K4/8 b - - 0 1"]
+
+ { This endgame seems difficult for Black, but a clever rook manoeuvre saved his cause. } 1... { -KEY- } Rf8 $1 2. c7 Rf2+ 3. Ke1 d2+ 4. Kxf2 ( { Not } 4. Kd1 $4 Ke3 $1 { and Black even wins the game. } ) 
+d1=Q 5. Re6+ ( { Or } 5. c8=Q $11 Qd2 { with a perpetual. } ) 
+Kd3 6. c8=Q Qd2+ $1 ( 6... Qe2 $2 { is well-intended, but } 7. Kg3 $1 { avoids the stalemate trick, as noticed by Vjekoslav. Fortunately, the same idea is still in the air. } ) 
+7. Kg1 { It seems like White will escape the perpetual by transferring his king to h3, but Black has a new surprise prepared... } Qc1+ $3 8. Qxc1 { Stalemate. } 
+ 1/2-1/2

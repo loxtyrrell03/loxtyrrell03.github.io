@@ -1,0 +1,204 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12540966/"]
+[Date "????.??.??"]
+[Round "15.1"]
+[White "2.7 Pawn Majorities"]
+[Black "Pawn majorities"]
+[Result "*"]
+
+ { In 'Mastering Chess Strategy' I touched upon pawn majorities quite thoroughly, so here I will limit myself to some shorter examples. First, let's see a few cases where, for different reasons, one of the players can't easily mobilize his pawn majority. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520574/"]
+[Date "????.??.??"]
+[Round "15.2"]
+[White "2.7 Pawn Majorities"]
+[Black "Example 125- Petrosian- TV. vs. Kozma- J.- Munich Olympiad 1958"]
+[Result "1-0"]
+[FEN "4rb2/p5k1/3pr1p1/1ppR3p/4NP2/1PP2KP1/P3R2P/8 w - - 0 1"]
+
+ { During the opening and middlegame battle Petrosian did everything possible to maintain the stronghold on d5, and his efforts are now rewarded. Black's backward d-pawn makes an advance of his central pawn majority impossible, whereas White has no such problem on the kingside. } 1. { -KEY- } h3 $1 { White's pawn majority starts rolling. } ( { In contrast, after } 1. f5 $6 gxf5 2. Rxf5 Re5 { , it would take much longer for him to create the desired passed pawn. } ) 
+a5 $6 { Very passive. } ( { With } 1... Be7 2. g4 hxg4 3. hxg4 Rh8 $1 { , Black could have complicated to some extent, now that } 4. f5 $6 gxf5 5. gxf5 { can be met by } Rh3 { , followed by ...Reh6. } ) 
+2. g4 hxg4+ 3. hxg4 Be7 4. f5 $1 { In just three moves White has succeeded with one of the most fundamental plans in the endgame: the conversion of a pawn majority into a passed pawn. } Re5 $6 ( 4... Rf8 { is met by } 5. Kf4 $1 { , continuing with the plan. } ) 
+ ( { Instead, the brave } 4... gxf5 5. gxf5 Rh6 $1 { was called for, when } 6. Nxd6 $6 { anyway, with } ( 5... Re5 5. Ng5 { , White keeps a clear initiative } ) 
+Rh3 7. Kg4 Rh4 { leaves White short of a good escape from the rook checks. Of course such tactical ideas are more easily spotted with a computer engine by your side! } ) 
+5. Rxe5 dxe5 6. Rd2 $1 { This is the main defect of Black's fourth move - now there is no satisfactory defence against the invasion of the enemy rook. } Rf8 $2 ( { Kozma misses a tactical trick, but he was short of good choices anyway; e.g. } 6... Rd8 7. Rxd8 Bxd8 8. Nxc5 { . } ) 
+7. Rd7 Rf7 8. Rxe7 $1 ( { In view of } 8. Rxe7 Rxe7 9. f6 { , Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520575/"]
+[Date "????.??.??"]
+[Round "15.3"]
+[White "2.7 Pawn Majorities"]
+[Black "Example 126- Fischer- RJ. vs. Addison- W.- US Championship- Cleveland 1957"]
+[Result "1-0"]
+[FEN "4r3/pp3p1p/2pb2k1/6pn/2PP1pN1/2B2P2/PPK3PP/3R4 w - - 0 1"]
+
+ { Again White's pawn majority is clearly the more mobile one, due to Black's doubled f-pawns. Fischer proceeded with precision. } 1. { -KEY- } c5 $1 ( { The c-pawn should move first, since } 1. d5 $6 c5 $1 { would let Black blockade the d-pawn with improved defensive prospects. If now } 2. Nf2 { heading for e4, then simply } f5 ) 
+Bb8 2. d5 cxd5 $6 { Too co-operative. } ( { a) } 2... Re2 3. Kd3 Rxg2 4. d6 $1 { with ideas like Ne5-d7 and Re1-e8, clearly favours White; } ) 
+ ( { b) but } 2... f5 $1 { seems stronger, avoiding the knight check on e5 that follows in the game; e.g. } 3. dxc6 bxc6 $1 4. Nf2 Nf6 5. Bxf6 Kxf6 6. Nd3 Bc7 { with far better chances of resistance. } ) 
+3. Rxd5 f5 4. Ne5+ Bxe5 5. Rxe5 $1 ( { After } 5. Bxe5 $6 Nf6 $1 6. Bxf6 Kxf6 { Black achieves the defender's preferred type of ending - a rook ending - and the win becomes more difficult in practice. } ) 
+Nf6 ( { Avoiding the rook exchange would let White seize the seventh rank with 6.Re7, while } 5... Rxe5 6. Bxe5 { leaves the knight marginalized from the battle, just like in the game. At this point, } Nf6 { runs into } ( { or similarly } 6... Ng7 7. Bxg7 { etc. } ) 
+7. Bxf6 $1 Kxf6 8. Kd3 { and White wins comfortably. } ) 
+6. Rxe8 Nxe8 7. Be5 $1 { A final accuracy which leaves the knight immobile, since if it goes to f6 or g7 White will again just swap it off and then use his pawn majority to win the pawn ending. } Kh5 ( { This counterattack is bound to fail; but } 7... Kf7 { was equally hopeless after } 8. Kd3 Ke6 9. Kd4 { followed by b2-b4, a2-a4 etc. } ) 
+8. Kd3 g4 9. b4 $1 { Fischer isn't distracted by the f4-pawn, preferring to advance his pawn majority, aware that he is practically a piece up. } a6 10. a4 gxf3 11. gxf3 Kh4 12. b5 axb5 13. a5 $5 Kh3 14. c6 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13787864/"]
+[Date "????.??.??"]
+[Round "15.4"]
+[White "2.7 Pawn Majorities"]
+[Black "Fischer- RJ. vs. Addison- W.- #1"]
+[Result "1-0"]
+[FEN "4r3/pp3p1p/2pb2k1/6pn/2PP1pN1/2B2P2/PPK3PP/3R4 w - - 0 1"]
+
+ { Again White's pawn majority is clearly the more mobile one, due to Black's doubled f-pawns. Fischer proceeded with precision. } 1. { -KEY- } c5 $1 ( { The c-pawn should move first, since } 1. d5 $6 c5 $1 { would let Black blockade the d-pawn with improved defensive prospects. If now } 2. Nf2 { heading for e4, then simply } f5 ) 
+Bb8 2. d5 cxd5 $6 { Too co-operative. } ( { a) } 2... Re2 3. Kd3 Rxg2 4. d6 $1 { with ideas like Ne5-d7 and Re1-e8, clearly favours White; } ) 
+ ( { b) but } 2... f5 $1 { seems stronger, avoiding the knight check on e5 that follows in the game; e.g. } 3. dxc6 bxc6 $1 4. Nf2 Nf6 5. Bxf6 Kxf6 6. Nd3 Bc7 { with far better chances of resistance. } ) 
+3. Rxd5 f5 4. Ne5+ Bxe5 5. Rxe5 $1 ( { After } 5. Bxe5 $6 Nf6 $1 6. Bxf6 Kxf6 { Black achieves the defender's preferred type of ending - a rook ending - and the win becomes more difficult in practice. } ) 
+Nf6 ( { Avoiding the rook exchange would let White seize the seventh rank with 6.Re7, while } 5... Rxe5 6. Bxe5 { leaves the knight marginalized from the battle, just like in the game. At this point, } Nf6 { runs into } ( { or similarly } 6... Ng7 7. Bxg7 { etc. } ) 
+7. Bxf6 $1 Kxf6 8. Kd3 { and White wins comfortably. } ) 
+6. Rxe8 Nxe8 7. Be5 $1 { A final accuracy which leaves the knight immobile, since if it goes to f6 or g7 White will again just swap it off and then use his pawn majority to win the pawn ending. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13787859/"]
+[Date "????.??.??"]
+[Round "15.5"]
+[White "2.7 Pawn Majorities"]
+[Black "Fischer- RJ. vs. Addison- W.- #2"]
+[Result "1-0"]
+[FEN "4n3/pp5p/6k1/2P1Bpp1/5p2/5P2/PPK3PP/8 b - - 0 7"]
+
+7... { -KEY- } Kh5 ( { This counterattack is bound to fail; but } 7... Kf7 { was equally hopeless after } 8. Kd3 Ke6 9. Kd4 { followed by b2-b4, a2-a4 etc. } ) 
+8. Kd3 ( { Activating the King can't be wrong, but the straightforward } 8. b4 { also worked. } ) 
+g4 9. b4 $1 { Fischer isn't distracted by the f4-pawn, preferring to advance his pawn majority, aware that he is practically a piece up. } a6 10. a4 gxf3 11. gxf3 Kh4 12. b5 axb5 13. a5 $5 Kh3 14. c6 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520576/"]
+[Date "????.??.??"]
+[Round "15.6"]
+[White "2.7 Pawn Majorities"]
+[Black "Example 127- Hellsten- J. vs. Waitzkin- J.- Bermuda 1997"]
+[Result "0-1"]
+[FEN "2kr4/pp2bppp/2n1p3/2prP3/P1N2P2/2B1P1P1/1P3K1P/2R4R b - - 0 1"]
+
+ { Here is an excerpt from my own practice. Despite White's space advantage Black is better in the above position, thanks to his sounder structure - or more mobile pawn majority, if you prefer. With his next move Waitzkin takes the first step to the realization of this advantage. } 1... { -KEY- } b6 $1 { Preparing ...Kb7, ...a7-a6 and ...b6-b5, with a slow but firm advance of the pawn majority. } 2. Ke2 Kb7 3. Rhd1 $2 { This is very bad - and just the kind of move that, many years later, I am trying to get my students to avoid in their games. When you have a poor structure, don't exchange too many pieces (in particular, the rooks); instead, look for dynamics and activity. } ( 3. Rhf1 $1 { was correct, preparing f4-f5 with some counterplay on the f-file. Obviously, } g6 { is just met by } 4. g4 { , insisting on the plan. } ) 
+a6 4. Be1 Rxd1 5. Rxd1 Rxd1 6. Kxd1 b5 7. axb5 axb5 8. Nd2 ( { Or } 8. Nd6 Bxd6 9. exd6 Kc8 10. e4 e5 { and the d6-pawn will fall sooner or later. } ) 
+Na5 9. b3 Kc6 10. Kc2 $6 ( { I should rather have played } 10. Ke2 c4 11. bxc4 Nxc4 12. Nb3 $1 ) 
+c4 $1 { Finally, the pawn majority is converted into a passed pawn, whereas White's extra pawn on the kingside has no real significance. } 11. bxc4 Nxc4 { As we just discussed, exchanges usually favour the side with the superior pawn structure. } 12. Nxc4 bxc4 13. e4 Kb5 14. g4 Bc5 15. Bc3 Bf2 16. f5 Kc5 $1 { With the threat of ...Bd4. In hindsight, the fact that White has a pawn fixed on the same colour as his bishop plays heavily against him in this endgame. Remember that with rooks on the board (cf. 3.Rhf1!), there is no such 'colour problem'! } 17. fxe6 fxe6 18. Bb2 Be1 19. h3 Bf2 20. Kd2 Kb4 21. Kc2 Kc5 22. Kd2 Kb4 23. Kc2 Be1 $1 { Preparing a deadly ...c4-c3. } 24. Bd4 c3 25. Bb6 Kc4 26. Ba7 Bg3 27. Bb8 ( { This lets Black's king invade decisively. A waiting move like } 27. Be3 { was preferable, since after } Bxe5 28. Bf2 { , the white bishop might actually be able to keep away Black's king, e.g. } Bd4 29. Bg3 Be3 30. Be5 $1 { etc. } ) 
+Kd4 { The rest is easy - Black wins in outside passed pawn fashion. } 28. Ba7+ Kxe4 29. Kxc3 Bxe5+ 30. Kd2 Kf3 $1 31. Kd3 Bf4 { In view of the inevitable ...e6-e5-e4-e3, White resigned. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13787860/"]
+[Date "????.??.??"]
+[Round "15.7"]
+[White "2.7 Pawn Majorities"]
+[Black "Hellsten- J. vs. Waitzkin- J.- #1"]
+[Result "0-1"]
+[FEN "8/4bppp/2k1p3/npp1P3/5P2/1P2P1P1/3N3P/3KB3 w - - 0 10"]
+
+10. { -KEY- } Kc2 $6 ( { I should rather have played } 10. Ke2 c4 11. bxc4 Nxc4 12. Nb3 $1 ) 
+c4 $1 { Finally, the pawn majority is converted into a passed pawn, whereas White's extra pawn on the kingside has no real significance. } 11. bxc4 Nxc4 { As we just discussed, exchanges usually favour the side with the superior pawn structure. } 12. Nxc4 bxc4 13. e4 Kb5 14. g4 Bc5 15. Bc3 Bf2 16. f5 Kc5 $1 { With the threat of ...Bd4. In hindsight, the fact that White has a pawn fixed on the same colour as his bishop plays heavily against him in this endgame. Remember that with rooks on the board (cf. 3.Rhf1!), there is no such 'colour problem'! } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520577/"]
+[Date "????.??.??"]
+[Round "15.8"]
+[White "2.7 Pawn Majorities"]
+[Black "Example 128- Gligoric- S. vs. Filip- M.- Zagreb 1965"]
+[Result "1-0"]
+[FEN "8/1p3r2/p1p1pkp1/P1P4p/4P2P/4KP2/6P1/3R4 w - - 0 1"]
+
+ { Here is a final case featuring a 'defective' pawn majority on one of the sides. White is far better thanks to his more active rook and favourable pawn structure - on the queenside his two pawns stop three, while on the opposite flank there should, sooner or later, emerge a white passed pawn. } 1. { -KEY- } Kf4 $1 { A nice piece of provocation - after ...e6-e5 Black's sixth rank will prove severely weakened; besides, the plan of creating a passed pawn is facilitated. } e5+ ( { Passive defence won't help either: } 1... Rc7 2. e5 Kg7 3. Kg5 Re7 4. g4 $1 { , creating an outside passed pawn on the h-file with an easy win. } ) 
+2. Ke3 Kg7 3. g3 $1 { The virtue of 1 Kf4 becomes evident: Black can't prevent f3-f4. } Re7 4. f4 exf4+ 5. gxf4 Kf6 6. Rd6+ Kg7 7. e5 Kf7 8. Ke4 Kg7 9. f5 $1 { Thus White reaches f5 with his king, which means that e5-e6 can be effected without worrying about ...Kf6. } gxf5+ 10. Kxf5 ( { With the simple plan of e5-e6, followed by Rd7; and } 10. Kxf5 Rf7 11. Ke6 { leaves Black helpless against the threat of } 12. Rd7 { , so he resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520578/"]
+[Date "????.??.??"]
+[Round "15.9"]
+[White "2.7 Pawn Majorities"]
+[Black "Example 129- Erenburg- S. vs. Murariu- A.- Las Palmas 2003"]
+[Result "1-0"]
+[FEN "r7/1p1bkpp1/4pn1p/8/1PP5/1KN4P/4BPP1/3R4 w - - 0 1"]
+
+ { Next, let's see two examples originating from 'Mastering Chess Strategy', where both sides have sound pawn majorities.The queenside pawn majority is a common feature in some openings, such as the c2-c3 Sicilian, the French Tarrasch with 3...c5 4 exd5 Qxd5, and others. In the structure above, Black is usually reluctant to swap too many pieces, since an advance of his central majority tends to be a bit slower than White's corresponding play on the queenside. Thus the above position is a kind of dream scenario for White - and he has even managed to put his king in an ideal place for the looming queenside expansion. } 1. { -KEY- } b5 $1 { Erenburg advances his pawn majority and at the same time restricts the enemy bishop. The fact that he fixes his pawns on squares of the 'wrong' colour and also cedes the c5-square isn't a big deal, since Black lacks the space to exploit this. } ( { a) In contrast, both } 1. c5 $6 Bc6 2. f3 Nd5 3. b5 Nxc3 4. Kxc3 Bd5 ) 
+ ( { b) and } 1. Bf3 Bc6 $1 2. Bxc6 bxc6 { lead to a lesser advantage than in the game. } ) 
+b6 $2 { This natural move converts that pawn into a weakness. } ( 1... Rd8 2. Bf3 Bc8 { was correct, when } 3. Rxd8 Kxd8 4. c5 { yields a clear, but not decisive advantage - Erenburg. } ) 
+2. Bf3 Rb8 ( { After } 2... Ra7 $2 3. Na4 { the problem with ...b7-b6 is well displayed. Thus Black has to surrender the a-file. } ) 
+3. Ra1 $1 { This move comes with two strong ideas: to seize the seventh rank by Ra7 or attack the b6-pawn by Ra6 and Na4. } Bc8 { Preparing ...Nd7-c5. } 4. Ra7+ Nd7 5. Bc6 $1 { Now White is ready to exchange the defending knight at any moment. } f5 ( { The immediate } 5... Kd6 { fails to } 6. Ne4 { so Black prepares it. } ) 
+6. Na4 Kd6 7. Bxd7 $1 { Just at the right moment, before the knight escapes to e5. } Bxd7 8. Kb4 $1 { Active king. } ( { After } 8. Kb4 { , the threat of } -- 9. Nxb6 $1 Rxb6 10. c5 { forces the black king to move away from the b6-pawn, and the rest is easy. } ) 
+Ke7 9. Ra6 e5 10. Rxb6 Rd8 11. Rb7 Kf6 12. Nc5 Be8 13. Rc7 { In view of b5-b6-b7 next, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13787861/"]
+[Date "????.??.??"]
+[Round "15.10"]
+[White "2.7 Pawn Majorities"]
+[Black "Erenburg- S. vs. Murariu- A.- #1"]
+[Result "1-0"]
+[FEN "r7/1p1bkpp1/4pn1p/8/1PP5/1KN4P/4BPP1/3R4 w - - 0 1"]
+
+ ( { Next, let's see two examples originating from 'Mastering Chess Strategy', where both sides have sound pawn majorities.The queenside pawn majority is a common feature in some openings, such as the c2-c3 Sicilian, the French Tarrasch with } 3. Rc7 c5 4. exd5 Qxd5 { , and others. In the structure above, Black is usually reluctant to swap too many pieces, since an advance of his central majority tends to be a bit slower than White's corresponding play on the queenside. Thus the above position is a kind of dream scenario for White - and he has even managed to put his king in an ideal place for the looming queenside expansion. } ) 
+1. { -KEY- } b5 $1 { Erenburg advances his pawn majority and at the same time restricts the enemy bishop. The fact that he fixes his pawns on squares of the 'wrong' colour and also cedes the c5-square isn't a big deal, since Black lacks the space to exploit this. } ( { a) In contrast, both } 1. c5 $6 Bc6 2. f3 Nd5 3. b5 Nxc3 4. Kxc3 Bd5 ) 
+ ( { b) and } 1. Bf3 Bc6 $1 2. Bxc6 bxc6 { lead to a lesser advantage than in the game. } ) 
+b6 $2 { This natural move converts that pawn into a weakness. } ( 1... Rd8 2. Bf3 Bc8 { was correct, when } 3. Rxd8 Kxd8 4. c5 { yields a clear, but not decisive advantage - Erenburg. } ) 
+2. Bf3 Rb8 ( { After } 2... Ra7 $2 3. Na4 { the problem with ...b7-b6 is well displayed. Thus Black has to surrender the a-file. } ) 
+3. Ra1 $1 { This move comes with two strong ideas: to seize the seventh rank by Ra7 or attack the b6-pawn by Ra6 and Na4. } Bc8 { Preparing ...Nd7-c5. } 4. Ra7+ Nd7 5. Bc6 $1 { Now White is ready to exchange the defending knight at any moment. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13787865/"]
+[Date "????.??.??"]
+[Round "15.11"]
+[White "2.7 Pawn Majorities"]
+[Black "Erenburg- S. vs. Murariu- A.- #2"]
+[Result "1-0"]
+[FEN "1rb5/R2nkpp1/1pB1p2p/1P6/2P5/1KN4P/5PP1/8 b - - 0 5"]
+
+5... { -KEY- } f5 ( { The immediate } 5... Kd6 { fails to } 6. Ne4 { so Black prepares it. } ) 
+6. Na4 Kd6 7. Bxd7 $1 { Just at the right moment, before the knight escapes to e5. } Bxd7 8. Kb4 $1 { Active king. } ( { After } 8. Kb4 { the threat of } -- 9. Nxb6 $1 Rxb6 10. c5 { forces the black king to move away from the b6-pawn, and the rest is easy. } ) 
+Ke7 9. Ra6 e5 10. Rxb6 Rd8 11. Rb7 Kf6 12. Nc5 Be8 13. Rc7 { In view of b5-b6-b7 next, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520579/"]
+[Date "????.??.??"]
+[Round "15.12"]
+[White "2.7 Pawn Majorities"]
+[Black "Example 130- Bauer- C. vs. Korneev- O.- Pamplona 2006"]
+[Result "1-0"]
+[FEN "6k1/p1b3p1/1pn3p1/2p2p2/P4P2/2BBP2P/1P4P1/6K1 w - - 0 1"]
+
+ { White is better here, mainly thanks to his bishop pair, an asset which tends to become more powerful the further the game goes on. Note that the light-squared bishop is doing a good job in restricting Black's desired plan of ...a7-a6 and ...b6-b5. Bauer found a clever way of improving his central pawn majority. } 1. { -KEY- } g4 $1 { Clearing the way for the e-pawn. By the way, this move would have been just as strong in the event of a normal black structure with pawns on f5-g6-h7. } ( { Less constructive is } 1. e4 $6 Bxf4 2. exf5 gxf5 3. Bxf5 Nd4 ) 
+fxg4 $6 { This converts the e-pawn into a strong passed pawn. } ( 1... Ne7 { was more stubborn, although after } 2. Kf2 Kf7 3. Kf3 { , it is not easy to suggest a plan for Black, whereas White could contemplate e3-e4 at a suitable moment. } ) 
+2. hxg4 g5 3. Be4 $1 ( { Black intended } 3. fxg5 $2 Be5 { with a blockade on the dark squares, but White is not distracted from his original plan. } ) 
+Nd8 4. f5 { With the strong idea of Bd5 and e3-e4-e5. } Nf7 5. Bd5 Kf8 6. Bxf7 $1 { Eliminating the idea of a blockade on e5. } Kxf7 7. Kf2 g6 8. Kf3 { Of course the pawns should remain connected. The rest is relatively easy, with the e-pawn asking to be pushed. } gxf5 9. gxf5 a6 10. e4 b5 11. axb5 axb5 12. e5 b4 13. e6+ Ke7 14. Bd2 Be5 ( { Or } 14... Kf6 15. Bxg5 $1 { - Deviatkin. } ) 
+15. Bxg5+ Ke8 16. f6 Bxb2 17. f7+ Kf8 18. Ke4 b3 19. Kf5 Bg7 20. Kg6 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13787862/"]
+[Date "????.??.??"]
+[Round "15.13"]
+[White "2.7 Pawn Majorities"]
+[Black "Bauer- C. vs. Korneev- O.- #1"]
+[Result "1-0"]
+[FEN "6k1/p1b3p1/1pn3p1/2p2p2/P4P2/2BBP2P/1P4P1/6K1 w - - 0 1"]
+
+ { White is better here, mainly thanks to his bishop pair, an asset which tends to become more powerful the further the game goes on. Note that the light-squared bishop is doing a good job in restricting Black's desired plan of ...a7-a6 and ...b6-b5. Bauer found a clever way of improving his central pawn majority. --- } 1. { -KEY- } g4 $1 { Clearing the way for the e-pawn. By the way, this move would have been just as strong in the event of a normal black structure with pawns on f5-g6-h7. } ( { Less constructive is } 1. e4 $6 Bxf4 2. exf5 gxf5 3. Bxf5 Nd4 ) 
+ ( { But } 1. Kf2 { followed by g2-g4 on the next move was also possible. } ) 
+fxg4 $6 { This converts the e-pawn into a strong passed pawn. } ( 1... Ne7 { was more stubborn, although after } 2. Kf2 Kf7 3. Kf3 { , it is not easy to suggest a plan for Black, whereas White could contemplate e3-e4 at a suitable moment. } ) 
+2. hxg4 g5 3. Be4 $1 ( { Black intended } 3. fxg5 $2 Be5 { with a blockade on the dark squares, but White is not distracted from his original plan. } ) 
+Nd8 4. f5 { With the strong idea of Bd5 and e3-e4-e5. } Nf7 5. Bd5 Kf8 6. Bxf7 $1 { Eliminating the idea of a blockade on e5. } Kxf7 7. Kf2 g6 8. Kf3 { Of course the pawns should remain connected. The rest is relatively easy, with the e-pawn asking to be pushed. } 
+ 1-0

@@ -1,0 +1,97 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9495550/"]
+[Date "????.??.??"]
+[Round "20.1"]
+[White "19. Italian Game - 4.0-0 Intro & Modern 8.a4"]
+[Black "Italian Game 4.0-0 with a4 - transposition"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 { The Italian game is one of the oldest openings in chess. It was developed in the 16th and 17th centuries by famous Italian masters Damiano, Polerio, and Greco. It has always been frequently seen in beginners' and amateurs' games but its popularity among strong players gradually ceased in favor of the Ruy Lopez, which was considered a better try for an advantage until very recently. However, things have changed dramatically in recent years. Due to the futility of their attempts against the Berlin Defence, top players have started seeking ways to pose Black problems in the long-forgotten Italian. As a result of the trend set by Carlsen, Anand, Caruana, Karjakin, Vachier- Lagrave, Giri and other strong players it has suddenly become more popular than the Ruy Lopez and its theory has grown enormously. Unlike just a few years ago, Black is nowadays required to know the nuances of different lines and move orders to obtain a good position out of the opening. } Bc5 4. O-O ( { With } 4. c3 { we saw White either playing for a quick d4 or he delayed castling but the natural } 4. O-O { is the more popular way of playing the Italian. } ) 
+ { -KEY- } Nf6 5. d3 O-O 6. a4 ( { This will most likely transpose to } 6. c3 d5 7. exd5 Nxd5 8. a4 ) 
+a5 7. c3 d5 8. exd5 Nxd5 { transposes to the main line in this chapter. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9495551/"]
+[Date "????.??.??"]
+[Round "20.2"]
+[White "19. Italian Game - 4.0-0 Intro & Modern 8.a4"]
+[Black "Italian Game 4.0-0 & 6.Bg5"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 { The Italian game is one of the oldest openings in chess. It was developed in the 16th and 17th centuries by famous Italian masters Damiano, Polerio, and Greco. It has always been frequently seen in beginners' and amateurs' games but its popularity among strong players gradually ceased in favor of the Ruy Lopez, which was considered a better try for an advantage until very recently. However, things have changed dramatically in recent years. Due to the futility of their attempts against the Berlin Defence, top players have started seeking ways to pose Black problems in the long-forgotten Italian. As a result of the trend set by Carlsen, Anand, Caruana, Karjakin, Vachier- Lagrave, Giri and other strong players it has suddenly become more popular than the Ruy Lopez and its theory has grown enormously. Unlike just a few years ago, Black is nowadays required to know the nuances of different lines and move orders to obtain a good position out of the opening. } Bc5 4. O-O ( { With } 4. c3 { we saw White either playing for a quick d4 or he delayed castling but the natural } 4. O-O { is the more popular way of playing the Italian. } ) 
+Nf6 5. d3 O-O 6. Bg5 { This pin is not very effective when Black has not played ...d6 yet, as he can simply retreat his bishop to e7. -KEY- } h6 { This is useful to throw in first so that White's bishop once put on h4 can't easily return to c1-h6 diagonal. } 7. Bh4 Be7 8. Bg3 d6 9. a4 a5 { Transposing to 6.a4 lines. } ( { Note that } 9... Na5 10. Ba2 c5 { is possible despite the fact that White's bishop controls d5 and he can even play } 11. Nc3 { - Important thing is White already put the bishop to g3, so our knight on f6 controls d5. Black just goes } Nc6 { planning ...Be6 fighting for the light squares with an equal game. } ) 
+
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9495552/"]
+[Date "????.??.??"]
+[Round "20.3"]
+[White "19. Italian Game - 4.0-0 Intro & Modern 8.a4"]
+[Black "Italian Game 4.0-0 & 6.Nbd2 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 { The Italian game is one of the oldest openings in chess. It was developed in the 16th and 17th centuries by famous Italian masters Damiano, Polerio, and Greco. It has always been frequently seen in beginners' and amateurs' games but its popularity among strong players gradually ceased in favor of the Ruy Lopez, which was considered a better try for an advantage until very recently. However, things have changed dramatically in recent years. Due to the futility of their attempts against the Berlin Defence, top players have started seeking ways to pose Black problems in the long-forgotten Italian. As a result of the trend set by Carlsen, Anand, Caruana, Karjakin, Vachier- Lagrave, Giri and other strong players it has suddenly become more popular than the Ruy Lopez and its theory has grown enormously. Unlike just a few years ago, Black is nowadays required to know the nuances of different lines and move orders to obtain a good position out of the opening. } Bc5 4. O-O ( { With } 4. c3 { we saw White either playing for a quick d4 or he delayed castling but the natural } 4. O-O { is the more popular way of playing the Italian. } ) 
+Nf6 5. d3 O-O 6. Nbd2 { White postpones c3 in order to discourage ...d5, but Black is doing fine after this thematic break anyway! -KEY- } d5 7. exd5 Nxd5 8. Re1 { 8.a4 is covered under 6.a4. } Nb6 9. Bb3 ( 9. Bb5 { would be met by } Nd4 $1 ) 
+ ( { while } 9. Nxe5 Bxf2 10. Kxf2 Qd4 11. Kf1 Nxe5 { is the reason why the pawn on e5 is not hanging. } ) 
+a5 10. a4 Bg4 11. h3 Bh5 { We have active position and if White does nothing we can think about preparing ...f5. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9495553/"]
+[Date "????.??.??"]
+[Round "20.4"]
+[White "19. Italian Game - 4.0-0 Intro & Modern 8.a4"]
+[Black "Italian Game 4.0-0 & 6.Nbd2 #02"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 { The Italian game is one of the oldest openings in chess. It was developed in the 16th and 17th centuries by famous Italian masters Damiano, Polerio, and Greco. It has always been frequently seen in beginners' and amateurs' games but its popularity among strong players gradually ceased in favor of the Ruy Lopez, which was considered a better try for an advantage until very recently. However, things have changed dramatically in recent years. Due to the futility of their attempts against the Berlin Defence, top players have started seeking ways to pose Black problems in the long-forgotten Italian. As a result of the trend set by Carlsen, Anand, Caruana, Karjakin, Vachier- Lagrave, Giri and other strong players it has suddenly become more popular than the Ruy Lopez and its theory has grown enormously. Unlike just a few years ago, Black is nowadays required to know the nuances of different lines and move orders to obtain a good position out of the opening. } Bc5 4. O-O ( { With } 4. c3 { we saw White either playing for a quick d4 or he delayed castling but the natural } 4. O-O { is the more popular way of playing the Italian. } ) 
+Nf6 5. d3 O-O 6. Nbd2 { White postpones c3 in order to discourage ...d5, but Black is doing fine after this thematic break anyway! } d5 7. exd5 Nxd5 8. Re1 { 8.a4 is covered under 6.a4. } Nb6 9. Bb3 ( 9. Bb5 { would be met by } Nd4 $1 ) 
+ ( { while } 9. Nxe5 Bxf2 10. Kxf2 Qd4 11. Kf1 Nxe5 { is the reason why the pawn on e5 is not hanging. } ) 
+a5 10. Ne4 { -KEY- } Be7 11. a4 Bg4 { Just developing and Black is fine. Sample line goes: } 12. c3 { White cannot do without this move any longer, due to the threat of ...Nd4 } Qd7 13. h3 Be6 { As usual, exchanging the white light-squared bishop is the key to neutralisation of White's play. } 14. Be3 Rad8 ( { An accurate move and an improvement over the game Giri-Bacrot, Melilla 2011 where Black simply lost a pawn after } 14... Nd5 15. Nc5 Bxc5 16. Bxc5 Rfd8 17. Nxe5 ) 
+15. Nc5 Bxb3 16. Qxb3 Qc8 17. Rad1 Rfe8 $11 { White is slightly more active, but has no clear targets. Black always keeps his counterplay against the d3 pawn. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9495554/"]
+[Date "????.??.??"]
+[Round "20.5"]
+[White "19. Italian Game - 4.0-0 Intro & Modern 8.a4"]
+[Black "Italian Game 4.0-0 & 6.h3 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 { The Italian game is one of the oldest openings in chess. It was developed in the 16th and 17th centuries by famous Italian masters Damiano, Polerio, and Greco. It has always been frequently seen in beginners' and amateurs' games but its popularity among strong players gradually ceased in favor of the Ruy Lopez, which was considered a better try for an advantage until very recently. However, things have changed dramatically in recent years. Due to the futility of their attempts against the Berlin Defence, top players have started seeking ways to pose Black problems in the long-forgotten Italian. As a result of the trend set by Carlsen, Anand, Caruana, Karjakin, Vachier- Lagrave, Giri and other strong players it has suddenly become more popular than the Ruy Lopez and its theory has grown enormously. Unlike just a few years ago, Black is nowadays required to know the nuances of different lines and move orders to obtain a good position out of the opening. } Bc5 4. O-O ( { With } 4. c3 { we saw White either playing for a quick d4 or he delayed castling but the natural } 4. O-O { is the more popular way of playing the Italian. } ) 
+Nf6 5. d3 O-O 6. h3 { White postpones c3 in order to discourage ...d5, but Black is doing fine after this thematic break anyway! -KEY- } d5 7. exd5 Nxd5 8. Re1 Be6 ( { Usually we play } 8... Nb6 9. Bb3 a5 { but after } 10. a4 { we are missing ... } Bg4 { move. Once White lost a tempo for h3 we can develop the bishop this way. Note that the pawn on e5 is not hanging now due to ...Bxf2 trick as we will see while we are not afraid of Ng5-e6 as opening of the f-file gives us great attack on f2. } ) 
+9. Nxe5 $2 { This doesn't work but only because we protected the Knight on d5. } Nxe5 10. Rxe5 Bxf2+ 11. Kxf2 $2 { This is bad but Black was already much better. } Qf6+ 12. Qf3 Qxe5 { and here I just wanted to show that White would be winning if he could win the knight on d5. Thanks to 8. ..Be6 the knight is protected and Black is winning. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9495558/"]
+[Date "????.??.??"]
+[Round "20.6"]
+[White "19. Italian Game - 4.0-0 Intro & Modern 8.a4"]
+[Black "Italian Game 4.0-0 & 6.Re1"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 { The Italian game is one of the oldest openings in chess. It was developed in the 16th and 17th centuries by famous Italian masters Damiano, Polerio, and Greco. It has always been frequently seen in beginners' and amateurs' games but its popularity among strong players gradually ceased in favor of the Ruy Lopez, which was considered a better try for an advantage until very recently. However, things have changed dramatically in recent years. Due to the futility of their attempts against the Berlin Defence, top players have started seeking ways to pose Black problems in the long-forgotten Italian. As a result of the trend set by Carlsen, Anand, Caruana, Karjakin, Vachier- Lagrave, Giri and other strong players it has suddenly become more popular than the Ruy Lopez and its theory has grown enormously. Unlike just a few years ago, Black is nowadays required to know the nuances of different lines and move orders to obtain a good position out of the opening. } Bc5 4. O-O ( { With } 4. c3 { we saw White either playing for a quick d4 or he delayed castling but the natural } 4. O-O { is the more popular way of playing the Italian. } ) 
+Nf6 5. d3 O-O 6. Re1 { A tricky move aimed at discouraging ..d5. However, White pays the price of allowing the following continuation: -KEY- } Ng4 7. Re2 Nd4 { It is very useful to exchange the weaker c6 knight which obstructs the c-pawn. } 8. Nxd4 Bxd4 9. h3 Nf6 10. Nd2 d6 { We would love to play ...c6 and ...d5 but we can't do it now. We need to build up slowly. } 11. a4 { This is all recommended by Larry Kaufman in 'Kaufman's New Repertoire for Black and White' (New In Chess 2019), but now he misses a standard reply: } a5 $1 { Not allowing White to grab too much space. } 12. Nf3 Bb6 13. Be3 c6 $11 { The position is close to a symmetry. If White has any edge, it is merely cosmetic. One possible continuation goes } 14. d4 Nxe4 15. dxe5 d5 16. Bd3 Bxe3 17. Rxe3 f5 18. exf6 Qxf6 $11 { Black has a totally fine, active position. In case White takes on e4 twice, Black can take on h3 at the end. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9495559/"]
+[Date "????.??.??"]
+[Round "20.7"]
+[White "19. Italian Game - 4.0-0 Intro & Modern 8.a4"]
+[Black "Italian Game 4.0-0 & 6.c3 & 8.a4 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 { The Italian game is one of the oldest openings in chess. It was developed in the 16th and 17th centuries by famous Italian masters Damiano, Polerio, and Greco. It has always been frequently seen in beginners' and amateurs' games but its popularity among strong players gradually ceased in favor of the Ruy Lopez, which was considered a better try for an advantage until very recently. However, things have changed dramatically in recent years. Due to the futility of their attempts against the Berlin Defence, top players have started seeking ways to pose Black problems in the long-forgotten Italian. As a result of the trend set by Carlsen, Anand, Caruana, Karjakin, Vachier- Lagrave, Giri and other strong players it has suddenly become more popular than the Ruy Lopez and its theory has grown enormously. Unlike just a few years ago, Black is nowadays required to know the nuances of different lines and move orders to obtain a good position out of the opening. } Bc5 4. O-O ( { With } 4. c3 { we saw White either playing for a quick d4 or he delayed castling but the natural } 4. O-O { is the more popular way of playing the Italian. } ) 
+Nf6 5. d3 O-O 6. c3 { -KEY- } d5 { The most active approach, reminiscent to the variation I recommend against 4. d3 anti-Berlin main line. } 7. exd5 Nxd5 { We have reached one of the most important structures in this repertoire. White mainly plays against the e5-pawn and sometimes grabs space on the queenside. Black, on the other hand seeks counterplay against the d3-pawn and on the kingside, where he has the pawn majority. Typical continuations include ...Nb6, ...Bg4, ...Bd6 or ...f6 (after ...Nb6). } 8. a4 ( { The most challenging move, favored by elite players. The idea is quite cunning. After } 8. a4 Bg4 { , White wants to stop the typical ...Nb6 resource by } 9. a5 $1 ) 
+a5 ( { Possible is } 8... Nb6 9. Bb5 Ne7 $1 { introduced by Wesley So. White light-squared bishop is such an important piece, that it is worth sacrificing a pawn to eliminate it. It's not a move one could come up with over the board. We just recommend a simpler approach. } ) 
+9. Nbd2 Nb6 10. Bb5 Bd6 { This should transpose to other lines. } 11. Ne4 ( 11. Re1 { directly transposes to 9.Re1 } ) 
+Bg4 ( { Also possible is forcing } 11... Na7 12. d4 Nxb5 13. axb5 exd4 14. Nxd6 Qxd6 15. Qxd4 Bd7 { with a drawish endgame. } ) 
+12. h3 Bh5 ( { Whatever White plays, } 12... Bh5 12. Re1 f5 { (see here) } ( { or } 12... Bh5 12. Ng3 Bg6 { (see here) (we will transpose to lines covered in this repertoire.) } ) 
+ ) 
+
+ *

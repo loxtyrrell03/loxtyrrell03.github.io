@@ -1,0 +1,479 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964627/"]
+[Date "????.??.??"]
+[Round "44.1"]
+[White "7.7) Pawn Play: Test"]
+[Black "Chapter Summary: Key Takeaways"]
+[Result "*"]
+
+ { Below is an overview of concepts discussed in this chapter: (1) Pawn breaks: A pawn advance to a square attacked by an enemy pawn, with the intent of opening the position or challenging the opponent’s pawn structure. (2) Benefits of pawn breaks: Pawn breaks are strategically valuable, opening lines, improving structures, creating attack opportunities, contesting central control, and activating pieces. (3) Defending against pawn breaks: Common defenses include blocking the break with a pawn or positioning your pieces as well as possible in preparation for the break. (4) Responding to a pawn break: Responses vary in strength. Sometimes it will be best to capture the advancing pawn, while other times ignoring the break, or countering with a pawn break of your own is needed. (5) Targeting the structure: Use your pawns to disrupt the opponent's pawn chain by isolating or doubling their pawns. Similarly, seek out ways to improve your own pawn structure and eliminate weaknesses, such as backward pawns.. (6) The Minority Attack: A strategy in the ‘Carlsbad structure’ where a pawn minority targets the opponent’s larger pawn chain, typically on the queenside, to inflict structural damage. (7) Targeting minor pieces: Use pawns to push back opponent’s minor pieces, or employ them as barriers. Be careful not to place your pawns in a way that they restrict your own pieces! (8) The 4 vs 3 majority: A kingside pawn majority can be decisive, enabling deep pawn breaks or creating a passed pawn in the endgame, potentially overwhelming the opponent. (9) Pawn Types: There are many techniques worth studying in the battle around pawn types. We covered some of the most frequently occuring and important ones. These included fixing backward pawns, splitting doubled pawns, and even broader strategies like exchanging pieces when facing an IQP or applying piece pressure against hanging pawns. } 1. { -KEY- } -- 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967690/"]
+[Date "????.??.??"]
+[Round "44.2"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.1"]
+[Result "*"]
+[FEN "r1bq2k1/1p2nr1p/p1n1pbpB/3p4/N2P4/5N1P/PP2BPP1/R2Q1RK1 w - - 0 1"]
+
+ { Find a strong move for White with the goal of stopping one of Black's minor pieces from reaching an active square. } 1. { -KEY- } g4 $16 { Correct! Black is stopped from bringing the knight to f5, from where it would target both White's bishop on h6 and pawn on d4. White stands clearly better since Black is lacking space across the board. } ( 1. Ng5 $5 { also offers an edge, since after } Bxg5 2. Bxg5 { White would have a strong grip over the dark squares. However, Black has the option to play 1...Rg7! instead, when after 2.Bxg7 Bxg7 3.Nf3 Nf5! Black wins the pawn on d4 by force, leaving them with almost full compensation. } ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967691/"]
+[Date "????.??.??"]
+[Round "44.3"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.2"]
+[Result "*"]
+[FEN "rn1q1rk1/1bp1bppp/p3pn2/6B1/3PP3/2NB4/PP1QN1PP/R3K2R b KQ - 0 1"]
+
+ { Find the best move for Black, with the goal of improving your structure and damaging the opponent's. } 1... { -KEY- } c5 $1 { Correct! This forces the exchange of the isolated c-pawn for White's central pawn, which will result in an isolated pawn on e4. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967692/"]
+[Date "????.??.??"]
+[Round "44.4"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.3"]
+[Result "*"]
+[FEN "r1bqk2r/p3bppp/2pppn2/2p5/4PP2/2NP1N2/PPP3PP/R1BQK2R w KQkq - 0 8"]
+
+ { Find the best move for White. } 8. { -KEY- } e5 $1 Nd7 9. exd6 $16 { Correct! White has split Black's pawn structure in two. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967693/"]
+[Date "????.??.??"]
+[Round "44.5"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.4"]
+[Result "*"]
+[FEN "2kr3r/p3bpp1/4p2p/1p1pP3/2p1P3/2P5/PP1N1PPP/1K1RR3 b - - 0 1"]
+
+ { Find the best move for Black. } 1... { -KEY- } d4 $17 { Correct! By advancing the pawn not only does Black activate their 4 vs 3 pawn majority on the queenside, but they also make sure that White is unable to undouble their e-pawns. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967694/"]
+[Date "????.??.??"]
+[Round "44.6"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.5"]
+[Result "*"]
+[FEN "r1b1r1k1/1pqn1pbp/p1p2np1/4p3/P3P3/2N1BNPP/1PP2PB1/R2QR1K1 w - - 0 1"]
+
+ { Find the best move for White. } 1. { -KEY- } a5 $16 { Correct! White fixes b7 as a backward pawn and secures an outpost on b6. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967695/"]
+[Date "????.??.??"]
+[Round "44.7"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.6"]
+[Result "*"]
+[FEN "r1b1k2r/1pp1qpp1/3p4/p1nPp2p/2P4P/P4NP1/1P2PPB1/R2Q1RK1 b kq - 0 1"]
+
+ { Black to play. } 1... { -KEY- } a4 $17 { Correct! Black fixes the backward pawn on b2, at the same time stabilising their powerful knight on c5. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967696/"]
+[Date "????.??.??"]
+[Round "44.8"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.7"]
+[Result "*"]
+[FEN "2r2rk1/3nqppp/p3p3/1p1n4/3N4/P1N3P1/1PQ1PPKP/R2R4 w - - 0 1"]
+
+ { Find the best move for White. } 1. { -KEY- } Nxd5 $1 { Correct! Now Black is forced to accept an IQP on d5. } exd5 ( 1... Rxc2 $4 2. Nxe7 Kh8 3. Nxc2 $18 ) 
+2. Qd3 $14 { White stands better due to the constant weakness of Black's d-pawn. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967697/"]
+[Date "????.??.??"]
+[Round "44.9"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.8"]
+[Result "*"]
+[FEN "r2Q1rk1/pp3ppp/4n3/1Nb5/2B5/5Pn1/PP3P1P/2R2RK1 b - - 0 1"]
+
+ { Find the most precise move for Black. } 1... { -KEY- } Ne2+ $1 { Correct! Black gives the check to stop White from improving their pawn structure. } ( 1... Rfxd8 $11 { or } Raxd8 { both lead to complete equality with little practical chances for either side. } ) 
+2. Bxe2 Rfxd8 $15 { Or ...Rxad8. In either case the position is approximately equal, but Black retains some practical chances due to having the better structure. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967698/"]
+[Date "????.??.??"]
+[Round "44.10"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.9"]
+[Result "*"]
+[FEN "3r1rk1/pppq1p1p/2n2npb/8/P3PP2/2P4P/1P1N2B1/R1BQ1RK1 b - - 0 1"]
+
+ { Black has a crushing move, targeting White's fragile hanging pawns on e4 & f4. Can you find it? } 1... { -KEY- } Nh5 $1 { Correct! There is no good way to defend the f4 pawn because of the pin on the d2 knight. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967699/"]
+[Date "????.??.??"]
+[Round "44.11"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.10"]
+[Result "*"]
+[FEN "r1b2rk1/pp2ppbp/2n3p1/2Pq4/8/2B1PN2/PP2BPPP/R2QK2R b KQ - 0 1"]
+
+ { How would you continue here as Black? } 1... { -KEY- } Bxc3+ $1 { Correct! } 2. bxc3 Qxc5 $15 { Black has the better chances, with White having to manage the weak isolated pawns on c3 and a2. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967700/"]
+[Date "????.??.??"]
+[Round "44.12"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.11"]
+[Result "*"]
+[FEN "r4rk1/pp3ppp/4pn2/3n4/2N2P2/1P4P1/P4PBP/R2R2K1 w - - 0 1"]
+
+ { Find the best move for White. } 1. { -KEY- } f5 $1 { Correct! White exploits the unstable position of the knight on d5 in order to exchange off their doubled pawns and damage Black's structure. } Rfe8 2. fxe6 fxe6 3. Rd2 $16 { White has an edge with the stronger minor pieces and the better structure. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967701/"]
+[Date "????.??.??"]
+[Round "44.13"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.12"]
+[Result "*"]
+[FEN "rnb1kbnr/ppp2ppp/8/3q4/3p4/2P5/PP3PPP/RNBQKBNR w KQkq - 0 1"]
+
+ ( { Should White play } 1. Qxd4 { or } 1. cxd4 $2 ) 
+1. { -KEY- } cxd4 $11 { The position is approximately equal, since the IQP affords more dynamic middlegame possibilities and thus keeping the queens on the board is advantageous. Not to mention that in this specific case, the queen on d5 is vulnerable to attack with Nc3, which will allow White to gain time. } ( 1. Qxd4 $2 Qxd4 2. cxd4 Nc6 $1 { Now the pawn is immediately very vulnerable. } 3. Nf3 Be6 $17 { Black can ramp up the pressure on d4 with } 4. -- O-O-O { next, or even play } Nb4 $5 { to exploit White's weakened queenside. } ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967702/"]
+[Date "????.??.??"]
+[Round "44.14"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.13"]
+[Result "*"]
+[FEN "2r2rk1/p1p1Rp2/1n1p4/2p3pb/8/5NBP/PPP2PP1/3R2K1 b - - 0 1"]
+
+ { Black has a good position, and a solid move like 1...f6 keeps an advantage. However, there is an even stronger idea. Can you find it? } 1... { -KEY- } f5 $1 { Correct! Black is threatening to play ...f4 on the next move, shutting out White's dark-squared bishop. White can try several moves here, but none are convincing. For example: } 2. Rde1 Bxf3 3. gxf3 f4 $17 { White will have a lot of trouble unlocking the bishop from its prison on h2. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967703/"]
+[Date "????.??.??"]
+[Round "44.15"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.14"]
+[Result "*"]
+[FEN "5rk1/1q3p1p/3pr1p1/ppn5/3Q4/2P3RP/PPB2PP1/3R2K1 w - - 0 26"]
+
+ { Find the strongest sequence for White. } 26. { -KEY- } b4 $1 axb4 27. cxb4 $16 { Correct! Black's knight is now pushed away from its ideal square, while the light-squared bishop will soon be able to anchor itself on the ideal b3 square. } Ne4 $2 { This was played in Medvegy,N - MacElligott,G (2005) but now the Black knight proves to be too unstable. } ( 27... Nd7 { was the lesser evil, but after } 28. Bb3 $16 { White has a big advantage due to the mix of more active pieces and the better structure. } ) 
+28. Re3 Rfe8 29. Bb3 Re5 30. Bd5 Qe7 31. f4 $18 { Black could no longer avoid losing material. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967704/"]
+[Date "????.??.??"]
+[Round "44.16"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.15"]
+[Result "*"]
+[FEN "r4rk1/ppp1pp1p/1q4p1/3BQb2/8/1PP4P/P1P2PP1/3RK2R w K - 0 1"]
+
+ ( 1. O-O { is a good move in this position, but there is an even stronger alternative. White to play. } ) 
+1. { -KEY- } g4 $1 ( { Correct! It turns out that Black has no good square to bring the bishop to, since } 1. g4 Bxc2 2. Rd2 { leaves it trapped, while both d7 and c8 are passive squares. } ) 
+Be6 { The lesser evil, but after } 2. Bxe6 fxe6 3. O-O $16 { White stands better owing to their superior structure, though Black does keep good chances to hold a draw with best play. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967705/"]
+[Date "????.??.??"]
+[Round "44.17"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.16"]
+[Result "*"]
+[FEN "r2qkb1r/pp2p1pp/2p2p2/3p1b2/3PnB2/4PN2/PPP2PPP/R2QKB1R b KQkq - 0 1"]
+
+ { Can you find the strong sequence that Black has here, in order to damage White's pawn structure? } 1... { -KEY- } g5 $1 2. Bg3 h5 $1 3. h3 Nxg3 $17 { Correct! By threatening to trap White's bishop on g3, Black forced White to advance the h-pawn. Now White will have to play fxg3, when their structure will be permanently weak. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967706/"]
+[Date "????.??.??"]
+[Round "44.18"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.17"]
+[Result "*"]
+[FEN "r2q1r1k/ppp3bp/3p2p1/4p3/2B1Pn2/4B3/PPP1QPPP/2KR3R w - - 0 1"]
+
+ ( { Find the best move for White in this position. Choose between } 0... Nxg3 0. Qf1 { , } 1. Bxf4 { and } 1. Qg4 { . } ) 
+1. { -KEY- } Qf1 $16 { Correct! White will kick back Black's knight on the next move with g2-g3 and keep an advantage due to the bishop pair, particularly the much stronger light-squared bishop on c4. } ( 1. Qg4 $6 { Here the queen is a lot more vulnerable. } h5 $1 { There are other good moves for Black, but this is the one that best illustrates the major drawback of White's queen placement. } 2. Qg3 $11 { Not only is White's queen misplaced on g3, but now White is unable to play g2-g3 themselves any time soon. As a result, Black's knight on f4 cannot be pushed back. } ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967707/"]
+[Date "????.??.??"]
+[Round "44.19"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.18"]
+[Result "*"]
+[FEN "r1bq1r1k/1p4pp/p1n2b2/3p1p2/NP1P4/P3BN2/5PPP/R2Q1RK1 b - - 0 1"]
+
+ { Find the best sequence for Black. } 1... { -KEY- } f4 $1 2. Bxf4 $6 ( 2. Bc1 { is the lesser evil, but after } Bg4 $15 { Black is the side with the positional pressure. } ) 
+Bg4 $1 { Correct! Black has sacrificed a pawn for now, but the piece pressure and the ability to damage White's structure on the kingside more than makes up for it. For example: } 3. Be3 Be7 $17 { Black will capture on f3 soon, and if White is not careful they may even take with the rook to set up a deadly attack along the light squares. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967708/"]
+[Date "????.??.??"]
+[Round "44.20"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.19"]
+[Result "*"]
+[FEN "r2q1rk1/pb2bppp/1pn5/2pp4/3Pn3/PP1BPN2/1B2NPPP/R2Q1RK1 w - - 0 1"]
+
+ { Should White change the structure to a hanging pawns formation with dxc5, or would it be better to play Bxe4 instead? } 1. { -KEY- } dxc5 $1 { Correct! Activating the bishop as well as inviting hanging pawns will offer White the better chances. } ( 1. Bxe4 $2 { Giving up the bishop pair and at the same time allowing Black to gain space in the centre is a bad idea: } dxe4 2. Nd2 cxd4 3. Nxd4 Qd5 $15 { Black has easy play, and can bring the rooks to the central files next. Another possibility is to play ...Ne5-d3 to target the central outpost. } ) 
+bxc5 ( 1... Nxc5 { is possible, but in this case White can still hope for an advantage against Black's IQP on d5. } 2. Nf4 $14 ) 
+2. Qc2 $16 { White has excellent pressure against Black's fragile centre. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967709/"]
+[Date "????.??.??"]
+[Round "44.21"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.20"]
+[Result "*"]
+[FEN "r2qr1k1/pp1n1pp1/3b1n1p/1BpP3b/7B/2N2N1P/PP3PP1/R2Q1RK1 w - - 0 1"]
+
+ ( { White can force doubled pawns with either } 1. Bxf6 { or } 1. Bxd7 { . Which is best? } ) 
+1. { -KEY- } Bxf6 $1 { Correct! } ( 1. Bxd7 $2 Qxd7 2. Bxf6 gxf6 $15 { Black stands better here, due to the combination of the bishop pair and the pin along the d1-h5 diagonal. It would be extremely easy for White to go wrong here. For example } 3. g4 $2 { loses to } Bxg4 { , while } 3. Qd3 $6 { also lands White in trouble after } c4 $1 { deflecting the queen away from the defense of the knight on f3. } ) 
+gxf6 2. Qa4 $16 { Black is in serious trouble here with the mix of the damaged structure and piece pressure against the pinned knight. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967710/"]
+[Date "????.??.??"]
+[Round "44.22"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.21"]
+[Result "*"]
+[FEN "3r2k1/ppn2pp1/3q1p1p/8/3p4/2PB3P/PPQR1PP1/6K1 w - - 0 1"]
+
+ ( 1. cxd4 { would leave White with an IQP on d4. Can you find a way to avoid this? } ) 
+1. { -KEY- } Bh7+ $1 Kh8 2. Rxd4 $14 { Correct! By giving the check on h7 White has avoided doubled pawns, leaving them with a small edge due to the bishop and the 3 vs 2 majority. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967711/"]
+[Date "????.??.??"]
+[Round "44.23"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.22"]
+[Result "*"]
+[FEN "4r1kb/1rP2p1p/3p2pP/2Qnp3/p1P1P1P1/8/1P1N1P2/1K1R3R b - - 0 1"]
+
+ { Taken from the online game Carlsen,M - Sadwhani, R (2023) . Black has only one move to stay in the game, can you find it? } 1... { -KEY- } Nc3+ $1 { The check is designed to stop White from establishing an ideal pawn structure. } ( 1... dxc5 $2 2. exd5 Rxc7 3. Ne4 $18 { White's protected passed pawn on d5 coupled with the more active pieces and better overall structure leaves Black with little hope. } ) 
+2. Kc2 dxc5 3. Kxc3 Rxc7 $14 { Correct! White was still slightly better, though Black had managed to stay alive and eventually turned things around and even defeated Magnus. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967712/"]
+[Date "????.??.??"]
+[Round "44.24"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.23"]
+[Result "*"]
+[FEN "r3r1k1/1bq2pbp/pp1p2p1/2pPn2n/P1P5/2NB1N1P/1P3PPB/R2QR1K1 w - - 0 1"]
+
+ { Find the strongest sequence for White. } 1. { -KEY- } Nxe5 $1 ( 1. Bxe5 $2 { is far less convincing, since after } dxe5 $13 { Black has improved their structure and been left with the dangerous bishop pair. In the future Black will seek to play ...f5 and ...e4 when White is even at risk of ending up worse. } ) 
+Bxe5 ( 1... dxe5 { is another option, but here after e.g. } 2. a5 $1 bxa5 3. Qa4 { Black is not in time to cause problems with } f5 { since White can reply with } 4. Qxa5 Qd6 5. Na4 Rac8 6. Qb6 $18 { White has made too much progress on the queenside. } ) 
+2. Bxe5 Rxe5 3. Rxe5 $1 { Correct! The series of exchanges will leave White with a strong protected passer on d5. } dxe5 4. a5 $1 { Taking the time to damage the structure on the queenside. } bxa5 5. Qa4 $18 { White is positionally winning, since the a-pawns and c5 are permanent weaknesses, while the passed pawn on d5 remains a monster. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967713/"]
+[Date "????.??.??"]
+[Round "44.25"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.24"]
+[Result "*"]
+[FEN "r3k2r/pp1nbpp1/2p3p1/3p4/3P4/1P2P1P1/1P1B1P1P/R3KB1R w KQkq - 0 14"]
+
+ { What is White's strongest sequence here? } 14. { -KEY- } b4 $1 O-O ( 14... a6 { does not stop the threat, since after } 15. b5 cxb5 16. Bxb5 $16 { Black cannot capture the bishop due to the pin along the a-file. } ) 
+15. b5 $1 { Correct! White gets rid of his doubled pawns by force. } cxb5 $2 16. Bxb5 $16 { Not only has White gotten rid of his doubled pawns, but the pawn break on b5 provoked Black into accepting a bad IQP position in the game Astaneh Lopez - Garcia Paolicchi,R (2014). } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967714/"]
+[Date "????.??.??"]
+[Round "44.26"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.25"]
+[Result "*"]
+[FEN "3qr3/8/3p1pk1/p1pP3p/1pP2PpP/1P1b2B1/1P3QPK/R7 w - - 0 1"]
+
+ { Find the only move that keeps White in the game. } 1. { -KEY- } f5+ $1 { Correct! The pawn sacrifice was essential, ensuring that White has enough piece activity to hold the balance. Let's see how play might unfold. } ( 1. Re1 $2 { would be met by } Bf5 $19 { when now White's bishop on g3 is left completely passive, and the position is already objectively lost. Black will trade heavy pieces at the right time and then play ...Bc2 and collect all of White's central pawns. } ) 
+Bxf5 2. Re1 Rxe1 3. Qxe1 Kf7 4. Qe3 $11 { Black's extra pawn is meaningless due to White's significant piece activity. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967715/"]
+[Date "????.??.??"]
+[Round "44.27"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.26"]
+[Result "*"]
+[FEN "1r3rk1/2p4p/1p2qbp1/pPpnpp2/P1P1P3/R4B2/5PPP/3QR1K1 w - - 0 1"]
+
+ { Taken from an online game. Which capture do you think Magnus Carlsen played in this position as White? } 1. { -KEY- } exf5 $1 ( 1. exd5 $2 { would be a serious blunder, since now Black would get a 4 vs 3 kingside pawn majority. } Qd6 2. g3 e4 $1 3. Bg2 Bd4 $19 { Black is winning. Besides the stronger minor piece and better structure, he is also a pawn to the good. } ) 
+Qxf5 2. Bxd5+ $16 { Correct! By playing 1.exf5 White ensured a position with not only the better structure, but also with the much stronger bishop. Black's extra pawn is not relevant, as it is doubled on the c-file and can never me mobilised. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967716/"]
+[Date "????.??.??"]
+[Round "44.28"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.27"]
+[Result "*"]
+[FEN "r1b1kb1r/ppp2ppp/5n2/q3p3/2Bn4/2NP3P/PPP2PP1/R1BQK1NR b KQkq - 0 1"]
+
+ { Black to play. Can you find a sequence to damage White's pawn structure? } 1... { -KEY- } b5 $1 2. Bb3 Nxb3 { Correct! } 3. cxb3 ( 3. axb3 $4 Qxa1 $19 ) 
+Bb7 $19 { Black is close to winning due to the better development, structure, and the powerful bishop pair. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967717/"]
+[Date "????.??.??"]
+[Round "44.29"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.28"]
+[Result "*"]
+[FEN "rn3rk1/pb2qppp/4pn2/2pp4/N1P5/P2BPP2/1P4PP/1RBQR1K1 w - - 0 15"]
+
+ { This position was reached in Korchnoi,V - Antoshin,V (1966) . Which two-move sequence did White play in order to first create hanging pawns, and then immediately undermine them? } 15. { -KEY- } cxd5 exd5 16. b4 $1 { Correct! Now Black is forced to mobilise their hanging pawns along the light squares. } ( 16. e4 $6 { is another way of undermining the pawns, but much less convincing after } dxe4 $1 { since now White will be forced to accept an isolated pawn of their own on e4. } ) 
+c4 17. Bc2 Nc6 18. Bb2 $16 { White stood much better due to his active bishops and excellent control of the dark squares. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967718/"]
+[Date "????.??.??"]
+[Round "44.30"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.29"]
+[Result "*"]
+[FEN "r2q1rk1/pp1b1pbp/2np2p1/2p1p3/2P1n3/1PNP2P1/PB2PPBP/R2Q1RK1 w - - 0 1"]
+
+ { How should you recapture on e4? } 1. { -KEY- } dxe4 $1 { Correct! White accepts doubled pawns in order to create a semi-open d-file and secure a power outpost on d5. } ( { After } 1. Nxe4 $6 Qc7 $11 { Black is fine in spite of the backward pawn on d6, since there is no way for White to increase the pressure against it. } ) 
+Be6 2. Qd2 Qe7 3. Rad1 Rad8 4. e3 $16 { The second e-pawn does an excellent job of taking away the d4 square from Black's knight. White stands better with more space and better long-term activity for their pieces. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967719/"]
+[Date "????.??.??"]
+[Round "44.31"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.30"]
+[Result "*"]
+[FEN "3r2k1/pp3pp1/3q1p1p/2p5/P2P4/2PQ3P/1P3PP1/4R1K1 w - - 0 1"]
+
+ { Find the best move for White. } 1. { -KEY- } d5 $1 { Correct! White uses tactics to force a passed pawn on d5. } g6 ( 1... Qxd5 $4 { loses the queen after } 2. Re8 Rxe8 3. Qxd5 $18 ) 
+2. c4 $16 { White locks in a protected passed pawn on d5. Black faces a challenging defensive task ahead. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967720/"]
+[Date "????.??.??"]
+[Round "44.32"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.31"]
+[Result "*"]
+[FEN "r2qk2r/2p1n1pp/p1pbbp2/1p6/2NQP3/1P3N2/P1P2PPP/R1B2RK1 w kq - 0 1"]
+
+ ( { Should White play } 1. Nxd6 { or } 1. Na5 $2 ) 
+1. { -KEY- } Nxd6+ $1 { Correct! It often pays to stay flexible and be willing to improve your opponent's structure for other positional advantages. } ( 1. Na5 $6 { The attempt to keep the pawn structure doubled does not work out well for White. } c5 $1 2. Qe3 Ng6 { Black has good coordination and central control, leaving them without problems in spite of having doubled pawns on the c-file. } ) 
+cxd6 ( 1... Qxd6 2. Rd1 $16 { In this line Black maintains the poor pawn structure, while also having lost their valuable dark-squared bishop. } ) 
+2. Rd1 $1 d5 3. Ba3 $16 { White stands much better due to their better-placed pieces and domination along the dark squares. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967721/"]
+[Date "????.??.??"]
+[Round "44.33"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.32"]
+[Result "*"]
+[FEN "r1bn1rk1/pppnq1pp/3p4/3P1p2/2P1Pp2/2B3P1/PP1N2BP/R2Q1RK1 w - - 0 1"]
+
+ ( { How should White recapture on f4? Choose between } 1. Rxf4 { and } 1. gxf4 { . } ) 
+1. { -KEY- } gxf4 $1 { Correct! This powerful pawn capture may leave White with a fractured structure if Black plays ...fxe4, but stopping Black from having a strong central outpost on e5 is much more valuable. } ( 1. Rxf4 { still maintains an advantage, but it does have the problem of giving Black access to the e5 square. } Ne5 2. exf5 Bxf5 3. Qf1 $16 { White stands a little better due to the piece pressure, but Black remains in the game for now. } ) 
+fxe4 2. Nxe4 Nf7 3. Qd4 $18 { White is already winning, due to their far better placed pieces and powerful attack against the Black king. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967722/"]
+[Date "????.??.??"]
+[Round "44.34"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.33"]
+[Result "*"]
+[FEN "5rk1/2r1bppp/pqb1p1n1/3pP3/1n1P4/2N1BNP1/1P1QBP1P/R4RK1 w - - 0 1"]
+
+ { White to play, find the strongest sequence. } 1. { -KEY- } h4 $1 Rfc8 ( 1... h6 2. h5 $1 Nh8 3. Rfc1 $16 { is equally bad, as the Black knight will struggle to re-enter the play. } ) 
+2. h5 Nf8 3. h6 $16 { Correct! In order to avoid the knight from being left stranded on h8, Black was forced to allow White's pawn to march all the way to h6. As a result, the dark squares around Black's king get exposed and likely White will be able to set up a deadly attack in the coming moves. These flank-pawn attacks on knights that are on either b6/g6 for Black, or b3/g3 for White, are very typical and worth remembering as they can be positionally devastating in many situations. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967723/"]
+[Date "????.??.??"]
+[Round "44.35"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.34"]
+[Result "*"]
+[FEN "1rb1r1k1/2qn1pbp/3p2p1/1pnP4/2p1PP2/2N1B1NP/1PB2QP1/R4RK1 w - - 0 19"]
+
+ { This position was reached in the game Penrose,J - Tal, M (1960) . Can you find the powerful sequence that White played in a game that he would go on to win against the then World Champion? } 19. { -KEY- } e5 $1 { A nasty pawn break in the centre of the board. } dxe5 20. f5 $1 { Correct! The pawn breaks serve to block the communication of Black's pieces along the e5 square as well as giving White attacking opportunities on the kingside plus a dangerous passed pawn. In case you would like to see how the game continued, the moves are included without annotation. } Bb7 21. Rad1 Ba8 22. Nce4 Na4 23. Bxa4 bxa4 24. fxg6 fxg6 25. Qf7+ Kh8 26. Nc5 Qa7 27. Qxd7 Qxd7 28. Nxd7 Rxb2 29. Nb6 Rb3 30. Nxc4 Rd8 31. d6 Rc3 32. Rc1 Rxc1 33. Rxc1 Bd5 34. Nb6 Bb3 35. Ne4 h6 36. d7 Bf8 37. Rc8 Be7 38. Bc5 Bh4 39. g3 { Black resigned. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967724/"]
+[Date "????.??.??"]
+[Round "44.36"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.35"]
+[Result "*"]
+[FEN "r2q1rk1/1b1nbpp1/p2p1n1p/2p1p3/Pp1PP2B/5N1P/BPP2PP1/RN1QR1K1 w - - 0 15"]
+
+ ( { Taken from the game Manca, F - Eisenbeiser, K (2005). Should White play } 15. d5 { (grabbing space) or } 15. dxe5 { (changing the structure)? } ) 
+15. { -KEY- } dxe5 $1 { Correct! } ( 15. d5 $6 { Shutting down the centre is a bad idea. Black can play something like } Nh5 { to trade bishops, and in the future grab the initiative by breaking with ...f5. } ) 
+dxe5 $6 16. Nbd2 $16 { Now White has a much better position, with the central pawn on e4 safely guarded and a beautiful outpost on c4 that may be used by the knight in the future. For anyone curious, the rest of the game is included without annotations. } Qc7 17. Nc4 Rfe8 18. Bxf6 Nxf6 19. Ncxe5 Rf8 20. Qd3 Rad8 21. Qc4 Bxe4 22. Rxe4 Nxe4 23. Nxf7 Rxf7 24. Qxf7+ Kh8 25. Re1 Rf8 26. Qe6 Rxf3 27. Qg8# { 1-0 White wins. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967725/"]
+[Date "????.??.??"]
+[Round "44.37"]
+[White "7.7) Pawn Play: Test"]
+[Black "Puzzle 7.36"]
+[Result "*"]
+[FEN "r2qr1k1/pp3ppp/1np1bn2/6B1/1b1P4/2NQ4/PPB1NPPP/R4RK1 b - - 0 1"]
+
+ { Find the best sequence for Black. } 1... { -KEY- } Bc4 $1 { Immediately exploiting a typical feature of IQP positions: the vulnerability of the c4 square. In cases where Black is the side with the IQP it is the c5 square that is quite weak. } 2. Qh3 { The only way to avoid material losses. } ( 2. Qd1 $2 { This was played in the game, but Black can win an exchange after } Bxc3 3. Nxc3 Bxf1 $19 ) 
+h6 $1 { Correct! Now White is forced to part ways with their bishop pair. } ( { But not } 2... Bxe2 $2 { , since now the Black king lands in some trouble after } 3. Bxf6 Qxf6 4. Qxh7 Kf8 5. Rae1 $11 { White will recover their bishop with approximate equality, since if Black withdraws it then White will play Qh7-h8 with mate. } ) 
+3. Bxf6 ( 3. Be3 $2 Bxc3 4. Nxc3 Bxf1 $19 ) 
+Qxf6 4. Bd3 Rad8 $17 { White has succeeded in avoiding decisive material losses, but Black has a big advantage due to the better placed pieces and favorable structure. } 
+ *

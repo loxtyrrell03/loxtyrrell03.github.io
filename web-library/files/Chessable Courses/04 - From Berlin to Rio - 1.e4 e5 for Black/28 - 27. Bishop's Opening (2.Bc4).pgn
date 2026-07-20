@@ -1,0 +1,58 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464736/"]
+[Date "????.??.??"]
+[Round "28.1"]
+[White "27. Bishop's Opening (2.Bc4)"]
+[Black "Bishop's Opening 4.Qe2"]
+[Result "*"]
+
+1. e4 e5 2. Bc4 { The Bishop's Opening has recently been gaining in popularity, mainly as a means of avoiding the Petroff Defence. -KEY- } Nf6 3. d3 c6 { I believe Black should take the opportunity to grab space in the centre. This way, he can fight for more than equality. } 4. Qe2 $6 { A choice of dubious value. } Bc5 5. Nf3 O-O 6. O-O ( { After } 6. Bg5 d6 { the bishop is not great on g5. Black can easily unpin with ...Nbd7. } ) 
+ ( { And } 6. Nxe5 $2 d5 $1 7. Bb3 Re8 { is bad for White as he won't be able to survive after } 8. f4 Nbd7 9. Nxd7 Bxd7 10. e5 Bg4 11. Qd2 Bd4 { and Black will blast open the game with ...Bxe5 or ...Nd7xe5 and catch White's King in the middle. } ) 
+d5 7. Bb3 h6 { If White does nothing, Black continues with ... Re8 and the queen on e2 is really not feeling well. Therefore the critical continuation is: } 8. exd5 cxd5 9. Qxe5 $6 { But after } Nc6 10. Qg3 Bd6 11. Qh4 Ne7 $17 { the white queen is feeling badly. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464737/"]
+[Date "????.??.??"]
+[Round "28.2"]
+[White "27. Bishop's Opening (2.Bc4)"]
+[Black "Bishop's Opening 4.Nf3 #01"]
+[Result "*"]
+
+1. e4 e5 2. Bc4 { The Bishop's Opening has recently been gaining in popularity, mainly as a means of avoiding the Petroff Defence. } Nf6 3. d3 c6 { I believe Black should take the opportunity to grab space in the centre. This way, he can fight for more than equality. } 4. Nf3 { -KEY- } d5 5. Bb3 a5 { Softening up the bishop on b3. } 6. a3 $6 { In this way, White surrenders even more space, which already gives Black reasonable hopes of achieving an opening advantage. } a4 7. Ba2 Bd6 8. Nc3 d4 { We can't keep d5 but let's just grab even more space. } 9. Ne2 c5 10. Ng3 O-O 11. O-O Nc6 { Black has more space on the queenside and in the centre, so all that is left for White is to try and attack on the kingside. However, Black can easily repel this attack, and achieve the better chances, e. g. } 12. h3 h6 13. Nh4 Re8 14. Nhf5 Bf8 15. Nh5 Nxh5 16. Qxh5 Be6 17. Bxe6 Rxe6 18. f4 g6 19. Qg4 Qe8 $15 { White's attack has reached a dead end. Black is ready to develop the queenside initiative. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464738/"]
+[Date "????.??.??"]
+[Round "28.3"]
+[White "27. Bishop's Opening (2.Bc4)"]
+[Black "Bishop's Opening 4.Nf3 #02"]
+[Result "*"]
+
+1. e4 e5 2. Bc4 { The Bishop's Opening has recently been gaining in popularity, mainly as a means of avoiding the Petroff Defence. } Nf6 3. d3 c6 { I believe Black should take the opportunity to grab space in the centre. This way, he can fight for more than equality. } 4. Nf3 d5 5. Bb3 a5 { Softening up the bishop on b3. } 6. a4 { -KEY- } Bb4+ { This provokes 7.c3 and Black is arguing that this extra move is actually counterproductive as he can't develop the knight to c3. } ( 6... Bd6 { is playable but } 7. exd5 cxd5 8. Bg5 Be6 9. Nc3 { is maybe equal but somehow easier for White. } ) 
+7. c3 ( 7. Nc3 d4 { loses a piece and moves like } 7. Nbd2 { or } 7. Bd2 { don't pose any problems. Black has a good development and nice centre. No further knowledge is required in this case. } ) 
+Bd6 8. Bg5 { This move allows Black to keep a symmetrical structure. } dxe4 9. dxe4 h6 10. Bh4 Qe7 11. Nbd2 Bc7 { Just sidestep Nc4 and wait for White to castle. } 12. O-O O-O 13. Nc4 Be6 $11 { Black stands harmoniously and has nothing to fear. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/10733924/"]
+[Date "????.??.??"]
+[Round "28.4"]
+[White "27. Bishop's Opening (2.Bc4)"]
+[Black "Urusov Gambit #01"]
+[Result "*"]
+
+1. e4 e5 2. Bc4 { The Bishop Opening has recently been gaining in popularity, mainly as a means of avoiding the Petroff Defence. } Nf6 3. d4 $5 { The rare Urusov Gambit, which we forgot to even include in the beta version. It was pointed out by one of the testers. Fortunately, Black doesn't face too many problems here. -KEY- } exd4 4. e5 $2 { This just doesn't work. } d5 $1 { Of course, a strike in the centre. } 5. Qxd4 dxc4 6. Qxd8+ Kxd8 7. exf6 gxf6 $17 { The situation is very simple. White has no compensation for the pawn. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/10733925/"]
+[Date "????.??.??"]
+[Round "28.5"]
+[White "27. Bishop's Opening (2.Bc4)"]
+[Black "Urusov Gambit #02"]
+[Result "*"]
+
+1. e4 e5 2. Bc4 { The Bishop Opening has recently been gaining in popularity, mainly as a means of avoiding the Petroff Defence. } Nf6 3. d4 $5 { The rare Urusov Gambit, which we forgot to even include in the beta version. It was pointed out by one of the testers. Fortunately, Black doesn't face too many problems here. } exd4 4. e5 $2 { This just doesn't work. } d5 $1 { Of course, a strike in the centre. } 5. Bb5+ { -KEY- } Bd7 6. Qxd4 Bxb5 7. exf6 Qxf6 $17 { White is simply a pawn down and can't take on d5 because of ...Bc6. } 
+ *

@@ -1,0 +1,375 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12539627/"]
+[Date "????.??.??"]
+[Round "13.1"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Outside passed pawns"]
+[Result "*"]
+
+ { The outside passed pawn is a common feature in practice, with particular relevance in pawn endings. Here is a typical example } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520534/"]
+[Date "????.??.??"]
+[Round "13.2"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 85 by Averbakh- Y."]
+[Result "*"]
+[FEN "8/8/8/6p1/1kp2p1p/5P1P/PK4P1/8 w - - 0 1"]
+
+ { Despite his space disadvantage White is easily winning, since he can use his outside passed pawn on a2 as bait in order to get his king across to the other flank first, once the queenside pawns have been exchanged. } 1. { -KEY- } Kc2 ( { Another good option was } 1. a3 Ka4 2. Kc3 { with similar play. } ) 
+Ka3 ( { After } 1... Kc5 2. Kc3 Kb5 3. a3 ( 2... Ka3 2. a4 { works as well; } ) 
+Kc5 4. a4 Kd5 5. a5 Kc5 6. a6 $1 Kb6 7. Kxc4 Kxa6 8. Kd5 { White wins comfortably. } ) 
+2. Kc3 Kxa2 3. Kxc4 Kb2 4. Kd4 { The white king is first to reach the opposite flank. } Kc2 5. Ke4 Kd2 6. Kf5 Ke2 7. Kxg5 Kf2 8. Kxf4 Kxg2 9. Kg4 { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520535/"]
+[Date "????.??.??"]
+[Round "13.3"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 86- Schlechter- C. vs. Tartakower- S.- Carlsbad 1907"]
+[Result "1-0"]
+[FEN "8/1p3pk1/p3p1pp/4P3/5P2/P7/1P2K1PP/8 b - - 0 2"]
+
+ ( { In this pawn ending Black should be able to hold the balance with } 1. Kg4 Kf8 { , bringing the king to the opposite flank. Instead, he came up with a most unfortunate idea. } ) 
+ { -KEY- } g5 $2 { Such a space-gaining advance would have been excellent with more pieces on the board - here it just helps White create an outside passed pawn on the h-file. } 2. fxg5 hxg5 3. Kf3 Kg6 4. Kg4 $1 { Preventing ...Kf5. } ( { Evidently, } 4. g4 $2 { would be wrong - as we will see next, the g-pawn is needed for a different purpose. } ) 
+f5+ ( { Or } 4... Kh6 5. g3 $1 { preparing h2-h4 as in the game. } ) 
+5. exf6 Kxf6 6. g3 $1 { A key move. Now h2-h4, creating an outside passed pawn, is inevitable. } a5 ( { Or } 6... Ke5 7. Kxg5 ( { of course } 6... a5 6. h4 { also works; } ) 
+Kd4 8. h4 { and White queens with check. } ) 
+7. a4 e5 8. h4 ( { The outside passed pawn gets ready to decide the game. If instead } 8. b3 $6 { then } e4 9. h4 Ke5 $1 { makes things a bit more complex, at least in practice. } ) 
+gxh4 9. gxh4 Kg6 10. b3 ( { From here and onwards, many different move orders will lead to the goal, for instance, } 10. Kf3 { heading for e4, both here and on the next move. The reason why Schlechter played } 10. b3 { might be that after the reply } b6 { , Black's queenside pawns can be picked up by White's king in two moves instead of three. } ) 
+b6 11. h5+ Kf6 12. h6 Kg6 13. h7 ( 13. Kf3 { heading for e4 is another good option, as noticed by nicholasjmurphy99. } ) 
+Kxh7 14. Kf5 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520536/"]
+[Date "????.??.??"]
+[Round "13.4"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 87- Fischer- RJ. vs. Larsen- B.- Candidates semi-final (5th matchgame)- Denver 1971"]
+[Result "1-0"]
+[FEN "5k2/5p2/6p1/B6p/P7/3K2P1/1b5P/8 w - - 0 1"]
+
+ { Next, let's see some examples on the topic of transposing to a pawn ending with a decisive outside passed pawn. } 1. { -KEY- } Bc3 $1 { Fischer has seen that, after the exchange of bishops, his outside passed pawn on a4 will decide. } ( { Less convincing was } 1. Bb4 Ke8 2. a5 Kd7 3. a6 Kc6 4. a7 Kb7 { since Black could try to reach a theoretical draw by eliminating the kingside pawns; e.g. } 5. Bc5 Be5 $1 6. Ke4 Bc7 { followed by ... h5-h4 and a bishop sacrifice for the remaining pawn. } ) 
+Bxc3 ( { Or } 1... Ba3 2. a5 Bc5 3. Bd4 $1 { insisting on the plan - Speelman. } ) 
+2. Kxc3 Ke7 3. Kd4 $1 { The white king immediately starts an attack on the enemy pawns. } Kd6 4. a5 f6 5. a6 $1 Kc6 6. a7 Kb7 7. Kd5 h4 8. Ke6 ( { Black resigned, since } 8. Ke6 f5 9. Kf6 { is hopeless for him. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786964/"]
+[Date "????.??.??"]
+[Round "13.5"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 88- Schmidt- W. vs. Kasparov- G.- Dubai Olympiad 1986"]
+[Result "0-1"]
+[FEN "5k2/R4N1p/5np1/p7/3r4/6P1/5P1P/6K1 b - - 0 1"]
+
+ { 'A knight ending is in fact a pawn ending' said Botvinnik - or something similar - although Speelman disagrees with this statement in his interesting work 'Analysing the Endgame'. Whoever is right, the following example shows that the value of an outside passed pawn increases drastically once the rooks leave the board. } 1... { -KEY- } Rd7 $1 { Swapping the active enemy rook, which also tends to be the best piece at controlling outside passed pawns such as the one on a5. } 2. Rxd7 Nxd7 3. Nd6 Ke7 4. Nc4 a4 5. Kf1 Ke6 6. Ke2 Kd5 { Without knights on the board this would be a trivial win, similar to the one arising in the previous example. Here White can still put up some resistance, counting on the tactical potential of the knight. } 7. Ne3+ ( { Or } 7. Na3 Kd4 { ( } Ne5 { is less convincing due to } 8. f4 $1 Nc4 9. Nb5 a3 10. Kd3 $1 { followed by 11.Na3(+), as observed by Skyrolla) } 8. Kd2 Ne5 { in similar fashion to the game. } ) 
+Kd4 8. Kd2 ( { After } 8. Nc2 Kc3 9. Na3 Nf6 10. f4 Ne4 $1 11. g4 Nd6 { threatening ...Kb2, Black wins - Kasparov. } ) 
+Ne5 9. Kc2 Nd3 10. Nd1 Ne1+ 11. Kb2 Nf3 $1 { After deflecting the enemy pieces to the queenside, Black proceeds with an attack on the opposite flank. } 12. h4 Ne5 13. Ka3 ( { Before the king enters on e4-f3, Black arranges to meet } 13. Ne3 { with } Nc4 $1 ) 
+Ke4 14. h5 ( { Seeing that } 14. Kxa4 Kf3 { followed by ...Ng4xf2 is hopeless for him, Schmidt opts for active defence. } ) 
+gxh5 15. Nc3+ ( { Or } 15. Kxa4 Kf3 16. Kb3 Nd3 17. Kc2 Nxf2 18. Nc3 Nh1 $1 { and wins - Kasparov; } ( { but not } 18. Nc3+ Ne4 $4 19. Nxe4 Kxe4 20. Kd2 { with a draw. } ) 
+ ) 
+Kf3 16. Nd5 Ng4 $1 { Preventing any attempts at counterplay with 17.Nf6 } 17. Ne7 ( { Or } 17. Nf4 Nf6 18. Nd3 Ke2 { etc - Kasparov. } ) 
+Nxf2 18. Nf5 Ne4 { The rest is easy. } 19. Kxa4 Nxg3 20. Nh4+ Ke4 21. Kb4 Nf5 $1 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520537/"]
+[Date "????.??.??"]
+[Round "13.6"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Schmidt- W. vs. Kasparov- G.- #1"]
+[Result "0-1"]
+[FEN "5k2/R4N1p/5np1/p7/3r4/6P1/5P1P/6K1 b - - 0 1"]
+
+ { 'A knight ending is in fact a pawn ending' said Botvinnik - or something similar - although Speelman disagrees with this statement in his interesting work 'Analysing the Endgame'. Whoever is right, the following example shows that the value of an outside passed pawn increases drastically once the rooks leave the board. } 1... { -KEY- } Rd7 $1 { Swapping the active enemy rook, which also tends to be the best piece at controlling outside passed pawns such as the one on a5. } 2. Rxd7 Nxd7 3. Nd6 Ke7 ( { If instead } 3... a4 { then } 4. Nb5 $1 { is a bit annoying, since } Ke7 5. Kf1 Ke6 6. Ke2 Kd5 $2 { would now run into } 7. Nc3 { . } ) 
+4. Nc4 ( { Or } 4. Nb5 Ke6 $1 { followed by ...Kd5-c4, when contrary to the previous note, Black doesn't have to worry about any knight fork on c3. } ) 
+a4 5. Kf1 Ke6 6. Ke2 Kd5 { Without knights on the board this would be a trivial win, similar to the one arising in the previous example. Here White can still put up some resistance, counting on the tactical potential of the knight. } 7. Ne3+ ( { Or } 7. Na3 Ne5 $1 { heading for c4. } ) 
+Kd4 8. Kd2 ( { After } 8. Nc2 Kc3 9. Na3 Nf6 10. f4 Ne4 $1 11. g4 Nd6 { threatening ...Kb2, Black wins - Kasparov. } ) 
+Ne5 9. Kc2 Nd3 10. Nd1 Ne1+ 11. Kb2 Nf3 $1 { After deflecting the enemy pieces to the queenside, Black proceeds with an attack on the opposite flank. Seenext position. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520599/"]
+[Date "????.??.??"]
+[Round "13.7"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Schmidt- W. vs. Kasparov- G.- #2"]
+[Result "0-1"]
+[FEN "8/7p/6p1/8/p2k4/5nP1/1K3P1P/3N4 w - - 0 12"]
+
+12. { -KEY- } h4 Ne5 ( 12... h5 { in prophylactic fashion was even stronger, as noticed by ronschaffer. However, the variations are fairly impossible to visualize over the board, for instance, } 13. Nc3 { ( } 13. Ne3 Ne5 $1 { heading for c4 is similar to Kasparov's idea. ) } a3 14. Kb3 Nd2 ( 14... Ne5 { runs into the surprising } 15. f4 Nc4 16. f5 $1 gxf5 17. Ne2 { with 18.Nf4 next; } Kd3 15. Nd5 Ke2 { allows the unusual pawn break } 16. g4 $1 hxg4 17. h5 $1 gxh5 18. Nf4 Kxf2 19. Nxh5 { when White's superbly placed knight apparently allows the king to come back to the kingside in time. } ) 
+15. Kc2 Nc4 16. Kb3 Na5 $1 17. Kc2 Nc6 18. Kb3 Kd3 { (only now, with the key move ...Ne5 at their avail, Black invades with the king) } 19. Nd5 Ke4 $1 { Thanks to the move 12...h5, a fork on f6 is avoided. } 20. Nf6 ( 19... Ne5 19. Nf4 Ne5 21. Kxa3 Kf3 { is similar. } ) 
+Kf3 21. Kxa3 Ne5 $1 { (The impatient } Kxf2 $2 { fails to } 22. g4 { , so Black first prevents this idea.) } 22. Kb4 Kxf2 { and the other white pawns soon drop off as well. } ) 
+13. Ka3 ( { Before the king enters on e4-f3, Black arranges to meet } 13. Ne3 { with } Nc4 $1 ) 
+ ( 13. Nc3 { was apparently the last chance, as observed by ronschaffer. After } Nd3 ( 13. Ka3 a3 14. Kb3 Ng4 { looks just as promising, however, by } 15. f3 Nh2 16. Ne4 $1 Nxf3 17. Nf6 h5 18. g4 $1 { White just makes it to trade off one of Black's kingside pawns. } ) 
+14. Kc2 Nxf2 15. Nxa4 Ne4 { , White's position appears to be hopeless; however, by } 16. g4 Ke3 17. Nb6 $1 Kf3 18. Nd7 Kxg4 19. Kd3 $1 { they're just in time to attack the enemy kingside, e.g. } Kf5 20. Ke3 Nf6 21. Nf8 Kg4 22. Kd4 $1 Kxh4 23. Ke5 { etc. For most humans, though, it will be an impossible task to work out these variations over the board! } ) 
+Ke4 14. h5 ( { Seeing that } 14. Kxa4 Kf3 { followed by ...Ng4xf2 is hopeless for him, Schmidt opts for active defence. } ) 
+gxh5 15. Nc3+ ( { Or } 15. Kxa4 Kf3 16. Kb3 Nd3 17. Kc2 Nxf2 18. Nc3 Nh1 $1 { and wins - Kasparov; } ( { but not } 18. Nc3+ Ne4 $4 19. Nxe4 Kxe4 20. Kd2 { with a draw. } ) 
+ ) 
+Kf3 16. Nd5 Ng4 $1 { Preventing any attempts at counterplay with 17.Nf6. } 17. Ne7 ( { Or } 17. Nf4 Nf6 18. Nd3 Ke2 { etc - Kasparov. } ) 
+Nxf2 18. Nf5 Ne4 { The rest is easy. } 19. Kxa4 Nxg3 20. Nh4+ Ke4 21. Kb4 Nf5 $1 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520538/"]
+[Date "????.??.??"]
+[Round "13.8"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 89- Chernin- A. vs. Chuchelov- V.- Cappelle la Grande 1994"]
+[Result "*"]
+[FEN "8/2R3pp/2b1B3/2k1P3/p7/4KPP1/1r6/8 b - - 0 1"]
+
+ { Here is a similar example. Black's a-pawn will again become stronger once the rooks leave the board, so his next move is not difficult to find. } 1... { -KEY- } Rb7 $1 2. Rxb7 ( { The game actually went } 2. Rc8 Re7 $1 3. Bf5 Rxe5 4. Be4 Re6 { and Black won without much difficulty after } 5. Rc7 a3 6. Ra7 Kb4 7. Kd4 Rd6 $1 { (releasing the obstruction of his king) } 8. Ke5 Rd7 9. Ra6 Ba4 $1 10. Rb6 Ka5 11. Rb1 Rd1 ) 
+Bxb7 3. f4 Bd5 $1 { Another favourable exchange. } ( { Also possible was } 3... a3 4. Kd3 Bd5 5. Bxd5 Kxd5 { followed by ...g7-g5, in similar spirit to the main line. } ) 
+4. Bxd5 Kxd5 5. Kd3 g5 $1 ( { Thus, Black creates a pair of separated passed pawns with decisive effect. A different move order with } 5... h5 { also works. } ) 
+ ( { Yet another possible move order is } 5... a3 6. Kc3 g5 { . } ) 
+6. Kc3 ( { After } 6. fxg5 Kxe5 { the black king reaches g2 much earlier than his counterpart gets to f1. } ) 
+gxf4 7. gxf4 h5 { Black wins - Chuchelov. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520539/"]
+[Date "????.??.??"]
+[Round "13.9"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 90- Alekhine- A. vs. Andersen- E.- Folkestone Olympiad 1933"]
+[Result "1-0"]
+[FEN "8/3k1p1p/1p1p2p1/3n4/3N4/8/PP1K1PPP/8 w - - 0 1"]
+
+ { Despite the material balance, White is clearly better thanks to his potential outside passed pawn on the queenside. } 1. { -KEY- } a4 Nc7 { This and Black's next move might not have been optimal, yet on most other moves White had a ready-made plan with g2-g3 followed by Kd3-c4. } 2. Kc3 g5 3. Kb4 d5 4. Nf3 ( { Softening up Black's kingside pawns. Also it makes sense to provoke f7-f6 so that Black can't go for ...Ne6, Nxe6 fxe6! anymore, as observed by hong-xu. The straightforward } 4. Nb5 $5 { in similar fashion as later in the game, could be met by } Na6 $1 { avoiding the pawn ending -that we will come across later in the game- while preparing 5... Nc5, with increased chances of survival. } ) 
+f6 5. Nd4 Kd6 $2 { But this is suicide due to White's reply. } ( { a) After } 5... Ke7 6. a5 bxa5 7. Kxa5 Kd7 8. b4 Kc8 9. Kb6 $1 { followed by Kc6 and b4-b5, White is also winning; } ) 
+ ( { b) but by } 5... Kc8 { heading for b7, Black could have prolonged resistance. } ) 
+6. Nb5+ $1 { One particular feature of knight endings is that the exchange of these pieces is more easily achieved than that of their counterparts in, for example, rook or bishop endings. Now the outside passed pawn will decide the battle. } Nxb5 7. Kxb5 Ke5 $5 ( { Since } 7... Kc7 8. b4 { is hopeless for him, Black makes a last practical try, offering the b-pawn, but in vain. } ) 
+8. b4 $1 d4 9. Kc4 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/15220593/"]
+[Date "????.??.??"]
+[Round "13.10"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 91- Lisitsin- G. vs. Capablanca- JR.- (analysis variation) Moscow 1935"]
+[Result "0-1"]
+[FEN "8/8/1p1k1p2/7p/2qP1Q2/6P1/6K1/8 b - - 0 1"]
+
+ { A position similar to this one could have occurred in the game, which we will come back to in Chapter Five (see Example 316) . Black is a pawn up, but to which square should his king go? } 1... { -KEY- } Kd7 $1 { A clever pawn sacrifice. } ( { Both } 1... Ke6 2. Qe4 ) 
+ ( { and } 1... Ke7 2. Qe4 Qe6 3. Qb7 { would let White continue with the harrassing checks. } ) 
+ ( { On the other hand, after } 1... Kd5 2. Qf5 Kxd4 3. Qf2 $1 { Black's most dangerous pawn, the one on b6, leaves the board. } ) 
+2. Qxf6 ( { Objectively better is } 2. Qf5 { staying in the queen ending, although after } Qe6 3. Qxh5 Qe4 4. Kh2 Qxd4 { Black keeps excellent winning chances. } ) 
+Qc6+ $1 { The point, now Black reaches a pawn ending where his outside passed pawn will be a huge asset. } 3. Qxc6+ Kxc6 4. Kf3 b5 ( { The outside passed pawn starts taking its toll. } 4... Kd5 { in 'king first!' fashion also works } ) 
+5. Ke4 b4 6. Ke3 Kd5 ( { The move order } 6... b3 7. Kd3 Kd5 { is also fine, and actually even } b2 { works, as you can find out on your own. } ) 
+7. Kd3 b3 8. Kc3 b2 9. Kxb2 Kxd4 10. Kc2 Ke3 11. Kd1 Kf2 $1 { followed by Kxg3-g2. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786965/"]
+[Date "????.??.??"]
+[Round "13.11"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 92- Bareev- E. vs. Chernin- A.- Pula 1988"]
+[Result "1-0"]
+[FEN "2r5/1qr2pkp/1p2p1p1/3p4/Pp1Pn3/3BP1P1/1PR2PKP/2RQ4 w - - 0 1"]
+
+ { Here is a more complex example. By a precise sequence of moves, White manages to reach a queen ending where the current theme will be perfectly displayed. } 1. { -KEY- } Rxc7 $1 Rxc7 2. Rxc7 Qxc7 3. Bxe4 dxe4 4. d5 $1 { Without this key move the previous exchanges would not have made sense. Now the white queen is centralized and the black b4-pawn becomes more exposed. } exd5 { Otherwise the d-pawn keeps on advancing; } ( { while on } 4... Qd6 { White replies as in the game. } ) 
+5. Qd4+ ( { But not } 5. Qxd5 $6 Qe7 6. b3 ( { or } 6. Qd4 Qf6 $1 { and } 7. Qxb4 { fails to } Qf3 ) 
+Qf6 7. Qxe4 Qc3 8. Qd4 Kg8 $1 { with much more counterplay for Black than in the game. } ) 
+f6 6. Qxb4 $1 { The right capture, creating a potential outside passed pawn, while the d5-pawn remains as a burden for Black. } ( 6. Qxd5 $6 Qe5 { is less clear. } ) 
+Kf7 7. Qb5 ( 7. Qd4 { followed by b2-b4, was interesting too, but from b5 the queen has an enticing destiny on e8. } ) 
+Ke6 8. b4 Kd6 9. Qe8 $1 ( { Instead of entering complications after } 9. a5 $6 Qc6 $1 { Bareev improves his queen. } ) 
+f5 10. h4 $1 { Creating some kind of zugzwang, since Black is now short of a solid move. } Qc4 ( { Or } 10... Qc6 11. Qd8 Ke6 12. a5 $1 { etc. } ) 
+11. Qb8+ Kc6 12. b5+ Kd7 ( { Unfortunately for Black, } 12... Kc5 { fails to } 13. Qf8 ) 
+13. Qxb6 Qxa4 14. Qc6+ Ke7 15. Qxd5 { With a strong passed pawn and a perfectly centralized queen, the rest is easy. } Qb4 16. Qe5+ Kf7 17. Qc7+ $1 { An ideal square in the assistance of the passed pawn. } Kf6 { Black resigned at the same time, in view of the imminent march of the b-pawn. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520541/"]
+[Date "????.??.??"]
+[Round "13.12"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Bareev- E. vs. Chernin- A.- #1"]
+[Result "1-0"]
+[FEN "2r5/1qr2pkp/1p2p1p1/3p4/Pp1Pn3/3BP1P1/1PR2PKP/2RQ4 w - - 0 1"]
+
+ { Here is a more complex example. By a precise sequence of moves, White manages to reach a queen ending where the current theme will be perfectly displayed. } 1. { -KEY- } Rxc7 $1 ( { Another possible move order is } 1. Bxe4 { first and the rook trades next, as observed by c0rias. } ) 
+Rxc7 2. Rxc7 Qxc7 3. Bxe4 dxe4 4. d5 $1 { Without this key move the previous exchanges would not have made sense. Now the white queen is centralized and the black b4-pawn becomes more exposed. } exd5 { Otherwise the d-pawn keeps on advancing; } ( { while on } 4... Qd6 { White replies as in the game. } ) 
+5. Qd4+ ( { But not } 5. Qxd5 $6 Qe7 6. b3 ( { or } 6. Qd4 Qf6 $1 { and } 7. Qxb4 { fails to } Qf3 ) 
+Qf6 7. Qxe4 Qc3 8. Qd4 Kg8 $1 { with much more counterplay for Black than in the game. } ) 
+f6 6. Qxb4 $1 { The right capture, creating a potential outside passed pawn, while the d5-pawn remains as a burden for Black. See next position. } ( 6. Qxd5 $6 Qe5 { is less clear. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520628/"]
+[Date "????.??.??"]
+[Round "13.13"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Bareev- E. vs. Chernin- A.- #2"]
+[Result "1-0"]
+[FEN "8/2q3kp/1p3pp1/3p4/PQ2p3/4P1P1/1P3PKP/8 b - - 0 6"]
+
+6... { -KEY- } Kf7 7. Qb5 ( 7. Qd4 { followed by b2-b4, was interesting too, but from b5 the queen has an enticing destiny on e8. } ) 
+Ke6 8. b4 Kd6 9. Qe8 $1 ( { Instead of entering complications after } 9. a5 $6 Qc6 $1 { Bareev improves his queen. } ) 
+f5 10. h4 $1 { Creating some kind of zugzwang, since Black is now short of a solid move. } Qc4 ( { Or } 10... Qc6 11. Qd8 Ke6 12. a5 $1 { etc. } ) 
+11. Qb8+ Kc6 12. b5+ Kd7 ( { Unfortunately for Black, } 12... Kc5 { fails to } 13. Qf8 ) 
+13. Qxb6 Qxa4 14. Qc6+ Ke7 15. Qxd5 { With a strong passed pawn and a perfectly centralized queen, the rest is easy. } Qb4 16. Qe5+ Kf7 ( { The pawn ending arising after } 16... Kd7 17. Qg7 Qe7 18. Qxe7 Kxe7 { can be won in different ways, one being } 19. g4 $1 { in similar fashion toexample 420 (Hellsten - Holst). } ) 
+17. Qc7+ $1 { An ideal square in the assistance of the passed pawn. Black resigned with his next move, in view of the imminent march of the b-pawn. } Kf6 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520542/"]
+[Date "????.??.??"]
+[Round "13.14"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 93- Predojevic- B. vs. Oleksienko- M.- Moscow 2011"]
+[Result "1-0"]
+[FEN "6k1/5p1p/1p2np2/p2B4/5P2/2P3P1/P6P/2K5 w - - 0 1"]
+
+ ( { Several factors speak in White's favour: superior minor piece, better pawn structure and a faster activation route for his king. Probably there was nothing wrong with the simple } 0... Kf6 0. Kd2 { , heading for the opposing queenside pawns, but Predojevic found a more clear-cut path to victory. } ) 
+1. { -KEY- } Bxe6 $1 { Transposing to a pawn ending where a potential outside passed pawn on the kingside will soon decide matters. } fxe6 2. Kd2 Kf7 ( { Or } 2... f5 3. Kd3 Kf7 4. Kc4 { winning - Predojevic. } ) 
+3. Kd3 Ke7 ( 3... h5 $1 { as observed by ronschaffer would have been a better choice. Instead of defending the queenside, Black prepares kingside counterplay once White's king moves towards the b-pawn, for instance, } 4. Kc4 Kg6 5. Kb5 e5 $1 { (only now, when White's king can't reach e4 anymore) } 6. fxe5 fxe5 7. Kc4 Kf5 8. Kd5 ( 7... Ke7 7. h3 $2 e4 9. Kd4 h4 $1 { even wins for Black due to a mating motif in the upcoming queen endgame. } ) 
+Kg4 { . White is now far away from the outside passed pawn scenario reached in the game, e.g. } 9. Kxe5 Kh3 10. Kf4 Kxh2 11. g4 hxg4 12. Kxg4 Kg2 { with a draw to come since Black ends up with a 'bad' a-pawn in the end. In any case, it is not a trivial idea to settle for over-the-board, approaching time trouble. } ) 
+4. g4 $1 { The key move that speeds up the creation of the outside passed pawn. } ( 4. Kc4 Kd6 5. Kb5 { was less promising due to } e5 $1 { with counterplay. } ) 
+Kd6 ( 4... f5 5. g5 { doesn't change matters. } ) 
+5. Kd4 b5 6. h4 $1 ( { Speeding up the creation of the outside passed pawn. Instead, } 6. a3 $2 { at once fails to } e5 $1 7. fxe5 fxe5 8. Ke4 Kc5 $1 9. h4 { (after } 9. Kd3 $2 Kd5 10. h4 e4 11. Ke3 Ke5 { Black even wins, since White is unable to trade off the kingside pawns, e.g. } 12. h5 h6 13. g5 hxg5 14. h6 Kf6 15. Kxe4 Kg6 { etc.) } Kc4 10. g5 Kxc3 11. h5 b4 { and Black queens as well, as observed by Benner. } ) 
+h6 7. a3 $1 { Ruling out any attempts to leave White with a rook's pawn once the kingside pawns are exchanged. } e5+ ( { In the event of } 7... a4 { White wins by } 8. g5 hxg5 9. hxg5 $1 { (not } 9. fxg5 $2 f5 $1 { and as often happens, when both sides possess protected passed pawns, the result is a draw) } Ke7 10. Kc5 { , as pointed out by Ckmt98. } ) 
+8. fxe5+ fxe5+ 9. Ke4 Ke6 10. g5 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520543/"]
+[Date "????.??.??"]
+[Round "13.15"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 94- Zambrana- O. vs. Soppe- G.- Havana 2005"]
+[Result "1-0"]
+[FEN "4q3/1p3k2/4np1p/2PP1Q2/8/1P6/5PP1/6K1 w - - 0 1"]
+
+ { In this turbulent position White found a clear-cut path to victory, relying on his potential outside passed pawn on the queenside. } 1. { -KEY- } Qh5+ $1 { Before recovering the piece, it makes sense to push the enemy king back. } ( { Another idea was } 1. dxe6 Qxe6 2. Qh7 ( { but not } 2. Qxe6 $2 Kxe6 3. Kh2 Kd5 ) 
+Ke8 3. Qxb7 Qe1 4. Kh2 Qe5 5. g3 Qxc5 6. Kg2 { with a technical win, but the text is more forcing. } ) 
+Ke7 2. Qxe8+ Kxe8 3. dxe6 Ke7 4. b4 $1 { Diverting Black's king to the queenside without leaving any pawns there. } Kxe6 5. b5 $1 Kd5 6. c6 bxc6 7. bxc6 Kxc6 8. Kh2 { This position was well assessed by Zambrana when opting for 1.Qh5+. Despite the material balance Black is lost due to his remotely placed king; furthermore, the fact that White's pawns are still on the second rank means that he will have several waiting moves at his disposal. } Kd5 9. Kg3 Ke6 10. Kg4 $1 { By means of the threat 11.Kh5 White forces the opponent to surrender the f5-square. } Kf7 11. Kf5 h5 ( { Or } 11... Kg7 12. g4 Kf7 13. f3 $1 Kg7 14. Ke6 Kg6 15. f4 Kg7 16. f5 { and wins. } ) 
+12. g3 $1 Kg7 13. Ke6 Kg6 14. f4 $1 ( { In view of } 14. f4 f5 ( { or } 14. f4 Kg7 15. f5 ) 
+15. Ke5 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520544/"]
+[Date "????.??.??"]
+[Round "13.16"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 95- Sasikiran- K. vs. Nisipeanu- LD.- Spanish Team Championship 2006"]
+[Result "1-0"]
+[FEN "5k2/p7/1p2rpp1/1P3p2/P7/4P3/5KPP/2R5 b - - 0 1"]
+
+ { Finally, let's see two examples where the idea of creating an outside passed pawn wasn't properly anticipated by its opponent, a situation we already came across in Schlechter-Tartakower.Thanks to his more active rook White is better, but after the solid 1...Re7 it would not have been easy for him to make progress - Deviatkin. In the game Black permitted the transposition to a pawn ending, where our main theme - the outside passed pawn - will soon play a key role. } 1... { -KEY- } Re4 $2 2. Rc8+ Kf7 3. Rc7+ $1 Re7 ( { Objectively speaking, shedding a pawn but keeping the rooks with } 3... Ke6 4. Rxa7 f4 { was Black's lesser evil, but of course that wasn't what Nisipeanu had in mind. } ) 
+4. Rxe7+ Kxe7 5. Kf3 { In Deviatkin's words: 'We are now in a pawn ending - the form of ending which looks so simple, but which is one of the most complicated! Material is equal and Black's position looks okay, but in fact Black is already lost. The spoiled structure on the kingside ruins him, because there is no way for Black to prevent the creation of an outside passed pawn. And if Black's king goes to the queenside, White will be faster.' In Chapter Seven we will see further proof of the fact that transpositions to pawn endings usually imply dangers for the defender. } Kd6 ( { Or } 5... Ke6 6. Kf4 g5 7. Kf3 Ke5 8. h3 $1 Kd5 9. g3 Ke5 10. h4 { with similar play. } ) 
+6. Kf4 Kd5 ( { As Deviatkin already mentioned, White wins the passed pawn race: } 6... Kc5 7. h4 Kb4 8. e4 ( { An excellent alternative is } 7... Kd5 7. h5 $5 gxh5 9. Kxf5 { , preparing to queen on e8 with check, as noticed by nayoncohr. } ) 
+fxe4 9. Kxe4 f5 { (or } Kxa4 10. g4 { ) } 10. Ke5 Kxa4 11. Kf6 Kxb5 12. Kxg6 a5 13. h5 { and queens, controlling the a1-square. } ) 
+7. h4 Ke6 8. g3 Ke7 9. e4 $1 ( { Sasikiran continues with the plan of creating an outside passed pawn, without getting tricked into } 9. h5 $6 Kf7 $1 10. hxg6 Kxg6 ) 
+fxe4 10. Kxe4 Kd6 ( { Or } 10... f5 11. Ke5 Kf7 12. Kd6 $1 g5 $5 13. hxg5 Kg6 14. Kc7 Kxg5 15. Kb7 Kg4 16. Kxa7 Kxg3 17. a5 $1 { and White queens with check - Deviatkin. } ) 
+11. g4 Ke6 12. h5 Kf7 ( { a) After } 12... gxh5 13. gxh5 ) 
+ ( { b) or } 12... f5 13. gxf5 gxf5 14. Kf4 { White's win would be even more trivial. } ) 
+13. Kd5 Kg7 14. Ke6 $1 ( { a) Sidestepping the last trick: } 14. Kc6 $4 f5 $1 15. gxf5 gxh5 ) 
+ ( { b) After } 14. Ke6 { Black resigned, in view of } f5 15. gxf5 gxh5 16. Ke7 ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786966/"]
+[Date "????.??.??"]
+[Round "13.17"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Sasikiran- K. vs. Nisipeanu- L.- #1"]
+[Result "1-0"]
+[FEN "5k2/p7/1p2rpp1/1P3p2/P7/4P3/5KPP/2R5 b - - 0 2"]
+
+ ( { Finally, let's see two examples where the idea of creating an outside passed pawn wasn't properly anticipated by its opponent, a situation we already came across in Schlechter-Tartakower.Thanks to his more active rook White is better, but after the solid } 1. Ke6 Re7 { it would not have been easy for him to make progress - Deviatkin. In the game Black permitted the transposition to a pawn ending, where our main theme - the outside passed pawn - will soon play a key role. } ) 
+ { -KEY- } Re4 $2 2. Rc8+ Kf7 3. Rc7+ $1 Re7 ( { Objectively speaking, shedding a pawn but keeping the rooks with } 3... Ke6 4. Rxa7 f4 { was Black's lesser evil, but of course that wasn't what Nisipeanu had in mind. } ) 
+4. Rxe7+ Kxe7 5. Kf3 { In Deviatkin's words: 'We are now in a pawn ending - the form of ending which looks so simple, but which is one of the most complicated! Material is equal and Black's position looks okay, but in fact Black is already lost. The spoiled structure on the kingside ruins him, because there is no way for Black to prevent the creation of an outside passed pawn. And if Black's king goes to the queenside, White will be faster.' In Chapter Seven we will see further proof of the fact that transpositions to pawn endings usually imply dangers for the defender. } Kd6 ( { Or } 5... Ke6 6. Kf4 g5 7. Kf3 Ke5 8. h3 $1 Kd5 9. g3 Ke5 10. h4 { with similar play. } ) 
+6. Kf4 Kd5 ( { As Deviatkin already mentioned, White wins the passed pawn race: } 6... Kc5 7. h4 Kb4 8. e4 ( { An excellent alternative is } 7... Kd5 7. h5 $5 gxh5 9. Kxf5 { , preparing to queen on e8 with check, as noticed by nayoncohr. } ) 
+fxe4 9. Kxe4 f5 { (or } Kxa4 10. g4 { ) } 10. Ke5 Kxa4 11. Kf6 Kxb5 12. Kxg6 a5 13. h5 { and queens, controlling the a1-square. } ) 
+7. h4 Ke6 8. g3 Ke7 ( { The more active } 8... Kd5 { allows } 9. h5 $1 gxh5 10. Kxf5 { and White wins, as observed by Benner. } ) 
+9. e4 $1 ( { Sasikiran continues with the plan of creating an outside passed pawn, without getting tricked into } 9. h5 $6 Kf7 $1 10. hxg6 Kxg6 ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786967/"]
+[Date "????.??.??"]
+[Round "13.18"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Sasikiran- K. vs. Nisipeanu- L.- #2"]
+[Result "1-0"]
+[FEN "8/p3k3/1p3pp1/1P3p2/P3PK1P/6P1/8/8 b - - 0 9"]
+
+9... { -KEY- } fxe4 10. Kxe4 Kd6 ( { Or } 10... f5 11. Ke5 Kf7 12. Kd6 $1 g5 $5 13. hxg5 Kg6 14. Kc7 Kxg5 15. Kb7 Kg4 16. Kxa7 Kxg3 17. a5 $1 { and White queens with check - Deviatkin. } ) 
+11. g4 Ke6 12. h5 Kf7 ( { a) After } 12... gxh5 13. gxh5 ) 
+ ( { b) or } 12... f5 13. gxf5 gxf5 14. Kf4 { White's win would be even more trivial. } ) 
+13. Kd5 Kg7 14. Ke6 $1 ( { a) Sidestepping the last trick: } 14. Kc6 $4 f5 $1 15. gxf5 gxh5 ) 
+ ( { b) After } 14. Ke6 { Black resigned, in view of } f5 15. gxf5 gxh5 16. Ke7 ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520545/"]
+[Date "????.??.??"]
+[Round "13.19"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Example 96- Unzicker- W. vs. Botvinnik- M.- Varna Olympiad 1962"]
+[Result "0-1"]
+[FEN "6k1/2p5/pp2r2p/P4pp1/1PbB4/2P2P1P/6P1/R5K1 w - - 0 1"]
+
+ { Even in endings with opposite-coloured bishops, the outside passed pawn remains a relevant factor, as in the next example.Thanks to his more active pieces Black is minimally better, but he was suddenly helped by a bad decision from his opponent. } 1. { -KEY- } axb6 $6 { As Botvinnik himself stated, this capture yields Black the possibility of creating an outside passed pawn later on. } ( 1. Bf2 { seems simpler, followed by Re1, swapping the active enemy rook. } ) 
+cxb6 2. Kf2 Kf7 ( { After } 2... Re2 $6 3. Kg1 { the rook would have to return to e6. } ) 
+3. Re1 Rxe1 4. Kxe1 ( { Now after } 4. Kxe1 b5 $6 5. Kf2 { a win is unlikely, but Botvinnik has other intentions. } ) 
+a5 $1 { Creating the outside passed pawn. } 5. bxa5 ( { Unfortunately for White, after } 5. Bxb6 a4 6. Kd2 f4 { followed by ...Bf1, Black would soon be able to create a second passed pawn on the kingside. } ) 
+bxa5 6. g3 a4 7. Kd2 $6 ( 7. Bc5 { was preferable, controlling the passed pawn as soon as possible - and with the bishop, so that the king can be used for the defence of the opposite flank. } ) 
+a3 8. Kc2 h5 9. h4 $2 { A tactical oversight which costs the game. } ( { a) After } 9. f4 $2 h4 $1 10. gxh4 ( { or } 10. Bf2 g4 ) 
+gxf4 { Black is also winning - Botvinnik. His next step would be a king transfer to assist the advance of the f-pawn. } ) 
+ ( { b) But } 9. g4 $1 { yielded good drawing chances - Benko, who explains that White's idea is to swap two pair of pawns on the kingside and then sacrifice the bishop for the remaining one, so that a theoretical draw arises on the opposite flank. There can follow } fxg4 ( { or } 9. h4 hxg4 10. fxg4 $1 f4 11. Bf2 { followed by h3-h4; } ) 
+10. hxg4 $1 h4 11. Bf2 Bd5 12. f4 h3 13. Bg3 { and White holds - Benko. Nevertheless, such ideas are much easier to spot after, rather than during, the game. Thus from a practical point of view, 1.axb6? was White's main mistake. } ) 
+f4 $1 { A typical breakthrough to create a passed pawn. } 10. Be5 ( { a) After } 10. gxf4 gxh4 11. f5 h3 12. Be5 a2 13. Kb2 h4 { Black should also be winning, using the c4-square as a junction in the king's route to the h-pawns. } ) 
+ ( { b) As for } 10. Bf2 { Botvinnik suggests } gxh4 11. gxh4 Ke6 { followed by ...Kf5 and ...Bd5xf3, in order to create a new passed pawn on the f-file. There can follow } 12. Bc5 a2 13. Kb2 Bd5 14. Bf2 Kf5 $1 15. Be1 Bxf3 16. Kxa2 Ke4 { and the king reaches e2 with decisive effect. } ) 
+Ke6 $1 { The king wins a tempo on his way to the defence of the f4-pawn. } 11. Bc7 gxh4 12. Bxf4 ( { Or } 12. gxh4 Kf5 { followed by ...Bd5, with similar play as after 10.Bf2. } ) 
+h3 13. g4 h4 $1 ( { Avoiding } 13... hxg4 $2 14. fxg4 { and White escapes to a theoretical draw (cf. 9 g4 above). } ) 
+14. Bh2 Be2 ( { There could have followed } 14... Be2 15. Kb3 Bxf3 16. g5 Kf5 17. Kxa3 Kxg5 18. Kb4 Kf5 19. Kc5 Ke4 { with ...Be2 and ...Kf3-g2 next - Benko. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786969/"]
+[Date "????.??.??"]
+[Round "13.20"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Unzicker- W. vs. Botvinnik- M.- #1"]
+[Result "0-1"]
+[FEN "8/5k2/7p/5pp1/2bB4/p1P2PPP/2K5/8 b - - 0 8"]
+
+8... { -KEY- } h5 9. g4 $1 { White now has good drawing chances - Benko, who explains that White's idea is to swap two pair of pawns on the kingside and then sacrifice the bishop for the remaining one, so that a theoretical draw arises on the opposite flank. } fxg4 ( { or } 9... hxg4 10. fxg4 $1 f4 11. Bf2 { followed by h3-h4 } ) 
+10. hxg4 $1 ( { The most practical choice, sticking to the plan of trading pawns. In contrast, } 10. fxg4 $6 { would yield Black practical chances after } h4 { preparing ...Bf1. } ) 
+h4 11. Bf2 Bd5 12. f4 h3 13. Bg3 { And White holds - Benko.Nevertheless, such ideas are much easier to spot after, rather than during, the game. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786968/"]
+[Date "????.??.??"]
+[Round "13.21"]
+[White "2.5 Outside Passed Pawns"]
+[Black "Unzicker- W. vs. Botvinnik- M.- #2"]
+[Result "0-1"]
+[FEN "8/5k2/8/5ppp/2bB3P/p1P2PP1/2K5/8 b - - 0 9"]
+
+9... { -KEY- } f4 $1 { A typical breakthrough to create a passed pawn. } 10. Be5 ( { a) After } 10. gxf4 gxh4 11. f5 h3 12. Be5 a2 13. Kb2 h4 { Black should also be winning, using the c4-square as a junction in the king's route to the h-pawns. } ) 
+ ( { b) As for } 10. Bf2 { Botvinnik suggests } gxh4 11. gxh4 Ke6 { followed by ...Kf5 and ...Bd5xf3, in order to create a new passed pawn on the f-file. There can follow } 12. Bc5 a2 13. Kb2 Bd5 14. Bf2 Kf5 $1 15. Be1 Bxf3 16. Kxa2 Ke4 { and the king reaches e2 with decisive effect. } ) 
+Ke6 $1 { The king wins a tempo on his way to the defence of the f4-pawn. } 11. Bc7 gxh4 ( { Not } 11... fxg3 $2 12. Bxg3 { when White will always be ready to sacrifice the bishop for Black's last kingside pawn, with the same theoretical draw that we discussed earlier in this example. } ) 
+12. Bxf4 ( { Or } 12. gxh4 Kf5 { followed by ...Bd5, with similar play as after 10.Bf2. } ) 
+h3 13. g4 h4 $1 ( { Avoiding } 13... hxg4 $2 14. fxg4 { and White escapes to a theoretical draw (cf. 9.g4 above). } ) 
+14. Bh2 Be2 ( { There could have followed } 14... Be2 15. Kb3 Bxf3 16. g5 Kf5 17. Kxa3 Kxg5 18. Kb4 Kf5 19. Kc5 Ke4 { with ...Be2 and ...Kf3-g2 next - Benko. } ) 
+
+ 0-1

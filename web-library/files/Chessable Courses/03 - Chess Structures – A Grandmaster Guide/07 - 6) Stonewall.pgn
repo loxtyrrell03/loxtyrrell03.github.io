@@ -1,0 +1,602 @@
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1221724/"]
+[Date "????.??.??"]
+[Round "7.1"]
+[White "6) Stonewall"]
+[Black "Introduction"]
+[Result "*"]
+[FEN "4k3/ppp3pp/4p3/3p1p2/3P4/8/PPP1PPPP/4K3 w - - 0 1"]
+
+ { Stonewall The Stonewall structure often arises from the Dutch Defence, the Slav or the Catalan, the first being the most common. It could also occur with reversed colours, but this is relatively rare. Of all the pawn structures we study in this book, the Stonewall has one of the worst reputations. Players from a wide range of levels would say the idea of playing ...d7-d5 together with ...f7-f5 is positionally unsound. There is partial merit to this claim, as the e5-square becomes permanently vulnerable. Whether this vulnerable square actually becomes a serious weakness often determines whether Black's position is good or not. To be honest, I myself considered the Stonewall to be a relatively bad structure until I started researching it in order to write this chapter. In fact, I originally wanted to make this chapter a manual on how to defeat this pawn structure. After a substantial amount of work, I gave up on this aim, and instead decided to accept that the Stonewall is a solid system which deserves serious consideration. I hope this chapter will be enough to convince the reader that this is the case. Then why does the Stonewall have a bad reputation? I believe this is the effect of two types of observational bias: 1. White's wins in the Stonewall are often visually pleasing and positionally convincing. They are likely to be used as examples in strategy books. This decision unintentionally conveys the idea that the Stonewall is positionally incorrect. 2. Black's wins are often based on tactical resources of some sort, hence they can often be considered 'accidental' rather than meritorious. Many players (including myself before writing this chapter) would skip those games without further study, simply thinking: 'Black was just lucky, this will not happen to me.' Personally, I was surprised on checking my database to realize that among IM and GM level games, White only scores about 54% with the openings presented in this chapter. This is basically a standard result, nothing special. Hence, statistically, the Stonewall is slightly inferior but no worse than many well-respected systems. OK, that is enough defending the Stonewall, now let's discuss typical plans. White's plans 1. Obtaining firm control of the e5-square; placing a knight on this square. 2. Trade dark-squared bishops to further weaken Black's dark squares. 3. Expand on the queenside or open the c-file at a favourable stage and pursue an invasion down this open file. Black's plans 1. Create a kingside attack, but without completely losing control of the central squares. 2. Improve the bad bishop with the manoeuvre ...Bd7-e8-h5 or sometimes ...b7-b6 followed by ...Ba6. 3. Create central tension with ...b7-b6 followed by ...c6-c5. Before proceeding, I would like to clarify Black's plans somewhat. First, for Black's Plan 1 to succeed, the control of the central squares is essential. If White has undisputed control of the e5-square, then most of Black's attacking attempts will fail. A healthy attack for Black will keep a balance between fighting for the e5-square and advancing on the kingside. Black's Plan 2 is important and useful, but not always necessary. Black can find a good position even with his bishop on the humble d7-square. Finally, Black's Plans 1 and 3 should certainly not be combined. The point of Plan 1 is that the Stonewall creates a solid central structure, making a flank attack feasible. The attack would probably fail if the move ...c6-c5 had already been played. This chapter begins by showing one short example of White's dream position in the Stonewall, simply to illustrate everything Black should fight to avoid. The second and third games are examples of White's successful strategy, controlling the centre and keeping Black without counterplay. The last three games in the chapter illustrate Black's ideas for counterplay by showcasing Black's Plans 1, 2 and 3 in that order. } 1. -- 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1550895/"]
+[Date "????.??.??"]
+[Round "7.2"]
+[White "6) Stonewall"]
+[Black "Sandro Mareco vs. Chithambaram Aravindh"]
+[Result "1-0"]
+[FEN "2r3k1/1bn3qp/p1p1pr2/1pPpNp2/3P2p1/1P4P1/P2QPPBP/2RR2K1 w - - 0 25"]
+
+ { Sandro Mareco – Chithambaram Aravindh, Golden Sands 2013 Learning objective: This game fragment essentially illustrates everything that could go wrong with Black’s position, and how White may win convincingly under those circumstances. As the reader may notice, White is doing extremely well in this game. To be thorough and comprehensive, let’s outline exactly what is good about White’s position: 1. The key e5-square is under complete control. 2. It would require about four moves for Black to remove White’s knight on e5, say with ...Rf6-f8, ...Ne8-f6-d7. 3. Black’s bishop is completely locked in by his pawns; there is no route into the game. 4. Black’s kingside pawns are not flexible. If the g4-pawn could go back to g5, then at least it would be possible to play ...f5-f4 with a semblance of counterplay. 5. There is no real chance for Black to attack along the h-file. A plan like ...Rh6, ...Qg5-h5 is far too slow and momentarily impossible due to White’s queen on d2. 6. White’s pieces are very well coordinated. 7. White has an immediate queenside break with a2-a4. This is exactly the kind of example that strategy books use, giving the impression the Stonewall is just bad. Of course, this position is just bad, but there are many things Black could have done to avoid such a disaster. For now, let’s simply observe how White exploits his monumental advantage. } 25. a4 $1 { Notice that if Black had a rook on a8 and a pawn on a5, the position would be far more difficult to win, since this move would be answered by ...b5-b4, blocking the queenside. Once the queenside is open, as in this game, Black’s situation is completely hopeless. } Rcf8 26. e3 h5 ( { The try } 26... Rh6 { hoping for ...Qg5-h5 is simply met by } 27. Qa5 $1 { immobilizing Black’s queen, and now a possible continuation is: } Ne8 28. axb5 axb5 29. Ra1 Qg5 30. Qb6 $18 ) 
+27. Qa5 ( { PH: Basically everything works here. I think the most simple way would be } 27. axb5 axb5 28. Ra1 { , enter on a7, and Black's position will soon fall apart. } ) 
+h4 28. Qb6 Na8 29. Qa7 hxg3 30. hxg3 Qc7 31. axb5 axb5 32. Ra1 { The a-file invasion will decide the game, and the rest deserves little comment, though it is fun to watch: } Rh6 33. Qa5 Qe7 34. Qd2 Kg7 35. Ra7 Rhf6 36. e4 $1 { A nice finish. } ( { Also effective was } 36. Nxc6 $5 ) 
+Rh8 ( 36... fxe4 { can be met by } 37. Qg5 Kh7 38. Ng6 $1 Qd7 39. Nxf8 Rxf8 40. Bxe4 $1 dxe4 41. Kg2 { followed by Rh1 . } ) 
+37. exf5 exf5 38. Qf4 { Black resigns as his entire position falls apart. This example is rather self-explanatory; it simply serves as a guide to what not to allow if you play the Stonewall, or what to aim for if you play against it. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803153/"]
+[Date "????.??.??"]
+[Round "7.3"]
+[White "6) Stonewall"]
+[Black "Mareco vs. Aravindh #1"]
+[Result "*"]
+[FEN "2r3k1/1bn3qp/p1p1pr2/1pPpNp2/3P2p1/1P4P1/P2QPPBP/2RR2K1 w - - 0 1"]
+
+1. a4 $1 { Notice that if Black had a rook on a8 and a pawn on a5, the position would be far more difficult to win, since this move would be answered by ...b5-b4, blocking the queenside. Once the queenside is open, as in this game, Black’s situation is completely hopeless. } Rcf8 2. e3 h5 3. Qa5 h4 4. Qb6 Na8 5. Qa7 hxg3 6. hxg3 Qc7 7. axb5 axb5 8. Ra1 { The a-file invasion will decide the game. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803154/"]
+[Date "????.??.??"]
+[Round "7.4"]
+[White "6) Stonewall"]
+[Black "Mareco vs. Aravindh #2"]
+[Result "*"]
+[FEN "5rk1/1bn3qp/p1p1pr2/1pPpNp2/P2P2p1/1P2P1P1/3Q1PBP/2RR2K1 b - - 1 2"]
+
+2... Rh6 { This try, hoping for ... Qg5-h5, is simply met by Qa5! } 3. Qa5 $1 { Immobilizing Black's Queen. } Ne8 4. axb5 axb5 5. Ra1 Qg5 6. Qb6 $18 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803155/"]
+[Date "????.??.??"]
+[Round "7.5"]
+[White "6) Stonewall"]
+[Black "Mareco vs. Aravindh #3"]
+[Result "*"]
+[FEN "n4r2/Rb2q1k1/2p1pr2/1pPpNp2/3P2p1/1P2P1P1/3Q1PB1/3R2K1 w - - 9 12"]
+
+12. e4 $1 { A nice finish. } ( { Also effective was } 36. Nxc6 $5 ) 
+Rh8 13. exf5 exf5 14. Qf4 { Black resigns as his entire position falls apart. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803156/"]
+[Date "????.??.??"]
+[Round "7.6"]
+[White "6) Stonewall"]
+[Black "Mareco vs. Aravindh #4"]
+[Result "*"]
+[FEN "n4r2/Rb2q1k1/2p1pr2/1pPpNp2/3P2p1/1P2P1P1/3Q1PB1/3R2K1 w - - 9 12"]
+
+12. e4 $1 fxe4 13. Qg5+ Kh7 14. Ng6 $1 Qd7 15. Nxf8+ Rxf8 16. Bxe4+ $1 dxe4 17. Kg2 { Followed by Rh1. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1550897/"]
+[Date "????.??.??"]
+[Round "7.7"]
+[White "6) Stonewall"]
+[Black "Jon Ludvig Hammer vs. Rune Djurhuus"]
+[Result "1-0"]
+
+ { Jon Ludvig Hammer – Rune Djurhuus, Norwegian Championship 2013 Learning objectives: This game illustrates three important elements in White’s strategy: 1. Opening the c-file and invading the c7-square with major pieces. 2. Trading dark-squared bishops to emphasize the weakness of the e5-square. 3. Occupying the weak e5-square with a knight. } 1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 ( { PH: This is actually inaccurate by today's standards! } 4. Nf3 d5 5. Nc3 $5 Bd6 6. Bf4 { is very annoying for Black, White not having developed the bishop to g2 yet. For instance } Bxf4 7. gxf4 O-O 8. e3 Qe7 9. h4 c6 10. h5 { and Black either has to allow h6 or play ...h6 and allow Ne5-g6. } ) 
+c6 5. Nf3 d5 6. O-O Bd6 7. Qc2 O-O 8. Nc3 ( { Far less common is } 8. Bf4 { trading dark-squared bishops immediately, since after } Bxf4 9. gxf4 Ne4 { there is excellent counterplay despite the weak e5-square, for example: } 10. Nbd2 Nd7 11. e3 Qe7 12. Rac1 Kh8 { (planning ...Rg8 and an eventual ...g7-g5) } 13. Nxe4 fxe4 14. Nd2 g5 { when Black was better in Hakki – Ulibin, Dubai 2002. } ) 
+Ne4 ( { The capture } 8... dxc4 $6 { is often a bad idea, as Black’s solid centre becomes vulnerable after } 9. e4 $1 Bc7 10. Qe2 fxe4 ( { or } 10... b5 11. exf5 exf5 12. a4 $1 { ± } ) 
+11. Nxe4 Nxe4 12. Qxe4 $14 { with more than enough compensation. } ) 
+ ( { PH: Back when this book was written, the combination of Qc2 and Nc3 (and then Rb1) was an attempt to refute the Stonewall. Some lines are: } 8... Qe7 9. Bg5 { , and now } Nbd7 { is awkward because after } 10. cxd5 { Black has to take back with the c-pawn, as } exd5 { drops f5. } ) 
+ ( 8... a5 { is a more positional plan played by Kramnik recently, with the idea } 9. a3 Bd7 10. Rb1 b5 { , trying to get White to close the position with } 11. c5 Bc7 { . } ) 
+9. Rb1 { Preparing a queenside expansion with c4-c5 and b2-b4-b5. } a5 ( { A healthy option was } 9... Nd7 10. b4 b5 $1 { stopping the expansion. For example after } 11. cxb5 Nxc3 12. Qxc3 cxb5 { (preparing ...Nb6-c4) and if } 13. Qc6 { Black is just in time with } Qb6 $1 14. Qxa8 Bb8 $1 { ∞ followed by ...Bb7 with a complex position as in Baryshpolets – Ponfilenok, St Petersburg 2012. } ) 
+ ( { PH: After } 9... Qe7 { White can play } 10. b4 $1 { anyway, since } Bxb4 { is answered by } 11. Nxe4 fxe4 12. Bg5 $1 { and the b4-bishop will be exchanged for the knight on f3, giving White the pair of bishops and Black some dark squared weaknesses. } ) 
+10. a3 Nd7 ( { The expansion cannot be prevented with } 10... Qe7 { since } 11. b4 $5 { comes anyway, and White is better after: } axb4 12. axb4 Bxb4 13. Nxe4 dxe4 14. Bg5 Qd7 15. Rxb4 exf3 16. exf3 $14 ) 
+11. b4 axb4 12. axb4 Nxc3 13. Qxc3 b5 { Preventing White’s plan of c4-c5 followed by b4-b5, though creating new problems in the position. } ( { If } 13... Nf6 14. c5 Bc7 15. Ne5 $14 { the potential b4-b5 is annoying } ( { but } 14... b5 14. b5 $6 { is premature because of } Ne4 16. Qc2 cxb5 17. Rxb5 b6 { when Black fully equalizes. } ) 
+ ) 
+14. Bg5 ( { PH: The computer really wants to play } 14. c5 $1 Bc7 15. Ra1 { and White takes control over the a-file with a large advantage. } ) 
+Be7 $2 { Trading dark-squared bishops will only worsen Black’s problems. } ( { Better was } 14... Nf6 15. cxd5 ( { but not } 14... Be7 14. c5 $6 Ne4 $1 16. Qc1 Nxg5 17. Nxg5 Be7 { when Black is just fine } ) 
+cxd5 16. Ne5 Bd7 17. Ra1 $14 { and White has a pleasant advantage. } ) 
+15. Bxe7 Qxe7 16. cxd5 { A timely opening of the c-file. } ( { Another strong option was } 16. c5 { turning the c6-pawn into a permanent target, and after } Nf6 17. Ra1 Bd7 18. Ne5 $16 { White dominates, and is likely to win the a-file with } Ra3 { or Ra5 . } ) 
+cxd5 17. Qc7 $6 { Conceptually correct, but tactically imprecise. } ( { Better was } 17. Qc6 $1 { preventing ...Nb6-c4 blocking the c-file: } Rb8 18. Rfc1 Rb6 ( { but not } 18. Qc7 Nb6 $2 19. Qxb5 $18 ) 
+19. Qc7 Rb7 20. Qa5 Qd6 21. e3 $16 { followed by Bf1 attacking the b5-pawn. } ) 
+Ra4 $6 { Returning the favour. } ( { Better was } 17... Qd8 $1 { preparing ...Nb6-c4 . Then after } 18. Rfc1 Nb6 19. Ne5 Nc4 { the c-file is blocked, though after } 20. Qc5 $5 { ⩲ White retains a small advantage. } ) 
+18. Ne5 $1 { ± White has obtained a dream position in the Stonewall; the dark-squared bishops are off the board, the knight has taken control of e5, and the c-file is open for a rook invasion. } Qd8 { Heading for a near-lost endgame. } ( { It does not help to keep queens on the board with } 18... Qe8 19. Rfc1 Nxe5 20. Qxe5 Ra7 { since after } 21. Rc5 $5 { ± followed by Rbc1 and Rc7 , only White has attacking chances. } ) 
+ ( { Also } 18... Rxb4 $4 { loses to } 19. Nc6 { . } ) 
+19. Rfc1 Qxc7 20. Rxc7 Nxe5 ( { It is too late for } 20... Nb6 21. e3 Nc4 { due to: } 22. Nxc4 dxc4 23. Bc6 $1 { ± } ) 
+21. dxe5 { Black is rid of his weakness on e5, but the e6- and b5-pawns remain vulnerable. } Rd8 22. e3 Bd7 23. Bf1 { Threatening Rxd7. } Raa8 ( 23... Kf8 $2 { can be met by } 24. Rxd7 $1 Rxd7 25. Bxb5 Raa7 26. Bxd7 Rxd7 27. b5 { with a winning endgame, though some work is required. } ) 
+24. Rbc1 Kf8 25. Rb7 $6 { Natural, but imprecise. } ( { The most accurate was } 25. R1c5 $1 Rab8 26. Ra7 { threatening to double rooks on the seventh rank, forcing } Ra8 27. Rxa8 Rxa8 28. Bxb5 $16 { with excellent winning chances. } ) 
+Rab8 26. Rcc7 Rxb7 27. Rxb7 Bc6 $6 { Inaccurate; now White is in full control again. } ( { A much better defence was } 27... g5 $1 { since after } 28. Bxb5 Bxb5 29. Rxb5 d4 $1 30. exd4 Rxd4 { Black has drawing chances due to the weak e5-pawn. } ) 
+28. Rb6 Rc8 29. Bxb5 Bxb5 30. Rxb5 $18 { This endgame is already lost, but still instructive. } Rc1+ 31. Kg2 Rb1 32. Rb8+ Kf7 33. Rb7+ Kf8 ( { Black’s king is awkwardly placed after } 33... Kg6 34. h4 { . } ) 
+34. h4 Rb2 35. b5 Rb1 36. b6 h6 ( { Or } 36... Rb4 37. h5 Rb3 38. Kf1 Rb2 39. Ke1 Kg8 40. Kd1 { and preventing White’s king penetration will lead Black into zugzwang. } ) 
+37. Rb8+ Kf7 38. h5 $1 { Fixing the kingside pawns. } Ke7 ( 38... g6 $2 { loses to } 39. Rb7 Kg8 40. hxg6 { . } ) 
+39. b7 Kf7 40. f4 $1 ( { Black resigns as he is helpless against the continuation: } 40. f4 Rb5 41. Kf3 Rb2 42. g4 fxg4 43. Kxg4 Rb3 44. f5 exf5 45. Kxf5 Rb5 46. e6 Ke7 47. Rg8 Rxb7 48. Rxg7 { Final remarks 1. Black’s problems started early in the game; his chances could be improved with 9... Nd7. Instead 9...a5 was not enough to prevent the queenside expansion, and paradoxically, the opening of the a-file helped White in most variations. 2. White’s queenside attack with b2-b4-b5 proved to be a sound plan, provoking Black to play ...b7-b5. This advance prevented the b4-b5 break, but turned the b5-pawn into a serious weakness. 3. Black’s biggest mistake was trading dark-squared bishops, emphasizing the uselessness of his light-squared bishop, and giving up control of the e5-square. } ) 
+
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803157/"]
+[Date "????.??.??"]
+[Round "7.8"]
+[White "6) Stonewall"]
+[Black "Hammer vs. Djurhuus #1"]
+[Result "*"]
+[FEN "rnbq1rk1/pp4pp/2pbpn2/3p1p2/2PP4/2N2NP1/PPQ1PPBP/R1B2RK1 b - - 6 8"]
+
+8... dxc4 $6 { The capture ...dxc4 is often a bad idea, as Black's solid centre becomes vulnerable. } 9. e4 $1 Bc7 10. Qe2 fxe4 ( { Or } 3... b5 4. exf5 exf5 5. a4 $1 { And White is better. } ) 
+11. Nxe4 Nxe4 12. Qxe4 $14 { With more than enough compensation. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803158/"]
+[Date "????.??.??"]
+[Round "7.9"]
+[White "6) Stonewall"]
+[Black "Hammer vs. Djurhuus #2"]
+[Result "*"]
+[FEN "r1bq1rk1/3n2pp/2pbp3/1p1p1p2/1PPP4/2Q2NP1/4PPBP/1RB2RK1 w - - 0 14"]
+
+14. Bg5 Be7 $2 ( { Trading dark-squared Bishops will only worsen Black's problems. Better was } 1... Nf6 2. cxd5 ( { But not } 1... Be7 1. c5 $6 Ne4 $1 3. Qc1 Nxg5 4. Nxg5 Be7 { when Black is just fine. } ) 
+cxd5 3. Ne5 Bd7 4. Ra1 { And White has a pleasant advantage. } ) 
+15. Bxe7 Qxe7 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803159/"]
+[Date "????.??.??"]
+[Round "7.10"]
+[White "6) Stonewall"]
+[Black "Hammer vs. Djurhuus #3"]
+[Result "*"]
+[FEN "r1b2rk1/3nq1pp/2p1p3/1p1p1p2/1PPP4/2Q2NP1/4PPBP/1R3RK1 w - - 0 16"]
+
+16. cxd5 { A timely opening of the c-file. } ( { Another strong option was } 16. c5 { turning the c6-pawn into a permanent target, and after } Nf6 17. Ra1 Bd7 18. Ne5 $16 { White dominates, and is likely to win the a-file with Ra3 or Ra5. } ) 
+cxd5 17. Qc6 $1 { Preventing ...Nb6-c4 blocking the c-file. } Rb8 18. Rfc1 Rb6 ( { But not } 18... Nb6 $2 19. Qxb5 $18 ) 
+19. Qc7 Rb7 20. Qa5 Qd6 21. e3 $16 { Followed by Bf1 attacking the b5-pawn. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803160/"]
+[Date "????.??.??"]
+[Round "7.11"]
+[White "6) Stonewall"]
+[Black "Hammer vs. Djurhuus #4"]
+[Result "*"]
+[FEN "2b2rk1/2Qnq1pp/4p3/1p1p1p2/rP1P4/5NP1/4PPBP/1R3RK1 w - - 3 18"]
+
+18. Ne5 $1 { ± White has obtained a dream position in the Stonewall; the dark-squared bishops are off the board, the knight has taken control of e5, and the c-file is open for a rook invasion. } Qd8 { Heading for a near-lost endgame. } ( { It does not help to keep queens on the board with } 18... Qe8 19. Rfc1 Nxe5 20. Qxe5 Ra7 { since after } 21. Rc5 $5 { ± followed by Rbc1 and Rc7 , only White has attacking chances. } ) 
+ ( { Also } 18... Rxb4 $4 { loses to } 19. Nc6 { . } ) 
+19. Rfc1 Qxc7 20. Rxc7 Nxe5 ( { It is too late for } 20... Nb6 21. e3 Nc4 { due to: } 22. Nxc4 dxc4 23. Bc6 $1 { ± } ) 
+21. dxe5 { Black is rid of his weakness on e5, but the e6- and b5-pawns remain vulnerable. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803161/"]
+[Date "????.??.??"]
+[Round "7.12"]
+[White "6) Stonewall"]
+[Black "Hammer vs. Djurhuus #5"]
+[Result "*"]
+[FEN "3r2k1/2Rb2pp/4p3/1p1pPp2/rP6/4P1P1/5P1P/1R3BK1 b - - 3 23"]
+
+23... Kf8 $2 { Can be met by Rxd7!. } 24. Rxd7 $1 Rxd7 25. Bxb5 Raa7 26. Bxd7 Rxd7 27. b5 { With a winning endgame, though some work is required. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803162/"]
+[Date "????.??.??"]
+[Round "7.13"]
+[White "6) Stonewall"]
+[Black "Hammer vs. Djurhuus #6"]
+[Result "*"]
+[FEN "r2r1k2/2Rb2pp/4p3/1p1pPp2/1P6/4P1P1/5P1P/2R2BK1 w - - 6 25"]
+
+25. R1c5 Rab8 26. Ra7 { Threatening to double Rooks on the seventh rank, forcing ...Ra8. } Ra8 27. Rxa8 Rxa8 28. Bxb5 $16 { With excellent winning chances. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803163/"]
+[Date "????.??.??"]
+[Round "7.14"]
+[White "6) Stonewall"]
+[Black "Hammer vs. Djurhuus #7"]
+[Result "*"]
+[FEN "3r1k2/1R1b2pp/4p3/1p1pPp2/1P6/4P1P1/5P1P/5BK1 b - - 1 27"]
+
+27... g5 $1 28. Bxb5 Bxb5 29. Rxb5 d4 $1 30. exd4 Rxd4 { And Black has drawing chances due to the weak e5-pawn. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803164/"]
+[Date "????.??.??"]
+[Round "7.15"]
+[White "6) Stonewall"]
+[Black "Hammer vs. Djurhuus #8"]
+[Result "*"]
+[FEN "1R6/5kp1/1P2p2p/3pPp2/7P/4P1P1/5PK1/1r6 w - - 3 38"]
+
+38. h5 $1 { Fixing the Kingside pawns. } Ke7 ( 38... g6 $2 { loses to } 39. Rb7 Kg8 40. hxg6 { . } ) 
+39. b7 Kf7 40. f4 $1 ( { Black resigns as he is helpless against the continuation: } 40. f4 Rb5 41. Kf3 Rb2 42. g4 fxg4 43. Kxg4 Rb3 44. f5 exf5 45. Kxf5 Rb5 46. e6 Ke7 47. Rg8 Rxb7 48. Rxg7 ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1550898/"]
+[Date "????.??.??"]
+[Round "7.16"]
+[White "6) Stonewall"]
+[Black "Ognjen Cvitan vs. Darko Doric"]
+[Result "1-0"]
+
+ { Ognjen Cvitan – Darko Doric, Rijeka 2006 Learning objective: This game illustrates how White may slowly constrain Black’s forces to eventually win through a kingside invasion. } 1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 Bd6 5. Bd3 f5 6. O-O Nf6 7. b3 Qe7 8. Bb2 O-O ( { PH: An antidote against the 9.Qc1 plan is to delay castling with } 8... b6 9. Qc1 Bb7 10. Ba3 Bxa3 11. Qxa3 Qxa3 12. Nxa3 Ke7 { , keeping the king in the center. It's still slightly more pleasant for White, but Black's position is pretty decent. } ) 
+9. Nc3 { The beginning of an interesting plan. } ( { Another popular option is to insist on trading dark-squared bishops with } 9. Qc1 b6 10. Ba3 { and now Black may allow the exchange with } Nbd7 ( { Or prevent the exchange with } 10. Nc3 c5 $5 11. dxc5 ( { PH: Here } 11. cxd5 $1 exd5 12. Nc3 { is pretty bad for Black, a poor structure and Nb5 is coming. } ) 
+bxc5 12. Nc3 Ba6 { with level chances as in Petrik – S. Zhigalko, Aix-les-Bains 2011 } { _ } ) 
+11. Bxd6 Qxd6 12. cxd5 Nxd5 13. Nbd2 Bb7 14. Nc4 Qe7 15. Nfe5 Rac8 16. Nxd7 Qxd7 17. Ne5 Qe7 18. Qb2 c5 { when Black had solved all his problems in Delchev – Tregubov, France 2009. } ) 
+Ne4 10. Ne2 { This move prepares Ne5 followed by f2-f3 which will give White good control of the centre. } Nd7 11. Ne5 Nxe5 12. dxe5 Bc7 ( { Another alternative was: } 12... Bc5 13. Bd4 { Preparing f2-f3. } ( { Also an option is the untested } 12... Bc7 12. Nd4 $5 { ⩲. } ) 
+Ba3 { With the idea of ...c6-c5 . } 14. Rb1 ( 13... Bc7 13. f3 { is met by } c5 $1 15. cxd5 ( 14... Bc7 14. fxe4 $6 dxe4 $15 ) 
+exd5 16. fxe4 cxd4 17. exd5 Qxe5 18. exd4 Qe3 19. Kh1 Bd6 { with a comfortable position for Black. } ) 
+b6 15. Bb2 Bxb2 16. Rxb2 Bb7 17. f3 Nc5 { With level chances in Olszewski – S. Zhigalko, Puerto Madryn 2009. Note that Black’s light-squared bishop will come into the game after ...c6-c5 . } ) 
+ { This is the first critical moment in the game. Black’s main problem is to find a good use for the light-squared bishop. The typical ...Bd7-e8-h5 manoeuvre will not benefit Black since White simply responds with f2-f3. Hence, the only alternative is to place the bishop on the a8-h1 diagonal and advance ...c6-c5. On the other hand, White’s objective will be to play c4-c5 obtaining a lasting advantage by restraining Black’s bishop permanently. } 13. Rc1 { A logical move, supporting c4-c5. } ( { Another logical alternative was } 13. Qc2 $5 { also supporting c4-c5, and now after } Bb6 ( { better was } 13. Rc1 Bd7 14. Rac1 Rac8 15. c5 b6 { fighting against the c5-pawn } ) 
+14. Rac1 Bd7 15. c5 $1 { White gained a lasting advantage: } Bc7 ( 15. Rc1 Bxc5 $4 16. Bxe4 $18 ) 
+ ( { or } 15. Rc1 Nxc5 $4 16. Ba3 $18 ) 
+16. f3 Ng5 17. Bd4 Rfb8 18. a4 b6 19. b4 Qd8 20. Rb1 bxc5 21. Qxc5 a5 22. b5 $16 { Shariyazdanov – Beshukov, Biel 2002. } ) 
+Bd7 14. f3 Bb6 $6 { This move turns out to be a crucial waste of two tempos. } ( { If } 14... Ng5 $6 { then } 15. c5 $14 { restricts the light-squared bishop, and is similar to the game. } ) 
+ ( { A good alternative was } 14... Nc5 15. Bb1 ( { or } 14... Bb6 14. Ba3 Bxe5 16. cxd5 Bd6 { where Black is just fine; } ) 
+ ( { more precise is } 14... Bb6 14. cxd5 $5 cxd5 16. Ba3 Bb6 17. Nd4 { with a tiny advantage for White } ) 
+dxc4 16. Rxc4 Na6 $1 { when Black equalizes after ...c6-c5 , bringing the light-squared bishop into the game. } ) 
+15. Nd4 Ng5 ( { If } 15... Nc5 16. Ba3 $14 { and the pin is somewhat annoying. } ) 
+16. Qc2 { Threatening c4-c5. } a5 $6 { This is a rather inaccurate move, though it made no difference in the game. The reason I do not like this move will become clear in my note to White’s 19th. } ( { If } 16... c5 { (preventing c4-c5) then } 17. Nxf5 $5 ( { or the simple } 16... a5 16. Ne2 Rac8 18. Nf4 $14 { when Black’s centre is somewhat vulnerable } ) 
+exf5 18. cxd5 c4 19. Bxc4 Bxe3 20. Kh1 { when the position is rather unclear, but White’s chances are certainly preferable. } ) 
+17. c5 Bc7 18. Ne2 $14 { White has a lasting positional edge thanks to his spatial advantage and Black’s restricted light-squared bishop. } b5 $6 19. a3 $6 { This is positionally correct, but White misses a stronger continuation. } ( { The reason I did not like 16...a5 is because after } 19. cxb6 $1 { it is not possible to recapture ...axb6; thus after } Bxb6 20. Bd4 { White gains control of the key c5-square, say after: } Rab8 21. Bc5 Bxc5 22. Qxc5 Qxc5 23. Rxc5 Nf7 24. f4 $16 ) 
+Nf7 $2 { This is a colossal mistake that should be well understood by the reader. Before playing this move Black had reasonable fighting chances, since White’s pieces could not be mobilized so easily. The e5-pawn was vulnerable, hence natural moves, like moving the bishop away from b2 or playing Nd4, were impossible. If White had played f3-f4, then Black could have responded with ...Ne4. } ( { It was better to prepare ...b5-b4 with } 19... Rfb8 { , for example: } 20. -- ( 19... Nf7 19. b4 Ra7 { when Black can create some counterplay down the a-file, or } ) 
+ ( 19... Nf7 19. Bd4 b4 21. axb4 ( 20... Nf7 20. Ra1 $5 { ⩲ was better. } ) 
+Bc8 { followed by ...Ba6 with a reasonable position for Black. } ) 
+ ) 
+ { But now that Black has played ...Nf7, the following move is logical and very strong: } 20. f4 $16 { Black’s knight does not have a route back to e4, hence weakening the e4-square is not a problem at all. From this point I think Black’s position is nearly lost, and the reader should pay close attention to how White manages to gradually increase his advantage without giving Black any hope of counterplay. } Nh6 21. Nd4 Rab8 22. h3 { Covering the g4-square and preparing an expansion with g2-g4. } g6 ( { Maybe it was better to attempt something like } 22... b4 23. a4 $6 ( { of course it is better to play } 22... g6 22. Ra1 $5 { ± } ) 
+Qe8 24. Rf2 Bc8 25. g3 Ra8 26. Rg2 Ba6 { trading the light-squared bishop. } ) 
+23. Rf2 Kf7 24. Nf3 Ke8 25. g3 { Cvitan seems to be enjoying himself. He takes his time, but every move brings him one step closer to the win. Now he is preparing Rg2 and g3-g4. } Kd8 26. Rg2 Kc8 27. g4 Bd8 ( { Of course } 27... fxg4 28. hxg4 { only worsens Black’s pawn structure. } ) 
+28. Kh2 { Again, White does not hurry to open the position yet, as there is no need to do so. Instead, Cvitan slowly arranges his pieces in optimal locations. } Bc7 29. Qd2 Be8 30. Kg1 Bd7 31. Qe1 Be8 32. b4 { This is played in order to support the c5-pawn, as White wants to use his rook on the kingside. } a4 { Having a closed queenside, the rest is just a matter of technique. } ( { Opening the a-file with } 32... axb4 $6 33. axb4 { does not exactly help Black, for example: } Ra8 ( 33... Kb7 34. Bd4 Ra8 35. Bxb5 $1 { Opening lines for attack. } cxb5 36. c6 $1 Bxc6 37. Rgc2 $18 ) 
+34. Ra1 Rxa1 35. Qxa1 Kb7 36. Bc3 { Followed by Ra2 with a winning attack. } ) 
+ ( { It was probably better to keep the tension with } 32... Ra8 $5 { but after } 33. Ra1 $5 { threatening a3-a4, Black does not have anything better than } a4 { , which is similar to the game. } ) 
+33. Bc3 $1 { +- This move is logical and very strong. It might seem premature, but after this move Black’s position is already clearly lost, for the following reasons: 1. White has a significant spatial advantage, allowing him to manoeuvre freely with his pieces. 2. Only White can open the position favourably, which he will do only once all his forces are ready for the final invasion. 3. Black’s light-squared bishop is locked in and cannot contribute to Black’s play. 4. With the last move, White shows the beginning of the winning strategy. His first step is to play Bc3-e1-h4 to make good use of his bad bishop. } Kb7 34. Qe2 Bd8 35. Be1 Ka6 36. Bh4 Qc7 37. Bxd8 Qxd8 { The first stage is complete. White has exchanged his bad bishop for Black’s good bishop; note how weak the dark squares in Black’s camp have become. } 38. Nd4 Qe7 39. gxf5 ( { A strong alternative was the direct } 39. Qd1 $1 { threatening Qxa4 , and now } Ka7 40. Bxb5 $1 cxb5 41. c6 { gives White a winning attack, since Black’s forces lack space and coordination to defend: } Ka8 42. Rc5 { (threatening Nxb5) } Rb6 43. g5 Nf7 44. Qc2 { (threatening c6-c7) } Kb8 45. Rxb5 Rxb5 46. Nxb5 Bxc6 47. Qxc6 ) 
+Nxf5 40. Bxf5 gxf5 ( { If } 40... exf5 { White can progress with: } 41. Qf2 Kb7 42. h4 Bd7 43. Qg3 Rbe8 44. Qg5 Qf7 ( { or } 44... Qxg5 45. Rxg5 ) 
+45. Kf2 { Followed by Rh1 and h4-h5 winning. } ) 
+ { The second stage is complete; White has opened the ^g-file and removed all strategic impurities from the position by trading his bishop for Black’s knight. We are left with a winning battle between White’s strong knight and Black’s useless light-squared bishop. It is impossible to prevent the invasion down the ^g-file. } 41. Kh2 Kb7 42. Rcg1 Bg6 43. Rg5 { Progressing slowly but surely. } ( { A more direct winning approach was: } 43. Rxg6 $5 hxg6 44. Rxg6 Rg8 45. Rxe6 Qg7 46. Qf2 Rh8 { (threatening ...Rxh3 followed by ...Rh8) } 47. Qg2 Qxg2 48. Kxg2 Rbg8 49. Kh2 ) 
+Rg8 44. Qf2 Rbe8 45. Qh4 Kc7 ( { If } 45... Qg7 { preventing } 46. Qh6 { , then } 46. R5g3 Kc7 47. Qg5 { followed by h3-h4-h5 winning. } ) 
+46. Qh6 { Threatening the decisive h3-h4-h5. } Qf8 47. Qxf8 Rgxf8 48. h4 Re7 49. Kh3 { At this point pretty much every plan will win. White continues to take his time and improve his position slowly. } ( { Another option was } 49. h5 Be8 50. Rg7 Kd7 51. h6 { since } Bg6 { fails due to } 52. Rxe7 Kxe7 53. Nxc6 Kd7 54. Nd4 { . } ) 
+Kd7 50. h5 Be8 51. Kh4 h6 52. Rg8 Ref7 ( { If } 52... Rxg8 53. Rxg8 Rh7 { White has the nice } 54. Rg6 $1 Bxg6 ( { or } 54... Bf7 55. Rf6 { zugzwang ! } Bg8 56. Rf8 Bf7 57. Ra8 $18 ) 
+55. hxg6 Rh8 56. Kh5 Ke7 57. g7 Rg8 58. Kg6 $1 h5 59. Nf3 { followed by Kh7 and wins. } ) 
+53. Rxf8 Rxf8 54. Rg7+ Rf7 55. Rg6 Re7 ( { No better is } 55... Rh7 56. Rxe6 { . } ) 
+56. Rxh6 Rg7 57. Rxe6 Rg4+ 58. Kh3 Rg1 59. h6 { Final remarks 1. Black’s first mistake was allowing White to play c4-c5, which prevented ...c6-c5, hence restricting the light-squared bishop. This was essentially an opening imprecision. It was necessary to play 12...Bc5 or 14...Nc5. 2. The second mistake was to play 19... Nf7 allowing 20. f4 reinforcing White’s central dominance. This mistake was essentially decisive. 3. White’s win was slow but very convincing and a great model of how to exploit the advantage. Improving Black’s play after move 20 would provide more resistance, but probably would not change the overall result. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803165/"]
+[Date "????.??.??"]
+[Round "7.17"]
+[White "6) Stonewall"]
+[Black "Cvitan vs. Doric #1"]
+[Result "*"]
+[FEN "rnb2rk1/pp2q1pp/2pbpn2/3p1p2/2PP4/1P1BPN2/PB3PPP/RN1Q1RK1 w - - 4 9"]
+
+9. Nc3 { The beginning of an interesting plan. } ( { Another popular option is to insist on trading dark-squared bishops with } 9. Qc1 b6 10. Ba3 { and now Black may allow the exchange with } Nbd7 ( { Or prevent the exchange with } 10. Nc3 c5 $5 11. dxc5 bxc5 12. Nc3 Ba6 { with level chances as in Petrik – S. Zhigalko, Aix-les-Bains 2011. } ) 
+11. Bxd6 Qxd6 12. cxd5 Nxd5 13. Nbd2 Bb7 14. Nc4 Qe7 15. Nfe5 Rac8 16. Nxd7 Qxd7 17. Ne5 Qe7 18. Qb2 c5 { when Black had solved all his problems in Delchev – Tregubov, France 2009. } ) 
+Ne4 10. Ne2 { This move prepares Ne5 followed by f2-f3 which will give White good control of the centre. } Nd7 11. Ne5 Nxe5 12. dxe5 Bc7 ( { Another alternative was: } 12... Bc5 13. Bd4 { Preparing f2-f3. } ( { Also an option is the untested } 12... Bc7 12. Nd4 $5 { ⩲. } ) 
+Ba3 { With the idea of ...c6-c5 . } 14. Rb1 ( 13... Bc7 13. f3 { is met by } c5 $1 15. cxd5 ( 14... Bc7 14. fxe4 $6 dxe4 $15 ) 
+exd5 16. fxe4 cxd4 17. exd5 Qxe5 18. exd4 Qe3 19. Kh1 Bd6 { with a comfortable position for Black. } ) 
+b6 15. Bb2 Bxb2 16. Rxb2 Bb7 17. f3 Nc5 { With level chances in Olszewski – S. Zhigalko, Puerto Madryn 2009. Note that Black’s light-squared bishop will come into the game after ...c6-c5. } ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803166/"]
+[Date "????.??.??"]
+[Round "7.18"]
+[White "6) Stonewall"]
+[Black "Cvitan vs. Doric #2"]
+[Result "*"]
+[FEN "r4rk1/ppbbq1pp/2p1p3/3pPp2/2P1n3/1P1BPP2/PB2N1PP/2RQ1RK1 b - - 1 14"]
+
+14... Nc5 15. Bb1 ( { Or } 15. Ba3 Bxe5 16. cxd5 Bd6 { where Black is just fine. } ) 
+ ( { More precise is } 15. cxd5 $5 cxd5 16. Ba3 Bb6 17. Nd4 { with a tiny advantage for White } ) 
+dxc4 16. Rxc4 Na6 $1 { When Black equalizes after ...c6-c5, bringing the light-squared bishop into the game. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803167/"]
+[Date "????.??.??"]
+[Round "7.19"]
+[White "6) Stonewall"]
+[Black "Cvitan vs. Doric #3"]
+[Result "*"]
+[FEN "r4rk1/2bbq1pp/2p1p3/ppPpPpn1/8/1P1BPP2/PBQ1N1PP/2R2RK1 w - b6 0 19"]
+
+ { Chessable: White to play after Black's 18...b5. } 19. cxb6 $1 Bxb6 20. Bd4 { White gains control of the key c5-square. } Rab8 21. Bc5 Bxc5 22. Qxc5 Qxc5 23. Rxc5 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803168/"]
+[Date "????.??.??"]
+[Round "7.20"]
+[White "6) Stonewall"]
+[Black "Cvitan vs. Doric #4"]
+[Result "*"]
+[FEN "1rk1br2/2b1q2p/2p1p1pn/1pPpPp2/pP3PP1/P2BPN1P/1B4R1/2R1Q1K1 w - - 0 33"]
+
+33. Bc3 $1 { +- This move is logical and very strong. It might seem premature, but after this move Black’s position is already clearly lost, for the following reasons: 1. White has a significant spatial advantage, allowing him to manoeuvre freely with his pieces. 2. Only White can open the position favourably, which he will do only once all his forces are ready for the final invasion. 3. Black’s light-squared bishop is locked in and cannot contribute to Black’s play. 4. With the last move, White shows the beginning of the winning strategy. His first step is to play Bc3-e1-h4 to make good use of his bad bishop. } Kb7 34. Qe2 Bd8 35. Be1 Ka6 36. Bh4 Qc7 37. Bxd8 Qxd8 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1550900/"]
+[Date "????.??.??"]
+[Round "7.21"]
+[White "6) Stonewall"]
+[Black "Emilio Cordova vs. Igor Naumkin"]
+[Result "0-1"]
+
+ { Emilio Cordova – Igor Naumkin, Livigno 2010 Learning objective: This game illustrates Black’s chances for a direct checkmating attack. } 1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O Be7 6. c4 O-O 7. b3 d5 8. Bb2 Nbd7 9. Qe2 a6 10. Rd1 Ne4 11. Ne1 $6 { Not exactly a mistake, but certainly heading in the wrong direction. White intends to play f2-f3 in order to chase away Black’s strong knight on e4. } ( { A healthier alternative was } 11. Ne5 f5 12. f3 Nxe5 13. dxe5 Nc5 { with roughly equal chances in the game Cordova – Ordaz Valdes, Monterrey 2010. } ) 
+f5 $1 { A good decision, reinforcing the knight on e4, and going into a Stonewall-type position under favourable circumstances. The reader should note two essential characteristics in this position: 1. Black’s knight is already on e4, creating some chances for a kingside attack. 2. Black’s light-squared bishop can always become active after a timely ...dxc4 opening the a8-h1 diagonal. For these two reasons, White should be particularly cautious, and not expect the usual solid position against the Stonewall. } 12. f3 $6 { A careless move based on a tactical oversight. } ( { It was better to play } 12. Nd2 { though after } Bd6 { Black has a comfortable position. } ) 
+Bd6 { My favourite move in the game. This position perfectly illustrates Black’s attacking potential. White wanted to push the knight away in order to obtain a comfortable positional advantage, but Black simply leaves it there. Is it possible to take it? } 13. fxe4 $2 { White does not want to admit that 12.f3 was simply a weakening move, hence he accepts the challenge. Unfortunately for him, Black’s attack is even stronger than it seems. } ( { It was better to accept the mistake and play } 13. Nc3 { after which Black gains the initiative with: } Qh4 14. f4 ( { but not } 14. g3 $2 { because of } Nxg3 $1 15. hxg3 Bxg3 { when White is completely helpless against the threat of ...Rf6-g6 , and } 16. Ba3 { hoping to respond to 16... Rf6 with 17. Be7, is simply answered by } c5 ) 
+Ndf6 { The position is about equal, but it is Black who can fight for the advantage. } ) 
+fxe4 14. Bc2 Qg5 { A very strong move, preparing ...Nf6-g4 to which White does not have a satisfactory defence despite having an extra piece. Black’s pawns on d5 and e4 are the key as they restrict the mobility of White’s forces. } ( { It is possible that White expected } 14... Qh4 $2 15. g3 ( { but not } 14... Qg5 14. h3 $4 Qg3 { followed by ...Qh2# } ) 
+Qh3 { threatening to double rooks on the ^f-file and now } 16. Qg2 Qh6 17. Qe2 Qh3 { leads to a draw by repetition. } ) 
+15. Nd2 ( { At first sight, White seems to defend with: } 15. g3 { But after: } Nf6 { Black threatens ...Ng4 and ...Rf2 or ...Nh5xg3 . Now White’s problems become more apparent. A possible continuation is: } 16. Ng2 Nh5 ( { But not } 16. Nd2 Ng4 $2 17. Nf4 $1 { . } ) 
+17. Rf1 ( 17. g4 Rf3 $1 { and Black wins after either } 18. gxh5 ( { or } 18. Nd2 Qxg4 { . } ) 
+Qxh5 ) 
+Nxg3 $1 18. hxg3 Qxg3 { Threatening ...Qh2# . } 19. Rf4 g5 { Winning the rook. } ) 
+ ( { The best defence was trading bishops with: } 15. Ba3 Bxa3 ( { or } 15. Nd2 c5 16. Nd2 Nf6 { with a strong attack } ) 
+16. Nxa3 Nf6 17. cxd5 ( 17. h3 $2 Nh5 $19 { threatening ...Ng3 and ...Rf1 } ) 
+exd5 18. Nd3 { White has to return the piece sooner or later. } exd3 19. Bxd3 Ng4 $17 ) 
+Nf6 16. Nef3 { The only move; White really does not have any other way to bring his pieces back to the defence, and a knight on f3 is very much needed to protect h2, and to block the f-file. } ( { Even the similar move } 16. Ndf3 $2 { loses to: } Qh5 { (threatening ...Bxh2+) } 17. h3 ( { or } 17. Rd2 exf3 18. Nxf3 dxc4 19. bxc4 Ng4 20. h3 Rxf3 $1 21. gxf3 Nh2 $19 ) 
+exf3 18. Nxf3 Ne4 { threatening ...dxc4 and ...Ng5 (or ...Ng3) (.) } ) 
+exf3 17. Nxf3 Qh5 { The attack continues; the threat is ...Bxh2+. } 18. Re1 ( { Worse is } 18. h3 Ne4 $19 { as in the note above. } ) 
+dxc4 { Even Black’s light-squared bishop, the famous 'bad bishop” in the Stonewall, comes into the attack. } 19. e4 { White has nothing better than giving up a pawn in order to block the bishop on b7. } ( { White cannot recapture with } 19. bxc4 { because of } Ng4 { with a crushing attack. } 20. h3 Rxf3 $1 21. gxf3 ( 21. hxg4 $4 Qh2 ) 
+Nh2 22. Rf1 Nxf3 { Mate is coming soon. } ) 
+cxb3 20. axb3 { Black’s strategy has been a success: he has an extra pawn for no compensation, and all his pieces actively contribute to the attack. I will leave the rest of the game with shorter comments as it is less relevant to the subject of this chapter. } Bb4 21. Rf1 a5 22. Rac1 c5 { Undermining White’s control of the centre. } 23. Bd3 $6 ( { A better defence was: } 23. Rcd1 cxd4 24. Bxd4 Bc5 $17 ) 
+Rad8 { The d4-pawn has become vulnerable. } 24. h3 $2 ( { Weakening the position decisively. It was safer to 'sit and wait” with } 24. Rc2 { although Black can make progress slowly with: } Rd7 25. Rd1 Rfd8 $17 ) 
+Qh6 $1 { Making room for the knight transfer ...Nh5-g3 (or f4) . } 25. Bb1 Nh5 $19 { Black’s multiple threats decide the game. } 26. Ne5 Nf4 27. Qg4 Bd2 28. Kh2 Nh5 ( { But not } 28... Bxc1 $4 29. Bxc1 $16 { losing the knight on f4 . } ) 
+29. g3 ( 29. Rcd1 { is useless because of: } Rf4 $1 30. Qe2 ( { or } 30. Rxf4 Qxf4 31. Qxf4 Bxf4 32. Kg1 Bxe5 ) 
+Rxf1 31. Rxf1 Bf4 32. Kg1 Ng3 ) 
+Ba6 { Winning the ^f-file. } ( { But not } 29... Bxc1 $4 30. Bxc1 { when Black’s queen is trapped. } ) 
+30. Rxf8+ ( 30. Bd3 Bxd3 31. Nxd3 Bxc1 32. Bxc1 Qg6 { and wins. } ) 
+Rxf8 31. Rg1 Be3 32. Rg2 Bf1 { The rest is simple. } 33. Nd7 Rd8 34. dxc5 bxc5 35. Bf6 Rxd7 36. e5 Nxf6 37. Qxe6+ Rf7 38. exf6 Qxf6 { Final remarks 1. The key to Black’s successful attack was his e4-pawn, which prevented White from bringing pieces into the defence. 2. It is worth studying how Black’s attack was conducted while having control of the centre. Imagine how difficult it would have been to create threats if White had been able to place a knight on e5. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803169/"]
+[Date "????.??.??"]
+[Round "7.22"]
+[White "6) Stonewall"]
+[Black "Cordova vs. Naumkin #1"]
+[Result "*"]
+[FEN "r2q1rk1/1bpnbppp/pp2p3/3p4/2PPn3/1P1BP3/PB2QPPP/RN1RN1K1 b - - 4 11"]
+
+11... f5 $1 { A good decision, reinforcing the knight on e4, and going into a Stonewall-type position under favourable circumstances. The reader should note two essential characteristics in this position: 1. Black’s knight is already on e4, creating some chances for a kingside attack. 2. Black’s light-squared bishop can always become active after a timely ...dxc4 opening the a8-h1 diagonal. For these two reasons, White should be particularly cautious, and not expect the usual solid position against the Stonewall. } 12. f3 $6 { A careless move based on a tactical oversight. } ( { It was better to play } 12. Nd2 { though after } Bd6 { Black has a comfortable position. } ) 
+Bd6 { My favourite move in the game. This position perfectly illustrates Black’s attacking potential. White wanted to push the knight away in order to obtain a comfortable positional advantage, but Black simply leaves it there. Is it possible to take it? } 13. fxe4 { White does not want to admit that 12.f3 was simply a weakening move, hence he accepts the challenge. Unfortunately for him, Black’s attack is even stronger than it seems. } ( { It was better to accept the mistake and play } 13. Nc3 { after which Black gains the initiative with: } Qh4 14. f4 ( { But not } 14. g3 $2 { because of } Nxg3 $1 15. hxg3 Bxg3 { when White is completely helpless against the threat of ...Rf6-g6, and } 16. Ba3 { hoping to respond to 16... Rf6 with 17. Be7, is simply answered by } c5 ) 
+Ndf6 { The position is about equal, but it is Black who can fight for the advantage. } ) 
+fxe4 14. Bc2 Qg5 { A very strong move, preparing ...Nf6-g4 to which White does not have a satisfactory defence despite having an extra piece. Black’s pawns on d5 and e4 are the key as they restrict the mobility of White’s forces. } ( { It is possible that White expected } 14... Qh4 $2 15. g3 ( { But not } 14... Qg5 14. h3 $4 Qg3 { followed by ...Qh2#. } ) 
+Qh3 { threatening to double rooks on the ^f-file and now } 16. Qg2 Qh6 17. Qe2 Qh3 { leads to a draw by repetition. } ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803170/"]
+[Date "????.??.??"]
+[Round "7.23"]
+[White "6) Stonewall"]
+[Black "Cordova vs. Naumkin #2"]
+[Result "*"]
+[FEN "r4rk1/1bp3pp/pp1bpn2/3p2q1/2PP4/1P2PN2/PBB1Q1PP/R2R2K1 b - - 1 17"]
+
+17... Qh5 { The attack continues; the threat is ...Bxh2+. } 18. Re1 ( { Worse is } 18. h3 Ne4 $19 ) 
+dxc4 { Even Black’s light-squared bishop, the famous 'bad bishop” in the Stonewall, comes into the attack. } 19. e4 { White has nothing better than giving up a pawn in order to block the bishop on b7. } ( { White cannot recapture with } 19. bxc4 { because of } Ng4 { with a crushing attack. } 20. h3 Rxf3 $1 21. gxf3 ( 21. hxg4 $4 Qh2 ) 
+Nh2 22. Rf1 Nxf3 { Mate is coming soon. } ) 
+cxb3 20. axb3 { Black’s strategy has been a success: he has an extra pawn for no compensation, and all his pieces actively contribute to the attack. I will leave the rest of the game with shorter comments as it is less relevant to the subject of this chapter. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803171/"]
+[Date "????.??.??"]
+[Round "7.24"]
+[White "6) Stonewall"]
+[Black "Cordova vs. Naumkin #3"]
+[Result "*"]
+[FEN "3r1rk1/1b4pp/1p2pn2/p1p4q/1b1PP3/1P1B1N1P/1B2Q1P1/2R2RK1 b - - 1 24"]
+
+24... Qh6 $1 { Making room for the knight transfer ...Nh5-g3 (or f4) . } 25. Bb1 Nh5 $19 { Black’s multiple threats decide the game. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1550902/"]
+[Date "????.??.??"]
+[Round "7.25"]
+[White "6) Stonewall"]
+[Black "Levon Aronian vs. Evgeny Tomashevsky"]
+[Result "0-1"]
+
+ { Levon Aronian – Evgeny Tomashevsky, FIDE World Cup, Tromsø 2013 Learning objective: This game is an example of Black’s light-squared bishop becoming powerful after the manoeuvre ...Bd7-e8-h5. } 1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 Bd6 5. Bd3 f5 6. O-O Nf6 7. b3 Qe7 { So far we have been following Cvitan – Doric from before. } 8. Ne5 { This is a rare move order, though Ne5 is a standard move in general in this opening. } ( { As we mentioned previously, a more popular choice is } 8. Bb2 O-O { and now either } 9. Nc3 ( { or } 9. Qc1 $5 { followed by } -- 10. Ba3 { . } ) 
+ ) 
+O-O 9. Bb2 Bd7 10. Nc3 Be8 { The manoeuvre ...Bc8-d7-e8 is standard in this position. The light-squared bishop is of little use on c8, so Tomashevsky brings the bishop to e8 where it is ready to be activated with ...Bh5 once the right moment comes. } 11. cxd5 ( { An alternative was } 11. Ne2 $5 { which is similar to the Cvitan – Doric game. } ) 
+ ( { If } 11. Qc2 { Black can simply continue with: } Nbd7 12. cxd5 ( { or } 12. Ne2 $5 Rc8 ) 
+exd5 13. f4 ( { but not } 13. Nxd7 $2 Bxd7 $15 { when Black has an excellent version of the Carlsbad, similar to Getz – Agdestein; } 14. Bxf5 $6 { runs into } Bxf5 15. Qxf5 Ne4 16. Qh3 Rf6 $17 ) 
+g6 { With approximately level chances. } ) 
+cxd5 12. Rc1 Nc6 { The reader should note that White cannot really play for more than equality in this position. The knight on e5 is not particularly useful, and Black’s bishop on e8 is not more restricted than White’s bishop on b2. } 13. Nb5 Bb4 14. a3 Ba5 15. Be2 a6 16. Nc3 Ne4 17. b4 ( { But not } 17. f3 $2 { losing a pawn after: } Nxc3 18. Bxc3 Bxc3 19. Rxc3 Nxe5 20. dxe5 Qxa3 $17 ) 
+Bc7 18. Nxe4 $6 { It is generally inconvenient for White to take on e4 before placing a pawn on f4. } ( { It was healthier to accept equality with } 18. f4 Nxe5 19. fxe5 Bc6 20. Nxe4 fxe4 { with a probable draw. } ) 
+fxe4 { Now Black has pressure down the ^f-file, with the f2-pawn being quite vulnerable. } 19. Qb3 ( { Again } 19. f4 { was superior: } exf3 20. Nxf3 Bh5 { The light-squared bishop comes into the game ! } 21. Qd2 Rf7 { With a microscopic advantage for Black. } ) 
+ ( { If } 19. Nxc6 $6 Bxc6 { Black has excellent attacking chances on the kingside, for example } 20. Qd2 Rf6 21. f4 ( { or } 21. g3 Qf7 $17 { followed by ...Rf8 } ) 
+exf3 22. Rxf3 Rxf3 23. Bxf3 Qh4 24. g3 Qg5 $15 { with the threat of ...h7-h5-h4 . } ) 
+Bxe5 20. dxe5 { The e5-pawn is now a permanent weakness. } Qg5 21. Kh1 $6 { It was necessary to prevent Black’s next move. } ( { Better was: } 21. Qd1 $1 { Preventing } Bh5 { , and in a way saving the e5-pawn tactically. } Rf7 { Preparing ...Nxe5 . } ( { If } 21. Kh1 Nxe5 $6 { White gains compensation for the pawn after: } 22. Rc7 Rf7 23. Rxf7 Nxf7 24. f4 $5 ) 
+ ( { But } 21. Kh1 Rd8 $5 { allows Black to keep a tiny advantage. } ) 
+22. Bg4 Bd7 23. Bh5 $1 { This curious move is the key. } g6 ( { Or } 23. Kh1 Re7 24. Qg4 $1 { . } ) 
+24. Be2 { White is holding, since } Nxe5 $2 { now fails to: } 25. h4 $1 Qf6 26. Qd4 $18 ) 
+Bh5 $1 { ∓ I find it difficult to believe that throughout the past four moves Aronian seems to have been heading in this direction voluntarily. He had a clear chance to equalize with 18.f4, and even 19.f4 was better than this position. Black’s strategy has succeeded in every way. Let’s spell out why: 1. Black does not have to worry about a weak e5-square. Instead, White has a weak e5-pawn to worry about. 2. There is pressure down the ^f-file, thanks to the strong pawn on e4. 3. Black has managed to activate his bad bishop with ...Bd7-e8-h5. 4. White’s bishop on b2 is practically useless at the moment. } 22. f3 ( { Trading light-squared bishops seems quite dangerous: } 22. Bxh5 Qxh5 { For example: } 23. Qd1 ( { Instead, the careless } 23. h3 $2 { is met by the strong: } Rf3 $1 24. Kh2 ( 24. gxf3 $4 Qxh3 25. Kg1 exf3 $19 ) 
+Raf8 { (threatening ...Rxh3 followed by ...Rf3 with forced mate) } 25. Qd1 Rxh3 26. gxh3 Rf3 27. Qxf3 Qxf3 $19 ) 
+Qh4 { Keeping queens on the board. } ( { Also interesting was } 23. f3 Qg5 $5 { . } ) 
+24. Rc2 Rf5 { Preparing ...Rh5 . } 25. f4 exf3 26. gxf3 ( 26. Rxf3 $2 Raf8 $17 ) 
+Qh3 $5 { ⩱ } ) 
+ ( { Even worse is } 22. Qd1 $2 Bxe2 23. Qxe2 Rf7 $17 { since the e5-pawn is about to fall. } ) 
+Qh6 { A prophylactic move, preparing ...exf3 followed by doubling rooks on the ^f-file. } ( { The variation } 22... exf3 23. gxf3 Rf5 $2 24. f4 $1 { illustrates the importance of playing } Qh6 { . Now 24...Qh6 } 25. Qc2 { and White solves most of his problems. } ) 
+23. Rce1 exf3 24. gxf3 Rf7 25. Bc1 ( { No better is } 25. f4 Bxe2 26. Rxe2 Ne7 $1 27. Rg2 Nf5 $17 { since the bishop on b2 is no opponent for a knight on f5 . } ) 
+ ( { An alternative was } 25. Qd3 { but after } Ne7 { (threatening ...Nf5) } 26. e4 Qf4 $17 { White’s position is very uncomfortable. } ) 
+Bg6 $6 { There is nothing wrong with this move, but there was a more immediate win. } ( { Black could have decided the game with the precise: } 25... Nxe5 $1 26. e4 Bxf3 $1 { This shot was probably missed by both players } ( { instead } 26... Qf6 $2 { gives away most of the advantage after } 27. exd5 exd5 28. Bb2 $15 ) 
+27. Bxf3 Qh3 { Black goes into a winning endgame after the relatively forced line: } 28. exd5 Rxf3 29. Rxf3 Nxf3 30. Bf4 Qg4 31. Rf1 Qxf4 32. Rxf3 Qc1 33. Kg2 Qg5 34. Rg3 Qd2 35. Kh3 exd5 $19 ) 
+26. e4 Qh3 27. exd5 Nd4 28. Qd1 Nxe2 29. Qxe2 Bh5 $1 { The f3-pawn is now lost. } ( { But not: } 29... exd5 $2 30. e6 Rc7 31. Rf2 $15 ) 
+30. Kg1 Bxf3 31. Qf2 Qg4+ { An interesting alternative; instead of deciding the game immediately through tactical means, Tomashevsky heads into a won endgame, where he displays his positional mastery in an impeccable way. } ( { A more tactical approach was } 31... Raf8 $1 32. dxe6 Qxe6 33. Qg3 Bc6 { with a winning attack. } ) 
+32. Qg3 Qxg3+ 33. hxg3 Bxd5 $19 { The endgame is won, since White has absolutely nothing to aim for, while Black has many pawns to attack, such as a3, e5 and g3. Throughout the remaining part of the game, the reader should notice how Black’s ‘bad’ bishop is actually extremely strong, while White’s bishop is relatively useless in most variations. The position is not exactly a model of the Stonewall anymore, but it certainly deserves study as an example of endgame technique. } 34. Be3 a5 35. b5 a4 { Disconnecting the queenside pawns. Tomashevsky knows his pawns on b7 and a4 cannot be captured, hence he will always have pawns on both flanks, which is often a prerequisite for winning. } 36. Rxf7 Kxf7 37. Rf1+ Kg6 38. Rf4 h6 { Black can take time to improve his position before taking decisive measures. } 39. Kf2 Bb3 40. Rg4+ Kh7 41. Rd4 Rc8 42. b6 Rc2+ 43. Ke1 ( { More stubborn was } 43. Rd2 { but after } Rc3 44. Bd4 Rc8 $5 { I could not find a way to hold White’s position, for example: } 45. Ke3 Bd5 46. Rb2 Rc1 47. Kd2 ( { or } 47. Rd2 $2 Rg1 $19 ) 
+Ra1 48. Bc5 g5 $5 49. Rc2 Rh1 50. Rc1 Rh2 51. Kd3 Kg6 { Followed by ...Kh5-g4 . } ) 
+Ra2 { And now White’s position simply falls apart. } 44. Bc1 ( { Instead } 44. Rd7 $2 { loses on the spot after: } Rxa3 45. Rxb7 Bd5 $1 { Attacking rook and bishop. } 46. Bc1 Rxg3 $19 ) 
+Rg2 45. Bf4 Rg1+ 46. Kd2 Ra1 { The a3-pawn falls, and the rest is simple for Black. } 47. Kc3 ( { Not } 47. Rd7 $4 Rd1 $19 { . } ) 
+Rxa3 48. Kb4 Ra1 49. Bd2 ( 49. Rd7 Bd5 $19 ) 
+Bd5 50. Bc3 Ra2 51. Rd3 Kg6 52. Rd4 a3 53. Rd3 Kf5 54. Bd2 Ra1 55. Bc3 Ra2 56. Bd2 Ke4 57. Re3+ Kd4 58. Bc1 Rc2 { Final remarks 1. The usefulness of Black’s bishop manoeuvre is best illustrated in the note to White’s 19th move. Aronian was probably dissatisfied with this position and so chose a different alternative which proved to be worse. 2. In general, the pawn structure transformations which occurred on moves 18-20 do not help White, as the e5-square becomes unavailable and particularly the e5-pawn becomes a target while Black lacks clear weaknesses. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803172/"]
+[Date "????.??.??"]
+[Round "7.26"]
+[White "6) Stonewall"]
+[Black "Aronian vs. Tomashevsky #1"]
+[Result "*"]
+[FEN "r3brk1/1pb1q1pp/p1n1p3/3pNp2/1P1PN3/P3P3/1B2BPPP/2RQ1RK1 b - - 1 18"]
+
+18... fxe4 { Now Black has pressure down the ^f-file, with the f2-pawn being quite vulnerable. } 19. Qb3 ( { Again } 19. f4 { was superior: } exf3 20. Nxf3 Bh5 { The light-squared bishop comes into the game ! } 21. Qd2 Rf7 { With a microscopic advantage for Black. } ) 
+ ( { If } 19. Nxc6 $6 Bxc6 { Black has excellent attacking chances on the kingside, for example } 20. Qd2 Rf6 21. f4 ( { Or } 21. g3 Qf7 $17 { followed by ...Rf8. } ) 
+exf3 22. Rxf3 Rxf3 23. Bxf3 Qh4 24. g3 Qg5 $15 { with the threat of ...h7-h5-h4. } ) 
+Bxe5 20. dxe5 { The e5-pawn is now a permanent weakness. } Qg5 21. Kh1 $6 { It was necessary to prevent Black’s next move. } ( { Better was: } 21. Qd1 $1 { Preventing 21... Bh5, and in a way saving the e5-pawn tactically. } Rf7 { Preparing ...Nxe5. } ( { If } 21. Kh1 Nxe5 $6 { White gains compensation for the pawn after: } 22. Rc7 Rf7 23. Rxf7 Nxf7 24. f4 $5 ) 
+ ( { But } 21. Kh1 Rd8 $5 { allows Black to keep a tiny advantage. } ) 
+22. Bg4 Bd7 23. Bh5 $1 { This curious move is the key. } g6 ( { Or } 23. Kh1 Re7 24. Qg4 $1 { . } ) 
+24. Be2 { White is holding, since } Nxe5 $2 { now fails to: } 25. h4 $1 Qf6 26. Qd4 $18 ) 
+Bh5 { I find it difficult to believe that throughout the past four moves Aronian seems to have been heading in this direction voluntarily. He had a clear chance to equalize with 18. f4, and even 19. f4 was better than this position. Black’s strategy has succeeded in every way. Let’s spell out why: 1. Black does not have to worry about a weak e5-square. Instead, White has a weak e5-pawn to worry about. 2. There is pressure down the ^f-file, thanks to the strong pawn on e4. 3. Black has managed to activate his bad bishop with ...Bd7-e8-h5. 4. White’s bishop on b2 is practically useless at the moment. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803173/"]
+[Date "????.??.??"]
+[Round "7.27"]
+[White "6) Stonewall"]
+[Black "Aronian vs. Tomashevsky #2"]
+[Result "*"]
+[FEN "r3brk1/1p4pp/p1n1p3/3pP1q1/1P2p3/PQ2P3/1B2BPPP/2R2RK1 w - - 2 21"]
+
+21. Qd1 $1 { Preventing 21...Bh5, and in a way saving the e5-pawn tactically. } Rf7 { Preparing ...Nxe5. } ( { If } 21... Nxe5 $6 { White gains compensation for the pawn after: } 22. Rc7 Rf7 23. Rxf7 Nxf7 24. f4 $5 ) 
+ ( { But } 21... Rd8 $5 { allows Black to keep a tiny advantage. } ) 
+22. Bg4 Bd7 23. Bh5 $1 { This curious move is the key. } g6 ( { Or } 23... Re7 24. Qg4 $1 { . } ) 
+24. Be2 ( { White is holding, since } 24. Be2 Nxe5 $2 { now fails to: } 25. h4 $1 Qf6 26. Qd4 $18 ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803174/"]
+[Date "????.??.??"]
+[Round "7.28"]
+[White "6) Stonewall"]
+[Black "Aronian vs. Tomashevsky #3"]
+[Result "*"]
+[FEN "r4rk1/1p4pp/p1n1p3/3pP1qb/1P2p3/PQ2P3/1B2BPPP/2R2R1K w - - 4 22"]
+
+22. Bxh5 Qxh5 23. h3 $2 { This careless move is met by the strong ...Rf3! } Rf3 $1 24. Kh2 Raf8 { Threatening ...Rxh3 followed by ...Rf3 with forced mate. } 25. Qd1 Rxh3+ 26. gxh3 Rf3 27. Qxf3 Qxf3 $19 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803175/"]
+[Date "????.??.??"]
+[Round "7.29"]
+[White "6) Stonewall"]
+[Black "Aronian vs. Tomashevsky #4"]
+[Result "*"]
+[FEN "r4rk1/1p4pp/p1n1p3/3pP1qb/1P2p3/PQ2P3/1B2BPPP/2R2R1K w - - 4 22"]
+
+22. Bxh5 Qxh5 23. h3 $2 Rf3 $1 24. { -KEY- } gxf3 $4 { Now let's see what happens in White takes with the g-pawn. } Qxh3+ 25. Kg1 exf3 $19 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1550903/"]
+[Date "????.??.??"]
+[Round "7.30"]
+[White "6) Stonewall"]
+[Black "Dronavalli Harika vs. Michael Adams"]
+[Result "0-1"]
+
+ { Dronavalli Harika – Michael Adams, Gibraltar 2010 Learning objective: This game is an example of how Black may create central pressure with ...b7-b6 and ...c6-c5. } 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Qc2 b6 9. Rd1 Nbd7 10. Bf4 ( { PH: Not long before this book was published, I had an interesting game against Adams in the same line at the World Cup. The game went } 10. b3 Ba6 11. a4 Ne4 12. Be1 f5 { , achieving the Stonewall structure. After } 13. a5 Bd6 { I played the lazy } 14. e3 { , being a little afraid of Black playing ...f4. However, this was not a threat in this position. } ( 14. Nc3 $1 Qe7 15. Ra2 $1 { ⩲ would keep some advantage, preparing to double on the a-file. } ) 
+Qe7 ( { Adams could have countered my plan of playing on the a-file with } 14. Bf4 b5 $1 { , when } 15. c5 Bc7 16. Nc3 g5 $15 { Black is generating some initiative on the kingside. } ) 
+15. Nc3 ( { Now } 15. Bf1 $1 { would have brought unpleasant tension along the f1-a6 diagonal for Black. } ) 
+Ndf6 16. Ra2 Nxc3 17. Qxc3 c5 18. axb6 axb6 19. Rda1 Bb7 { and here I offered a draw with } 20. Rxa8 { which was accepted. } ) 
+Bb7 11. Nc3 Nh5 12. Bc1 { Planning to redevelop the bishop with b2-b3 followed by Bb2. } f5 { We have reached the position of interest via a well-known theoretical line. Something to note about this position is that, unlike previous examples, Black’s pieces are very well arranged for a ...c6-c5 break. Black’s bishop is already on b7, the rook is coming to the ^c-file, and White is far from controlling the e5-square. Hence, Black has a clear way to find counterplay and make use of his ‘bad’ bishop. } 13. b3 ( { Black has a perfectly solid position after } 13. cxd5 cxd5 14. Bd2 Rc8 15. Rac1 b5 16. Qb3 a6 17. a4 b4 18. Na2 a5 { with a level game. PH: After } a6 { the computer says that White gets an advantage with } 17. e3 { , intending to maneuver the c3-knight to f4: } Nhf6 18. Ne2 { and perhaps now threatening to exchange dark-squared bishops with Bb4. So } Rc4 { and now White insists on this idea with } 19. a3 Ne4 20. Bb4 $14 ) 
+Rc8 14. e3 Bd6 { Black rearranges his pieces for the break ...c6-c5, while always keeping an eye on the e5-square. } ( { The break } 14... c5 $2 { is premature due to the simple } 15. cxd5 exd5 16. Bb2 { threatening dxc5 or Ne5 . Black’s centre is far too vulnerable: } g6 ( 16... c4 $2 { loses to } 17. Ne5 $1 ) 
+17. Qd2 { (preparing dxc5) } cxd4 ( { again } 17... c4 18. Ne5 $1 { ± } ) 
+18. Nxd4 Nc5 19. Nde2 $16 { Winning a healthy pawn after 20.Nxd5 . } ) 
+15. Bb2 Nhf6 { Notice how White cannot easily carry out her typical plans. There is no way to expand the queenside or trade dark-squared bishops. Hence, all that is left is keeping an eye on the e5-square with: } 16. Ne2 Qe7 17. Nf4 ( { If } 17. Ne5 Bxe5 18. dxe5 Ng4 { there is no defence for the e5-pawn, though after } 19. a4 $5 Ngxe5 20. Ba3 Nc5 21. a5 { White should have enough compensation to equalize. PH: I thought at first that after } 19. a4 $5 { Black would be able to block the queenside with } a5 20. Ba3 c5 { , but then after } 21. Nf4 { the pawn on d5 remains hanging - White is also in very good shape here. } ) 
+Rfd8 18. Rac1 Ne4 19. Nd3 $2 ( { PH: The correct move is } 19. Ne5 $1 { - compare with the variation given at White's 17th move. Black's best reply seems to be } c5 20. Nxd7 Rxd7 21. cxd5 Bxf4 { (otherwise Black is left with a weak isolated pawn on d5) } 22. dxe6 Qxe6 23. d5 $1 Bxd5 24. exf4 $14 { and the strong dark-squared bishop spells danger for Black's king. } ) 
+Bb8 { There is no hurry to break in the centre, as White does not have a clear-cut plan to make use of the weak e5-square. } ( { Another option was } 19... c5 $5 20. dxc5 Ndxc5 21. Nde5 Nd7 { with level chances. } ) 
+20. Nfe5 ( { If } 20. c5 bxc5 ( { the waiting move } 20. Nfe5 Qf7 $5 { is interesting too } ) 
+21. Nxc5 Nexc5 22. dxc5 Rf8 23. b4 e5 { yields a complex position with mutual chances. } ) 
+Nxe5 21. Nxe5 ( { PH: I would not have guessed, but this is a considerable strategic mistake. Better was } 21. dxe5 $1 dxc4 22. bxc4 c5 { when Black threatens to infiltrate the light squares around White's king with ...Ng5, so } 23. h4 $1 { , preventing the threat, after which the knight on e4 is a bit stuck. } ) 
+c5 $1 { Black’s pieces are ideally placed for this break, which undermines White’s control of the e5-square. } 22. Qe2 ( { Chances are equal after } 22. cxd5 Bxd5 23. Qe2 cxd4 24. Bxd4 { . } ) 
+cxd4 ( { PH: Even stronger was } 22... Bxe5 $1 23. dxe5 dxc4 $1 24. bxc4 Ng5 $1 { ∓ - compare with the variation 21.dxe5. } ) 
+23. exd4 $6 { Allowing Black to create weaknesses in White’s pawn structure. } ( { Better was } 23. Bxd4 dxc4 24. Nxc4 { with level chances. } ) 
+Bxe5 24. dxe5 dxc4 25. bxc4 ( { Or } 25. Rxc4 Rxd1 26. Qxd1 Rxc4 27. bxc4 h6 $1 { followed by ...Qc5 with a small edge. } ) 
+Qb4 $1 { White’s strategy has proved to be a complete failure, and she must begin to fight for equality since: 1. The e5-square is no longer weak. 2. Black’s light-squared bishop is no longer bad. 3. White’s c4-pawn is a permanent weakness. } 26. Bd4 Rd7 ( { More precise was } 26... h6 $1 { making a bolthole for Black’s king, while keeping the central pressure: } 27. Qc2 Rd7 { White is in trouble since there is no ideal defence against ...Rdc7 or ...Rcd8 . For example: } 28. Qb3 $2 ( { or } 27... Rd7 27. Be3 Rxd1 29. Qxd1 Rxc4 ) 
+Qxb3 29. axb3 Rcd8 $19 ) 
+27. Be3 Rcd8 28. Rxd7 Rxd7 29. Qe1 ( { Black has only a microscopic advantage after } 29. Qc2 h6 30. Qb3 Qe7 { since White’s pawns are somewhat vulnerable. } ) 
+Qa4 30. Qe2 Qa3 { White is under some pressure, and now collapses unexpectedly after: } 31. Bxe4 $2 ( { Better was } 31. Qc2 h6 32. Rb1 Bc6 { when Black has only a tiny edge. } ) 
+Bxe4 $17 { This bad bishop now turns into a powerful attacking piece. } 32. Rd1 $2 { A tactical mistake under pressure. } ( { If } 32. c5 bxc5 33. Rxc5 h6 $5 { threatening ...Qxa2 , and after } 34. f3 Bb1 $17 { White is in trouble. } ) 
+Qxa2 $1 { Black is now winning, due to his attacking chances and material advantage. } 33. Qe1 ( { Obviously not: } 33. Qxa2 $4 Rxd1 ) 
+Rd3 34. Rxd3 Bxd3 35. c5 bxc5 36. Bxc5 Be4 37. Qd1 Bd5 38. f3 a5 39. Be3 Qb3 { The a-pawn is decisive, and later Black won. Final remarks 1. A crucial factor in Black’s choosing to pursue the plan ...c6-c5 was that his pieces were already well arranged for it. Black probably would not have started that plan from scratch had other plans been readily available. 2. It should be noted that it was a good decision for Black to convert the game into a Stonewall on move 12, as White did not have a clear way to execute any of her plans. The e5-square was hardly accessible and it was impossible to expand the queenside. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803176/"]
+[Date "????.??.??"]
+[Round "7.31"]
+[White "6) Stonewall"]
+[Black "Dronavalli vs. Adams #1"]
+[Result "*"]
+[FEN "r2q1rk1/pb1nbppp/1pp1p3/3p3n/2PP4/2N2NP1/PPQ1PPBP/R1BR2K1 b - - 8 12"]
+
+12... f5 { We have reached the position of interest via a well-known theoretical line. Something to note about this position is that, unlike previous examples, Black’s pieces are very well arranged for a ...c6-c5 break. Black’s bishop is already on b7, the rook is coming to the c-file, and White is far from controlling the e5-square. Hence, Black has a clear way to find counterplay and make use of his ‘bad’ bishop. } 13. b3 ( { Black has a perfectly solid position after } 13. cxd5 cxd5 14. Bd2 Rc8 15. Rac1 b5 16. Qb3 a6 17. a4 b4 18. Na2 a5 { with a level game. } ) 
+Rc8 14. e3 Bd6 { Black rearranges his pieces for the break ...c6-c5, while always keeping an eye on the e5-square. } ( { The break } 14... c5 $2 { is premature due to the simple } 15. cxd5 exd5 16. Bb2 { threatening dxc5 or Ne5. Black’s centre is far too vulnerable: } g6 ( 16... c4 $2 { loses to } 17. Ne5 $1 ) 
+17. Qd2 { (preparing dxc5) } cxd4 ( { again } 17... c4 18. Ne5 $1 { ± } ) 
+18. Nxd4 Nc5 19. Nde2 $16 { Winning a healthy pawn after 20. Nxd5. } ) 
+15. Bb2 Nhf6 { Notice how White cannot easily carry out her typical plans. There is no way to expand the queenside or trade dark-squared bishops. Hence, all that is left is keeping an eye on the e5-square. } 16. Ne2 Qe7 17. Nf4 Rfd8 18. Rac1 Ne4 19. Nd3 Bb8 { There is no hurry to break in the centre, as White does not have a clear-cut plan to make use of the weak e5-square. } ( { Another option was } 19... c5 $5 20. dxc5 Ndxc5 21. Nde5 Nd7 { with level chances. } ) 
+20. Nfe5 ( { If } 20. c5 bxc5 ( { The waiting move } 20. Nfe5 Qf7 $5 { is interesting too. } ) 
+21. Nxc5 Nexc5 22. dxc5 Rf8 23. b4 e5 { yields a complex position with mutual chances. } ) 
+Nxe5 21. Nxe5 c5 $1 { Black’s pieces are ideally placed for this break, which undermines White’s control of the e5-square. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803177/"]
+[Date "????.??.??"]
+[Round "7.32"]
+[White "6) Stonewall"]
+[Black "Dronavalli vs. Adams #2"]
+[Result "*"]
+[FEN "2r2rk1/pb1nq1pp/1ppbpn2/3p1p2/2PP4/1P2PNP1/PBQ1NPBP/R2R2K1 w - - 6 17"]
+
+17. Ne5 Bxe5 18. dxe5 Ng4 { There is no defence for the e5-pawn. } 19. a4 $5 Ngxe5 20. Ba3 Nc5 21. a5 { White should have enough compensation to equalize. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803178/"]
+[Date "????.??.??"]
+[Round "7.33"]
+[White "6) Stonewall"]
+[Black "Dronavalli vs. Adams #3"]
+[Result "*"]
+[FEN "2rr2k1/pb2q1pp/1p2p3/4Pp2/2P1n3/6P1/PB2QPBP/2RR2K1 b - - 1 25"]
+
+25... Qb4 $1 { White’s strategy has proved to be a complete failure, and she must begin to fight for equality since: 1. The e5-square is no longer weak. 2. Black’s light-squared bishop is no longer bad. 3. White’s c4-pawn is a permanent weakness. } 26. Bd4 h6 $1 { Making a bolthole for Black’s king, while keeping the central pressure: } 27. Qc2 Rd7 { White is in trouble since there is no ideal defence against ...Rdc7 or ...Rcd8. For example: } 28. Qb3 $2 ( { Or } 28. Be3 Rxd1 29. Qxd1 Rxc4 ) 
+Qxb3 29. axb3 Rcd8 $19 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2803179/"]
+[Date "????.??.??"]
+[Round "7.34"]
+[White "6) Stonewall"]
+[Black "Dronavalli vs. Adams #4"]
+[Result "*"]
+[FEN "6k1/pb1r2pp/1p2p3/4Pp2/2P1B3/q3B1P1/P3QP1P/2R3K1 b - - 1 31"]
+
+31... Bxe4 $17 { This bad bishop now turns into a powerful attacking piece. } 32. Rd1 $2 { A tactical mistake under pressure. } ( { If } 32. c5 bxc5 33. Rxc5 h6 $5 { threatening ...Qxa2, and after } 34. f3 Bb1 $17 { White is in trouble. } ) 
+Qxa2 $1 { Black is now winning, due to his attacking chances and material advantage. } 
+ *

@@ -1,0 +1,212 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12690438/"]
+[Date "????.??.??"]
+[Round "56.1"]
+[White "8.5 Fortresses"]
+[Black "Fortresses"]
+[Result "*"]
+
+ { A 'fortress' could be defined as a defensive set-up which, despite a material deficit and without much need of active defence, prevents the stronger side from making progress. We saw a few attempts at a fortress in Khalifman-Shaposhnikov, Matanovic-Larsen and Goldin-Korzubov, while the next, simple example should also help to illustrate the idea. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676294/"]
+[Date "????.??.??"]
+[Round "56.2"]
+[White "8.5 Fortresses"]
+[Black "Example 492- Larsen- B. vs. Portisch- L.- Porec (8th matchgame) 1968"]
+[Result "1/2-1/2"]
+[FEN "5k2/3b2p1/3K1b2/7p/7P/5QP1/8/8 b - - 0 1"]
+
+ { Two minor pieces rarely compensate for a whole queen, but here we have an exception. } 1... { -KEY- } Bg4 $1 { The fortress is complete - the bishops and the pawns defend themselves mutually, while White's king won't be able to enter the e5-e8-h8-h5 square. Thus mate is not a concern for Black, neither is zugzwang, as he can always move the king. In fact Larsen accepted a draw already in this position. By the way, note that a fortress is more easily arranged when there is play on one flank only. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13892219/"]
+[Date "????.??.??"]
+[Round "56.3"]
+[White "8.5 Fortresses"]
+[Black "Example 493- Psakhis- L. vs. Smyslov- V.- Rostov on Don 1993"]
+[Result "*"]
+[FEN "8/3b1k2/1R4p1/5p2/1P1K1P1P/6n1/8/8 w - - 0 1"]
+
+ { In the endgame, the team of rook and pawn often outperforms two minor pieces, a subject that we touched upon at the end of Chapter Seven. In the above position Black's task is further complicated by the strong passed pawn on b4, supported by White's active pieces. Moreover, the g6-pawn is weak. } 1. { -KEY- } b5 { The most straightforward choice. } ( { In the event of } 1. Ke5 { , Black could reply } Nh5 2. Rb7 Ke8 3. Kd6 Ba4 { and the bishop stays on the a4-e8 diagonal, ready to sacrifice itself for the b-pawn, just like in the game. Attempts to chase it away make no sense; e.g. } 4. Ra7 Bb5 5. Ra5 Bf1 { and the bishop switches to an even longer diagonal. } ) 
+Bxb5 $1 { The most practical, and perhaps only solution. } ( { In contrast, after } 1... Ne4 $6 2. Rb8 { followed by b5-b6, the position remains very unpleasant for Black. If he sends his king to the queenside, he probably loses the g6-pawn, after which the h-pawn turns into a new concern for him. It is not really necessary to investigate whether Black can save a draw here - you will soon see that the kind of static inferiority faced by him in the game is much easier to deal with. } ) 
+2. Rxb5 Kg7 3. Ke5 Nh5 $1 { The idea behind this fortress is simple. The only way for White to make progress is to try to win the g6-pawn. In the process, both his king and rook should attack it, which means that the f4-pawn becomes undefended. The latter fact is exploited by the knight which, in the case of capturing on f4, also protects the g6-pawn. } 4. Rb4 Kh7 5. Ke6 Kg7 6. Ra4 Ng3 ( { At this point, Psakhis continued } 6... Ng3 7. Ra8 { and after } Nh5 8. Ke5 Ng3 { a draw was agreed. } ) 
+ { Let's see a more critical continuation: } 7. Ra7+ Kh6 8. Kf7 Nh5 9. Kg8 { The best try. } ( { Both } 9. Ra8 { and } 9. Ra4 { would be met by } Kh7 { when White hasn't achieved anything. Note that thanks to his spare move with the king, Black never ends up in zugzwang. } ) 
+Nf6+ 10. Kh8 { At this moment, the knight can't move due to the mate on h7, so the king must leave the fortress. Fortunately, the pawns on h4 and f4 are too exposed for White to aspire to anything real. } Kh5 11. Kg7 Nd5 12. Ra4 Ne3 ( { Another solution is } 12... Kxh4 13. Rd4 ( { or } 12... Ne3 12. Kxg6 Kg4 ) 
+Nxf4 $1 14. Rxf4 Kg3 { and the advance of the f-pawn secures the draw. } ) 
+13. Ra6 Nd5 $1 14. Rxg6 Kxh4 15. Rg5 Nxf4 { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676295/"]
+[Date "????.??.??"]
+[Round "56.4"]
+[White "8.5 Fortresses"]
+[Black "Psakhis- L. vs. Smyslov- V.- #1"]
+[Result "*"]
+[FEN "8/3b1k2/1R4p1/5p2/1P1K1P1P/6n1/8/8 w - - 0 1"]
+
+ { In the endgame, the team of rook and pawn often outperforms two minor pieces, a subject that we touched upon at the end of Chapter Seven. In the above position Black's task is further complicated by the strong passed pawn on b4, supported by White's active pieces. Moreover, the g6-pawn is weak. } 1. { -KEY- } b5 { The most straightforward choice. } ( { In the event of } 1. Ke5 { Black could reply } Nh5 2. Rb7 Ke8 3. Kd6 Ba4 { and the bishop stays on the a4-e8 diagonal, ready to sacrifice itself for the b-pawn, just like in the game. Attempts to chase it away make no sense; e.g. } 4. Ra7 Bb5 5. Ra5 Bf1 { and the bishop switches to an even longer diagonal. } ) 
+Bxb5 $1 { The most practical, and perhaps only solution. } ( { In contrast, after } 1... Ne4 $6 2. Rb8 { followed by b5-b6, the position remains very unpleasant for Black. If he sends his king to the queenside, he probably loses the g6-pawn, after which the h-pawn turns into a new concern for him. It is not really necessary to investigate whether Black can save a draw here - you will soon see that the kind of static inferiority faced by him in the game is much easier to deal with. } ) 
+2. Rxb5 Kg7 3. Ke5 Nh5 $1 { The idea behind this fortress is simple. The only way for White to make progress is to try to win the g6-pawn. In the process, both his king and rook should attack it, which means that the f4-pawn becomes undefended. The latter fact is exploited by the knight which, in the case of capturing on f4, also protects the g6-pawn. } 4. Rb4 Kh7 5. Ke6 Kg7 6. Ra4 Ng3 ( { At this point, Psakhis continued } 6... Ng3 7. Ra8 { and after } Nh5 8. Ke5 Ng3 { a draw was agreed. } ) 
+ { Let's see a more critical continuation: } 7. Ra7+ Kh6 8. Kf7 Nh5 9. Kg8 { The best try. } ( { Both } 9. Ra8 { and } 9. Ra4 { would be met by } Kh7 { when White hasn't achieved anything. Note that thanks to his spare move with the king, Black never ends up in zugzwang. } ) 
+Nf6+ 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676319/"]
+[Date "????.??.??"]
+[Round "56.5"]
+[White "8.5 Fortresses"]
+[Black "Psakhis- L. vs. Smyslov- V.- #2"]
+[Result "*"]
+[FEN "6K1/R7/5npk/5p2/5P1P/8/8/8 w - - 0 10"]
+
+10. { -KEY- } Kh8 { At this moment, the knight can't move due to the mate on h7, so the king must leave the fortress. Fortunately, the pawns on h4 and f4 are too exposed for White to aspire to anything real. } Kh5 11. Kg7 Nd5 12. Ra4 Ne3 ( { Another solution is } 12... Kxh4 13. Rd4 ( { or } 12... Ne3 12. Kxg6 Kg4 ) 
+Nxf4 $1 14. Rxf4 Kg3 { and the advance of the f-pawn secures the draw. } ) 
+13. Ra6 Nd5 $1 14. Rxg6 Kxh4 15. Rg5 Nxf4 { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676296/"]
+[Date "????.??.??"]
+[Round "56.6"]
+[White "8.5 Fortresses"]
+[Black "Example 494- Voitsekhovsky- S. vs. Yandemirov- V.- Russian Cup- Sochi 1997"]
+[Result "1-0"]
+[FEN "8/5pk1/3K1p2/1R3Pn1/6Pp/7P/8/8 w - - 0 1"]
+
+ { Two main weapons in the fight against a fortress are zugzwang and sacrifices. We saw good proof of their use in Matanovic-Larsen and Goldin-Korzubov, and here is another one.With precise play White can take this fortress. } 1. { -KEY- } Rb3 Kf8 2. Re3 Nh7 3. Kd7 Ng5 4. Kd8 Kg7 ( { Black has to let the enemy king come closer, since } 4... Nh7 { would just worsen things after } 5. Re8 Kg7 6. Ke7 Ng5 7. Rf8 $1 { (zugzwang) } Nxh3 8. Rxf7 { and White wins - Finkel. } ) 
+5. Ke7 Nh7 6. Ra3 Ng5 7. Rc3 $1 { Losing a tempo. } ( 7. Ra6 $6 Nxh3 8. Rxf6 Ng5 { is less convincing. } ) 
+Nh7 ( { On } 7... Ne4 { there follows the same reply. } ) 
+8. Rc6 { Black is finally in zugzwang. } Ng5 ( { Or } 8... Kg8 9. Rxf6 $1 Nxf6 10. Kxf6 { with an easy win. } ) 
+9. Rxf6 Nxh3 10. Rxf7+ Kh6 11. Rf6+ Kh7 12. Rg6 Nf4 13. Kf7 $1 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676297/"]
+[Date "????.??.??"]
+[Round "56.7"]
+[White "8.5 Fortresses"]
+[Black "Example 495- Egin- V. vs. Hellsten- J.- Calvia Olympiad 2004"]
+[Result "1/2-1/2"]
+[FEN "8/p4pbk/4p1p1/1p2P2p/1P6/P1q2P2/4QPKP/4R3 b - - 0 1"]
+
+ { In Psakhis-Smyslov we saw the creation of a fortress as a good defensive option in practice; here are two further examples on this theme.Black is a whole exchange down, but White's bad kingside structure provides some slight compensation. Around this point I started working on a fortress, convinced that it was the best defensive idea available. } 1... { -KEY- } a5 $1 { To have any chance of salvation Black needs to swap the queenside pawns, thus reducing the number of possible targets in his camp, or enemy fronts, if you prefer. With the battle limited to a single flank and just one weak pawn on f7, the fortress will be more viable. } 2. bxa5 Qxa5 3. Rb1 ( { White couldn't prevent the second exchange of pawns; e.g. } 3. Qe3 b4 $1 ) 
+Qxa3 4. Rxb5 Qc1 5. Qe3 Qc6 ( { a) Of course not } 5... Qxe3 $2 6. fxe3 { and White's pawn structure has been considerably improved, after which the plan of f3-f4, e3-e4 and f4-f5 in order to split the black pawns, should suffice for victory. } ) 
+ ( { b) Correct was } 5... Bh6 $1 6. Qxc1 { else 6... Qg5+ is annoying for White. } Bxc1 { . We will reach a similar position later on in the game, but with the white h-pawn on h4. Here that pawn is not exposed to the bishop, so White's winning chances could be rated as somewhat higher, for example in connection with the f4-f5 breakthrough. Even so, Black should have settled for this endgame, in order to avoid White's attacking possibilities on move 7 in the game. } ) 
+6. Ra5 { Heading for the seventh rank. } Bh6 $2 ( { A tactical mistake on this occasion. More tenacious was } 6... Qc2 7. Qf4 Qf5 ( { The desirable } 7... Qc7 { runs into } 8. Qa4 $1 { followed by a timely Ra7. } ) 
+8. Qxf5 gxf5 { . Although this fortress can probably be taken if White plays f3-f4 and places the rook on the 4th rank, and finally invades with the king. Contrary to the game, here Black's bishop can't attack the h-pawn. } ) 
+7. Qd4 $2 ( { In time-trouble both players missed } 7. Qa7 Kg7 8. Qe7 $1 { when the dual threats of 9.Ra7 and 9.Qf6+ cannot be parried properly; e.g. } Qc8 9. Ra7 Qf8 10. Qxe6 { with an easy win. } ) 
+Qc1 8. h4 $6 { Egin aims at preventing an annoying queen check on g5, but from now on the h4-pawn turns into a target for the bishop. } ( { Nevertheless, it was not obvious how to make progress with White; e.g. } 8. Qd8 Qf4 9. Ra8 Bg7 { and Black holds. } ) 
+Qf4 $1 { Supposedly we shouldn't exchange pieces when behind in material, but I am confident about my fortress idea. } 9. Ra4 ( { If } 9. Qe4 Kg7 10. Ra7 { then } g5 $5 { and Black should be okay; e.g. } 11. Qxf4 ( { after } 11. hxg5 $6 Qxg5 { the black queen is quite annoying; } ) 
+gxf4 12. Kh3 ( { or } 12. Kf1 Kg6 13. Ke2 Bg7 14. Ra5 Kf5 { etc. } ) 
+Kg6 13. Ra1 Bg7 14. Rg1 Kh6 { when neither } 15. Rg5 ( { nor } 15. Re1 Kg6 ) 
+Bf8 { leads anywhere. } ) 
+Qxd4 10. Rxd4 { In this endgame White has two main ideas: a) place the rook on the seventh rank and transfer the king to e8 so as to attack the f7-pawn; b) sacrifice a pawn with f3-f4-f5 in order to weaken the h5-pawn (in the event of ...g6xf5) or enable an invasion with the king by Kd5 and e5-e6 (if Black replies ...e6xf5). } Bf8 { It is time to use the bishop for interfering purposes. } 11. Rd7 Kg7 12. Kg3 Bc5 13. f4 ( { If } 13. Rd8 { denying the bishop the h4-d8 diagonal, Black could reply } Be7 14. Re8 Bc5 15. f4 Bb6 { when White can't easily activate his king without dropping a pawn; e.g. } 16. Kf3 Bc5 17. Ke2 Bb6 18. f3 Bc5 19. Kd3 Bf2 { while if the rook leaves e8, then the bishop can return to e7. } ) 
+Kf8 14. Rb7 Ke8 15. f3 Be7 { The bishop's preferred diagonal, where it hits the most valuable of the enemy pawns. } ( { In contrast, after } 15... Bf8 $6 16. Rb8 Ke7 17. Kf2 Bh6 { White could try } 18. Ke3 Bg7 19. Ke4 Bh6 20. Ra8 Bg7 21. f5 $1 { in accordance with plan 'b' outlined above; e.g. } gxf5 ( { or } 21... exf5 22. Kd5 { preparing Ra7+ and e5-e6 } ) 
+22. Kd4 { and the h5-pawn is in trouble. } ) 
+16. Kh3 Bd8 17. Ra7 Be7 18. Kg3 Bd8 19. Ra4 Be7 20. Rd4 Bd8 21. Rd1 Be7 22. Rh1 Bc5 { Simplest, in order to restrict the enemy king. } 23. Rc1 ( { If } 23. Kg2 { then } Be3 $1 ) 
+Be7 24. Rc4 Bd8 25. Kg2 Be7 ( { Of course not } 25... Bxh4 $2 26. f5 -- { followed by } 27. f6 { , and the f7-pawn becomes a problem. } ) 
+26. Kg3 ( { More critical was } 26. Kf1 { trying to activate the king. I was planning to reply } f5 $5 { in order to win the h4-pawn, although after } 27. exf6 Bxf6 28. Re4 $1 Kf7 29. Ke2 { a waiting game with } Be7 { is preferable ; e. g. } ( { Black should avoid } 29. Kg3 Bxh4 $2 30. f5 { when White obtains a strong passed pawn } ) 
+30. Kd3 Bf6 31. Kc4 Be7 32. Kb5 Kf6 $1 { (heading for f5) } 33. Re5 Bd6 ( { or } 33. Kg3 Kf7 { and a draw is inevitable. } ) 
+ ) 
+Bd8 27. Ra4 Be7 28. Ra8+ Kd7 29. Ra7+ Ke8 30. Rb7 Bd8 31. Rb8 ( { In the event of } 31. f5 { the simplest reply is } exf5 { when } 32. e6 $6 fxe6 33. Rg7 Bf6 34. Rxg6 $4 Kf7 35. Rh6 Kg7 36. Rxh5 Kg6 { ends in disaster for White. In any case, it is evident that the f4-f5 advance becomes less powerful when the white king is not actively placed. } ) 
+Kd7 32. Ra8 Be7 33. Ra1 Ke8 34. Rh1 Bc5 35. Rh2 Bb6 36. Rh1 Bc5 37. Kg2 Be3 38. Kg3 Bc5 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/57590856/"]
+[Date "????.??.??"]
+[Round "56.8"]
+[White "8.5 Fortresses"]
+[Black "Egin- V. vs. Hellsten- J.- #1"]
+[Result "1/2-1/2"]
+[FEN "8/p4pbk/4p1p1/1p2P2p/1P6/P1q2P2/4QPKP/4R3 b - - 0 1"]
+
+ { In Psakhis-Smyslov we saw the creation of a fortress as a good defensive option in practice; here are two further examples on this theme.Black is a whole exchange down, but White's bad kingside structure provides some slight compensation. Around this point I started working on a fortress, convinced that it was the best defensive idea available. } 1... { -KEY- } a5 $1 { To have any chance of salvation Black needs to swap the queenside pawns, thus reducing the number of possible targets in his camp, or enemy fronts, if you prefer. With the battle limited to a single flank and just one weak pawn on f7, the fortress will be more viable. } 2. bxa5 Qxa5 3. Rb1 ( { White couldn't prevent the second exchange of pawns; e.g. } 3. Qe3 b4 $1 ) 
+Qxa3 4. Rxb5 Qc1 5. Qe3 Bh6 $1 { The correct reaction. } ( { a) Of course not } 5... Qxe3 $2 6. fxe3 { and White's pawn structure has been considerably improved, after which the plan of f3-f4, e3-e4 and f4-f5 in order to split the black pawns, should suffice for victory. } ) 
+ ( { b) } 5... Qc6 6. Ra5 { , heading for the seventh rank. } Qc2 { (The game instead saw } Bh6 $2 { when White had a strong option in } 7. Qa7 Kg7 8. Qe7 $1 { with dual threats on a7 and f6.) } 7. Qf4 Qf5 ( { The desirable } 7... Qc7 { runs into } 8. Qa4 $1 { followed by a timely Ra7. } ) 
+8. Qxf5 gxf5 { , Black's defense would have been more tenacious; although this fortress can probably be taken if White plays f3-f4 and places the rook on the 4th rank, and finally invades with the king. Contrary to the game, here Black's bishop can't attack the h-pawn. } ) 
+6. Qxc1 { Else ...Qg5+ is annoying for White. } Bxc1 { We will reach a similar position later on in the game, but with the white h-pawn on h4. Here, that pawn is not exposed to the bishop, so White's winning chances could be rated as somewhat higher, for example, in connection with the f4-f5 breakthrough. Even so, Black should have settled for this endgame in order to avoid White's attacking possibilities on move 7 in the game. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13892220/"]
+[Date "????.??.??"]
+[Round "56.9"]
+[White "8.5 Fortresses"]
+[Black "Egin- V. vs. Hellsten- J.- #2"]
+[Result "1/2-1/2"]
+[FEN "8/5p1k/4p1pb/R3P2p/3Q4/5P2/5PKP/2q5 w - - 0 8"]
+
+8. { -KEY- } h4 $6 { Egin aims at preventing an annoying queen check on g5, but from now on the h4-pawn turns into a target for the bishop. } ( { Nevertheless, it was not obvious how to make progress with White; e.g. } 8. Qd8 Qf4 9. Ra8 Bg7 { and Black holds. } ) 
+Qf4 $1 { Supposedly we shouldn't exchange pieces when behind in material, but I am confident about my fortress idea. } 9. Ra4 ( { If } 9. Qe4 Kg7 10. Ra7 { then } g5 $5 { and Black should be okay; e.g. } 11. Qxf4 ( { after } 11. hxg5 $6 Qxg5 { the black queen is quite annoying; } ) 
+gxf4 12. Kh3 ( { or } 12. Kf1 Kg6 13. Ke2 Bg7 14. Ra5 Kf5 { etc. } ) 
+Kg6 13. Ra1 Bg7 14. Rg1 Kh6 { when neither } 15. Rg5 ( { nor } 15. Re1 Kg6 ) 
+Bf8 { leads anywhere. } ) 
+Qxd4 10. Rxd4 { In this endgame White has two main ideas: a) place the rook on the seventh rank and transfer the king to e8 so as to attack the f7-pawn; b) sacrifice a pawn with f3-f4-f5 in order to weaken the h5-pawn (in the event of ...g6xf5) or enable an invasion with the king by Kd5 and e5-e6 (if Black replies ...e6xf5). } Bf8 { It is time to use the bishop for interfering purposes. } 11. Rd7 Kg7 12. Kg3 Bc5 13. f4 ( { If } 13. Rd8 { , denying the bishop the h4-d8 diagonal, Black could reply } Be7 14. Re8 Bc5 15. f4 Bb6 { when White can't easily activate his king without dropping a pawn; e.g. } 16. Kf3 Bc5 17. Ke2 Bb6 18. f3 Bc5 19. Kd3 Bf2 { while if the rook leaves e8, then the bishop can return to e7. } ) 
+Kf8 14. Rb7 Ke8 ( 14... Bd4 $5 { keeping an eye on the f2-pawn is also possible, as observed by UltraSuperBrainPower. If White later plays f2-f3 and moves away the king from the kingside, then ...Bf2 targeting h4 becomes possible. } ) 
+15. f3 Be7 { The bishop's preferred diagonal, where it hits the most valuable of the enemy pawns. } ( { In contrast, after } 15... Bf8 $6 16. Rb8 Ke7 17. Kf2 Bh6 { White could try } 18. Ke3 Bg7 19. Ke4 Bh6 20. Ra8 Bg7 21. f5 $1 { in accordance with plan 'b' outlined above; e.g. } gxf5 ( { or } 21... exf5 22. Kd5 { preparing Ra7+ and e5-e6; } ) 
+22. Kd4 { and the h5-pawn is in trouble. } ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13892221/"]
+[Date "????.??.??"]
+[Round "56.10"]
+[White "8.5 Fortresses"]
+[Black "Example 496- Sokolov- A. vs. Vaganian- R.- Minsk (6th matchgame) 1986"]
+[Result "1/2-1/2"]
+[FEN "4k3/5p2/1Rn3p1/8/1p2PP2/3pN1P1/2r3P1/6K1 w - - 0 1"]
+
+ ( { White's position seems difficult in view of Black's advanced passed pawns. The immediate threat is } 1... d2 { , followed by } 2. -- Kd7 { , liberating the rook from the defence of the knight. Then ideas like ...Rc1+ and ...d1Q would be in the air. } ) 
+1. { -KEY- } Nxc2 $1 { At first sight this looks like a miscalculation, but it is actually White's best option. } ( { The natural } 1. Kf1 $6 { could be met by } Kd7 2. Rb5 Kc7 3. Nd5 Kd6 4. e5 ( { or } 4. Nxb4 $2 Nxb4 5. Rxb4 Rc1 6. Kf2 Kc5 { and the threat of 7...d2 can't be parried; e.g. } 7. Rb2 Rc2 ) 
+Ke6 5. Ne3 Re2 { and White remains in difficulties. } ) 
+dxc2 2. Rxc6 b3 { Evidently, one of the passed pawns will soon queen. But the fact that the further battle will be reduced to one single flank, alongside the secure location of White's king, protecting (and protected by!) his fellow pawns, makes the thought of a fortress quite realistic. Incidentally, there exist many fortresses within queen vs. rook and pawn(s) endgames - for example, Kg1, Rg3 and Pf2 vs. Kf6 and Qe5 is a draw. } 3. Kh2 b2 { The further course of the game will show us that, once White freezes the pawn structure by e4-e5, his defensive task is made easier. } ( { Thus } 3... f6 $5 { was an interesting alternative, upon which White should probably reply } 4. e5 $1 { anyway, getting rid of a future weakness. There could follow } fxe5 ( { after } 4... f5 $6 5. Rc3 b2 6. Rxc2 b1=Q $11 7. Rf2 Kf7 8. Rf3 { we have reached the first of several fortresses within this example, one that Black is unlikely to destroy, e.g. } g5 9. fxg5 Kg6 10. Rf4 Qe1 11. Rh4 Qxe5 12. Rf4 Kxg5 13. Rh4 { and the rook keeps alternating between f4 and h4; } ) 
+ ( { while the fortress arising after } 4... b2 5. Rxc2 b1=Q $11 6. Re2 { seems just as resistant, e.g. } Qd3 7. Re1 Qd2 8. Re4 Kf7 9. exf6 Kxf6 10. Re5 { and this time the rook alternates between g5 and e5; } ) 
+5. fxe5 Kd7 6. Rc3 Ke6 ( { or } 6... b2 7. Rxc2 b1=Q $11 8. Rf2 $1 { with similar play; } ) 
+7. Rxb3 c1=Q $11 { In order for White's fortress to work, he must deploy his rook in such a way that Black won't be able to approach the white g-pawns with his king, nor create zugzwang. For this purpose it makes sense to use the f-file: } 8. Rf3 $1 Kxe5 9. Rf4 g5 { (otherwise the rook keeps alternating between f3 and f4) } 10. Rf3 Ke4 11. Rf7 ( 10... b2 10. Rb3 { seems just as possible; e.g. } Qd1 12. Rf3 Qd2 13. Ra3 g4 14. Ra4 { followed by Rf4; } ) 
+Ke3 12. Rf3 Ke2 13. Rf7 Qc5 14. Rf3 Qe7 ( { here and later, } 14... g4 15. Rf4 { when the safe square on f3 is replaced with f4; } ) 
+15. Kg1 $1 Qa7 16. Kh2 { and as far as I can see, Black is unable to progress. By the way, note that White's extra pawn rules out a queen sacrifice for the rook; e.g. 9...Qxf4! would have been winning were it not for the g2-pawn. } ) 
+4. Rc8+ $1 { By driving the enemy king away, Sokolov facilitates the e4-e5 advance, something that will be more evident on move 7. } ( { Less accurate is } 4. Rxc2 $6 b1=Q $11 5. Re2 ( { or } 5. Rc4 Qb5 ) 
+Qd3 6. Re1 Ke7 { and Black should win - Vaganian. } ) 
+Ke7 ( { After } 4... Kd7 { , Black's king is exposed to a vertical check, which yields White the necessary tempo to realize e4-e5; i.e. } 5. Rxc2 b1=Q $11 6. Rd2 $1 { followed by 7.e5 and the fortress is complete - Vaganian. } ) 
+5. Rc7+ Kf8 ( { Or } 5... Kf6 6. Rxc2 b1=Q $11 7. e5 Kf5 8. Rf2 { with the same fortress that later emerges in the game. } ) 
+6. Rxc2 b1=Q 7. Rc8+ $1 { With Black unable to reply 7...Kd7, White wins a tempo for the realization of e4-e5. } Ke7 8. e5 Qd3 9. Rc6 { Temporarily restricting the enemy king. } ( 9. Ra8 { was possible too, heading for the f-file; e.g. } Ke6 10. Ra2 Qe3 { (preventing Rf2-f3) } 11. Ra1 Qe2 12. Ra3 $1 -- { followed by } 13. Rf3 ) 
+Qe3 10. Ra6 { Sokolov performs the rook transfer mentioned in the previous note. } Qc5 11. Ra1 Ke6 12. Rf1 Kd5 13. Rf3 { The defensive plan that was initialized by the first diagram is finally complete. White's next task is to maintain the fortress. } Kc4 14. Kh1 Qd4 15. Kh2 Qd1 16. Rf2 Kd4 17. Rf3 Ke4 18. Rc3 ( { a) Another option is } 18. Rf2 Ke3 19. Rf3 Ke2 20. Rc3 { when the rook has a sufficient number of squares on the third rank. If Black's king moves to f2 or f1, it will be expelled by Rf3+. } ) 
+ ( { b) In contrast, } 18. Ra3 $6 { runs into } f6 $1 { complicating White's defence, now that } 19. exf6 $2 { fails to } Qh5 20. Kg1 Qc5 { - Vaganian. } ) 
+Kf5 19. Rf3 { The remainder of the game isn't very thrilling - Sokolov maintains the fortress by king moves or, when necessary, by rook moves in the proximity of the f3-square. } Qd8 20. Kg1 Qd5 21. Kh2 Kg4 ( { On } 21... g5 { , White replies } 22. fxg5 $1 Kxg5 23. Rf4 Qxe5 24. Rh4 { followed by Rf4-h4, a kind of fortress that we already came across in the 3...f6!? subline. } ) 
+22. Rc3 Qd4 23. Rf3 Kf5 24. Kh1 f6 25. exf6 Qxf6 26. Kh2 Qh8+ 27. Kg1 Ke4 28. Rb3 $1 ( { Not } 28. Kf2 $2 Qd4 29. Kf1 Kf5 { and the fortress has been destroyed; e.g. } 30. Ke2 Qg1 ) 
+Qh5 29. Rf3 Qf5 30. Kh2 Kd4 31. Kg1 Qc5 32. Kh2 Qh5+ 33. Kg1 Kc4 34. Rf1 $1 ( { Sokolov obviously avoids } 34. Rf2 $2 Qc5 $1 35. Kf1 Qe3 36. Rf3 Qc1 37. Kf2 Kd4 { and, just like in the previous note, the bad position of White's king means that the fortress is no longer viable. } ) 
+Qc5+ 35. Kh2 Kd3 36. Rf3+ Ke2 37. Kh1 Qc1+ 38. Kh2 Qb1 39. Rc3 { The rook has at least one safe square at its disposal, so a draw was agreed. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676298/"]
+[Date "????.??.??"]
+[Round "56.11"]
+[White "8.5 Fortresses"]
+[Black "Sokolov- A. vs. Vaganian- R.- #1"]
+[Result "1/2-1/2"]
+[FEN "4k3/5p2/1Rn3p1/8/1p2PP2/3pN1P1/2r3P1/6K1 w - - 0 1"]
+
+ ( { White's position seems difficult in view of Black's advanced passed pawns. The immediate threat is } 1. Rc3 d2 { , followed by } 2. -- Kd7 { , liberating the rook from the defence of the knight. Then ideas like ...Rc1+ and ...d1Q would be in the air. } ) 
+1. { -KEY- } Nxc2 $1 { At first sight this looks like a miscalculation, but it is actually White's best option. } ( { The natural } 1. Kf1 $6 { could be met by } Kd7 2. Rb5 Kc7 3. Nd5 Kd6 4. e5 ( { or } 4. Nxb4 $2 Nxb4 5. Rxb4 Rc1 6. Kf2 Kc5 { and the threat of 7...d2 can't be parried; e.g. } 7. Rb2 Rc2 ) 
+Ke6 5. Ne3 Re2 { and White remains in difficulties. } ) 
+dxc2 2. Rxc6 b3 { Evidently, one of the passed pawns will soon queen. But the fact that the further battle will be reduced to one single flank, alongside the secure location of White's king, protecting (and protected by!) his fellow pawns, makes the thought of a fortress quite realistic. Incidentally, there exist many fortresses within queen vs. rook and pawn(s) endgames - for example, Kg1, Rg3 and Pf2 vs. Kf6 and Qe5 is a draw. } 3. Kh2 b2 { The further course of the game will show us that, once White freezes the pawn structure by e4-e5, his defensive task is made easier. } ( { Thus } 3... f6 $5 { was an interesting alternative, upon which White should probably reply } 4. e5 $1 { anyway, getting rid of a future weakness. There could follow } fxe5 ( { after } 4... f5 $6 5. Rc3 b2 6. Rxc2 b1=Q $11 7. Rf2 Kf7 8. Rf3 { we have reached the first of several fortresses within this example, one that Black is unlikely to destroy, e.g. } g5 9. fxg5 Kg6 10. Rf4 Qe1 11. Rh4 Qxe5 12. Rf4 Kxg5 13. Rh4 { and the rook keeps alternating between f4 and h4; } ) 
+ ( { while the fortress arising after } 4... b2 5. Rxc2 b1=Q $11 6. Re2 { seems just as resistant, e.g. } Qd3 7. Re1 Qd2 8. Re4 Kf7 9. exf6 Kxf6 10. Re5 { and this time the rook alternates between g5 and e5; } ) 
+5. fxe5 Kd7 6. Rc3 Ke6 ( { or } 6... b2 7. Rxc2 b1=Q $11 8. Rf2 $1 { with similar play; } ) 
+7. Rxb3 c1=Q $11 { In order for White's fortress to work, he must deploy his rook in such a way that Black won't be able to approach the white g-pawns with his king, nor create zugzwang. For this purpose it makes sense to use the f-file: } 8. Rf3 $1 Kxe5 9. Rf4 g5 { (otherwise the rook keeps alternating between f3 and f4) } 10. Rf3 Ke4 11. Rf7 ( 10... b2 10. Rb3 { seems just as possible; e.g. } Qd1 12. Rf3 Qd2 13. Ra3 g4 14. Ra4 { followed by Rf4; } ) 
+Ke3 12. Rf3 Ke2 13. Rf7 Qc5 14. Rf3 Qe7 ( { here and later, } 14... g4 15. Rf4 { when the safe square on f3 is replaced with f4; } ) 
+15. Kg1 $1 Qa7 16. Kh2 { and as far as I can see, Black is unable to progress. By the way, note that White's extra pawn rules out a queen sacrifice for the rook; e.g. 9...Qxf4! would have been winning were it not for the g2-pawn. } ) 
+4. Rc8+ $1 { By driving the enemy king away, Sokolov facilitates the e4-e5 advance, something that will be more evident on move 7. } ( { Less accurate is } 4. Rxc2 $6 b1=Q $11 5. Re2 ( { or } 5. Rc4 Qb5 ) 
+Qd3 6. Re1 Ke7 { and Black should win - Vaganian. } ) 
+Ke7 ( { After } 4... Kd7 { Black's king is exposed to a vertical check, which yields White the necessary tempo to realize e4-e5; i.e. } 5. Rxc2 b1=Q $11 6. Rd2 $1 { followed by 7 e5 and the fortress is complete - Vaganian. } ) 
+5. Rc7+ Kf8 ( { Or } 5... Kf6 6. Rxc2 b1=Q $11 7. e5 Kf5 8. Rf2 { with the same fortress that later emerges in the game. } ) 
+6. Rxc2 b1=Q 7. Rc8+ $1 { With Black unable to reply 7...Kd7, White wins a tempo for the realization of e4-e5. } Ke7 8. e5 Qd3 9. Rc6 { Temporarily restricting the enemy king. } ( 9. Ra8 { was possible too, heading for the f-file; e.g. } Ke6 10. Ra2 Qe3 { (preventing Rf2-f3) } 11. Ra1 Qe2 12. Ra3 $1 { followed by 13.Rf3. } ) 
+Qe3 10. Ra6 { Sokolov performs the rook transfer mentioned in the previous note. } Qc5 11. Ra1 Ke6 12. Rf1 Kd5 13. Rf3 { The defensive plan that was initialized by the first diagram is finally complete. White's next task is to maintain the fortress. } 
+ 1/2-1/2

@@ -1,0 +1,912 @@
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1224933/"]
+[Date "????.??.??"]
+[Round "12.1"]
+[White "11) The Maroczy"]
+[Black "Introduction"]
+[Result "*"]
+[FEN "4k3/pp2pp1p/3p2p1/8/2P1P3/8/PP3PPP/4K3 w - - 0 1"]
+
+ { The Maroczy The Maroczy structure we study in this chapter bears a great similarity with the Hedgehog from the previous chapter. In fact, some sources may call that chapter's structure Maroczy as well, simply because White has placed his pawns on c4 and e4. In this book, I decided to give a separate treatment to these two structures because I consider they are sufficiently different. The difference is in how Black develops his dark-squared bishop. In the Hedgehog chapter, Black's bishop was always developed on e7, hence ...e7-e6 had been played. Here instead we study those positions where Black fianchettoes his bishop on g7. Most importantly, Black's e-pawn often remains on e7. This fact has the following consequences: 1. White can place a knight on d5, which can lead to a major structural transformation if Black trades the knight. 2. The central break ...d6-d5 is no longer a main theme here. 3. Black can trade pieces without worrying about the d6-pawn becoming vulnerable, as happened in the game Eljanov - Jakovenko from the previous chapter. The structure we study in this chapter is typical of the Accelerated Dragon, but it can also arise as a transposition from the English Opening or some lines that start out as a King's Indian. It can also occur with reversed colours if White plays the English Opening, allowing Black to reply ...d5 and later ...c5. Most examples in this chapter will come from the Accelerated Dragon because it is the most common source of Maroczy games. Nevertheless, the ideas transfer easily to the other lines. The main theme of the Maroczy is White's spatial advantage, which means Black will often attempt to trade pieces and later fight on in the endgame phase. White's plans 1. Gain space with a queenside expansion, place a knight on d5, and/or expand on the kingside with f2-f4. 2. After f2-f4 has been played, place rooks on the central files and break with either e4-e5 or f4-f5. 3. Place a knight on d5 and wait for Black to capture on d5. Once this happens, White can transform the structure favourably with either exd5 or cxd5. Each of these replies is studied at the beginning of this chapter. Black's plans 1. Trade pieces to alleviate the space problem. 2. Break on the queenside with ...b6-b5 and after c4xb5 and ...a6xb5 then apply pressure along the a-file. 3. Break on the kingside with ...f7-f5 and later create an attack against White's king. 4. Pressure White's queenside pawns with ...Qb6-b4, and when White plays b2-b3, then ...a7-a5-a4xb3. 5. On rare occasions play ...e7-e6 and later ...d6-d5, though this plan is more typical of the Hedgehog. Out of the plans mentioned above, it should be said that White's first three plans are more or less equally common, while Black's first three plans are the most common for him. Black's fifth plan is almost never carried out in games which originate from the Accelerated Dragon variation. } 1. -- 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1229829/"]
+[Date "????.??.??"]
+[Round "12.2"]
+[White "11) The Maroczy"]
+[Black "Symmetric Transformation"]
+[Result "*"]
+[FEN "4k3/pp2pp1p/3p2p1/3P4/4P3/8/PP3PPP/4K3 w - - 0 1"]
+
+ { Symmetric Transformation When White places a knight on d5 and Black captures it, White's recapture changes the character of the game dramatically. The first four examples of this chapter discuss White's cxd5 recapture. The next two are examples of the recapture exd5. Then we have two examples of Black's ...f7-f5 break, one example of the ...b7-b5 break, and the chapter concludes with one example exploring White's f4-f5 and e4-e5 breaks. This structure most typically occurs when we have a Maroczy structure and White places a knight on d5. Once Black captures this knight then White recaptures cxd5. We will call this the symmetric transformation of the Maroczy. The main theme in this structure is White's spatial advantage. As the reader will notice, there are no natural breaks in this position. Black could attempt to challenge White's centre with ...e7-e6 or ...f7-f5, but these breaks mostly weaken Black's camp and can eventually backfire. For this reason, it is easy for Black to run out of useful moves and fall into an inferior position where White expands to ultimately obtain a winning position. Now, let's discuss specific plans for each side. White's plans 1. Control the c-file and use it for a seventh rank invasion if this is possible. 2. Avoid excessive exchanges in order to make use of the spatial advantage. 3. Further expand on the queenside and kingside, squeeze Black's forces and then find a decisive break. Black's plans 1. Trade pieces to decrease the space problem. 2. Take possession of the open c-file, and if possible invade the seventh rank with ...Rc2. 3. If White has played b2-b3, then ...a7-a5-a4xb3 can be useful to open another file for counterplay. 4. If the position is already simplified, and White threatens to gain space with flank expansions, then challenge White's centre with ...e7-e6 to create a distraction. This plan can backfire due to the weaknesses created, but they should not be too serious if the queens are already off the board. As the reader will notice, White's plans of action are far more dangerous than Black's, and this is all a consequence of White's spatial advantage. Black must be careful and understand this structure can lead to a passive position. The first three examples are illustrations of White's first three plans all combined together to yield very convincing wins. In each of these three examples I will put forward suggestions to avoid losing passively in the way Black lost. Then, the fourth example is a fragment of a game to illustrate one of Black's thematic tricks to find counterplay. } 1. -- 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551516/"]
+[Date "????.??.??"]
+[Round "12.3"]
+[White "11) The Maroczy"]
+[Black "Lev Polugaevsky vs. Borislav Ivkov"]
+[Result "1-0"]
+
+ { Lev Polugaevsky – Borislav Ivkov, Belgrade 1969 This game is a classical illustration of White’s ability to asphyxiate Black’s forces after a symmetric transformation. } 1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Nxd4 6. Qxd4 g6 7. e4 d6 8. Be3 Bg7 9. f3 O-O 10. Qd2 Be6 11. Rc1 Qa5 { We have transposed from an English Opening into a popular variation of the Accelerated Dragon. } 12. Nd5 { This move has fallen out of fashion since 12...Qxa2 offers good chances to Black. } ( { Nowadays } 12. b3 { is preferred (and we will see this move in the next example) or } 12. Be2 Rfc8 13. b3 { . } ) 
+Qxd2+ $6 { Heading towards an inferior endgame. } ( { Instead correct was: } 12... Qxa2 13. Nxe7 Kh8 14. Be2 Ng8 $5 ) 
+13. Kxd2 Bxd5 ( 13... Nxd5 $6 { is not good due to 14. cxd5; Black is in trouble after 14...Bc8 } ( { or } 14... Bd7 { 15.Rc7± } ) 
+15. b3 { e6 16.Bd3 followed by Rc7 . } ) 
+ ( { A good option was } 13... Rae8 { and after the semi-forced line } 14. Bxa7 Bxd5 15. cxd5 Ra8 16. Be3 Rxa2 17. Rc2 Nd7 { White preserves a small advantage, but Black has more counterplay than he did in the game. } ) 
+14. cxd5 { We have reached the structure of interest. The c-file is open and for the moment there are no natural breaks to execute. This position has occurred 27 times on my database, and White has scored an amazing 80%. } Rfc8 15. Be2 $5 { ⩲ A simple approach. White has a stable advantage due to his space and pair of bishops. His plan is to expand everywhere on the board and to eventually asphyxiate Black. The lack of targets, or natural structural breaks, prevents Black from creating counterplay. } ( { Much more common is } 15. Rxc8 Rxc8 16. g3 $1 { to follow up with Bh3 , when Black loses control of the c-file. For example: } Nd7 ( 16. Be2 a6 $2 { loses to } 17. Bh3 Rc7 ( { or } 17. Be2 Rd8 18. Rc1 ) 
+18. Rc1 $1 Rxc1 19. Kxc1 { followed by Bc8 } ) 
+17. Bh3 Rc7 18. Bxd7 Rxd7 19. b3 a6 20. Rc1 $16 { White gains control of the c-file. } ) 
+a6 { This is necessary sooner or later, to defend the a7-pawn, but now the b6-square is weak. } ( 15... b6 $2 16. Ba6 $16 { loses the c-file. } ) 
+16. b4 { Beginning the queenside expansion. } Kf8 ( { Black cannot fight for queenside space with } 16... b5 $2 { as it weakens the a6-b5 chain, and after } 17. Rxc8 Rxc8 18. Rc1 Rxc1 19. Kxc1 $16 { White is almost winning due to the threat of a2-a4. } ) 
+ ( { The break } 16... e6 17. dxe6 fxe6 { weakens Black’s position, but secures some space and after } 18. a4 $6 ( { instead White should play: } 17... Kf8 17. Kd3 $1 Nd7 19. f4 $14 ) 
+Kf7 19. a5 d5 $5 { Black has some counterplay. } ) 
+17. a4 Nd7 18. a5 { Now the a6- and b7-pawns are fixed and represent potential weaknesses in the long term. } Bb2 19. Rc2 Rxc2+ 20. Kxc2 Bg7 21. Kb3 Rc8 22. Bd2 $1 { Black cannot use the c-file. } ( { Note how White refrains from } 22. Rc1 $6 Rxc1 23. Bxc1 { in order to keep more pieces on the board. } ) 
+Bd4 23. g4 $6 { Now White will claim space on the kingside. } Kg7 $6 { Black’s waiting strategy is a big mistake. } ( { Again } 23... e6 { was correct, as after } 24. dxe6 fxe6 25. h4 $1 { ⩲ Black has many weaknesses, but at least he has space to move. } ) 
+ ( { PH: Actually, White's last move was a strategic mistake, because Black could have now played } 23... g5 $1 { when } 24. Bxg5 Rc3 25. Ka4 Be3 { leads to good activity for Black, enough for equality. } ) 
+24. g5 $1 { Fixing Black’s kingside. } Rc7 25. Rd1 Kf8 26. f4 Bg7 ( { It was not too late for } 26... e6 $5 27. dxe6 fxe6 28. Bc4 Ke7 { though after } 29. h4 $1 { ± the threat of h4-h5 is troublesome. } ) 
+27. Bg4 Ke8 28. Rf1 Bd4 29. h4 Bg7 30. h5 Bd4 31. Rh1 $16 { Throughout the last eight moves Black’s negligent waiting strategy has allowed a powerful kingside expansion. Although there is no clear winning method yet, White’s position is very promising and should be won with correct play. } Bg7 32. Rh3 Kf8 33. h6 $1 { White has found the right plan. Now he will prepare the decisive e4-e5 break, after which Black’s main problem will be the weak h7-pawn. } Bd4 34. Rd3 ( { White is already winning after: } 34. Bc3 $1 Rxc3 ( { or } 34. Rd3 Bg1 35. e5 $1 { is similar to the game } ) 
+35. Rxc3 Bxc3 36. Kxc3 Ke8 37. Kd4 Kd8 38. e5 $1 { (threatening the decisive e5-e6) } Kc7 39. e6 fxe6 40. Bxe6 Nf8 41. f5 gxf5 42. Bxf5 Kd8 43. Bxh7 $1 { When the passed pawns decide the game. } ) 
+Ba7 ( { PH: Probably Polugaevsky played 34.Rd3 because he didn't want to calculate the endgame after 34.Bc3 !, and instead wanted to answer } 34... Bh8 { with } 35. e5 $5 dxe5 36. Rc3 $1 { , forcing } Rxc3 37. Bxc3 Ke8 38. Bxd7 Kxd7 39. fxe5 { and the win should be trivial since Black will soon get into zugzwang. } ) 
+35. Bh3 Bg1 36. Bc3 { Preparing the e4-e5 break. } Ke8 ( { More stubborn was } 36... Bh2 { though White is still winning, say after: } 37. Rf3 Ke8 38. Bg7 Kd8 ( { or } 38... Rc1 39. e5 $1 dxe5 40. Bxd7 Kxd7 41. fxe5 ) 
+39. f5 $1 { Decisively opening the f-file. The game could have finished with: } Rc1 40. fxg6 fxg6 41. Bd4 Re1 42. Bb6 $1 Nxb6 ( { or } 42... Ke8 43. Bxd7 Kxd7 44. Rf8 { to follow with Rd8# } ) 
+43. axb6 Ke8 44. Rc3 Rxe4 45. Be6 $1 { Checkmate is unavoidable. } ) 
+37. e5 $1 { +- } Bh2 ( 37... dxe5 38. fxe5 Bh2 { doesn’t help due to } 39. d6 $1 { breaking through the defence. } exd6 40. exd6 Rc6 41. Re3 Kd8 42. Re7 Rxd6 43. Rxf7 { and after 44.Rxh7 the game is decided. } ) 
+38. exd6 exd6 39. Re3+ Kd8 40. Re4 ( { More direct was: } 40. Bxd7 Rxd7 41. Bf6 Kc7 42. Re8 Bxf4 43. Rh8 $18 ) 
+Bg1 41. Bxd7 $1 ( { Black resigns, as there is no hope following: } 41. Bxd7 Rxd7 ( { Or } 41. Bxd7 Kxd7 42. Bf6 { with the deadly threat Re7, and if } Kc8 { then } 43. Re8 Kd7 44. Rd8 ) 
+42. Bf6 Kc7 43. Re8 { followed by Rh8xh7 winning. Final remarks 1. Black’s opening was rather imprecise, leading directly to an unfavourable endgame. Nowadays 12...Qxa2 is the move of choice and in fact White no longer plays 12. Nd5 because of this reply. 2. The endgame resulting after move 14 was indisputably superior for White, and the defence was very difficult in practice. 3. Black’s best approach would have been to break the powerful d5-e4 chain with a timely ...e7-e6 break. This weakens the d6- and e6-pawns, but it is the lesser of two evils. Instead, by defending passively Black was signing his own death sentence. White’s kingside expansion is a winning plan and passive defence is destined to fail no matter how precise. 4. White’s expansion on the flanks was enabled by his pair of bishops and his already existing spatial edge in the centre. By having more space, White is able to gain yet more. } ) 
+
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837895/"]
+[Date "????.??.??"]
+[Round "12.4"]
+[White "11) The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #1"]
+[Result "*"]
+[FEN "r4rk1/pp2ppbp/3pbnp1/q7/2P1P3/2N1BP2/PP1Q2PP/2R1KB1R w KQkq - 0 12"]
+
+12. Nd5 { This move has fallen out of fashion since the following reply offers good chances to Black. } Qxa2 13. Nxe7+ Kh8 14. Be2 Ng8 $5 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837896/"]
+[Date "????.??.??"]
+[Round "12.5"]
+[White "11) The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #2"]
+[Result "*"]
+[FEN "r4rk1/pp2ppbp/3pbnp1/3N4/2P1P3/4BP2/PP1K2PP/2R2B1R b KQkq - 0 13"]
+
+13... Nxd5 $6 { This is not good. } 14. cxd5 { Black is in trouble. } Bc8 ( { Or } 14... Bd7 15. Rc7 $16 ) 
+15. b3 e6 16. Bd3 { Followed by Rc7. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837897/"]
+[Date "????.??.??"]
+[Round "12.6"]
+[White "11) The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #3"]
+[Result "*"]
+[FEN "r4rk1/pp2ppbp/3p1np1/3P4/4P3/4BP2/PP1K2PP/2R2B1R b KQkq - 0 14"]
+
+14... Rfc8 15. Rxc8+ { The most common. } Rxc8 16. g3 $1 { To follow up with Bh3, when Black loses control of the c-file. } a6 $2 17. Bh3 Rc7 ( { Or } 17... Rd8 18. Rc1 ) 
+18. Rc1 $1 Rxc1 19. Kxc1 { Followed by Bc8. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837898/"]
+[Date "????.??.??"]
+[Round "12.7"]
+[White "11) The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #4"]
+[Result "*"]
+[FEN "r1r3k1/pp2ppbp/3p1np1/3P4/4P3/4BP2/PP1KB1PP/2R4R b KQkq - 0 15"]
+
+15... a6 { This is necessary sooner or later, to defend the a7-pawn, but now the b6-square is weak. } ( 15... b6 $2 16. Ba6 $16 { loses the c-file. } ) 
+16. b4 { Beginning the queenside expansion. } b5 $2 { This weakens the a6-b5 chain. } 17. Rxc8+ Rxc8 18. Rc1 Rxc1 19. Kxc1 $16 { White is almost winning due to the threat of a2-a4. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837899/"]
+[Date "????.??.??"]
+[Round "12.8"]
+[White "11) The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #5"]
+[Result "*"]
+[FEN "r4k2/1p1nppbp/p2p2p1/P2P4/1P2P3/1K2BP2/4B1PP/7R b KQkq - 0 21"]
+
+21... Rc8 22. { -KEY- } Bd2 $1 ( { Black cannot use the c-file. Note how White refrains from } 22. Rc1 $6 Rxc1 23. Bxc1 { in order to keep more pieces on the board. } ) 
+Bd4 23. g4 $1 { Now White will claim space on the kingside. } Kg7 $6 { Black's waiting strategy is a big mistake. } ( { Again } 23... e6 { was correct, as after } 24. dxe6 fxe6 25. h4 $1 { ⩲ Black has many weaknesses, but at least he has space to move. } ) 
+24. g5 $1 { Fixing Blacks kingside. } Rc7 25. Rd1 Kf8 26. f4 Bg7 ( { It was not too late for } 26... e6 $5 27. dxe6 fxe6 28. Bc4 Ke7 { though after } 29. h4 $1 { ± the threat of h4-h5 is troublesome. } ) 
+27. Bg4 Ke8 28. Rf1 Bd4 29. h4 Bg7 30. h5 Bd4 31. Rh1 $16 { Throughout the last eight moves Black's negligent waiting strategy has allowed a powerful kingside expansion. Although there is no clear winning method yet, White's position is very promising and should be won with correct play. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837900/"]
+[Date "????.??.??"]
+[Round "12.9"]
+[White "11) The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #6"]
+[Result "*"]
+[FEN "4k3/1prnppbp/p2p2p1/P2P2PP/1P2PPB1/1K5R/3B4/8 b KQkq - 0 32"]
+
+32... Kf8 33. h6 $1 { White has found the right plan. Now he will prepare the decisive e4-e5 break, after which Black's main problem will be the weak h7-pawn. } Bd4 { Now White is already winning. } 34. Bc3 $1 Rxc3+ 35. Rxc3 Bxc3 36. Kxc3 Ke8 37. Kd4 Kd8 38. e5 $1 { Threatening the decisive e5-e6. } Kc7 39. e6 fxe6 40. Bxe6 Nf8 41. f5 gxf5 42. Bxf5 Kd8 43. Bxh7 $1 { When the passed pawns decide the game. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837901/"]
+[Date "????.??.??"]
+[Round "12.10"]
+[White "11) The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #7"]
+[Result "*"]
+[FEN "5k2/bprnpp1p/p2p2pP/P2P2P1/1P2PP2/1K1R3B/3B4/8 b KQkq - 0 35"]
+
+35... Bg1 36. Bc3 { Preparing the e4-e5 break. } Bh2 { This is the most stubborn, though White is still winning. } 37. Rf3 Ke8 38. Bg7 Kd8 39. { -KEY- } f5 $1 { Decisively opening the f-file. } Rc1 40. fxg6 fxg6 41. Bd4 Re1 42. Bb6+ $1 Nxb6 ( { Or } 42... Ke8 43. Bxd7 Kxd7 44. Rf8 { to follow with Rd8#. } ) 
+43. axb6 Ke8 44. Rc3 Rxe4 45. Be6 $1 { Checkmate is unavoidable. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837902/"]
+[Date "????.??.??"]
+[Round "12.11"]
+[White "11) The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #8"]
+[Result "*"]
+[FEN "5k2/1prnpp1p/p2p2pP/P2P2P1/1P2PP2/1KBR3B/8/6b1 b KQkq - 0 36"]
+
+36... Ke8 37. e5 $1 dxe5 38. fxe5 Bh2 { This doesn't help. } 39. d6 $1 { Breaking through the defence. } exd6 40. exd6 Rc6 41. Re3+ Kd8 42. Re7 Rxd6 43. Rxf7 { And after 44. Rxh7 the game is decided. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837903/"]
+[Date "????.??.??"]
+[Round "12.12"]
+[White "11) The Maroczy"]
+[Black "Polugaevsky vs. Ivkov #9"]
+[Result "*"]
+[FEN "4k3/1prnpp1p/p2p2pP/P2PP1P1/1P3P2/1KBR3B/8/6b1 b KQkq - 0 37"]
+
+37... Bh2 38. exd6 exd6 39. Re3+ Kd8 40. Bxd7 { The most direct. } Rxd7 41. Bf6+ Kc7 42. Re8 Bxf4 43. Rh8 $18 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551517/"]
+[Date "????.??.??"]
+[Round "12.13"]
+[White "11) The Maroczy"]
+[Black "Jan Smeets vs. Sergei Tiviakov"]
+[Result "1-0"]
+
+ { Jan Smeets – Sergei Tiviakov, Netherlands 2013 Learning objective: This game is a modern example of White’s advantage after a symmetric structure transformation. Notice how White inevitably gains control of the c-file. } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6 8. Be3 Bg7 9. f3 Be6 10. Rc1 O-O 11. Qd2 Qa5 { So far it is the same opening as the previous example, and now: } 12. b3 a6 $2 { Black confuses his move order! } ( { The main line is } 12... Rfc8 { and one of the possible continuations is } 13. Be2 ( { of course now } 12... a6 12. Nd5 $6 Qxd2 14. Kxd2 Nxd5 15. cxd5 Bd7 { is nothing special for White } ) 
+a6 14. Na4 Qxd2 15. Kxd2 Nd7 16. g4 $5 { with a complex and deeply analyzed endgame. } ) 
+ { And now of course: } 13. Nd5 $1 { This is similar to the previous example except the reply ...Qxa2 is no longer possible. } Qd8 { Tiviakov probably realized his mistake by now, as keeping the queens on the board gives more practical chances to Black. } ( { If } 13... Qxd2 14. Kxd2 Bxd5 ( { or } 14... Rae8 15. Be2 Nd7 16. h4 $14 ) 
+15. cxd5 $14 { we are back to the highly undesirable endgame from the previous example. } ) 
+14. Bb6 Qd7 15. Be2 Bxd5 { A necessary concession. } ( { If instead } 15... Rac8 16. O-O { ⩲ and Black has nothing useful to do other than capture on d5 after all. } ) 
+16. cxd5 $14 { We essentially have the previous game again, but now in the presence of queens. } Rfc8 17. O-O Qe8 ( { The break } 17... e6 $6 18. dxe6 fxe6 { works poorly as the presence of queens makes Black’s king vulnerable. } ) 
+18. Be3 Nd7 19. g3 ( { The careless } 19. b4 Qd8 20. a4 $6 { is met by } a5 $1 21. bxa5 Nc5 { with counterplay for Black. } ) 
+Nc5 $2 { Blocking the c-file for the moment, but this will not work in the long run as White is able to play b3-b4. } ( { Better was } 19... Rxc1 20. Rxc1 Rc8 21. Rc2 Qd8 22. Kg2 h5 23. b4 Kh7 24. Qc1 Rxc2 25. Qxc2 Bh6 26. Bf2 $1 { keeping the pair of bishops. After } a5 27. a3 axb4 28. axb4 $14 { White is certainly better, though Black remains solid. } ) 
+20. Rc2 a5 21. Rfc1 b6 { The problem with Black’s 19th move is that the c-file will not stay blocked forever. Meanwhile, Black’s attempts to keep the file blocked are creating weaknesses that will persist forever. For example ...b7-b6 makes the b6-pawn and the c6-square weak. } 22. Qd1 Qf8 23. a3 $1 { ± Preparing b3-b4. } Rcb8 ( { But not: } 23... Nxb3 $2 24. Rxc8 Rxc8 25. Rxc8 Qxc8 26. Qxb3 $18 ) 
+24. b4 axb4 25. axb4 Nb3 $2 { The decisive mistake; the knight will not find a way out. } ( { More stubborn was } 25... Nd7 26. Bb5 Qd8 27. Qe2 Ra7 { though White has many risk-free plans to play for a win, such as } 28. Bc6 $5 h5 29. Kg2 Kh7 30. Ra2 Rxa2 31. Qxa2 $16 { following by an a-file invasion. } ) 
+ ( { Not } 25... Ra3 $2 26. bxc5 Rxe3 27. c6 { followed by c6-c7 and Ba6 winning. } ) 
+26. Rb1 Ra3 27. Rc6 Na1 28. Bxb6 { White is completely winning due to his extra pawn and the awkward location of the knight on a1. The rest of the game needs no comments. } f5 29. Bd4 Rba8 30. e5 Bxe5 31. Bxe5 dxe5 32. b5 e4 33. b6 exf3 34. Bxf3 Qh6 35. b7 Qe3+ 36. Kh1 Kf7 37. bxa8=Q Rxa8 38. d6 { Final remarks 1. Black’s problems began by forgetting his opening move order, and allowing the strong 13. Nd5, which is an improved version of the previous game, as the ...Qxa2 reply is no longer available. 2. Despite his opening imprecision, Black had reasonable chances to hold the game by trading rooks on move 19. 3. Black’s biggest mistake was attempting to block the c-file with 19...Nc5, as White will gain this file anyway after the standard b3-b4. Black’s problem was that supporting his knight on c5 meant creating more weaknesses with 20...a5 and 21...b6, hence later when the c-file was finally unblocked, White gained a huge advantage. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837904/"]
+[Date "????.??.??"]
+[Round "12.14"]
+[White "11) The Maroczy"]
+[Black "Smeets vs. Tiviakov #1"]
+[Result "*"]
+[FEN "r4rk1/pp2ppbp/3pbnp1/q7/2P1P3/1PN1BP2/P2Q2PP/2R1KB1R b KQkq - 0 12"]
+
+12... a6 $2 { Black confuses his move order! } 13. Nd5 $1 { This is similar to the previous example except the reply ...Qxa2 is no longer possible. } Qd8 ( { Tiviakov probably realized his mistake by now, as keeping the queens on the board gives more practical chances to Black. If } 13... Qxd2 14. Kxd2 Bxd5 ( { Or } 14... Rae8 15. Be2 Nd7 16. h4 $14 ) 
+15. cxd5 $14 { we are back to the highly undesirable endgame from the previous example. } ) 
+14. Bb6 Qd7 15. Be2 Bxd5 ( { A necessary concession. If instead } 15... Rac8 16. O-O { ⩲ and Black has nothing useful to do other than capture on d5 after all. } ) 
+16. cxd5 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837905/"]
+[Date "????.??.??"]
+[Round "12.15"]
+[White "11) The Maroczy"]
+[Black "Smeets vs. Tiviakov #2"]
+[Result "*"]
+[FEN "r1r1q1k1/1p1nppbp/p2p2p1/3P4/4P3/1P2BP2/P2QB1PP/2R2RK1 w KQkq - 0 19"]
+
+19. b4 Qd8 20. a4 $6 { This careless maneuver is well met by Black's next move. } a5 $1 21. bxa5 Nc5 { With counterplay for Black. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837906/"]
+[Date "????.??.??"]
+[Round "12.16"]
+[White "11) The Maroczy"]
+[Black "Smeets vs. Tiviakov #3"]
+[Result "*"]
+[FEN "r1r1q1k1/1p1nppbp/p2p2p1/3P4/4P3/1P2BPP1/P2QB2P/2R2RK1 b KQkq - 0 19"]
+
+19... Nc5 $2 { Blocking the c-file for the moment, but this will not work in the long run as White is able to play b3-b4. Better was } ( 19... Rxc1 20. Rxc1 Rc8 21. Rc2 Qd8 22. Kg2 h5 23. b4 Kh7 24. Qc1 Rxc2 25. Qxc2 Bh6 26. Bf2 $1 { keeping the pair of bishops. After } a5 27. a3 axb4 28. axb4 $14 { White is certainly better, though Black remains solid. } ) 
+20. Rc2 a5 21. Rfc1 b6 { The problem with Black's 19th move is that the c-file will not stay blocked forever. Meanwhile, Black's attempts to keep the file blocked are creating weaknesses that will persist forever. For example ...b7-b6 makes the b6-pawn and the c6-square weak. } 22. Qd1 Qf8 23. a3 $1 { ± Preparing b3-b4. } Nxb3 $2 24. Rxc8 Rxc8 25. Rxc8 Qxc8 26. Qxb3 $18 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837907/"]
+[Date "????.??.??"]
+[Round "12.17"]
+[White "11) The Maroczy"]
+[Black "Smeets vs. Tiviakov #4"]
+[Result "*"]
+[FEN "rr3qk1/4ppbp/1p1p2p1/2nP4/1P2P3/4BPP1/2R1B2P/2RQ2K1 b KQkq - 0 25"]
+
+25... Ra3 $2 26. bxc5 Rxe3 27. c6 { Followed by c6-c7 and Ba6 winning. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837908/"]
+[Date "????.??.??"]
+[Round "12.18"]
+[White "11) The Maroczy"]
+[Black "Smeets vs. Tiviakov #5"]
+[Result "*"]
+[FEN "rr3qk1/4ppbp/1p1p2p1/2nP4/1P2P3/4BPP1/2R1B2P/2RQ2K1 b KQkq - 0 25"]
+
+25... Nb3 $2 { The decisive mistake; the knight will not find a way out. } 26. Rb1 Ra3 27. Rc6 Na1 28. Bxb6 { White is completely winning due to his extra pawn and the awkward location of the knight on a1. The rest of the game needs no comments. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551518/"]
+[Date "????.??.??"]
+[Round "12.19"]
+[White "11) The Maroczy"]
+[Black "Another Endgame"]
+[Result "1-0"]
+[FEN "r2r2k1/1p1bpp1p/3p2p1/3P4/p3P3/2R2P2/PP2B1PP/5R1K b - - 0 20"]
+
+ { Jakovljevic – Predojevic, Novi Sad 2012, started out as a Maroczy and reached the position in the diagram, which is similar to previous examples. Despite not having a pair of bishops, White has a significant spatial advantage and a very promising position. The game continued: } 20... Kf8 ( { PH: Flores Rios doesn't discuss it, but we should first look if Black can counter over the c-file. He can: } 20... Rdc8 21. Rfc1 Rxc3 22. Rxc3 Rc8 ( 22... f5 $1 { is even more precise, as } 23. Rc7 { is countered by } Rc8 ) 
+23. Rxc8 Bxc8 24. Kg1 f5 25. Kf2 f4 $1 { and now when White moves to the queenside, Black's king can enter via e5: } 26. Ke1 Kg7 27. Kd2 Kf6 28. Kc3 Ke5 { . So opposing on the c-file is correct, but has to be followed up actively. } ) 
+ ( { The immediate } 20... e6 21. dxe6 Bxe6 { should also be okay, with counterplay against White's queenside, exploiting the fact that White's king is very far away at the moment. } ) 
+21. Rfc1 Ke8 22. Kg1 Rdc8 23. Kf2 ( { If } 23. Rxc8 $5 Bxc8 24. Kf2 Kd8 25. Ke3 Ra5 26. Kd4 { Black is worse but his position seems defensible after } Bd7 { . } ) 
+Kd8 24. Ke3 b6 { Hoping to install a blockade with ...Rc5. } ( { An option was } 24... Rxc3 25. Rxc3 e5 $1 { to be followed by ...f7-f5, and after } 26. dxe6 fxe6 27. f4 Ra5 $5 { the d6- and e6-pawns are not as vulnerable, and White’s king cannot manoeuvre as easily, hence Black should be able to hold a draw with precise play. } ) 
+25. Rxc8+ $1 { Trading rooks will help White here, as the bishop endgame is difficult and Black’s lack of space can eventually lead to a zugzwang. } Rxc8 $2 { Without rooks on the board, Black loses all his chances for counterplay. } ( { Better was } 25... Bxc8 26. Rc6 Rb8 27. f4 Bd7 28. Rc1 Ra8 29. g4 Ra5 30. g5 f5 $5 { when White remains better, but the most likely result is draw. } ) 
+26. Rxc8+ Kxc8 27. f4 Kc7 { This careless move is the decisive mistake. } ( { If } 27... e6 28. dxe6 fxe6 29. Kd4 { the absence of rooks allows White to manoeuvre freely, giving him excellent winning chances after: } Bc6 30. h4 ( { PH: } 29... Kc7 29. g3 { followed by e5 should also be winning. For example } Kc7 31. e5 d5 32. Bd3 $16 Be8 33. g4 Bd7 34. Bc2 Kd8 35. f5 $18 gxf5 36. gxf5 exf5 37. Kxd5 { and White will soon pick up either the f5 or the a4-pawn. } ) 
+Kd8 31. g4 Ke7 32. g5 $16 ) 
+ ( { Necessary was } 27... f6 $1 { to prevent White from placing a pawn on g5; } 28. h4 ( { Or } 27... Kc7 27. g4 g5 $1 ) 
+h6 29. g4 $6 ( { Instead } 28... Kc7 28. Kd4 Kc7 30. e5 $1 { is more promising. } ) 
+g5 $1 30. fxg5 fxg5 31. hxg5 hxg5 { And now at least the g4-pawn is fixed on its own bishop’s colour. White still has a promising position after } 32. e5 $1 dxe5 33. Ke4 $14 { but Black keeps drawing chances, say after } Kd8 34. Kxe5 Ke8 35. a3 Kf7 { . } ) 
+28. g4 h6 ( { Keeping the kingside intact makes no difference. For example: } 28... b5 29. Kd4 Kb6 30. a3 Ka5 31. Kc3 { The queenside is paralyzed; now White proceeds on the kingside. } Bc8 32. h4 Bd7 33. g5 Bh3 34. h5 $1 Bg2 35. hxg6 hxg6 36. Bd3 $18 { Followed by Kd4, f4-f5xg6 and we reach the same structure as in the game. } ) 
+29. h4 f6 ( { If Black wants to refrain from ...f7-f6, to keep the g6-pawn defended, then a possible continuation is: } 29... b5 30. Kd4 Kb6 31. a3 Be8 32. g5 hxg5 33. hxg5 Bd7 34. f5 $1 gxf5 ( { or } 34... Be8 35. fxg6 fxg6 36. e5 $1 { is similar to the game } ) 
+35. Bh5 { And White wins after Bxf7. } ) 
+30. g5 $1 { Just as in Polugaevsky – Ivkov, White expands on the kingside to create weaknesses in Black’s camp. Black is helpless as he will be unable to protect the g6-pawn. } fxg5 31. fxg5 hxg5 ( { Or } 31... h5 32. Kd4 e5 ( { Or } 32... b5 33. e5 { is similar to the game. } ) 
+33. dxe6 Bxe6 34. Bb5 $1 { (threatening Be8 ) } Kd8 35. a3 Bb3 36. Bc4 $1 { forcing a winning pawn endgame after } Bxc4 37. Kxc4 Ke7 38. Kb5 { . } ) 
+32. hxg5 b5 33. Kd4 Kb6 ( { Keeping the king centralized does not help either: } 33... Be8 34. a3 Kb6 35. Bd3 Kc7 36. e5 dxe5 37. Kxe5 Kd8 38. Ke6 $1 { +- Black is in zugzwang. } ) 
+34. Bd3 Ka5 35. a3 Kb6 ( 35... b4 { does not help: } 36. e5 Be8 37. e6 { Black is in zugzwang, thus he must take on a3: } bxa3 { } 38. bxa3 Kb6 { And now White must lose a tempo, hence he plays: } 39. Be4 ( 38... Kb6 38. Kc3 $2 Kc5 ) 
+Ka5 40. Bf3 Kb5 41. Be2 Kb6 42. Bd3 $1 { Now Black is in a new zugzwang: } Ka5 43. Kc3 Kb6 44. Kb4 Kc7 45. Ka5 Kb7 46. Bb5 $1 { The resulting pawn endgame is winning. } ) 
+36. e5 Be8 37. e6 { Black is completely lost, and the game finished with the nice sequence: } Ka5 38. Kc3 Ka6 39. Kb4 Kb6 40. Bc2 Ka6 41. b3 axb3 42. Bxb3 Kb6 43. Bc2 Ka6 44. Bd3 Kb6 45. Be2 ( { Zugzwang. } 45. Be2 Ka6 46. a4 Kb6 47. Bxb5 { Final remarks 1. Once again, White’s spatial advantage allows him to gain even more space. 2. Unlike previous examples, White did not have a pair of bishops here, but still managed to make problems for Black. 3. Black’s position was defensible, say with 24...Rxc3 followed by ...e5. Nevertheless, almost every line required precision from Black, while White could play for a win risk-free. 4. Something to mention from the initial position is Black’s pawn on a4, which is the same colour as his bishop. If this pawn had been on a5 to begin with then Black would have had better chances to hold the game, at least in the bishop endgame. } ) 
+
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837909/"]
+[Date "????.??.??"]
+[Round "12.20"]
+[White "11) The Maroczy"]
+[Black "Jakovljevic vs. Predojevic #1"]
+[Result "*"]
+[FEN "r1rk4/1p1bpp1p/3p2p1/3P4/p3P3/2R1KP2/PP2B1PP/2R5 b KQkq - 0 24"]
+
+24... b6 { Hoping to install a blockade with ...Rc5. } 25. Rxc8+ $1 { Trading rooks will help White here, as the bishop endgame is difficult and Black's lack of space can eventually lead to a zugzwang. } Rxc8 $2 ( { Without rooks on the board, Black loses all his chances for counterplay. Better was } 25... Bxc8 26. Rc6 Rb8 27. f4 Bd7 28. Rc1 Ra8 29. g4 Ra5 30. g5 f5 $5 { when White remains better, but the most likely result is draw. } ) 
+26. Rxc8+ Kxc8 27. f4 Kc7 $2 { This careless move is the decisive mistake. } 28. g4 h6 29. h4 f6 ( { If Black wants to refrain from ...f7-f6, to keep the g6-pawn defended, then a possible continuation is: } 29... b5 30. Kd4 Kb6 31. a3 Be8 32. g5 hxg5 33. hxg5 Bd7 34. f5 $1 gxf5 ( { Or } 34... Be8 35. fxg6 fxg6 36. e5 $1 { is similar to the game. } ) 
+35. Bh5 { And White wins after Bxf7. } ) 
+30. g5 { Just as in Polugaevsky Ivkov, White expands on the kingside to create weaknesses in Blacks camp. Black is helpless as he will be unable to protect the g6-pawn. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837910/"]
+[Date "????.??.??"]
+[Round "12.21"]
+[White "11) The Maroczy"]
+[Black "Jakovljevic vs. Predojevic #2"]
+[Result "*"]
+[FEN "2k5/3bpp1p/1p1p2p1/3P4/p3P3/4KP2/PP2B1PP/8 w KQkq - 0 27"]
+
+27. f4 f6 $1 { Necessary, to prevent White from placing a pawn on g5. } 28. h4 ( { Or } 28. g4 g5 $1 ) 
+h6 29. g4 $6 ( { Instead } 29. Kd4 Kc7 30. e5 $1 { is more promising. } ) 
+g5 $1 30. fxg5 fxg5 31. hxg5 hxg5 ( { And now at least the g4-pawn is fixed on its own bishop's colour. White still has a promising position after } 31... hxg5 31. e5 $1 dxe5 33. Ke4 $14 { but Black keeps drawing chances, say after } Kd8 34. Kxe5 Ke8 35. a3 Kf7 { . } ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837911/"]
+[Date "????.??.??"]
+[Round "12.22"]
+[White "11) The Maroczy"]
+[Black "Jakovljevic vs. Predojevic #3"]
+[Result "*"]
+[FEN "8/2kbp3/3p2p1/1p1P2P1/p2KP3/8/PP2B3/8 b KQkq - 0 33"]
+
+33... Be8 { Keeping the king centralized does not help. } 34. a3 Kb6 35. Bd3 Kc7 36. e5 dxe5+ 37. Kxe5 Kd8 38. Ke6 $1 { Black is in zugzwang. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837912/"]
+[Date "????.??.??"]
+[Round "12.23"]
+[White "11) The Maroczy"]
+[Black "Jakovljevic vs. Predojevic #4"]
+[Result "*"]
+[FEN "4b3/4p3/1k1pP1p1/1p1P2P1/p2K4/P2B4/1P6/8 b KQkq - 0 37"]
+
+37... Ka5 { Black is completely lost, and the game finished with the nice sequence. } 38. Kc3 Ka6 39. Kb4 Kb6 40. Bc2 Ka6 41. b3 axb3 42. Bxb3 Kb6 43. Bc2 Ka6 44. Bd3 Kb6 45. Be2 { Zugzwang. } Ka6 46. a4 Kb6 47. Bxb5 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2324544/"]
+[Date "????.??.??"]
+[Round "12.24"]
+[White "11) The Maroczy"]
+[Black "Counterplay for Black"]
+[Result "0-1"]
+[FEN "r1rq2k1/1p2ppbp/2bp2p1/p1n5/2P1P3/1PN1BP2/P1R1B1PP/1RQ4K w - - 0 1"]
+
+ { Although Black is often worse after the symmetric transformation, there exist ways to create counterplay, and here is an example. After a standard opening, we have reached the position in the diagram, and we obtain the structure of interest after: } 1. Nd5 Bxd5 2. cxd5 ( { PH: The computer's suggestion } 2. exd5 $5 { looks unnatural, but if White has the time to reposition the bishops and double on the e-file, White gets a very big advantage. } ) 
+ { Now the game Navara – Jirovsky, Czech Republic 2003, continued with: } a4 $1 { Black has a trick in mind. } 3. b4 $6 { Overly optimistic, though it is hard to blame White for overlooking Black’s reply. } ( { Better was: } 22. bxa4 Rxa4 23. Bb5 ( { or } 23. Rxb7 $5 Rxa2 $1 24. Rxa2 Nxb7 25. Rc2 { when White has a tiny plus } ) 
+Raa8 24. a4 Nd7 25. Bf1 Rxc2 26. Qxc2 Rc8 27. Qd2 Rc7 { White is still somewhat better, but now Black certainly can find more counterplay than in the previous examples. } ) 
+Nb3 $1 { A strong recurring idea in this position – the knight is immune. } ( { PH: Even } 3... Nd7 $5 { is very reasonable, especially if Black is allowed to play ...a3 as well, breaking the connection of White's queenside pawns and making ...Bb2 possible to annoy White. So } 4. a3 Rxc2 5. Qxc2 Rc8 { and Black gets the rook to c3 with counterplay: } 6. Qxa4 Rc3 7. Bd2 Nb6 { and now White either has to return the extra pawn by playing } 8. Qd1 { or keep the queen on the a-file somewhere and allow ...Rc2. } ) 
+4. axb3 ( { Black takes the initiative after } 23. Qd1 $6 Rxc2 24. Qxc2 Nd4 25. Qd3 Nxe2 26. Qxe2 Rc8 { . } ) 
+ ( { An option was } 23. Rxc8 Qxc8 $1 24. Qxc8 ( { but not } 24. axb3 a3 $1 { -+ } ) 
+Rxc8 { and now Black is fine after } 25. Bb5 ( { again not } 25. axb3 $2 a3 $19 ) 
+Rc3 26. Bxa4 Rxe3 27. Bxb3 Bc3 $5 { with a drawish position. } ) 
+a3 5. Rc4 $2 ( { Necessary was } 24. Bc4 a2 25. Ra1 Bxa1 26. Qxa1 { though after } b5 $1 { the bishop is lost: } 27. Rxa2 ( { White is losing after } 27. Bd3 $2 Rxc2 28. Bxc2 Qc8 $1 { and now for example } 29. Bd3 Ra3 30. Bg1 Rxb3 31. Bxb5 Qc2 ) 
+Rxa2 28. Qxa2 bxc4 29. bxc4 Ra8 30. Qb2 Ra4 { And we obtain a dynamically balanced position where either side could play for the win. } ) 
+a2 6. Ra1 Rxc4 7. Bxc4 ( { The alternative } 26. bxc4 $2 { loses after the forced line: } Qf8 27. Qd1 Bxa1 28. Qxa1 Qg7 29. Qxg7 Kxg7 30. Bd4 Kf8 31. Ba1 Ra4 ) 
+Qf8 8. Qd1 Bxa1 9. Qxa1 { And now Black had two alternatives: } Qg7 ( { Or } 28... f5 $5 { as played in the game, and after } 29. Bd4 fxe4 30. fxe4 Qf4 31. Bh8 $2 ( { instead } 30... Qg7 30. Qe1 $1 { keeps the game complicated } ) 
+Kf7 32. Bc3 Qxe4 { Black won very easily. } ) 
+10. Qxg7+ Kxg7 11. Bd4+ Kf8 12. Ba1 { And we reach an interesting endgame where White’s pieces are more or less tied down, but it is hard to break through the defence. An attempt to win could be: } e6 { Opening lines. } 13. Kg1 ( { But not } 32. dxe6 $2 fxe6 33. Bxe6 Re8 34. Bc4 { due to } d5 $1 { -+ and the back rank is defenceless after } 35. Bxd5 ( 35. exd5 $2 Re1 ) 
+Rc8 36. Bc4 b5 { . } ) 
+exd5 14. exd5 Re8 15. Kf2 f5 { Now Black will expand while White attempts to keep his fortress intact. } 16. Bb2 Kf7 17. Ba1 g5 18. Bb2 f4 19. Ba1 Re3 20. b5 ( { But not: } 39. Bb2 $2 b5 $1 40. Bxb5 Rxb3 41. Ba1 Rb1 $19 ) 
+b6 21. Bd4 Kg6 22. Ba1 h5 23. Bb2 Kf5 $17 { Black has a big advantage, but it is not completely clear whether he can break through White’s defence. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837913/"]
+[Date "????.??.??"]
+[Round "12.25"]
+[White "11) The Maroczy"]
+[Black "Navara vs. Jirovsky #1"]
+[Result "*"]
+[FEN "r1rq2k1/1p2ppbp/3p2p1/p1nP4/4P3/1P2BP2/P1R1B1PP/1RQ4K b KQkq - 0 21"]
+
+21... a4 $1 { Black has a trick in mind. } 22. b4 $6 ( { Overly optimistic, though it is hard to blame White for overlooking Black's reply. Better was: } 22. bxa4 Rxa4 23. Bb5 ( { Or } 23. Rxb7 $5 Rxa2 $1 24. Rxa2 Nxb7 25. Rc2 { when White has a tiny plus. } ) 
+Raa8 24. a4 Nd7 25. Bf1 Rxc2 26. Qxc2 Rc8 27. Qd2 Rc7 { White is still somewhat better, but now Black certainly can find more counterplay than in the previous examples. } ) 
+Nb3 $1 { A strong recurring idea in this position - the knight is immune. } 23. axb3 a3 24. Bc4 a2 25. Ra1 Bxa1 26. Qxa1 b5 $1 27. Rxa2 Rxa2 28. Qxa2 bxc4 29. bxc4 ( 29. bxc4 Ra8 30. Qb2 Ra4 { And we obtain a dynamically balanced position where either side could play for the win. } ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837914/"]
+[Date "????.??.??"]
+[Round "12.26"]
+[White "11) The Maroczy"]
+[Black "Navara vs. Jirovsky #2"]
+[Result "*"]
+[FEN "r1rq2k1/4pp1p/3p2p1/1p1P4/1PB1P3/1P2BP2/p1R3PP/Q6K w KQkq - 0 27"]
+
+27. Bd3 $2 { This loses. } Rxc2 28. Bxc2 Qc8 $1 29. Bd3 Ra3 30. Bg1 Rxb3 31. Bxb5 Qc2 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837915/"]
+[Date "????.??.??"]
+[Round "12.27"]
+[White "11) The Maroczy"]
+[Black "Navara vs. Jirovsky #3"]
+[Result "*"]
+[FEN "r1rq2k1/1p2ppbp/3p2p1/3P4/1P2P3/pP1BBP2/2R3PP/1RQ4K w KQkq - 0 24"]
+
+24. Rc4 $2 a2 25. Ra1 Rxc4 26. bxc4 $2 { This loses after the following forced line. } Qf8 27. Qd1 Bxa1 28. Qxa1 Qg7 29. Qxg7+ Kxg7 30. Bd4+ Kf8 31. Ba1 Ra4 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837916/"]
+[Date "????.??.??"]
+[Round "12.28"]
+[White "11) The Maroczy"]
+[Black "Navara vs. Jirovsky #4"]
+[Result "*"]
+[FEN "r4k2/1p2pp1p/3p2p1/3P4/1PBBP3/1P3P2/p5PP/7K w KQkq - 0 31"]
+
+31. Ba1 { And we reach an interesting endgame where White's pieces are more or less tied down, but it is hard to break through the defence. } e6 { Opening lines. } 32. { -KEY- } dxe6 $2 fxe6 33. Bxe6 Re8 34. Bc4 d5 $1 { And the back rank is defenceless. } 35. Bxd5 ( 35. exd5 $2 Re1 ) 
+Rc8 36. Bc4 b5 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1229832/"]
+[Date "????.??.??"]
+[Round "12.29"]
+[White "11) The Maroczy"]
+[Black "Asymmetric Transformation"]
+[Result "*"]
+[FEN "4k3/pp2pp1p/3p2p1/3P4/2P5/8/PP3PPP/4K3 w - - 0 1"]
+
+ { Asymmetric Transformation Once the knight on d5 is captured, White can also recapture exd5 to obtain a very different kind of position, which we call the asymmetric transformation of the Maroczy. Unlike the symmetric transformation, the recapture exd5 is much more tactical and double-edged. White typically attempts a mating attack while Black will gain counterplay on the queenside. Black has a backward pawn on e7 which could become a target for White's rooks. However, Black can often neutralize this pressure by simply placing his dark-squared bishop on f6. White's plans 1. Create a kingside attack with the break f2-f4-f5 . 2. Pressure the e7-pawn by doubling rooks on the e-file. This is only likely to work if Black cannot place a bishop on f6. Black's plans 1. Attack White's c4-d5 chain with the break ...b7-b5xc4. 2. Open the a-file with ...a7-a5-a4xb3. If White responds to ...a5-a4 with b3-b4, then the c4-d5 chain becomes weaker, and the break ...b7-b5 could be stronger. 3. Simplify the position to minimize White's attacking chances. White's kingside attack is very effective if Black cannot create the appropriate distraction with queenside play. For this reason, it is a must for Black to have at least one queenside break at hand. In contrast, if Black realizes he will not be able to find a queenside break, then he should probably avoid this structure altogether, or find a way to swap queens before an attack develops. If Black desires to press for a win, the best approach is to combine Plans 1-3 (or 2-3), when trading queens is most important. Once Black has played ...b7-b5xc4, and White recaptures b3xc4, then the c4-pawn becomes a serious longterm target. This weakness is often more serious than Black's e7-pawn which is easily defended by a bishop on f6 or a king on f8. The next example will show us the power of White's kingside attack once Black has missed the opportunity to achieve a queenside break. Then, we will see a short fragment to illustrate the ease of Black's play in an endgame, once the c4-pawn has been weakened. } 1. -- 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551520/"]
+[Date "????.??.??"]
+[Round "12.30"]
+[White "11) The Maroczy"]
+[Black "Nikolai Ninov vs. Dragoljub Velimirovic"]
+[Result "1-0"]
+
+ { Nikolai Ninov – Dragoljub Velimirovic, Belgrade 2009 Learning objectives: 1. This game illustrates White’s attacking chances after an asymmetric transformation. 2. Note Black’s inability to create counterplay once the queenside is closed. } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 d6 8. Be2 O-O 9. O-O Bd7 10. Qd2 Nxd4 11. Bxd4 Bc6 12. f3 a5 13. b3 Nd7 14. Be3 Nc5 15. Rab1 { So far we are in the main line of the Accelerated Dragon, and now: } b6 { This is a rare and low-scoring option. } ( { The main line is } 15... Qb6 { (PH: A typical continuation is } 16. Rfc1 Rfc8 17. Rc2 Qb4 { trying to provoke a3. } 18. Qc1 Qb6 19. a3 Qd8 { and now the b3-pawn is a bit soft, while } 20. b4 { is answered by } axb4 21. axb4 Na4 $5 { and Black is okay.) } ) 
+16. Bd1 Ra7 17. a3 Qa8 18. Bc2 Rd8 19. Nd5 { White’s position is notably comfortable and now he invites Black to transform his position after: } Bxd5 20. exd5 $1 { We have reached the thematic structure. } ( { If } 20. cxd5 Rc8 21. Rfc1 Rac7 22. Bd1 b5 { Black seems fine as he has gained some queenside space without weakening his position. } ) 
+Nd7 ( { If } 20... a4 21. b4 Nd7 ( { PH: } 21... Nb3 { looks interesting, but if White delays the capture and first plays } 22. Qd3 $1 { , Black is in trouble. } ) 
+22. Bd3 Rc7 23. Rfd1 $14 { White has a stable advantage, since the break } b5 { is met by } 24. Rbc1 bxc4 25. Rxc4 Rxc4 26. Bxc4 $16 { and the d5-pawn is well protected while Black’s a4-pawn is a target. } ) 
+21. f4 { This thematic move prepares f4-f5 with an attack, but it enables counterplay. } ( { Better was } 21. a4 $1 { preventing ...a5-a4 , leaving Black without queenside activity. } ) 
+Qc8 $2 { Returning the favour; Black misses his opportunity to complicate the game. } ( { The break } 21... a4 $1 { was necessary to obtain counterplay, and after } 22. bxa4 ( 21... Qc8 21. b4 $6 { is met by } Rc7 23. Qe2 Rdc8 24. Bd3 b5 { when White’s centre is trembling } ) 
+Rc8 23. Rb4 Rac7 24. Bd3 Nc5 { White’s extra pawn is clearly worthless. Still, there are chances for a kingside attack after } 25. f5 $5 Nxa4 26. fxg6 hxg6 27. Qf2 { . } ) 
+22. a4 $1 { ± This move rules out Black’s queenside reactions ...a5-a4 and ...b6-b5, and so White obtains a fully stable queenside. White is now able to conduct his kingside attack without distractions. } ( { Instead } 22. f5 $2 { allows counterplay after } a4 $1 { . } ) 
+Rb7 ( { PH: If Black plays } 22... f5 { , he is not in time with ...Nf6: } 23. g4 $1 fxg4 24. f5 $1 { and Black's position is hard to defend. } ) 
+23. Rbe1 Re8 24. Rf3 ( { The immediate } 24. f5 { gives Black fewer options, and after } Ne5 25. Rf4 Bf6 ( { or } 25. Rf3 Bh6 26. Rh4 Bxe3 27. Rxe3 { followed by Reh3 } ) 
+26. h4 Kg7 27. Qf2 $16 { White can follow up with g2-g4 with deadly threats. } ) 
+e5 ( { Preventing f4-f5 with: } 24... f5 $5 { Can be met by: } 25. g4 $1 { Forcing the opening of lines. } fxg4 ( { Worse is } 25... Rf8 $2 26. gxf5 gxf5 27. Qg2 Kh8 28. Rg3 { when White’s attack is irresistible. } ) 
+26. Rf2 { Preparing f4-f5. } Bf6 ( 26... Nf6 27. f5 $1 gxf5 28. Bxf5 Qd8 29. Rg2 Kh8 30. Bd4 $18 ) 
+27. Ref1 Nc5 28. f5 $1 { Keeping the e7-pawn fixed. } ( 27... e5 27. Rg2 $2 e6 $1 ) 
+g5 29. Bxg5 h5 30. h3 $1 { ± When Black is unable to keep the kingside closed. } ) 
+ ( { Waiting with } 24... Qd8 { allows a strong attack after } 25. f5 $1 Ne5 26. Rg3 Bf6 27. Rf1 { . Note how Black can only wait to be defeated: } Kg7 28. Rh3 Rh8 29. Bh6 Kg8 30. Qe2 Rb8 31. g4 Rc8 32. Qe4 Rc7 33. g5 Bg7 34. Bxg7 Kxg7 35. Qh4 $1 { Black’s position is hopeless: } Kg8 36. fxg6 fxg6 37. Re3 { Bringing the rook to the f-file. } Rb7 38. Re4 Rb8 39. Ref4 Qd7 40. Qh6 { Black is tied to the defence of f8 . } Qe8 41. Be4 $1 { This will be followed by Bg2-h3-e6 – a very nice finish. } ) 
+25. dxe6 Rxe6 26. f5 $1 { The attack continues. } Re8 27. Ref1 Ne5 28. Rg3 Qc6 29. f6 ( { An alternative was } 29. Bd4 d5 30. Qf4 { threatening f5-f6: } Qf6 31. Kh1 ( { but not } 31. fxg6 $2 Nf3 $1 ) 
+dxc4 32. fxg6 Qxf4 33. gxh7 Kh8 34. Rxf4 $16 ) 
+Bh8 30. Qd4 { Threatening Be4 or Qh4 and then Rh3. } Nd7 $2 { The final mistake. } ( { More stubborn was } 30... d5 $1 31. Qxd5 Qxd5 32. cxd5 $16 { though White has a clear extra pawn. } ) 
+31. Bxg6 $1 { +- } ( { Black resigns, as the following lines offer no escape: } 31. Bxg6 hxg6 ( { or } 31. Bxg6 fxg6 32. f7 Kf8 33. Qxh8 Ke7 34. fxe8=Q ) 
+32. Rxg6 $1 Z0 { And checkmate is unavoidable. For example: } Kh7 ( 32. Bxg6 fxg6 33. f7 ) 
+33. Qh4 Kxg6 34. Qh6 ) 
+ { Final remarks 1. The reader should note how in this game the capture 20.cxd5 would not have given much to White. It is necessary to know the pros and cons of both structures in order to choose correctly. 2. Once White stabilized the queenside with a3-a4, he had a free hand for a kingside attack. It is unlikely that Black could resist successfully. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837917/"]
+[Date "????.??.??"]
+[Round "12.31"]
+[White "11) The Maroczy"]
+[Black "Ninov vs. Velimirovic #1"]
+[Result "*"]
+[FEN "q2r2k1/r3ppbp/1pbp2p1/p1n5/2P1P3/PPN1BP2/2BQ2PP/1R3RK1 w KQkq - 0 19"]
+
+19. Nd5 { White's position is notably comfortable and now he invites Black to transform his position. } Bxd5 20. exd5 $1 ( { We have reached the thematic structure. If } 20. cxd5 Rc8 21. Rfc1 Rac7 22. Bd1 b5 { Black seems fine as he has gained some queenside space without weakening his position. } ) 
+a4 21. b4 Nd7 22. Bd3 Rc7 23. Rfd1 $14 { White has a stable advantage. } b5 24. Rbc1 bxc4 25. Rxc4 Rxc4 26. Bxc4 $16 { The d5-pawn is well protected while Black's a4-pawn is a target. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837918/"]
+[Date "????.??.??"]
+[Round "12.32"]
+[White "11) The Maroczy"]
+[Black "Ninov vs. Velimirovic #2"]
+[Result "*"]
+[FEN "q2r2k1/r2nppbp/1p1p2p1/p2P4/2P5/PP2BP2/2BQ2PP/1R3RK1 w KQkq - 0 21"]
+
+21. f4 { This thematic move prepares f4-f5 with an attack, but it enables counterplay. } a4 $1 { This was necessary to obtain counterplay. } 22. b4 $6 Rc7 23. Qe2 Rdc8 24. Bd3 b5 { White's centre is trembling. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837919/"]
+[Date "????.??.??"]
+[Round "12.33"]
+[White "11) The Maroczy"]
+[Black "Ninov vs. Velimirovic #3"]
+[Result "*"]
+[FEN "q2r2k1/r2nppbp/1p1p2p1/p2P4/2P2P2/PP2B3/2BQ2PP/1R3RK1 b KQkq - 0 21"]
+
+21... Qc8 22. a4 $1 { This move rules out Black's queenside reactions ...a5-a4 and ...b6-b5, and so White obtains a fully stable queenside. White is now able to conduct his kingside attack without distractions. } Rb7 23. Rbe1 Re8 24. f5 Ne5 25. Rf4 Bf6 26. h4 Kg7 27. Qf2 $16 { White can follow up with g2-g4 with deadly threats. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837920/"]
+[Date "????.??.??"]
+[Round "12.34"]
+[White "11) The Maroczy"]
+[Black "Ninov vs. Velimirovic #4"]
+[Result "*"]
+[FEN "2q1r1k1/1r1nppbp/1p1p2p1/p2P4/P1P2P2/1P2BR2/2BQ2PP/4R1K1 b KQkq - 0 24"]
+
+24... f5 $5 25. g4 $1 { Forcing the opening of lines. } fxg4 ( { Worse is } 25... Rf8 $2 26. gxf5 gxf5 27. Qg2 Kh8 28. Rg3 { when White's attack is irresistible. } ) 
+26. Rf2 { Preparing f4-f5. } Bf6 27. Ref1 Nc5 28. f5 $1 { Keeping the e7-pawn fixed. } ( 28. Rg2 $2 e6 $1 ) 
+g5 29. Bxg5 h5 30. h3 $1 { When Black is unable to keep the kingside closed. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837921/"]
+[Date "????.??.??"]
+[Round "12.35"]
+[White "11) The Maroczy"]
+[Black "Ninov vs. Velimirovic #5"]
+[Result "*"]
+[FEN "4r1kb/1r3p1p/1pqp1Pp1/p3n3/P1PQ4/1P2B1R1/2B3PP/5RK1 b KQkq - 0 30"]
+
+30... Nd7 $2 ( { The final mistake. More stubborn was } 30... d5 $1 31. Qxd5 Qxd5 32. cxd5 $16 { though White has a clear extra pawn. } ) 
+31. Bxg6 $18 { Black resigns, as the following lines offer no escape. } hxg6 ( { Or } 31... fxg6 32. f7 Kf8 33. Qxh8 Ke7 34. fxe8=Q { . } ) 
+32. Rxg6+ { And checkmate is unavoidable. } fxg6 ( 32... Kh7 33. Qh4 Kxg6 34. Qh6 ) 
+33. f7+ Kf8 34. Qxh8+ 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2324568/"]
+[Date "????.??.??"]
+[Round "12.36"]
+[White "11) The Maroczy"]
+[Black "Black obtains a superior endgame"]
+[Result "0-1"]
+[FEN "r1r3k1/1p2ppbp/p2pbnp1/3N4/2PBP3/1P3P2/P2R2PP/4KB1R b K - 0 1"]
+
+ { The position in the diagram occurred in the game Aziz – Vazquez Igarza, Madrid 2011. White’s opening phase was rather imprecise, and at this point Black is ready to play: } 1... Bxd5 $1 2. exd5 ( { Worse is: } 16. cxd5 $6 Rc1 17. Kf2 Rac8 $15 ) 
+Nd7 $1 { Black finds a good opportunity to trade off White’s pair of bishops. For the rest of the game White will be weak on the dark squares. } 3. Bxg7 ( { Unfortunately } 17. Be3 $2 { loses an exchange to } Bc3 { . } ) 
+Kxg7 4. Be2 ( { Slightly preferable was: } 18. Kf2 { But now Black finds counterplay with: } a5 $1 ( { While } 18. Be2 b5 $2 19. cxb5 $16 { no longer works for Black. } ) 
+19. Bd3 ( { Or } 19. a4 Nc5 20. Rb2 Ra6 $1 { followed by ...Rb6 } ) 
+a4 20. b4 ( 20. Re1 axb3 21. axb3 Kf8 22. Bb1 Ra3 $15 ) 
+Rc7 21. Re1 Kf8 22. f4 Rac8 { Note how the c4-pawn is weaker than Black’s e7-pawn. } 23. Rc2 b5 $1 24. Rec1 bxc4 25. Bxc4 Nb6 26. Bd3 Rxc2 27. Rxc2 Rxc2 28. Bxc2 Nxd5 29. b5 Nb6 $15 { Here only Black can play for a win. } ) 
+b5 $1 { Black achieves the thematic break for this structure. } 5. Kf2 ( { The capture } 19. cxb5 $2 { is met by } Rc1 20. Rd1 ( { or } 20. Bd1 axb5 $17 ) 
+Rxd1 21. Kxd1 axb5 22. Bxb5 Rxa2 $1 { ∓ when White has weaknesses everywhere, and of course } 23. Bxd7 $2 { loses to } Ra1 24. Kc2 Rxh1 { . } ) 
+bxc4 6. bxc4 $2 { Now the c4-pawn will be a permanent weakness. } ( { It was necessary to play } 20. Bxc4 Nb6 21. Be2 Rc5 22. Rhd1 a5 $15 { though Black is in control. } ) 
+Rab8 { Black controls the b-file and has a clear target in the c4-pawn; White has no counterplay whatsoever. } 7. Rc1 Rb4 8. Rdc2 Rcb8 9. Ke3 Nc5 $17 { Black has complete control of the dark squares and White’s light-squared bishop is actually quite useless. Black can progress slowly but surely. } 10. Rc3 Kf6 11. R3c2 Ra4 12. Rd1 Ra3+ 13. Kd2 h5 { Expansion on the kingside! } 14. h4 Ke5 15. Ke1 Na4 16. Kf2 ( 30. Rdd2 { does not help: } Rb1 31. Kf2 Ra1 32. g3 a5 33. Kg2 Kf6 34. Kf2 Nc5 35. Kg2 Na6 36. Kf2 Nb4 { Black wins as the a2-pawn is lost after all. } ) 
+Rb2 17. Rxb2 Nxb2 18. Rd2 Rxa2 { Black has a clear extra pawn and won convincingly. Final remarks 1. The reader should understand that this version of the asymmetric transformation was very bad for White from the start. The queens were off the board, White was forced to trade his dark-squared bishop, and most importantly, he could not prevent Black from breaking on the queenside. 2. Once Black captured ...bxc4, White’s recapture bxc4 was like accepting the loss, as Black obtained a dominant position and White found himself without a plan. At that point there was basically nothing to do other than wait. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837922/"]
+[Date "????.??.??"]
+[Round "12.37"]
+[White "11) The Maroczy"]
+[Black "Aziz vs. Vazquez Igarza #1"]
+[Result "*"]
+[FEN "r1r3k1/1p2ppbp/p2pbnp1/3N4/2PBP3/1P3P2/P2R2PP/4KB1R b KQkq - 0 15"]
+
+15... Bxd5 $1 16. exd5 Nd7 $1 { Black finds a good opportunity to trade off White's pair of bishops. For the rest of the game White will be weak on the dark squares. } 17. Bxg7 ( { Unfortunately } 17. Be3 $2 { loses an exchange to } Bc3 { . } ) 
+Kxg7 18. Kf2 { This is best, but now Black finds counterplay. } a5 $1 19. Bd3 a4 20. b4 ( 20. Re1 axb3 21. axb3 Kf8 22. Bb1 Ra3 $15 ) 
+Rc7 21. Re1 Kf8 22. f4 Rac8 { Note how the c4-pawn is weaker than Blacks e7-pawn. } 23. Rc2 b5 $1 ( 23... b5 23. Rec1 bxc4 25. Bxc4 Nb6 26. Bd3 Rxc2 27. Rxc2 Rxc2 28. Bxc2 Nxd5 29. b5 Nb6 $15 { Here only Black can play for a win. } ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837923/"]
+[Date "????.??.??"]
+[Round "12.38"]
+[White "11) The Maroczy"]
+[Black "Aziz vs. Vazquez Igarza #2"]
+[Result "*"]
+[FEN "r1r5/1p1nppkp/p2p2p1/3P4/2P5/1P3P2/P2R2PP/4KB1R w KQkq - 0 18"]
+
+18. Be2 b5 $1 { Black achieves the thematic break for this structure. } 19. cxb5 Rc1+ 20. Rd1 ( { Or } 20. Bd1 axb5 $17 ) 
+Rxd1+ 21. Kxd1 axb5 22. Bxb5 Rxa2 $1 { White has weaknesses everywhere. } 23. Bxd7 $2 Ra1+ 24. Kc2 Rxh1 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837924/"]
+[Date "????.??.??"]
+[Round "12.39"]
+[White "11) The Maroczy"]
+[Black "Aziz vs. Vazquez Igarza #3"]
+[Result "*"]
+[FEN "r1r5/1p1nppkp/p2p2p1/3P4/2P5/1P3P2/P2RB1PP/4K2R b KQkq - 0 18"]
+
+18... b5 19. Kf2 bxc4 20. bxc4 $2 ( { Now the c4-pawn will be a permanent weakness. It was necessary to play } 20. Bxc4 Nb6 21. Be2 Rc5 22. Rhd1 a5 $15 { though Black is in control. } ) 
+Rab8 21. Rc1 Rb4 22. Rdc2 Rcb8 23. Ke3 Nc5 $17 { Black has complete control of the dark squares and Whites light-squared bishop is actually quite useless. Black can progress slowly but surely. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551523/"]
+[Date "????.??.??"]
+[Round "12.40"]
+[White "11) The Maroczy"]
+[Black "Milos Pavlovic – Manuel Leon Hoyos"]
+[Result "0-1"]
+
+ { Milos Pavlovic – Manuel Leon Hoyos, USA 2012 Learning objective: This game shows how Black may obtain counterplay with the ...f7-f5 break. } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Bg7 8. Be3 O-O 9. O-O Nxd4 10. Bxd4 Bd7 11. Qd2 Bc6 12. f3 a5 13. b3 Nd7 14. Be3 Nc5 15. Rab1 { So far everything is familiar, and now: } e6 $5 { This is an interesting option and one of the main lines in this variation. Black is setting up a future ...f7-f5 break. } ( { The popular main line is } 15... Qb6 ) 
+16. Rfc1 $6 { The move Rfc1 is often utilized in this opening to support a queenside expansion and fight against Black’s queen (which is typically on b6 or b4) . But since Black is trying for a different plan with ...f7-f5, this move is not as useful here. } ( { More common and logical is } 16. Rfd1 Be5 { but notice that after } 17. Bd4 Qe7 ( { but not } 17. Rfc1 Bxd4 $6 18. Qxd4 $14 ) 
+18. Bxe5 $6 dxe5 { the doubled pawns are no problem, as Black will play ...f7-f5 with good counterplay. } ) 
+ ( { PH: The computer says that even using the other rook on the d-file is good: } 16. Rbd1 $5 ) 
+Be5 17. Bf1 ( 17. f4 $2 { loses a pawn to } Bxc3 18. Qxc3 Nxe4 { . } ) 
+Qe7 { A cautious move, preparing ...f7-f5 for when the right moment comes. } ( 17... f5 18. exf5 Rxf5 { This option seems a little premature after: } 19. f4 $1 ( { The tiny slip } 18... Qe7 18. Bd4 $2 { is losing after: } Qg5 $1 20. Be3 ( { or } 19... Qe7 19. Qxg5 $2 Bxd4 { or } 20. Rd1 Bxd4 21. Qxd4 Rxf3 ) 
+Qh4 21. g3 Bxg3 $1 ) 
+Bg7 20. Re1 { White is a little more comfortable due to the vulnerable d6- and e6-pawns. Nevertheless the position is roughly equal. } ) 
+18. Rc2 f5 $1 { A timely reaction; this break opens lines and will allow Black to find good counterplay. } 19. exf5 Rxf5 20. Bd4 ( { Now the desirable } 20. f4 $2 { loses an exchange after } Bxc3 $1 { and now } 21. Qxc3 ( { or } 21. Rxc3 Ne4 ) 
+Be4 ) 
+Raf8 { Black has obtained a threatening position; note how all his pieces contribute to the attack. } 21. Ne2 $2 { A careless move, and the decisive mistake. } ( { Correct was } 21. Rd1 $1 { as } Bxh2 $2 22. Kxh2 Qh4 23. Kg1 Rh5 { no longer works due to } 24. Be2 $1 { when the f3-pawn is protected and the king escapes. } ) 
+ ( { But instead, against } 21. Rd1 { Black replies: } Bf4 $5 ( { or } 21. Ne2 Rg5 ) 
+22. Qe1 Rh5 23. g3 Be5 ( { or } 23. Ne2 Bxf3 $5 24. gxf4 Rxf4 { with compensation } ) 
+24. f4 Bxd4 25. Rxd4 e5 { followed by ...Ne6 with counterplay. } ) 
+ ( 21. Bxe5 $6 { is risky for White, as the following forcing line shows: } dxe5 22. Qe3 e4 $1 23. fxe4 Nxe4 24. Nxe4 Bxe4 25. Bd3 Bxd3 26. Qxd3 Qc5 27. Kh1 Qd6 $1 28. Qe2 ( 28. Qxd6 $4 Rf1 29. Rxf1 Rxf1 ) 
+e5 29. h3 e4 $5 { The position is balanced, though a little easier for Black. } ) 
+Bxh2+ $1 { -+ The game was just getting started... This blow really makes a point by showing us how effective is Black’s ...f7-f5 in the creation of kingside threats. } 22. Kxh2 Rh5+ 23. Kg1 Qh4 { White resigns as there is no satisfactory defence against the threats of 24...Rxf3 or 24...Ne4, followed by 25...Qh2#. Final remarks 1. White’s post-opening play was imprecise; it was clear that Black was planning ...f7-f5 hence 16. Rfc1 was out of place. 2. The key to Black’s 17...Qe7 is to prepare ...f7-f5 so that it is not so easy for White to play f3-f4 driving away the bishop on e5, as we see in the variation 15...f5. If White cannot play f3-f4 after the trade on f5, then Black is likely to have at least enough counterplay. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837925/"]
+[Date "????.??.??"]
+[Round "12.41"]
+[White "11) The Maroczy"]
+[Black "Pavlovic vs. Leon Hoyos #1"]
+[Result "*"]
+[FEN "r2q1rk1/1p2ppbp/2bp2p1/p1n5/2P1P3/1PN1BP2/P2QB1PP/1R3RK1 b KQkq - 0 15"]
+
+15... e6 { This is an interesting option and one of the main lines in this variation. Black is setting up a future ...f7-f5 break. } 16. Rfd1 Be5 17. Bd4 Qe7 ( { But not } 17... Bxd4 $6 18. Qxd4 $14 ) 
+18. Bxe5 $6 dxe5 { The doubled pawns are no problem, as Black will play ...f7-f5 with good counterplay. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837926/"]
+[Date "????.??.??"]
+[Round "12.42"]
+[White "11) The Maroczy"]
+[Black "Pavlovic vs. Leon Hoyos #2"]
+[Result "*"]
+[FEN "r2q1rk1/1p3p1p/2bpp1p1/p1n1b3/2P1P3/1PN1BP2/P2Q2PP/1RR2BK1 b KQkq - 0 17"]
+
+17... f5 18. exf5 Rxf5 19. Bd4 $2 { The tiny slip Bd4 is losing. } Qg5 $1 20. Rd1 ( 20. Be3 Qh4 21. g3 Bxg3 $1 ( 20. Qxg5 $2 Bxd4 ) 
+ ) 
+Bxd4+ 21. Qxd4 Rxf3 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837927/"]
+[Date "????.??.??"]
+[Round "12.43"]
+[White "11) The Maroczy"]
+[Black "Pavlovic vs. Leon Hoyos #3"]
+[Result "*"]
+[FEN "r2q1rk1/1p3p1p/2bpp1p1/p1n1b3/2P1P3/1PN1BP2/P2Q2PP/1RR2BK1 b KQkq - 0 17"]
+
+17... f5 18. exf5 Rxf5 { This option seems a little premature. } 19. f4 $1 Bg7 20. Re1 { White is a little more comfortable due to the vulnerable d6- and e6-pawns. Nevertheless the position is roughly equal. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837928/"]
+[Date "????.??.??"]
+[Round "12.44"]
+[White "11) The Maroczy"]
+[Black "Pavlovic vs. Leon Hoyos #4"]
+[Result "*"]
+[FEN "r4rk1/1p2qp1p/2bpp1p1/p1n1b3/2P1P3/1PN1BP2/P2Q2PP/1RR2BK1 w KQkq - 0 18"]
+
+18. Rc2 f5 $1 { A timely reaction; this break opens lines and will allow Black to find good counterplay. } 19. exf5 Rxf5 20. f4 $2 { This loses an exchange. } Bxc3 21. Qxc3 ( { Or } 21. Rxc3 Ne4 ) 
+Be4 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837929/"]
+[Date "????.??.??"]
+[Round "12.45"]
+[White "11) The Maroczy"]
+[Black "Pavlovic vs. Leon Hoyos #5"]
+[Result "*"]
+[FEN "5rk1/1p2q2p/2bpp1p1/p1n1br2/2PB4/1PN2P2/P1RQ2PP/1R3BK1 w KQkq - 0 21"]
+
+21. Ne2 $2 { A careless move, and the decisive mistake. } Bxh2+ $1 { -+ The game was just getting started... This blow really makes a point by showing us how effective is Black's ...f7-f5 in the creation of kingside threats. } 22. Kxh2 Rh5+ 23. Kg1 Qh4 { White resigns as there is no satisfactory defence against the threats of 24... Rxf3 or 24... Ne4, followed by 25... Qh2#. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2324570/"]
+[Date "????.??.??"]
+[Round "12.46"]
+[White "11) The Maroczy"]
+[Black "White dominates after f3-f4"]
+[Result "1-0"]
+[FEN "2r2r1k/1p2p2p/p1np1qp1/8/2P1Bn2/1P3P2/P1NQ2PP/4RRK1 w - - 0 1"]
+
+ { To complete what was mentioned about White playing f3-f4, take the position in the diagram, which occurred in Simacek – Kanovsky, Czech Republic 2010. Black played ...f7-f5 a few moves earlier, but could not develop his initiative quite so effectively, and now after: } 1. g3 $1 Nh5 ( { PH: If } 1... Nh3 2. Kg2 Ng5 { now White can take on c6, but there is nothing wrong with } 3. Bd5 $5 { either. } ) 
+2. f4 $16 { White controls the board, as Black can do nothing on the kingside, while his central pawns are clear targets for White. A big difference between this position and the previous game is Black’s lack of bishops, hence his inability to create many threats. } Ng7 3. Ne3 Qf7 ( { Better was } 27... Nf5 { though after: } 28. Bxc6 bxc6 ( 28... Rxc6 { would allow } 29. Nd5 Qf7 30. g4 $1 { +- and White enters on e7 next. } ) 
+29. Nxf5 gxf5 30. Re3 e5 ( { or } 30... Rfe8 31. Rfe1 Qf7 32. Re6 $16 ) 
+31. Rd3 $1 Rcd8 32. fxe5 Qxe5 ( { or } 32... dxe5 33. Rxd8 Rxd8 34. Rxf5 $1 Rxd2 35. Rxf6 $16 ) 
+33. Re3 $16 { Black’s pawn structure is very weak. } ) 
+4. f5 $1 { +- It is White who attacks now, but of course this attack is based on the strong foundation of a superior pawn structure without weaknesses like the e7-pawn. } gxf5 ( 28... g5 { doesn’t help: } 29. Nd5 h6 30. f6 $1 exf6 31. Rxf6 $18 ) 
+ { And now the best continuation was: } 5. Nxf5 ( { Instead the game continued } 29. Bxf5 Nxf5 30. Nxf5 $16 { and White won convincingly. } ) 
+Nxf5 6. Rxf5 Qg8 7. Rh5 Rf7 8. Bd5 { Winning an exchange and the game. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837930/"]
+[Date "????.??.??"]
+[Round "12.47"]
+[White "11) The Maroczy"]
+[Black "Simacek vs. Kanovsky #1"]
+[Result "*"]
+[FEN "2r2r1k/1p2p2p/p1np1qp1/8/2P1Bn2/1P3P2/P1NQ2PP/4RRK1 w KQkq - 0 25"]
+
+25. g3 $1 Nh5 26. f4 $16 { White controls the board, as Black can do nothing on the kingside, while his central pawns are clear targets for White. A big difference between this position and the previous game is Black's lack of bishops, hence his inability to create many threats. } Ng7 27. Ne3 Qf7 28. f5 $1 { It is White who attacks now, but of course this attack is based on the strong foundation of a superior pawn structure without weaknesses like the e7-pawn. } g5 { This doesn't help. } 29. Nd5 h6 30. f6 $1 exf6 31. Rxf6 $18 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837931/"]
+[Date "????.??.??"]
+[Round "12.48"]
+[White "11) The Maroczy"]
+[Black "Simacek vs. Kanovsky #2"]
+[Result "*"]
+[FEN "2r2r1k/1p2p2p/p1np1qp1/8/2P1Bn2/1P3P2/P1NQ2PP/4RRK1 w KQkq - 0 25"]
+
+25. g3 $1 Nh5 26. f4 $16 Ng7 27. Ne3 Qf7 28. f5 $1 gxf5 29. { -KEY- } Nxf5 Nxf5 30. Rxf5 Qg8 31. Rh5 Rf7 32. Bd5 { Winning an exchange and the game. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837932/"]
+[Date "????.??.??"]
+[Round "12.49"]
+[White "11) The Maroczy"]
+[Black "Simacek vs. Kanovsky #3"]
+[Result "*"]
+[FEN "2r2r1k/1p2p2p/p1np1qp1/8/2P1Bn2/1P3P2/P1NQ2PP/4RRK1 w KQkq - 0 25"]
+
+25. g3 $1 Nh5 26. f4 $16 Ng7 27. Ne3 Nf5 { This was better than the game. } 28. { -KEY- } Bxc6 bxc6 29. Nxf5 gxf5 30. Re3 e5 ( { Or } 30... Rfe8 31. Rfe1 Qf7 32. Re6 $16 ) 
+31. Rd3 Rcd8 32. fxe5 Qxe5 ( { Or } 32... dxe5 33. Rxd8 Rxd8 34. Rxf5 $1 Rxd2 35. Rxf6 $16 ) 
+33. Re3 $16 { Black's pawn structure is very weak. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2324574/"]
+[Date "????.??.??"]
+[Round "12.50"]
+[White "11) The Maroczy"]
+[Black "Wang Zili vs. Zhang Pengxiang"]
+[Result "0-1"]
+
+ { Wang Zili – Zhang Pengxiang, Yongchuan 2003 Learning objective: This game illustrates Black’s ...b7-b5 break. Note that after pawns are traded on b5, the a2-pawn becomes a serious target. } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 O-O 8. Be2 d6 9. Rc1 $6 ( { PH: } 9. O-O { is by far the most common move here. } ) 
+Nxd4 10. Bxd4 Be6 ( { PH: } 10... Bh6 $1 { is just a great move, as the rook has to move again, and after } 11. Rc2 e5 12. Be3 Bxe3 13. fxe3 { Black has no problems. } ) 
+11. Qd2 { PH: In this line this turns out to be a poor square for the queen. White should just castle instead. } Qa5 12. f3 Rfc8 13. b3 a6 14. O-O $6 { A serious opening imprecision, allowing Black to seize the initiative. } ( { The main line is } 14. Be3 { , though after } b5 15. Nd5 Qxd2 16. Kxd2 Nxd5 17. cxd5 Bd7 { Black has a satisfactory version of the symmetric transformation, since White cannot easily gain space on the queenside and both rooks are likely to come off the board. For example, after } 18. Rxc8 Rxc8 19. Rc1 Rxc1 20. Kxc1 e6 $5 { which seems fairly drawish. } ) 
+ ( { PH: An important detail is that after } 14. Na4 Qxd2 15. Kxd2 { the move } Nxe4 $1 { is possible, but after } 16. Ke3 $1 { things get really complicated. Black can keep the advantage with } Bh6 $1 { as taking on e4 will lead to mate. } ) 
+b5 15. cxb5 ( { An interesting resource was } 15. Be3 $5 bxc4 16. bxc4 Rab8 ( { but not } 16. cxb5 Bxc4 $2 { due to } 17. Nd5 $1 Qxd2 18. Nxe7 Kf8 19. Bxd2 Kxe7 20. Rxc4 $14 ) 
+ { and now } 17. Nd5 Qxd2 18. Bxd2 Nxd5 19. cxd5 { leads to a roughly equal position. } ) 
+axb5 { Now White is facing a positional problem. He no longer has a spatial advantage and in fact his a2-pawn is a backward pawn, a potential target; Black’s position is preferable. } 16. Rfd1 ( { An option was } 16. Qe3 Bd7 17. f4 b4 18. Na4 $1 Rxc1 19. Rxc1 Rc8 ( { but not } 19. Rfd1 Bxa4 $2 20. Bb6 { when the queen is trapped } ) 
+20. Rxc8 Bxc8 21. e5 Nd5 22. Qd2 dxe5 23. fxe5 e6 $15 { when Black is better, though White has managed to draw attention away from the weak a2-pawn. } ) 
+b4 17. Na4 Rcb8 ( { More precise was } 17... Nd7 18. Bxg7 Kxg7 19. Qd4 Kg8 20. Qe3 { when Black is just a little better, but the position is delicate. For example, the premature } Nc5 $6 ( { better is } 20... Rab8 $5 ) 
+21. Nxc5 Rxc5 22. Rxc5 dxc5 23. Rd2 { allows White to equalize. } ) 
+18. Bf1 ( { Better was } 18. Bc4 $1 { as after } Bd7 19. Qe2 Bxa4 20. bxa4 Qxa4 21. Bb3 { White finds compensation for the pawn. For example, } Qa5 22. e5 dxe5 23. Rc5 Qa6 24. Qxa6 Rxa6 25. Bxe5 Rba8 26. Rb5 { regaining the pawn. } ) 
+Nd7 19. Bxg7 Kxg7 20. Qe1 $2 { This unnecessarily blunders a pawn. } ( { Better was: } 20. Bc4 Bxc4 21. Rxc4 Ne5 22. Rcc1 Rc8 $15 ) 
+Nb6 $1 21. Nxb6 Qxb6+ 22. Kh1 Rxa2 { Black is a pawn up and won the game without problems. Final remarks Something that bothers me about this example (and essentially every example I found with ...b7-b5) is how White was still able to hold the position and even make a draw in some variations despite having allowed ...b7-b5-b4. The truth is, this plan is often good enough to gain a tiny advantage, but the game can become oversimplified rather easily. Nevertheless, we should remember the Maroczy structure often gives better chances to White. If White has to play precisely in order to make a draw, then we could say Black’s strategy has succeeded. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837933/"]
+[Date "????.??.??"]
+[Round "12.51"]
+[White "11) The Maroczy"]
+[Black "Zili vs. Pengxiang #1"]
+[Result "*"]
+[FEN "r1r3k1/4ppbp/p2pbnp1/q7/2p1P3/1PN1BP2/P2QB1PP/2R2RK1 w KQkq - 0 16"]
+
+16. bxc4 Bxc4 $2 ( 16... Rab8 { and now } 17. Nd5 Qxd2 18. Bxd2 Nxd5 19. cxd5 { leads to a roughly equal position. } ) 
+17. { -KEY- } Nd5 $1 Qxd2 18. Nxe7+ Kf8 19. Bxd2 Kxe7 20. Rxc4 $14 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837934/"]
+[Date "????.??.??"]
+[Round "12.52"]
+[White "11) The Maroczy"]
+[Black "Zili vs. Pengxiang #2"]
+[Result "*"]
+[FEN "r1r3k1/3bppbp/3p1np1/qp6/3BPP2/1PN1Q3/P3B1PP/2R2RK1 b KQkq - 0 17"]
+
+17... b4 18. Na4 $1 Rxc1 19. Rxc1 Bxa4 $2 ( 19... Rc8 20. Rxc8 Bxc8 21. e5 Nd5 22. Qd2 dxe5 23. fxe5 e6 $15 { when Black is better, though White has managed to draw attention away from the weak a2-pawn. } ) 
+20. Bb6 { When the queen is trapped. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837935/"]
+[Date "????.??.??"]
+[Round "12.53"]
+[White "11) The Maroczy"]
+[Black "Zili vs. Pengxiang #3"]
+[Result "*"]
+[FEN "r1r5/3nppkp/3pb1p1/q7/Np2P3/1P3P2/P2QB1PP/2RR2K1 w KQkq - 0 20"]
+
+20. Qe1 $2 ( { This unnecessarily blunders a pawn. Better was: } 20. Bc4 Bxc4 21. Rxc4 Ne5 22. Rcc1 ) 
+Nb6 $1 21. Nxb6 Qxb6+ 22. Kh1 Rxa2 { Black is a pawn up and won the game without problems. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2324775/"]
+[Date "????.??.??"]
+[Round "12.54"]
+[White "11) The Maroczy"]
+[Black "Davorin Kuljasevic vs. Boris Golubovic"]
+[Result "1-0"]
+
+ { Davorin Kuljasevic – Boris Golubovic, Bol na Bracu 2013 Learning objective: This game shows how White can break in the centre with e4-e5 to weaken Black’s camp. } 1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 g6 5. e4 Bg7 6. Be3 d6 7. Nc3 Nf6 8. f3 Nxd4 9. Bxd4 O-O 10. Be2 Bd7 11. O-O a5 12. b3 Bc6 13. Qd2 Nd7 14. Be3 Nc5 15. Rab1 Qb6 16. Rfc1 Rfc8 17. Rc2 Qd8 18. Bf1 { Everything is theory so far, in fact there are over two hundred games on my database with this exact position, and now Black deviates from the main line with: } Be5 ( { The main line goes } 18... h5 { . } ) 
+19. g3 h5 20. Bg2 { White is preparing to play f3-f4 gaining space. } Kh7 21. Re1 Qf8 $6 ( { More cautious is } 21... b6 22. Bf2 ( { but not } 21... Qf8 21. Nd5 $6 e6 $1 23. Nc3 h4 { when Black begins to create kingside play } ) 
+Bg7 23. f4 $14 { though White is a little better and may speculate with either e4-e5 or f4-f5. } ) 
+ ( { PH: } 21... Qh8 { is an interesting way to create activity in such positions, though it's not so good here. For instance } 22. Nd5 Qd8 23. Bg5 { is annoying. Black should probably exchange with } Bxd5 { , but after } 23. Qxd5 e6 24. Qd2 $16 { Black has several weaknesses and it's difficult to deal with the incoming f4. } ) 
+22. Nd5 $1 { Good timing, threatening 23.Nb6. } Nd7 ( { If } 22... Bxd5 { , although } 23. exd5 $6 Qg7 24. f4 Bf6 { is nothing special for White, say after } 25. f5 g5 $1 { keeping the kingside closed, } ) 
+ ( { White has a pleasant choice between } 22... Bxd5 23. Qxd5 e6 24. Qd2 Bg7 25. f4 $14 ) 
+ ( { or } 22... Bxd5 23. cxd5 Qd8 ( { PH: Flores Rios misses an interesting tactic here: } 23... a4 $1 24. b4 Nb3 $5 { , when } 25. axb3 axb3 26. Rxc8 Qxc8 { seems to give Black enough compensation for the piece with the threats associated with the passed b-pawn. Even more interestingly, } Rxc2 26. Qxc2 a3 27. Qa2 Bb2 28. Bc1 Qg7 { is also evaluated as equal by the computer! } ) 
+24. Rec1 $14 { to follow up with Qd1 , a2-a3 and b3-b4. This is similar to the earlier example Smeets – Tiviakov. } ) 
+23. f4 Bg7 24. Kh1 $6 { Too slow. } ( { Better was the direct } 24. f5 $1 { and now a possible continuation is: } e6 25. fxg6 ( { or } 25. Bf4 $5 { ± } ) 
+fxg6 26. Rf1 Qe8 27. Bg5 $1 { (threatenin Ne7 or Nf6) } exd5 28. exd5 Ba4 $1 29. bxa4 Ne5 30. Qe2 Qxa4 31. Be4 $16 { When Black’s kingside is seriously weakened. } ) 
+Qd8 $6 { This imprecision returns the favour. } ( { If } 24... e6 { White preserves an advantage after: } 25. Nb6 ( { or } 24... Qd8 24. Rd1 $5 exd5 26. exd5 Ba4 27. bxa4 $14 ) 
+Nxb6 26. Bxb6 a4 27. b4 $14 ) 
+25. Nc3 $6 { Too slow again! White preserves an advantage, but misses a stronger option. } ( { Now } 25. f5 $1 { was even more promising. For example: } Bxd5 ( 25. Nc3 Ne5 $2 26. Nb6 $18 ) 
+26. exd5 Ne5 27. Be4 Qd7 28. Rf1 $16 { And from the example Simacek – Kanovsky we already know this kind of attack works well. } ) 
+Nc5 26. e5 $1 { The right reaction for the position; the positional threat is exd6, leaving Black with a weak d6-pawn. } Bxg2+ 27. Kxg2 Ra6 ( { A better defence was } 27... Na6 { since after } 28. exd6 Nb4 29. Rcc1 Qxd6 $1 30. Qxd6 exd6 { Black has just enough time to get rid of his weak d-pawn after } 31. Re2 Bxc3 32. Rxc3 a4 33. Rd2 axb3 34. axb3 d5 { with level chances. } ) 
+ ( { But of course after } 27... Na6 { White has the strong } 28. Nd5 $1 { (threatening Nb6) which secures an advantage. For example: } Rc6 29. Qf2 Nb4 ( { or } 29... dxe5 30. fxe5 Qe8 31. Bg5 $16 ) 
+30. Rd2 Nxd5 31. cxd5 Rcc8 32. Bd4 $16 ) 
+ ( { If } 27... Ne6 28. exd6 Qxd6 29. Qxd6 exd6 30. Rd1 $16 { the d6-pawn is a serious weakness. } ) 
+ ( 27... dxe5 { would be desirable positionally, but it just loses a piece after } 28. Qxd8 Rxd8 29. Bxc5 { . } ) 
+28. Bxc5 Rxc5 ( 28... dxc5 { is met by the simple } 29. Rd1 $1 Qxd2 30. Rcxd2 f6 31. Rd7 { and White wins. } ) 
+29. Ne4 Rc8 30. Ng5+ Kg8 31. Qd5 { Winning a pawn and the game. } Qe8 32. Qxb7 Qc6+ 33. Qxc6 Raxc6 34. exd6 exd6 35. Rce2 { White has a winning position and the rest is irrelevant to us. Black resigned on move 56. Final remarks 1. White’s plan of f3-f4 and the resulting position proved to be very promising, as both e4-e5 and f4-f5 were potentially strong breaks. White unfortunately missed two great opportunities to play a strong f4-f5 break. 2. Black’s problem in this game was his lack of precision in critical moments. It would have helped to play ...e7-e6 to prevent White’s knight from coming to d5, where it created threats and especially allowed the f4-f5 break. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837936/"]
+[Date "????.??.??"]
+[Round "12.55"]
+[White "11) The Maroczy"]
+[Black "Kuljasevic vs. Golubovic #1"]
+[Result "*"]
+[FEN "r1rq4/1p2pp1k/2bp2p1/p1n1b2p/2P1P3/1PN1BPP1/P1RQ2BP/4R1K1 b KQkq - 0 21"]
+
+21... Qf8 22. Nd5 $1 { Good timing, threatening 23. Nb6. } Nd7 ( { If } 22... Bxd5 { , although } 23. exd5 $6 Qg7 24. f4 Bf6 { is nothing special for White, say after } 25. f5 g5 $1 { keeping the kingside closed. } ) 
+ ( { White has a pleasant choice between } 22... Bxd5 23. Qxd5 e6 24. Qd2 Bg7 25. f4 $14 ) 
+ ( { Or } 22... Bxd5 23. cxd5 Qd8 24. Rec1 $14 { to follow up with Qd1, a2-a3 and b3-b4. This is similar to the earlier example Smeets - Tiviakov. } ) 
+23. f4 Bg7 24. f5 $1 e6 25. fxg6+ ( { Or } 25. Bf4 $5 { ± } ) 
+fxg6 26. Rf1 Qe8 27. Bg5 $1 { Threatening Ne7 or Nf6. } exd5 28. exd5 Ba4 $1 29. bxa4 Ne5 30. Qe2 Qxa4 31. Be4 $16 { When Black's kingside is seriously weakened. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837937/"]
+[Date "????.??.??"]
+[Round "12.56"]
+[White "11) The Maroczy"]
+[Black "Kuljasevic vs. Golubovic #2"]
+[Result "*"]
+[FEN "r1r2q2/1p1nppbk/2bp2p1/p2N3p/2P1PP2/1P2B1P1/P1RQ2BP/4R2K b KQkq - 0 24"]
+
+24... Qd8 $6 { This imprecision returns the favour. } ( { If } 24... e6 { White preserves an advantage after: } 25. Nb6 ( { Or } 24... Qd8 24. Rd1 $5 exd5 26. exd5 Ba4 27. bxa4 $14 ) 
+Nxb6 26. Bxb6 a4 27. b4 $14 ) 
+25. f5 $1 Bxd5 ( 25... Ne5 $2 26. Nb6 $18 ) 
+26. exd5 Ne5 27. Be4 Qd7 28. Rf1 $16 { And from the example Simacek - Kanovsky we already know this kind of attack works well. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837938/"]
+[Date "????.??.??"]
+[Round "12.57"]
+[White "11) The Maroczy"]
+[Black "Kuljasevic vs. Golubovic #3"]
+[Result "*"]
+[FEN "r1rq4/1p1nppbk/2bp2p1/p6p/2P1PP2/1PN1B1P1/P1RQ2BP/4R2K b KQkq - 0 25"]
+
+25... Nc5 26. e5 $1 { The right reaction for the position; the positional threat is exd6, leaving Black with a weak d6-pawn. } Bxg2+ 27. Kxg2 Ne6 28. exd6 Qxd6 29. Qxd6 exd6 30. Rd1 $16 { The d6-pawn is a serious weakness. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837939/"]
+[Date "????.??.??"]
+[Round "12.58"]
+[White "11) The Maroczy"]
+[Black "Kuljasevic vs. Golubovic #4"]
+[Result "*"]
+[FEN "r1rq4/1p1nppbk/2bp2p1/p6p/2P1PP2/1PN1B1P1/P1RQ2BP/4R2K b KQkq - 0 25"]
+
+25... Nc5 26. e5 $1 { The right reaction for the position; the positional threat is exd6, leaving Black with a weak d6-pawn. } Bxg2+ 27. { -KEY- } Kxg2 Ra6 ( { A better defence was } 27... Na6 { since after } 28. exd6 Nb4 29. Rcc1 Qxd6 $1 30. Qxd6 exd6 { Black has just enough time to get rid of his weak d-pawn after } 31. Re2 Bxc3 32. Rxc3 a4 33. Rd2 axb3 34. axb3 d5 { with level chances. } ) 
+ ( { But of course after } 27... Na6 { White has the strong } 28. Nd5 $1 { (threatening Nb6) which secures an advantage. For example: } Rc6 29. Qf2 Nb4 ( { Or } 29... dxe5 30. fxe5 Qe8 31. Bg5 $16 ) 
+30. Rd2 Nxd5 31. cxd5 Rcc8 32. Bd4 $16 ) 
+28. Bxc5 dxc5 29. Rd1 $1 Qxd2+ 30. Rcxd2 f6 31. Rd7 { And White wins. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2837940/"]
+[Date "????.??.??"]
+[Round "12.59"]
+[White "11) The Maroczy"]
+[Black "Kuljasevic vs. Golubovic #5"]
+[Result "*"]
+[FEN "r1rq4/1p2ppbk/3p2p1/p1n1P2p/2P2P2/1PN1B1P1/P1RQ2KP/4R3 b KQkq - 0 27"]
+
+27... Ra6 28. Bxc5 Rxc5 29. { -KEY- } Ne4 Rc8 30. Ng5+ Kg8 31. Qd5 { Winning a pawn and the game. } Qe8 32. Qxb7 
+ *

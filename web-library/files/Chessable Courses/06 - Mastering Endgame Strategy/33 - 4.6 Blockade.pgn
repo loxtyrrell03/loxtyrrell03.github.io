@@ -1,0 +1,341 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12628888/"]
+[Date "????.??.??"]
+[Round "33.1"]
+[White "4.6 Blockade"]
+[Black "Blockade"]
+[Result "*"]
+
+ { The blockade is yet another subject that I investigated quite thoroughly in 'Mastering Chess Strategy'. Typically, the blockade idea consists of placing a piece in front of an enemy pawn, in order to prevent its advance and indirectly restrict its fellow pieces. Here are some examples that illustrate the role of the blockade in the endgame. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612242/"]
+[Date "????.??.??"]
+[Round "33.2"]
+[White "4.6 Blockade"]
+[Black "Example 298- Agrest- E. vs. Hillarp Persson- T.- Swedish Championship- Gothenburg 2005"]
+[Result "1/2-1/2"]
+[FEN "8/8/8/1n4k1/4B3/1p1K1PP1/8/8 b - - 0 1"]
+
+ { In this minor piece ending, Hillarp, a pawn down, found a clear-cut path to a draw, based on a blockade. } 1... { -KEY- } b2 $1 { The b-pawn is sacrificed in order to deflect White's king from the kingside. } 2. Kc2 Nd4+ 3. Kxb2 Ne2 $1 4. g4 Nf4 { Having provoked the g-pawn to a light square, Black can establish a dark-square blockade with his knight and king. } 5. Kc3 Nh3 6. Kd4 Kf4 ( 6... Nf4 { was just as good, since the knight will never run out of squares. By the way, such a blockade can fail if deployed at the edge of the board, as we already saw in Averbakh's study featured earlier in this chapter (see Example 249). } ) 
+7. Kd5 Kg5 ( { Changing places with } 7... Ng5 { is also fine, of course. } ) 
+8. Ke5 Nf4 9. Bf5 Nh3 10. Ke4 Nf4 { Note, too, that if Black's knight was a bishop and White's bishop was a knight, then the latter would win without much effort, relying on the knight's ability to touch squares of both colours. } 11. Ke3 Nh3 12. Bd3 Nf4 13. Bc4 Nh3 14. Bf1 { Seeing that the knight never runs out of squares, White agreed to a draw. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13873685/"]
+[Date "????.??.??"]
+[Round "33.3"]
+[White "4.6 Blockade"]
+[Black "Example 299- Yermolinsky- A. vs. Kasparov- G.- Wijk aan Zee 1999"]
+[Result "0-1"]
+[FEN "1k6/pp5p/3r1np1/2pP1p2/2P2P2/1R2PB2/P6P/6K1 b - - 0 1"]
+
+ { Thanks to his sounder pawn structure and superior minor piece, Black is better in the above position. } 1... { -KEY- } Ra6 $1 { The rook starts working on the weak white a- and c-pawns, while ceding the blocking square on d6 to its preferred user, the knight. } 2. a3 Ne8 $1 3. e4 { Thus White gets rid of his backward e-pawn and clears some space for the bishop. } fxe4 4. Bxe4 Nd6 5. Bd3 Ra4 6. Rc3 Kc7 7. Kf2 { Black's pieces were considerably improved over the last moves, but how to progress further? } b5 $1 { It might appear illogical to open the position for the enemy bishop, but this advance has several virtues: the d5-pawn is weakened, a passed pawn is created on the c-file, and Black's king will be able to cross the sixth rank. } 8. cxb5 Kb6 ( { Of course not } 8... Rxf4 $2 9. Ke3 { followed by Rxc5+, and Black loses his passed pawn. } ) 
+9. Ke3 c4 $1 ( { Simplifying to a minor piece ending with an extra pawn. Another good option was } 9... Rd4 $5 { followed by ...Rxd5-h5. } ) 
+10. Bc2 Nxb5 11. Bxa4 Nxc3 12. Be8 ( { Or } 12. Bc2 Kc5 13. d6 Kxd6 { when both } 14. f5 ( { and } 14. Kd4 Nb5 ) 
+g5 $1 { favour Black - Hecht. } ) 
+Kc5 $1 ( { King first! After } 12... Nxd5 $6 13. Kd4 c3 14. Ba4 { White would have more chances for survival, thanks to his active king. } ) 
+13. d6 Nd5+ $1 ( { Less technical is } 13... Kxd6 $6 14. Kd4 { with similar play to the previous note. } ) 
+14. Ke4 Nf6+ 15. Ke3 ( { Or } 15. Ke5 Nxe8 16. d7 Nd6 17. d8=N $11 c3 18. Ne6 Kc4 19. Nd4 Nb5 { winning - Hecht. } ) 
+Kxd6 16. Bf7 Kc5 { With a healthy extra pawn and more active king, the rest is a matter of technique for Black. } 17. h4 Ng4+ 18. Kd2 ( { The desirable } 18. Ke4 { fails to } Nh6 19. Be6 Nf5 $1 20. h5 Ng3 { etc. } ) 
+Kd4 19. h5 gxh5 20. Bxh5 Nf6 { In view of the imminent advance of the h-pawn, White resigned. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612243/"]
+[Date "????.??.??"]
+[Round "33.4"]
+[White "4.6 Blockade"]
+[Black "Yermolinsky- A. vs. Kasparov- G.- #1"]
+[Result "0-1"]
+[FEN "1k6/pp5p/3r1np1/2pP1p2/2P2P2/1R2PB2/P6P/6K1 b - - 0 1"]
+
+ { Thanks to his sounder pawn structure and superior minor piece, Black is better in this position. } 1... { -KEY- } Ra6 $1 { The rook starts working on the weak white a- and c-pawns, while ceding the blocking square on d6 to its preferred user, the knight. } 2. a3 Ne8 $1 3. e4 { Thus White gets rid of his backward e-pawn and clears some space for the bishop. } fxe4 4. Bxe4 Nd6 5. Bd3 Ra4 6. Rc3 Kc7 7. Kf2 { Black's pieces were considerably improved over the last moves, but how to progress further? } b5 $1 { It might appear illogical to open the position for the enemy bishop, but this advance has several virtues: the d5-pawn is weakened, a passed pawn is created on the c-file, and Black's king will be able to cross the sixth rank. } 8. cxb5 Kb6 ( { Of course not } 8... Rxf4 $2 9. Ke3 { followed by Rxc5+, and Black loses his passed pawn. } ) 
+9. Ke3 c4 $1 ( { Simplifying to a minor piece ending with an extra pawn. Another good option was } 9... Rd4 $5 { followed by ...Rxd5-h5. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612286/"]
+[Date "????.??.??"]
+[Round "33.5"]
+[White "4.6 Blockade"]
+[Black "Yermolinsky- A. vs. Kasparov- G.- #2"]
+[Result "0-1"]
+[FEN "8/p6p/1k1n2p1/1P1P4/r1p2P2/P1RBK3/7P/8 w - - 0 10"]
+
+10. { -KEY- } Bc2 Nxb5 11. Bxa4 Nxc3 12. Be8 ( { Or } 12. Bc2 Kc5 13. d6 Kxd6 { when both } 14. f5 g5 $1 ( { and } 14. Kd4 Nb5 { favour Black - Hecht. } ) 
+ ) 
+Kc5 $1 { King first! } ( { After } 12... Nxd5 $6 13. Kd4 c3 14. Ba4 { White would have more chances for survival, thanks to his active king. } ) 
+13. d6 Nd5+ $1 ( { Less technical is } 13... Kxd6 $6 14. Kd4 { with similar play to the previous note. } ) 
+14. Ke4 Nf6+ 15. Ke3 ( { Or } 15. Ke5 Nxe8 16. d7 Nd6 17. d8=N $11 c3 18. Ne6 Kc4 19. Nd4 Nb5 { winning - Hecht. } ) 
+Kxd6 16. Bf7 Kc5 { With a healthy extra pawn and more active king, the rest is a matter of technique for Black. } 17. h4 Ng4+ 18. Kd2 ( { The desirable } 18. Ke4 { fails to } Nh6 19. Be6 Nf5 $1 20. h5 Ng3 { etc. } ) 
+Kd4 19. h5 gxh5 20. Bxh5 Nf6 { In view of the imminent advance of the h-pawn, White resigned. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612244/"]
+[Date "????.??.??"]
+[Round "33.6"]
+[White "4.6 Blockade"]
+[Black "Example 300- Berg- E. vs. Ernst- T.- Swedish Championship- Skara 2002"]
+[Result "1-0"]
+[FEN "2r2rk1/1b4p1/pp5p/1p1p4/3Rn3/P1P2N1P/1PB2PP1/4R1K1 w - - 0 1"]
+
+ { In this position Black's active knight on e4 hardly compensates for his defective pawn structure and bad bishop. Berg found a surprising solution, based on a blockade. } 1. { -KEY- } Bxe4 $5 { Aiming at a minor piece ending, where the problem with Black's bishop will be stronger felt. } ( { An obvious alternative was } 1. Bb3 { - Wedberg, but White perhaps wanted to avoid } Nc5 2. Bxd5 Bxd5 3. Rxd5 Na4 { with some slight counterplay for the pawn. } ) 
+dxe4 2. Ne5 Rf6 { Covering the weak b6-pawn in advance. } ( { After } 2... Rfd8 3. Red1 Rxd4 4. Rxd4 { White has a big advantage. } ) 
+3. Ng4 $1 { Heading for the great blockading square on e3. } ( { The obvious } 3. Rd7 { could be met by } Re8 $1 4. Ng4 Rf7 5. Rd6 h5 6. Ne3 Rf6 { etc. } ) 
+Rg6 4. Red1 h5 5. Ne3 Rf8 6. Rd6 $1 { Limiting any enemy counterplay. } Rxd6 $6 ( 6... Rgf6 7. Rxf6 Rxf6 { was more stubborn, avoiding the minor piece ending. } ) 
+7. Rxd6 Rf6 8. Rxf6 gxf6 9. Kh2 $1 { The king has found an excellent route to the action along the dark squares. } Kf7 ( { The restrictive } 9... h4 { fails to } 10. Nf5 ) 
+10. Kg3 Kg6 11. Kf4 Bc6 12. Nf5 Bd7 13. Ne3 ( { There was nothing wrong with } 13. Nh4 Kf7 14. Kxe4 Bc6 15. Kf4 { but Berg has seen that by preparing a zugzwang he can win even more comfortably. } ) 
+Bc6 14. h4 $1 a5 ( { Or } 14... Bb7 15. Nf5 { with a similar effect. } ) 
+15. Nf5 Bd7 16. Nd4 $1 f5 17. Ke5 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612288/"]
+[Date "????.??.??"]
+[Round "33.7"]
+[White "4.6 Blockade"]
+[Black "Berg- E. vs. Ernst- T.- #1"]
+[Result "1-0"]
+[FEN "2r2rk1/1b4p1/pp5p/1p1p4/3Rn3/P1P2N1P/1PB2PP1/4R1K1 w - - 0 1"]
+
+ { In this position Black's active knight on e4 hardly compensates for his defective pawn structure and bad bishop. Berg found a surprising solution, based on a blockade. } 1. { -KEY- } Bxe4 $5 { Aiming at a minor piece ending, where the problem with Black's bishop will be stronger felt. } ( { An obvious alternative was } 1. Bb3 { - Wedberg, but White perhaps wanted to avoid } Nc5 2. Bxd5 Bxd5 3. Rxd5 Na4 { with some slight counterplay for the pawn. } ) 
+dxe4 2. Ne5 Rf6 { Covering the weak b6-pawn in advance. } ( { After } 2... Rfd8 3. Red1 Rxd4 4. Rxd4 { White has a big advantage. } ) 
+3. Ng4 $1 { Heading for the great blockading square on e3. } ( { The obvious } 3. Rd7 { could be met by } Re8 $1 4. Ng4 Rf7 5. Rd6 h5 6. Ne3 Rf6 { etc. } ) 
+Rg6 4. Red1 h5 5. Ne3 Rf8 6. Rd6 $1 { Limiting any enemy counterplay. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/28259743/"]
+[Date "????.??.??"]
+[Round "33.8"]
+[White "4.6 Blockade"]
+[Black "Berg- E. vs. Ernst- T.- #2"]
+[Result "1-0"]
+[FEN "5rk1/1b4p1/pp1R2r1/1p5p/4p3/P1P1N2P/1P3PP1/3R2K1 b - - 3 6"]
+
+6... { -KEY- } Rxd6 $6 ( 6... Rgf6 7. Rxf6 Rxf6 { was more stubborn, avoiding the minor piece ending. } ) 
+7. Rxd6 Rf6 8. Rxf6 gxf6 9. Kh2 $1 { The king has found an excellent route to the action along the dark squares. } Kf7 ( { The restrictive } 9... h4 { fails to } 10. Nf5 ) 
+10. Kg3 Kg6 11. Kf4 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/28259744/"]
+[Date "????.??.??"]
+[Round "33.9"]
+[White "4.6 Blockade"]
+[Black "Berg- E. vs. Ernst- T.- #3"]
+[Result "1-0"]
+[FEN "8/1b6/pp3pk1/1p5p/4pK2/P1P1N2P/1P3PP1/8 b - - 5 11"]
+
+11... { -KEY- } Bc6 12. Nf5 Bd7 13. Ne3 ( { There was nothing wrong with } 13. Nh4 Kf7 14. Kxe4 Bc6 15. Kf4 { but Berg has seen that by preparing a zugzwang he can win even more comfortably. } ) 
+Bc6 14. h4 $1 a5 ( { Or } 14... Bb7 15. Nf5 { with a similar effect. } ) 
+15. Nf5 Bd7 16. Nd4 $1 f5 17. Ke5 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612245/"]
+[Date "????.??.??"]
+[Round "33.10"]
+[White "4.6 Blockade"]
+[Black "Example 301- Ponomariov- R. vs. Korchnoi- V.- Cannes 1998"]
+[Result "1/2-1/2"]
+[FEN "6k1/2pn2pp/2b2p2/p2p1P2/3P2P1/2P1B3/P5BP/6K1 b - - 0 2"]
+
+ ( { White has an undisputed advantage thanks to his strong bishop pair, and now threatens } 2. Bf4 ) 
+ { -KEY- } Nb6 $1 { Korchnoi sacrifices the c7-pawn in order to establish a light-square blockade. } ( { The passive } 1... Bb7 $6 { is well met by } 2. Bf4 c6 3. Bc7 a4 4. Bf1 $1 { limiting both of Black's minor pieces, while preparing a king march to the opposite flank. } ) 
+2. Bf4 a4 ( { a) Another possible move order is } 2... Nc4 3. Bxc7 a4 ) 
+ ( { b) But not } 2... Na4 $2 3. c4 ) 
+3. Bxc7 Nc4 { The blockade is complete. White's extra pawn on the queenside isn't really felt, so he prepares actions on the opposite flank. } 4. Kf2 Kf7 5. Bf4 { Perhaps it was better to leave the bishop there, so that it can later attack the f6-pawn from d8 - Mikhalevski. } h6 $1 { An important detail: once White decides to play g4-g5, Black assures a maximum number of pawn exchanges, thus making his defensive area more compact. } 6. h4 Bb7 7. Bc1 Bc6 8. Kg3 Bb7 9. Kf4 Bc6 10. Bf3 Bb7 { White has made all possible piece improvements and now goes for direct action. } 11. g5 hxg5+ 12. hxg5 g6 $1 { In the same spirit as seven moves ago. } 13. Bd1 Bc6 14. Bc2 ( { Or } 14. fxg6 Kxg6 15. Bc2 Kg7 16. g6 Bd7 { and White can't progress; e.g. } 17. Bf5 Be8 18. Be6 Bc6 { - Mikhalevski. } ) 
+fxg5+ 15. Kxg5 gxf5 16. Bxf5 Nd6 17. Bc2 Ke6 $1 ( { Korchnoi is not tempted by the ending with opposite-coloured bishops arising after } 17... Ne4 $2 18. Bxe4 dxe4 { seeing that } 19. Kf5 $1 Bd5 20. a3 { would leave him helpless against the plan of Ke5, d4-d5, Kd4, c3-c4, Kc5-b4 and Bf4 - Mikhalevski. } ) 
+18. Kf4 ( { Here a draw was agreed, although Black would still need to play precisely; e.g. } 18. Kf4 Bb5 19. Ba3 Ne4 $1 20. Bb4 a3 $1 21. Bb3 ( { neither } 21. Bxa3 Nxc3 ) 
+ ( { nor } 21. Bxe4 dxe4 22. Kxe4 Bc4 { leads anywhere for White; } ) 
+Nd2 $1 22. Bxa3 Nxb3 23. axb3 Be2 24. Ke3 Bd1 25. b4 Ba4 { and despite having two extra pawns, White can't make progress. } ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612287/"]
+[Date "????.??.??"]
+[Round "33.11"]
+[White "4.6 Blockade"]
+[Black "Ponomariov- R. vs. Korchnoi- V.- #1"]
+[Result "1/2-1/2"]
+[FEN "6k1/2pn2pp/2b2p2/p2p1P2/3P2P1/2P1B3/P5BP/6K1 b - - 0 2"]
+
+ ( { White has an undisputed advantage thanks to his strong bishop pair, and now threatens } 2. Bf4 ) 
+ { -KEY- } Nb6 $1 { Korchnoi sacrifices the c7-pawn in order to establish a light-square blockade. } ( { The passive } 1... Bb7 $6 { is well met by } 2. Bf4 c6 3. Bc7 a4 4. Bf1 $1 { limiting both of Black's minor pieces, while preparing a king march to the opposite flank. } ) 
+2. Bf4 a4 ( { a) Another possible move order is } 2... Nc4 3. Bxc7 a4 ) 
+ ( { b) But not } 2... Na4 $2 3. c4 ) 
+3. Bxc7 Nc4 { The blockade is complete. White's extra pawn on the queenside isn't really felt, so he prepares actions on the opposite flank. } 4. Kf2 Kf7 5. Bf4 { Perhaps it was better to leave the bishop there, so that it can later attack the f6-pawn from d8 - Mikhalevski. } h6 $1 { An important detail: once White decides to play g4-g5, Black assures a maximum number of pawn exchanges, thus making his defensive area more compact. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13873688/"]
+[Date "????.??.??"]
+[Round "33.12"]
+[White "4.6 Blockade"]
+[Black "Ponomariov- R. vs. Korchnoi- V.- #2"]
+[Result "1/2-1/2"]
+[FEN "8/1b3kp1/5p1p/3p1P2/p1nP1KPP/2P2B2/P7/2B5 w - - 0 11"]
+
+11. { -KEY- } g5 { White has made all possible piece improvements and now goes for direct action. } hxg5+ 12. hxg5 g6 $1 { In the same spirit as seven moves ago. } 13. Bd1 Bc6 14. Bc2 ( { Or } 14. fxg6 Kxg6 15. Bc2 Kg7 16. g6 Bd7 { and White can't progress; e.g. } 17. Bf5 Be8 18. Be6 Bc6 { - Mikhalevski. } ) 
+fxg5+ 15. Kxg5 gxf5 16. Bxf5 Nd6 17. Bc2 Ke6 $1 ( { Korchnoi is not tempted by the ending with opposite-coloured bishops arising after } 17... Ne4 $2 18. Bxe4 dxe4 { seeing that } 19. Kf5 $1 Bd5 20. a3 { would leave him helpless against the plan of Ke5, d4-d5, Kd4, c3-c4, Kc5-b4 and Bf4 - Mikhalevski. } ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612246/"]
+[Date "????.??.??"]
+[Round "33.13"]
+[White "4.6 Blockade"]
+[Black "Example 302- Byrne- R. vs. Grefe- J.- US Championship- Oberlin 1975"]
+[Result "1/2-1/2"]
+[FEN "5r2/p1k1b2p/3p2p1/2p1p3/2P1P2P/PR3NP1/4KP2/8 w - - 0 1"]
+
+ ( { A different kind of blockade might occur in pawn endings, when a blocked pawn structure makes it impossible for either side to enter with the king. Knowledge of this idea helped the weaker side force a draw in the next example.White's superior minor piece yields him a long-term edge in this position, and a sensible next step would have been } 0... Ke6 0. Nd2 { , heading for b1-c3-d5. However, Byrne went for a different idea. } ) 
+1. { -KEY- } Ng5 $6 { White tries to force the exchange on g5, which would strengthen his pawn structure and facilitate a kingside expansion with f2-f4 later on. We will soon see the flaw to this idea. } Bxg5 2. hxg5 Rb8 $1 3. Rxb8 ( { In the event of } 3. Rf3 { Black could choose between the solid } Kc6 ( { and the active } 3. Rxb8 Rb2 $5 { followed by ...a7-a5 } ) 
+4. Rf7 Rb7 ) 
+Kxb8 4. f4 Kc7 $1 ( { Perhaps Byrne forgot about this option; only anticipating } 4... exf4 $2 5. gxf4 Kc7 6. f5 Kd7 7. Ke3 { when White's better pawn structure (one stops two on the kingside) should decide matters. } ) 
+5. f5 Kd7 6. Kd3 a5 $1 { Locking the queenside before White's king enters. } ( { In view of } 6... a5 7. Kc3 a4 { the players agreed to a draw. } ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612247/"]
+[Date "????.??.??"]
+[Round "33.14"]
+[White "4.6 Blockade"]
+[Black "Example 303- Bologan- V. vs. Miladinovic- I.- Bosnian Team Championship 2008"]
+[Result "1-0"]
+[FEN "r7/2k3pp/2p2b2/1r2p3/6B1/1P4P1/P2R1P1P/5RK1 w - - 0 1"]
+
+ { It is no secret that the typical performer of the blockade is the knight, but occasionally other pieces can take up this task as well. Here are a few examples.With a healthy extra pawn and a sounder structure, White is much better, though the presence of opposite-coloured bishops gives Black some hope of survival. Bologan found a fine manoeuvre. } 1. { -KEY- } Bf5 $1 { Heading for e4, where the bishop will immobilize Black's e-pawn and control the whole board. Moreover, it can't be chased away from there. } g6 ( { a) Or } 1... Rd5 2. Rc2 $1 { with similar play. } ) 
+ ( { b) But } 1... h6 { might have been a lesser evil, avoiding the exposure of the kingside pawns. } ) 
+2. Rd7+ Kb6 3. Be4 Rb4 ( { The attempt to reduce material by } 3... Rxa2 4. Rxh7 Rxb3 { fails to } 5. Rc1 { - Bologan. } ) 
+4. Re1 Rd4 ( { On this occasion, } 4... Rxa2 { runs into } 5. Rd6 $1 Bg5 6. Rxc6 Kb5 7. Re6 ) 
+5. Rxh7 Rxa2 6. Rf7 Rd6 7. Bxg6 { With two extra pawns, the rest is a matter of technique for Bologan. } Rb2 8. Rb1 $1 Ra2 ( { After } 8... Rxb1 9. Bxb1 Rd1 10. Kg2 Rxb1 11. Rxf6 Rxb3 { the enemy pieces aren't well placed for a battle against the h-pawn. } ) 
+9. Be4 Bd8 10. Rc1 Rb2 11. Rc3 Re2 12. Rc4 $1 ( { Bologan doesn't allow even the slightest counterplay after } 12. Bf3 Re1 13. Kg2 e4 { and instead reinforces his blockade. } ) 
+Rb2 13. Rf3 Be7 14. Kg2 Rh6 15. h4 Rd2 16. Rfc3 Rdd6 17. Rc2 Rdf6 18. b4 Rd6 19. Kh3 Bf8 20. Kg4 $1 { With the clever plan of h4-h5 and Bg6, further restricting the enemy pieces. } Be7 21. h5 Bf8 22. Bg6 Bg7 23. Kf3 Rh8 24. g4 Rf8+ 25. Kg3 Rd4 26. Be4 { In this hopeless position, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13873690/"]
+[Date "????.??.??"]
+[Round "33.15"]
+[White "4.6 Blockade"]
+[Black "Bologan- V. vs. Miladinovic- I.- #1"]
+[Result "1-0"]
+[FEN "r7/2k3pp/2p2b2/1r2p3/6B1/1P4P1/P2R1P1P/5RK1 w - - 0 1"]
+
+ { It is no secret that the typical performer of the blockade is the knight, but occasionally other pieces can take up this task as well. Here are a few examples.With a healthy extra pawn and a sounder structure, White is much better, though the presence of opposite-coloured bishops gives Black some hope of survival. Bologan found a fine manoeuvre. } 1. { -KEY- } Bf5 $1 { Heading for e4, where the bishop will immobilize Black's e-pawn and control the whole board. Moreover, it can't be chased away from there. } g6 ( { a) Or } 1... Rd5 2. Rc2 $1 { with similar play. } ) 
+ ( { b) But } 1... h6 { might have been a lesser evil, avoiding the exposure of the kingside pawns. } ) 
+2. Rd7+ Kb6 3. Be4 Rb4 ( { The attempt to reduce material by } 3... Rxa2 4. Rxh7 Rxb3 { fails to } 5. Rc1 { - Bologan. } ) 
+4. Re1 Rd4 ( { On this occasion, } 4... Rxa2 { runs into } 5. Rd6 $1 Bg5 6. Rxc6 Kb5 7. Re6 ) 
+5. Rxh7 Rxa2 6. Rf7 Rd6 7. Bxg6 { With two extra pawns, the rest is a matter of technique for Bologan. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13873689/"]
+[Date "????.??.??"]
+[Round "33.16"]
+[White "4.6 Blockade"]
+[Black "Bologan- V. vs. Miladinovic- I.- #2"]
+[Result "1-0"]
+[FEN "8/5R2/1kpr1bB1/4p3/8/1P4P1/r4P1P/4R1K1 b - - 0 7"]
+
+7... { -KEY- } Rb2 8. Rb1 $1 Ra2 ( { After } 8... Rxb1 9. Bxb1 Rd1 10. Kg2 Rxb1 11. Rxf6 Rxb3 { the enemy pieces aren't well placed for a battle against the h-pawn. } ) 
+9. Be4 Bd8 10. Rc1 Rb2 11. Rc3 Re2 12. Rc4 $1 ( { Bologan doesn't allow even the slightest counterplay after } 12. Bf3 Re1 13. Kg2 e4 { and instead reinforces his blockade. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13873686/"]
+[Date "????.??.??"]
+[Round "33.17"]
+[White "4.6 Blockade"]
+[Black "Bologan- V. vs. Miladinovic- I.- #3"]
+[Result "1-0"]
+[FEN "8/4b3/1kpr3r/4p3/1PR1B2P/6PK/2R2P2/8 b - - 0 19"]
+
+19... { -KEY- } Bf8 20. Kg4 $1 { With the clever plan of h4-h5 and Bg6, further restricting the enemy pieces. } Be7 21. h5 Bf8 22. Bg6 Bg7 23. Kf3 Rh8 24. g4 Rf8+ 25. Kg3 Rd4 26. Be4 { In this hopeless position, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612248/"]
+[Date "????.??.??"]
+[Round "33.18"]
+[White "4.6 Blockade"]
+[Black "Example 304- Savchenko- S. vs. Couso- L.- European Cup- Kallithea 2002"]
+[Result "1-0"]
+[FEN "5k2/pb3pp1/1p5p/2rpn3/6PP/2N1PP2/PP3K2/3R1B2 w - - 0 1"]
+
+ { In such IQP structures we often see a white knight occupying the blocking square on d4, as in Example 288 (Seirawan-Adianto) earlier in this chapter. Here, the knight already enjoys a good post on c3 where it pressurizes the d5-pawn, thus the d4-square becomes available for its fellow pieces. } 1. { -KEY- } Rd4 $1 { Expanding the rook's range while preventing any tactical shot with ...Nxf3 or ...d5-d4. } a6 ( { Unfortunately for Black, the desirable } 1... Nc6 $2 { now fails to } 2. Rxd5 ) 
+2. Be2 b5 $6 { This advance only helps White to open a new front on the queenside. } ( 2... Ke7 { was preferable, with just a slight disadvantage after } 3. f4 { - Ftacnik. } ) 
+3. a4 $1 bxa4 4. Rxa4 a5 5. Rd4 Nc4 $2 { Don't swap your active pieces! In the remainder of the game, the passive state of the b7-bishop will be strongly felt. } ( { The solid } 5... Bc6 { was better - Ftacnik. } ) 
+6. Bxc4 $1 Rxc4 ( { Or } 6... dxc4 7. Rd7 Bc8 8. Ra7 { with a big advantage, thanks to the excellent rook on a7. } ) 
+7. Rxc4 dxc4 8. e4 $1 { Preparing Ke3-d4. In Seirawan-Adianto we saw Black pay a high price for the delay of his king's arrival on the battlefield, and here the story is repeated. } Ke7 9. Ke3 Kd6 10. Kd4 Ba6 11. f4 $1 { Gaining some space and preparing to open a new front on the kingside. } g6 ( { If } 11... f6 { then } 12. Nd5 { heading for e3 - Ftacnik. } ) 
+12. g5 hxg5 13. hxg5 Ke6 { Black finds himself in zugzwang. } ( 13... Kc6 { was no improvement because of } 14. Nd5 Kd6 15. Ne3 c3 $5 16. e5 $1 Kc6 17. Kxc3 Kc5 18. f5 Bb5 ( { on } 18... gxf5 { there follows the same reply; } ) 
+19. e6 $1 Be8 20. e7 gxf5 21. Nxf5 Kc6 22. Kd4 a4 23. Ke5 { and White wins - Ftacnik. } ) 
+14. Kc5 f6 15. gxf6 Kxf6 16. Nd5+ Kf7 17. Kb6 { White finally realizes his positional assets, and the rest is easy. } Bc8 18. Kxa5 Bg4 19. Kb4 Be2 20. Kc5 ( { Black resigned, a possible conclusion of the game being } 20. Kc5 Bf3 21. Kd4 g5 22. fxg5 Kg6 23. Ne3 Kxg5 24. Nxc4 { - Ftacnik. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612289/"]
+[Date "????.??.??"]
+[Round "33.19"]
+[White "4.6 Blockade"]
+[Black "Savchenko- S. vs. Couso- L.- #1"]
+[Result "1-0"]
+[FEN "5k2/pb3pp1/1p5p/2rpn3/6PP/2N1PP2/PP3K2/3R1B2 w - - 0 1"]
+
+ { In such IQP structures we often see a white knight occupying the blocking square on d4, as in Example 288 (Seirawan-Adianto) earlier in this chapter. Here, the knight already enjoys a good post on c3 where it pressurizes the d5-pawn, thus the d4-square becomes available for its fellow pieces. } 1. { -KEY- } Rd4 $1 { Expanding the rook's range while preventing any tactical shot with ...Nxf3 or ...d5-d4. } a6 ( { Unfortunately for Black, the desirable } 1... Nc6 $2 { now fails to } 2. Rxd5 ) 
+2. Be2 b5 $6 { This advance only helps White to open a new front on the queenside. } ( 2... Ke7 { was preferable, with just a slight disadvantage after } 3. f4 { - Ftacnik. } ) 
+3. a4 $1 bxa4 4. Rxa4 a5 5. Rd4 Nc4 $2 { Don't swap your active pieces! In the remainder of the game, the passive state of the b7-bishop will be strongly felt. } ( { The solid } 5... Bc6 { was better - Ftacnik. } ) 
+6. Bxc4 $1 Rxc4 ( { Or } 6... dxc4 7. Rd7 Bc8 8. Ra7 { with a big advantage, thanks to the excellent rook on a7. } ) 
+7. Rxc4 dxc4 8. e4 $1 { Preparing Ke3-d4. In Seirawan-Adianto we saw Black pay a high price for the delay of his king's arrival on the battlefield, and here the story is repeated. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612249/"]
+[Date "????.??.??"]
+[Round "33.20"]
+[White "4.6 Blockade"]
+[Black "Example 305- Baburin- A. vs. Nakamura- H.- San Francisco 2002"]
+[Result "1/2-1/2"]
+[FEN "r7/8/5k2/5P2/6K1/5RP1/8/8 w - - 0 1"]
+
+ { Finally, let's not forget that the king can sometimes be a formidable blocker. InPolgar-Gashimov (in Chapter Two) we saw how a blockade with the king saved White, despite her being two pawns down in a rook ending; and here is a similar case. } 1. { -KEY- } Rf4 $2 { Concerned about a check from the side, White misplaces his rook. } ( { The active } 1. Rb3 $1 { was correct; e.g. } Ra4 2. Kh5 Kxf5 3. Rf3 $1 { followed by g4-g5, with an easy win - Baburin. } ) 
+Rg8+ $1 { Just at the right moment, when the enemy king can't hide on f4. } 2. Kf3 Ra8 3. g4 Kg5 $1 { The blockade is complete, and from now on Black needs only to make sure that the enemy king can't cross the middle of the board. } 4. Re4 ( { Obviously, } 4. Rd4 Ra3 5. Ke4 Kxg4 { makes no sense for White. } ) 
+Ra3+ 5. Ke2 Rb3 6. Rd4 { In the game White actually made a few king moves at this point, but then returned to the same position. } Ra3 7. Rb4 Rc3 8. Re4 Ra3 9. Kf2 Rb3 10. Re3 Rb2+ { Simplest, ruling out Re3-g3. } 11. Kf3 Rb4 12. Re8 Rf4+ $1 13. Ke3 Rxg4 14. Rg8+ Kxf5 15. Rxg4 Kxg4 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13873691/"]
+[Date "????.??.??"]
+[Round "33.21"]
+[White "4.6 Blockade"]
+[Black "Baburin- A. vs. Nakamura- H.- #1"]
+[Result "1/2-1/2"]
+[FEN "r7/8/5k2/5P2/6K1/5RP1/8/8 w - - 0 1"]
+
+ { Finally, let's not forget that the king can sometimes be a formidable blocker. In Polgar-Gashimov (in Chapter Two) we saw how a blockade with the king saved White, despite her being two pawns down in a rook ending; and here is a similar case. } 1. { -KEY- } Rf4 $2 { Concerned about a check from the side, White misplaces his rook. } ( { The active } 1. Rb3 $1 { was correct; e.g. } Ra4 2. Kh5 Kxf5 3. Rf3 $1 { followed by g4-g5, with an easy win - Baburin. } ) 
+Rg8+ $1 { Just at the right moment, when the enemy king can't hide on f4. } 2. Kf3 Ra8 3. g4 Kg5 $1 { The blockade is complete, and from now on Black needs only to make sure that the enemy king can't cross the middle of the board. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13873687/"]
+[Date "????.??.??"]
+[Round "33.22"]
+[White "4.6 Blockade"]
+[Black "Baburin- A. vs. Nakamura- H.- #2"]
+[Result "1/2-1/2"]
+[FEN "8/8/8/5Pk1/4R1P1/1r6/5K2/8 w - - 0 10"]
+
+10. { -KEY- } Re3 Rb2+ { Simplest, ruling out Re3-g3. } 11. Kf3 Rb4 12. Re8 Rf4+ $1 13. Ke3 Rxg4 14. Rg8+ Kxf5 15. Rxg4 Kxg4 
+ 1/2-1/2

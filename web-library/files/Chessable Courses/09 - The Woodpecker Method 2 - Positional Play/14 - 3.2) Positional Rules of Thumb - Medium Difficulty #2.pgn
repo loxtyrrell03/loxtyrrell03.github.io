@@ -1,0 +1,650 @@
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315173/"]
+[Date "????.??.??"]
+[Round "14.1"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 596 - Alekhine- Alexander vs. Eliskases- Erich"]
+[Result "*"]
+[FEN "8/1p1r1p1k/p2q2pp/3pR3/3P3P/6P1/PP2QP2/6K1 w - - 0 27"]
+
+27. { -KEY- } h5 $14 { Weakening Black's king. Black to move would have played ...h6-h5. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315174/"]
+[Date "????.??.??"]
+[Round "14.2"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 597 - Alekhine- Alexander vs. Junge- Klaus"]
+[Result "1-0"]
+[FEN "3r1rk1/2q2ppp/1n6/1pp1pP2/8/1BP1Q2P/1P3PP1/R2R2K1 w - - 0 24"]
+
+24. { -KEY- } f6 { An obvious attacking blow, ruining the king's position. Let's see how the game ended: } gxf6 25. Qh6 f5 { A position from The Woodpecker Method. } 26. Bxf7+ $1 Qxf7 27. Rxd8 Na4 ( 27... Rxd8 28. Qg5 { with a fork. } ) 
+28. b3 
+ 1-0
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/46138321/"]
+[Date "????.??.??"]
+[Round "14.3"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 598 - Alekhine- Alexander vs. Bogoljubow- Efim"]
+[Result "1-0"]
+[FEN "r4rk1/ppp1bppp/2n5/1BPp1q2/3P4/2P1BP1P/P4P2/1R1QK2R b K - 0 17"]
+
+17... { -KEY- } Bg5 $15 { By exchanging bishops, Black comes closer to White's king. } ( 17... Nd8 $6 { moves towards f4, but Black will not have time to settle there: } 18. Bd3 Qf6 19. f4 $1 Ne6 20. f5 $16 ) 
+
+ 1-0
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315176/"]
+[Date "????.??.??"]
+[Round "14.4"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 599 - Alekhine- Alexander vs. Keres- Paul"]
+[Result "*"]
+[FEN "q1r3k1/pbrnbppp/1p2pn2/2p1N3/1P1PP3/6P1/PB1NQPBP/2R2RK1 w - - 0 17"]
+
+17. { -KEY- } dxc5 bxc5 18. b5 $16 { Black is left with a weak c-pawn while White has obtained a mobile pawn majority. Notice that the c-pawn limits the scope of Black's two rooks, the dark-squared bishop and one of the knights! } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315177/"]
+[Date "????.??.??"]
+[Round "14.5"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 600 - Alekhine- Alexander vs. Bogoljubow- Efim"]
+[Result "*"]
+[FEN "2krb3/ppp1rppp/1nn1p3/8/1PNP4/P4NP1/4PPBP/2RR2K1 w - - 0 18"]
+
+18. { -KEY- } b5 $1 { Pushing back the knight is the only argument needed. } ( 18. Nxb6 axb6 19. b5 { allows the knight to go to a5. } ) 
+Nb8 ( 18... Nxc4 19. bxc6 $16 ) 
+19. Nxb6+ axb6 20. a4 $16 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/46138322/"]
+[Date "????.??.??"]
+[Round "14.6"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 601 - Alekhine- Alexander vs. Novotny- Oldrich"]
+[Result "1-0"]
+[FEN "1r1qnr1k/4n1pp/p2pBp2/P1p1pPP1/1p5P/2PPNQ2/1P3P2/R3R1K1 w - - 0 28"]
+
+28. { -KEY- } g6 $16 { Black will always have to defend against a sacrifice on h6. (Which was finally executed, winning.) } ( { In the video, I tried } 28. Qh5 $2 { but that allows Black to defend with } g6 $17 ) 
+
+ 1-0
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315179/"]
+[Date "????.??.??"]
+[Round "14.7"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 602 - Euwe- Max vs. Kitto- Francis"]
+[Result "*"]
+[FEN "r4rk1/ppp1qppp/3p1n2/4n3/1PP5/P1B1Pb2/2Q1BPPP/R3K2R w KQ - 0 13"]
+
+13. { -KEY- } gxf3 $16 { Keeping the bishop pair. Exchanging minor pieces would make White's king less secure. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315180/"]
+[Date "????.??.??"]
+[Round "14.8"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 603 - Szabo- Laszlo vs. Smyslov- Vasily"]
+[Result "*"]
+[FEN "r1bqr1k1/pp1p1pp1/2p3np/b2N4/2PN4/Q3P3/PP2BPPP/R4RK1 w - - 0 15"]
+
+15. { -KEY- } b4 $16 { A standard trick, using the threatened knight instead of moving it. White forces a favourable exchange while keeping a lead in development. } ( 15. Nb3 { has the same idea, but after } cxd5 16. Nxa5 b6 $11 { Black gets the tempo needed to develop. } ) 
+ ( 15. Nc3 $11 ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315181/"]
+[Date "????.??.??"]
+[Round "14.9"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 604 - Boleslavsky- Isaac vs. Smyslov- Vasily"]
+[Result "*"]
+[FEN "r6r/pp1bkppp/n3pn2/1Nb5/P1B1PB2/2N5/1P3PPP/R4RK1 w - - 0 13"]
+
+13. { -KEY- } e5 $1 { Forcing Black's knight to retreat before the rook on h8 is developed. } Ne8 ( { After } 13... Nh5 14. Bd2 { there is no good way to save the knight from being trapped by g2-g4, as } f5 15. Bg5 { is crushing. For instance, } Kf7 16. Rad1 Bc6 17. Nd6 Bxd6 18. Rxd6 Nc7 ( { ( } 18... Rhe8 $2 19. Bxa6 { picks up a piece) } ) 
+19. b4 $1 { and Black is positionally busted. } ) 
+14. Ne4 { White is almost winning. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315182/"]
+[Date "????.??.??"]
+[Round "14.10"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 605 - Smyslov- Vasily vs. Szabo- Laszlo"]
+[Result "*"]
+[FEN "2bq1rkn/p2p2p1/3Pp2p/1rp2p1P/4P3/6PN/PP1Q1PB1/R4RK1 w - - 0 18"]
+
+18. { -KEY- } e5 $14 { Keeping Black restricted, with f2-f4 coming soon. Black is not without chances, though, as ...Nf7-d8-c6 is a possible manoeuvre. } ( { It was not a good idea to allow Black's rook to escape after } 18. exf5 $6 Rxf5 19. Nf4 ( { ( } 19. Be4 Rxh5 20. Qe2 c4 $17 { ) } ) 
+Bb7 { . For instance, } 20. Bxb7 Rxb7 21. Rac1 Rb4 $15 { and ...Rbxf4 is a threat. } ) 
+ ( { White can also start with } 18. a4 $5 Rb4 { before } 19. e5 $14 { . } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315183/"]
+[Date "????.??.??"]
+[Round "14.11"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 606 - Kotov- Alexander vs. Smyslov- Vasily"]
+[Result "*"]
+[FEN "r3k2r/pp3p1p/1bpq1pn1/3p4/1P1P2bN/P1NBP3/2Q2PPP/R4RK1 w kq - 0 15"]
+
+15. { -KEY- } Nf5 { No exclamation mark, as there was no choice. The alternatives either improve Black's structure or weaken White's. } ( 15. Bf5 $2 Bh5 $17 { favours Black. } ( { ( } 15. Nf5 Nxh4 $5 16. Bxg4 Rg8 { is a good alternative, with a promising attack. ) } ) 
+ ) 
+Bxf5 16. Bxf5 $16 { Kotov went on to carry out a strong positional squeeze for most of the game, but eventually lost after miscalculating a rook sacrifice on move 39. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315184/"]
+[Date "????.??.??"]
+[Round "14.12"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 607 - Petrosian- Tigran vs. Keres- Paul"]
+[Result "*"]
+[FEN "r1bq1rk1/p2n1ppp/4pn2/2pp4/1bP5/1P1BPN2/P3NPPP/R1BQ1RK1 b - - 0 10"]
+
+10... { -KEY- } e5 { The threat of ...e5-e4 forces White to retreat. Black can continue with ...d5-d4 or ...e5-e4, but there's no need to decide until White has made a move. } ( 10... Qe7 $6 11. cxd5 $14 ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315185/"]
+[Date "????.??.??"]
+[Round "14.13"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 608 - Smyslov- Vasily vs. Kotov- Alexander"]
+[Result "*"]
+[FEN "r1b2rk1/1pp3bp/3p1q2/p4pp1/2P5/BP2P1P1/P2Q1PBP/3R1RK1 w - - 0 18"]
+
+18. { -KEY- } c5 $1 { Activating the bishop. } dxc5 ( { Kotov desperately gave away a pawn with } 18... a4 { . } ) 
+19. Bxc5 Re8 20. Bd5+ { It's not over yet, but Black is far from happy with the position opening up while still not having developed the queenside. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/46138323/"]
+[Date "????.??.??"]
+[Round "14.14"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 609 - Smyslov- Vassily V vs. Reshevsky- Samuel Herman"]
+[Result "1-0"]
+[FEN "3rr3/2q3pk/1p1p2p1/p1n1pp1n/2P1P3/1P2BPP1/P1R2QBP/3R2K1 w - - 0 34"]
+
+34. { -KEY- } exf5 $1 { A first step in order to open the diagonal for the light-squared bishop. } gxf5 35. g4 fxg4 ( { After Reshevsky's } 35... Nf4 $18 { White wins a pawn with gxf5, before or after Bxf4/ Qh4+. } ) 
+36. fxg4 $18 { A second and final step. } ( 36. Qh4 { wins the piece straight away. } ) 
+
+ 1-0
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/46138324/"]
+[Date "????.??.??"]
+[Round "14.15"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 610 - Botvinnik- Mikhail vs. Smyslov- Vassily V"]
+[Result "1-0"]
+[FEN "3r2k1/pp3pp1/2q1n3/3pP3/P4P2/8/BP1Q3P/5R1K w - - 0 27"]
+
+27. { -KEY- } f5 { Using the pawn majority. } Nc5 ( 27... Nc7 { is better, but not challenging. } ) 
+28. Qg5 $1 { Winning a tempo on the rook. } Rd7 { White has time to create decisive threats before the knight jumps to e4. } 29. Rg1 ( 29. f6 $2 Ne6 $11 { and Black has defended. } ) 
+f6 30. exf6 Ne4 31. f7+ $1 Rxf7 32. Qd8+ Kh7 33. Bxd5 Nf2+ 34. Kg2 Qf6 35. Qxf6 Rxf6 36. Kxf2 Rxf5+ 37. Bf3 Rf4 38. Rg4 { Black resigned. A long tactical line, but no need to see it before pushing the f-pawn. The moves can be found step by step; there were alternatives along the way. } 
+ 1-0
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315188/"]
+[Date "????.??.??"]
+[Round "14.16"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 611 - Smyslov- Vasily vs. Borisenko- Georgy"]
+[Result "*"]
+[FEN "r1q2rk1/1p2ppbp/2pp1np1/p7/Pn1P3N/NP4Pb/1BP1PP1P/R2QR1KB b - - 0 14"]
+
+14... { -KEY- } d5 $1 { Not allowing White to take space with e2-e4 (which would have secured an advantage). We don't need a precise evaluation of the resulting position, but it's safe to say that Black is not worse. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315189/"]
+[Date "????.??.??"]
+[Round "14.17"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 612 - Botvinnik- Mikhail vs. Shcherbakov- Vitaly"]
+[Result "*"]
+[FEN "r1bq1rk1/5p1p/p1pp1np1/1p2pP2/2PnP1P1/2NP3P/PP1QN1B1/R4RK1 w - - 0 17"]
+
+17. { -KEY- } Nxd4 { Black is seldom happy recapturing with the e5-pawn in such positions. } exd4 18. Ne2 { White threatens the d4-pawn, and ...c6-c5 is not possible, since it would open the long diagonal. } ( { The only way to defend the pawn is } 18. Ne2 Qb6 $2 { , but then White's kingside attack is decisive. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315190/"]
+[Date "????.??.??"]
+[Round "14.18"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 613 - Smyslov- Vasily vs. Lisitsin- Georgy"]
+[Result "*"]
+[FEN "r5k1/ppr2ppp/2nqbn2/3p4/3P1N2/1Q2PNP1/P4PBP/R4RK1 w - - 0 16"]
+
+16. { -KEY- } Ng5 $16 { Exchanging the bishop for the passive knight (f3), while keeping the strong knight (f4). White follows up with Ngxe6 and Bh3. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315191/"]
+[Date "????.??.??"]
+[Round "14.19"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 614 - Smyslov- Vasily vs. Shcherbakov- Vitaly"]
+[Result "*"]
+[FEN "r7/3b1pk1/1qnp1ppp/1p6/1P1PP3/6P1/3QNPBP/5RK1 w - - 0 21"]
+
+21. { -KEY- } e5 $14 { Opening the diagonal. To make the move, White just needs to make sure that the pawn can't be taken twice. My study of chess was accompanied by a strong attraction to music, and it was probably thanks to this that from childhood I became accustomed to thinking of chess as an art, for all the science and sport involved in it. – Vasily Smyslov } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315192/"]
+[Date "????.??.??"]
+[Round "14.20"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 615 - Korchnoi- Viktor vs. Botvinnik- Mikhail"]
+[Result "*"]
+[FEN "r4r2/p1n1qpbk/bpnp2pp/2p1p3/3PP3/1NP1BNP1/PPQ2PBP/R2R2K1 w - - 0 16"]
+
+16. { -KEY- } d5 $1 ( 16. -- { Black was set to fight for the initiative with: } exd4 17. cxd4 Nb4 ) 
+Nb8 17. a4 $14 { Black's pieces are worse than normal for this structure. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315193/"]
+[Date "????.??.??"]
+[Round "14.21"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 616 - Botvinnik- Mikhail vs. Averbakh- Yuri"]
+[Result "*"]
+[FEN "r2q1rk1/pp3ppp/5n2/2PP4/8/P2BPP1b/5P1P/R1BQ1RK1 w - - 0 15"]
+
+15. { -KEY- } e4 $18 { White's bishop pair, passed pawn and control over the centre are far more important than the exchange. } ( 15. Re1 $2 Qxd5 $13 ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315194/"]
+[Date "????.??.??"]
+[Round "14.22"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 617 - Smyslov- Vasily vs. Bertok- Mario"]
+[Result "*"]
+[FEN "r4rk1/1p2qpbp/2ppb1pn/p7/P1P5/1QN1PB2/1P1B1PPP/R2R2K1 w - - 0 14"]
+
+14. { -KEY- } Ne2 $1 { Immediately redirecting the knight to f4, harassing Black's bishop. It's important to do this before Black has played ...Ng4-e5. } Ng4 15. Nf4 $1 ( { Smyslov chose } 15. Nd4 { which is less strong, since after } Ne5 16. Be2 Bc8 { he can't put pressure on Black's d-pawn as the knight obstructs the d-file. } ) 
+Ne5 { As White was fast with Ne2-f4, the bishop can retreat to e2. } 16. Be2 $14 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315195/"]
+[Date "????.??.??"]
+[Round "14.23"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 618 - Pirc- Vasja vs. Smyslov- Vasily"]
+[Result "*"]
+[FEN "2r2rk1/pp1bnpbp/1q2pnp1/3p4/1P1P4/P2B1N2/1BPN1PPP/R2QR1K1 w - - 0 14"]
+
+14. { -KEY- } a4 $14 { Activating the bishop via a3, taking space, and stopping ...Bb5. The only thing you need to see is why Black can't take on b4. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315196/"]
+[Date "????.??.??"]
+[Round "14.24"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 619 - Smyslov- Vasily vs. Dueckstein- Andreas"]
+[Result "*"]
+[FEN "5r2/2pq2kn/1ppp3p/5rp1/1PQ5/6BP/P1P2PP1/R4RK1 w - - 0 21"]
+
+21. { -KEY- } a4 $1 { Pushing the pawn passer before Black has time to stop it with ...b6-b5 or ...c6-c5. } Nf6 ( 21... b5 { is met by a check followed by a4-a5. } ) 
+22. a5 $18 { Smyslov won smoothly. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315197/"]
+[Date "????.??.??"]
+[Round "14.25"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 620 - Smyslov- Vasily vs. Keres- Paul"]
+[Result "*"]
+[FEN "r1b1r1k1/p4ppp/1qp2n2/3p4/8/4B1P1/PPQ1PPBP/R4RK1 b - - 0 14"]
+
+14... { -KEY- } Rxe3 $5 ( 14... Qb5 { was played. Let's not debate how big White's positional advantage is; it's enough to say that it's undoubted. When they agreed to a later draw, Smyslov was clearly winning. } ) 
+15. fxe3 Qxe3+ 16. Kh1 Bd7 $14 { White's position is preferable, but Black is not without chances. Black's ideas include ...h7-h5-h4 and ...Re8, while keeping the queens on the board. The e4-square has been weakened, and if White captures a knight there, the light squares around the king become weak. I think sacrificing the exchange improves Black's chances compared to not doing so. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315198/"]
+[Date "????.??.??"]
+[Round "14.26"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 621 - Petrosian- Tigran vs. Pilnik- Herman"]
+[Result "*"]
+[FEN "r2q1rk1/p1n2pb1/1p1p1npp/1PpPp1B1/PP2P3/8/3NBPPP/R2QK2R w KQ - 0 14"]
+
+14. { -KEY- } Bxf6 { Removing pieces that can control the light squares is more important than keeping the bishop pair. } Qxf6 15. O-O Rfd8 16. Nc4 Bf8 ( 16... cxb4 { would have led to something similar to the game. } ) 
+17. g3 $5 ( { Petrosian probably rejected } 17. bxc5 dxc5 { on the basis that Black would be ready to improve the knight with ...Ne6-d4 or ...Ne8-d6. However, it turns out that } 18. f4 $1 exf4 19. e5 { is close to winning for White. } ) 
+cxb4 { This is not forced, but after other moves White would have continued building up his position and taken on c5 at a good moment. } 18. Qb3 { If Black only could place his knight or bishop on c5! Instead, White's rook reached c6. } Kg7 19. Rfc1 h5 20. Ne3 Ne8 21. Qxb4 Rdc8 22. Rc6 { Game over! (Positionally, even though Stockfish gives less than +1.5.) } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315199/"]
+[Date "????.??.??"]
+[Round "14.27"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 622 - Smyslov- Vasily vs. Karaklajic- Nikola"]
+[Result "*"]
+[FEN "3rr1k1/pbqn1ppp/1p2pn2/1B6/3P4/P1P2N2/3BQPPP/R3R1K1 b - - 0 16"]
+
+16... { -KEY- } Ne4 $15 { Hitting the bishop before it can retreat to e1. Black captures on d2 on the next move. Exchanging minor pieces is something Black wants when playing against a hanging pawn couple. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315200/"]
+[Date "????.??.??"]
+[Round "14.28"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 623 - Smyslov- Vasily vs. Djurasevic- Bozidar"]
+[Result "*"]
+[FEN "r5k1/1pqnbpp1/2p1pn1p/5b2/1PPB4/5NP1/1Q1NPPBP/5RK1 w - - 0 19"]
+
+19. { -KEY- } c5 $14 { Avoiding Black's threat: to get a strong square on c5 by exchanging the c-pawn with ...c6-c5. } ( 19. Bc3 { is a less active way to avoid Black's threat. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315201/"]
+[Date "????.??.??"]
+[Round "14.29"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 624 - Lorson- Gerhard vs. Smyslov- Vasily"]
+[Result "*"]
+[FEN "r2q1rk1/1p3bpp/p2n1n2/1P1p1p2/PQ1Pp3/4P1P1/3NNPBP/R4RK1 b - - 0 19"]
+
+19... { -KEY- } a5 $1 { Keeping the queenside closed. } ( 19... g5 20. bxa6 $15 { and it's harder for Black to focus on the kingside. } ) 
+20. Qa3 g5 $17 { The next moves are ...Bh5 and ...Kh8, with an attack. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315202/"]
+[Date "????.??.??"]
+[Round "14.30"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 625 - Smyslov- Vasily vs. Johannessen- Svein"]
+[Result "*"]
+[FEN "5r1k/6pp/p2b4/1p1p1q2/3PpP2/2P1B1Pb/PP1Q3P/R3R1K1 w - - 0 25"]
+
+25. { -KEY- } a4 $18 { White is an exchange up and activates the rook as quickly as possible. No more arguments are needed. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315203/"]
+[Date "????.??.??"]
+[Round "14.31"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 626 - Smyslov- Vasily vs. Botvinnik- Mikhail"]
+[Result "*"]
+[FEN "1r1q1rk1/5pbp/3pb1p1/3Np3/1p1nP3/1P1QB3/P4PPP/1BR2R1K b - - 0 18"]
+
+18... { -KEY- } Bxd5 $1 { Eliminating the knight before it jumps to c7. } 19. exd5 { To play for an advantage, Black should avoid the exchange on d4. } Nb5 $1 { is the best choice, threatening to settle on c3. } 20. Bd2 Na3 $15 { Black can trade the knight for the bishop any time, keeping the better pawn structure. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315204/"]
+[Date "????.??.??"]
+[Round "14.32"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 627 - Golombek- Harry vs. Smyslov- Vasily"]
+[Result "*"]
+[FEN "r2q1rk1/pp2bppp/2n3b1/8/2P3P1/1N1p3P/PP1B1PB1/2RQ1RK1 b - - 0 18"]
+
+18... { -KEY- } a5 $1 { Chasing the knight. } ( 18... f5 $17 { is worth considering, but it's best to save this idea for later. } ) 
+19. a4 { Placing the pawn here is a concession; just look at the b4-square. Black can settle the knight there (after exchanging bishops), or do like Smyslov and switch to the other flank. } ( 19. Bc3 a4 20. Nd2 Nd4 $19 ) 
+f5 $1 { If a positional advantage is enough to claim the position to be winning, let's do it here. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315205/"]
+[Date "????.??.??"]
+[Round "14.33"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 628 - Szabo- Laszlo vs. Smyslov- Vasily"]
+[Result "*"]
+[FEN "r1bqnr2/1p3ppk/3pp3/p3P3/2PQ4/P1B5/5PPP/R4KNR b - - 0 16"]
+
+16... { -KEY- } f6 $1 { To open the f-file. } 17. exf6 ( 17. exd6 Qxd6 $17 { and Black will probably win the c4-pawn before White has developed the rook on h1. } ) 
+Nxf6 $15 { White is behind in development. } ( { Note that } 17... Nxf6 17. Rd1 { can be met with } e5 { – although it's not necessary to have seen this when solving the exercise. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315206/"]
+[Date "????.??.??"]
+[Round "14.34"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 629 - Pachman- Ludek vs. Smyslov- Vasily"]
+[Result "*"]
+[FEN "r4rk1/1qpnbppp/1p1pp3/p7/2PP4/PPQ3P1/1B2PPNP/3RR1K1 b - - 0 16"]
+
+16... { -KEY- } b5 $15 { Creating a weakness on the b-file, regardless of how White responds. } ( 16... d5 $2 { is met by } 17. cxd5 exd5 18. Rc1 Bd6 19. Ne3 $14 { followed by Qc6 soon. } ) 
+17. Rc1 { There is one forcing sequence to see: } ( 17. cxb5 Qxb5 18. Qxc7 Rfc8 19. a4 Rxc7 20. axb5 $15 { Black takes back the pawn and puts pressure on b3. } ) 
+ ( 17. Rb1 bxc4 18. bxc4 Rfb8 $15 ) 
+bxc4 18. Qxc4 c5 $15 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315207/"]
+[Date "????.??.??"]
+[Round "14.35"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 630 - Bannik- Anatolij vs. Tal- Mikhail"]
+[Result "*"]
+[FEN "1r1r2k1/1p2qp2/p1p2bp1/7p/2Pnp2P/2B3P1/PP1RPPB1/2R1Q1K1 b - - 0 25"]
+
+25... { -KEY- } e3 $1 26. fxe3 Qxe3+ { The e2- and g3-pawns are clearly weak. } 27. Qf2 $2 { Missing a tactical refutation. } ( 27. Kh2 $15 { was necessary. } ) 
+Nxe2+ $19 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315208/"]
+[Date "????.??.??"]
+[Round "14.36"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 631 - Botvinnik- Mikhail vs. Smyslov- Vasily"]
+[Result "*"]
+[FEN "r4rk1/1b1q2bp/3nppp1/pp1p4/3P1P1P/4PNPB/PP2Q2K/2RNR3 b - - 0 21"]
+
+21... { -KEY- } b4 $1 ( 21... Ba6 { followed by ...b4 transposes. (Full points if you chose this.) } ) 
+ ( { Putting a rook on the c-file before ...Ba6 would be a mistake, as Black can't take back with the rook after: } 21... Rfc8 22. Nf2 b4 23. h5 Ba6 24. Rxc8 $11 ) 
+22. Nf2 Ba6 $15 { The queen has no convenient square. Smyslov went on to control and infiltrate on the c-file, winning after 69 moves. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315209/"]
+[Date "????.??.??"]
+[Round "14.37"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 632 - Reissmann- Paul vs. Tal- Mikhail"]
+[Result "*"]
+[FEN "1rbr2k1/2q1bpp1/p2p3p/1p1Pp3/8/P4PB1/1PPQ1PBP/3RR1K1 b - - 0 22"]
+
+22... { -KEY- } g5 $19 { The bishop on g3 is dead and buried. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315210/"]
+[Date "????.??.??"]
+[Round "14.38"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 633 - Tal- Mikhail vs. Benko- Pal"]
+[Result "*"]
+[FEN "1r1qr1kb/2n1p2p/p2p1ppB/2pPP3/bp2R3/5N1P/1PPQ1PP1/4RBK1 w - - 0 21"]
+
+21. { -KEY- } e6 $18 { Black's pieces on the queenside can't defend the king, and the finish is only a matter of time. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315211/"]
+[Date "????.??.??"]
+[Round "14.39"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 634 - Petrosian- Tigran vs. Larsen- Bent"]
+[Result "*"]
+[FEN "r2q1rk1/1p1bbppp/3p1n2/p1nPp3/4P3/1PN5/P2NBPPP/R1BQ1RK1 w - - 0 12"]
+
+12. { -KEY- } a4 $14 { Putting a halt to Black's queenside ambitions. (12...b5 was a positional threat, since the knight on c3 would be overloaded.) Two other moves that also stop ...b7-b5 have disadvantages: } ( 12. f3 { allows } Nh5 { and, } ( 12. Qc2 { moves onto an open file, inviting } Rc8 { . } ) 
+ ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315212/"]
+[Date "????.??.??"]
+[Round "14.40"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 635 - Tal- Mikhail vs. Hoppensack- Manfred"]
+[Result "*"]
+[FEN "r4rk1/pp1b2pp/1q2pn2/3pN3/1P6/2PB4/P1Q2PPP/4RRK1 b - - 0 17"]
+
+17... { -KEY- } Bb5 $11 { Exchanging the bad bishop for White's good bishop. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315213/"]
+[Date "????.??.??"]
+[Round "14.41"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 636 - Tal- Mikhail vs. Benko- Pal"]
+[Result "*"]
+[FEN "r4rk1/pp1bbpp1/1q2pn1p/8/2B2B2/3R1N2/PPP1QPPP/5RK1 b - - 0 14"]
+
+14... { -KEY- } Bb5 $1 { By exchanging bishops, Black (who has less space) gets access to the d5-square. } ( 14... Bc6 15. Ne5 $14 ) 
+ ( 14... Rfd8 $6 15. Rb3 $16 { and it's too late to exchange bishops. } ) 
+15. Rb3 Bxc4 16. Qxc4 Rfc8 $11 { Avoiding any structural damage. White can't win a pawn with } 17. Rxb6 Rxc4 18. Rxb7 { It appears White is winning a pawn but no. } Nd5 { Black has a double threat. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315214/"]
+[Date "????.??.??"]
+[Round "14.42"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 637 - Petrosian- Tigran vs. Botvinnik- Mikhail"]
+[Result "*"]
+[FEN "3r2k1/pp4bp/2n1pnp1/2p5/8/2N1PN2/PP2KPPP/R1B5 w - - 0 15"]
+
+15. { -KEY- } Ng5 $1 ( { Forcing Black to place the rook on a passive square: } 15. Ng5 Re8 { . Delaying Ng5 would allow the black king to go to f7 and e7. } ( 15. Ng5 Rd6 $2 { runs into } 16. Nb5 { . After the text move, the knight can always continue to e4 – a strong and secure outpost due to Black's pawn structure. We don't need to think any further. } ) 
+ ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315215/"]
+[Date "????.??.??"]
+[Round "14.43"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 638 - Botvinnik- Mikhail vs. Petrosian- Tigran"]
+[Result "*"]
+[FEN "4r3/3rn1k1/1p3pb1/p1pPn1p1/P3P1Pp/1P2N2P/2BR2N1/4KR2 b - - 0 45"]
+
+45... { -KEY- } Nc8 $1 { Improving Black's worst-placed minor piece while opening the e-file for the rook. White has to defend the e-pawn, and then Black smoothly opens the queenside. Stockfish evaluates Black's advantage in excess of –2. If it is true that a player's style is his person, then everyone plays as he is intended to by nature. I am naturally cautious, and I altogether dislike situations which involve risk. – Tigran Petrosian } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315216/"]
+[Date "????.??.??"]
+[Round "14.44"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 639 - Tal- Mikhail vs. Larsen- Bent"]
+[Result "*"]
+[FEN "rqb3k1/3nbrpp/p2p4/3P1pP1/1p1B1P2/3B1Q2/PPP4P/2K1R2R w - - 0 19"]
+
+19. { -KEY- } h4 $18 { To attack Black's king. With the rook needed on f7 (to defend the e7- and f5-points), Black can't keep the g- and h-files closed. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315217/"]
+[Date "????.??.??"]
+[Round "14.45"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 640 - Spassky- Boris vs. Petrosian- Tigran"]
+[Result "*"]
+[FEN "2kr3r/pbqnbp2/1p2p3/3pP2p/PPp2B1p/2P1PN2/4BPP1/R2Q1RK1 b - - 0 18"]
+
+18... { -KEY- } a6 $17 { Black can now avoid opening any queenside files after a4-a5 or b4-b5. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315218/"]
+[Date "????.??.??"]
+[Round "14.46"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 641 - Spassky- Boris vs. Petrosian- Tigran"]
+[Result "*"]
+[FEN "r1r3k1/3q1ppp/ppbb4/3p4/P2Pn3/1Q2PN2/1B2BPPP/R4RK1 b - - 0 20"]
+
+20... { -KEY- } b5 { Playing actively before White has mobilized the last rook. Black has both rooks on the queenside, so it's logical to open things up there. } 21. a5 ( 21. axb5 Bxb5 22. Bxb5 Qxb5 $17 ) 
+b4 $19 { Intending ...Bb5, winning control over the c4-square. Petrosian's } ( 21... Bb7 { was less active, although he won with the help of a ...Rc4 exchange sacrifice later. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315219/"]
+[Date "????.??.??"]
+[Round "14.47"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 642 - Petrosian- Tigran vs. Fischer- Robert James"]
+[Result "*"]
+[FEN "r3k2r/pp2pp1p/8/q2Pb3/2P5/4p3/B1Q2PPP/2R2RK1 w kq - 0 20"]
+
+20. { -KEY- } c5 $18 { Creating a passed pawn (soon), opening the diagonal for the bishop on a2 and denying Black the use of the c5-square. These factors are more important than a pawn. Don't even mention losing to me. I can't stand to think of it. – Bobby Fischer } ( 20. fxe3 Qc5 $16 ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315220/"]
+[Date "????.??.??"]
+[Round "14.48"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 643 - Taimanov- Mark vs. Karpov- Anatoly"]
+[Result "*"]
+[FEN "2rq1rk1/p2n1ppp/Qp2pn2/8/1b1P4/2N2N2/PP1B1PPP/R2R2K1 b - - 0 14"]
+
+14... { -KEY- } Bxc3 $1 { Starting to play for the light squares. } 15. bxc3 ( 15. Bxc3 $15 { leaves White with a bad isolated pawn position: two minor pieces exchanged and the passive bishop still on the board. } ) 
+Qc7 ( { Karpov's } 15... Rc7 { was fine as } 16. c4 $2 Qc8 $1 { wins a pawn; however, it seems safer to settle on c4 with the queen. } ) 
+16. Rdc1 Qc4 $17 17. Qxa7 $4 { The idea is that now the queen is trapped. } Ra8 18. Qb7 Rfb8 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315221/"]
+[Date "????.??.??"]
+[Round "14.49"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 644 - Kurajica- Bojan vs. Karpov- Anatoly"]
+[Result "*"]
+[FEN "r1bqr1k1/1pp3pp/p1pn1p2/8/2PP4/B3N3/P1P2PPP/R2Q1RK1 b - - 0 14"]
+
+14... { -KEY- } Nf5 $17 { Black exchanges knights to get smooth development. White has weaker pawns and a passive bishop – especially when/if c4-c5 is provoked. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/45315222/"]
+[Date "????.??.??"]
+[Round "14.50"]
+[White "3.2) Positional Rules of Thumb - Medium Difficulty #2"]
+[Black "Exercise 645 - Browne- Walter vs. Karpov- Anatoly"]
+[Result "*"]
+[FEN "1r1qrbk1/2p2p1p/p4np1/Pb2p3/1PN1P3/2B4P/2B1QPP1/1R2R1K1 b - - 0 24"]
+
+24... { -KEY- } c5 $11 { Opening the c-file against White's three minor pieces. It's important to do it before White has solved the problem of the pinned knight and started to threaten the pawn on e5. } 
+ *

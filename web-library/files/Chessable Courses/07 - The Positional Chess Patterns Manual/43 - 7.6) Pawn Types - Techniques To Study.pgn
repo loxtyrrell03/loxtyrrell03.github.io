@@ -1,0 +1,173 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967678/"]
+[Date "????.??.??"]
+[Round "43.1"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "Fixing Backward Pawn 1"]
+[Result "*"]
+[FEN "3rr3/1pp2p1k/2n1qnpp/p3p3/2PpP3/P2P1NNP/1P1RQPP1/4R1K1 b - - 0 1"]
+
+ { Initially there was going to be a full chapter in this course by the heading of 'Common Pawn Types'. The idea had been to cover the different types of pawns and the many strategies that have been developed around them. From isolated pawns (including the IQP) to doubled pawns, from backward pawns to hanging pawns to pawn wedges to connected passed pawns, and some others. Unfortunately, it slowly dawned on me that there was no way to cover the material comprehensively in a single chapter. It is a world in itself, and something that would require a full course dedicated to it. My suggestion to any students who wish to delve deeper into this world would would be to get their hands on a book that centres around this. One name that comes to mind is Andrew Soltis' 'Pawn Structure Chess', while for structures more generally I highly recommend 'Chess Structures: A Grandmaster Guide' by GM Mauricio Rios Flores, available on Chessable. As for this course, we'll dedicate this section to studying a small number of typical strategies based around some of the most common pawn types. Let's begin with a technique involving fixing backward pawns. } 1... { -KEY- } Nd7 $1 { Black knows that White is not in great shape to stop the plan of turning White's b-pawn into a backward pawn. } ( 1... a4 { Black is not yet ideally placed to lock in the backward pawn, since here after } 2. Qd1 $1 { Black would be forced to defend the pawn by playing } Ra8 { While Black maintains an advantage, it's not ideal to have to return with the rook to the a-file. } ) 
+2. Rb1 ( 2. b3 $1 { The attempt to block Black's plan was perhaps best, but after } Qd6 $1 3. Ra2 Nc5 4. Rb1 { White has been forced to go passive with both rooks, just to avoid a backward pawn. This is too great of an investment of resources, and after a quiet move like } b6 { Black stands a lot better, with enduring pressure against the pawns. It's worth nothing that the move } 5. b4 { is not possible due to the outpost on c3, when after } Na4 $19 { Black will land a knight on c3 next, winning the exchange. } ) 
+a4 $1 { Fixing the backward pawn on b2. } 3. Rdd1 ( 3. b4 { The problem with 'removing' the backward pawn is that after } axb3 $1 4. Rxb3 Nc5 $17 { Black has found an ideal weak square for their knight on c5, while the a3 pawn is left permanently weak. } ) 
+Nc5 $1 { The knight is ideally placed on c5, where it can never be bothered since the move b4 will always be met by en passant. } 4. Nd2 Na5 $17 { Black has a vice-like grip on the b3 square, and stand much better with more space in both the centre and queenside. With the support of their powerful knights Black can keep steadily improving their position, perhaps even expanding on the kingside with ...f5 at the right moment. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967679/"]
+[Date "????.??.??"]
+[Round "43.2"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "Fixing Backward Pawn 2"]
+[Result "*"]
+[FEN "3r2k1/2qrnpp1/p1pp3p/4p3/2P4P/1P1R2P1/P2QPPB1/3R2K1 w - - 0 1"]
+
+ { Sometimes it's also important to 'lock in' the backward pawn before trying to capture it. In this case, Black's pawn on d6 is struggling to advance. Can you spot the move that Magnus Carlsen played against GM Zhigalko from here? } 1. { -KEY- } e4 $1 { Correct! Now the d6 pawn is stuck, while White intends to follow up with 2.Bh3 to target the rook on d7. } ( 1. Bh3 $6 { straight away would have lost a chunk of the advantage. Here Black could have continued with } e4 $1 { when after } 2. Rd4 f5 $13 { Suddenly, the game hangs in the balance since Black will be able to play ...d5 next. } ) 
+f5 { This may have been Black's best bet. } ( { In the game, Black chose } 1... Qa7 $2 { but after } 2. Bh3 Rb7 3. Rxd6 $18 { White had picked up the pawn, and was already completely winning. } ) 
+2. exf5 $1 Nxf5 3. Bh3 $1 ( { The pin against the knight is very problematic. } 3. Bh3 g6 { is not possible since after } 4. Bxf5 gxf5 5. Qxh6 { White wins a pawn on the kingside. } ) 
+Rf7 4. Bxf5 Rxf5 5. Rxd6 $18 { In the end the pawn falls anyway. White is winning since not only are they a pawn to the good, but they also have a better structure and control of the open file. This brings us to the end of our first technique on fixing backward pawns. Next up, we'll take a look at a technique around doubled pawns. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967680/"]
+[Date "????.??.??"]
+[Round "43.3"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "Forced Undoubling"]
+[Result "*"]
+[FEN "r1bqk1nr/p3ppbp/2pp2p1/2p5/4PP2/2P2N2/PP1P2PP/RNBQ1RK1 b kq - 0 1"]
+
+ { Our next technique is about finding good opportunities to get rid of doubled pawns. Can you find the best move for Black in this position? } 1... { -KEY- } c4 $1 { Correct! Black takes the opportunity to advance the pawn, knowing that sooner or later White will have to play either b3 or d3, forcing undoubling of the c-pawns. } ( 1... Qc7 $2 { A quiet move would miss the opportunity to undouble the pawns. Here White could continue with either 2.d3 or 2.c4. } 2. d3 $14 { White has a slightly better position due to their better structure. } ) 
+2. d3 { White tries to finish their development, but now Black gets an ideal change to the structure. } ( 2. b3 { Challenging the pawn with a flank pawn may have been best, but here White's exposed king could prove problematic: } Nf6 $1 3. e5 Qb6 $1 4. Kh1 Ng4 $15 { The position remains very messy, but Black seems to have the upper hand with a lot of pressure against White's structure in both the centre and queenside. } ) 
+cxd3 $1 3. Qxd3 Qb6+ 4. Kh1 d5 $1 { Not the only way to play, but I like this energetic approach. Note that the exchange of the c- and d-pawns have helped Black to increase their control over the light squares, so breaking with ...d5 makes sense to increase this lead. } 5. exd5 Ba6 $1 6. c4 cxd5 $1 7. Qxd5 Rd8 8. Qe4 Nf6 $17 { For the cost of just one pawn, Black has built up a nice initiative and a significant lead in development. White will have to play very precisely to avoid their position degrading rapidly. Scouting for opportunities to undouble your pawns is a good practice. Pouncing on those moments of carelessness from the opponent can allow you to remove your only positional problem (in this case doubled pawns) and then push for an advantage by using whatever positional assets you had obtained in exchange for the worse structure (in this case the bishop pair). Let's take a look at another technique around doubled pawns next. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967681/"]
+[Date "????.??.??"]
+[Round "43.4"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "Splitting The Chain"]
+[Result "*"]
+[FEN "4rr1k/p1qn3p/2pppbp1/2p2p2/N3PP2/1P1P1Q1P/P1PB2P1/4RR1K w - - 0 1"]
+
+ { The technique seen in this position, in the online game Carlsen,M - Theodorou,N (2022) is also commonly encountered and very powerful. } 1. { -KEY- } e5 $1 { White spots that Black has doubled pawns on the c-file, and so targets the d6 pawn. I refer to this as 'splitting the chain' and it's a very powerful technique as it can turn reasonably good doubled pawns into the worst kind: doubled and isolated! } dxe5 2. fxe5 Bg7 { Unable to capture on e5, Black retreats with the bishop. } ( 2... Bxe5 $2 { allows for a thematic exchange sacrifice with } 3. Rxe5 $1 Nxe5 4. Bc3 f4 5. Re1 Rf5 6. Rxe5 $1 { A second exchange sacrifice! } Rxe5 7. Qxf4 $18 { White is completely winning, since they will be left with two minor pieces against the Black rook. } ) 
+ ( 2... Nxe5 $2 { runs into big problems after } 3. Qg3 $1 g5 4. Bc3 $1 f4 { Black rushes the pawns forward in order to break the pin, but here White has a beautiful tactical idea. } 5. Qxg5 $3 Bxg5 6. Bxe5 Qxe5 7. Rxe5 $18 { White has recovered his sacrificed queen, while Black's structure is left completely ruined. } ) 
+3. Qf2 $1 { Immediately pressuring the now very weak isolated pawn on c5. } Rb8 4. Nxc5 Nxc5 5. Qxc5 $18 ( { White is a full pawn to the good with a better structure, leaving them with a winning position. In fact, from here the game lasted only one more move. Black played } 5. Qxc5 Rfd8 $2 { and resigned before White played his move, likely spotting that } 6. Ba5 $1 { would win an exchange. Splitting the pawn chain is a very powerful technique that can allow you to turn the opponent's relatively healthy structure into a game-losing positional problem. Next up, let's introduce one more technique based around doubled pawns. } ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967682/"]
+[Date "????.??.??"]
+[Round "43.5"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "Central Pawn Sacrifice 1"]
+[Result "*"]
+[FEN "rn1qkb1r/1p3ppp/1n2p3/p1ppP3/P2P1P2/2NB1Q1P/1PP3P1/R1B1K2R w KQkq - 0 1"]
+
+ { One of the techniques that arise when there are doubled pawns (or the potential for doubled pawns) on the board is the pawn sacrifice. In this position, we can see that White's d4 pawn is under fire. } 1. { -KEY- } O-O $1 { White ignores the central pawn. } ( 1. Be3 $6 { A move such as this one would seem to make the most sense, but after } cxd4 $1 2. Bxd4 Nc6 $13 { Black has benefited from White's reactiveness to the pressure against d4. Now White has to spend more time moving their bishop back. The position still remains better for them but it is less convincing than the game continuation. } ) 
+cxd4 2. Nb5 $1 { This is the point! White understands that the doubled pawns on the d-file are static and it is nothing like sacrificing a healthy central pawn. By playing in this way they have been able to build up their initiative very quickly, paving the way for a quickfire kingside attack. } Nc6 3. f5 $1 { Offering up a second pawn on e5. Perhaps surprisingly, the attack is so strong that White is already winning! } Nxe5 { Black grabs the second pawn, not so much out of greed but out of desire to strip White of the dangerous advanced pawns. } ( { The computer suggests the move } 3... Kd7 { as offering the best chance, but abandoning the kingside will not work against best play. White can win with a move like } 4. Qh5 { when after } g6 5. fxe6 fxe6 6. Bxg6 $18 { White uses tactics to recover their missing pawn, with Black's king remaining in permanent trouble. } ) 
+4. Qh5 $1 Nxd3 5. fxe6 g6 6. exf7+ Kd7 { The king begins its attempt to flee. } 7. Qg4+ Kc6 8. cxd3 $18 { In the end the dust has settled and White has recovered both of their sacrificed central pawns. The Black king will not survive for long on c6. This pattern can be seen in all stages of the game. Let's check out one more example, this time played in an endgame position. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967683/"]
+[Date "????.??.??"]
+[Round "43.6"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "Central Pawn Sacrifice 2"]
+[Result "*"]
+[FEN "r5rk/3n3p/p3bp2/4P2P/4pP2/8/PP1K2P1/R2N1B1R w - - 0 1"]
+
+ { Magnus Carlsen reached this position in an online game against GM Theodorou. Can you spot the strong move that he played here? } 1. { -KEY- } Ne3 $1 { Correct! This is the strongest move in the position, allowing Black to regain one of their missing pawns at the cost of spoiling their structure. } ( 1. exf6 $6 { would also be good enough for an advantage since White is up two pawns. However, Black's domination of the light squares means that the position would not be resignable just yet after } Nxf6 2. Ne3 Rad8 3. Ke1 Ng4 $13 { It turns out to be surprisingly easy to blow the advantage here. For example, after } 4. Nxg4 $6 Rxg4 { Black has enough pressure against the White position that with best play it may even be a draw! } ) 
+fxe5 2. f5 $1 { White advances his pawn, not only securing a powerful passed pawn but, importantly, fixing Black's doubled and isolated pawns on the e-file. Let's see how best play from White might look: } Bf7 3. h6 $1 { Locking the structure down in a favorable way, and restricting Black's king from entering the game with ease. } Nc5 4. Ke1 $1 { Stepping away from the d-file. } Rad8 5. g4 $18 { White is winning, with the 3 vs 1 kingside pawn majority likely to decide the game in the future. Next up, we'll turn to another very frequent pawn type: the isolated queen's pawn. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967684/"]
+[Date "????.??.??"]
+[Round "43.7"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "IQP & Piece Exchanges 1"]
+[Result "*"]
+[FEN "r2q1rk1/pb2bppp/1pn1pn2/6B1/3PN3/3B1N2/PP3PPP/R2QR1K1 b - - 0 1"]
+
+ { When facing an isolated queen's pawn, or IQP, it's important to recognise that the extra central control that the IQP offers does allow for dynamic possibilities like a kingside attack. For this reason, the most powerful method for defusing such pawns is to force the exchange of pieces. By reducing the material, you take away attacking prospects while making it easier to exploit the structural weakness of the IQP. } 1... { -KEY- } Nxe4 $1 { The first set of minor pieces is exchanged. } 2. Bxe7 { White has to agree to a second piece exchange, since the bishop was hanging. } Nxe7 $1 { Recapturing with the knight forces further piece exchanges. } ( 2... Nxf2 $6 { is tempting, but gets too messy after } 3. Bxh7 $1 ) 
+3. Bxe4 Bxe4 { Black has achieved their goal of reducing the material and they enjoy a pleasant long-term edge due to White's isolated queen's pawn on d4. Let's see how play might continue. } 4. Rxe4 Rc8 5. h3 Qd5 6. Re1 Rfd8 $17 { White is permanently on the back foot, having to babysit their weak IQP and with no attacking prospects. Chess players describe such positions as a 'two-result game', a way of commenting that the Black side runs little practical risk of losing. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967685/"]
+[Date "????.??.??"]
+[Round "43.8"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "IQP & Piece Exchanges 2"]
+[Result "*"]
+[FEN "r2q1rk1/1b2bp1p/p3pnp1/1p4B1/3P4/P1R2N2/1P1Q1PPP/1B2R1K1 b - - 0 1"]
+
+ { Can you find a sequence that forces the exchange of several minor pieces? } 1... { -KEY- } Bxf3 $1 { Black gives up their strong fianchettoed bishop, with a concrete follow-up in mind. } ( 1... Nd5 { was the game choice, which is also logical as Black does force the dark-squared bishop exchange. However, considering Black's vulnerablility along the dark squares on the kingside, I believe that 1...Bxf3! would have been stronger. } ) 
+2. Rxf3 Ne4 $1 { This was Black's idea. Now another set of pieces is forced off the board. } 3. Bxe4 ( 3. Bxe7 $2 Nxd2 4. Bxd8 Nxf3 5. gxf3 Raxd8 $19 ) 
+Bxg5 { Correct! Black has simplified the position, taking away any chances of an attack. From here the White pawn on d4 will be a constant liability. } 4. Qe2 Rc8 $15 ( { White will be forced to go passive to defend the d-pawn, with a move like } 4... Rc8 4. Rd1 { . } ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967686/"]
+[Date "????.??.??"]
+[Round "43.9"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "Square In Front Of Pawn 1"]
+[Result "*"]
+[FEN "r4r1k/1b3ppp/p3pn2/1pq5/4P3/P1NB2Q1/1PP3PP/R4R1K b - - 0 1"]
+
+ { The first technique that we'll take a look at here is based around isolated pawns. When your opponent has such a pawn, it pays to take note of the square in front of that pawn. This square will by definition always be at least a weak square, making it ideal to occupy with one of your pieces. } 1... { -KEY- } Nd7 $1 { Black steps the knight to d7 to increase their control over the e5 square. } 2. Rae1 Qe5 $1 { The queen takes up residence on e5. } ( 2... Ne5 { would be another equally strong approach. } ) 
+3. Qh4 { White understandably wants to keep the queens on the board, since an exchange would leave them with the unenviable task of having to defend a worse position due to their isolated pawn. } Nc5 { The problem for White is that keeping the queens on the board is not very helpful when the opponent's queen is far stronger than your own! } 4. Kg1 Kg8 { Black patiently improves every piece, including the king. } 5. Re3 Rad8 { Given the opportunity, Black will double up rooks on the d-file when the bishop on d3 will be in trouble. } 6. Qf4 { A testament to the strength of Black's queen! White has nothing better than to finally agree to an exchange. } Qxf4 7. Rxf4 Rd7 $17 { Black stands clearly better, with superior pieces and a more compact structure. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967687/"]
+[Date "????.??.??"]
+[Round "43.10"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "Square In Front Of Pawn 2"]
+[Result "*"]
+[FEN "r2q1rk1/pp3ppp/4n3/1Nb4n/8/3B1PB1/PP3P1P/2RQ1RK1 w - - 0 1"]
+
+ { The square in front of an isolated pawn is so strategically significant that when defending against this you may have to resort to tactical means to get out of jail. Can you find the tactical idea that White can play here in order to maintain equality? } 1. { -KEY- } Nc7 $1 { Correct! Exploiting the fact that Black's e6 knight is tasked with guarding the bishop on c5. } ( 1. Bc4 $6 { Chasing the knight would sometimes work, but here, besides the move } Nef4 { , Black can also go for tactics with } Nxg3 $1 { when the point is that after } 2. hxg3 $6 ( 2. Qxd8 { was best, but after } Ne2 { Black would have ensured that White's isolated f-pawns remained on the board. } ) 
+Qg5 $1 { White has no good way to meet the threats against the king. For example: } 3. Kh2 Rad8 $1 { The queen has no good square to run to, since either c2 or e2 will be met by ...Rd2. } 4. Qe1 ( { If } 4. Qb3 { then } Bxf2 $19 { wins on the spot, due to the hanging rook on c1. } ) 
+Qh5 5. Kg2 Ng5 6. Rc3 Qh3 7. Kg1 Qxg3 $19 { with a winning attack. } ) 
+Qg5 { Black tries the same idea, but now it is much less effective. } ( 1... Nxc7 2. Rxc5 Nxg3 { The double attack forces Black to 'correct' the opponent's structure. } 3. hxg3 $11 { White has no problems here, and in fact may stand slightly better as the bishop tends to be a more effective piece in open positions. } ) 
+2. Nxe6 $1 { Damaging the structure, and removing one of Black's powerful knights targeting the f4 square. } ( 2. Nxa8 $2 { loses after } Nxg3 3. hxg3 Qxg3 4. Kh1 Qh3 5. Kg1 Nf4 $19 { Fittingly, the weak f4 square is what enables Black to land the killer blow. Mate on g2 cannot be stopped. } ) 
+fxe6 3. Kh1 $14 ( { White will continue next with moves like Qc2 or Qb3, while } 3. Kh1 Nf4 { here is met by } 4. Be4 { when if anyone stands better it's White, since Black's light-squared pawns on b7 and e6 are even more fragile than White's kingside structure. So far we've looked at backward pawns, doubled pawns, and isolated pawns. These are the pawn types you'll encounter most often. Next up, we'll close out the section with one more pawn type that is closely related to the IQP. } ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967688/"]
+[Date "????.??.??"]
+[Round "43.11"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "Targeting Hanging Pawns 1"]
+[Result "*"]
+[FEN "rn1r2k1/p4bp1/3q1p1p/2pp4/5N2/4P3/PP2BPPP/2RQ1RK1 w - - 0 18"]
+
+ { The final technique we'll cover has to do with targeting (or undermining) what are known as 'hanging pawns'. These pawns are characterised by the fact that they sit side-by-side on adjacent files, with no friendly pawns on neighboring files to protect them. In the position in front of you, Black has hanging pawns on c5 and d5. These pawns are neutral, meaning they can be good or bad depending on the position. The main advanage of possessing them is that they offer a lot of space and central control. Their main weakness is that, lacking the support of other pawns, they can be very vulnerable to attack. In this example and the next, we'll focus on how you should play against them. There are two main approaches you can take. The first is to apply as much piece pressure as possible to the pawns. The second is to find a pawn break to undermine the pawns. Oftentimes, the two approaches can be combined as happened in the following game. } 18. { -KEY- } Qc2 $1 { White has configured his pieces excellently. All the heavy pieces will soon point at the pawns, while the knight on f4 is already pressuring d5. } Nd7 19. Rfd1 $1 ( { Setting up the threat of } 19. Rfd1 -- 20. Nxd5 { since after } Bxd5 21. Rxd5 $1 Qxd5 22. Bc4 { would win the queen. } ) 
+d4 { A bad sign for the side with hanging pawns. When the hanging pawns advance they become imbalanced in their control over central squares. Black's pawns no longer guard the light squares, inviting the next strong move from White. } 20. Bc4 Bxc4 $6 ( 20... Ne5 { offered more resistance. Now White's pieces become even more active. } ) 
+21. Qxc4+ Kh7 22. b4 $16 { White already had a near-winning position in Spassky,B - Pachman,L (1962). This example showcased both of the main ideas when facing hanging pawns: apply piece pressure, and aim for pawn breaks from the flank. Another good sign that you are taking the right approach is if you are able to force one of the hanging pawns to advance, as this causes them to lose a lot of their flexibility and strength. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967689/"]
+[Date "????.??.??"]
+[Round "43.12"]
+[White "7.6) Pawn Types: Techniques To Study"]
+[Black "Targeting Hanging Pawns 2"]
+[Result "*"]
+[FEN "2rr2k1/p4pp1/bp2pnpq/8/2PP4/P1R2PP1/1B2Q2P/3R1BK1 b - - 0 28"]
+
+ { This position was reached in Euwe,M - Reshevsky,S (1953) . Black missed a strong pawn move here, can you spot it? } 28... { -KEY- } b5 $1 { Correct! The thematic pawn break is supported by tactics! } ( 28... Nd5 $5 { Funnily enough, the other strong approach in the position also involves using tactics. } 29. Rc2 Qe3 $1 30. Qf2 Qb3 $1 { The queen has maneuvered to b3, from where she is excellently placed to pressure the vulnerable c4 pawn. } ) 
+29. cxb5 $6 ( 29. c5 $2 { loses to } b4 $19 { winning at least an exchange. } ) 
+Rxc3 ( 29... Bxb5 $1 { is similar. The main difference is that in this variation Black would have had to spot that after } 30. Rxc8 { you must recapture on c8, when the point is that } Rxc8 31. Qxb5 $2 Qe3 $19 { wins for Black due to the combined threats of ...Qxf3 and ...Rc2 against the naked king. } ) 
+30. Bxc3 Bxb5 31. Qd2 Qh5 32. Bg2 Qd5 $17 { Black stands much better here, having fractured White's hanging pawns and left him with an IQP instead. Given the limited pieces on the board, White enjoys none of the dynamic benefits that often come with an IQP while having all of the structural problems! This brings us to the end of the section. We covered seven popular techniques that will help you to improve your play whenever you encounter these common pawn types. Here's a quick recap of what we covered: (1) Backward pawns: fixing the structure (2) Doubled pawns: opportunities to undouble (3) Doubled pawns: splitting the pawn chain (4) Doubled pawns: the central pawn sacrifice (5) Isolated Queen's Pawn: exchanging pieces (6) Isolated pawn: fighting for the square in front of the pawn (7) Hanging pawns: how to attack and undermine them That's it for this pretty long chapter on pawn play - well done for working your way through it! Good luck in the puzzle section, and see you in the next chapter. } 
+ *

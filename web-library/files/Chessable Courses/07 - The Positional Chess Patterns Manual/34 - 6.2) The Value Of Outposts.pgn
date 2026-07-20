@@ -1,0 +1,81 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964792/"]
+[Date "????.??.??"]
+[Round "34.1"]
+[White "6.2) The Value Of Outposts"]
+[Black "Unforced Errors & Outposts"]
+[Result "*"]
+[FEN "3r1rk1/pp2bppp/1qp1p3/3pP3/2P1NP2/1P2PR1P/PB2Q1PK/R7 b - - 0 1"]
+
+ { Outposts are extremely valuable for a variety of reasons, and were dealt with in a separate chapter earlier in the course. We'll revisit the topic in this section, since outposts can be a great ally in the fight for open files. Let's show what this means by way of examples. In this first position, White has just made a big mistake by exchanging knights on e4. } 1... { -KEY- } dxe4 { The d-file opens up, and at the same time Black secures an outpost on d3. } 2. Rg3 $2 { Too ambitious.There's no chance for the attack to succeed against Black's ideal pawn cover, while now the rook can play no part in defense. } ( 2. Rff1 { White needed to scramble back to f1 in order to fight for the open file, but even here Black would squeeze the opponent due to having the more active pieces: } Rd3 3. Bd4 c5 4. Bb2 Qa5 $1 { The outpost on d3 is so powerful that White just cannot shake the rook away: } 5. Rfd1 Rfd8 6. Rxd3 Rxd3 $19 { White is lost, since they are not in time to challenge the remaining rook. For example: } 7. Rd1 Qxa2 $1 8. Rxd3 exd3 9. Qxd3 Qxb2 $19 { Black is up a full piece. } ) 
+g6 $1 { A nice move. Black uses one tempo to shut down any chance of a kingside attack. } 3. Rg4 Rd3 $1 { Using the outpost to invade the White camp. } 4. Re1 Rfd8 5. Bc1 { White has been forced to play one passive move after another, and now Black finishes the game by targeting White's worst placed piece, the over-ambitious rook on g4! } h5 6. Rg3 Bh4 $19 { There is nowhere to run for the rook, so Black can win some material before making further progress on the queenside & centre with a move like ...Qa5. Whenever there is a possibility that a file will get opened and there is an outpost that can be used along that file, it is crucial to stay alert. A reckless decision at this point of the game can pave the way for success or defeat. Let's take a look at a famous example of this next. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964793/"]
+[Date "????.??.??"]
+[Round "34.2"]
+[White "6.2) The Value Of Outposts"]
+[Black "Invading Via The Outpost"]
+[Result "*"]
+[FEN "1q5r/1k3pr1/1p1p1n2/p1pPpPpp/P1P1P1P1/1P3B1P/5K2/1Q4RR b - - 0 42"]
+
+ { This position was reached in the game Chekhover,V - Capablanca, J (1935) . Black is in command here. Not only can he choose to open up the h-file at exactly the right moment; he will also have an outpost on h4 which he can use to funnel his pieces into the enemy camp. } 42... { -KEY- } Qg8 { Capablanca is in no rush to open up the h-file, preferring to first build up the piece pressure on the kingside. } 43. Qc1 ( { The problem for White is that they can't clear the tension themselves since after } 43. gxh5 Nxh5 $17 { Black has a power outpost to take aim at on f4, while the h3 pawn is now an easy target. } ) 
+Kc7 44. Qe3 hxg4 { With all of Black's pieces on the kingside, it's now a good time to crack open the h-file. } 45. hxg4 Rgh7 $1 46. Qc1 { Lending support to the rook on h1. White is hoping that Black would just exchange everything off on h1, when the position would become drawish. Black however, had much greater ambitions. } ( 46. Rxh7 Rxh7 47. Rh1 $4 { The attempt to swap rooks loses on the spot. } Rxh1 48. Bxh1 Nxg4 $19 ) 
+Rh4 $1 { Anchoring the rook on the h4 outpost, and adding to the pressure against White's kingside pawns. } 47. Rxh4 Rxh4 48. Rg2 ( 48. Rh1 $2 { fails to } Nxg4 { winning a pawn. } ) 
+Qg7 ( { The slow route to the h-file is necessary, since the immediate } 48... Qh7 { would have lost the important pawn after } 49. Qxg5 { . } ) 
+49. Ke2 $2 { White starts to go wrong, though by this point only computer-like precision would offer any chances of holding a draw. } Qh6 { The position is so miserable to defend, that the game is effectively over. White has a bricked in bishop on f3, while Black is spoiled for choice in terms of entry squares along the h-file. } 50. Kd3 Rh1 { Invading deeper into the position. } 51. Qd2 Qh3 52. Qe2 Rb1 $1 { Both of Black's heavy pieces are running around the White half of the board, and there is little left to do. } 53. Kc3 Re1 $19 ( { White resigned, in view of } 53... Re1 53. Qd3 Rxe4 $1 55. Bxe4 Nxe4 56. Kc2 Qxg2 { . Another reason why outposts are difficult to deal with is that if the defending side exchanges the outposted piece it can lead to the opponent gaining a passed pawn. Let's show a couple of puzzle examples of this next. } ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964794/"]
+[Date "????.??.??"]
+[Round "34.3"]
+[White "6.2) The Value Of Outposts"]
+[Black "Forcing The Breakthrough"]
+[Result "*"]
+[FEN "2b2bk1/r2n1p2/2p1r1pp/p1P1p3/N3P3/P3BN1P/3R1PP1/3R2K1 w - - 0 1"]
+
+ { White had an open d-file in the online game Carlsen,M - Theodorou,N (2023) . White has many strong moves in this position. Can you find a move that uses one of White's advanced outposts in order to break through? } 1. { -KEY- } Nb6 $1 Nxb6 2. cxb6 { Correct! Now White has the d-file fully open, in addition to a powerful passed pawn on b6. } Ra8 3. Rd8 { From here, the game lasted only a handful of moves: } Kg7 4. Bxh6+ Kxh6 5. Rxf8 Kg7 6. Rdd8 $18 { The rooks double up on the eight rank in this case. Black resigned as he cannot avoid losing at least a piece. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964795/"]
+[Date "????.??.??"]
+[Round "34.4"]
+[White "6.2) The Value Of Outposts"]
+[Black "Passed Pawns & Outposts"]
+[Result "*"]
+[FEN "2r3k1/3q1p2/p3pnpp/1p1p4/3P4/PP1QP2P/3N1PP1/2R3K1 w - - 0 1"]
+
+ { Find the best move for White. } 1. { -KEY- } Rc5 $1 { Correct! Using the outpost is the only way for White to apply pressure to the opponent, anything else would lead to pretty dry equality. } Ne8 { Black suddenly has to be pretty precise. Their idea here is to bring the knight to d6 in order to defend the c8 rook. } ( { The problem for Black is that they can never take on c5 in good circumstances: } 1... Rxc5 $2 2. dxc5 $16 { White will play b3-b4 next, locking in a powerful protected passed pawn. } ) 
+2. Nf3 Nd6 3. Ne5 Qd8 4. Qc3 Kg7 5. Rxc8 Qxc8 6. Qc5 $1 { Again the outpost causes Black a headache, this time with the queen. } Qd8 7. Qa7 $16 { Black faces a really difficult defensive task over the coming moves, as all of White's pieces are much more active and the queenside pawns are at risk of falling. If you recall, in the 'Outposts' chapter we discussed a special kind of outpost which we termed a power outpost. These are outposts that are defended by two pawns, making them especially strong. We can also use these to our advantage when battling on an open file. Let's take a look at a couple of examples of this now. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964796/"]
+[Date "????.??.??"]
+[Round "34.5"]
+[White "6.2) The Value Of Outposts"]
+[Black "Power Outposts & Structures"]
+[Result "*"]
+[FEN "2rr2k1/p1q2p2/5bp1/2p1p3/PpQ1P2p/4N2P/1PP2PP1/R2R2K1 b - - 0 1"]
+
+ { In an online game against Magnus Carlsen, the well-known GM Daniel Naroditsky reached this position as Black. Can you spot the strong move that he played here? } 1... { -KEY- } Rd4 $1 { A strong move! Now White has to either leave the rook sit on a very active square, or change the structure. } ( { If Black had played a sloppy move like } 1... Kg7 { then after } 2. Rd5 $1 { White could have used his own outpost on d5 to build up the pressure along the d-file. } ) 
+2. Rxd4 { White can even win a pawn by exchanging, but Black can bank on his piece activity to get it back. Here's how best play from both sides would look: } cxd4 3. Qxc7 Rxc7 4. Nd5 { The fork stops Black from capturing on c2. } Rc6 5. Nxb4 { White nets a pawn, but has shaky coordination. } Rc4 6. Nd5 Kg7 { Defending the bishop. } 7. c3 dxc3 8. Nxc3 Be7 { Activating the bishop. } 9. Kf1 Bb4 10. Rc1 Bxc3 11. Rxc3 Rxa4 $11 { Black's piece activity proved enough to recover the pawn. The endgame is completely equal. This example is one to watch out for, as the pattern of planting a rook on either d4 or d5 pops up quite a lot. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39964797/"]
+[Date "????.??.??"]
+[Round "34.6"]
+[White "6.2) The Value Of Outposts"]
+[Black "Power Outposts & Sacrifices"]
+[Result "*"]
+[FEN "q5rb/pb1kpp1p/1p1p2pB/3P4/1P2PP2/P3Q2P/4N1P1/2R3K1 w - - 0 1"]
+
+ { In our final position of the section, we'll show an important pattern that pops up quite often where one side can combine power outposts with an exchange sacrifice. } 1. { -KEY- } b5 $1 { First, White secures a power outpost on c6. } Rc8 2. Rc6 $3 { A powerful exchange sacrifice. If Black ignores the rook then all of their pieces will be hemmed in. } ( { A timid move like } 2. Rxc8 { would leave Black in a winning position after } Qxc8 3. Kh2 Qc4 $19 { White cannot defend the pawn on b5, and to make matters worse Black has a powerful bishop pair. } ) 
+Bxc6 3. bxc6+ { The protected passed pawn more than makes up for the lost material. } Ke8 4. h4 Rc7 5. f5 Qc8 6. h5 { White continues to hammer away at the kingside with a series of pawn breaks. } Bf6 ( 6... gxf5 $2 { The problem for Black is that if they capture then } 7. Qg5 { wins on the spot, since there is no way to stop Qg8+. } ) 
+7. Qg3 Be5 8. Nf4 $18 { Black's pieces remain paralysed, while White is about to break through on g6. The position is lost. In fact, Black has nothing better than to play 8...Rxc6 and play down a full piece. This brings us to the end of the section. Whenever battling for open files, it pays to keep an eye out for outposts available to you or to your opponent. Power outposts are especially valuable, so it's worth considering any moves that allow you to establish one as in the current example. In the final section of the chapter we'll speak about the close cousin of open files: the semi-open file. } 
+ *

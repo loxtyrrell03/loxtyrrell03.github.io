@@ -1,0 +1,141 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12618423/"]
+[Date "????.??.??"]
+[Round "29.1"]
+[White "4.2 Barrier"]
+[Black "Barrier"]
+[Result "*"]
+
+ { By the term 'barrier' I refer to a construction where the team of a knight and a piece that captures diagonally is deployed on squares of the same colour within short distance, in order to restrict the enemy king. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612186/"]
+[Date "????.??.??"]
+[Round "29.2"]
+[White "4.2 Barrier"]
+[Black "Example 242- Strutinskaya- G. vs. Chernikov- O.- European Senior Championship- Courmayeur 2011"]
+[Result "1-0"]
+[FEN "8/8/2k1p2p/1p2P3/1P3KNP/8/8/1b6 w - - 0 1"]
+
+ { Barriers are quite common in bishop vs. knight endings, as in this simple example. } 1. { -KEY- } Nf6 $1 { Creating a barrier in order to prevent the entrance of the black king. } ( { In contrast, after } 1. Nxh6 $6 Kd5 { Black obtains counterplay - Baburin. It is worth noting that in most bishop vs. knight endings, the existence of mutual passed pawns favours the bishop. } ) 
+Bc2 2. Ke3 { Next, the white king should temporarily replace the knight in the task of controlling d5. } Bf5 3. Kd4 Kb6 ( { Or } 3... Bc2 4. Ng8 $1 h5 5. Nf6 Bd1 6. Ke3 { with similar play - Baburin. } ) 
+4. Ng8 $1 { Provocation - once the h-pawn moves to h5 it will be easier for White to attack it; besides, the g5-square is liberated for her king. } h5 5. Ke3 Kc6 6. Nf6 Bg6 7. Kf4 Bc2 8. Kg5 ( { Again there is no reason to go for } 8. Nxh5 $6 Kd5 { either here or on the following moves. } ) 
+Bd1 9. Kg6 $1 { Heading for the e6-pawn. } Bf3 10. Kf7 Bg4 11. Ke7 { Zugzwang. } Bf5 ( { On } 11... Kc7 { White could triangulate by } 12. Ke8 Kc6 13. Kf7 { so as to force } Kc7 { after which } 14. Kg6 Kc6 15. Nxh5 { wins comfortably now that } Kd5 { fails to } 16. Nf6 ) 
+12. Nxh5 Kd5 13. Kf6 ( { In comparison to the } 8. Nxh5 { subline, here White's king is much more active, which secures a swift win. } ) 
+Kc4 14. Ng7 Bd3 15. Nxe6 Kxb4 16. Nd4 Kc5 17. e6 $1 Kd6 18. e7 Kd7 19. Ne6 Bg6 20. Nf8+ 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13825797/"]
+[Date "????.??.??"]
+[Round "29.3"]
+[White "4.2 Barrier"]
+[Black "Strutinskaya- G. vs. Chernikov- O.- #1"]
+[Result "1-0"]
+[FEN "8/8/2k1p2p/1p2P3/1P3KNP/8/8/1b6 w - - 0 1"]
+
+ { Barriers are quite common in bishop vs. knight endings, as in this simple example. } 1. { -KEY- } Nf6 $1 { Creating a barrier in order to prevent the entrance of the black king. } ( { In contrast, after } 1. Nxh6 $6 Kd5 { , Black obtains counterplay - Baburin. It is worth noting that in most bishop vs. knight endings, the existence of mutual passed pawns favours the bishop. } ) 
+Bc2 2. Ke3 { Next, the white king should temporarily replace the knight in the task of controlling d5. } Bf5 3. Kd4 Kb6 ( { Or } 3... Bc2 4. Ng8 $1 h5 5. Nf6 Bd1 6. Ke3 { with similar play - Baburin. } ) 
+4. Ng8 $1 { Provocation - once the h-pawn moves to h5 it will be easier for White to attack it; besides, the g5-square is liberated for her king. } h5 5. Ke3 Kc6 6. Nf6 Bg6 7. Kf4 Bc2 8. Kg5 ( { Again there is no reason to go for } 8. Nxh5 $6 Kd5 { either here or on the following moves. } ) 
+Bd1 9. Kg6 $1 { Heading for the e6-pawn. } Bf3 10. Kf7 Bg4 11. Ke7 { Zugzwang. } ( { On } 11. Ke7 Kc7 { White could triangulate by } 12. Ke8 Kc6 13. Kf7 { so as to force } Kc7 { after which } 14. Kg6 Kc6 15. Nxh5 { wins comfortably now that } Kd5 { fails to } 16. Nf6 ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612187/"]
+[Date "????.??.??"]
+[Round "29.4"]
+[White "4.2 Barrier"]
+[Black "Example 243- Vilela- J. vs. Augustin- J.- Prague 1980"]
+[Result "1-0"]
+[FEN "8/8/1N2kp2/8/P2K2n1/8/8/8 w - - 0 1"]
+
+ { In this apparently drawish position, White decided matters by means of a barrier. } 1. { -KEY- } Kc5 $1 { King first, denying Black's king the d6-square. } ( { The hasty } 1. a5 $2 { would just draw after } Kd6 $1 ( { but not } 1. Kc5 Ne5 $2 2. Kc5 $1 { with similar play to the game } ) 
+2. a6 Ne5 { and the knight reaches c6 in time. } ) 
+f5 ( { Or } 1... Ne5 2. a5 Nd7 3. Kc6 $1 { and wins - Dvoretsky. } ) 
+2. a5 f4 3. a6 f3 4. Nc4 $1 ( { After } 4. a7 $2 f2 5. a8=Q $11 f1=Q $11 6. Qe8 Kf5 { Black escapes. } ) 
+f2 5. Nd2 Nf6 6. Kc6 $1 ( { Avoiding the last trap: } 6. a7 $2 Ne4 $1 ) 
+Ne4 7. Nf1 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612188/"]
+[Date "????.??.??"]
+[Round "29.5"]
+[White "4.2 Barrier"]
+[Black "Example 244- Hellsten- J. vs. Sadler- M.- German League 2001"]
+[Result "1/2-1/2"]
+[FEN "6k1/5ppp/p2bp3/8/8/4P1P1/1P3PKP/2N5 w - - 0 1"]
+
+ { The barrier is also frequently used by the defending side. In the above position the bishop outranks the knight, but White has a very simple way of maintaining the balance. } 1. { -KEY- } Nd3 $1 f5 2. f3 Kf7 3. e4 $1 Ke7 4. b3 { The barrier is complete and now prevents the black king from invading White's territory. Neither player can do much, so a draw was agreed. } g6 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612189/"]
+[Date "????.??.??"]
+[Round "29.6"]
+[White "4.2 Barrier"]
+[Black "Example 245- Browne- W. vs. Petrosian- TV.- Las Palmas Interzonal 1982"]
+[Result "1/2-1/2"]
+[FEN "5k2/p2r1pp1/1p3n1p/3pR3/1P1P3P/1B3P2/1P3KP1/8 b - - 0 1"]
+
+ { Here is a similar, but more complex example. White has a more active game, and now intends g2-g4-g5, conquering the d5-pawn. Petrosian found a surprising defence. } 1... { -KEY- } Ng8 $1 { Deliberately handing over the d5-pawn in order to set up a barrier. } ( { Another option was } 1... Ne8 $5 2. Rxd5 ( { while } 1... Ng8 1. Ba4 $5 Rd8 3. Bxe8 { can be met by } f6 $1 { and only then 4...Rxe8. } ) 
+Rxd5 3. Bxd5 Nd6 { with similar play. } ) 
+2. Rxd5 ( { Or } 2. Bxd5 $6 Ne7 { followed by 3...Rxd4. } ) 
+Rxd5 3. Bxd5 Ne7 $1 { Heading for c8-d6. } 4. Be4 Nc8 5. Ke3 g5 ( { The immediate } 5... Nd6 { was fine as well, but Petrosian prefers to grab some space. } ) 
+6. hxg5 hxg5 7. f4 gxf4+ 8. Kxf4 f6 9. Bd3 Nd6 { The barrier is complete, preventing White from making progress. } 10. Kg4 Kg7 11. g3 Kf7 12. Kh5 Kg7 13. g4 ( { Play might have continued } 13. g4 Kf7 14. g5 fxg5 15. Kxg5 Ke7 16. Kf4 Kd7 17. Ke5 Kc7 { followed by endless knight moves. } ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612190/"]
+[Date "????.??.??"]
+[Round "29.7"]
+[White "4.2 Barrier"]
+[Black "Example 246 by Dvoretsky- M."]
+[Result "1/2-1/2"]
+[FEN "K7/8/8/5N2/8/3k3p/8/8 w - - 0 1"]
+
+ { Thanks to its tactical potential (i.e. forks) , the knight can sometimes set up a barrier on its own, as in the next example.With the knight on h2 this would be an elementary draw, but that can't be accomplished here. Fortunately, a different defensive idea is available. } 1. { -KEY- } Ng3 $1 { Creating a barrier against the black king. } ( { In contrast, going for a fork by } 1. Nh6 $2 h2 2. Ng4 { fails to } h1=Q { queening with check - Dvoretsky. } ) 
+h2 ( { The direct } 1... Ke3 { allows } 2. Nf1 Kf2 3. Nh2 { with a simple draw; e.g. } Kg2 4. Ng4 Kg3 5. Ne3 { etc. } ) 
+2. Kb7 { It transpires that Black's king can't step on e4 or e2, while e3 and d2 aren't available either due to a fork on f1. } Kd4 ( { After } 2... Kc2 3. Kc6 Kd1 4. Kd5 Ke1 5. Ke4 Kf2 6. Nh1 ( { or } 5... Kd4 5. Kf4 ) 
+Kg2 7. Ke3 Kxh1 8. Kf2 { it is again a draw. } ) 
+3. Kc6 Ke5 4. Kc5 Kf4 5. Nh1 $1 { The knight is sacrificed to leave Black's king trapped in the corner. } Kf3 6. Kd4 Kg2 7. Ke3 Kxh1 8. Kf2 { Stalemate. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612191/"]
+[Date "????.??.??"]
+[Round "29.8"]
+[White "4.2 Barrier"]
+[Black "Example 247 by Dvoretsky- M."]
+[Result "1-0"]
+[FEN "8/2N5/8/2p1k3/8/2P5/8/7K w - - 0 1"]
+
+ { Here are two more examples of a knight successfully creating a barrier.How to cope with the enemy plan of ...Ke4-d3, finishing off the c3-pawn? } 1. { -KEY- } Na8 $1 { A surprising move, but it turns out that the knight is needed on b6, and this is the only available route. } ( { a) Both } 1. Kg2 $2 Ke4 2. Kg3 Kd3 3. Nb5 ( { or } 3. Nd5 ) 
+Kc4 ) 
+ ( { b) And } 1. Nb5 $2 Kd5 $1 ( { not } 1. Na8 Ke4 $2 2. c4 Kd3 3. Nd6 $1 { etc. } ) 
+2. Na3 Ke4 3. Kg2 Kd3 4. c4 Kc3 5. Kf3 Kb3 6. Ke4 Kxa3 { lead to a draw. But note that with the white king starting on h2, he would win in this line as well, by 7.Kd6 at this moment. } ) 
+Kd5 ( { Or } 1... Ke4 2. c4 Kd4 3. Nb6 { securing the pawn. Incidentally, defending the pawn from the front tends to be a good idea in knight vs. pawn endings with blocked pawns. In contrast, without the c5-pawn on the board, the knight should defend the pawn from the back; e.g. from b2 in this case. } ) 
+2. Nb6+ Kc6 3. Nc4 Kd5 4. Nd2 $1 { Completing the barrier, with an easy win. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12612192/"]
+[Date "????.??.??"]
+[Round "29.9"]
+[White "4.2 Barrier"]
+[Black "Example 248- Tratar- M. vs. Hug- W.- Baden 1999"]
+[Result "1-0"]
+[FEN "8/8/p2p4/3P1k2/2P5/P3K1b1/3N4/8 w - - 0 1"]
+
+ { A clever knight manoeuvre helped White to capitalize on his extra pawn. } 1. { -KEY- } Nb3 $1 { Heading for c6 in order to create a barrier together with the d5-pawn. } ( 1. Nf3 { in similar spirit works as well, as does the immediate 2.Na5 on the next move. } ) 
+Ke5 2. Kd3 Bf2 3. Na5 Kf5 4. Nc6 Bb6 5. a4 { Preparing to fix the a-pawns on squares of the 'right' colour in relation to the enemy bishop. } a5 { Black plays this move voluntarily, without waiting for White to provoke it by Nb4 or Nb8. } 6. c5 $1 { A strong breakthrough which clears a path for the king via c4-b5. } ( { Alternatively, } 6. Nb8 { followed by Nd7 and c4-c5, was a more complex winning procedure - Muller. } ) 
+dxc5 ( { Or } 6... Bxc5 7. Nxa5 Ke5 8. Kc4 { with the mortal threat of Nc6+ and a4-a5-a6-a7 - Ribli. } ) 
+7. Kc4 { Thanks to the barrier, White can use his king for active means. } Kf6 ( { If } 7... Ke4 { then } 8. d6 { - Ribli. } ) 
+8. Kb5 ( { Ribli also suggests } 8. d6 $5 Ke6 9. Kb5 ) 
+c4 ( { Seeing that } 8... Bc7 9. Kxc5 { followed by 10 d6, is hopeless for him, Black makes a desperate try. } ) 
+9. Kxb6 ( { Of course } 9. Kxc4 { was also fine. } ) 
+c3 10. Nxa5 { Heading for b3, so Black resigned. } 
+ 1-0

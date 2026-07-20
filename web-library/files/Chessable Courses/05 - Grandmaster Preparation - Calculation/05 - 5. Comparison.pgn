@@ -1,0 +1,455 @@
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770665/"]
+[Date "????.??.??"]
+[Round "5.1"]
+[White "5. Comparison"]
+[Black "Comparison"]
+[Result "*"]
+[FEN "r5k1/2q1p1bp/2Np1np1/5P2/1r4PR/pP2B3/K1PN3Q/3R4 w - - 0 30"]
+
+ { Comparison Herman Ottevaere – Karel Falleyn, Correspondence 1973 Black to play The knight on c6 is hanging and taking the rook with } ( 30. Nxb4 $2 { is refuted immediately by the beautiful } Nd5 $3 { And taking the pawn first with } ) 
+ ( 30. Rxh7 $6 { is met with } Rxg4 $1 { which is quite simply a mess. } ) 
+ ( 30. c4 $5 { is not a bad move, but also not totally clear. } ) 
+ { What White needs to do is to protect the c6-knight with the queen, but is this best done from g2 or h1? The method of comparison is very useful for the practical player. Let’s assume that you can have the same position except with the pawn on either a2 or b2; and that there are a lot of variations to calculate. In such a scenario it is a great help to be able to think in concepts, trying to make out what the differences will be between the two different variations. We will be able to calculate a lot of tactics and then be able to put in our take on them. } 30. -- 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1783709/"]
+[Date "????.??.??"]
+[Round "5.2"]
+[White "5. Comparison"]
+[Black "Paul Keres vs. Donald Byrne"]
+[Result "1-0"]
+[FEN "4r1k1/2q1pp2/3n2pQ/2rPR3/1p4P1/pP3R1P/1P2NP2/6K1 w - - 0 30"]
+
+ { Paul Keres – Donald Byrne, San Antonio 1972 White has attacking chances on the kingside with the idea Rxf7, but it has to be prepared. This can be done with both Nd4 and Rg5, moves that in different ways seek to follow up with mate after the rook sacrifice. But there is the a-pawn to take into consideration. If we prepare our attack it will certainly queen – and with check. As this is a simple position we can actually work out with brute-force calculation which move is better, but I doubt that anyone can understand the position fully without conceptually seeing it as promotion on either a1 or b1. Basically, there are three scenarios with the passed pawn. A. White exchanges on a3 and Black promotes with check on a1. B1. White does not exchange on a3 and Black promotes with check on a1, but the b2-pawn stays. B2. White does not exchange on a3 and Black promotes with check on b1 after taking the b2-pawn. The idea is that this position can easily be solved by looking at this position in our mind’s eye: We can then imagine any of the three scenarios and decide how it will work out. And who knows, maybe this is exactly what Keres did! } 30. bxa3 $1 { The alternatives would fail miserably. White’s attack is taking place on the light squares and the control over g6 is very important. } ( 30. Rg5 $2 { is best answered with } axb2 $1 { when } 31. Rxf7 $2 { would even lose after } b1=Q ) 
+ ( 30. Nd4 $2 axb2 { also does not bring any luck. Taking on f7 is just as useless as in the previous line, so again White needs to bail out with a draw after } 31. Ne6 ) 
+bxa3 31. Rg5 $1 { White also wins after } ( 31. Nd4 $1 { based on } a2 32. Rxf7 Kxf7 33. Qh7 { with mate in three moves. } ) 
+a2 32. Rxf7 $1 a1=Q+ 33. Kg2 { Mate is near so Black resigned. In principle, there is nothing more to the technique than this. In positions where the variations tend to go in one specific direction after two different moves, you do not have to analyse them both extensively and get lost in the variations. It is a bit like laying out the furniture in your new living room. You might know where the shelves, the TV, the stereo and the shrine worshipping Kirsan Ilyumzhinov go. But you cannot work out where the photo of your wife’s family will fit best – behind the sofa or on top of the shelves. In this case, you lay everything out and then try out the different options. You do not start over every time, you just move around the last few items to see how it all lines up. The same is the case with the method of comparison. With this explained in all its simplicity, let’s immediately move on to very complicated examples! } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770667/"]
+[Date "????.??.??"]
+[Round "5.3"]
+[White "5. Comparison"]
+[Black "Herman Ottevaer vs. Karel Falleyn"]
+[Result "0-1"]
+[FEN "r5k1/2q1p1bp/2Np1np1/5P2/1r4PR/pP2B3/K1PN3Q/3R4 w - - 0 30"]
+
+ { Herman Ottevaere – Karel Falleyn, Correspondence 1973 } { _ } 30. Qg2 $6 { This game was played in the glory days of correspondence chess when it was possible to completely miss your opponent’s next move. I have a feeling this happened a few times to White, but it is certainly possible to solve this position using both conceptual thinking and straight calculation. As we shall see below, the correct move was 30 Qh1!! after which White is completely winning. } ( 30. Qh1 $3 d5 31. Nxb4 Qc3 32. Bd4 Qxd4 33. Nc4 $1 Qc3 34. Rd3 Qxb4 35. g5 { with extra material and a winning attack both on the kingside and in the centre. White could also take on h7 on the previous move or on d5 here. The choices are many. A possible end could arise after } Ne4 36. Rxe4 $1 dxe4 37. Qxe4 Ra6 ( 37. Qg2 Re8 38. Qe6 Kh8 39. fxg6 { with a mating attack; Rd3-h3 is on its way. } ) 
+38. f6 $1 exf6 39. Rd8 Bf8 40. Qd5 Kg7 41. Rd7 Kh8 42. Qf7 { with mate. } ) 
+d5 $1 { This was obviously Black’s idea. } ( 30... Rc8 $6 31. Nxb4 Qc3 { is weaker. The rook is better on a8 and the pawn is useful on d5. } 32. Rb1 ( 31... d5 31. Nc4 Rxc4 33. Nd3 { also wins. } ) 
+Qxb4 33. c4 { and White wins. } ) 
+31. Nxb4 ( 31. c4 $2 Qxc6 32. g5 { does not work. Black is much better after } Ne4 $1 { With the idea } 33. Nxe4 Rxb3 $3 { with a mating attack. } ) 
+Qc3 32. Nc4 $4 { It would be easy to dismiss this move as a tactical mistake, overlooking Black’s combination. This would not take into account the great transformation of chess thinking that has happened in the last twenty years with the rise and rise of the chess engines. Today people would be looking for a so-called 'computer move' to try to save the game, and in this case, they would find it: } ( 32. Bd4 $3 Qxd4 { Now } 33. Nc4 $2 { would hang the rook on d1 and lose quite quickly. But if White had played 30 Qh1!! instead of 30 Qg2?!, play would most likely have been more or less identical with the queen’s placement being the only difference. So the rook on d1 would be defended and the game would end quickly after 33 Nc4! () But White did not play this, so we have to put the queen back on the inferior g2-square. White’s options are limited. In this position, he should play: } ( 33. c3 $1 { This would allow White to stay in the game; and even play for an advantage. } Qxc3 34. Nc4 Rb8 ( 34. Nc4 Qxb4 35. Rxd5 { also favours White, but is not entirely clear. } ) 
+35. Rh3 $1 Qxb4 36. Rxd5 e6 $1 { The only move. } ( 36. Nc4 gxf5 37. gxf5 h5 38. Rdd3 { and Rdg3 wins. } ) 
+37. Rdd3 exf5 38. gxf5 $16 { White has a strong advantage and should probably win, but a lot of tricks still exist. } ) 
+ ) 
+Ne4 $1 { Black is winning, as no doubt both players believed all along. } 33. Nxd5 { The mate arising after } ( 33. Bd4 Bxd4 34. Rxd4 dxc4 { is a bit more prosaic. But } ( 33. fxg6 { would have allowed a very pretty finish in: } Qa1 $1 34. Rxa1 Nc3 ) 
+ { White has an extra knight, rook and queen, but little does it help him! } ) 
+Qb2+ $1 { White resigned. To sum up – the queen is better placed on h1, from where it is both attacking h7 and, far more importantly, defending the rook on d1. Some people would be able to solve this by pure calculation, while others would find it easier to solve this by thinking in general concepts. Obviously, there are drawbacks to both forms of thinking, but combined they can be quite powerful. } 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770668/"]
+[Date "????.??.??"]
+[Round "5.4"]
+[White "5. Comparison"]
+[Black "Tigran Petrosian vs. Bojan Kurajica"]
+[Result "1-0"]
+[FEN "r1b4r/1p6/2pkpp2/1R5P/1n1P4/5NQ1/qP3PP1/5K1R b - - 0 25"]
+
+ { The logic in the next example is really beautiful. Tigran Petrosian – Bojan Kurajica, European Club Cup, Plovdiv 2010 Obviously, this is not the former World Champion in action nor is it his ghost, though I am not entirely sure you cannot call the young Armenian grandmaster a tribute act. With no knowledge thereof, I am imagining that he was named Tigran by a chess enthusiast father, maybe after lengthy negotiations with the mother. But make no mistake; there is no restraint and python-like suffocation in his play. Although I cannot say I have seen all of his games, I would presume he has brutally mated more people than you have had pies. Unlike the former bearer of his name, the young Tigran is indeed a tiger at the chessboard. I think the diagram position gives this away as well. Before we get into the discussion of the inner workings of the position, let’s quickly get the game out of the way... } 25... e5 $4 { A horrific move that loses instantly. Probably Kurajica played this with a loose hand in the way you would when you have resigned the game but continue to make moves, certain of your defeat. But as we shall see, this move is the only losing move in the position! } 26. dxe5+ fxe5 27. Qxe5+ Kd7 28. Rxb4 c5 29. Qxc5 Qa6+ 30. Kg1 Qd6 31. Ne5+ Ke6 32. Qxd6+ Kxd6 33. Nf7+ Kc5 34. Rhh4 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770669/"]
+[Date "????.??.??"]
+[Round "5.5"]
+[White "5. Comparison"]
+[Black "Tigran Petrosian vs. Bojan Kurajica (Improvement)"]
+[Result "*"]
+[FEN "r1b4r/1p6/2pkpp2/1R5P/1n1P4/5NQ1/qP3PP1/5K1R b - - 0 25"]
+
+ { Had this been the chapter on elimination we could have talked about how easily 25...e5 could be removed from the list of candidates. But we would have struggled a lot to eliminate the two remaining options. Here the method of comparison works best. The main line runs sort of like this: } 25... Ke7 { Or } ( 25... Kd7 { In this line it is not really important where the black king has gone. But it could make a difference if the white king went towards the centre, e.g. } ( 25... Ke7 26. Rxb4 Qa6 $1 27. Ke1 $2 { Black’s desired move here would be } Qd3 $3 { when suddenly the white king is trapped in a mating net. That is, if the king has gone to e7 rather than d7! Then there would be } 28. Ne5 { and White wins the queen. I told you the logic would be beautiful. But unfortunately, it does not fully add up. After } ) 
+ ( 25... Kd7 26. Rxb4 Qa6 $1 27. Ke1 $5 { Black has a different idea in } Rg8 $3 { After } 28. Qxg8 Qd3 { Black can do without the rook; White has nothing better than perpetual check. } ) 
+ ) 
+26. Rxb4 Qa6+ $1 27. Kg1 Qa1+ 28. Kh2 Rxh5+ 29. Nh4 Qa5 $3 { Black is ready to both take the rook on b4 and play ...Qg5!. White has nothing better than to attempt to bail out with a perpetual check immediately on g7 and g3. Black can then try ...e5!?, but the outcome is unclear. As Black just lost in the game, we shall consider the answer to such diversions as beyond irrelevant. The general point here is that chess is difficult and at times our logic is not perfect. However, if we use tools such as comparison, we will have a better outcome than if we do not. The idea that we should see everything is just not practical. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770670/"]
+[Date "????.??.??"]
+[Round "5.6"]
+[White "5. Comparison"]
+[Black "Position A vs. Position B"]
+[Result "*"]
+[FEN "2rr2k1/1p3p2/3pp1p1/4q1Pn/4P3/1B3Q2/PPP3R1/1K5R w - - 0 1"]
+
+ { The final example before we move on to the exercises is quite complex and in many ways a logical continuation of the previous example. Why will become obvious along the way. The first thing to say is that Black is in a difficult situation. However, by using the method of comparison, he manages to save the game. In Position A, Black has been able to bring his queen to the great central square e5, from where it both dominates the queenside and protects the kingside. } 1. -- { While in Position B, Black is one move away from putting his queen on e5, while White’s queen and rook are placed differently. From a practical point of view I would steer away from Position A without calculating further. The rook is passive on e1 and the various tactical ideas look less dangerous with the queen on e3. It looks far more aggressive on f3, where it is shooting at h5 and f7. But once I come back home after a game, I like to back up such logic with concrete analysis in order to improve my intuition. I am quite sure that Smerdon had done this thoroughly in his preparation in advance of this game and this is where he found a stellar resource. But let’s start by looking at the most obvious variation... } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770671/"]
+[Date "????.??.??"]
+[Round "5.7"]
+[White "5. Comparison"]
+[Black "Position A"]
+[Result "1-0"]
+[FEN "2rr2k1/1p3p2/3pp1p1/4q1Pn/4P3/1B3Q2/PPP3R1/1K5R w - - 0 28"]
+
+ { Position A } 28. Rxh5 $1 gxh5 29. g6 { As a positional evaluation is rather difficult in Position A (if you are looking for a conclusion other than "equal material") only tactics are really important here. And this is the most dangerous tactical idea available. } f6 { The only defensive move of any value, but White has not exhausted his resources yet. } 30. Bxe6+ $3 Qxe6 31. Qxh5 { The immediate threats are g6-g7 winning material and simply Rh2 with a mating attack. There is no way I would have been able to calculate further than this without a lot of recent practice, and this position is not one I would want to endure! Black only has one move at his disposal: } Qd7 ( 31... Kf8 32. Qh8 Qg8 33. Qxf6 Ke8 34. Rh2 { looks menacing, although Black has a nice defensive try in } Qc4 { White needs to throw in } 35. b3 $1 { before trying anything else. Black cannot defend f7 and e6 with anything other than returning to g8. After this anything wins. } ) 
+32. Rh2 Kf8 33. Qh8+ Ke7 34. Qh7+ Kf8 { After } ( 34... Ke6 35. Qh3 $1 { Black is lost. For example } Ke5 { And } ( 35... Ke7 36. Qb3 $3 Kf8 37. Rh7 { - and so on. } ) 
+36. Qg3 { The main line move leads by force to a rook ending where White has a pawn more. } ) 
+35. Qxd7 Rxd7 36. Rh8+ Kg7 37. Rh7+ Kxg6 38. Rxd7 Re8 39. Kc1 Rxe4 40. Rxb7 f5 41. Kd2 f4 42. Rb8 { The final position could be analysed deeper with great accuracy, but moving the pieces around for a few minutes gives the impression that White wins by a tempo. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770672/"]
+[Date "????.??.??"]
+[Round "5.8"]
+[White "5. Comparison"]
+[Black "Leinier Dominguez Perez vs. David Smerdon"]
+[Result "1/2-1/2"]
+[FEN "2rr2k1/1p3p2/3pp1p1/1N2q1Pn/4P3/1B2Qn2/PPP3R1/1K5R b - - 0 26"]
+
+ { For Position B it is much harder to calculate the lines, as they are less forcing, at least on an immediate basis. But once you get deep into the position, you will see that the queen is not worse placed on e3. Leinier Dominguez Perez – David Smerdon, Khanty Mansiysk (1.4) 2009 It is obvious that Black has to take the knight on b5 as his knight on f3 cannot be saved. But the circumstances are open to manipulation. } 26... Ne1 $3 { A nice desperado move. I have often noticed that a very good way to calculate desperado situations (where everything is hanging) is to look for ways to sidestep the constant slugging of the pieces. With this move Smerdon steers towards Position B, while } ( 26... Qxb5 27. Qxf3 Qe5 { would have landed him in Position A. } ) 
+27. Rxe1 Qxb5 { We have arrived at Position B. Dominguez is known as a ferocious attacking player, but he did not find a way to cause sufficient damage to the black king’s position. } 28. c3 $6 { Not terribly energetic. If we look at the variations we will see that White is actually close to winning here as well, but Black’s use of the comparison strategy made it difficult for his opponent to win the game. } ( 28. Rh1 $1 { The intention is obvious. White wants to take on h5. Here the natural move would be to centralize the queen and bring it closer to the defence. } Qe5 $2 { If we compare this with Position A then the position of the white queen is the only difference. This is quite important when we evaluate the exchange sacrifice: } 29. Rxh5 ( 29. Qf3 { could probably be met with something hilarious like } b5 { when the pawn is better placed than in Position A far down the line. But more importantly, Black has } ( 29. c3 Qf4 30. Qd3 Qe5 { and no particular problems. The computer values White’s position very highly, but I cannot see that this is justified. } ) 
+ ) 
+gxh5 30. g6 { With the queen at e3 instead of f3, we spot the extra option of Qh6!, but also that White is unable to deliver mate on f7. Black, therefore, does not have 30...f6 this time around, but he can try something else. } Kf8 $5 { Trying to run away; unashamedly. } 31. gxf7 $1 { The strongest move. Black will slowly be ground down with his open king and the many threats on the light squares. } ( 31. Rf2 $2 Kg7 32. Rxf7 Kxg6 33. Re7 Re8 34. Rxb7 Rg8 { is roughly even, but certainly unclear. } ) 
+ ( 31. Qf3 $2 f6 $1 { ⩱ is also nothing for White. } ) 
+d5 ( 31. c3 Ke7 32. Rg5 $1 Qf6 33. Qg1 Qf4 34. Rg6 $1 { is awful for Black. } ) 
+32. a3 Ke7 ( 32. c3 Qxe4 33. Qg5 Qd4 34. c3 Qh8 35. Bc2 { and Black cannot hold this position forever. } ) 
+33. Qb6 Qxe4 34. Qxb7 Kd6 35. Qa6 Ke7 36. Re2 Qf5 37. Ka2 { White is winning in the long run. Black’s king is too exposed and there is no way for him to activate his rooks and make his extra exchange felt. On } ) 
+ ( 28. Rh1 { Black could try } Rc7 $1 { in order to anticipate the sacrifice on h5 and defend the 7th rank. This was pointed out to me by David Smerdon and was not included in the previous editions of this book, which looked a bit different to this edition. A possible variation could be: } 29. a4 Qe5 30. Rxh5 gxh5 31. g6 f6 32. Qh6 Rg7 33. Rh2 Qxe4 34. Qxh5 Qxg6 35. Bxe6 Kf8 36. Qa5 Re8 37. Rh8 Ke7 38. Bc4 Qg1 39. Ka2 Qc5 40. Rxe8 Kxe8 41. Qa8 Ke7 42. Qxb7 Kf8 { The game continues, with a draw being the most reasonable result. } ) 
+Qe5 29. a3 ( 29. Rf1 b5 30. Qf3 Rc7 { looks okay for Black. } ) 
+b5 30. Ka2 Kg7 31. Rf1 Rc7 32. Qf3 Ra8 33. Rh1 Rh8 34. Rd1 Rd8 35. Rh1 Rh8 36. Rd1 Rd8 37. Rh1 { Great preparation by Smerdon! } 
+ 1/2-1/2
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770674/"]
+[Date "????.??.??"]
+[Round "5.9"]
+[White "5. Comparison"]
+[Black "Exercise #1"]
+[Result "*"]
+[FEN "r1bq1nrk/5p1p/p3pP2/3pP2Q/1p3P1P/3B4/PPP5/2KR3R w - - 0 20"]
+
+ { Mekhitarian – Rodriguez Fernandez, Manresa 2008 } { _ } 20. Rdg1 $1 { The right rook. In the game, White made a worse choice with } ( 20. Rhg1 $2 Ng6 $1 21. Rg5 $16 { Also poor is } ) 
+ ( 20. Qxf7 $2 Qb6 { with unclear play. White does not have Rdg1 anymore. } ) 
+Ng6 { This is the only defensive try of any relevance, aiming to get the queen involved in the defence. But because the rooks are better placed, White has a pretty winning combination: } 21. Qxh7+ $1 Kxh7 22. h5 $18 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770675/"]
+[Date "????.??.??"]
+[Round "5.10"]
+[White "5. Comparison"]
+[Black "Exercise #2"]
+[Result "*"]
+[FEN "6k1/5rp1/pp4Rp/2p1B3/2P1pP1q/1P2P2b/P5RP/5NK1 w - - 0 26"]
+
+ { Shvyrjov – A. Smirnov, Tallinn (rapid) 2011 } { _ } 26. Bxg7 $1 { White needs to play this, as otherwise the black king can escape from the scene of danger, carrying a sack full of gold. Take the money and run, anyone? In the game, White played the horrific } ( 26. Rxg7 $4 Rxg7 27. Rxg7 Kf8 { Black stood much better and won in 43 moves. } ) 
+Kh7 { Both } ( 26... Bxg2 27. Bf6 Kh7 28. Bxh4 Kxg6 29. Kxg2 Rd7 30. Ng3 { And } ( 26... Qh5 27. Rxh6 { just win for White. } ) 
+ ) 
+27. R2g3 $1 { The most clinical. Also good is } ( 27. Bf6 $5 Rxf6 $2 ( 27. R2g3 Qxf6 { would lose the ending, but should be tried. } ) 
+28. Rg7 Kh8 29. Rg8 Kh7 30. R2g7 ) 
+Bxf1 28. Kxf1 { gives White a winning attack. After } Qxh2 29. Rxh6+ { the ending should be trivial. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770676/"]
+[Date "????.??.??"]
+[Round "5.11"]
+[White "5. Comparison"]
+[Black "Exercise #3"]
+[Result "*"]
+[FEN "3r4/1b3pk1/p2prn1p/3p4/1PP1P2Q/4q2P/P4RB1/5RK1 w - - 0 28"]
+
+ { J. Andersen – Ganguly, Copenhagen 2010 } { _ } 28. { -KEY- } cxd5 $1 { White should take on d5 with the pawn he does not need for the defence of his kingside, that is, the c-pawn. } ( 28. exd5 $2 Nxd5 $1 { would lead to unclear play, as White cannot play } 29. Qxd8 $2 Nf4 { when both } 30. Bxb7 { And } ( 30. Kh2 Bxg2 ) 
+Rg6 { are winning for Black. } ) 
+Nxd5 29. Qxd8 Nf4 30. Qh4 $2 ( 30. Kh2 { would just win. Besides the exchange, the pressure down the f-file is unbearable. } ) 
+Nxg2 31. Kxg2 Bxe4+ 32. Kh2 Bg6 33. Qg3 Qxg3+ 34. Kxg3 d5 35. Rf4 { White is still close to winning in the ending, but a combination of great respect for his opponent and irritation at not having won by this stage convinced Jackie (a male name in this instance – although his first rating appeared on the FIDE women’s list!) that a draw was not a bad way to finish the game. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770677/"]
+[Date "????.??.??"]
+[Round "5.12"]
+[White "5. Comparison"]
+[Black "Exercise #4"]
+[Result "*"]
+[FEN "r6r/p6k/2p1bqp1/4QpP1/8/1B2PP2/PP6/6K1 w - - 0 31"]
+
+ { Cmilyte – Lahno, Wijk aan Zee 2012 } { _ } 31. { -KEY- } gxf6 $1 { If White had taken with the pawn it was almost impossible to stop her getting two connected passed pawns, should she want them. Play continued: } ( 31. Qxf6 $6 { ± A significant mistake. } Bxb3 32. Qe7 Kg8 33. Qb7 $2 ( 33. axb3 Rf8 34. Qxa7 f4 { offers White serious chances, but Black might still hold. } ) 
+Rf8 34. Qxb3 Rf7 $14 { The game was drawn on move 57. } ) 
+Bxb3 32. axb3 Rad8 { White also wins after } ( 32... Rae8 33. Qc7 $1 Kh6 34. Qf4 Kh7 35. e4 ) 
+33. Qe7+ Kh6 34. Qg7+ Kg5 35. f7 { White is completely winning. The direct threat is simply Kf2-g3 followed by f4+. Black is forced to play } f4 36. exf4+ Kxf4 37. Qf6+ Ke3 38. Kg2 { where she again has no defensive plan. If nothing else White can take the pawn on g6 – with the king! } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770678/"]
+[Date "????.??.??"]
+[Round "5.13"]
+[White "5. Comparison"]
+[Black "Exercise #5"]
+[Result "*"]
+[FEN "r2b3k/1q1b1p1p/p2p1P2/5pr1/2p1P2R/P1N4Q/1PP4P/4RK2 b - - 0 27"]
+
+ { J. Polgar – Dominguez, Khanty-Mansiysk 2011 } { _ } 27... { -KEY- } Kg8 $1 ( 27... Bxf6 $2 { This is poor as it allows the white knight to enter the game with gain of tempo, giving White the chance to trap the king in the corner. } 28. Nd5 Qxb2 $2 { This is not a great move and I am surprised that a great player like Dominguez would come up with it. } ( 28... Bg7 $2 { would also lose. White does not have to take on h7, transposing to the line with 27...Kg8! but can trap the black king with } 29. Ne7 $1 { when after } Bh6 30. Rxh6 Rg7 31. Qc3 $1 { mate is near. The immediate threat is Rxh7+ and after } f4 32. Qf6 $1 { it can no longer be prevented in a reasonable way. For that reason, Black should have changed course and tried } ) 
+ ( 28... Rg1 $1 29. Kxg1 Bxh4 30. Qxh4 Rg8 31. Kh1 Rg6 { when he remains in the game. The chances are probably about equal, though to call the position clear would be misleading. } ) 
+29. Rxh7 Kg8 30. Qh6 $1 { Black is lost. } Bd8 { Probably Dominguez missed: } ( 30... Bg7 31. Rh8 $1 Bxh8 32. Ne7 ) 
+31. e5 $1 { Cutting off the queen. } Rg1 32. Kxg1 Qd4 33. Kf1 { 1-0 } ) 
+ { 27...Kg8! is correct, with the idea: } 28. Rxh7 ( 28. Nd5 fxe4 { is an important tempo gain for Black. } ) 
+Bxf6 29. Nd5 Bg7 { This would have won the game and allowed Dominguez to progress to the next stage of the World Cup. White has no bite left. For example: } 30. Rxg7+ Kxg7 31. Qc3+ Kh7 $1 32. Qh3+ Kg6 33. Nf4+ Kg7 34. Qc3+ Kg8 { And Black wins. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770679/"]
+[Date "????.??.??"]
+[Round "5.14"]
+[White "5. Comparison"]
+[Black "Exercise #6"]
+[Result "*"]
+[FEN "6k1/P4pp1/4p2p/3n4/1p1B4/1Pr2q2/3Q1P2/3RK3 b - - 0 40"]
+
+ { Giffard – Andriasian, Aix-les-Bains 2011 } { _ } 40... Qh1+ $1 { The comparison is between having the queen on f3 and e4. Black wins after: 40...Qh1+! In the game Black got it wrong and played } ( 40... Rc8 $2 { when White could have equalized with } 41. Qe2 $1 { Instead, he lost after: } ( 40... Qh1+ 40. Ra1 $2 Nf4 42. a8=Q $11 Ng2 43. Kf1 Rxa8 44. Rxa8 Qxa8 45. Qxb4 Nf4 { 1-0 } ) 
+Qg2 42. Qa6 Ne7 43. Be3 $11 ) 
+41. Ke2 Qe4+ 42. Kf1 ( 42. Be3 Nf4 { is just mate. } ) 
+Rh3 $3 { White gets little help from the creation of an extra queen. } 43. a8=Q+ Kh7 { Amusingly the only way to avoid direct mate is by losing both queens with } 44. Qe3 { which is not serious, of course. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770680/"]
+[Date "????.??.??"]
+[Round "5.15"]
+[White "5. Comparison"]
+[Black "Exercise #7"]
+[Result "*"]
+[FEN "4k2r/5ppp/p3Nn2/q1b2P2/1pp1p3/4B1Q1/PPP3PP/3R2K1 b k - 0 22"]
+
+ { Nisipeanu – Burg, Plovdiv 2010 } { _ } 22... fxe6 $1 { was the correct choice. If left to his own devices, Black will just castle and take the full point. So White has to try something. } ( 22... Bxe3 $2 { It might seem sensible to chip in this check before taking the knight; especially as White is unable to recapture. But you really do not need two extra pieces to win a game of chess. One is enough – or even a pawn, as GM Henrik Danielsen always used to say to me. } 23. Kh1 $1 fxe6 24. Qb8 $1 Kf7 ( 24... Ke7 $2 25. Qb7 { and 26 fxe6 would win for White. } ) 
+25. Qb7 Kg8 ( 25... Ke8 26. fxe6 { would of course leave Black in a terrible situation. After } Rf8 27. Rd7 { the mate threats are devastating. } ) 
+ ( { Chessable Note: while trying to escape the perpetual with } 25... Kf8 { can be answered with } 26. fxe6 Qh5 27. g4 ( { or } 26... fxe6 26. Rd8 Ne8 28. g4 Qg6 { transposing. } ) 
+Qg6 28. Rd8 Ne8 29. Qxb4 { with a large advantage for White. } ) 
+26. Qc8 Kf7 27. Qb7 ( 26... fxe6 26. Qxe6 Kf8 28. Qd6 { was a draw as well. } ) 
+Kg8 28. Qc8 Kf7 29. Qb7 { 1/2-1/2 } ) 
+ { The first variation you must take into account is the point of the exercise – that after } 23. Qb8+ { Secondly, after } ( 23. Qxg7 Bxe3 24. Kh1 Rf8 { White has no threats and just two pieces less. The line might continue } 25. fxe6 Qb6 26. e7 Rf7 { in your head, and White still has nothing. } ) 
+Kf7 24. Qb7+ { Black has } Be7 { shielding the king from the perpetual check. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770681/"]
+[Date "????.??.??"]
+[Round "5.16"]
+[White "5. Comparison"]
+[Black "Exercise #8"]
+[Result "*"]
+[FEN "8/p4pkp/4q1p1/4np2/8/2Q3P1/3r1P2/R4RK1 w - - 0 50"]
+
+ { Karjakin – Grischuk, Beijing (rapid) 2011 } { _ } 50. Rae1 $1 { Choosing the correct rook would have won the game quickly. In the game, Karjakin chose the wrong rook and had to live with a draw after: } ( 50. Rfe1 $2 ( 50. Ra5 $2 Re2 51. f4 { is nothing special. Black plays } Qc6 { and can even claim to be slightly better. } ) 
+Rd5 51. f4 Qb6 52. Kh1 $1 { White has to accept the draw now. After } ( 52. Re3 $2 Rc5 $1 { ∓ } 53. Qd4 $2 Rc1 { Black wins the queen. And following } ) 
+ ( 52. Kh2 $2 Qf2 53. Kh3 { Black has a winning attack after both } Rd2 { And the more forcing } ( 53. Rae1 Rd3 $3 54. Qxe5 Kh6 55. Rg1 Rd2 { with mate. } ) 
+ { However, } ) 
+ ( 52. Kf1 $1 { would also draw. } ) 
+Qb7 53. Kg1 Qb6 54. Kh1 Qb7 55. Kg1 Qb6 { 1/2-1/2 } ) 
+Rd5 51. f4 Qb6+ 52. Rf2 $1 { Or even } ( 52. Re3 $5 Rc5 53. Qd4 $1 { and White wins. } ) 
+
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770682/"]
+[Date "????.??.??"]
+[Round "5.17"]
+[White "5. Comparison"]
+[Black "Exercise #9"]
+[Result "1-0"]
+[FEN "r4rk1/pp2bpp1/2p1p2p/6PP/3P4/2PQ1N2/qP1B1n2/2K3RR w - - 0 19"]
+
+ { Spasov – Debray, Cappelle la Grande 2011 } { _ } 19. Qe3 $1 { The point of this exercise is that Black should not be allowed to gain an important tempo with ...Qb5 at a certain moment. } ( 19. Qe2 $2 { would fail to win: } Nxh1 20. gxh6 Qa1 21. Kc2 Qa4 { Here White should play } 22. Kc1 $1 { with a draw. As after } ( 22. Kb1 $6 Qb5 $1 { Black gains the tempo that makes all the difference. } 23. Qg2 g5 $1 24. hxg6 Qf5 25. Ka2 fxg6 $15 ) 
+ ) 
+Nxh1 { All the alternatives lead to the same end. } ( 19... Ba3 $5 20. Qxf2 { does not give Black enough counterplay. } ) 
+ ( 19... Ng4 20. Rxg4 Bxg5 21. Nxg5 Qa1 22. Kc2 Qxh1 23. Ne4 f6 24. Qg3 { with a winning attack. } ) 
+ ( 19... Qa1 20. Kc2 Qa4 21. Kb1 Nxh1 22. gxh6 { and the black queen is out of play – compare this line with 19 Qe2?. } ) 
+20. gxh6 Qa1+ ( 20... g5 21. hxg6 fxg6 { was a decent try, but Spasov probably would have dealt with it effectively. } 22. h7 $1 { Trying to open the h-file with gain of tempo. } Kh8 23. Ne5 { White is winning. Black can play more moves, but will lose in the end: } Rf6 24. Nxg6 Rxg6 25. Rxg6 Qa1 26. Kc2 Qa4 27. Kb1 Qd1 28. Bc1 Rf8 29. Qe5 Bf6 30. Rxf6 ) 
+21. Kc2 Qa4+ 22. Kb1 Qb5 ( 22... Ng3 $5 23. hxg7 $1 { has the point that } Rfd8 { And if Black tries } ( 23... Nf5 24. gxf8=Q Kxf8 25. Qe5 Ke8 26. Rg8 Bf8 27. Qe2 { then the strength of the h-pawn assures White of the win. } ) 
+24. Qh6 { wins. } ) 
+23. Ne5 $1 { An important move, cutting off the queen from the game. } g6 ( 23... Rad8 24. Rxg7 Kh8 { also fails to make a draw. After } 25. c4 $1 Qa4 { White wins with a nice tactic: } 26. Rg8 $1 Rxg8 27. Nxf7 Kh7 28. Qe4 { and mate. } ) 
+24. c4 Qa4 25. hxg6 fxg6 26. h7+ { Black resigned. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1770683/"]
+[Date "????.??.??"]
+[Round "5.18"]
+[White "5. Comparison"]
+[Black "Exercise #10"]
+[Result "1/2-1/2"]
+[FEN "2kr3r/pppqp1b1/1n4Qp/4p2R/3P2p1/2N3P1/PPP1N1P1/2KR4 b - - 0 19"]
+
+ { Idani – Gagunashvili, Baku 2011 } { _ } 19... Rdg8 $1 { The correct rook. The point is that the rook will not be hanging on d8. Compare this with } ( 19... Rhg8 $2 20. dxe5 Bxe5 21. Rxd7 Rxg6 { where White just wins the bishop after exchanging rooks. It is much better for the rook on d7 to be hanging. Black has other moves, of course, but none of them solve all his problems. For example: } ) 
+ ( 19... Qe8 20. Qxg4 Nd7 21. dxe5 $14 { Or } ) 
+ ( 19... e6 20. dxe5 Qe7 21. Nf4 $14 { both with an uncomfortable existence for Black. } ) 
+20. dxe5 Bxe5 21. Rxd7 Rxg6 22. Rxe7 Bf6 $11 { The game was eventually drawn in 62 moves. } 
+ 1/2-1/2
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1774976/"]
+[Date "????.??.??"]
+[Round "5.19"]
+[White "5. Comparison"]
+[Black "Exercise #11"]
+[Result "1-0"]
+[FEN "5rk1/pp1bbppp/3p1n2/5P2/4P3/2B5/qPP1Q2P/2KR1BR1 w - - 0 18"]
+
+ { Adams – G. Morrison, Sunningdale 2012 } { _ } 18. Rxg7+ $1 { White also wins after } ( 18. Qe3 $5 { but direct action is justified. And after } ( 18. e5 dxe5 19. Qxe5 Qa1 20. Kd2 Qa4 $1 21. Qxe7 Qf4 22. Ke1 Re8 23. Rxd7 Rxe7 24. Rxe7 Kf8 25. Bxf6 gxf6 26. Re2 { White should, of course, win eventually, but Black will pick up the b2-pawn and can claim that White is a long way away from being fully coordinated. Most amazing is } ) 
+ ( 18. Rxd6 $6 Bxd6 19. Rxg7 Kh8 20. Qe3 Be7 { Not the only move. } 21. Rg1 Rg8 22. Qc5 Bd8 23. Qc7 Qa1 24. Kd2 Qa5 $3 { ⩲ as pointed out by Dan Heisman. } ) 
+ ) 
+Kxg7 19. Qg4+ { Sabino Brunello found an alternative win that completely avoids the need for comparison with: } ( 19. Qg2 Kh8 20. Bc4 $3 Qxc4 21. Rg1 { and White wins. } ) 
+Kh8 20. Qh4 $3 { A simple-looking move, but there is an important point. } ( 20. Qg5 $2 { falls straight into the trap. Black would be right back in the game after } Qa1 21. Kd2 Qa5 $3 { when White’s strongest continuation is: } 22. Ke1 Qd8 23. Rxd6 Rg8 24. Bxf6 Bxf6 25. Qxf6 Qxf6 26. Rxf6 Kg7 27. Rd6 Bc6 28. Bg2 Re8 29. Rd4 Kf6 { and Black has real drawing chances because of the e5-square. } ) 
+Rc8 21. Bxf6+ Bxf6 22. Qxf6+ Kg8 23. Bc4 Qa1+ 24. Kd2 Qa5+ 25. c3 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1774977/"]
+[Date "????.??.??"]
+[Round "5.20"]
+[White "5. Comparison"]
+[Black "Exercise #12"]
+[Result "*"]
+[FEN "3r1r1k/5p1p/p1q1pPp1/2npP3/P1p5/2P1QB2/P4RPP/3R2K1 w - - 0 28"]
+
+ { S. Pardo – G. Suarez, Spain 2011 } { _ } 28. Rd4 $1 { The point of this exercise is that the rook needs to be on h4, but the queen can enter the attack from squares other than h6. The game went poorly for White: } ( 28. Qh6 $2 Rg8 29. Be2 $2 ( 29. Rd4 g5 30. Bd1 $1 Rg6 31. Qh5 Nd3 32. Bc2 Rb8 33. h4 Qc7 $1 ( 33. Rd4 Nxf2 34. Bxg6 fxg6 35. Qh6 Qc7 36. Kxf2 { might be slightly better for White. } ) 
+34. Re2 Rbg8 35. Rg4 $13 ) 
+g5 $15 30. Rf3 $2 Rg6 31. Qh5 Ne4 $19 { Black won in 66 moves. } ) 
+Rg8 ( 28... g5 29. Rxc4 Rc8 30. Qxg5 Rg8 31. Qh6 { wins for White. } ) 
+29. Rh4 $1 ( 29. Rxc4 $5 { ± is also possible, but this is even stronger. } ) 
+g5 30. Rh5 Qb6 ( 30... Rg6 31. Be4 $1 { is very similar. At first glance, Black does not seem to be in such great trouble. } ) 
+ { But after } 31. g4 $3 { it is apparent that he is just lost. White is planning Be4 to force Black to put a piece on the b1-h7 diagonal, making it impossible to protect h7 after White goes Qh3. } Rg6 ( 31... Qb1 32. Rf1 Qc2 { struggles to convince because of } 33. Qxc5 ) 
+32. Be4 $1 { Black will be mated. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1774978/"]
+[Date "????.??.??"]
+[Round "5.21"]
+[White "5. Comparison"]
+[Black "Exercise #13"]
+[Result "*"]
+[FEN "1r6/4bk2/Q2pp3/1B6/1qnNb3/4B3/1PP4P/1K3R2 b - - 0 28"]
+
+ { M. Yilmaz – Aveskulov, Kharkov 2011 } { _ } 28... Bf6 $1 { Black has a limited number of options. Moving the king or putting a bishop in the way. The question is how does this reflect on the lines to come? } ( 28... Kg6 $2 ( 28... Bf5 29. Rxf5 { And } ) 
+ ( 28... Kg8 29. Bc1 $16 { make no great contribution to understanding the position. You can always find complications everywhere, but the main point is finding the relevant lines – as difficult as that is. } ) 
+29. Bc1 $16 Ra8 $6 ( 29... Nd2 30. Bxd2 Qxd4 31. Bc3 Qc5 $16 { was a better try, but White has the advantage. } ) 
+30. Nc6 $1 Qb3 $2 ( 30... Rxa6 31. Nxb4 Rb6 32. Bxc4 d5 33. Nxd5 exd5 34. Be2 { would give White excellent winning chances, but it would still be better than what Black played. } ) 
+31. Rg1 $6 { This does not throw away the game, but it is quite amusing that having started with a position in which comparison could have helped one of the players, a few moves later exactly the same method becomes relevant for the opponent – and that he drops a rook by getting it wrong – and wins anyway! One senses the light touch of time trouble on this move, rather than incorrect calculation. } ( 30... Bf6 30. Qxa8 { was much simpler, of course, avoiding the rook being exposed on g1. } ) 
+Kf7 32. Qxa8 Na3 33. Qxa3 Qxc2 34. Ka2 Qb1 35. Kb3 Qc2 36. Ka2 Qb1 37. Kb3 Qc2 38. Kb4 Qc5 39. Ka5 Qxg1 40. Qe3 { White is in control and wins the game all the same. The blundered rook matters far less than the extra piece. 1–0 } ) 
+ { 28...Bf6! was the correct choice. White has a lot of legal moves in this position, but the only variation that really makes sense for calculation goes like this: } 29. Bc1 Ra8 $1 ( 29... Rxb5 { leads to a draw, but Black can do better than that. } ) 
+30. Nc6 { This should be White’s cherished resource, but here it fails because of the active position of the bishop on f6. In passing, we can note that } ( 30. Rxf6 Kxf6 31. Nc6 Nd2 32. Bxd2 Qxd2 { also wins for Black, on account of } 33. Qxa8 Qxc2 34. Ka2 Bd5 $1 ) 
+ { Black simply plays } Nd2+ { and White will be mated. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1774979/"]
+[Date "????.??.??"]
+[Round "5.22"]
+[White "5. Comparison"]
+[Black "Exercise #14"]
+[Result "1-0"]
+[FEN "r5k1/q6p/4prB1/4P1PQ/b1p5/1n2p3/1P5P/1R3RK1 w - - 0 34"]
+
+ { T. Kosintseva – Hoang Thanh Trang, Khanty-Mansiysk (ol) 2010 } { _ } 34. exf6 $1 { was the correct capture. The game continued: } ( 34. gxf6 $2 e2 35. Rf2 hxg6 36. Qxg6 Kh8 37. Qh6 ( 37. f7 { looks strong, but once she got here Kosintseva must have realized that the outcome is by no means clear. Black is able to prevent the mate in one with } Qe3 $1 { making it clear why it would have been stronger for White to keep a pawn on g5 instead of e5. The computer likes to believe that White still has the better chances, but in reality we are heading towards a position Black can save. Here is a sample line: } 38. Qf6 Kh7 39. Qh4 Kg7 40. Qg4 Kh7 41. Qxe2 Qxe2 42. Rxe2 Bc6 43. Rf1 Nd4 44. Re3 ( 44. Ref2 Nf5 $11 ) 
+Nf5 45. Rxf5 exf5 46. e6 Bd5 47. Re5 Bxe6 48. Rxe6 Kg7 49. Re5 Kxf7 50. Rxf5 Ke6 { and Black should make a draw in this ending. For example with } 51. Rb5 Rc8 { and the subsequent exchange of the c-pawn. } ) 
+Qh7 38. Qxh7 Kxh7 39. Rxe2 Bc6 $6 { Black misses the chance to make a clean draw without too much suffering: } ( 39. exf6 Nd4 $1 40. Rg2 { After } ( 40. Re3 Bc2 $1 { the activation of the black pieces secures a reasonably safe draw. Here there are many moves possible, but basically Black is ready for ...Bf5 or ...Bg6, with ...Nf5 and ...Nf3+xe5 as possible follow-ups. Also ...Ra2 becomes relevant in some lines. White has no advantage. } ) 
+Bc2 41. Rc1 Bd3 { White’s advantage is minimal and not enough to win the game: } 42. Kf2 Rb8 43. Ke3 Nf5 44. Kf4 Nh4 { and the threat of ...Ng6+ secures the draw. } ) 
+40. Kf2 $1 Rg8 { White also has good winning chances after } ( 40. exf6 Rb8 41. Re3 Nc5 42. b4 $1 { where Black has to play } Nd3 ( 42. exf6 cxb3 43. Rg1 Ne4 44. Ke1 { and Black is mated. } ) 
+43. Ke2 Nf4 44. Kd2 Rd8 { only to see her chances become rather poor after } 45. Kc2 ) 
+41. Rg1 Rxg1 42. Kxg1 Kg6 $2 { Giving White a handy tempo with the h-pawn. Stronger was } ( 42. exf6 Kg8 $1 { and it seems that White will struggle to win this very advantageous position. It will be close, but maybe only close. } 43. Kf2 ( 43. Re1 Nc5 44. Re3 Nd3 45. b3 Nxe5 46. Rxe5 cxb3 47. Re1 Kf7 { looks like something Black could draw. } ) 
+Nc1 44. Re3 Nd3 45. Ke2 Nxb2 46. Kd2 Kf8 47. h4 Be8 48. Ra3 Nd3 49. Ra5 { White is in control, but the h-pawn is hard to protect and Black should be able to set up a fortress. For example: } Bg6 50. Kc3 Ne1 51. Kxc4 Nf3 { and Black makes the draw. } ) 
+43. h4 Nd4 44. h5 $1 Kf7 ( 44. exf6 Kh7 45. Rf2 Nf3 46. Kf1 Nxe5 47. f7 Nxf7 48. Rxf7 Kh6 49. Rf6 Kxh5 50. Rxe6 Ba4 51. Rf6 Kg5 52. Rf2 { and the white king goes to d4, ready to win the c-pawn. } ) 
+45. Re3 Nf5 46. Ra3 Nh6 47. Ra7 Kg8 48. Rg7 Kf8 49. Rc7 Bd5 50. Rc8 Kf7 51. Rh8 Ng4 52. h6 Nxe5 53. h7 Kg6 54. f7 Nxf7 55. Rf8 Kxh7 56. Rxf7 Kg6 57. Rf8 Be4 58. Kf2 Kg7 59. Rc8 Bd3 60. Ke3 Bf1 61. Kd4 Kf7 62. Ke5 Ke7 63. Rc6 Kd7 64. Rxe6 Kc7 65. Kd4 Kb7 66. Re1 Bd3 67. b3 Kc6 68. bxc4 Bf5 69. Rf1 Bh3 70. Rf6 Kd7 71. Kc5 { 1–0 } ) 
+ { White wins after } e2+ 35. Rf2 hxg6 36. Qxg6+ { And now, both } Kh8 { And } ( 36... Kf8 37. Qh6 Ke8 38. f7 ) 
+37. f7 { are just "resigns". How come Kosintseva did not play this? Probably she did not notice the difference between the two captures till it was too late. Maybe she did not conceptually look for it? } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1774980/"]
+[Date "????.??.??"]
+[Round "5.23"]
+[White "5. Comparison"]
+[Black "Exercise #15"]
+[Result "*"]
+[FEN "2q2rk1/ppp3bp/4p1p1/2N1P1N1/1n1r1p2/7P/PP2QPP1/2B2RK1 w - - 0 25"]
+
+ { Kramnik – Dominguez, Dresden (ol) 2008 } { _ } 25. Ncxe6 $1 { The critical point was that after } ( 25. Ngxe6 $6 { the knight on c5 would be exposed and occupying an important square as well: } f3 $1 26. Qb5 ( 26. gxf3 Rd5 $1 27. Qc4 b6 $1 28. Nxf8 bxc5 29. a3 Qa6 $11 ) 
+c6 27. Qxb7 Qxb7 28. Nxb7 Bxe5 { with even chances in the ending. } ) 
+c5 ( 25... f3 { does not work now. } 26. Qb5 $1 fxg2 ( 26... c6 $6 27. Qc5 $1 { -+ is the crucial difference. } ) 
+27. Kxg2 Qd7 28. Nxd4 Qxd4 29. Qxb7 { and White is more or less winning. } ( 25... Rd5 $2 26. Qc4 $1 { and White wins. Again it is useful there is no knight on c5 to target with ...b6. In the game, Kramnik now went wrong with } ) 
+ ( 25... c5 25. Nxf8 $6 { with only a slight edge, which was not enough to win the game. } ) 
+ ) 
+ { Stronger would have been: } 26. Nxd4 $1 cxd4 27. Qf3 { Also } ( 27. Bd2 $5 { is strong. } ) 
+Qc4 28. Qxb7 h6 29. Nf3 { White is close to winning. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1774981/"]
+[Date "????.??.??"]
+[Round "5.24"]
+[White "5. Comparison"]
+[Black "Exercise #16"]
+[Result "1-0"]
+[FEN "6k1/ppqr1p2/4p1p1/1b4B1/1P4nQ/P7/2B2PPP/4R1K1 w - - 0 38"]
+
+ { Jaracz – Bologan, Warsaw (rapid) 2011 } { _ } 38. Bb3 $1 { was the correct move. } ( 38. Bxg6 $6 Qc3 $6 ( 38. Bb3 Qe5 $1 { was stronger. After } 39. Qh7 Kf8 40. Bh6 Nxh6 41. Qxh6 Ke7 { White is possibly better, but it is nothing drastic. } ) 
+39. Rb1 $1 Qd4 ( 39. Bb3 fxg6 40. Qxg4 Qc4 $16 { might still make the draw if combined with tough defence. White cannot avoid the exchange of queens in view of: } 41. Qh3 $6 Qe2 $1 42. f3 Bd3 43. Rc1 Rc7 $1 44. Ra1 Qe5 45. Rd1 Qe2 $11 ) 
+40. Bh7 Kg7 41. Bc2 { White went on to win. } ) 
+ ( 38. Bb1 $2 Qc3 { leaves the rook out of squares. After } 39. f3 $1 { ⩱ White is in the game still, but it hurts. } ) 
+ { The point is that after } Qc3 { White has } 39. Rc1 $1 { winning. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1774982/"]
+[Date "????.??.??"]
+[Round "5.25"]
+[White "5. Comparison"]
+[Black "Exercise #17"]
+[Result "1-0"]
+[FEN "2r4r/pb2kppp/3bpn2/qBP1N3/P1P3PP/B4P2/4Q3/R3K2R w KQ - 0 21"]
+
+ { Kristiansen – A. Rasmussen, Helsingor 2012 } { _ } 21. Kf1 $1 { White achieves nothing with } ( 21. Qd2 { when he might even be worse. And after } ( 21. Kd1 { Black is okay after the rather obvious exchange sacrifice } Rxc5 $1 { So White has to move to the f-file with the king. But where? } ) 
+ ( 21. Kf2 $2 { The wrong choice, after which the chances are roughly level. } Bxc5 22. Bxc5 ( 22. Qe3 $2 { does not work as Black has } Qd2 { winning the queen. This game would fit very well in an elementary tactics book to illustrate pins! } ) 
+Rxc5 23. Rhd1 { Again a poor choice and one Kristiansen quickly regretted. Correct was: } ( 23. Rad1 Qc3 $11 ) 
+a6 $4 { A horrible blunder. Black was running out of time but still dreamt about winning the game. } ( 23. Kf1 Qc7 $1 { would have equalized as there is a check on h2 after } 24. Nd3 ) 
+24. g5 $1 axb5 25. gxf6 gxf6 26. Rd7 Ke8 27. Rxb7 Rxe5 28. Qd3 Kf8 29. Rg1 bxc4 30. Qd6 { 1-0 } ) 
+ { 21 Kf1! was the right move. } ) 
+ { After } Bxc5 { White has a very strong option in } 22. Qe3 $3 { putting maximum pressure on the a3-e7 diagonal. Black has to give up the exchange after } Qb6 23. Nc6+ { and fight on in a lost endgame with no real hope of survival. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1774983/"]
+[Date "????.??.??"]
+[Round "5.26"]
+[White "5. Comparison"]
+[Black "Exercise #18"]
+[Result "0-1"]
+[FEN "4r1k1/2p1qp1p/1p4P1/p7/2RB2P1/8/P4QbP/6K1 b - - 0 29"]
+
+ { Erdos – Sutovsky, Gibraltar 2012 } { _ } 29... { -KEY- } fxg6 $3 { Chess is a game and it has to be played. This is easy to forget when we analyse with our computers. Most decisions in a chess game will be the solution of minor problems, not related to winning or losing the game, but to getting the best chances of going in that direction. The method of comparison is very useful in this case as well. } ( 29... hxg6 $6 { is incorrect as it leads by force to an ending with opposite-coloured bishops: } 30. Qf6 $1 ( 29... fxg6 29. Kxg2 Qe4 31. Qf3 c5 { is hopeless for White, the main reason being: } 32. Qxe4 Rxe4 33. Kf3 f5 $1 { -+ } ) 
+Qxf6 ( 30... Qe1 $2 31. Kxg2 Re2 32. Kh3 { is no use. } ) 
+31. Bxf6 { I am sure Emil did not need to look any further to convince himself that this was an undesirable ending. However, with enough time and the assistance of a computer it is sometimes nice to prove that one’s intuition is correct and that White draws this ending without having to solve too many problems. } Bf3 32. Kf2 Bd1 $5 { Black is trying to win a bit of time by attacking the g-pawn. } ( 32... b5 33. Rc5 Re6 34. g5 Bc6 35. Bd8 { and White will draw without any problems. } ) 
+33. Rd4 $1 { Tempo gain and a prelude to exchanging rooks. } Be2 34. Rd8 ( 33... fxg6 33. g5 { also draws, of course. } ) 
+Rxd8 35. Bxd8 { The ending is an easy draw. For example: } Bc4 36. Bxc7 Bxa2 37. Bxb6 a4 38. g5 { where White will bring the king to a1 with a deader than dead draw. } ) 
+ ( 29... Bd5 $2 30. Rxc7 $1 { would see Black in some trouble. After } Qe1 { Black can hold. But not after } ( 30... Qxc7 $2 31. gxh7 { with a mating attack. } ) 
+31. Qxe1 Rxe1 32. Kf2 Re8 { Finally, } ) 
+ ( 29... Be4 $6 30. Qxf7 { is just a draw immediately. } ) 
+30. Kxg2 $1 { After } ( 30. Qxg2 $2 Qe4 $1 { Black wins. White will lose the bishop as } 31. Qc2 Qe1 { is obviously hopeless. } ( 30. Qf6 Qxf6 31. Bxf6 Re2 $1 32. Rxc7 Rxa2 { is not necessarily winning for Black, but it is suddenly very close. } ) 
+ ) 
+Qe4+ $5 { An interesting practical solution. Emil is very strong in calculation and will have had full control over the lines and known that a queen ending was on the way. He has also studied theoretical endings and will have known both that it is a theoretical draw and that his close friend Boris Gelfand won the same ending against Jobava some years back. Also strong, but with a lesser degree of control was } ( 30... Qd7 { when, for example, } 31. Qf3 { White’s only move is therefore } ( 30... Qe4+ 30. Rc3 $1 { when the following line seems forcing: } Re4 32. Be3 Rxg4 33. Kf1 Qd1 34. Qe1 Qf3 35. Bf2 Qg2 36. Ke2 Re4 ( 36... Rf4 $11 { ∞ is also unpleasant for White, but not necessarily stronger. } ) 
+37. Re3 Rxe3 38. Kxe3 Qxh2 { I suspect that this ending is a draw as well, but at least it is not a theoretical draw. } ) 
+ { ...is strongly met by } b5 ) 
+31. Qf3 c5 32. Qxe4 Rxe4 33. Kf3 $1 Rxd4 34. Rxd4 cxd4 35. Ke4 Kf7 36. Kxd4 Kf6 37. Kc4 Kg5 38. Kb5 Kxg4 39. Kxb6 a4 $1 { This clearly shows that Sutovsky knows that the white king should be lured away from the top corner. } 40. Kb5 a3 $1 41. Kb4 Kh3 42. Kxa3 Kxh2 43. Kb4 g5 44. a4 g4 45. a5 g3 46. a6 g2 47. a7 g1=Q 48. a8=Q { This queen ending is a draw, but it is not easy to hold for White. So, from a practical point of view, Sutovsky’s decision to enter it was justified. } Qg4+ 49. Ka5 $1 { Going in the right direction. However, Erdos was not confident enough, as we shall see. } Qf5+ 50. Kb6 Qe6+ 51. Kc5 Qe3+ 52. Kb5 h5 53. Qd8 Qf4 54. Qe8 Qf5+ 55. Ka6 Qd3+ 56. Ka5 $6 ( 56. Ka7 { is the theoretically recommended area for the king. The opposite corner is the place where it is best able to avoid being pinned or checked, after which a draw is relatively easy. } ) 
+Qc3+ 57. Kb5 h4 58. Qf7 Qd3+ 59. Ka5 Qd2+ 60. Ka6 Qe2+ 61. Ka5 Qe5+ 62. Ka6 Qd6+ 63. Kb5 Kg3 64. Qg7+ Kf4 65. Qf7+ Ke3 66. Qh5 Qd7+ 67. Ka5 h3 68. Qg5+ Ke4 69. Qh4+ Kd3 70. Qg3+ $2 { It is only this mistake that loses the game, but the two drawing moves, } ( 70. Qh5 { And } ( 70. Qe1 ) 
+ { ...have a feeling of randomness about them. With the king on a8 White would not have such issues, but would have many drawing moves. } ) 
+Kc2 71. Qg6+ Qd3 72. Qh5 Qd2+ 73. Ka4 h2 74. Qh7+ Kc1 75. Qh3 Qd4+ 76. Ka3 Qc5+ 77. Kb3 Qd5+ 78. Ka3 h1=Q 79. Qc3+ Kd1 
+ 0-1

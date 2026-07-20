@@ -1,0 +1,49 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464632/"]
+[Date "????.??.??"]
+[Round "22.1"]
+[White "21.Evans Gambit"]
+[Black "Evans Gambit 6.0-0 d6 7.Qb3"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 { The Evans gambit essentially belongs to the 19th century, but White players still try it occasionally, hoping to surprise Black, so it is important to be prepared. I found a great way to obtain a promising position without having to remember a lot of lines. -KEY- } Bxb4 5. c3 Ba5 6. O-O { This slow continuation gives Black time to comfortably develop his forces. } d6 7. Qb3 Nh6 $1 { We need to finish the development as fast as possible. We won't be afraid of any Bxh6 because White won't be able to make use of those weaknesses while he'd part with his bishop pair. } ( { Also note that } 7... Qe7 8. d4 { is a bit problematic once we played ...d6 because d5 followed by Qa4 with a check is a threat. } ) 
+8. d4 O-O 9. Bg5 Qe8 10. Nbd2 Kh8 $15 { Preparing ...f5 or ...Ng8-e7. White will have a hard time trying to demonstrate full compensation for the pawn. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464633/"]
+[Date "????.??.??"]
+[Round "22.2"]
+[White "21.Evans Gambit"]
+[Black "Evans Gambit 6.0-0 d6 7.d4 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 { The Evans gambit essentially belongs to the 19th century, but White players still try it occasionally, hoping to surprise Black, so it is important to be prepared. I found a great way to obtain a promising position without having to remember a lot of lines. } Bxb4 5. c3 Ba5 6. O-O { This slow continuation gives Black time to comfortably develop his forces. } d6 7. d4 { -KEY- } Bg4 ( 7... Nf6 { is less clear because } 8. dxe5 Nxe5 9. Nxe5 dxe5 10. Qb3 O-O 11. Ba3 { wins the exchange. } ) 
+8. Qa4 $2 { This activity is just over optimistic. } Bxf3 9. gxf3 exd4 10. cxd4 a6 $1 { A key move preparing a crucial offensive and defensive idea of ...b5 } 11. Bd5 Ne7 12. Bxc6+ Nxc6 13. d5 b5 { Without this move we would be in trouble. } 14. Qa3 Nd4 15. Qxa5 { White still won a piece but now Black develops an irresistible attack. } Qf6 16. Qa3 ( { This was played in Chigorin -Steinitz, World Championship 1892 but now Black erred with } 16. Qa3 Nc2 { - then } 17. Qd3 Nxa1 18. Qe2 { is great for White because the knight on a1 will be lost. Instead, he is winning after: } ) 
+b4 $1 17. Qb2 { This saves a Rook on a1 but loses the game in a different way. } ( 17. Qxb4 Nxf3 { is mate in 8 } { _ } ) 
+Nxf3+ 18. Kg2 Nh4+ 19. Kh3 Qf3+ 20. Kxh4 Qg2 $19 { Black either wins the rook on f1 or mates White. One way or the other the king on h4 will not be able to survive long. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464637/"]
+[Date "????.??.??"]
+[Round "22.3"]
+[White "21.Evans Gambit"]
+[Black "Evans Gambit 6.Qb3 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 { The Evans gambit essentially belongs to the 19th century, but White players still try it occasionally, hoping to surprise Black, so it is important to be prepared. I found a great way to obtain a promising position without having to remember a lot of lines. } Bxb4 5. c3 Ba5 6. Qb3 $2 { In this position it's just a one move threat and as the analysis proves, Black gets a big advantage. -KEY- } Qe7 ( { Here } 6... Nh6 { is less accurate because without ...d6 the e5 pawn might be hanging. For example } 7. d4 O-O 8. d5 ) 
+7. d4 Nf6 8. Ba3 { This was suggested by Jan Pinski in 'Italian Game and Evans Gambit' (Everymanchess 2005) but it doesn't help White. } d6 9. d5 Nd4 10. Qa4+ ( { Pinski suggested } 10. Nxd4 exd4 11. Qa4 { but he didn't mention } Bd7 { after which } 12. Qxa5 Qxe4 13. Kd1 O-O { is completely winning for Black. Still, you may want to have a look with the engine but it's around -4. } ) 
+Bd7 11. Qxa5 Nc2+ 12. Kd1 Nxa1 13. Nbd2 Ng4 $1 { Black starts active kingside play before White takes the knight. } 14. Rf1 f5 $17 { Black has excellent and easy play. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464639/"]
+[Date "????.??.??"]
+[Round "22.4"]
+[White "21.Evans Gambit"]
+[Black "Evans Gambit 6.d4 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 { The Evans gambit essentially belongs to the 19th century, but White players still try it occasionally, hoping to surprise Black, so it is important to be prepared. I found a great way to obtain a promising position without having to remember a lot of lines. } Bxb4 5. c3 Ba5 6. d4 { -KEY- } b5 $5 { I believe this is a great practical choice. Black not only effortlessly achieves at least an equality, he also has a chance of throwing White completely off preparation, due to the rareness of this move. All that at a cost of returning the sacrificed pawn, which Black does in many other lines anyway. } 7. Bd5 { This doesn't pose any problems. Black just plays natural moves. } Nge7 8. dxe5 O-O 9. O-O Rb8 { Black is fully prepared for action. White should be careful not to end up worse, as his structure is shattered and the b1 knight still needs to be developed. The position has never been played, so I will just give an exemplary continuation: } 10. Ba3 b4 11. cxb4 Bxb4 12. Bxb4 Nxb4 13. Nc3 Ba6 14. Re1 Ng6 $11 { Black is comfortably equal. } 
+ *

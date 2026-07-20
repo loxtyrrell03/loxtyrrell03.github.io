@@ -1,0 +1,181 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9616858/"]
+[Date "????.??.??"]
+[Round "1.1"]
+[White "Quickstarter Guide"]
+[Black "Bibliography"]
+[Result "*"]
+
+1. e4 { All the lines are based on extensive and careful analysis as well as grandmaster and correspondence play. We consulted all the major sources (books, DVDs etc.) and found a lot of improvements (in some cases even refutations) . Here is the list of the sources where we checked what other authors recommend for White. Books: Martyn Kravtsiv - “The Italian Renaissance” (Quality Chess 2020) Larry Kaufman - “Kaufman's New Repertoire for Black and White” (New In Chess 2019) Milos Pavlovic - “The Modernized Scotch Game” (Thinkers Publishing 2019) Alexander Khalifman and Sergei Soloviov - “Squeezing 1.e4 e5: a Solid Strategic Approach” (chess-stars 2019) Alexander Delchev - “Bc4 against the Open Games” (New In Chess 2018) Christof Sielecki - “Keep it Simple 1.e4” (chessable/New In Chess 2018) John Shaw - “Playing 1.e4. Caro-Kann, 1...e5 and Minor Lines” (Quality Chess 2016) Karsten Muller & Georgios Souleidis - 'Winning with the Slow (but Venomous!) Italian' (New In Chess 2016) Yelena Dembo & Richard Palliser - “The Scotch Game” (Everymanchess 2011) John Emms - “Beating 1e4 e5” (Everyman 2010) Vladimir Barsky - “The Scotch Game for White” (Chess Stars 2009) D.Taylor & K.Hayward - 'Play the Ponziani' (Everymanchess 2009) Jan Piński - “Italian Game and Evans Gambit” (Everymanchess 2005) Alexander Khalifman - “Opening for White According to Anand vol. 1” (Chess Stars 2003) Joshua Doknjas - 'Opening Repertoire: The Ruy Lopez' (Everymanchess 2019) Videos/DVDs/Online: Fabiano Caruana - “Navigating the Ruy Lopez” (Chessbase DVD) Parimarjan Negi - “The Modern Scotch Opening” (Chessbase DVD) Ivan Saric - “A new look at the Italian (Giuoco Piano) ” (chess24) Sergei Tiviakov - “The Bishop’s Opening and The Italian Game” (ChessBase DVD) Nigel Davies - “Attack with The Modern Italian” (ChessBase DVD) Simon Williams - “Rocket Repertoire: The Four Knights” (ChessBase DVD) Simon Williams - “Evans Gambit for the new generation” (ChessBase DVD) Christof Sielecki - "Keep It Simple: 1. e4" (chessable) Nils Grandelius - “The Grand Ruy Lopez” (chessable) S.P. Sethuraman - “Lifetime Repertoires: Sethuraman's 1. e4 - Part 1” (chessable) Wesley So - “Lifetime Repertoires: Wesley So's 1. e4 - Part 1” (chessable) } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9609038/"]
+[Date "????.??.??"]
+[Round "1.2"]
+[White "Quickstarter Guide"]
+[Black "Berlin 5.Re1 #01"]
+[Result "*"]
+
+1. e4 { -KEY- } e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. Nf3 { The most logical move and by far the most popular. White develops the knight attacking e5 and once he develops the light squared bishop he is ready to castle. It will be seen in 23 theoretical chapters (out of 29). } Nc6 3. Bb5 { The Spanish Opening, also called Ruy Lopez, will be the topic of first 8 theoretical chapters. } Nf6 ( { The more popular } 3... a6 { is another story. There are a lot of completely different variations in the Spanish/Ruy Lopez making this opening very rich in ideas. } ) 
+4. O-O { Allowing Black to take on e4 is the main move. } ( { There is also } 4. d3 { which is called the Anti-Berlin and } 4. Nc3 { transposes to the Four Knights Game with 4.Bb5. } ) 
+Nxe4 { Taking the pawn might look a bit risky at first, White should easily regain it. However, Black will easily catch up with the development in the meantime. } 5. Re1 ( { This move has a very drawish reputation, and rightly so. Black faces few theoretical problems. That's the only big alternative to } 5. d4 { . } ) 
+Nd6 6. Nxe5 Be7 7. Bf1 ( { The most popular and best move. According to classical principles White shouldn't block the d-pawn with his bishop. We will also cover } 7. Bd3 { but if Black doesn't fall for any cheap tricks it's not dangerous. } ) 
+Nxe5 ( { I recommend not to allow } 7... O-O 8. Nf3 ) 
+ ( { or } 7... Nf5 8. Nf3 { , because with more pieces on the board White has better chances to acquire a slight edge. } ) 
+8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 ( { A simple and logical move but the more popular } 10... Nf5 11. c3 d5 { is not bad either. It's just a question of taste. } ) 
+11. c3 { There are a lot of different moves at this point but let's see the most popular one. } Rxe1 12. Qxe1 Ne8 { Just preparing ...d5. } 13. Bf4 d5 ( { Note that this move wouldn't be possible if we played } 12... Nf5 { because after } 13. Bf4 d5 { White would have } 14. Bxc7 $1 ) 
+14. Bd3 g6 { The position resembles the exchange French and Black would like to trade light squared bishops with ... Ng7 and ...Bf5. } 15. Nd2 Ng7 16. Nf3 Bf5 { Black equalizes. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9609115/"]
+[Date "????.??.??"]
+[Round "1.3"]
+[White "Quickstarter Guide"]
+[Black "Anti-Berlin 5.0-0 #01"]
+[Result "*"]
+
+1. e4 e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. Nf3 { The most logical move and by far the most popular. White develops the knight attacking e5 and once he develops the light squared bishop he is ready to castle. It will be seen in 23 theoretical chapters (out of 29). } Nc6 3. Bb5 { The Spanish Opening, also called Ruy Lopez, will be the topic of first 8 theoretical chapters. } Nf6 ( { The more popular } 3... a6 { is another story. There are a lot of completely different variations in the Spanish/Ruy Lopez making this opening very rich in ideas. } ) 
+4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to the futility of White's attempts in the Berlin Endgame. -KEY- } Bc5 ( { An active place for our bishop. We will try to play in a similar fashion as we play against the Italian. We have 3 theoretical chapters starting from here. We will mainly focus on } 4... Bc5 4. O-O { , } 5. c3 { and } 5. Bxc6 { . } ) 
+5. O-O Nd4 $1 { I like this move, taking advantage of the lack of c3 move much more than the passive 5...d6. This knight exchange is advantageous to Black and I see no reason why White would be the one playing for the edge here. In fact, we will see that Black can take over the initiative quite easily if White is not cautious. } ( { Note that } 5... O-O { just loses a pawn to } 6. Bxc6 dxc6 7. Nxe5 { . } ) 
+6. Nxd4 Bxd4 7. c3 Bb6 8. Bg5 $6 { A move that Black should be very happy to see. The bishop is going to end up hopelessly stranded on g3 and Black is going to develop a kingside expansion, using its weak placement. } h6 9. Bh4 c6 10. Bc4 g5 { Just pushing White's pieces back. } 11. Bg3 d6 12. Nd2 Bg4 { Developing the bishop with a tempo. } 13. Qb3 { After other moves 13...h5 followed by 14...h4 would be already close to decisive. } O-O { Black is fine, our plan is ...Nh5-f4. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9609117/"]
+[Date "????.??.??"]
+[Round "1.4"]
+[White "Quickstarter Guide"]
+[Black "Anti-Berlin 5.c3 #01"]
+[Result "*"]
+
+1. e4 e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. Nf3 { The most logical move and by far the most popular. White develops the knight attacking e5 and once he develops the light squared bishop he is ready to castle. It will be seen in 23 theoretical chapters (out of 29). } Nc6 3. Bb5 { The Spanish Opening, also called Ruy Lopez, will be the topic of first 8 theoretical chapters. } Nf6 ( { The more popular } 3... a6 { is another story. There are a lot of completely different variations in the Spanish/Ruy Lopez making this opening very rich in ideas. } ) 
+4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to the futility of White's attempts in the Berlin Endgame. } Bc5 ( { An active place for our bishop. We will try to play in a similar fashion as we play against the Italian. We have 3 theoretical chapters starting from here. We will mainly focus on } 4... Bc5 4. O-O { , } 5. c3 { and } 5. Bxc6 { . } ) 
+5. c3 ( { This is considered a more accurate move than } 5. O-O { , because it prevents ...Nd4. However, it gives Black an attractive possibility of an immediate strike in the centre. } ) 
+ { -KEY- } d5 $1 ( { Of course } 5... O-O { and } d6 { are viable alternatives, but the text is the most active and direct way of solving Black's opening problems. I offer a similar approach of aiming at ...d5 instead of ...d6 against the Giuoco Piano. } ) 
+6. Nxe5 { This move has not been the most popular, as Black has no problems demonstrating full compensation for the pawn. } O-O 7. Bxc6 ( { After } 7. Nxc6 bxc6 8. Bxc6 { there is } Bxf2 $1 { (see more in the theoretical chapter). } ) 
+bxc6 8. d4 Bb6 ( 8... Bd6 $6 { allows } 9. Nxc6 Qe8 10. e5 $1 { when White can count on a slight edge. } ) 
+9. O-O Nxe4 { Taking with the pawn has been more popular, but the text looks healthier, as Black retains more compact structure and avoids the Bg5 pin. } 10. Nxc6 { The only real way to challenge Black is to accept the pawn sacrifice. } Qd6 11. Nb4 a5 12. Nd3 c5 { Opening the position in order to increase the power of the bishops. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9609119/"]
+[Date "????.??.??"]
+[Round "1.5"]
+[White "Quickstarter Guide"]
+[Black "Anti-Berlin 5.Bxc6 #01"]
+[Result "*"]
+
+1. e4 e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. Nf3 { The most logical move and by far the most popular. White develops the knight attacking e5 and once he develops the light squared bishop he is ready to castle. It will be seen in 23 theoretical chapters (out of 29). } Nc6 3. Bb5 { The Spanish Opening, also called Ruy Lopez, will be the topic of first 8 theoretical chapters. } Nf6 ( { The more popular } 3... a6 { is another story. There are a lot of completely different variations in the Spanish/Ruy Lopez making this opening very rich in ideas. } ) 
+4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to the futility of White's attempts in the Berlin Endgame. } Bc5 ( { An active place for our bishop. We will try to play in a similar fashion as we play against the Italian. We have 3 theoretical chapters starting from here. We will mainly focus on } 4... Bc5 4. O-O { , } 5. c3 { and } 5. Bxc6 { . } ) 
+5. Bxc6 { This move, which is highly popular on the high level, is hardly an attempt to gain an opening advantage. Instead, White wants to avoid more forcing lines, which often lead to quick simplification and play a slow, positional game. -KEY- } dxc6 6. O-O Nd7 { The Knight temporarily blocks the bishop but we will maneuver it to e6 or g6. } 7. Nbd2 O-O 8. Nc4 Re8 9. Be3 Bd6 { Many other moves are possible, but this is the most straightforward one. Black's idea is to play ... Nf8-g6, stopping White's typical ideas on the kingside: Nh4-f5 and f4-f5. White has failed to demonstrate any downsides to this idea in practical play. } 10. d4 { This move has been played most often here, although it sets Black no problems at all. } exd4 11. Nxd6 cxd6 12. Qxd4 Qf6 $11 { Black was equal in Yu-So, Las Vegas 2014 } { _ } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9609136/"]
+[Date "????.??.??"]
+[Round "1.6"]
+[White "Quickstarter Guide"]
+[Black "Halloween Gambit"]
+[Result "*"]
+
+1. e4 e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. Nf3 { The most logical move and by far the most popular. White develops the knight attacking e5 and once he develops the light squared bishop he is ready to castle. It will be seen in 23 theoretical chapters (out of 29). } Nc6 3. Nc3 { -KEY- } Nf6 ( { This is called Four Knights Game - I guess you can see why :) Now White has a lot of different moves but the main move is } 3... Nf6 3. Bb5 { and } 4. d4 { is the Scotch variation and } 4. Bc4 { is the Italian variation. } ) 
+4. Nxe5 $2 { The so-called Halloween Gambit, which is hardly an opening suited for a serious game. The sacrifice is obviously unsound and Black should be winning quite easily. } Nxe5 5. d4 Ng6 6. e5 Ng8 { It looks ugly but we don't want to give our piece back. We only suffer for one move which is a low price for a piece. } 7. Bc4 d5 $1 { Sacrificing a pawn to fasten the piece development. } 8. Bxd5 N8e7 { Black has objectively a winning advantage but of course there is still some play left. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9609139/"]
+[Date "????.??.??"]
+[Round "1.7"]
+[White "Quickstarter Guide"]
+[Black "Four Knights Game 4.Bb5 Nd4 5.Bc4"]
+[Result "*"]
+
+1. e4 e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. Nf3 { The most logical move and by far the most popular. White develops the knight attacking e5 and once he develops the light squared bishop he is ready to castle. It will be seen in 23 theoretical chapters (out of 29). } Nc6 3. Nc3 Nf6 { This is called Four Knights Game - I guess you can see why :) } ( { Now White has a lot of different moves but the main move is } 3... Nf6 3. Bb5 { and } 4. d4 { is the Scotch variation and } 4. Bc4 { is the Italian variation. } ) 
+4. Bb5 { -KEY- } Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yielding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. Bc4 ( { We also deal with } 5. Ba4 { as well as } 5. Nxd4 { or } 5. O-O ) 
+Bc5 6. Nxe5 Qe7 $1 { The key move, not being afraid of any capture on f7 (which are bad). } 7. Nf3 { The most popular move. } d5 $1 ( { Just like against 7.Nd3 this is a key resource. Black sacrifices even more material but gets enormous activity. } ) 
+8. Bxd5 Bg4 9. d3 O-O-O { Finishing the development and preparing forcing operations. } 10. Be3 Nxd5 $1 { It's time for the action! Otherwise White's bishop would move away. } 11. Nxd5 Rxd5 $1 12. exd5 Re8 $1 { This silent move justifies Black's whole concept of play. Black plans ...Bxf3 followed by ...Qh4. Both sides needs to be accurate but with the best play it can end in a forced draw. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9609140/"]
+[Date "????.??.??"]
+[Round "1.8"]
+[White "Quickstarter Guide"]
+[Black "Four Knights Game 4.Bb5 Nd4 5.Ba4"]
+[Result "*"]
+
+1. e4 e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. Nf3 { The most logical move and by far the most popular. White develops the knight attacking e5 and once he develops the light squared bishop he is ready to castle. It will be seen in 23 theoretical chapters (out of 29). } Nc6 3. Nc3 Nf6 { This is called Four Knights Game - I guess you can see why :) Now White has a lot of different moves but the main move is 4.Bb5 and 4.d4 is the Scotch variation and 4.Bc4 is the Italian variation. } 4. Bb5 Nd4 { The recent correspondence and over the board praxis has established this move to be very promising, yielding Black great results. As we will see, White can easily end up in trouble if he does not proceed cautiously. } 5. Ba4 { -KEY- } c6 { A little but very powerful move. Black may play some ...b5, ...a5 chasing the bishop but the main point is revealed when White accepts the gambit and takes on e5. } ( { The two times more popular } 5... Bc5 { is playable but } 6. Nxe5 O-O 7. Nd3 Bb6 8. e5 Ne8 9. Nd5 { doesn't seem to be so convincing for Black. } ) 
+6. Nxe5 { Of course, the only serious way to try and justify the loss of tempo with Bb5-a4 is to take the pawn. However, Black can now develop a powerful initiative with accurate play. } ( 6. O-O a5 { is easy. } ) 
+d6 { Somehow having ...Bg4 on the cards is extremely important now and this move wouldn't be possible if ...c6 wouldn't block the a4-e8 diagonal. As we are going to see, Black has a very pleasant compensation. } 7. Nf3 Bg4 8. d3 Bh5 $1 ( { A cunning move, which is yet to be tested in over-the-board play. So far only } 8... d5 { and } Nd7 { have been played and Simon Williams mentions only these moves on his ChessBase DVD 'Rocket Repertoire: The Four Knights'. Black's basic idea is ...Nxf3+, when after the recapture the bishop would need to retreat to h5 anyway. By playing ...Bh5 first, he maintains a high degree of flexibility and 'passes the ball to' White, for whom it is not easy to find a useful move. } ( { One example of the usefulness of the bishop on h5 is the variation } 8... b5 9. Be3 $1 Nxf3 10. gxf3 { and the bishop is hanging. } ) 
+ ) 
+9. h3 Nxf3+ 10. gxf3 d5 $11 { Not the only, but the most ambitious move. Black opens the position to unlock the full potential of his pieces. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9616834/"]
+[Date "????.??.??"]
+[Round "1.9"]
+[White "Quickstarter Guide"]
+[Black "Evans Gambit"]
+[Result "*"]
+
+1. e4 e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. Nf3 { The most logical move and by far the most popular. White develops the knight attacking e5 and once he develops the light squared bishop he is ready to castle. It will be seen in 23 theoretical chapters (out of 29). } Nc6 3. Bc4 { The Italian game is one of the oldest openings in chess. It was developed in the 16th and 17th centuries by famous Italian masters Damiano, Polerio and Greco. It has always been frequently seen in beginners' and amateurs' games but its popularity among strong players gradually ceased in favor of the Ruy Lopez, which was considered a better try for an advantage until very recently. However, things have changed dramatically in recent years. Due to the futility of their attempts against the Berlin Defence, top players have started seeking ways to pose Black problems in the long-forgotten Italian. As a result of the trend set by Carlsen, Anand, Caruana, Karjakin, Vachier- Lagrave, Giri and other strong players it has suddenly become more popular than the Ruy Lopez and its theory has grown enormously. Unlike just a few years ago, Black is nowadays required to know the nuances of different lines and move orders to obtain a good position out of the opening. We have 4 theoretical chapters covering the Italian and there are also some gambit tries possible from here. -KEY- } Bc5 ( 3... Nf6 { is fine but it's a completely different story. There is for example } 4. Ng5 d5 5. exd5 Na5 6. Bb5 c6 7. dxc6 bxc6 8. Be2 { with very complex play. } ) 
+4. b4 { The Evans gambit essentially belongs to the 19th century, but White players still try it occasionally, hoping to surprise Black, so it is important to be prepared. I found a great way to obtain a promising position without having to remember a lot of lines. } Bxb4 5. c3 Ba5 6. d4 b5 $5 { I believe this is a great practical choice. Black not only effortlessly achieves at least an equality, he also has a chance of throwing White completely off preparation, due to the rareness of this move. All that at a cost of returning the sacrificed pawn, which Black does in many other lines anyway. This move hasn't been considered in any source known to us. } 7. Bxb5 Nxd4 { The point. This move would not be possible with the bishop on c4, due to Nxe5. } 8. Nxd4 exd4 9. Qxd4 Qf6 ( 9... Nf6 10. Ba3 { would be White's dream. } ) 
+10. O-O Bb6 11. Qd3 { Clearly the endgame wasn't encouraging. } Ne7 { Black has no problems. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9609149/"]
+[Date "????.??.??"]
+[Round "1.10"]
+[White "Quickstarter Guide"]
+[Black "Bishop's Opening"]
+[Result "*"]
+
+1. e4 e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. Bc4 { The Bishop's Opening has recently been gaining in popularity, mainly as a means of avoiding the Petroff Defence. -KEY- } Nf6 3. d3 c6 { I believe Black should take the opportunity to grab space in the centre. This way, he can fight for more than equality. } 4. Nf3 d5 5. Bb3 a5 { Softening up the bishop on b3. } 6. a4 Bb4+ { This provokes 7. c3 and Black is arguing that this extra move is actually counterproductive as he can't develop the knight to c3. } ( 6... Bd6 { is playable but } 7. exd5 cxd5 8. Bg5 Be6 9. Nc3 { is maybe equal but somehow easier for White. } ) 
+7. c3 ( 7. Nc3 d4 { loses a piece and moves like } 7. Nbd2 { or } 7. Bd2 { don't pose any problems. Black has a good development and nice centre. No further knowledge is required in this case. } ) 
+Bd6 8. exd5 cxd5 9. Bg5 Be6 10. Na3 { Thanks to 6... Bb4+ as we can see, White can't put more pressure on d5 with Nc3. } Nbd7 11. Nb5 Bb8 { The bishop might look strange on b8 but it doesn't even block the rook which can be developed via 6th rank. White has less space so his idea is to push d4 and after ...e4 undermine Black's centre with c4. He can play immediately } ( 11... Bb8 11. d4 { or } 12. O-O { and Re1, Nd2 and only then d4. Either way Black will get a good play as we will see in the theoretical chapter. } ) 
+
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9609146/"]
+[Date "????.??.??"]
+[Round "1.11"]
+[White "Quickstarter Guide"]
+[Black "2.Nc3 & 3.Bc4"]
+[Result "*"]
+
+1. e4 e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. Nc3 { White can opt for three different setups with this move: 1) Some kind of delayed Bishop's Opening with Bc4 2) The Glek Opening with g3 3) Vienna Gambit with f4. -KEY- } Nc6 ( 2... Nf6 { is much more popular but we want to have ...f5 move against the Glek Opening. } ) 
+3. Bc4 Nf6 4. d3 ( { The only independent try. Much more popular } 4. Nf3 { just transposes to Four Knights with 4.Bc4. } ) 
+Na5 { Just going for the important bishop. } 5. Nge2 ( { The most popular, but in the theoretical section we will also look at } 5. Bb3 { and a tricky } 5. Qf3 ) 
+Bc5 { The bishop on c4 is not running away so we don't have to take it yet. } 6. O-O O-O 7. Ng3 Nxc4 { Before playing ...d6 let's just exchange on c4. } ( 7... d6 8. Na4 Bd4 9. c3 Bb6 10. Bb5 { allows White to preserve his bishop. } ) 
+8. dxc4 d6 9. Qd3 Be6 { We will continue with ...a5, ...Nd7 and ...f6. Our position is rock-solid. White doesn't have any pawn breaks except f4 which in fact isn't threatening at all. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9609147/"]
+[Date "????.??.??"]
+[Round "1.12"]
+[White "Quickstarter Guide"]
+[Black "Glek Opening"]
+[Result "*"]
+
+1. e4 e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. Nc3 { White can opt for three different setups with this move: 1) Some kind of delayed Bishop's Opening with Bc4 2) The Glek Opening with g3 3) Vienna Gambit with f4. } Nc6 { 2...Nf6 is much more popular but we want to have ...f5 move against the Glek Opening. } 3. g3 { The Glek Opening, which is not a particularly threatening variation. White's setup generally includes Bg2, d3, Nge2, etc. Black has various acceptable ways of developing his forces, but the one including quick f5 is especially promising, as shown by the following lines: -KEY- } Bc5 4. Bg2 d6 { Getting ready for ...f5. } 5. Nge2 f5 $1 { As planned. } 6. d3 Nf6 7. O-O O-O 8. Na4 { Going after the bishop has been almost the only move played by White. It's difficult to suggest anything else really. } fxe4 9. Nxc5 dxc5 10. dxe4 b6 { With an edge. White's pieces are passively placed, whereas Black's are ready for active play, e.g. ...Ba6 (b7), ...Qe8, ...Rd8, ...Nd4 (b4). The bishop pair offers White no real benefits here, as his bishops are too restricted. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9609145/"]
+[Date "????.??.??"]
+[Round "1.13"]
+[White "Quickstarter Guide"]
+[Black "Centre Game"]
+[Result "*"]
+
+1. e4 e5 { The starting point of this repertoire. From the very beginning of chess history 1. e4 e5 has been established as the most principled and sound way to face White's most popular first move. Also, learning the open games is the key to understanding chess. Active play, concrete fight for the centre and maneuvering in flexible structures are exactly what strong players should excel at. } 2. d4 ( { This will be the main topic of the final theoretical chapter. We will also cover some funky stuff like going for the Scholar's Mate with } 2. Qh5 { or the Bongcloud Attack with } 2. Ke2 ) 
+ { -KEY- } exd4 3. Qxd4 { This is called the Centre Game. White loses an important tempo in the opening and develops his pieces awkwardly. Black can successfully fight for more than equality. } ( { There is also } 3. c3 { (Danish Gambit) which we will not accept and meet with } d5 { . } ) 
+Nc6 4. Qe3 ( { There is also } 4. Qc4 { covered in the theoretical section. We should just complete quickly our development one way or the other. } ) 
+Nf6 5. Nc3 Bb4 { Just developing actively. } 6. Bd2 O-O 7. O-O-O { That was White's idea. He wants to attack us on the kingside by pawnstorming us with f3, g4, h4 etc. That might be very dangerous but he isn't too well developed. } Re8 { White already feels the heat on e4, there is also ... d5 in the air. White usually sacrifices the pawn. } 8. Qg3 { White gets out of the pin and if he manages to play f3 his position is actually quite nice. We have to accept the sacrifice. } Nxe4 9. Nxe4 Rxe4 { White may have some compensation but it won't be enough for a full pawn. } 
+ *

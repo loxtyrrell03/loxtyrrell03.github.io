@@ -1,0 +1,137 @@
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1228120/"]
+[Date "????.??.??"]
+[Round "28.1"]
+[White "22.6) The Closed Ruy Lopez"]
+[Black "Introduction"]
+[Result "*"]
+[FEN "4k3/p4ppp/3p4/1p1Pp3/2p1P3/2P5/PP3PPP/4K3 w - - 0 1"]
+
+ { The Closed Ruy Lopez The Closed Ruy Lopez structure pictured on the left is one that arises almost exclusively from the Ruy Lopez opening. It is a very interesting structure, but I decided not to have a full chapter about it because it originates from just one opening, and because it is closely related to the King's Indian structures. The nature of this position most closely resembles the King's Indian Type II structure, the only difference being the pawns on c3 vs. c4 (instead of c4 vs. c5). This is, in fact, a big difference, as we will see in the typical plans for this position: White's plans 1. Create a kingside attack with g2-g4, Nbd2-f1-g3-f5, sacrifice a piece on f5 if needed. 2. Create a kingside attack with f2-f4, by analogy with Chapter 15. 3. Play on the queenside with b2-b4, a2-a4 and then invade on the a-file or attack one of Black's queenside pawns. Black's plans 1. Create queenside play with ...a7-a5, ...b7-b5-b4. 2. Expand on the kingside with ...f7-f5-f4 by analogy with Chapters 15 and 16. A major structural difference between this structure and the King's Indian structures is that in the Ruy Lopez White doesn't have a spatial advantage on the queenside. Still, having a powerful pawn on d5 is always a plus and will allow White to create queenside play on occasion. Nevertheless, kingside plans are now more significant than ever for White, and it is important to keep them in mind as queenside play will not always work for him. Unlike pretty much all King's Indian-type positions, Black is now likely to succeed by playing actively on the queenside, though the kingside plans remain valid. But often White will pay so much attention to the kingside that Black will opt for queenside plans. For this reason, in many cases, White will first devote his energies to closing the queenside, and only then move on to a kingside attack. } 1. -- 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551630/"]
+[Date "????.??.??"]
+[Round "28.2"]
+[White "22.6) The Closed Ruy Lopez"]
+[Black "White Blocks the Queenside and Wins on the Kingside"]
+[Result "1-0"]
+[FEN "r1rnb1k1/B1n1qpbp/3p2p1/1p1Pp3/1Pp1P3/2P4P/R2QNPPN/RB4K1 w - - 0 30"]
+
+ { White Blocks the Queenside and Wins on the Kingside The position in the diagram occurred in the famous Karpov – Unzicker game from the Nice Olympiad of 1974. Since this example is well-known to many, I will present it without annotations. The most important thing to observe is the position in the diagram. White has managed to block the queenside in a very original way: by placing the bishop on a7. In contrast to simply closing the queenside with pawns, having this bishop on a7 means White can re-open the file whenever he wants. Nevertheless, this will not be necessary, as his kingside play will decide the game. Here, Karpov proceeded with: } 30. f4 $1 f6 ( { PH: } 30... exf4 31. Nxf4 { at first looks tempting for Black, but how is he going to get a knight to e5? And even if a knight gets there, White will exchange it with Ng4 or Nf3. } ) 
+31. f5 g5 ( { PH: More resilient would have been } 31... Nf7 32. Ng3 Bh6 33. Qf2 Kh8 { though White is still better after } 34. h4 $5 { ± , with ideas of taking fxg6 followed by h5, gaining the f5-square for a knight. } ) 
+32. Bc2 Bf7 33. Ng3 Nb7 34. Bd1 $1 { The winning manoeuvre; Black cannot prevent a light-square penetration. } h6 ( { Or } 34... Qe8 35. Bb6 Rxa2 36. Rxa2 Qd7 37. Ra7 Rb8 38. Bh5 { and White wins. } ) 
+35. Bh5 Qe8 36. Qd1 Nd8 37. Ra3 Kf8 38. R1a2 Kg8 39. Ng4 $1 Kf8 ( { Not } 39... Bxh5 40. Nxh5 Qxh5 $2 41. Nxf6 $1 Bxf6 42. Qxh5 { and White wins even faster than in the game. } ) 
+40. Ne3 Kg8 41. Bxf7+ Nxf7 42. Qh5 Nd8 43. Qg6 Kf8 44. Nh5 { Black had suffered long enough. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846268/"]
+[Date "????.??.??"]
+[Round "28.3"]
+[White "22.6) The Closed Ruy Lopez"]
+[Black "White Blocks the Queenside and Wins on the Kingside #1"]
+[Result "*"]
+[FEN "r1rnb1k1/B1n1qpbp/3p2p1/1p1Pp3/1Pp1P3/2P4P/R2QNPPN/RB4K1 w - - 0 30"]
+
+30. f4 $1 f6 31. f5 g5 32. Bc2 Bf7 33. Ng3 Nb7 34. Bd1 $1 { The winning manoeuvre; Black cannot prevent a light-square penetration. } h6 ( { Or } 34... Qe8 35. Bb6 Rxa2 36. Rxa2 Qd7 37. Ra7 Rb8 38. Bh5 { and White wins. } ) 
+35. Bh5 Qe8 36. Qd1 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846270/"]
+[Date "????.??.??"]
+[Round "28.4"]
+[White "22.6) The Closed Ruy Lopez"]
+[Black "White Blocks the Queenside and Wins on the Kingside #2"]
+[Result "*"]
+[FEN "r1rnq1k1/B1n2bb1/3p1p1p/1p1PpPpB/1Pp1P3/R1P3NP/R5PN/3Q2K1 w - - 8 39"]
+
+39. Ng4 $1 Kf8 40. Ne3 Kg8 41. Bxf7+ Nxf7 42. Qh5 Nd8 43. Qg6 Kf8 44. Nh5 { Black had suffered long enough. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2830647/"]
+[Date "????.??.??"]
+[Round "28.5"]
+[White "22.6) The Closed Ruy Lopez"]
+[Black "White Blocks the Queenside and Wins on the Kingside #3"]
+[Result "*"]
+[FEN "r1rnq1k1/B1n2bb1/3p1p1p/1p1PpPpB/1Pp1P1N1/R1P3NP/R5P1/3Q2K1 b - - 0 10"]
+
+10... Bxh5 11. Nxh5 Qxh5 $2 12. Nxf6+ $1 Bxf6 13. Qxh5 { White wins even faster than in the game. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551631/"]
+[Date "????.??.??"]
+[Round "28.6"]
+[White "22.6) The Closed Ruy Lopez"]
+[Black "Ivan Morovic Fernandez vs. Fadi Eid"]
+[Result "1-0"]
+
+ { Ivan Morovic Fernandez – Fadi Eid, Khanty-Mansiysk Olympiad 2010 Learning objectives: 1. This game is an example of how White can neutralize Black’s queenside play and even gain a queenside edge. 2. Observe how after some pawns are traded on the queenside, the nature of the position resembles more and more the King’s Indian Type I structure. } 1. Nf3 Nc6 2. e4 e5 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 { So far we are following the main line of the Chigorin Defence against the Ruy Lopez, and now White chooses a sideline: } 12. d5 { Closing the centre and hoping for a long game away from theory. } ( { The main line is } 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5 15. Be3 a4 16. Nbd2 Bd7 17. Rc1 Rfc8 18. Bb1 Qb7 { when White has a tiny advantage. } ) 
+c4 $6 { A premature move. } ( { Better was } 12... Bd7 13. b3 Nb7 14. Nbd2 g6 15. Nf1 Ne8 16. Bh6 Ng7 17. g4 f6 18. Ng3 Nd8 19. Kh2 Nf7 { where Black’s last few moves should all be remembered, as they constitute a standard and ideal arrangement in this position. Black manages to keep his kingside secure. } ) 
+13. b4 $1 { ⩲ This move pretty much forces Black to give up his hopes of active play on the queenside. } cxb3 ( { If } 13... Nb7 14. a4 Bd7 15. a5 $1 { and Black is likely to face problems on the kingside. } Nd8 16. Nh2 Ne8 { Attempting ...g7-g6 , ...f7-f6 , ...Ng7 , ...Nf7 , but after } 17. Ng4 g6 18. f4 $1 { White takes the initiative. For example: } exf4 19. Bxf4 Bxg4 20. Qxg4 Bf6 21. Rf1 $14 ) 
+14. axb3 Bd7 15. Ba3 $1 { Threatening 16.Nxe5. } Bd8 { The only defence. } ( { Instead } 15... Rfe8 $2 { falls into: } 16. Nxe5 $1 dxe5 17. Bxe7 Rxe7 18. d6 $18 ) 
+16. Bd3 Nb7 $6 { Making things easier for White. } ( { Better was } 16... Re8 17. Re2 $5 Nh5 18. Rea2 Nf4 19. Bf1 f5 $5 { when Black poses some resistance. } ) 
+17. b4 $1 { An important move, preventing Black’s knight from coming back into the game with ...Nc5. And it’s the second time in this game White has played an excellent b4-advance. } Be7 18. Bc1 { A good rearrangement; the bishop is heading to e3 and now the a-file will serve to attack the a6-pawn. } Rfc8 ( 18... Nd8 { doesn’t help: } 19. Re2 Qb7 { Black protects the a6-pawn, but allows } 20. Be3 Ne8 21. c4 $1 { ± opening the position very favourably. For example: } bxc4 22. Bxc4 Qxb4 23. Qc1 Rc8 24. Rc2 a5 25. Nbd2 a4 26. Rb1 Qa5 27. Rb6 { White is winning; the a4-pawn will soon be lost, and Black will be unable to hold the d6-pawn for long. } ) 
+19. Re2 $1 { ± } a5 ( { If } 19... h6 20. Rea2 Qb6 21. Be3 { and the a6-pawn is lost. } ) 
+20. Rea2 Qd8 21. Be3 axb4 $6 { Making things easier; now that the position is so open, the b5-pawn will be a very easy target. } ( { If } 21... a4 22. Qe2 Qe8 23. Bd2 Nd8 24. Na3 Rab8 25. c4 bxc4 26. Nxc4 $16 { White has a big advantage, as his central space advantage will allow him to develop his queenside threats more easily. } ) 
+ ( { Waiting with } 21... h6 { does not help, for example } 22. Qe2 Qe8 23. Nfd2 ( 22... axb4 22. bxa5 $6 Nc5 $14 ) 
+Nh7 24. Nb3 a4 25. N3d2 $16 { followed by c3-c4. } ) 
+22. cxb4 Rxa2 23. Rxa2 Ra8 24. Qe2 g6 ( { The b5-pawn is also lost after: } 24... Rxa2 25. Qxa2 Ne8 26. Nc3 Nc7 27. Bb6 Qc8 28. Bxc7 Qxc7 29. Qb2 ( 28... g6 28. Nxb5 $2 Qc1 30. Kh2 Qf4 $11 ) 
+Qb6 30. Qe2 $18 ) 
+25. Nc3 $18 { The b5-pawn is lost and the rest is simple. } Rxa2 26. Qxa2 Qc7 ( { Or } 26... Qe8 27. Qa6 { is also easy. } ) 
+27. Nxb5 Bxb5 28. Bxb5 Nxe4 29. Qa7 { Black resigns due to the threat of Ba6. Final remarks 1. The fact that White obtained a superior position after some pawns were traded on the queenside should be no surprise. We have seen similar patterns in Chapter 14. The key is the spatial advantage provided by the d5-pawn and the c6-square. In this game, this is what made it so easy for White to attack the b5-pawn. 2. Black’s biggest mistake was playing the premature 12...c4, permitting the strong 13. b4. This move allowed White to neutralize Black’s queenside play immediately, and later obtain chances for an advantage as the position opened up. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2830171/"]
+[Date "????.??.??"]
+[Round "28.7"]
+[White "22.6) The Closed Ruy Lopez"]
+[Black "Fernandez vs. Eid #1"]
+[Result "*"]
+[FEN "r4rk1/1nqbbppp/p2p1n2/1ppPp3/4P3/1PP2N1P/P1B2PP1/RNBQR1K1 w - - 0 1"]
+
+1. Nbd2 g6 2. Nf1 Ne8 3. Bh6 Ng7 4. g4 f6 5. Ng3 Nd8 6. Kh2 Nf7 { Black’s last few moves should all be remembered, as they constitute a standard and ideal arrangement in this position. Black manages to keep his kingside secure. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846272/"]
+[Date "????.??.??"]
+[Round "28.8"]
+[White "22.6) The Closed Ruy Lopez"]
+[Black "Fernandez vs. Eid #2"]
+[Result "*"]
+[FEN "r1b2rk1/2q1bppp/p2p1n2/nppPp3/4P3/2P2N1P/PPB2PP1/RNBQR1K1 b - - 0 12"]
+
+12... c4 $6 13. b4 $1 { This move pretty much forces Black to give up his hopes of active play on the queenside. } Nb7 14. a4 Bd7 15. a5 $1 { Black is likely to face problems on the kingside. } Nd8 16. Nh2 Ne8 { Attempting ...g7-g6, ...f7-f6, ...Ng7, ...Nf7. } 17. Ng4 g6 18. f4 $1 { White takes the initiative. } exf4 19. Bxf4 Bxg4 20. Qxg4 Bf6 21. Rf1 $14 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846279/"]
+[Date "????.??.??"]
+[Round "28.9"]
+[White "22.6) The Closed Ruy Lopez"]
+[Black "Fernandez vs. Eid #3"]
+[Result "*"]
+[FEN "r1b2rk1/2q1bppp/p2p1n2/nppPp3/4P3/2P2N1P/PPB2PP1/RNBQR1K1 b - - 0 12"]
+
+12... c4 $6 13. b4 $1 { ⩲ This move pretty much forces Black to give up his hopes of active play on the queenside. } cxb3 14. axb3 Bd7 15. Ba3 $1 { Threatening 16. Nxe5. } Rfe8 $2 16. Nxe5 $1 dxe5 17. Bxe7 Rxe7 18. d6 $18 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846280/"]
+[Date "????.??.??"]
+[Round "28.10"]
+[White "22.6) The Closed Ruy Lopez"]
+[Black "Fernandez vs. Eid #4"]
+[Result "*"]
+[FEN "r2b1rk1/1nqb1ppp/p2p1n2/1p1Pp3/4P3/BPPB1N1P/5PP1/RN1QR1K1 w - - 5 17"]
+
+17. b4 $1 { An important move, preventing Black's knight from coming back into the game with ...Nc5. And its the second time in this game White has played an excellent b4-advance. } Be7 18. Bc1 { A good rearrangement; the bishop is heading to e3 and now the a-file will serve to attack the a6-pawn. } Rfc8 ( 18... Nd8 { doesn't help: } 19. Re2 Qb7 { Black protects the a6-pawn, but allows } 20. Be3 Ne8 21. c4 $1 { ± opening the position very favourably. For example: } bxc4 22. Bxc4 Qxb4 23. Qc1 Rc8 24. Rc2 a5 25. Nbd2 a4 26. Rb1 Qa5 27. Rb6 { White is winning; the a4-pawn will soon be lost, and Black will be unable to hold the d6-pawn for long. } ) 
+19. Re2 $1 a5 20. Rea2 
+ *

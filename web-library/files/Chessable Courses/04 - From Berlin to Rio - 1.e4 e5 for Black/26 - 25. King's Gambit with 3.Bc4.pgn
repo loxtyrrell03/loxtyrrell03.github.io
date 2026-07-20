@@ -1,0 +1,37 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9445767/"]
+[Date "????.??.??"]
+[Round "26.1"]
+[White "25. King's Gambit with 3.Bc4"]
+[Black "King's Gambit 3.Bc4 Nc6 4.d4 #01"]
+[Result "*"]
+
+1. e4 e5 2. f4 { The King's Gambit was the most popular opening of the Romantic Era of chess. Nearly all the best players of the 19th century played it with both colours, producing a number of highly interesting and spectacular games. However, since the positional school chess came to the fore, its popularity has been steadily declining. In the recent decade, modern computers dealt additional blow to the King's Gambit's reputation, showing that White's compensation is hardly sufficient and faced with precise Black's play, White will struggle to even equalize. Nevertheless, one will occasionally face a King's Gambit aficionado or an opponent trying to use the opening as a surprise weapon, so it is important to be at least basically prepared for it. } exf4 3. Bc4 { -KEY- } Nc6 $1 { This move, according to John Shaw, an author of a massive book on the King's Gambit, is the refutation of the Bishop's Gambit. By 'refutation' he doesn't mean that Black wins, but that he achieves a better position in all variations. I think he is right in principle, but many of the specific lines he included in his book can be improved upon. } 4. d4 Qh4+ ( { Shaw recommends } 4... Nf6 { , after which Black should end up slightly better. But the text move is even more promising in my opinion. } ) 
+5. Kf1 d6 6. Nf3 Bg4 $1 { The point. If Black had to retreat the queen, 4...Qh4+ would make little sense. } 7. Bb5 $6 { This active move just doesn't turn well for White. His pieces aren't ready for exchange of blows. } Qh5 8. d5 O-O-O ( { Of course } 8... O-O-O 8. dxc6 { is not possible because the bishop is hanging on b5 . } ) 
+9. Be2 Nce7 10. Bxf4 f5 $1 { Just as after 8.Nc3, a quick undermining of White's centre is Black's best option. White is bound to lose one of his central pawns now. } 11. Nd4 Bxe2+ ( 11... Nf6 { is very good as well, but a beneficial transition to the endgame is enough. } ) 
+12. Qxe2 Qxe2+ 13. Kxe2 Re8 { Threatening ...Nxd5 } 14. c4 Nf6 15. Nd2 Nxe4 $17 { Black is a clear pawn up. And note the trick: } 16. Nxe4 $2 Nxd5 17. cxd5 Rxe4+ $19 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9445771/"]
+[Date "????.??.??"]
+[Round "26.2"]
+[White "25. King's Gambit with 3.Bc4"]
+[Black "King's Gambit 3.Bc4 Nc6 4.Nf3 #01"]
+[Result "*"]
+
+1. e4 e5 2. f4 { The King's Gambit was the most popular opening of the Romantic Era of chess. Nearly all the best players of the 19th century played it with both colours, producing a number of highly interesting and spectacular games. However, since the positional school chess came to the fore, its popularity has been steadily declining. In the recent decade, modern computers dealt additional blow to the King's Gambit's reputation, showing that White's compensation is hardly sufficient and faced with precise Black's play, White will struggle to even equalize. Nevertheless, one will occasionally face a King's Gambit aficionado or an opponent trying to use the opening as a surprise weapon, so it is important to be at least basically prepared for it. } exf4 3. Bc4 Nc6 $1 { This move, according to John Shaw, an author of a massive book on the King's Gambit, is the refutation of the Bishop's Gambit. By 'refutation' he doesn't mean that Black wins, but that he achieves a better position in all variations. I think he is right in principle, but many of the specific lines he included in his book can be improved upon. } 4. Nf3 $6 { It's difficult to say that already this natural move is dubious but in fact this is the case. Black has a relatively simple way to obtain a really big advantage. -KEY- } g5 5. Nc3 $2 { Shaw implies that Black should steer clear of accepting the sacrifice, but I see no reason for such caution. } g4 $1 6. O-O gxf3 7. Qxf3 Qh4 $19 { Threatening ...Bc5+ and ...Ne5. Black is simply winning. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9445772/"]
+[Date "????.??.??"]
+[Round "26.3"]
+[White "25. King's Gambit with 3.Bc4"]
+[Black "King's Gambit 3.Bc4 Nc6 4.Nf3 #02"]
+[Result "*"]
+
+1. e4 e5 2. f4 { The King's Gambit was the most popular opening of the Romantic Era of chess. Nearly all the best players of the 19th century played it with both colours, producing a number of highly interesting and spectacular games. However, since the positional school chess came to the fore, its popularity has been steadily declining. In the recent decade, modern computers dealt additional blow to the King's Gambit's reputation, showing that White's compensation is hardly sufficient and faced with precise Black's play, White will struggle to even equalize. Nevertheless, one will occasionally face a King's Gambit aficionado or an opponent trying to use the opening as a surprise weapon, so it is important to be at least basically prepared for it. } exf4 3. Bc4 Nc6 $1 { This move, according to John Shaw, an author of a massive book on the King's Gambit, is the refutation of the Bishop's Gambit. By 'refutation' he doesn't mean that Black wins, but that he achieves a better position in all variations. I think he is right in principle, but many of the specific lines he included in his book can be improved upon. } 4. Nf3 $6 { It's difficult to say that already this natural move is dubious but in fact this is the case. Black has a relatively simple way to obtain a really big advantage. } g5 5. O-O { -KEY- } Bg7 6. d4 d6 7. c3 h6 8. g3 $2 { This is based on one trick which just doesn't work. } fxg3 ( 8... Bh3 { is also good, but unnecessary. } ) 
+9. Bxf7+ { This sacrifice may seem tempting, but it simply loses by force. } Kxf7 10. Ne5+ Ke7 ( { Of course not } 10... Ke8 $4 11. Qh5 { and mate. } ) 
+11. Rf7+ Ke8 12. Qh5 { It all looks dangerous but you shouldn't be afraid if it's just winning for Black. } Nxe5 13. dxe5 Bg4 $1 { the key trick which allows the king to escape. } 14. Qg6 Ne7 15. Qxg7 gxh2+ { Don't forget to take the pawn with a check! This move could have been inserted earlier too. } 16. Kxh2 Kd7 $19 { White is busted. } 
+ *

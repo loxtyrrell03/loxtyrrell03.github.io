@@ -1,0 +1,84 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39732282/"]
+[Date "????.??.??"]
+[Round "16.1"]
+[White "3.1) How To Evaluate Space"]
+[Black "Evaluating Complex Positions"]
+[Result "*"]
+[FEN "r1bq1rk1/1ppn2b1/3p3p/p1nP1p2/2P1pP2/2N1B2P/PPB1N1P1/R2Q1RK1 w - - 0 1"]
+
+ { In this opening section, we're going to cover a selection of examples designed to help us to accurately evaluate spatial control in chess. In each position, we will try to judge whether greater space control translates into an objective advantage or whether it is only illusory. Let's start with a tricky example, where each side has a claim to the space advantage. Before reading on, feel free to stop and consider which side you think stands better and why. } 1. { -KEY- } Nd4 $1 { If you evaluated White as standing better, you are correct. Let's explore why this is: (1) White has the c4/d5 chain while Black has the f5/e4 chain. In terms of square control both sides are roughly even, but White's chain can be supported with b3 while Black's cannot. (2) Black has the d3 outpost, but it is well-guarded by White. On the other hand, the outpost on e6 is less secure. (3) Black has a weak square on h5, that White is ready to target with their queen. (4) White's pieces are more central and are not stepping on each other's toes like Black's. (5) White can break the e4/f5 structure with g4 at the right moment. Black's only pawn breaks are ...c6 or ...b5, but White has these squares under control. There is a lot to digest with the above. Do not worry about keeping a long list of factors in your mind during your games; over time the analysis of many games will allow you to develop your intuition organically. Let's now see how the play might continue: } Qe7 { Black tries a quiet developing queen move. } ( 1... Nb6 $6 { Black might try to pressure the pawn chain, but after } 2. b3 $16 { White easily supports their strong pawn chain, while Black's knight on b6 is left completely out of the game. } ) 
+2. Qe2 $1 { Connecting the rooks and preparing to bring the only inactive piece into the game with e.g. Rae1 on the next move. Black's queenside pieces remain passive and without good prospects. } Nf6 { Black could not sit with the knight on d7 forever, so they bring it to the most active square. } 3. g4 $1 { A well-timed pawn break! } fxg4 4. f5 $1 { If Black's knight had still been on d7 this plan would not have worked since then Black could have played ...Ne5, targeting the outposts on d3 and f3. } Nd3 5. Ne6 $1 { White ignores the invader and establishes their own knight on the power outpost on e6. } ( 5. Bxd3 $2 { White should not take the bait, since after } exd3 6. Qxd3 Nh5 { Black's position becomes too active, while } 7. hxg4 { does not work because of } Qh4 $1 { when after } 8. gxh5 { Black has a draw with } Qg3 $11 ) 
+Bxe6 6. dxe6 $1 { Keeping the f-file closed, and setting up a possible Nc3-d5 knight jump in the future. } Ne5 { Black's best bet is to centralise their knight, admitting that the d3 outpost was not so strong after all. This can be contrasted with White's play on the e6 outpost, which has yielded them a very strong protected passed pawn. } ( 6... Nxb2 $2 { The greedy pawn capture would be a costly loss of time, and after } 7. Nxe4 Nxe4 8. Bxe4 $18 { the Black knight is stranded on b2, while White's connected passed pawns on e6 and f5 will combine with the bishop pair to create unstoppable threats on the kingside. } ) 
+7. Kh1 { The position remains complex, but with pressure against e4 and g4 it is very easy for Black to go wrong. } gxh3 $2 { Black grabs a pawn, but now the open g-file will prove decisive. } 8. Rg1 Kh8 9. Nxe4 Nxe4 10. Bxe4 Rf6 { Black tries to hold things together, but the connected passed pawns on f5 and e6 are too strong. } 11. Rg3 Rg8 12. Rag1 Qe8 13. Rxh3 $18 { Black has no defense against the continued assault along the g- and h-files. This example has been a very tricky one, and a tough start to this important chapter! Fortunately, most of the time there is a useful rule of thumb that will help you to judge when space is important or not. The rest of the examples in this section will discuss this rule. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39732283/"]
+[Date "????.??.??"]
+[Round "16.2"]
+[White "3.1) How To Evaluate Space"]
+[Black "The Most Important Rule"]
+[Result "*"]
+[FEN "1rnr2k1/p3npbp/2p1q1p1/R1P1p3/1P2P3/Q6P/1B3PP1/1N2RBK1 w - - 0 1"]
+
+ { We ended the last example by saying that there is an important rule that will help you quickly judge whether space is a big advantage or not, across most positions. The general rule that is important to know states that 'space becomes less valuable as minor pieces are exchanged'. Put another way, the more minor pieces on the board the better it is for the side with more space. Before we show a few examples of this in action, I should say that it is best to treat this as a guideline and not an absolute rule since many exceptions exist. Overall however, it is a helpful rule of thumb. Take a moment to consider whether you think White's space advantage is significant here or not. } 1. { -KEY- } Ra6 $1 { The White advantage is in fact winning here. The problem is that only one set of minor pieces have been exchanged. The reason why minor pieces on the board tends to hurt the side with less space is that they will often be left without good squares to go to. Here, Black's knights are both paralysed while their bishop sits passively on g7. } Rd7 { Defending the pawn on a7. } 2. Bc3 { Controlling the d2 square, preparing to bring the knight into play. } Rc7 { Overprotecting c6, hoping that this will allow them to redirect the knight on e7 to a more productive role elsewhere. } 3. Nd2 { Unlike Black, White's minor pieces are not struggling for squares. Either the knight or the bishop can go to c4 next. } g5 { This highlights a common problem of lacking space. Black needs to activate their knights, but in trying to do so they create new weaknesses in their position. } 4. Bc4 Qd7 5. Nf1 $1 { The White knight eyes up the newly gained outpost on f5. } Ng6 6. Ne3 Nce7 { Black has managed to two-step with their knights, but even after this effort, the e7 knight remains passively locked down by White's structure. } 7. Rd1 Qc8 8. Rxa7 $18 { White converts their positional advantage into an extra pawn, while still maintaining much superior piece configuration than their opponent. The reason for Black's quick collapse was not the weakness of their queenside pawns, but rather the lack of mobility of their minor pieces. We'll keep the same structure for our next example, but this time without so many minor pieces. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39732284/"]
+[Date "????.??.??"]
+[Round "16.3"]
+[White "3.1) How To Evaluate Space"]
+[Black "Same Structure- Less Pieces"]
+[Result "*"]
+[FEN "6k1/pr1r1pbp/2p1q1p1/R1P1p3/1P2P3/Q6P/1B3PP1/4R1K1 w - - 0 1"]
+
+ { Here we have the same structure as in the previous example, but without any knights on the board. By removing the problem pieces, the position has gone from losing for Black to a comfortable equality. Let's take a look at how play might unfold. } 1. { -KEY- } Ra6 { White begins by targeting the c6 pawn, as in the previous example. } h5 { Black prepares a clever tactical idea to indirectly defend against the pressure on c6. } 2. Qa4 Kh7 $1 ( 2... Rdc7 { should also be fine, but a little more passive than the text move. } ) 
+3. Rxc6 { White has no way of improving the position further so they grab the pawn, but Black has a clever reply in store. } ( 3. Bc3 $6 Qc4 $13 { White cannot allow an invasion of the Black queen. Note how this was not possible in our previous example as White's bishop on f1 kept the light squares well-guarded throughout. } ) 
+Rxb4 $1 { The White queen is overloaded. } 4. Qxb4 Qxc6 $11 { The position has simplified, and White's 'space advantage' has fully disintegrated. Black was able to deal with the pressure with ease since they did not have to contend with passive knights, their Achilles heel in the previous position. Let's show one more set of examples with the same structure but different piece arrangements. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39732285/"]
+[Date "????.??.??"]
+[Round "16.4"]
+[White "3.1) How To Evaluate Space"]
+[Black "Carlsen vs Bortnyk"]
+[Result "*"]
+[FEN "r1b1r1k1/1pq2pb1/2pp1np1/p3n2p/P2NP3/2N1B1PP/1PPQ1PB1/3RR1K1 w - - 0 1"]
+
+ { In this first position, taken from an online game between Magnus Carlsen and GM Bortynk, White stands much better due to his space advantage and the presence of all eight minor pieces. } 1. { -KEY- } b3 $1 { A strong move, robbing Black of any hope to trade minor pieces with 1...Nc4. } Bf8 { A quiet move would not have saved Black. Play might have continued: } ( 1... h4 $2 { In the game, Black tried to make progress on the kingside, but quickly got steamrolled after } 2. f4 $1 Ned7 3. g4 $1 { Securing even more space. Black is already lost since the only target that he can aim at is the e4 pawn, but after } Nc5 4. Bf2 $18 { White protects the central pawn, while taking aim at Black's stranded pawn on h4. White will be up material soon, with the space advantage still intact and all of Black's minor pieces struggling for activity. } ) 
+2. f4 $1 Ned7 { Black's knights are stepping on each other's toes, while the light-squared bishop has no prospects. } 3. Qf2 $1 { Improving the position and getting ready to slowly build up the pressure on the kingside. } Bg7 { As frequently happens in positions with a lack of space, Black is forced to shuffle his pieces back and forth. } ( 3... Nb6 $2 { One of the ideas behind 3. Qf2 is to take away this forward jump from the Black knight. } 4. Ndb5 $1 cxb5 5. Nxb5 $18 { White will recover their knight next and emerge at least a pawn to the good. } ) 
+4. Re2 { Preparing to increase the pressure along the d-file. } Nf8 5. Red2 Bd7 6. Rd3 Qc8 7. Kh2 $1 { White continues to keep everything safe. When playing with the space advantage, it is usually a good idea to not rush. Instead, you want to patiently improve the position and starve the opponent of counterplay. Such a way of playing has been compared to the methods of a python snake, gradually constricting its prey. } Rb8 { Black continues to shuffle. } 8. Nf3 Nxe4 { Black has nothing better than to take the pawn, since d6 is falling. } 9. Nxe4 Rxe4 10. Rxd6 { The position suddenly opens up, with White's pieces much more actively placed. } Re8 { Stepping the rook back to avoid it getting trapped in the centre of the board. } 11. Ne5 $1 ( { There is no risk of } 11. Ne5 Bxe5 $2 { since that would leave the dark squares too weak. } ) 
+Bf5 12. Bb6 { Targeting the a5 pawn. } Ra8 13. Bf1 { Tranferring the bishop to c4 to target the f7 pawn. } Be6 { Stopping the threat, but taking away an important square from the queen. } 14. Rd8 $1 Rxd8 15. Rxd8 $16 { White is close to winning with the queen for rook and bishop. Once again the problem for Black was not so much the lack of space, but the fact he could not find good squares for his pieces.Let's revisit the same structure next, but this time with less material on the board. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39732286/"]
+[Date "????.??.??"]
+[Round "16.5"]
+[White "3.1) How To Evaluate Space"]
+[Black "Different Piece Arrangement"]
+[Result "*"]
+[FEN "r3rbk1/1pq2p2/2pp1np1/p6p/P3P3/2N3PP/1PPQ1PB1/3RR1K1 w - - 0 1"]
+
+ { Here we have removed Black's problem knight on e5, and at the same time we have introduced a second imbalance into the position: opposite-colored bishops! Black's backward pawn on d6 is no longer of concern, since the bishop is excellently placed to guard it. At the same time, f2-f4 advances lose their sting as White has to be careful to not weaken his dark squares. Let's see how the game might play out: } 1. { -KEY- } Qd4 { White finds nothing better than to centralise their queen. } Nd7 $1 { Heading to the c5 square, which functions like an outpost since b2-b4 is not possible. } 2. b3 Nc5 3. h4 { Due to the lack of a target to attack, White is forced to make quiet improving moves to their structure. } Bg7 $1 ( { A good moment to pivot back to the long diagonal, since } 3... Bg7 3. Qxd6 { would lose the knight on c3. } ) 
+4. Qd2 Re6 $15 { Defending the d6 pawn and preparing to add pressure against e4. We can see that Black has not only been unbothered by having less space, but in fact has stood a little better throughout. White had no active plan, while Black has used the last few moves to reconfigure their minor pieces to better squares. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/42637780/"]
+[Date "????.??.??"]
+[Round "16.6"]
+[White "3.1) How To Evaluate Space"]
+[Black "A Typical Situation"]
+[Result "*"]
+[FEN "1rbqk2r/4npb1/ppnp2p1/2p1p3/P1P1PPPp/2NPB2P/1P2N1B1/R2QK2R w KQk - 0 1"]
+
+ ( { Should White advance with } 0... Re6 0. f5 { , or would they be better off keeping the central tension with } 1. O-O $2 ) 
+1. { -KEY- } f5 $1 { Correct! Here this move is very strong. The most important thing about this move is that it stops Black from playing ...exf4, which means that Black is left with a very passive dark-squared bishop. Unfortunately for Black, all of their minor pieces have now become very passive. } ( 1. O-O $6 { still keeps an objective advantage, but it does allow Black to ease some of the pressure by playing } exf4 $1 { when after } 2. Bxf4 Nd4 { Black has succeeded in exchanging not only one set of pawns, but is now forcing an exchange of a set of minor pieces. } ) 
+Nd4 { A natural move, attempting to exchange off a few pieces to try to ease some of the problems of having less space. } 2. O-O ( { The threat is } 2. O-O -- 3. f6 { next. } ) 
+Nec6 3. g5 $1 { Grabbing even more space! } Nxe2+ { Black continues their strategy of exchanging pieces. } ( 3... gxf5 $2 4. exf5 { and now the pawn on f5 cannot be captured, because of the pressure against the knight on c6. After } Bxf5 5. Bxc6 Nxc6 6. Rxf5 $18 { White emerges up a full piece. } ) 
+4. Qxe2 Nd4 5. Qf2 $18 { It is no exaggeration to say that White is already objectively winning. Black's bishops both remain passive, while White has a devastating attack on the kingside. To add insult to injury, the pawn on h4 is a constant problem that prevents Black from being able to castle short. The only black piece that 'looks good' is the knight on d4, but even here White has arranged their pieces very well and effectively neutralized its influence on the game. This example is a typical one, and a good illustration of how quickly you can collapse your opponent's position when you grab space with many pieces still remaining on the board. This brings us to the end of this section. In the next section, we'll expand on the coverage of the space advantage, and introduce several typical techniques that you can aim for when you are the side with more space. } 
+ *

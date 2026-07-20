@@ -1,0 +1,250 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12667799/"]
+[Date "????.??.??"]
+[Round "50.1"]
+[White "7.4 Pawn Exchanges"]
+[Black "Pawn exchanges"]
+[Result "*"]
+
+ ( { While piece exchanges generally favour the stronger side, with pawn exchanges it is the other way around - the fewer number of pawns on the board, the higher the probability of a draw. One way to explain this phenomenon is that the attacker has fewer fronts to work on; another that theoretical draws (rook and knight vs. rook, for example) are more likely to emerge when there are few pawns left on the board. As a consequence, swapping pawns is an excellent defensive idea on most occasions, one that we are already acquainted with from Karpov-Korchnoi ( } 4. h3 f5 { ) and Ponomariov-Korchnoi ( } h6 { ), among others.Conversely, the attacker should usually avoid pawn exchanges, a principle that we saw being applied in Barhudarian-Rozentalis ( } g5 { ), Onischuk-Salov ( } h5 { ), Karpov-Ribli ( } 5. b3 { ), and others. Even so, there do exist cases where the attacker is happy to realize a specific pawn exchange, seeing that its benefits outweigh the fact that fewer pawns remain. We saw two such cases in Van Wely-Kramnik ( } a5 { ) and Pelletier-Dreev ( } e5 { ). Likewise, the defender could - on rare occasions - avoid a pawn exchange if there exists a good reason for doing so, as we saw in Fressinet-Kraemer ( } Kg4 { ). Here are some further examples which feature all four cases. } ) 
+1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652551/"]
+[Date "????.??.??"]
+[Round "50.2"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 458- Skripchenko- A. vs. Vasilevich- I.- Russian Team Championship 2006"]
+[Result "1/2-1/2"]
+[FEN "8/5pk1/6p1/4P2p/5P2/6P1/4r2P/5R1K b - - 0 1"]
+
+ { If Black stays passive, then White could improve her position by Kg1, Rf2, Kg2, Re2, Kf2, Re3 and so on. Even then Black would have excellent drawing chances, but Vasilevich found a much simpler solution. } 1... { -KEY- } f6 $1 { Swapping pawns. } 2. exf6+ Kxf6 3. Kg1 g5 $1 { In the same spirit. } 4. Rf2 Re1+ 5. Kg2 h4 $1 { This isn't the only way to the draw, but it's the simplest one. } 6. gxh4 gxf4 $1 7. Rxf4+ Kg6 { Obviously, the doubled rook's pawns are useless here. } 8. Ra4 Re3 9. Ra5 Kh6 10. Rg5 Ra3 11. Rg3 Ra4 12. Kh3 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652552/"]
+[Date "????.??.??"]
+[Round "50.3"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 459- Spirin- O. vs. Mista- A.- German League 2009"]
+[Result "1/2-1/2"]
+[FEN "8/8/8/1P1kp3/1R4P1/3K4/6r1/8 b - - 0 1"]
+
+ { At first sight Black's task doesn't seem that easy, but Mista finds a way to force a relieving pawn exchange. } 1... { -KEY- } e4+ $1 ( { a) Not } 1... Kc5 $2 2. b6 $1 ) 
+ ( { b) Or } 1... Rg3 $2 2. Kc2 Rg2 3. Kb3 Rg3 4. Ka4 ) 
+2. Rxe4 ( { Or } 2. Kc3 Rxg4 3. b6 Rg8 { etc. } ) 
+Rg3+ 3. Re3 Rxg4 4. Kc3 Kc5 5. Re5+ Kb6 6. Kb3 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652553/"]
+[Date "????.??.??"]
+[Round "50.4"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 460- Lautier- J. vs. Gurevich- M.- French Team Championship 2000"]
+[Result "1/2-1/2"]
+[FEN "8/p5pp/1r3k2/8/8/5P1P/1P1R2PK/8 b - - 0 1"]
+
+ { A pawn down in a position with play on both flanks is usually a matter of concern. How can Black change this scenario? } 1... { -KEY- } a5 $1 { Preparing ...Rb3 and ...a5-a4-a3 in order to swap pawns and reduce the battle to one single flank. Due to his passively placed king, White can't prevent this plan. } 2. g4 a4 3. Kg3 Rb3 4. h4 h6 5. h5 a3 $1 6. bxa3 Rxa3 7. Rd6+ Kf7 8. Kf4 { We saw a similar ending in Example 156 (Volkov-Rublevsky) in Chapter Three, where Black successfully applied a rear attack with his rook. In this game Gurevich will show an alternative defensive plan. } Rb3 9. Ke4 Rb4+ 10. Ke5 Rb5+ 11. Rd5 Rb7 $1 { A typical method. Black keeps the the vital seventh rank controlled by his rook, so that the king can stay on f7. Only when White's king moves away from his fellow pawns will the rook switch angle. } 12. f4 Re7+ 13. Kf5 Ra7 14. Rb5 ( { Here or later, the advance } 14. g5 { can be met by } hxg5 15. fxg5 g6 $1 16. hxg6 Kg7 { just like later on in the game. } ) 
+Re7 15. Rc5 Ra7 16. Rd5 Rb7 17. Ke4 Ke6 18. Re5+ Kf7 19. g5 { There is nothing better. } Rb4+ 20. Kf5 hxg5 21. fxg5 g6+ $1 { A nice defensive trick, one that is familiar to us from Example 164 (Erenburg-Ju). } 22. hxg6+ Kg7 23. Re7+ Kg8 24. g7 Rb6 25. Ra7 Rc6 26. Kg4 Rb6 27. Kh5 Rc6 28. g6 Rc7 $1 29. Rxc7 { Stalemate. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652574/"]
+[Date "????.??.??"]
+[Round "50.5"]
+[White "7.4 Pawn Exchanges"]
+[Black "Lautier- J. vs. Gurevich- M.- #1"]
+[Result "1/2-1/2"]
+[FEN "8/p5pp/1r3k2/8/8/5P1P/1P1R2PK/8 b - - 0 1"]
+
+ { A pawn down in a position with play on both flanks is usually a matter of concern. How can Black change this scenario? } 1... { -KEY- } a5 $1 { Preparing ...Rb3 and ...a5-a4-a3 in order to swap pawns and reduce the battle to one single flank. Due to his passively placed king, White can't prevent this plan. } 2. g4 a4 3. Kg3 Rb3 4. h4 h6 5. h5 a3 $1 6. bxa3 Rxa3 7. Rd6+ Kf7 8. Kf4 { We saw a similar ending in Example 156 (Volkov-Rublevsky) in Chapter Three, where Black successfully applied a rear attack with his rook. In this game Gurevich will show an alternative defensive plan. } Rb3 9. Ke4 Rb4+ 10. Ke5 Rb5+ 11. Rd5 Rb7 $1 { A typical method. Black keeps the the vital seventh rank controlled by his rook, so that the king can stay on f7. Only when White's king moves away from his fellow pawns will the rook switch angle. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652554/"]
+[Date "????.??.??"]
+[Round "50.6"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 461- Korchnoi- V. vs. Miles- A.- Baden-Baden 1981"]
+[Result "1/2-1/2"]
+[FEN "8/8/1r2p1p1/7p/4k3/6PK/7P/3R4 w - - 0 1"]
+
+ { White is in evident danger - Black's extra pawn on e6 is ready to move forward, supported by his active king. } 1. { -KEY- } g4 $1 { Freeing the king and reducing the number of pawns on the board. } Rb3+ ( { Less is achieved by } 1... Kf4 2. Rf1 ) 
+2. Kh4 hxg4 3. Kxg4 e5 4. h4 $1 { White starts fighting for a passed pawn of his own. } Rb2 5. Re1+ Kd5 6. Kg5 Rb6 ( { Or } 6... Rg2 7. Kf6 e4 8. Rd1 Kc4 9. Ke5 $1 e3 10. Ke4 e2 11. Rc1 { with a draw - Miles. After the text White no longer has the f6-square for the king, but Korchnoi finds another solution. } ) 
+7. h5 $1 { A great move, in order to swap the h-pawn for... the e-pawn! } gxh5 8. Kf5 $1 Rb5 9. Rxe5+ Kc4 10. Rxb5 Kxb5 11. Kg5 Ka5 12. Kxh5 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652555/"]
+[Date "????.??.??"]
+[Round "50.7"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 462- Sutovsky- E. vs. Rozentalis- E.- Ashdod 2004"]
+[Result "1/2-1/2"]
+[FEN "8/4kpp1/7p/1p2PP2/2r3P1/2PRK2P/8/8 b - - 0 1"]
+
+ { Thanks to his active rook Black is quite safe here, despite being a pawn down. However, it is not easy to find a solid move for him. } 1... { -KEY- } g6 $1 { Looking for pawn exchanges on the kingside. } ( { a) If } 1... Ra4 $6 2. Rd5 ) 
+ ( { b) Or } 1... Ke8 2. f6 $1 gxf6 3. exf6 Rc6 4. Ke4 Rxf6 5. Rd5 { and White keeps the pressure. Rozentalis comes up with a better solution. } ) 
+ ( { c) Interestingly, going for pawn exchanges on the opposite flank with } 1... b4 $6 { is less advisable here, since Black would lose his target on c3 and let White's rook activate itself after } 2. cxb4 Rxb4 3. Ra3 { In such a rook ending with a four vs. three pawns on one flank, the current black kingside structure is far from the ideal f7-g6-h5 chain that we saw inExample 458 (Skripchenko-Vasilevich), among others. } ) 
+2. fxg6 ( { Or } 2. Kf3 h5 $1 { insisting on the idea; e.g. } 3. Kg3 hxg4 4. hxg4 gxf5 5. gxf5 Re4 6. Rd5 b4 { and Black should make a draw - Sutovsky. } ) 
+fxg6 3. Kd2 b4 $1 { Now that White's pawn structure has deteriorated, the moment is right for a battle on one single flank. } 4. cxb4 Rxb4 5. Rd6 h5 $1 { In the same spirit as before, reducing the number of pawns on the board. } 6. Rxg6 hxg4 7. hxg4 ( { Obviously, } 7. Rxg4 Rxg4 8. hxg4 Ke6 { is nothing. } ) 
+Re4 $1 8. Rg5 Ke6 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652556/"]
+[Date "????.??.??"]
+[Round "50.8"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 463- Iotov- V. vs. Nikolov- M.- Bulgarian Championship- Plovdiv 2008"]
+[Result "*"]
+[FEN "5k2/6p1/1R5p/5P2/7P/8/1p1r1PK1/8 w - - 0 1"]
+
+ { Despite the material balance Black is better here due to his dangerous passed pawn, and now plans to assist it with his king. White's next move suggests itself. } 1. { -KEY- } f6 $1 { Swapping pawns and creating a passed pawn of his own on f2. } gxf6 ( { Obviously, after } 1... g6 $2 2. Rb7 { Black's king becomes too restricted. } ) 
+2. Rxf6+ Ke7 3. Rb6 Kd7 4. Kf3 $1 { The king initiates a direct attack on the b2-pawn. } ( { Instead, the game went } 4. Kg3 $2 Kc7 5. Rb4 Kc6 6. f4 Kc5 7. Rb8 Kc4 8. Rc8 Kd3 9. Rb8 Kc2 10. Rc8 Kd1 11. Rb8 Kc1 12. Kg4 b1=Q $11 13. Rxb1 Kxb1 { (note that without the h-pawns on the board, this would be a draw) } 14. f5 Rd6 $1 ( { not } 14. Kf3 Rf2 $2 15. Kh5 $1 ) 
+15. Kf4 Rd4 { and White resigned. } ) 
+Kc7 5. Rb4 ( { Of course not } 5. Rb3 $2 Rd3 ) 
+Kc6 6. Ke3 Rc2 7. Kd3 $1 Rxf2 8. Kc3 Kd5 9. Rxb2 Rxb2 10. Kxb2 { Draw - Baburin. On the other hand, note that if there was another pair of pawns left on the kingside in the final position, Black would win automatically. In Baburin's words: 'reducing pawn material always helps the defender!' } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652557/"]
+[Date "????.??.??"]
+[Round "50.9"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 464- Hellsten- J. vs. Vescovi- G.- World Junior Championships- Halle 1995"]
+[Result "*"]
+[FEN "8/2p4k/p2p2pp/2PP4/1P6/5r2/7P/1R5K w - - 0 1"]
+
+ { White is a pawn down, but it is easy to see that if the queenside pawns leave the board, then the ensuing rook and two pawns vs. rook and pawn ending should be an elementary draw. Thus his next move suggests itself. --- } 1. { -KEY- } cxd6 $1 { Speeding up the pawn exchanges before Black's king enters the battle. } ( { a) In the game I opted instead for the over-optimistic } 1. c6 $2 { completely missing the strong reply } Kg7 $1 { Now Black's active king tips the balance in his favour. There followed } 2. Ra1 Kf6 $1 3. Rxa6 Ke5 4. Ra7 Rf7 5. Ra5 { (very passive) } ( { but } 5. b5 Kxd5 6. b6 { failed to } Kxc6 7. b7 Rf1 $1 8. Kg2 Rb1 { etc. } ) 
+Kd4 $1 { (the king continues his raid on the enemy pawns) } 6. Kg2 Kc4 7. Ra8 Kxd5 8. b5 Kc5 9. Rd8 Kxb5 10. Rd7 Rf6 11. Rxc7 d5 12. Rh7 Kxc6 13. Rxh6 d4 { (despite the reduced material Black wins easily, thanks to the cut-off enemy king) } 14. Rh8 d3 15. Rd8 Rd6 16. Rc8 Kb5 17. Rb8 Kc4 18. Rc8 Kb3 19. Rb8 Kc2 20. Rc8 Kd1 21. Kf2 d2 22. Rc7 Rf6 23. Kg2 Rf5 $1 { and White resigned in view of the imminent bridge. Indeed, impressive work by Black's king, and we will see more of the active king theme in the next chapter. } ) 
+ ( { b) On the other hand, } 1. Ra1 { is also possible; e.g. } Rd3 2. Rxa6 dxc5 3. Rc6 $1 cxb4 4. Rxc7 Kg8 5. Rb7 b3 6. d6 Kf8 7. Rb8 Kf7 8. d7 Ke7 9. d8=Q Rxd8 10. Rxb3 { with similar play as in the main line. } ) 
+cxd6 2. Ra1 { Continuing with the policy of pawn exchanges. } Rd3 3. Rxa6 Rxd5 4. b5 { Simplest, in order to exchange the last pair of queenside pawns before Black's king manages to protect the d-pawn, as occurred in the game. } Kg7 5. b6 Rb5 6. b7 d5 7. Rd6 Rxb7 8. Rxd5 { Such a rook ending is drawn without too much effort, and we just saw a similar case with an extra pair of pawns in Example 460 (Lautier-Gurevich). Note that the mutual rook's pawns favour White's cause, since the black king has only one side from which he can assist the pawns; besides, a future passed pawn on the g- or h-file would be less powerful than a similar one on the f- or e-file. } Rb2 ( { Otherwise White could play } 8... Rb2 8. Rd2 -- { and } 10. Kg2 { , similar to Lautier-Gurevich. } ) 
+9. Kg1 { With a waiting game. White holds. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652558/"]
+[Date "????.??.??"]
+[Round "50.10"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 465- Kasparov- G. vs. Karpov- A.- World Championship (2nd match game)- London/Leningrad 1986"]
+[Result "*"]
+[FEN "1r1nb3/1p2kpp1/p3p2p/4N3/1P2B3/P1R3P1/3KPP1P/8 b - - 0 1"]
+
+ { Naturally, the idea of swapping pawns isn't limited to rook endings. Here is an example that features a different type of ending.White has a slight initiative, and next he could consider Nd3-c5, stepping up the pressure on the queenside. } 1... { -KEY- } a5 $1 { A timely pawn exchange in order to create activity and get rid of a possible weakness. } ( { In contrast, the game went } 1... f6 $6 2. Nd3 Bc6 3. Bxc6 Nxc6 4. Nc5 Ne5 5. f4 Nd7 6. Nb3 $1 { (avoiding a rook ending) } Kd6 7. e4 g5 8. Ke3 { with some advantage for White, although the game was drawn in the end. } ) 
+2. f4 $5 ( { After } 2. bxa5 Ra8 3. Rc5 ( { or } 3. Nc4 Bb5 ) 
+Kd6 4. Nd3 Bc6 $1 { the a5-pawn soon falls - Kasparov. } ) 
+axb4 3. axb4 Nc6 $1 { In the same spirit of reducing the number of pawns. } 4. Bxc6 $1 ( { Or } 4. Nxc6 Bxc6 5. Bxc6 bxc6 { and the game gets even closer to a draw. } ) 
+bxc6 ( { Of course not } 4... Bxc6 $4 5. Rxc6 $1 ) 
+5. Nd3 ( { White is slightly better - Kasparov; although after } 5. Nd3 Ra8 { with an active rook and few weaknesses to worry about, Black should still have excellent chances for a draw. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652559/"]
+[Date "????.??.??"]
+[Round "50.11"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 466- Sandipan- C. vs. Hebert- J.- Cappelle la Grande 2010"]
+[Result "1-0"]
+[FEN "8/2K1P3/8/6pp/b7/6Pk/1B5P/8 w - - 0 1"]
+
+ { Next, let's see two examples where the stronger side avoided pawn exchanges and was duly favoured by the greater number of pawns on the board.White should be winning, but how to neutralize Black's counterattack on the kingside? } 1. { -KEY- } Be5 $1 { Indirectly avoiding the exchange of the last kingside pawn. After the text Black instead resigned; let's see a possible continuation: } ( { In contrast, the straightforward } 1. Kd8 $2 Kxh2 2. Be5 Kh3 3. e8=Q $11 Bxe8 4. Kxe8 h4 ) 
+g4 ( { Obviously, } 1... Kxh2 { runs into } 2. g4 { - Baburin. } ) 
+2. Bf6 $1 Kxh2 3. Bh4 ( { The g3-pawn is now protected against exchanges, so White wins easily by } 4. Kd8 { next. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652560/"]
+[Date "????.??.??"]
+[Round "50.12"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 467- Ponomariov- R. vs. Leko- P.- Dortmund 2010"]
+[Result "1-0"]
+[FEN "1r6/8/P4k1p/K5p1/R6P/8/8/8 w - - 0 1"]
+
+ { White is on the verge of winning, but a correct decision at this moment is essential. } 1. { -KEY- } h5 $1 { A greater number of pawns will slow down Black's kingside counterplay. } ( { a) In contrast, } 1. hxg5 $2 hxg5 ) 
+ ( { b) Or } 1. a7 $2 Ra8 2. Kb6 gxh4 { would lead to a draw - Baburin. } ) 
+Rg8 2. a7 g4 3. Kb6 $1 ( { Ponomariov avoids a fortress scenario after } 3. Rxg4 $6 Rxg4 4. a8=Q $11 Rg5 5. Kb6 Rxh5 ) 
+Kg5 ( { Or } 3... g3 4. a8=Q $11 Rxa8 5. Rxa8 Kg5 6. Rg8 Kf4 7. Rg6 { and wins - Postny. } ) 
+4. a8=Q Rxa8 5. Rxa8 Kxh5 6. Kc5 $1 { King first. } Kg5 7. Kd4 Kf4 8. Kd3 Kf3 9. Rf8+ Kg2 10. Ke2 g3 ( 10... h5 11. Rh8 { is just as hopeless. } ) 
+11. Rh8 Kg1 12. Kf3 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12652561/"]
+[Date "????.??.??"]
+[Round "50.13"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 468- Atalik- E. vs. Guramishvili- S.- Turkish Team Championship 2011"]
+[Result "1-0"]
+[FEN "8/8/1r4k1/6p1/1p2R1P1/1P2K3/5P2/8 w - - 0 1"]
+
+ { Here is one of those rare cases where the exchange of pawns doesn't favour the defender, but the attacker.An extra pawn, play on two flanks, and a more active rook - White should be winning, but how to progress? } 1. { -KEY- } f4 $1 { Unworried about the reduced number of pawns, Atalik creates a passed pawn and gets rid of a target on f2. } ( { Less practical was } 1. Kd4 Rf6 { ; e.g. } 2. Kc5 Rxf2 3. Rxb4 Rf3 { and White still has some work to do. } ) 
+gxf4+ 2. Kxf4 Kf6 3. Ke3 Rd6 ( { Black gives up the pawn, seeing that } 3... Kg5 4. Kd4 Rc6 5. Kd5 Rb6 6. Kc5 { would be terminal. } ) 
+4. Rxb4 Kg5 5. Rd4 $1 { This bridge will help the king to assist the b-pawn. } Rb6 6. b4 Rb7 7. Kd3 Rc7 8. b5 Rc1 9. Rb4 Rd1+ 10. Kc4 Kxg4 11. b6 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/25318658/"]
+[Date "????.??.??"]
+[Round "50.14"]
+[White "7.4 Pawn Exchanges"]
+[Black "Example 469- Kotronias- V. vs. Berg- E.- Stockholm 2007"]
+[Result "*"]
+[FEN "5r2/6k1/8/6pp/1p1R2P1/1P3p1P/P4K2/8 b - - 0 2"]
+
+ ( { In the previous example Black had no choice but to accept the exchange of pawns proposed by the opponent. Here, in contrast, he rejects it - an unusual decision but essential on this occasion.White is about to win a pawn - Black can't cover the b-pawn without losing track of the f3-pawn. It would seem natural to play } 1. b6 hxg4 { in the first place, reducing the total number of pawns on the board. However, Berg notices that the h-pawn will play a crucial role in his future counterplay. } ) 
+ { -KEY- } Ra8 $1 { Active defence. } 2. Rxb4 ( 2. gxh5 Kh6 { would let Black attack the h3-pawn very soon. } ) 
+ ( 2. Rd2 Rf8 { isn't productive for White either, when ...Rf4 turns up as an additional idea for Black. } ) 
+Rxa2+ 3. Kxf3 h4 $1 { The key move of this endgame, which secures a future target on h3. } ( { In contrast, accepting the pawn exchange with } 3... hxg4 $6 { would make Black's task more difficult after } 4. hxg4 { , followed by a king's transfer to the opposite flank - Furhoff. } ) 
+4. Ke4 Rh2 5. Kf5 Rxh3 6. Kxg5 { A pawn exchange was effected after all - but rather in Black's favour, thanks to the counterplay provided by the passed h-pawn. } Rh1 7. Rb7+ Kf8 8. Kg6 Re1 $1 { Berg intends to swap the h-pawn for White's b-pawn in order to save himself in a rook and pawn vs. rook ending. } ( { Inferior was } 8... h3 $2 9. g5 h2 10. Rb8 Ke7 11. Rh8 $1 Kd6 12. Rh5 Kc5 13. Kh6 Kb4 14. g6 { etc. } ) 
+9. Rf7+ ( { a) After } 11. Rh7 Re6 12. Kg5 Rb6 ) 
+ ( { b) Or } 11. g5 Re7 $1 12. Rb4 Re6 $1 13. Kf5 Re3 14. Rxh4 Rxb3 15. Kg6 Kg8 { , Black achieves his goal. } ) 
+Kg8 10. Rf3 Rg1 $1 11. Kg5 ( { On } 11. g5 { , Black had } Rg3 $1 { prepared. } ) 
+Rh1 $1 { With the king temporarily out of danger, the moment is right to bet on the passed pawn. } 12. Kh5 ( { Or } 12. b4 h3 13. b5 h2 14. Rh3 Rb1 15. Rxh2 Rxb5 ) 
+h3 13. Kh4 h2 14. Kh3 Rg1 $1 15. Kxh2 Rxg4 16. Kh3 ( { After } 16. Rg3 Rxg3 17. Kxg3 Kf7 ( { and } 17. Kh3 Kg7 { with remote opposition is also possible. } ) 
+18. Kf3 Ke7 19. Ke3 Kd7 20. Kd3 Kc7 21. Kc3 Kb7 $1 { Black draws - Furhoff. } ) 
+Rg7 { Interestingly, both kings are now cut off. } 17. Rf4 Rb7 $1 { Anticipating a pawn ending, Berg provokes b3-b4, which will leave the related key squares at a greater distance from White's king. } 18. b4 Rf7 $1 { We are familiar with such bridges from Chapter Three. } 19. Rc4 ( { Or } 19. Kg4 Rxf4 20. Kxf4 Kf8 $1 { with a draw, now that the b-pawn has left b3. } ) 
+Kf8 20. Kg4 Ke8 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/25318625/"]
+[Date "????.??.??"]
+[Round "50.15"]
+[White "7.4 Pawn Exchanges"]
+[Black "Kotronias- V. vs. Berg- E.- #1"]
+[Result "*"]
+[FEN "5r2/6k1/8/6pp/1p1R2P1/1P3p1P/P4K2/8 b - - 0 2"]
+
+ ( { In the previous example Black had no choice but to accept the exchange of pawns proposed by the opponent. Here, in contrast, he rejects it - an unusual decision but essential on this occasion.White is about to win a pawn - Black can't cover the b-pawn without losing track of the f3-pawn. It would seem natural to play } 1... hxg4 { in the first place, reducing the total number of pawns on the board. However, Berg notices that the h-pawn will play a crucial role in his future counterplay. } ) 
+ { -KEY- } Ra8 $1 { Active defence. } 2. Rxb4 ( 2. gxh5 Kh6 { would let Black attack the h3-pawn very soon. } ) 
+ ( 2. Rd2 Rf8 { isn't productive for White either, when ...Rf4 turns up as an additional idea for Black. } ) 
+Rxa2+ 3. Kxf3 h4 $1 { The key move of this endgame, which secures a future target on h3. } ( { In contrast, accepting the pawn exchange with } 3... hxg4 $6 { would make Black's task more difficult after } 4. hxg4 { , followed by a king's transfer to the opposite flank - Furhoff. } ) 
+4. Ke4 Rh2 5. Kf5 Rxh3 6. Kxg5 { A pawn exchange was effected after all - but rather in Black's favour, thanks to the counterplay provided by the passed h-pawn. } Rh1 7. Rb7+ Kf8 8. Kg6 Re1 $1 { Berg intends to swap the h-pawn for White's b-pawn in order to save himself in a rook and pawn vs. rook ending. } ( { Inferior was } 8... h3 $2 9. g5 h2 10. Rb8 Ke7 11. Rh8 $1 Kd6 12. Rh5 Kc5 13. Kh6 Kb4 14. g6 { etc. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/25318678/"]
+[Date "????.??.??"]
+[Round "50.16"]
+[White "7.4 Pawn Exchanges"]
+[Black "Kotronias- V. vs. Berg- E.- #2"]
+[Result "*"]
+[FEN "5k2/1R6/6K1/8/6Pp/1P6/8/4r3 w - - 5 9"]
+
+9. { -KEY- } Rf7+ ( { a) After } 11. Rh7 Re6 12. Kg5 Rb6 ) 
+ ( { b) Or } 11. g5 Re7 $1 12. Rb4 Re6 $1 13. Kf5 Re3 14. Rxh4 Rxb3 15. Kg6 Kg8 { , Black achieves his goal. } ) 
+Kg8 10. Rf3 Rg1 $1 11. Kg5 ( { On } 11. g5 { , Black had } Rg3 $1 { prepared, whereas after } 11. Kg5 { , } Rg3 { is refuted by } 12. Kf4 $1 { in the spirit of "trading on our terms". } ) 
+Rh1 $1 { With the king temporarily out of danger, the moment is right to bet on the passed pawn. } 12. Kh5 ( { Or } 12. b4 h3 13. b5 h2 14. Rh3 Rb1 15. Rxh2 Rxb5 ) 
+h3 13. Kh4 h2 14. Kh3 Rg1 $1 15. Kxh2 Rxg4 16. Kh3 ( { After } 16. Rg3 Rxg3 17. Kxg3 Kf7 ( { and } 17. Kh3 Kg7 { with remote opposition is also possible. } ) 
+18. Kf3 Ke7 19. Ke3 Kd7 20. Kd3 Kc7 21. Kc3 Kb7 $1 { Black draws - Furhoff. } ) 
+Rg7 { Interestingly, both kings are now cut off. } 17. Rf4 Rb7 $1 { Anticipating a pawn ending, Berg provokes b3-b4, which will leave the related key squares at a greater distance from White's king. } 18. b4 Rf7 $1 { We are familiar with such bridges from Chapter Three. } 19. Rc4 ( { Or } 19. Kg4 Rxf4 20. Kxf4 Kf8 $1 { with a draw, now that the b-pawn has left b3. } ) 
+Kf8 20. Kg4 Ke8 
+ *

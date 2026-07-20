@@ -1,0 +1,649 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12642540/"]
+[Date "????.??.??"]
+[Round "43.1"]
+[White "6.1 Zugzwang"]
+[Black "Zugzwang"]
+[Result "*"]
+
+ { The importance of zugzwang in the final phase of the game can hardly be exaggerated. For example, if it wasn't for the obligation to move, endings such as king and rook vs. king would always be drawn, and concepts such as opposition would lose their sense. In the earlier chapters we saw many cases of zugzwang; e.g. Averbakh-Matanovic, Sunye-Velimirovic, Barhudarian-Rozentalis and Van Wely-Kramnik. Here are some more. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641857/"]
+[Date "????.??.??"]
+[Round "43.2"]
+[White "6.1 Zugzwang"]
+[Black "Example 330- Pelletier- Y. vs. Galkin- A.- Biel 2000"]
+[Result "0-1"]
+[FEN "8/8/4p3/3kb3/6PP/8/5PK1/8 b - - 0 1"]
+
+ { In such endings with a bishop against pawns on the same flank, a main weapon for the stronger side is the gradual use of zugzwang. Of course he should also be on his guard against pawn exchanges. } 1... { -KEY- } Ke4 $1 { King first! } ( 1... Bf6 $6 2. g5 { would be less technical. } ) 
+2. f3+ ( { Or } 2. g5 Kf4 3. g6 Kg4 { and the pawns fall by themselves. } ) 
+Ke3 3. g5 { Lacking better options, White has to expose his pawns. } Kf4 4. Kf2 ( { Again, } 4. g6 Kf5 5. h5 { makes no sense for White in view of } Bg7 $1 { , but not } Kg5 $4 6. f4 $1 { on the topic of deflection. } ) 
+Bh8 $1 { The bishop is an excellent executer of the zugzwang, as we already saw in Example 54 (Hellsten-Fernandez), among others. } 5. Ke2 ( { Or } 5. Kg2 Bd4 $1 6. g6 Kf5 7. Kh3 Kxg6 8. Kg4 Bf6 { and Black wins comfortably; e.g. } 9. h5 Kh6 10. f4 Be7 11. f5 e5 ) 
+Kg3 ( { There could have followed } 5... Kg3 6. Ke3 Kxh4 7. f4 Kg4 8. Ke4 Bg7 $1 { (zugzwang) } 9. Ke3 Kf5 10. Kf3 Bf8 { followed by ...Bd6xf4. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13882943/"]
+[Date "????.??.??"]
+[Round "43.3"]
+[White "6.1 Zugzwang"]
+[Black "Example 331- Pytel- B. vs. Mozna Hojdarova- E.- Hungary 1969"]
+[Result "1-0"]
+[FEN "4b3/8/p6p/1p1pk3/1P4pP/P1PBK1P1/8/8 w - - 0 1"]
+
+ { Despite Black's active king, White has a serious advantage here thanks to her superior bishop. Pytel now starts some subtle manoeuvring with this piece, in which zugzwang plays a key role. We saw a similar endgame in Example 22 (Averbakh-Matanovic) in Chapter One. } 1. { -KEY- } Be2 Bd7 ( { On } 1... h5 { there would follow } 2. Bd3 Bf7 3. Bh7 $1 { (losing a tempo) } Be8 4. Bc2 Bf7 5. a4 $1 { with similar play as in the game. } ) 
+2. Bd1 $1 { An initial zugzwang - Black has to allow a3-a4. } Be6 ( 2... h5 { is much the same thing as the previous note. } ) 
+3. a4 $1 { A new weakness is established on b5. } Bd7 ( { After } 3... bxa4 4. Bxa4 { the a6-pawn becomes a decisive weakness; e.g. } Bf5 5. Bd1 Bd7 6. Be2 Bc8 7. h5 $1 { (zugzwang) } Kf5 8. Kd4 Bb7 9. Bf1 { (again) } Kg5 10. Ke5 { and wins - Muller, since } Kxh5 11. Kf6 -- { and } 12. Bd3 { is terminal. } ) 
+4. axb5 axb5 5. Be2 $1 { Again zugzwang, this time with the purpose of provoking ...h6-h5. } h5 6. Bf1 Bc6 7. Bd3 Be8 8. Bc2 Bf7 9. Bh7 $1 { Losing a tempo, one of the bishop's specialties in the endgame. } Be8 10. Bd3 { Another zugzwang. With the bishop tied to both b5 and g6, Black finally has to move her king. } Ke6 ( { Or } 10... d4 11. cxd4 Kd5 12. Bf1 Bd7 13. Kd3 Bf5 14. Kc3 Bd7 15. Bg2 Ke6 16. Be4 { and wins - Muller. } ) 
+11. Kd4 Kd6 12. Bf5 Bf7 13. Bh7 $1 { The idea is repeated. } Be8 ( { If } 13... Ke6 { then } 14. Kc5 Ke5 15. Bd3 $1 { - Muller. } ) 
+14. Bg8 $1 ( { a) In view of } 14. Bg8 Bc6 15. Bf7 { Black resigned. } ) 
+ ( { b) By the way, } 14. Bd3 { with a fourth zugzwang was possible too. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641858/"]
+[Date "????.??.??"]
+[Round "43.4"]
+[White "6.1 Zugzwang"]
+[Black "Pytel- B. vs. Mozna Hojdarova- E.- #1"]
+[Result "1-0"]
+[FEN "4b3/8/p6p/1p1pk3/1P4pP/P1PBK1P1/8/8 w - - 0 1"]
+
+ { Despite Black's active king, White has a serious advantage here thanks to her superior bishop. Pytel now starts some subtle manoeuvring with this piece, in which zugzwang plays a key role. We saw a similar endgame in Example 22 (Averbakh-Matanovic) in Chapter One. } 1. { -KEY- } Be2 Bd7 ( { On } 1... h5 { there would follow } 2. Bd3 Bf7 3. Bh7 $1 { (losing a tempo) } Be8 4. Bc2 Bf7 5. a4 $1 { with similar play as in the game. } ) 
+2. Bd1 $1 { An initial zugzwang - Black has to allow a3-a4. } Be6 ( 2... h5 { is much the same thing as the previous note. } ) 
+3. a4 $1 { A new weakness is established on b5. } Bd7 ( { After } 3... bxa4 4. Bxa4 { the a6-pawn becomes a decisive weakness; e.g. } Bf5 5. Bd1 Bd7 6. Be2 Bc8 7. h5 $1 { (zugzwang) } Kf5 8. Kd4 Bb7 9. Bf1 { (again) } Kg5 10. Ke5 { and wins - Müller, since } Kxh5 11. Kf6 { and 12 Bd3 is terminal. } ) 
+4. axb5 axb5 5. Be2 $1 { Again zugzwang, this time with the purpose of provoking ...h6-h5. } h5 6. Bf1 Bc6 7. Bd3 Be8 8. Bc2 Bf7 9. Bh7 $1 { Losing a tempo, is one of the bishop's specialties in the endgame. } ( 9. Bb1 { in the same spirit, waiting for Black to commit the bishop to e8 before playing Bd3, would have worked as well. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641940/"]
+[Date "????.??.??"]
+[Round "43.5"]
+[White "6.1 Zugzwang"]
+[Black "Pytel- B. vs. Mozna Hojdarova- E.- #2"]
+[Result "1-0"]
+[FEN "8/5b1B/8/1p1pk2p/1P4pP/2P1K1P1/8/8 b - - 0 9"]
+
+9... { -KEY- } Be8 10. Bd3 { Another zugzwang. With the bishop tied to both b5 and g6, Black finally has to move her king. } Ke6 ( { Or } 10... d4 11. cxd4 Kd5 12. Bf1 Bd7 13. Kd3 Bf5 14. Kc3 Bd7 15. Bg2 Ke6 16. Be4 { and wins - Müller. } ) 
+11. Kd4 Kd6 12. Bf5 Bf7 13. Bh7 $1 { The idea is repeated. } Be8 ( { If } 13... Ke6 { then } 14. Kc5 Ke5 15. Bd3 $1 { - Müller. } ) 
+14. Bg8 $1 ( { a) In view of } 14. Bg8 Bc6 15. Bf7 { Black resigned. } ) 
+ ( { b) By the way, } 14. Bd3 { with a fourth zugzwang was possible too. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641859/"]
+[Date "????.??.??"]
+[Round "43.6"]
+[White "6.1 Zugzwang"]
+[Black "Example 332- Carlsen- M. vs. Pelletier- Y.- Biel 2008"]
+[Result "1-0"]
+[FEN "5k2/8/1p4p1/bKpB1p2/P4P1P/1P4P1/8/8 w - - 0 1"]
+
+ { An extra pawn often doesn't suffice for victory when there are opposite-coloured bishops, but here Black has been forced to misplace his bishop to save the b6-pawn. Carlsen proceeded with subtlety. } 1. { -KEY- } Bc4 $1 { Looking for zugzwang. } ( { In contrast, the tempting } 1. b4 $6 cxb4 2. Bb3 Ke7 3. Kc6 Kf6 4. Kd6 Kg7 5. Ke7 { fails to } b5 $1 6. axb5 Bb6 { - Baburin, when the bishop manages to capture the pawns on g3 and f4 before sacrificing itself for the b-pawn, with a theoretical draw. } ) 
+Ke7 $2 ( { The active } 1... Kg7 $1 { heading for h6 would have been a better option, as noticed by ex_IM. In this way, Black neutralizes the h4-h5 break which will play a key role in the game, while also creating the potential threat of ...Kh5-g4. For instance, } 2. Kc6 Kh6 3. Be2 Kg7 4. Kd5 { (4.h5 or 4.g4 doesn't yield much either, since after further pawn trades, just one passed pawn emerges on the kingside, which is easily blocked by Black's king) } Be1 5. Bf3 Kh6 $1 { , waiting for White's king to move towards the e-file before taking on g3. } ) 
+2. Kc6 Kf6 3. Bd3 $1 { Zugzwang - any black move now has a clear defect. } Kf7 ( { If } 3... Ke6 { then } 4. g4 $1 fxg4 ( { or } 4... Kf6 5. gxf5 gxf5 6. h5 { etc } ) 
+5. Bxg6 Kf6 ( { after } 5... g3 6. Be4 Kf6 7. h5 Kg7 8. f5 Kg8 9. Bd5 Kg7 10. Kb7 { Black is in zugzwang } ) 
+6. Be4 Kg7 7. Kb5 $1 { (zugzwang) } Kh6 8. f5 g3 9. Kc6 Kh5 10. Bf3 $1 Kh6 11. Kb5 Kh7 12. h5 Kg7 13. Bd5 $1 { with a final, decisive zugzwang - Baburin. With the text move 3...Kf7 Black avoids such a breakthrough, but allows a different one. } ) 
+4. h5 $1 gxh5 5. Bxf5 Kf6 6. Be4 { At this point, the black bishop must have been dreaming of changing places with the c5-pawn. } Kg7 7. Bf3 Kh6 8. Kb5 Kg6 9. Bd1 $1 ( { Seeing that } 9. Bc6 $6 { permits } Kf5 { intending ...h5-h4, Carlsen loses a tempo in order to reach the same position with Black to move. } ) 
+Kh6 10. Be2 Kg6 11. Bf3 Kh6 12. Bc6 $1 ( { After } 12. Bc6 Kg6 13. Be8 Kh6 14. Bf7 { the fate of the h5-pawn is sealed, so Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641860/"]
+[Date "????.??.??"]
+[Round "43.7"]
+[White "6.1 Zugzwang"]
+[Black "Example 333- Salov- V. vs. Byrne- R.- Reykjavik 1986"]
+[Result "1/2-1/2"]
+[FEN "6k1/8/8/p4RN1/r4P1P/5K2/3b4/8 w - - 0 1"]
+
+ ( { Due to its particular way of moving the knight can't lose a tempo, a fact that prevented the stronger side from winning in the next example.Here White should have played } 1. Ne4 { with a decisive advantage - Salov; however, he forgot about the singular nature of the knight, and allowed a drawing combination. } ) 
+1. { -KEY- } h5 $2 Rxf4+ $1 2. Rxf4 Bxf4 3. Kxf4 a4 4. Ne4 a3 5. Nc3 Kh7 6. Kg5 Kg7 7. h6+ Kg8 $1 ( { a) Of course not } 7... Kh8 $4 8. Kg6 Kg8 9. h7 Kh8 10. Ne4 a2 11. Ng5 a1=Q $11 12. Nf7 ) 
+ ( { b) After } 7... Kg8 { White instead agreed to a draw, seeing that } 8. Kg6 Kh8 { reaches a position of mutual zugzwang - Black to play loses, while White to play only draws, and unfortunately there is no way that he can lose that tempo. Incidentally, the whole example also shows the knight's limitations when there is a battle on two flanks. } ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641861/"]
+[Date "????.??.??"]
+[Round "43.8"]
+[White "6.1 Zugzwang"]
+[Black "Example 334- Goletiani- R. vs. Klinova- M.- Istanbul Olympiad 2012"]
+[Result "1-0"]
+[FEN "5k2/8/5K2/8/4R2p/7P/5b2/8 w - - 0 1"]
+
+ { Just like the bishop, the rook is excellent at making waiting moves, a fact highlighted when giving mate with king and rook vs. king, for instance. Here are some further examples. } 1. { -KEY- } Re2 $1 ( { Black to move loses, since } 1. -- Bg3 ( { and } 1. Re2 Kg8 { fails to } 2. Kg6 Kf8 3. Rf4 ) 
+2. Kg6 { leaves her without good moves. Thus White should just lose a tempo. } ) 
+Bg3 2. Re3 Bf2 3. Re4 { Mission accomplished. } Bg3 ( { Or } 3... Bc5 4. Ra4 Be7 5. Ke6 Bc5 6. Rxh4 { and wins - Baburin. } ) 
+4. Kg6 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641862/"]
+[Date "????.??.??"]
+[Round "43.9"]
+[White "6.1 Zugzwang"]
+[Black "Example 335- Lestari- B. vs. Kharashuta- E.- Zürich 2010"]
+[Result "0-1"]
+[FEN "8/8/4pk2/8/1r2P2R/1p6/1K6/8 b - - 0 1"]
+
+ { Black found an elegant way of converting her material and positional plusses into victory. } 1... { -KEY- } Ke5 ( { Also possible is } 1... Kg5 2. Rh1 Kf4 $1 { with similar play. } ) 
+2. Rh5+ Kd4 { The e4-pawn is obviously poisoned, both here and later. } 3. Rh6 ( { Or } 3. e5 Rb6 4. Rg5 Ke4 5. Rh5 Kf4 { with zugzwang; e.g. } 6. Kc1 b2 7. Kb1 Rb8 $1 { and White finally loses the pawn - Baburin. } ) 
+e5 4. Rh5 Rb8 5. Rh4 Rb6 $1 { A waiting move to force the enemy rook to come closer. } ( { Another possible move order was } 5... Ke3 6. Rg4 Kf3 7. Rh4 Rb7 { (7...Rb6, 7...Rb5 etc.) in the same spirit. Obviously, other rook moves along the b-file such as } Rb7 { work as well. } ) 
+6. Rg4 Ke3 $1 { The king will put an end to White's waiting moves with the rook. } 7. Rh4 Kf3 8. Kc1 b2+ 9. Kb1 Rb7 $1 { A final zugzwang, forcing White to give up the pawn. } 10. Rh2 Kxe4 11. Re2+ Kd4 12. Rd2+ Ke3 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641863/"]
+[Date "????.??.??"]
+[Round "43.10"]
+[White "6.1 Zugzwang"]
+[Black "Example 336- Pinter- G. vs. Singleton- M.- British League 2010"]
+[Result "*"]
+[FEN "8/7p/r5p1/P3pk2/R7/1K4P1/7P/8 w - - 0 1"]
+
+ { As seen in Barhudarian-Rozentalis, among others, one virtue of placing one's rook behind the passed pawn is the ability to make waiting moves with it, while the opponent can't do the same thing. Here is another case. } 1. { -KEY- } Kc4 $1 { White gets ready to assist the passed pawn by 2.Kb5, but also enables a second plan: bring the king to e3 and then wait for Black to run out of moves. } ( { Instead, the game went } 1. g4 $2 Kg5 { (now the black king has a clear target - Baburin) } 2. Kc4 e4 3. Kb5 Re6 4. a6 e3 5. a7 Re5 6. Kc6 Re8 7. a8=Q $11 Rxa8 8. Rxa8 Kxg4 { and was soon drawn. } ) 
+ ( 1. Kc3 { is less forcing, e.g. } h5 { (such space-gaining moves are rarely in vain) } 2. Kd3 Rd6 3. Ke3 Ra6 { followed by waiting moves with the king. Contrary to the main line, here it's more difficult for White to get at the e-pawn, which explains why the reply } e4 { is good news for them. } ) 
+e4 ( 1... h5 { now invites } 2. Kb5 { , when after } Ra8 3. a6 e4 4. Kc4 $1 Kg4 5. Kd4 Kf3 6. Ra3 { , White just makes it to eliminate the e-pawn without losing track of the a-pawn. } ) 
+2. Kd4 $1 ( { After } 2. Kb5 $2 Ra8 3. a6 e3 { Black again has counterplay. } ) 
+g5 ( { Or } 2... Rd6 3. Ke3 Ra6 4. h3 { in similar fashion. } ) 
+3. Ke3 g4 ( { In the event of } 3... h5 { one possible reply is } 4. h3 { avoiding pawn exchanges. } ) 
+4. Ra1 $1 { From now on, White just makes waiting moves with the rook until zugzwang is reached. } Ke5 5. Ra2 Kd5 6. Ra4 h6 { Evidently, any king move would lose the e4-pawn, while rook moves just make things worse by allowing a5-a6. } 7. Ra1 Ke5 8. Ra2 Kd5 9. Ra4 { Repeating the process. } h5 10. Ra1 Ke5 11. Ra2 Kd5 12. Ra4 { A final zugzwang, forcing Black to abandon the e4-pawn. White wins - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13882940/"]
+[Date "????.??.??"]
+[Round "43.11"]
+[White "6.1 Zugzwang"]
+[Black "Pinter- G. vs. Singleton- M.- #1"]
+[Result "*"]
+[FEN "8/7p/r5p1/P3pk2/R7/1K4P1/7P/8 w - - 0 1"]
+
+ { As seen in Barhudarian-Rozentalis, among others, one virtue of placing one's rook behind the passed pawn is the ability to make waiting moves with it, while the opponent can't do the same thing. Here is another case. } 1. { -KEY- } Kc4 $1 { White gets ready to assist the passed pawn by 2.Kb5, but also enables a second plan: bring the king to e3 and then wait for Black to run out of moves. } ( { Instead, the game went } 1. g4 $2 Kg5 { (now the black king has a clear target - Baburin) } 2. Kc4 e4 3. Kb5 Re6 4. a6 e3 5. a7 Re5 6. Kc6 Re8 7. a8=Q $11 Rxa8 8. Rxa8 Kxg4 { and was soon drawn. } ) 
+ ( 1. Kc3 { is less forcing, e.g. } h5 { (such space-gaining moves are rarely in vain) } 2. Kd3 Rd6 3. Ke3 Ra6 { followed by waiting moves with the king. Contrary to the main line, here it's more difficult for White to get at the e-pawn, which explains why the reply } e4 { is good news for them. } ) 
+e4 ( 1... h5 { now invites } 2. Kb5 { , when after } Ra8 3. a6 e4 4. Kc4 $1 Kg4 5. Kd4 Kf3 6. Ra3 { , White just makes it to eliminate the e-pawn without losing track of the a-pawn. } ) 
+2. Kd4 $1 ( { After } 2. Kb5 $2 Ra8 3. a6 e3 { Black again has counterplay. } ) 
+g5 ( { Or } 2... Rd6 3. Ke3 Ra6 4. h3 { in similar fashion. } ) 
+3. Ke3 g4 ( { In the event of } 3... h5 { one possible reply is } 4. h3 { avoiding pawn exchanges. } ) 
+4. Ra1 $1 { From now on, White just makes waiting moves with the rook until zugzwang is reached. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641864/"]
+[Date "????.??.??"]
+[Round "43.12"]
+[White "6.1 Zugzwang"]
+[Black "Example 337 by Averbakh- Y."]
+[Result "*"]
+[FEN "6K1/5P2/6Q1/8/1k6/8/q7/8 w - - 0 1"]
+
+ { Even the queen can make waiting moves, as in the next two examples. } 1. { -KEY- } Qc6 $1 { Zugzwang - any king move allows White to swap queens. } -- ( { As does } 1... Qb3 { and Black has no other good queen move. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641865/"]
+[Date "????.??.??"]
+[Round "43.13"]
+[White "6.1 Zugzwang"]
+[Black "Example 338- Goldin- A. vs. Korzubov- P.- Dushanbe 1980"]
+[Result "*"]
+[FEN "8/8/8/3p2p1/kppN1pP1/2Pq1P2/1PR2K2/8 b - - 0 1"]
+
+ { The idea of provoking zugzwang with the queen is also frequently used when fighting against fortresses. In the above position, despite a material deficit White has everything defended, and it is not easy to see how Black can make progress. } 1... { -KEY- } Qd1 $1 { Initiating a sequence of queen moves with the purpose of creating zugzwang. } ( { a) Of course } 1... b3 $2 2. Re2 { was of no use for Black. } ) 
+ ( { b) While in the game he went for the straightforward } 1... Qxc2 $2 2. Nxc2 bxc3 3. bxc3 Kb3 { and after } 4. Nb4 $1 d4 5. cxd4 Kxb4 6. Ke2 c3 7. d5 Kb3 8. d6 c2 9. d7 c1=Q $11 10. d8=Q $11 Qe3 11. Kd1 Qxf3 { White could have saved himself by } 12. Ke1 $1 { - Shereshevsky; } ( { the game saw } 11... Qd1 11. Kd2 $2 Qe3 $1 13. Kd1 Qe5 { and Black later won by crossing the board with his king; } ) 
+ { e.g. } Qxg4 13. Qd3 { and Black is unlikely to escape the perpetual without dropping the g5-pawn. } ) 
+2. Re2 Qc1 $1 3. Rc2 Qa1 ( { A first zugzwang is reached. If White moves his knight then ( 4...Kb3-a2 ) follows; while } 3... Qa1 4. Ke2 { permits the strong } Qg1 $1 { with the rook soon running out of space. Thus the white king has to move a step away from the action. } ) 
+4. Kg2 Qe1 $1 { Another waiting move which forces the rook to leave c2. } 5. Re2 ( { Or } 5. Kh2 Qf1 $1 { with similar effect. } ) 
+Qc1 $1 { Black's idea is clear: compared with the game continuation, White's king has been displaced on g2, which makes the queen sacrifice work out much better. } 6. Rc2 Qxc2+ $1 7. Nxc2 bxc3 8. bxc3 Kb3 9. Nb4 d4 ( { Black wins - Shereshevsky; e.g. } 9... d4 10. cxd4 ( { or } 9... d4 9. Nc6 dxc3 11. Na5 Ka2 ) 
+Kxb4 11. Kf2 c3 12. Ke2 Kb3 ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641866/"]
+[Date "????.??.??"]
+[Round "43.14"]
+[White "6.1 Zugzwang"]
+[Black "Example 339"]
+[Result "*"]
+[FEN "8/7p/8/4kpp1/8/4K1PP/5P2/8 w - - 0 1"]
+
+ { Waiting moves with the king are not to be forgotten either. Let's see some examples.I recently came across this position in a local open. White is minimally worse due to the active black king, but it is no big deal, of course. } 1. { -KEY- } Kd3 $1 { A solid choice, exploiting the fact that waiting moves with the king never end, contrary to those with pawns. } ( { Instead, the game saw } 1. f4 $4 gxf4 2. gxf4 Kd5 3. Kd3 h6 $1 4. h4 h5 { and the black king soon entered enemy territory, with an easy win. Curiously, the 'active' 1.f4+ is one of the few losing options in the initial position. } ) 
+ ( { As for } 1. Kf3 $6 { , contrary to the main line, here Black gets a chance to improve their king by } Kd4 $1 { . At this point, White would have to find } 2. h4 $1 ( 2. Ke2 $2 Ke4 $1 { wins for Black in a somewhat similar fashion to the Korchnoi-Lukin example featured later on in this chapter, e.g. } 3. f3 Kd4 4. Kd2 f4 5. g4 h6 $1 { , making good use of the spare pawn move, or } 3. Ke1 Kf3 4. Kf1 h5 5. Kg1 h4 6. gxh4 gxh4 7. Kf1 f4 $1 { , with a similar picture. } ) 
+h6 3. hxg5 hxg5 4. Ke2 $1 { ( } 4. Kg2 $2 Kd3 { lets Black's king invade decisively.) } Ke4 5. f3 Kd4 6. Kd2 f4 7. g4 $1 { and the zugzwang turns in White's favor this time, with a draw as a result. } ) 
+f4 ( { On most other moves the king could just go back to e3; e.g. } 1... Kd5 2. Ke3 Kc4 $6 3. f4 { . } ) 
+2. g4 { This and the next pawn move are indeed advisable, in order to prevent the entry of Black's king. } Kd5 3. f3 h6 4. Kc3 Kc5 5. Kd3 Kd5 { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641867/"]
+[Date "????.??.??"]
+[Round "43.15"]
+[White "6.1 Zugzwang"]
+[Black "Example 340- Wang Yue vs. Liu Qingnan- Chinese Championship- Xinghua 2012"]
+[Result "1-0"]
+[FEN "8/5p1p/8/4kPK1/6P1/8/8/8 w - - 0 1"]
+
+1. { -KEY- } Kh5 $1 { A clever waiting move, so as to see where Black's king goes before taking further action. } ( { In contrast, the natural } 1. Kh6 $2 { only draws after } Kf4 2. f6 Kxg4 3. Kg7 h5 4. Kxf7 h4 { - Baburin. } ) 
+Kf4 ( { Or } 1... Kf6 2. Kh6 ) 
+2. f6 $1 ( { In view of } 2. f6 Ke5 3. g5 { followed by Kh6, Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13882944/"]
+[Date "????.??.??"]
+[Round "43.16"]
+[White "6.1 Zugzwang"]
+[Black "Example 341- Andersson- U. vs. McNab- C.- Correspondence 1995"]
+[Result "1-0"]
+[FEN "8/2q2p1k/1p3Q1p/p2B2p1/P3P3/1P5P/2b2KP1/8 w - - 0 1"]
+
+ { White is more active, but how to make progress? } 1. { -KEY- } Ke2 $1 { A great waiting move, emblematic of Andersson's patient style in the endgame. } ( { a) The alternatives were all worse: } 1. Bxf7 $6 { permits } Bxe4 ) 
+ ( { b) And } 1. Kf3 $6 { runs into } Bd1 ) 
+ ( { c) While } 1. g3 $6 { can be met by } Bb1 2. Kf3 Bc2 3. Bxf7 ( { or } 3. Qxf7 Qxf7 4. Bxf7 Kg7 { preparing ...Kf6-e5, and Black won't lose } ) 
+Bd1 4. Kg2 Qc2 5. Kg1 Qxe4 { with equality - Andersson. } ) 
+Bb1 ( { a) Any other move loses material; e.g. } 1... Kg8 2. Qg6 ) 
+ ( { b) Or } 1... Qd7 2. Qc3 $1 ) 
+2. Kf3 $1 { That's it - with the bishop having been deflected from the d1-a4 diagonal, Black can no longer give check on d1, thus the f7-pawn is doomed. } Bc2 3. Bxf7 Bd1+ 4. Kf2 Qc2+ 5. Kg1 ( { Of course not } 5. Ke3 $4 Qe2 6. Kd4 Qb2 { The text lets Black recover the pawn, but his unsafe king remains a telling factor. } ) 
+Qxe4 6. Be6 $1 ( { With the double threat of } 7. Bf5 { and } 7. Qf7 ) 
+Qe3+ 7. Kh1 Qf4 8. Bf5+ Kg8 9. Qg6+ Kf8 10. Qxh6+ Kf7 { There follows a precise sequence of queen checks in order to pick up the bishop on d1. } 11. Qe6+ Kf8 12. Qc8+ $1 Kg7 13. Qd7+ Kf6 14. Qe6+ $1 ( { In view of } 14. Qe6 Kg7 15. Qe7 Kg8 16. Be6 Kh8 17. Qd8 Kg7 18. Qxd1 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641868/"]
+[Date "????.??.??"]
+[Round "43.17"]
+[White "6.1 Zugzwang"]
+[Black "Andersson- U. vs. McNab- C.- #1"]
+[Result "1-0"]
+[FEN "8/2q2p1k/1p3Q1p/p2B2p1/P3P3/1P5P/2b2KP1/8 w - - 0 1"]
+
+ { White is more active, but how to make progress? } 1. { -KEY- } Ke2 $1 { A great waiting move, emblematic of Andersson's patient style in the endgame. } ( { a) The alternatives were all worse: } 1. Bxf7 $6 { permits } Bxe4 ) 
+ ( { b) And } 1. Kf3 $6 { runs into } Bd1 ) 
+ ( { c) While } 1. g3 $6 { can be met by } Bb1 2. Kf3 Bc2 3. Bxf7 ( { or } 3. Qxf7 Qxf7 4. Bxf7 Kg7 { preparing ...Kf6-e5, and Black won't lose; } ) 
+Bd1 4. Kg2 Qc2 5. Kg1 Qxe4 { with equality - Andersson. } ) 
+Bb1 ( { a) Any other move loses material; e.g. } 1... Kg8 2. Qg6 ) 
+ ( { b) Or } 1... Qd7 2. Qc3 $1 ) 
+2. Kf3 $1 { That's it - with the bishop having been deflected from the d1-a4 diagonal, Black can no longer give check on d1, thus the f7-pawn is doomed. } Bc2 3. Bxf7 Bd1+ 4. Kf2 Qc2+ 5. Kg1 ( { Of course not } 5. Ke3 $4 Qe2 6. Kd4 Qb2 { The text lets Black recover the pawn, but his unsafe king remains a telling factor. } ) 
+Qxe4 6. Be6 $1 ( { With the double threat of } 7. Bf5 { and } 7. Qf7 ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641941/"]
+[Date "????.??.??"]
+[Round "43.18"]
+[White "6.1 Zugzwang"]
+[Black "Andersson- U. vs. McNab- C.- #2"]
+[Result "1-0"]
+[FEN "8/7k/1p2BQ1p/p5p1/P3q3/1P5P/6P1/3b2K1 b - - 0 6"]
+
+6... { -KEY- } Qe3+ 7. Kh1 Qf4 8. Bf5+ Kg8 9. Qg6+ Kf8 10. Qxh6+ Kf7 { There follows a precise sequence of queen checks in order to pick up the bishop on d1. } 11. Qe6+ Kf8 12. Qc8+ $1 Kg7 13. Qd7+ Kf6 14. Qe6+ $1 ( { In view of } 14. Qe6 Kg7 15. Qe7 Kg8 16. Be6 Kh8 17. Qd8 Kg7 18. Qxd1 { Black resigned. } ) 
+ ( { A good alternative is } 14. Qxd1 { followed by 15.Qf3, transposing to a pawn endgame where the extra pawn decides, as observed by UltraSuperBrainPower. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641869/"]
+[Date "????.??.??"]
+[Round "43.19"]
+[White "6.1 Zugzwang"]
+[Black "Example 342- Tal- M. vs. Beliavsky- A.- Moscow 1975"]
+[Result "1/2-1/2"]
+[FEN "8/8/7k/7P/p1K5/1r6/1P5R/8 b - - 0 1"]
+
+ { Despite his extra pawn, White can't really improve his position, so Black should just lose a tempo. } 1... { -KEY- } Kg7 $1 { The king takes up that task. } ( { Interestingly, in the later game I.Kurnosov-B.Lalic, British League 2009, there followed instead } 1... Rb8 $2 2. Kc3 Rb3 3. Kc2 $1 { (preparing a turn around b1-a2) } Rg3 4. Rh1 Rf3 5. Rh4 a3 6. b3 $1 Rf1 7. Ra4 Kxh5 8. Rxa3 Kg6 9. b4 Rf2 ( { or } 9... Kf6 10. Re3 $1 { - Baburin } ) 
+10. Kb3 Kf7 11. Ka4 Ke7 12. Rd3 $1 Ra2 13. Kb5 Ra8 14. Kc6 { and Black resigned. } ) 
+2. h6+ ( { Or } 2. Re2 Kh6 3. Re6 Kh7 $1 ( { more practical than } 3. h6+ Kxh5 4. Re5 Kg6 5. Rb5 ) 
+4. Re2 Kh6 5. Rh2 Kg7 { and White hasn't achieved anything - Baburin. } ) 
+Kh7 ( { Draw agreed as White can't make progress; e.g. } 2... Kh7 3. Kc5 a3 ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641870/"]
+[Date "????.??.??"]
+[Round "43.20"]
+[White "6.1 Zugzwang"]
+[Black "Example 343- Barczay- L. vs. Farago- I.- Hungarian Championship- Budapest 1969"]
+[Result "*"]
+[FEN "8/kp6/6p1/1PK4p/5P1P/8/8/8 w - - 0 1"]
+
+ { On occasion, the king can lose a tempo by moving in a triangle, supposing that the enemy king can't do likewise. We saw a related case already inMoreno-Suba (in Chapter One) ; here are some more examples of such a triangulation.A quick glance reveals that White would very much like to reach this position with the opponent to move, so that he can play Kd6 without bothering about ...Kb6. } 1. { -KEY- } Kc4 $1 { Starting a triangulation. } ( { a) In contrast, the game went } 1. Kd6 $6 Kb6 2. Ke5 Kxb5 3. Kf6 Ka4 4. Kxg6 b5 5. f5 b4 6. f6 b3 7. f7 b2 8. f8=Q $11 b1=Q { with decent drawing chances for Black in the queen ending, although he lost it many moves later. } ) 
+ ( { b) Not all triangles are the same; e.g. } 1. Kb4 $4 Kb6 2. Kc4 Ka5 3. Kc5 { and White has admittedly achieved one, but after } Ka4 $1 4. Kb6 Kb4 5. Kxb7 Kxb5 { it is Black who arrives first at the enemy pawns. } ) 
+Kb6 ( { Or } 1... Kb8 2. Kd5 Kc7 3. Ke5 Kb6 4. Kf6 Kxb5 5. Kxg6 { and the f-pawn decides. } ) 
+2. Kb4 $1 Kc7 ( { White's task is even easier after } 2... Ka7 3. Kc5 Kb8 4. Kd6 Kc8 5. Ke6 { etc - Eszik. } ) 
+3. Kc5 b6+ ( 3... Kd7 4. Kd5 Ke7 5. Ke5 b6 6. f5 $1 { transposes to the main line. } ) 
+4. Kd5 Kd7 5. Ke5 Ke7 6. f5 $1 { This breakthrough wins a decisive pawn. } gxf5 7. Kxf5 Kf7 ( { Or } 7... Kd6 8. Kg5 Kc5 9. Kxh5 Kxb5 10. Kg5 { and only White queens. } ) 
+8. Kg5 Kg7 9. Kxh5 Kh7 10. Kg5 Kg7 11. Kf5 { With a quick win. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641871/"]
+[Date "????.??.??"]
+[Round "43.21"]
+[White "6.1 Zugzwang"]
+[Black "Example 344"]
+[Result "*"]
+[FEN "5b2/5P2/2K5/3Bk3/2P5/8/8/8 w - - 0 1"]
+
+ { Triangulation can also occur in other types of endings, as in the next few examples.In order to win White should hand over the turn to the opponent. } 1. { -KEY- } Kb6 $1 { Initiating some kind of triangulation. } ( { a) Evidently, } 1. c5 $2 { was premature due to } Kd4 ) 
+ ( { b) And } 1. Kd7 Kf6 2. Ke8 $6 Kg7 { isn't productive either. } ) 
+ ( { c) But another triangle with } 1. Kb5 $5 Kd4 ( { or } 1. Kb6 Be7 2. c5 $1 Kxd5 3. c6 Kd6 4. Kb6 { etc. } ) 
+2. Kb6 $1 Ke5 3. Kc6 { also works } ) 
+ ( { d) As does } 1. Kd7 Kf6 2. Kc7 $1 Ke5 3. Kc6 ) 
+Kd4 { The most tenacious reply. } ( { Both } 1... Kd6 { and } Be7 { run into the sacrifice } 2. c5 $1 Kxd5 3. c6 { and one of the pawns queens. } ) 
+2. Kc7 Ke5 3. Kc6 { The triangulation is completed, and Black now lacks a solid move. } Kf6 ( { a) If } 3... Kd4 { then } 4. Kd7 Ke5 5. Ke8 ) 
+ ( { b) And } 3... Be7 4. Kd7 $1 Kf6 5. Ke8 ) 
+ ( { c) Or } 3... Bd6 4. Kd7 { is similar. } ) 
+ ( { d) Finally, } 3... Ba3 { fails to } 4. c5 ) 
+4. c5 Ke5 5. Kb6 $1 { Clearing the way for the c-pawn, without bothering about the bishop. } ( 5. Kb5 Kxd5 6. c6 Kd6 7. Kb6 { is just as good. } ) 
+Kxd5 6. c6 { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641872/"]
+[Date "????.??.??"]
+[Round "43.22"]
+[White "6.1 Zugzwang"]
+[Black "Example 345- Astaneh Lopez- A. vs. Griffiths- R.R.- Irish Championship- Dublin 2010"]
+[Result "1-0"]
+[FEN "8/1K6/3kP1P1/3Pb1P1/8/8/8/8 w - - 0 1"]
+
+ { Here is a similar, but more complex case. } 1. { -KEY- } Ka7 $1 { The first step of a decisive triangulation. } ( { The tempting } 1. Kc8 $6 Ke7 2. g7 $2 { proves less successful after } Bxg7 3. Kc7 Be5 4. Kc6 Bg3 5. g6 Be5 6. d6 Kxe6 $1 7. d7 Bf6 8. g7 Kf7 { a similar finish to Example 75 (Hellsten-Stojanovic) in Chapter Two. } ) 
+Bg7 2. Kb8 Be5 3. Kb7 { It transpires that with Black to move, he can no longer defend both flanks. } Bg7 ( { Or } 3... Ke7 4. Kc6 { and wins - Baburin. } ) 
+4. Kc8 Ke7 5. Kc7 Bc3 6. Kc6 $1 { To a light square; } ( { avoiding } 6. d6 $2 Kxe6 7. d7 Ba5 8. Kc8 Ke7 ) 
+Be5 7. d6+ Kd8 ( { If } 7... Kxe6 { then } 8. d7 Ke7 9. g7 Bxg7 10. Kc7 ) 
+8. Kb7 Bc3 9. g7 Bxg7 10. e7+ ( { In view of } 10. e7 Kd7 11. e8=Q Kxe8 12. Kc8 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641873/"]
+[Date "????.??.??"]
+[Round "43.23"]
+[White "6.1 Zugzwang"]
+[Black "Example 346- Tal- M. vs. Spassky- B.- Candidates final (3rd match game)- Tbilisi 1965"]
+[Result "0-1"]
+[FEN "8/8/8/2p2r1p/2P4R/3k1p1P/5K2/8 b - - 0 1"]
+
+ { Observing that White to move loses, Spassky found a simple, yet effective solution: triangulation. } 1... { -KEY- } Kd2 $1 ( 1... Kc2 $5 2. Re4 Kc3 3. Rh4 Kd3 { is another possible triangle, as noticed by Anunnaki. } ) 
+ ( { In contrast, } 1... Kc3 2. Re4 Kc2 $2 { fails to } 3. Re3 $1 { cutting off Black's king from the action. } ) 
+2. Re4 Kc3 3. Rh4 Kd3 { Finding himself in a lethal zugzwang, White resigned. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641874/"]
+[Date "????.??.??"]
+[Round "43.24"]
+[White "6.1 Zugzwang"]
+[Black "Example 347- Voiska- M. vs. Hellsten- J.- Menton 2003"]
+[Result "0-1"]
+[FEN "8/5pk1/6p1/p5Qp/1p2r2P/1Pq3P1/P2R1P1K/8 w - - 0 1"]
+
+ { Far from being an everyday issue, zugzwang can also occur in earlier stages of the game. Here are two examples.Black has a minimal initiative, but even so it is hard to believe that the game won't end with a draw. However, the battle took an unusual turn. } 1. { -KEY- } Qd5 $2 { A pseudo-active move, one that cost White dearly in the game. } ( { Correct was } 1. Kg2 $1 { reinforcing the kingside; e.g. } Re5 2. Qf4 Rf5 3. Qd4 { with a drawish rook ending. } ) 
+Qf3 $1 { Black doesn't threaten anything, but it is White's turn, and each of her possible replies has a clear drawback. If the queen leaves the long diagonal, then 2...Re1 leads to mate, while queen moves along it cause her departure after 2...Rxh4+. As for the rook, if it leaves the d-file then 2...Rxh4+ again decides, nor can it leave the second rank due to 2...Qxf2+. Finally, none of the king or pawn moves are appealing. Voiska found the least of evils. } 2. Qd3 { Now there is no time for 2...Re1, but Black has a different piece of tactics at his disposal. } Qxd3 3. Rxd3 Re2 $1 4. Kg2 Rxa2 { Black has achieved the same kind of rook ending, with an extra pawn on the queenside, that we examined in Chapter Three. This version is rather favourable for him, since the exchange of the a5- and b3-pawns can be carried out at his leisure. } 5. Rd5 Ra3 { Preventing 6.Kf3 and enabling a capture on b3 at the right moment. Note that the natural winning plan in such positions - a king march to the opposite flank - gains weight here due to the fact that when White's rook starts an attack on the enemy kingside pawns, it will lose track of the a5-pawn, and thus the capture on b3 will yield Black connected passed pawns. } 6. f3 f5 { Avoiding pawn exchanges. } 7. Rd3 ( { If } 7. f4 Kf6 8. Re5 { restricting the enemy king, Black could change plans with } Rxb3 $1 9. Rxa5 Rd3 { when the rigid kingside pawn structure plays against White; e.g. } 10. Ra6 Kf7 11. Ra7 Ke6 12. Rg7 b3 13. Rxg6 Kd5 14. Rb6 Kc4 { with an easy win. } ) 
+Kf7 8. Kf2 $2 { A gross error in a difficult position. } ( { More tenacious was } 8. Rd5 Ke6 9. Rb5 Kd6 10. Rb6 Kc5 11. Rxg6 Rxb3 12. g4 $5 { although after } fxg4 13. fxg4 hxg4 14. Rg5 ( { or } 14. h5 Rh3 ) 
+Kb6 15. Rg6 Kc7 16. Rxg4 a4 { Black is faster. } ) 
+a4 { Seeing that she will lose another pawn, White resigned. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641875/"]
+[Date "????.??.??"]
+[Round "43.25"]
+[White "6.1 Zugzwang"]
+[Black "Example 348- Ivanchuk- V. vs. Adams- M.- Terrassa 1991"]
+[Result "0-1"]
+[FEN "1b3r1k/6p1/p1p4p/1p1n4/3P2P1/2P4P/PP1R1BQ1/1q3NK1 b - - 0 1"]
+
+ { A sharp duel in the Spanish Marshall produced the above middlegame, where Black's activity more than compensates for the pawn minus. Adams found an original solution. } 1... { -KEY- } Kg8 $1 { A clever waiting move. } ( { Instead, } 1... Qxa2 $6 2. Bg3 { would yield White some slight relief. } ) 
+2. b3 { This weakening of the c3-pawn was hardly in Ivanchuk's plans, but what else to do? } ( { a) As Adams indicates, } 2. Re2 Nf4 ) 
+ ( { b) } 2. Qh1 Ne3 $1 ) 
+ ( { c) Or } 2. Kh1 Nf4 $1 { lose on the spot } ) 
+ ( { d) While } 2. a3 Kh8 $1 3. a4 Kg8 { just renews the zugzwang. } ) 
+Bf4 3. Re2 Nxc3 { White's position is in ruins already. } 4. Re6 Qxa2 5. Rxc6 Qxb3 6. Rxa6 Ne2+ 7. Kh1 Bb8 $1 { Ceding the f4-square to the knight. } 8. Be1 Qd1 { In this hopeless position, White resigned. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641876/"]
+[Date "????.??.??"]
+[Round "43.26"]
+[White "6.1 Zugzwang"]
+[Black "Example 349 by Mullen- I."]
+[Result "*"]
+[FEN "8/3k4/6p1/5p1p/8/6PK/5P1P/8 w - - 0 1"]
+
+ { Next, let's examine the subject of waiting moves with the pawns. In pawn endings the availability of such moves can often determine the final result; thus one should use them with care. Here are some examples.White wins by the opportune use of waiting moves with the pawns. } 1. { -KEY- } Kh4 $1 { King first! } Ke6 2. Kg5 Kf7 3. f4 { Given that White still has two spare tempi left with the h-pawn, he can afford to use up those with the f-pawn, in order to prevent any counterplay with ...f5-f4. } ( { a) Nevertheless, the move orders } 3. f3 Kg7 4. f4 Kf7 5. Kh6 Kf6 6. h4 $1 ) 
+ ( { b) And } 3. Kh6 $5 Kf6 ( { b1) or } 3. f4 f4 4. gxf4 Kf6 5. h4 $1 Kf5 6. f3 Kf6 7. Kh7 Kf7 8. f5 $1 gxf5 9. f4 ) 
+4. h4 ( { b2) or } 4. f4 Kf7 5. h3 ) 
+ ( { b3) but not } 4. Kh7 $6 f4 $1 ) 
+Kf7 5. Kh7 Kf6 6. f3 $1 ( { b4) not } 6. Kg8 $2 f4 $1 7. gxf4 Kf5 8. Kf7 Kxf4 9. Kxg6 Kg4 ) 
+Kf7 7. f4 { work as well. } ) 
+Kg7 4. h3 $1 ( { Seeing that } 4. h4 $2 Kf7 5. Kh6 Kf6 { just draws, White keeps a last waiting move in reserve. } ) 
+Kh7 ( { Or } 4... Kf7 5. Kh6 Kf6 6. h4 Kf7 7. Kh7 { with similar effect. } ) 
+5. Kf6 Kh6 ( { If } 5... h4 { then } 6. gxh4 Kh6 7. Kf7 Kh7 8. h5 { etc. } ) 
+6. h4 $1 { White finally uses up his last waiting move in order to gain the opposition. } ( 6. Kf7 { is another winning possibility, but reducing Black's options for counterplay such as ...g6-g5 and ...h5-h4 makes sense from a practical perspective. } ) 
+Kh7 7. Kf7 Kh6 8. Kg8 { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641877/"]
+[Date "????.??.??"]
+[Round "43.27"]
+[White "6.1 Zugzwang"]
+[Black "Example 350- Lundvik- J. vs. Mohammadi- A.- Swedish Team Championship 2004"]
+[Result "*"]
+[FEN "8/8/p3pkp1/1p6/1P2KP2/8/P6P/8 w - - 0 1"]
+
+ { By a proper use of waiting moves, White gradually realized his advantage. } 1. { -KEY- } h3 $1 { Gaining the e5-square for the king. } ( 1. a3 { also works. } ) 
+Kf7 ( { After } 1... g5 $2 2. fxg5 Kxg5 3. Ke5 { the outside passed pawn decides. } ) 
+2. Ke5 Ke7 3. h4 ( { A different move order with } 3. a3 { first also works. } ) 
+Kf7 4. Kd6 Kf6 5. a3 $1 ( { Gaining the opposition, which will permit a king raid along the eighth rank. A different move order with } 5. Kd7 Kf5 6. a3 { also works. In any case, we should notice that the move a2-a3 is important in order to leave the b4-pawn protected once there are only queenside pawns left on the board, i.e. at the very end of this example. } ) 
+Kf7 ( { Or } 5... Kf5 6. Ke7 Kxf4 7. Kxe6 { with a transposition. } ) 
+6. Kd7 Kf6 7. Ke8 $1 Kf5 ( 7... e5 8. fxe5 Kxe5 9. Ke7 $1 Kf5 10. Kf7 { is just as hopeless. } ) 
+8. Kf7 Kxf4 { The most tenacious. } ( { Instead, the game saw } 8... Kg4 9. Kxg6 { and Black resigned in view of } ( 8... Kxf4 8. Kxe6 $5 Kxh4 10. f5 $1 { is another winning line } ) 
+Kxh4 10. Kf6 Kg4 11. Kxe6 Kxf4 12. Kd6 { - Furhoff. } ) 
+9. Kxe6 $1 ( { Not } 9. Kxg6 $2 e5 10. h5 e4 11. h6 e3 12. h7 e2 13. h8=Q $11 e1=Q $11 { and Black escapes. } ) 
+Kg4 10. Kf6 ( { The outside passed pawn means the white king arrives first at the opposite flank; e.g. } 10. Kf6 Kxh4 11. Kxg6 Kg4 12. Kf6 Kf4 13. Ke6 Ke4 14. Kd6 Kd4 15. Kc6 Kc4 16. Kb6 Kb3 17. Kxa6 Kxa3 18. Kxb5 { - Furhoff. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641878/"]
+[Date "????.??.??"]
+[Round "43.28"]
+[White "6.1 Zugzwang"]
+[Black "Example 351- Gu Xiaobing vs. Tan Zhongyi- Chinese Women’s Championship- Xinghua 2010"]
+[Result "*"]
+[FEN "8/8/8/5kpp/p7/5KPP/P7/8 w - - 0 1"]
+
+ { White is under pressure and should calculate the tempi with care. } 1. { -KEY- } a3 $1 { Simplest, so as to eliminate the opponent's waiting move ...a4-a3. } ( { In contrast, the game went } 1. g4 $2 hxg4 2. hxg4 Ke5 3. Ke3 a3 $1 { and it was Black who successfully used a waiting move, gaining the opposition. There followed } 4. Kf3 Kd4 5. Kg2 ( { or } 5. Ke2 Ke4 ) 
+Kc3 6. Kf2 Kb2 { and White resigned. } ) 
+g4+ 2. hxg4+ hxg4+ 3. Kf2 $1 { In order to take the opposition on the next move. } ( { a) Instead, } 3. Ke2 $2 Ke4 ) 
+ ( { b) Or } 3. Ke3 $2 Ke5 4. Kd3 Kd5 { loses. } ) 
+Ke4 4. Ke2 { Draw - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641879/"]
+[Date "????.??.??"]
+[Round "43.29"]
+[White "6.1 Zugzwang"]
+[Black "Example 352- Nabaty- T. vs. Arnaudov- P.- Bansko 2010"]
+[Result "1-0"]
+[FEN "8/1p6/1k3pp1/7p/PK3P2/8/6PP/8 b - - 0 1"]
+
+ { Here is a similar situation with reversed colours. With his next move Black forgot about the importance of economizing waiting moves with the pawns, and paid duly for it. } 1... { -KEY- } f5 $2 { A horrible move, which yields White several spare tempi on the kingside. } ( { a) For this reason, } 1... h4 { was much better. } ) 
+ ( { b) And even } 1... Ka6 { works - Baburin; e.g. } 2. a5 ( { or } 1... f5 1. Kc5 $2 Ka5 ) 
+b6 ) 
+2. g3 $1 { Of course. White eliminates Black's last waiting move, while keeping two of his own with the h-pawn. } Ka6 3. a5 b6 ( { Or } 3... Ka7 4. Kb5 Kb8 5. Kb6 Kc8 6. a6 bxa6 7. Kxa6 Kc7 8. Kb5 Kd6 9. Kc4 Kc6 10. Kd4 Kd6 11. h3 { transposing - Baburin. } ) 
+4. axb6 Kxb6 { With a normal kingside structure this would be drawn, but here White's reserve of waiting moves makes the difference, in similar fashion to Mullen's example earlier in this section. } 5. Kc4 Kc6 6. Kd4 Kd6 7. h3 $1 { Gaining the opposition. } Ke6 8. Kc5 Ke7 ( { White also wins after } 8... Kd7 9. Kd5 Ke7 10. Ke5 Kf7 11. Kd6 h4 ( 11... Kf6 12. h4 { leads to the game } ) 
+12. gxh4 Kf6 13. Kd5 Ke7 14. Ke5 Kf7 15. h5 { - Baburin. } ) 
+9. Kc6 Ke6 10. h4 $1 { A second zugzwang, or renewed opposition, name it as you like. } Ke7 11. Kc7 Kf6 ( { If } 11... Ke6 { then } 12. Kd8 { with similar play. } ) 
+12. Kd6 ( { Here Black resigned. By the way, the similar } 12. Kd8 { also works, as noticed by dantenuken. After } 12. Kd6 { , let's see a possible conclusion: } ) 
+Kf7 13. Kd7 Kf6 14. Ke8 Ke6 15. Kf8 Kf6 16. Kg8 ( { White wins with 17.Kg7 next. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641880/"]
+[Date "????.??.??"]
+[Round "43.30"]
+[White "6.1 Zugzwang"]
+[Black "Example 353- Guttulsrud- O. vs. Moor- R.- Oslo 2011"]
+[Result "*"]
+[FEN "8/7p/2k3p1/8/1pPK4/7P/6P1/8 w - - 0 1"]
+
+ { White is in trouble, but precise defence would have saved him. } 1. { -KEY- } h4 $1 { Economizing with the waiting moves - in such situations it is often preferable to use the pawn that has already moved. } ( { Instead, the game went } 1. Kd3 $2 Kc5 2. h4 h6 $1 3. g4 g5 4. h5 b3 5. Kc3 b2 6. Kxb2 Kxc4 7. Kc2 Kd4 { and White resigned. } ) 
+h6 ( { Or } 1... h5 2. g3 { with similar play to the main line. } ) 
+2. g4 g5 3. h5 ( { Also possible is } 3. hxg5 hxg5 4. Ke4 Kc5 5. Kd3 b3 6. Kc3 b2 7. Kxb2 Kxc4 8. Kc2 { - Baburin. } ) 
+Kb6 ( { Or } 3... Kd6 4. c5 Kc6 5. Kc4 b3 6. Kxb3 Kxc5 7. Kc3 ) 
+4. c5+ Kc6 ( { After } 4... Kb5 5. Kd5 { White will have few problems in the ensuing queen ending. } ) 
+5. Kc4 b3 6. Kxb3 Kxc5 7. Kc3 { Draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641881/"]
+[Date "????.??.??"]
+[Round "43.31"]
+[White "6.1 Zugzwang"]
+[Black "Example 354- Ilyin Zhenevsky- A. vs. Botvinnik- M.- Leningrad 1938"]
+[Result "*"]
+[FEN "8/5kp1/7p/4Pp1P/8/6K1/6P1/8 w - - 0 1"]
+
+ { A combination of waiting moves with the king and pawns can also prove effective, as in the next two examples. } 1. { -KEY- } Kf3 $1 { Before placing the king on f4, White wants to see Black's next move. } ( { In contrast, the game went } 1. Kf4 $2 g6 $1 { and a draw was agreed on account of } 2. hxg6 Kxg6 3. g3 h5 4. e6 Kf6 5. e7 Kxe7 6. Kxf5 h4 $1 ) 
+g5 ( { Or } 1... Ke7 2. Kf4 Ke6 3. g3 { with a decisive zugzwang. } ) 
+2. hxg6+ Kxg6 3. Kf4 h5 4. g3 { Zugzwang, and White wins - Baburin. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641882/"]
+[Date "????.??.??"]
+[Round "43.32"]
+[White "6.1 Zugzwang"]
+[Black "Example 355- Onischuk- A. vs. Jepson- C.- Hallsberg 1993"]
+[Result "1-0"]
+[FEN "8/3p1k1p/6pP/8/3P1K2/8/6P1/8 w - - 0 1"]
+
+ ( { With Black to move, } 1. g3 Ke6 { would lead to a draw, but it is White's turn and he immediately improves his king. } ) 
+1. { -KEY- } Ke5 Ke7 2. Kd5 $1 { A clever waiting move. By using the king for this purpose, White keeps the waiting moves with the pawns for a later occasion. } ( { a) In contrast, } 2. d5 d6 3. Kf4 Kf6 ) 
+ ( { b) Or } 2. g3 d6 3. Kd5 Kd7 4. g4 g5 { would only draw. } ) 
+g5 ( { a) Now Black loses the g-pawn, but he was short of good options anyway; e.g. } 2... d6 3. Kc6 $1 Ke6 4. d5 Ke5 5. g3 $1 g5 6. g4 ) 
+ ( { b) Or } 2... Kf7 3. Kd6 Ke8 4. Kc7 Ke7 5. d5 g5 6. d6 Ke6 7. g4 { and White wins in both cases. } ) 
+3. Ke5 g4 4. g3 $1 ( { More technical than } 4. Kf4 $6 Kf6 5. Kxg4 Kg6 { etc. } ) 
+d6+ 5. Kf5 Kf7 6. d5 $1 ( { Black's king is forced to move one step away from g6; although } 6. Kxg4 Kg6 ( { or } 6. d5 Ke6 7. Kf4 Kd5 8. g4 ) 
+7. Kf4 Kxh6 ( 7. d5 Kf6 8. d5 { transposes to the game; } ) 
+8. Kf5 Kh5 9. d5 { wins as well. } ) 
+Ke7 7. Kxg4 Kf6 8. Kf4 Kg6 9. g4 Kf6 ( { Or } 9... Kxh6 10. Kf5 Kg7 11. Ke6 { etc. } ) 
+10. g5+ Ke7 11. g6 Kf8 12. gxh7 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/38580360/"]
+[Date "????.??.??"]
+[Round "43.33"]
+[White "6.1 Zugzwang"]
+[Black "Example 356- Castro- D. vs. Pino- M.- Loja 2009"]
+[Result "0-1"]
+[FEN "8/6p1/1pp1pp1p/p1k5/P3PP2/1PPK2P1/7P/8 w - - 0 1"]
+
+ { Here is a final pawn ending, in which the waiting moves with the pawns played a crucial role, not only in the actual course of the game, but also in several of its subvariations. Thanks to her more active king Black is a bit better. In order to keep the king on d3, White now desires to make a waiting move with a pawn, but which one? } 1. { -KEY- } h4 $2 { A bad choice, since after the opponent's reply, White will be short of spare tempi on the kingside. } ( { For this reason, } 1. g4 $1 { was much better; e.g. } g5 2. fxg5 hxg5 3. Ke3 b5 4. Kd3 { and if now } bxa4 5. bxa4 e5 $2 { then White's spare tempo even leads her to a full point: } ( 5. h4 Kd6 { is correct, with a draw } ) 
+6. h3 $1 Kb6 7. Kc4 Kb7 8. Kc5 Kc7 9. c4 $1 { and wins. } ) 
+h5 $1 2. Ke3 { Now a waiting move with the king is the most solid choice. } ( { a) If instead } 2. f5 $2 { then } exf5 3. exf5 Kd5 { and the f5-pawn falls } ) 
+ ( { b) While } 2. c4 $2 { fails to } Kb4 3. Kc2 Ka3 4. Kc3 c5 $1 5. Kc2 Ka2 6. f5 e5 7. Kc3 Kb1 { and Black wins, a variation similar toExample 352 (Nabaty-Arnaudov) with reversed colours and flanks. } ) 
+b5 $1 { This advance either creates an outside passed pawn, or softens up the c4-square for the king. } 3. Kd3 ( { After } 3. axb5 cxb5 4. Kd3 a4 5. b4 Kc6 6. Kc2 f5 $1 { the king enters via d5 with great effect. } ) 
+bxa4 4. bxa4 { Now Black just needs to lose a tempo in order to make the white king step back, but how to do it? } f5 $1 { The correct reaction. } ( 4... g6 $2 { has a surprising flaw. } 5. c4 $2 { An early surrender. } ( { The unexpected breakthrough } 4... f5 4. g4 $1 { led to a draw: } hxg4 { (after } f5 $2 6. g5 $1 { White even wins; e.g. } Kd6 7. exf5 exf5 8. Kc4 Kd7 9. Kc5 Kc7 10. c4 { , etc.) } 6. f5 exf5 7. exf5 Kd6 $1 8. fxg6 Ke7 { , etc, on the topic of mutual protected passed pawns. } ) 
+Kb4 6. Kd4 { (It is already too late for } 6. g4 { because of } f5 $1 { ) } c5 { and the rest is easy: } 7. Kd3 Kxa4 8. Kc3 Ka3 9. e5 f5 10. Kd3 Kb4 { . } ) 
+5. e5 g6 ( 5... Kd5 { also works, e.g. } 6. c4 Kc5 7. Kc3 g6 8. Kd3 Kb4 9. Kd4 c5 $1 { etc. } ) 
+6. Kd2 Kc4 7. Kc2 c5 ( { And Black wins. Incidentally, we came across a similar variation in the } 0... c5 0. g4 { subline, with reversed colors. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641884/"]
+[Date "????.??.??"]
+[Round "43.34"]
+[White "6.1 Zugzwang"]
+[Black "Example 357- Timman- J. vs. Ree- H.- Amsterdam 1984"]
+[Result "1-0"]
+[FEN "8/8/pp3K2/3k2P1/1P5n/P5N1/8/8 w - - 0 1"]
+
+ { Occasionally, waiting moves with pawns can take place in other types of endings, as in the next example.White seems to be completely winning, but some accuracy is still required due to the proximity of Black's king to the queenside. Timman found a technical solution. } 1. { -KEY- } a4 $1 { A clever waiting move. } ( { a) The impatient } 1. g6 $2 { would only draw after } Nxg6 2. Kxg6 Kc4 ) 
+ ( { b) While after } 1. Nf5 $6 Ng2 $1 { White would have to find } 2. Ne7 $1 ( { b1) both } 2. Ne3 $2 Nxe3 3. g6 Kd6 $1 { followed by Nd5-e7; } ) 
+ ( { b2) and } 2. g6 $6 Nf4 3. g7 Nh5 { with ...Nxg7 and ...Kc4 next, let Black escape; } ) 
+Kd6 3. g6 Nf4 4. a4 $1 { in similar fashion to the initial move of this example. There can follow } Nxg6 ( { b3) nothing is changed after } 4. a4 b5 5. a5 ) 
+ ( { b4) } 4. a4 a5 5. b5 ) 
+ ( { b5) or } 4. a4 Kd7 5. Kf7 ) 
+5. Nxg6 Kd5 6. Ne5 $1 { when } Kd4 7. Ke6 Kc3 { is met by } 8. Nc6 { with an easy win. } ) 
+b5 ( { Or } 1... a5 2. b5 { with the same effect. } ) 
+2. a5 ( { Black is in zugzwang – Knight moves fail to 3.g6, while } 2. a5 Kd6 { or } Kd4 { runs into } 3. Nf5 { . As for the defect of 2...Kc4, we will soon see that. } ) 
+Kc4 3. Nf5 Ng2 4. Ke5 $1 { The point: Black can no longer reach the g-pawn with his knight, and duly resigned. } ( { But not } 4. Ne3 $2 Nxe3 5. g6 Nd5 6. Kf7 Ne3 $1 { with a draw, since } 7. g7 $4 { runs into } Nf5 ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641885/"]
+[Date "????.??.??"]
+[Round "43.35"]
+[White "6.1 Zugzwang"]
+[Black "Example 358- Korchnoi- V. vs. Lukin- A.- Stockholm 2004"]
+[Result "1-0"]
+[FEN "3Q4/5pk1/4q1p1/4P2p/7P/4K1P1/5P2/8 w - - 0 1"]
+
+ { Next, let's see two examples where the stronger side decided to transpose into a pawn ending, anticipating a later usage of waiting moves with pawns.Black has just played ...Kg8-g7, but he should have placed his king on h7 instead. The difference becomes evident with White's reply. } 1. { -KEY- } Qf6+ $1 { Korchnoi has observed that in the pawn ending that now arises, despite the material balance he will be winning thanks to his spare tempi with the f-pawn. } Qxf6 2. exf6+ Kxf6 3. Kf4 $1 { Opposition, and a first zugzwang. } Ke6 ( { After } 3... Kg7 4. Ke5 Kg8 ( { or } 4... f6 5. Ke6 g5 6. f4 $1 { with zugzwang to come } ) 
+5. Kf6 Kf8 6. f4 $1 { followed by f4-f5, White soon wins a decisive pawn - Furhoff. } ) 
+4. Kg5 Ke5 ( { Or } 4... Ke7 5. f3 $1 { with similar effect. } ) 
+5. f3 $1 { A second zugzwang. } ( { In contrast, } 5. f4 $2 Ke6 { is just a draw; e.g. } ( { or } 5. f3 Ke4 ) 
+6. f5 gxf5 7. Kxh5 f4 $1 { However, with Black to move again after 5...Ke6 the outcome is different, as we will see next. } ) 
+Ke6 6. f4 ( { In view of } 6. f4 Ke7 7. f5 $1 gxf5 8. Kxf5 f6 9. Kg6 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641886/"]
+[Date "????.??.??"]
+[Round "43.36"]
+[White "6.1 Zugzwang"]
+[Black "Example 359- Sutovsky- E. vs. Georgiev- Kir.- Gibraltar 2007"]
+[Result "1-0"]
+[FEN "8/8/p1nk1p2/1p1B1P1p/3P3P/2K5/PP6/8 w - - 0 1"]
+
+ { White found a clear-cut solution to the realization of his extra pawn. } 1. { -KEY- } Bxc6 $1 Kxc6 2. b4 $1 ( { A key advance that secures a spare tempo with a2-a3, and leaves Black with none. A good alternative is } 2. Kb4 $5 { in 'King first' spirit, as observed by hobbsey, who explains that after } Kd5 3. Ka5 { White is much faster in the upcoming passed pawns race, while if } Kb6 { trying to keep White's king at bay, then after } 3. a4 $1 a5 4. Kb3 { the white king soon enters anyway, e.g. } b4 5. Kc4 Kc6 6. b3 { . } ) 
+ ( { Interestingly, even } 2. a4 { first would make the trick, e.g. } bxa4 3. Kc4 { followed by d4-d5, when the absence of a black pawn on b5 means that White's king can alternate between d4 and c4 in order to make Black run out of moves. } ) 
+Kd6 3. Kd2 $1 { Heading for e4, while applying some kind of distant opposition. } ( { The straightforward } 3. Kd3 Kd5 4. Ke3 { also works, since } ( { of course not } 4. a3 $2 { wasting the spare move, with a draw after } Kc6 5. Ke4 Kd6 6. d5 Kd7 { etc } ) 
+Kc4 { can be met by } 5. Ke4 Kxb4 6. Kd5 $1 Ka3 7. Kc5 { with 8.d5 next. } ) 
+Kc6 ( { Or } 3... Kd5 4. Kd3 { transposing. } ) 
+4. Ke3 Kd5 ( { If } 4... Kd7 { then } 5. Ke4 Kd6 6. d5 Kd7 7. Kd4 Kd6 8. a3 $1 { etc. } ) 
+5. Kd3 { Here Black resigned. Let's see a possible continuation: } Kd6 6. Ke4 Kc6 7. d5+ Kd7 8. Kd4 Kd6 9. a3 $1 { The spare tempo comes in very handy at this point. } Kd7 10. Kc5 Kc7 11. d6+ Kd7 12. Kd5 { White wins. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12641887/"]
+[Date "????.??.??"]
+[Round "43.37"]
+[White "6.1 Zugzwang"]
+[Black "Example 360- Sokolov- I. vs. Hellsten- J.- Malmö 1997"]
+[Result "1/2-1/2"]
+[FEN "8/4k2p/1R2r1p1/p7/P4p2/3K1P2/5P1P/8 w - - 0 1"]
+
+ { In this final example, the transposition to a pawn ending favours the defender instead, but for the same reason as before: a future usage of waiting moves with the pawns.Despite the doubled f-pawns White is better here, thanks to his more active rook and king, along with the weakness on a5. } 1. { -KEY- } Rxe6+ $2 { A tempting, but wrong choice. } ( { White should have preferred either } 1. Rb7 Kf6 2. Rxh7 Rd6 3. Ke4 Rb6 4. Rd7 ) 
+ ( { or } 1. Rb5 $5 { keeping some winning chances. } ) 
+Kxe6 2. Kc4 { Evidently, the a5-pawn is doomed, but Black has one last trump available. } g5 $1 { Fixing the kingside structure so as to secure two extra tempi with the h-pawn later on. } ( { In contrast, after } 2... Kd6 3. Kb5 Kd5 $2 ( { it is not yet too late for } 3... g5 $1 ) 
+4. Kxa5 Kc5 5. h4 $1 { Black's waiting moves soon end, which lets the white king return to the battle: } h6 6. Ka6 Kc6 7. a5 h5 ( { or } 7... g5 8. hxg5 hxg5 9. Ka7 Kc7 10. a6 ) 
+8. Ka7 Kc7 9. a6 Kc8 10. Kb6 { and White wins. } ) 
+3. Kb5 Kd5 4. Kxa5 Kc5 5. h3 ( { Or } 5. Ka6 Kc6 6. a5 h6 $1 7. h3 h5 { transposing. } ) 
+h6 $1 { Economizing with the spare tempi. } 6. Ka6 Kc6 7. a5 h5 8. Ka7 Kc7 9. a6 h4 { It transpires that White can't liberate his king. } 10. Ka8 Kc8 11. Ka7 
+ 1/2-1/2

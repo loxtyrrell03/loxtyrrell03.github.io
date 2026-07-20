@@ -1,0 +1,64 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464707/"]
+[Date "????.??.??"]
+[Round "14.1"]
+[White "13. Scotch Four Knights Game - 4.d4"]
+[Black "Scotch Four Knights 8.e5 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 { -KEY- } Nf6 4. d4 exd4 5. Nxd4 ( { The Scotch Variation of the Four Knights, which, as the name suggests, is often reached via the Scotch move order } 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 { . In recent years, it has gained in popularity as an alternative to } 5. Nxc6 { . } ) 
+Bb4 6. Nxc6 bxc6 { Taking towards the centre. Our pawns are doubled but we will push ...d5 next. } 7. Bd3 d5 8. e5 $6 { A dubious move, which quickly leads to overextension. } Ng4 9. Bf4 $6 f6 $1 { Breaking open the overextended centre. White faces serious problems. } 10. h3 Nxe5 11. Bxe5 Qe7 $1 ( 11... fxe5 12. Qh5 { is less good but you should be happy with the opening anyway. With our move we have a d8 square for the King and also we want to regain a piece without even giving a central pawn - Black is much better now, the most critical line is: } ) 
+12. Qh5+ Kd8 { Black will regain the piece with interest. } 13. f4 g6 { The best, but Black is also better after other moves so you are not obliged to remember it. } 14. Bxg6 fxe5 15. O-O ( 15. fxe5 { runs into } Qg7 $1 { and once the Bishop moves we have ...Qg3+ and everything will fall, especially g2 and then our Rook and Bishop can quickly join the action as well. } ) 
+Rf8 16. Qxh7 exf4 $17 { The bishop pair is the most important factor of the position, giving Black a big advantage. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464710/"]
+[Date "????.??.??"]
+[Round "14.2"]
+[White "13. Scotch Four Knights Game - 4.d4"]
+[Black "Scotch Four Knights 9.dxc6"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 ( { The Scotch Variation of the Four Knights, which, as the name suggests, is often reached via the Scotch move order } 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 { . In recent years, it has gained in popularity as an alternative to } 5. Nxc6 { . } ) 
+Bb4 6. Nxc6 bxc6 { Taking towards the centre. Our pawns are doubled but we will push ...d5 next. } 7. Bd3 d5 8. exd5 { By far the most popular. -KEY- } O-O ( { Black usually plays } 8... cxd5 { which is not bad but we have another idea in mind. } ) 
+9. dxc6 { This move seems over-risky and for this reason has almost never been played by White. } Bg4 10. Qd2 Re8+ 11. Kf1 Bh5 $13 { Intending ...Bg6. Black has great compensation, because it is hard for White to develop. In addition, Black should be able to regain the pawn on c6. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464712/"]
+[Date "????.??.??"]
+[Round "14.3"]
+[White "13. Scotch Four Knights Game - 4.d4"]
+[Black "Scotch Four Knights 10.Ne2 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 ( { The Scotch Variation of the Four Knights, which, as the name suggests, is often reached via the Scotch move order } 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 { . In recent years, it has gained in popularity as an alternative to } 5. Nxc6 { . } ) 
+Bb4 6. Nxc6 bxc6 { Taking towards the centre. Our pawns are doubled but we will push ...d5 next. } 7. Bd3 d5 8. exd5 { By far the most popular. } O-O { Black usually plays 8...cxd5 which is not bad but we have another idea in mind. } 9. O-O { -KEY- } Bg4 $5 ( { A fresh idea, which occured in high-level practice in 2018. It allows Black to equalize in a dynamic way, without need of delving into the intricacies of various move orders after the automatic } 9... cxd5 ) 
+10. Ne2 { This timid continuation is recommended by Christoph Sielecki in his popular 'Keep It Simple 1.e4' repertoire. } cxd5 11. h3 Bh5 12. c4 { A typical move to leave Black with an isolated pawn. } dxc4 13. Bxc4 Bd6 14. Re1 { This is the end of Sielecki's line, but a very important possibility has to be mentioned here: } Re8 15. Be3 Rxe3 $1 { Not the only move but the nice one. } 16. fxe3 Qe7 { Black should in fact soon regain the exchange. } 17. Qd2 ( 17. Qd4 Rd8 18. Nf4 Bc5 19. Qc3 Bb4 { is a clean equalizer. } ) 
+Rd8 { Threatening both ...Bh2+ and ...Bb4. } 18. Nd4 Bb4 19. Qf2 Bxe1 20. Rxe1 Qd6 $11 { Now White no longer has the structural edge and the position is just equal. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464713/"]
+[Date "????.??.??"]
+[Round "14.4"]
+[White "13. Scotch Four Knights Game - 4.d4"]
+[Black "Scotch Four Knights 10.Be2 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 ( { The Scotch Variation of the Four Knights, which, as the name suggests, is often reached via the Scotch move order } 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 { . In recent years, it has gained in popularity as an alternative to } 5. Nxc6 { . } ) 
+Bb4 6. Nxc6 bxc6 { Taking towards the centre. Our pawns are doubled but we will push ...d5 next. } 7. Bd3 d5 8. exd5 { By far the most popular. } O-O { Black usually plays 8...cxd5 which is not bad but we have another idea in mind. } 9. O-O Bg4 $5 { A fresh idea, which occured in high-level practice in 2018. It allows Black to equalize in a dynamic way, without need of delving into the intricacies of various move orders after the automatic 9... cxd5. } 10. Be2 { Played by Carlsen in blitz once and everything with the World Champion's stamp of approval needs to be checked, if only briefly. -KEY- } Bxe2 11. Nxe2 cxd5 12. Bg5 Be7 { Not the only option, but the easiest one psychologically, getting rid of the unpleasant pin. We can move the queen and avoid doubled pawns. } 13. Nd4 Qd7 { Easily covering c6 and f5. } 14. Qf3 Ne4 { After 14...h6 15.Bh4 Ne4 White has a possibility of 16.Nf5 but it's still around equal so you can play like this. } 15. Bxe7 Qxe7 $11 { is totally equal. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9464715/"]
+[Date "????.??.??"]
+[Round "14.5"]
+[White "13. Scotch Four Knights Game - 4.d4"]
+[Black "Scotch Four Knights 10.f3 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 ( { The Scotch Variation of the Four Knights, which, as the name suggests, is often reached via the Scotch move order } 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 { . In recent years, it has gained in popularity as an alternative to } 5. Nxc6 { . } ) 
+Bb4 6. Nxc6 bxc6 { Taking towards the centre. Our pawns are doubled but we will push ...d5 next. } 7. Bd3 d5 8. exd5 { By far the most popular. } O-O { Black usually plays 8...cxd5 which is not bad but we have another idea in mind. } 9. O-O Bg4 $5 { A fresh idea, which occured in high-level practice in 2018. It allows Black to equalize in a dynamic way, without need of delving into the intricacies of various move orders after the automatic 9... cxd5. } 10. f3 { This seems to be critical. It's so far the most popular and it's also a top engine's recommendation. It weakens the g1-a7 diagonal (we will make a use of that) but it's a tempo move. The play is very concrete. -KEY- } Bh5 11. dxc6 Qd4+ { We are regaining pawns by force. } 12. Kh1 Bxc3 13. bxc3 Qxc3 14. Rb1 Bg6 $11 { Black is going to take the c6 pawn, with equality. } 
+ *

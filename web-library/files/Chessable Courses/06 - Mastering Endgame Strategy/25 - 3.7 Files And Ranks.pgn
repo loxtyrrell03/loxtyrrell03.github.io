@@ -1,0 +1,163 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12564285/"]
+[Date "????.??.??"]
+[Round "25.1"]
+[White "3.7 Files And Ranks"]
+[Black "Files and ranks"]
+[Result "*"]
+
+ { Now we have arrived at the topic of seizing ranks and files with our rooks. By the way, I touched upon this subject quite thoroughly from a middlegame perspective in 'Mastering Chess Strategy'. Among all the ranks, the seventh (for Black - the second) has particular importance in the endgame, due to the proximity to the enemy pawns, alongside the potential mating motifs. Often the seizure of the seventh rank is a consequence of the control of an open file. Here are some related examples. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553040/"]
+[Date "????.??.??"]
+[Round "25.2"]
+[White "3.7 Files And Ranks"]
+[Black "Example 225- Lerner- K. vs. Mikhalchishin- A.- USSR 1979"]
+[Result "1-0"]
+[FEN "3r3k/2Rb4/2p5/P1R4P/4P1p1/8/rP3PK1/8 w - - 0 1"]
+
+ { Material is about even, but White's following rook transfer decided the battle. } 1. { -KEY- } Re5 $1 { Heading for e7 in order to seize the seventh rank with both rooks. } Be8 ( { Or } 1... Rxb2 2. Re7 Bc8 3. Rh7 { with similar consequences as in the game. } ) 
+ ( 1... Re8 { is equally hopeless in view of } 2. Rxe8 Bxe8 3. Rc8 { , as observed by nayoncohr. } ) 
+2. Ree7 Rxa5 ( { If } 2... Bxh5 3. Rh7 Kg8 4. Rxh5 { , White emerges two pawns up in the ending. } ) 
+3. Rh7+ Kg8 4. Rcg7+ Kf8 5. h6 $1 { In view of the imminent mate, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553041/"]
+[Date "????.??.??"]
+[Round "25.3"]
+[White "3.7 Files And Ranks"]
+[Black "Example 226- Salwe- G. vs. Rubinstein- A.- Carlsbad 1907"]
+[Result "0-1"]
+[FEN "1k1r4/1p6/p1prnp2/P3p1p1/1PP1P2p/5P2/2R1NKPP/1R6 b - - 0 1"]
+
+ { Black controls the only open file and is now ready to use it for an invasion. } 1... { -KEY- } Rd2 $1 2. Rbb2 { Logically enough, White keeps the crucial second rank under control. } Rxc2 3. Rxc2 Rd3 $1 { In the endgame, the reduced number of pieces often makes the third rank a possible working area for the rook. Note that this move becomes more efficient once one pair of rooks have left the board, since White will have more difficulties in protecting his pawns. } 4. Rb2 { Defending against the threat of 4...Rb3. } ( { a) Instead, } 4. Rc3 $2 { permitted } Rd2 $1 5. Ke3 Rb2 { with the double threat of 6...Rxb4 and 6...Nf4; } ) 
+ ( { b) while the active } 4. b5 $5 { is well met by } Ra3 $1 5. b6 c5 6. Rd2 Nd4 ) 
+Kc7 { A useful move, whereas White can hardly undertake anything. } 5. c5 Kd7 6. g3 $2 ( 6. Nc1 Rd1 7. Ne2 { was more tenacious, when Black could keep the pressure by } Nd4 { , intending } 8. Nxd4 exd4 { and ...Ke6-e5. } ) 
+hxg3+ 7. hxg3 g4 $1 { A strong pawn break that soon causes a collapse of White's position. } 8. Ng1 ( { Or } 8. fxg4 Ng5 { , recovering the pawn at once. } ) 
+Ng5 9. Ke2 Ra3 10. f4 { Paramount to suicide, but White was short of good options anyway. } Nxe4 11. fxe5 fxe5 12. Kf1 Nxg3+ 13. Kg2 Nh5 14. Rf2 Nf4+ 15. Kh1 Ra1 16. Rd2+ Ke7 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13811258/"]
+[Date "????.??.??"]
+[Round "25.4"]
+[White "3.7 Files And Ranks"]
+[Black "Salwe- G. vs. Rubinstein- A.- #1"]
+[Result "0-1"]
+[FEN "1k1r4/1p6/p1prnp2/P3p1p1/1PP1P2p/5P2/2R1NKPP/1R6 b - - 0 1"]
+
+ { Black controls the only open file and is now ready to use it for an invasion. } 1... { -KEY- } Rd2 $1 2. Rbb2 { Logically enough, White keeps the crucial second rank under control. } Rxc2 3. Rxc2 Rd3 $1 { In the endgame, the reduced number of pieces often makes the third rank a possible working area for the rook. Note that this move becomes more efficient once one pair of rooks have left the board, since White will have more difficulties in protecting his pawns. } 4. Rb2 { Defending against the threat of 4...Rb3. } ( { Instead, } 4. Rc3 $2 { permitted } Rd2 $1 5. Ke3 Rb2 { with the double threat of 6. ..Rxb4 and 6...Nf4 } ) 
+ ( { while the active } 4. b5 $5 { is well met by } Ra3 $1 5. b6 c5 6. Rd2 Nd4 ) 
+Kc7 { A useful move, whereas White can hardly undertake anything. } 5. c5 Kd7 6. g3 $2 ( 6. Nc1 Rd1 7. Ne2 { was more tenacious, when Black could keep the pressure by } Nd4 { intending } 8. Nxd4 exd4 { and ...Ke6-e5. } ) 
+hxg3+ 7. hxg3 g4 $1 { A strong pawn break that soon causes a collapse of White's position. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13128060/"]
+[Date "????.??.??"]
+[Round "25.5"]
+[White "3.7 Files And Ranks"]
+[Black "Example 227- Karpov- A. vs. Uhlmann- W.- Madrid 1973"]
+[Result "1-0"]
+[FEN "2rr2k1/1p3ppp/8/pB1p4/P2Pb1P1/8/1P3PP1/R3R1K1 w - - 0 1"]
+
+ { Black is about to seize the second rank by ...Rc2, but it is White to move, and he now exploits the e-file in order to seize the seventh rank. } 1. { -KEY- } f3 $1 Bg6 2. Re7 $1 b6 $6 ( { Probably } 2... Rc2 { was better, although after } 3. Rae1 h6 4. R1e2 $5 { (another promising option is } 4. Rxb7 Rxb2 5. Ree7 { - Kasparov) } Rxe2 5. Bxe2 b6 6. Rc7 { , followed by Kf2, White keeps some pressure. } ) 
+3. Rae1 h6 ( { With } 3... Rc2 $4 { obviously failing to } 4. Re8 { , Black has to spend a tempo on yet another pawn move. } ) 
+4. Rb7 $1 { The rook vacates e7 to its colleague with tempo. } Rd6 ( { Or } 4... Rc2 5. Ree7 { , when both } Rxb2 ( { and } 5... Kf8 6. f4 $1 ) 
+6. Be8 $1 { let White keep a strong initiative. } ) 
+5. Ree7 h5 ( { This time } 5... Rc2 { permits } 6. Re8 Kh7 7. Rbb8 $1 { , increasing the pressure - Karpov. } ) 
+6. gxh5 Bxh5 7. g4 $1 { The next step in White's plan is to advance his kingside pawns to deflect the enemy bishop from the defence of the f7-pawn. } ( 7. Be8 $6 Rc1 8. Kf2 Rc2 { was less convincing. } ) 
+Bg6 8. f4 $1 Rc1+ 9. Kf2 Rc2+ 10. Ke3 Be4 ( { Or } 10... Re6 11. Rxe6 fxe6 12. Rxb6 { and wins - Karpov. } ) 
+11. Rxf7 Rg6 12. g5 Kh7 13. Rfe7 $1 { Preparing Be8. } ( { a) } 13. Be8 $1 { at once was also strong; } ) 
+ ( { b) but not } 13. f5 $6 Rxg5 14. f6 Rf5 ) 
+Rxb2 14. Be8 Rb3+ 15. Ke2 Rb2+ 16. Ke1 Rd6 ( { Or } 16... Rb1 17. Kd2 Rb2 18. Kc3 Rc2 19. Kb3 { etc. - Karpov. } ) 
+17. Rxg7+ Kh8 18. Rge7 { Black resigned - seeing that, when his checks are over, the retreat of White's bishop will produce decisive mating threats. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13811260/"]
+[Date "????.??.??"]
+[Round "25.6"]
+[White "3.7 Files And Ranks"]
+[Black "Karpov- A. vs. Uhlmann- W.- #1"]
+[Result "1-0"]
+[FEN "2rr2k1/1p3ppp/8/pB1p4/P2Pb1P1/8/1P3PP1/R3R1K1 w - - 0 1"]
+
+ { Black is about to seize the second rank by ...Rc2, but it is White to move, and he now exploits the e-file in order to seize the seventh rank. } 1. { -KEY- } f3 $1 Bg6 2. Re7 $1 b6 $6 ( { Probably } 2... Rc2 { was better, although after } 3. Rae1 h6 4. R1e2 $5 { (another promising option is } 4. Rxb7 Rxb2 5. Ree7 { - Kasparov) } Rxe2 5. Bxe2 b6 6. Rc7 { , followed by Kf2, White keeps some pressure. } ) 
+3. Rae1 h6 ( { With } 3... Rc2 $4 { obviously failing to } 4. Re8 { Black has to spend a tempo on yet another pawn move. } ) 
+4. Rb7 $1 { The rook vacates e7 to its colleague with tempo. } Rd6 ( { Or } 4... Rc2 5. Ree7 { when both } Rxb2 ( { and } 5... Kf8 6. f4 $1 ) 
+6. Be8 $1 { let White keep a strong initiative. } ) 
+5. Ree7 h5 ( { This time } 5... Rc2 { permits } 6. Re8 Kh7 7. Rbb8 $1 { increasing the pressure - Karpov. } ) 
+6. gxh5 Bxh5 7. g4 $1 { The next step in White's plan is to advance his kingside pawns to deflect the enemy bishop from the defence of the f7-pawn. } ( 7. Be8 $6 Rc1 8. Kf2 Rc2 { was less convincing. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13811259/"]
+[Date "????.??.??"]
+[Round "25.7"]
+[White "3.7 Files And Ranks"]
+[Black "Karpov- A. vs. Uhlmann- W.- #2"]
+[Result "1-0"]
+[FEN "2r3k1/1R2Rpp1/1p1r4/pB1p3b/P2P2P1/5P2/1P6/6K1 b - - 0 7"]
+
+7... { -KEY- } Bg6 8. f4 $1 Rc1+ 9. Kf2 Rc2+ 10. Ke3 Be4 ( { Or } 10... Re6 11. Rxe6 fxe6 12. Rxb6 { and wins - Karpov. } ) 
+11. Rxf7 Rg6 12. g5 Kh7 13. Rfe7 $1 { Preparing Be8. } ( { a) } 13. Be8 $1 { at once was also strong; } ) 
+ ( { b) but not } 13. f5 $6 Rxg5 14. f6 Rf5 ) 
+Rxb2 14. Be8 Rb3+ 15. Ke2 Rb2+ 16. Ke1 Rd6 ( { Or } 16... Rb1 17. Kd2 Rb2 18. Kc3 Rc2 19. Kb3 { etc - Karpov. } ) 
+17. Rxg7+ Kh8 18. Rge7 { Black resigned - seeing that, when his checks are over, the retreat of White's bishop will produce decisive mating threats. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13128065/"]
+[Date "????.??.??"]
+[Round "25.8"]
+[White "3.7 Files And Ranks"]
+[Black "Example 228- Petrosian- TV. vs. Balashov- Y.- USSR Championship- Leningrad 1977"]
+[Result "1-0"]
+[FEN "6k1/1R3p1p/6p1/2p5/r1P1r3/P3P3/5PPP/2R3K1 w - - 0 1"]
+
+ { In this double rook ending Black had pinned his hopes on the trade of the queenside pawns, thus reaching a structure with four pawns vs. three on the kingside. However, Petrosian had other plans. } 1. { -KEY- } Rd1 $1 { Heading for d7. } Rxa3 2. g3 Ra8 $2 { Underestimating the danger on the seventh rank. } ( { By } 2... Ra6 $1 3. Rdd7 $6 ( { instead, White should prefer } 2... Ra8 2. Rc1 Ra4 4. Rc7 Rexc4 5. Rxc5 { , transposing to the above-mentioned ending. } ) 
+Rf6 { Black could have defended the f7-pawn in a more active way - Tal. } ) 
+3. Rdd7 $1 Rf8 4. Rbc7 Rxc4 5. Kg2 { Material is even, but White is much better thanks to his pressure along the seventh rank and the passive enemy rook on f8. Next, his plan is to advance e3-e4-e5-e6, creating a mating motif if the black king remains on the back rank. } h5 6. h3 Kg7 7. Kf3 Kf6 8. h4 Kg7 9. Re7 $1 { Facilitating the advance of the e-pawn. } Kf6 10. e4 Rd4 11. e5+ Kf5 ( 11... Kg7 $2 { would run into } 12. e6 ) 
+12. Rxc5 { The endgame with four vs. three on the kingside is finally reached, but in quite an unusual version where Black is still suffering from the pressure at f7. Besides, the double pair of rooks means that his king is exposed to mating motifs. } Rd3+ 13. Kg2 Ra3 14. Rc6 { Heading for f6. } ( { Equally interesting was } 14. Rc4 $5 g5 { (mate was threatened) } 15. hxg5 Kxg5 16. Rf4 Kg6 17. Rf6 Kg7 18. Kh3 { , followed by f2-f4 and Kh4. } ) 
+Ke4 15. Rf6 Raa8 16. e6 $1 ( { Not } 16. Rfxf7 $2 Rxf7 17. Rxf7 Kxe5 ) 
+Ke5 ( { Obviously, } 16... fxe6 $2 17. Rexe6 { would lead to the loss of the g6-pawn. } ) 
+17. Rfxf7 Rg8 18. Rb7 $5 { An interesting choice - Petrosian abandons the e-pawn in exchange for a positional advantage: a cut-off enemy king. } ( 18. Rg7 $2 Rxg7 19. Rxg7 Kf6 { was less to the point } ) 
+ ( { though by } 18. f4 $5 Kd6 19. Rg7 { , White could improve that variation, with excellent winning chances; e.g. } Rab8 20. Rb7 $1 Ra8 ( { or } 20. Rb7 Kxe6 21. Rxg6 ) 
+21. Rxg8 Rxg8 22. e7 { , followed by Kf3-e4. } ) 
+Kxe6 19. Rbe7+ Kd6 20. Re2 Raf8 21. Ra7 Ra8 22. Rae7 Rac8 23. R2e6+ { Preparing a curious, but strong plan: Kh3, f2-f4, Ra6 and Ree6 with a decisive attack at g6. } Kd5 24. Kh3 Rc7 $2 { A grave error in a difficult position. } 25. Rxg6 $1 { Seeing that he will end up two pawns down, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13811261/"]
+[Date "????.??.??"]
+[Round "25.9"]
+[White "3.7 Files And Ranks"]
+[Black "Petrosian- TV. vs. Balashov- Y.- #1"]
+[Result "1-0"]
+[FEN "6k1/1R3p1p/6p1/2p5/r1P1r3/P3P3/5PPP/2R3K1 w - - 0 1"]
+
+ { In this double rook ending Black had pinned his hopes on the trade of the queenside pawns, thus reaching a structure with four pawns vs. three on the kingside. However, Petrosian had other plans. } 1. { -KEY- } Rd1 $1 { Heading for d7. } Rxa3 2. g3 Ra8 $2 { Underestimating the danger on the seventh rank. } ( { By } 2... Ra6 $1 3. Rdd7 $6 ( { instead, White should prefer } 2... Ra8 2. Rc1 Ra4 4. Rc7 Rexc4 5. Rxc5 { transposing to the above-mentioned ending; } ) 
+Rf6 { Black could have defended the f7-pawn in a more active way - Tal. } ) 
+3. Rdd7 $1 Rf8 4. Rbc7 Rxc4 5. Kg2 { Material is even, but White is much better thanks to his pressure along the seventh rank and the passive enemy rook on f8. Next, his plan is to advance e3-e4-e5-e6, creating a mating motif if the black king remains on the back rank. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13811262/"]
+[Date "????.??.??"]
+[Round "25.10"]
+[White "3.7 Files And Ranks"]
+[Black "Petrosian- TV. vs. Balashov- Y.- #2"]
+[Result "1-0"]
+[FEN "5r2/2RR1p2/5kp1/2p4p/2r4P/4PKP1/5P2/8 b - - 0 8"]
+
+8... { -KEY- } Kg7 9. Re7 $1 { Facilitating the advance of the e-pawn. } Kf6 10. e4 Rd4 11. e5+ Kf5 ( 11... Kg7 $2 { would run into } 12. e6 ) 
+12. Rxc5 { The endgame with four vs. three on the kingside is finally reached, but in quite an unusual version where Black is still suffering from the pressure at f7. Besides, the double pair of rooks means that his king is exposed to mating motifs. } Rd3+ 13. Kg2 Ra3 14. Rc6 { Heading for f6. } ( { Equally interesting was } 14. Rc4 $5 g5 { (mate was threatened) } 15. hxg5 Kxg5 16. Rf4 Kg6 17. Rf6 Kg7 18. Kh3 { followed by f2-f4 and Kh4. } ) 
+Ke4 15. Rf6 Raa8 16. e6 $1 ( { Not } 16. Rfxf7 $2 Rxf7 17. Rxf7 Kxe5 ) 
+Ke5 ( { Obviously, } 16... fxe6 $2 17. Rexe6 { would lead to the loss of the g6-pawn. } ) 
+17. Rfxf7 
+ 1-0

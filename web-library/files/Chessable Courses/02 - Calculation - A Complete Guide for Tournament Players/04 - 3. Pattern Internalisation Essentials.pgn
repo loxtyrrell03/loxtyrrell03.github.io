@@ -1,0 +1,451 @@
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/10216625/"]
+[Date "????.??.??"]
+[Round "4.1"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Introduction to Pattern Internalisation Essentials"]
+[Result "*"]
+
+ { One of the key advantages a human has over chess engines is the ability to recognise patterns. After sufficient exposure to the game, you probably would have noticed a certain type of checkmate or an opening trap occurring rather frequently. Some examples include a back rank checkmate or a trick on the f7/f2 square. These positions and tactical combinations may have then left a deep impression on you. As a result, whenever a similar position presents itself again, you are able to execute the correct series of moves instinctively. This is how pattern recognition works. The secret to rapid improvement lies in the ability to recognise a given pattern after only few exposures. Hence, to expedite your chess growth, I have developed a method which I will call Pattern Internalisation Essentials (PIE) . PIE is intended to help you effectively internalise new tactical patterns for which you have just found the correct sequence of moves. It comprises the following four steps: 1. Notice how the relevant chess pieces interact. Take note of the responsibilities of every piece in making the tactic possible. The more purposefully we pay attention to the dynamics between the pieces, the deeper we will appreciate the pattern. This enhances our ability to carry out the subsequent steps. 2. Determine the types of strategical weaknesses in your opponent’s position that pave the way for the tactic. This includes poor piece activity, weak squares, specific unprotected pieces, and many more. By training ourselves to identify the preconditions for a tactical combination, we are adding to our repertoire of tactical motifs. Ultimately, this will sharpen our tactical vision. For example, whenever we see our opponent having three pawns on their original squares in front of his King, we would instinctively find ways to manoeuvre a major piece towards the back rank. 3. Consider changing the position slightly in a realistic manner. You may change, add, or remove certain critical pieces. Check if the tactic still works, or if a different tactic becomes available. At first glance, this step may appear redundant. However, if you go through it diligently, you are poised to solve a wider range of similar positions from a single pattern. Take for example the back rank checkmate whose basic motif is three pawns in front of the King. Now, suppose one of the pawns had been shifted out of the second rank (e.g. h2-h3) , creating a flight square, h2, for the King. As long as this flight square is covered by one of our pieces (e.g. Bb8 or Ng4) , back rank checkmate remains a possibility. From this imaginative exercise arising from just one pattern (three pawns in front of King) , we are able to solve multiple positions may well present themselves from time to time in our games. In fact, following through this step yields a bigger benefit. You will develop a deeper appreciation of what you found from the earlier two steps. Let me explain. Suppose you have changed the position by giving the opponent an extra dark-squared Bishop. And then you realise that the particular tactic no longer works. This highlights the value of your pieces controlling dark squares (which you might have found in step 1) , and confirms that weak dark squares are a key strategical weakness in the opponent’s camp (which you might have found in step 2) . 4. Mentally play out the tactical combination a few times. Be sure to include critical variations when doing so. Making mental moves repeatedly helps sear the combination in your mind and acquaints you with the key moves. Unlike the methods presented in previous chapters, PIE can be approached a lot more flexibly. It is up to you how thoroughly and for how long you would like to execute each step. Using PIE on a single pattern can take anywhere between 20 seconds and 10 minutes. The whole idea is for you to have a deeper appreciation of the pattern. To progressively familiarise you with PIE, this chapter is divided into four sections. In the first, I will show you a set of 10 common checkmating patterns. Working with familiar patterns, it will be easier for you to understand how PIE can be used. I will share my own thought process in detail as I work through each step. Bear in mind that there are dozens of ways to carry out each step for any given pattern. So don’t be afraid to come up with your own ideas. In the second section, you will be given 5 relevant puzzles to put what you have learnt to practice. This is the “Aha!” moment for many students because they realise that PIE has enabled them to sense obscure mating possibilities in otherwise difficult positions. As a result, they are able to steer the game to desirable positions with ease. In the third section, we will then return to using PIE on another set of 10 patterns. But this time, they are significantly more complex and are taken from real games. This will give you a better idea of how to use PIE in practical situations. And in the final section, we will solve another 5 puzzles related to these 10 complex patterns. } 1. -- 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/13309994/"]
+[Date "????.??.??"]
+[Round "4.2"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Clues- Goals- and Exceptions"]
+[Result "*"]
+[FEN "rr4k1/q4ppp/8/1b6/3Q2N1/8/3R1PPP/1B1R2K1 w - - 0 1"]
+
+ { When you apply PIE to any pattern, three key elements will become salient to you: The clues, the goals, and the exceptions. In the case of this back rank mate, the clue is the three pawns directly in front of the Black King. The goal is then to move one of your major pieces to the back rank safely. Since we have three major pieces attacking d8 while Black only has two, Qd8+ would initially appear to be a good sacrifice leading to mate. } 1. { -KEY- } Qxa7 ( 1. Qd8 $4 Rxd8 2. Rxd8 Be8 $1 { Black does not have to take on d8 now, and can block on e8 instead. White is now losing because of his material deficit. This brings me to the third element - exceptions. Exceptions are seemingly insignificant changes to a chess pattern that greatly alter the outcome of the tactic. This is a key weapon stronger players use to swindle average players. } ) 
+Rxa7 { Forcing Black to leave his b8 Rook unprotected } 2. Rd8+ Be8 3. Rxb8 { And White has just won a Rook. In sum, every chess pattern has its own unique clues, goals, and exceptions. To have a strong understanding of a given pattern, we will need to know all three. So without further ado, let’s practice applying PIE to simple patterns to improve our process of acquiring the three elements. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/10216873/"]
+[Date "????.??.??"]
+[Round "4.3"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #1 | Anastasia's Mate"]
+[Result "*"]
+[FEN "5rk1/5ppp/8/3N4/8/3QR3/5PPP/6K1 w - - 0 1"]
+
+ { 1.	Notice how the relevant chess pieces interact. Take note of the responsibilities of every piece in making the tactic possible. 2.	Determine the types of strategical weaknesses in your opponent’s position that pave the way for the tactic. 3.	Consider changing the position slightly in a realistic manner. Check if the tactic still works, or if a different tactic becomes available. 4.	Mentally play out the tactical combination a few times. } 1. { -KEY- } Ne7+ Kh8 2. Qxh7+ Kxh7 3. Rh3# { 1. Piece interactions and responsibilities: (i) White Knight covers g6 and g8 (ii) White Queen opened h-file and forced 2…Kxh7 (iii) White Rook delivers a ”side file checkmate” (iv) Black pawns and Rook, particularly the g7 pawn, prevented the King from escaping the mating net throughout this combination 2. Strategical weaknesses: (i) h7 must be unprotected at the starting position (ii) e7 must not be defended at the starting position (iii) Black must have poor control over the h-file and the h3 square 3a. Changes in the position that would make this particular combination fail: (i) Black has a c6 Knight (ii) Black has an f6 Knight (iii) Black Rook or two pawns are not on their current squares (iv) White Queen is replaced with a Bishop since 2. Bxh7 does not force Kxh7 (v) Black has a Bishop on g7 instead of a pawn since 3. Rh3+ can be met with 3…Bh6 3b. Changes in the position that would still allow the tactic to work: (i) The White piece capturing h7 on move 2 can also be a Rook. For example, if White did not have the Queen but had another Rook on h3 } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11657742/"]
+[Date "????.??.??"]
+[Round "4.4"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #2 | Smothered Mate"]
+[Result "*"]
+[FEN "4r1k1/6pp/8/6N1/8/6Q1/5PPP/6K1 w - - 0 1"]
+
+ { 1.	Notice how the relevant chess pieces interact. Take note of the responsibilities of every piece in making the tactic possible. 2.	Determine the types of strategical weaknesses in your opponent’s position that pave the way for the tactic. 3.	Consider changing the position slightly in a realistic manner. Check if the tactic still works, or if a different tactic becomes available. 4.	Mentally play out the tactical combination a few times. } 1. { -KEY- } Qb3+ Kh8 ( 1... Kf8 2. Qf7 { Be sure to keep key variations such as this one in mind for step 4 } { _ } ) 
+2. Nf7+ Kg8 3. Nh6+ Kh8 ( 3... Kf8 4. Qf7 ) 
+4. Qg8+ Rxg8 5. Nf7# { 1. Piece interaction and responsibilities: (i) White Queen prevented …Kf8 throughout the combination (ii) White Queen also forced 4…Rxg8 (iii) White Knight helps the White Queen fulfil these two responsibilities (iv) White Knight delivers the checkmate by attacking a single square, h8 (v) Black pawns and Rook smother their King to allow checkmate 2. Strategical weaknesses: (i) f7 must not be defended at the starting position (ii) Black must have poor control over the a2-g8 diagonal so that the initial check cannot be blocked 3a. Changes in the position that would make this particular combination fail: (i) Black pawns are not on their current squares (ii) Black h7 pawn is replaced with a Black Bishop since Qg8+ can be met with Bxg8 3b. Changes in the position that would still allow the tactic to work: (i) Black g7 pawn is replaced with a Black Bishop or a Knight (ii) Black has an additional Knight on e7 to cover g8 (iii) Black Rook is on f8 instead of e8 since 1. Qb3+ Kh8 2. Nf7+ Rxf7 can be met with Qb8+ and a back rank mate } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11657743/"]
+[Date "????.??.??"]
+[Round "4.5"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #3 | Boden's Mate"]
+[Result "*"]
+[FEN "2kr4/pp1n4/2p5/8/5B2/5Q2/5PPP/5BK1 w - - 0 1"]
+
+ { 1.	Notice how the relevant chess pieces interact. Take note of the responsibilities of every piece in making the tactic possible. 2.	Determine the types of strategical weaknesses in your opponent’s position that pave the way for the tactic. 3.	Consider changing the position slightly in a realistic manner. Check if the tactic still works, or if a different tactic becomes available. 4.	Mentally play out the tactical combination a few times. } 1. { -KEY- } Qxc6+ bxc6 2. Ba6# { 1. Piece interaction and responsibilities: (i) White dark-squared Bishop prevents Kb8 and Kc7 (ii) White light-squared Bishop delivers checkmate, taking away the two remaining squares, b7 and c8 (iii) White Queen forces bxc6 which allows Ba6# (iv) Black Knight and Rook prevent the King from escaping the checkmate 2. Strategical weaknesses: (i) c6 must be unprotected at the starting position (ii) a6 must be unprotected at the starting position (iii) Black must have poor control over the f4-b8 diagonal 3a. Changes in the position that would make this particular combination fail: (i) Black Knight is replaced with a Black Bishop (ii) Black Knight or Rook are not on their current squares 3b. Changes in the position that would still allow the tactic to work: (i) Black c6 pawn is removed (ii) Black c6 pawn is replaced by any Black piece (iii) Black has an additional minor piece on a6 (iv) Black pawn is on a6 instead of a7 } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11657744/"]
+[Date "????.??.??"]
+[Round "4.6"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #4 | Morphy’s/Corner Mate"]
+[Result "*"]
+[FEN "7k/5p1p/3N4/8/8/8/8/2B3RK w - - 0 1"]
+
+ { 1.	Notice how the relevant chess pieces interact. Take note of the responsibilities of every piece in making the tactic possible. 2.	Determine the types of strategical weaknesses in your opponent’s position that pave the way for the tactic. 3.	Consider changing the position slightly in a realistic manner. Check if the tactic still works, or if a different tactic becomes available. 4.	Mentally play out the tactical combination a few times. } 1. { -KEY- } Bb2+ ( 1. Nxf7 { The Corner mate } ) 
+f6 2. Bxf6# { Morphy's mate 1. Piece interaction and responsibilities: (i) White Rook prevents the Black King from escaping to g7 or g8 (ii) Black h7 pawn prevents the Black King from escaping to the last square, h7 (iii) White Bishop/Knight delivers a check from a square that they cannot be blocked or captured, resulting in checkmate 2. Strategical weaknesses: (i) Black must have poor control over the g-file (ii) Black must have poor control over the b2-h8 diagonal (For Morphy’s mate) (iii) f7 must not be defended at the starting position (For Corner mate) 3a. Changes in the position that would make this particular combination fail: (i) Black has an additional Rook on f8 (ii) Black h7 pawn is replaced by a Black Knight (For Morphy’s mate) 3b. Changes in the position that would still allow the tactic to work: (i) Black h7 pawn is replaced by a Black Bishop } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11657745/"]
+[Date "????.??.??"]
+[Round "4.7"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #5 | Damiano’s Mate"]
+[Result "*"]
+[FEN "5rk1/6p1/4n1P1/8/8/8/8/1KQ4R w - - 0 1"]
+
+ { 1.	Notice how the relevant chess pieces interact. Take note of the responsibilities of every piece in making the tactic possible. 2.	Determine the types of strategical weaknesses in your opponent’s position that pave the way for the tactic. 3.	Consider changing the position slightly in a realistic manner. Check if the tactic still works, or if a different tactic becomes available. 4.	Mentally play out the tactical combination a few times. } 1. { -KEY- } Rh8+ Kxh8 2. Qh1+ Kg8 3. Qh7# { 1. Piece interaction and responsibilities: (i) White g6 pawn covers f7 and h7 (ii) White Queen delivers a checkmate by covering g8 and h8 (iii) Black Rook prevents the Black King from escaping to f8 2. Strategical weaknesses: (i) Black must have weak light squares around the Black King (ii) h7 must not be defended at the starting position (iii) Black allowed the White pawn to reach g6, where it gives White strong attacking prospects 3a. Changes in the position that would make this particular combination fail: (i) Black Rook is replaced with a Knight (ii) Black Rook is not on its current square 3b. Changes in the position that would still allow the tactic to work: (i) White g6 pawn is replaced with a White Bishop (ii) Black f8 Rook is replaced with any Black piece except a Knight } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11657751/"]
+[Date "????.??.??"]
+[Round "4.8"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #6 | Lolli's Mate"]
+[Result "*"]
+[FEN "1qr3k1/5p1p/5Pp1/8/8/8/PPPQ4/1K6 w - - 0 1"]
+
+ { 1.	Notice how the relevant chess pieces interact. Take note of the responsibilities of every piece in making the tactic possible. 2.	Determine the types of strategical weaknesses in your opponent’s position that pave the way for the tactic. 3.	Consider changing the position slightly in a realistic manner. Check if the tactic still works, or if a different tactic becomes available. 4.	Mentally play out the tactical combination a few times. } 1. { -KEY- } Qh6 Rc7 { Black may also choose to jettison his pieces with check to delay the inevitable mate. However, that is not a critical variation. } 2. Qg7# { 1. Piece interaction and responsibilities: (i) White f6 pawn supports the Queen on g7 (ii) White Queen delivers a checkmate by landing on a protected square directly in front of the enemy King (iii) Black f7 pawn obstructs any lateral defence to g7 2. Strategical weaknesses: (i) Black must have weak dark squares around the Black King (ii) Black allowed the White pawn to reach f6, where it gives White strong attacking prospects 3a. Changes in the position that would make this particular combination fail: (i) Black has an additional Bishop on f8 or h8 (ii) Black has an additional Knight on e8, e6, f5, or h5 (iii) Black King is on h8 instead of g8 since 1. Qh6 can be met with 1…Rg8 3b. Changes in the position that would still allow the tactic to work: (i) White f6 pawn is replaced with a White Bishop (ii) White f6 pawn and h6 Queen positions are swapped } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11657746/"]
+[Date "????.??.??"]
+[Round "4.9"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #7 | Opera Mate"]
+[Result "*"]
+[FEN "r3n1k1/5p1p/5BpQ/8/8/8/PPP5/2KR4 w - - 0 1"]
+
+ { 1.	Notice how the relevant chess pieces interact. Take note of the responsibilities of every piece in making the tactic possible. 2.	Determine the types of strategical weaknesses in your opponent’s position that pave the way for the tactic. 3.	Consider changing the position slightly in a realistic manner. Check if the tactic still works, or if a different tactic becomes available. 4.	Mentally play out the tactical combination a few times. } 1. { -KEY- } Qxh7+ Kxh7 2. Rh1+ Kg8 3. Rh8# { 1. Piece interaction and responsibilities: (i) Black Knight prevented an immediate 1. Qg7#, which resembles Lolli’s mate (ii) White Queen opened the h-file and drew the King to h7 with Qxh7+ (iii) White Rook forced the King from h7 to g8 and then delivered mate by covering the squares f8, g8, and h7 (iv) White Bishop complements the White Rook in delivering mate by covering g7 and h8 (v) Black f7 pawn prevents Kf7 after 3. Rh8 (vi) Black g6 pawn prevents 2…Kg6 2. Strategical weaknesses: (i) Black must have weak dark squares around the Black King (ii) Black must have allowed White to control the h-file 3a. Changes in the position that would make this particular combination fail: (i) White Bishop is replaced with a White pawn (ii) White Queen is replaced with a Rook since 1. Rxh7 would not come with check and Black can play 1…Nxf6 (iii) Black e8 Knight is replaced with a Black f8 Bishop since 2. Rh1+ can be met with 2…Bh6 3b. Changes in the position that would still allow the tactic to work: (i) Black e8 Knight is replaced with a Black h8 Bishop } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11657747/"]
+[Date "????.??.??"]
+[Round "4.10"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #8 | Dovetail Mate"]
+[Result "*"]
+[FEN "1r6/pk6/4Q3/3P4/8/8/5PPP/6K1 w - - 0 1"]
+
+ { 1.	Notice how the relevant chess pieces interact. Take note of the responsibilities of every piece in making the tactic possible. 2.	Determine the types of strategical weaknesses in your opponent’s position that pave the way for the tactic. 3.	Consider changing the position slightly in a realistic manner. Check if the tactic still works, or if a different tactic becomes available. 4.	Mentally play out the tactical combination a few times. } 1. { -KEY- } Qc6# { 1. Piece interaction and responsibilities: (i) White d5 pawn protects the c6 Queen (ii) White Queen covers a6, b6, b7, c7, a8, and c8 (iii) Black pawn and Rook take away the remaining squares from the Black king, namely a7 and b8 2. Strategical weaknesses: (i) c6 must not be defended in the starting position 3a. Changes in the position that would make this particular combination fail: (i) Black pawn or Rook is removed from the board (ii) Black pawn or Rook is replaced with a Black Knight 3b. Changes in the position that would still allow the tactic to work: (i) Black pawn or Rook is replaced with any piece other than a Black Knight } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11657748/"]
+[Date "????.??.??"]
+[Round "4.11"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #9 | Suffocation Mate"]
+[Result "*"]
+[FEN "5rk1/5p1p/6p1/3N4/8/8/1B3PPP/6K1 w - - 0 1"]
+
+ { 1.	Notice how the relevant chess pieces interact. Take note of the responsibilities of every piece in making the tactic possible. 2.	Determine the types of strategical weaknesses in your opponent’s position that pave the way for the tactic. 3.	Consider changing the position slightly in a realistic manner. Check if the tactic still works, or if a different tactic becomes available. 4.	Mentally play out the tactical combination a few times. } 1. { -KEY- } Ne7# { 1. Piece interaction and responsibilities: (i) White Bishop covers g7 and h8 (ii) Black King is only one check from mate, and the White Knight deliver it on e7 (iii) Black King is suffocated by the f7 and h7 pawns and the Rook 2. Strategical weaknesses: (i) Black must have very weak dark squares around his King (ii) White needs an active, unobstructed, Bishop along the a1-h8 diagonal 3a. Changes in the position that would make this particular combination fail: (i) Either the Black f7 or h7 pawns or Rook is not around (ii) The Knight checks from a square that blocks the Bishop, namely f6 (iii) e7 is protected 3b. Changes in the position that would still allow the tactic to work: (i) White Knight checks on h6, which will still be mate even if the f7 pawn were removed (ii) White Bishop is replaced by a White Queen } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11657749/"]
+[Date "????.??.??"]
+[Round "4.12"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #10 | Greco’s Mate"]
+[Result "*"]
+[FEN "7k/6p1/8/8/8/1B6/5PPP/3Q2K1 w - - 0 1"]
+
+ { 1.	Notice how the relevant chess pieces interact. Take note of the responsibilities of every piece in making the tactic possible. 2.	Determine the types of strategical weaknesses in your opponent’s position that pave the way for the tactic. 3.	Consider changing the position slightly in a realistic manner. Check if the tactic still works, or if a different tactic becomes available. 4.	Mentally play out the tactical combination a few times. } 1. { -KEY- } Qh5# { 1. Piece interaction and responsibilities: (i) White Bishop covers g8 (ii) White Queen covers h7 and h8 to deliver mate (iii) Black g7 pawn is needed to block the final escape square 2. Strategical weaknesses: (i) Black must have a weak a2-g8 diagonal (ii) Black must have a weak and opened h-file 3a. Changes in the position that would make this particular combination fail: (i) The Black g7 pawn is not around (ii) White Queen is replaced by a Rook and the Black King is on h7 3b. Changes in the position that would still allow the tactic to work: (i) White Queen is replaced by a Rook on the third rank and the Black King remains on h8 (ii) White has no Bishop on the a2-g8 diagonal but Black has a Rook on g8 } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643288/"]
+[Date "????.??.??"]
+[Round "4.13"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Combining PIE and the Burger Technique"]
+[Result "*"]
+[FEN "4r1k1/4b1n1/1q3rP1/p2p1p2/1p3B2/5NN1/PPPQ1P2/1K5R w - - 0 1"]
+
+ { Now that you have applied PIE to the 10 mating patterns, you are armed with a new set of tactical motifs to work with. For example, when applying step 2 of the Burger Technique in this position, the White pawn on g6 should count as a tactical motif because it is a key feature of Damiano’s mate. Hence, when moving on to step 3 (calculating candidate moves), you should think of moves that allow you to land your Queen on h7 eventually. } ( { You may also recall the combination I showed with the Damiano’s mate pattern where White sacrificed with } 1. Rh8 { so that } Kxh8 { would allow the White Queen to land on the h-file with } 2. Qh1 { , followed by } Kg8 3. Qh7 { . However, our Queen doesn’t have access to the h-file right now. Therefore, using reciprocal thinking, we should think of ways to grant our Queen access to the h-file with tempo. And that’s how we arrive at … } ) 
+1. { -KEY- } Bc7 $1 { Attacking Black's Queen while clearing the way for an eventual Qh6. } Qxc7 2. Rh8+ Kxh8 3. Qh6+ Kg8 4. Qh7+ Kf8 5. Qh8# { This is how you combine PIE with the Burger Technique - By using the key feature of a pattern as a tactical motif, and then selecting candidate moves through logical reasoning. Similar to how other motifs of the Burger Technique (e.g., unprotected pieces, trappable pieces, critical squares) can be identified intuitively with enough practice, these new motifs acquired through PIE will also eventually become part of your subconscious mind, allowing you to spot potential mates even in faster games. To see how effectively you have internalised the patterns and motifs, we will attempt some checkmating puzzles. Be sure to keep an eye out for the new motifs we have found from the previous patterns. I will not provide any hints. However, the explanations and ideal thought process to solve each puzzle will be revealed only after you have completed it. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11701675/"]
+[Date "????.??.??"]
+[Round "4.14"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Puzzle #1 | Checkmating Puzzle"]
+[Result "*"]
+[FEN "r2r2k1/3q1pp1/p2b1n2/1p1P4/1P2p2p/P1B1PNP1/1Q1R1PKP/3N1R2 b - - 0 1"]
+
+1... { -KEY- } exf3+ { This is an obvious candidate move to consider } 2. Kxf3 ( 2. Kh1 Qh3 { Threatening mate on g2. } 3. Rg1 Ng4 { Threatening mate on h2, which cannot be stopped. } ) 
+Qg4+ { White's Kingside pawns all on dark squares and he has no light-squared Bishop. This makes his light squares are extremely weak. On top of that, with the Black pawn on h4, our newly heightened senses will tell us to look out for a Lolli's mate with the pawn potentially at h3 and the Queen at f3 } 3. Kg2 h3+ 4. Kg1 ( 4. Kh1 Qf3 5. Kg1 Qg2 ) 
+Qf3 { This simple puzzle illustrates how you can connect new patterns/motifs to solve positions. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11701677/"]
+[Date "????.??.??"]
+[Round "4.15"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Puzzle #2 | Checkmating Puzzle"]
+[Result "*"]
+[FEN "3q1rk1/5pp1/3p3p/1Q1N3P/2p3P1/R4n1B/rPP5/2K4R b - - 0 1"]
+
+1... { -KEY- } Ra1+ $1 { With a Qg5+ looming and the f3 Knight controlling d2, this position resembles a smothered mate pattern but with all the pieces shifted one file towards the centre. Additionally, after } ( 1... Qg5 2. Kb1 Nd2 3. Kxa2 { this position resembles the Anastasia's mate pattern with Ra8, if not for the White Rook at a3. Using reciprocal thinking, we realise that we should use our a2 Rook to divert the White a3 Rook from defending the King. } ) 
+2. Rxa1 Qg5+ 3. Kb1 Nd2+ 4. Kc1 Nb3+ 5. Kb1 Qc1+ 6. Rxc1 Nd2+ { A pseudo-smothered mate (variation:11657742) that morphs into the Anastasia's mate } 7. Ka2 Ra8+ 8. Qa6 Rxa6# 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11701716/"]
+[Date "????.??.??"]
+[Round "4.16"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Puzzle #3 | Checkmating Puzzle"]
+[Result "*"]
+[FEN "2rrb1k1/1p3p1p/p3p1pB/3P4/P1q1P3/3Q1P1P/4N1P1/R6K w - - 0 1"]
+
+1. { -KEY- } Qa3 $1 { Our Bishop on h6 strongly suggests that we have mating ideas on the dark squares. Looking at the position of the Black pieces, ideas of the Opera mate (with Qf8) and Lolli's mate (Qf6 or Qg7#) come to mind. Additionally, the critical square are f8, g7, and the critical diagonal is a1-h8. Hence, we arrive at the most efficient way to reroute our Queen to that critical diagonal. } Qc5 ( 1... Bd7 2. Qb2 ( 1... Qc5 1. Qe7 { to play Qf6 next is also strong } ) 
+ ) 
+2. Qb2 $1 { Thanks to the e2 Knight which reinforces our control over the diagonal, 2. ...Qc3 is not possible defence by Black } f6 3. Qxf6 Rd7 ( 3... Rd7 4. dxe6 Rdc7 5. Nf4 { With Nd5, Rd1, and Qe5 looming, White's attack will be decisive } ) 
+
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11701718/"]
+[Date "????.??.??"]
+[Round "4.17"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Puzzle #4 | Checkmating Puzzle"]
+[Result "*"]
+[FEN "r4rk1/1bp2pp1/p2bp2p/1p1n4/3P4/P1PQ2Pq/1PBBNP1P/R4RK1 b - - 0 1"]
+
+1... { -KEY- } Qg2+ $1 { This position is very sharp. White's light squares are very weak, especially with the Queen at h3 and the Bishop at b7. On the other hand, White is threatening an immediate Qh7#. This narrows our candidate moves to checks and defensive moves. Additionally, when looking out for familiar features in the position, we realise that we could have a Lolli's mate with a protected Queen at g2, or a Suffocation mate with the d5 Knight teleporting to h3. When considered together with the limit on our candidate moves, these two familiar patterns help uncover this beautiful combination. } 2. Kxg2 Nf4+ $1 { Double check! Stopping Kh3, while the Knight plans to go to h3 himself } 3. Kg1 { Forced } Nh3# 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11701719/"]
+[Date "????.??.??"]
+[Round "4.18"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Puzzle #5 | Checkmating Puzzle"]
+[Result "*"]
+[FEN "r4rk1/p4ppp/Pp4n1/4BN2/1bq5/7Q/2P2PPP/3RR1K1 w - - 0 1"]
+
+1. { -KEY- } Qh6 $1 { Black has weak dark squares. Even though he has a g7 pawn, the attack from White's Knight and Bishop is too much to defend. On top of that, the Knight is within arm's reach of Ne7 and Nh6, which may remind you of the suffocation mate. All we need to do is remove the g7 from defending h6. } ( 1. Bxg7 Bxe1 { White may have an attack, but there is no immediate mate } ) 
+gxh6 { Otherwise, Qxg7 would be mate } 2. Nxh6# 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11701758/"]
+[Date "????.??.??"]
+[Round "4.19"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Applying PIE to Complex Patterns"]
+[Result "*"]
+
+ { PIE can be used at any time you see an unfamiliar tactical pattern, which can be found just about anywhere – from puzzle books and game analyses to chess live streams and Youtube videos. However, there are times you may find patterns which are so novel that you doubt you’ll ever see it in your own games. It is all to easy to dismiss them as one-offs which aren’t worthy to be internalised. On the contrary, these combinations are gold mines that will give you the edge to outsmart your opponents. After all, if we only study common patterns, how will we ever see tactics that our opponents can’t? Furthermore, studying complex and obscure combinations will significantly improve our tactical senses. For example, let’s suppose we have found a tactical shot emerging from a seemingly serene position. PIE will reveal the characteristics of that position which were precursors to the tactical combination. This enables us to evaluate positions more accurately, knowing whether a position is truly devoid of tactics. With this in mind, we will practice applying PIE in tougher and more practical situations. Instead of giving familiar patterns and isolating them as seen in the earlier part of this chapter, we will be looking at 10 tactical shots taken from real games. Again, I will list the steps of PIE at the start of every position and offer my observations along the way. Feel free to add on additional observations which I may not have included. At the end, I will test your knowledge with 5 relevant puzzles. } 1. -- 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11734467/"]
+[Date "????.??.??"]
+[Round "4.20"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #11 | Peter Svidler - Vladimir P Malaniuk"]
+[Result "*"]
+[FEN "r1bqr1k1/p4pp1/5n1p/3pb3/7B/2NB4/PP3PPP/R2Q1RK1 w - - 2 16"]
+
+16. { -KEY- } Nxd5 $4 { Svidler thought that he was winning a free pawn. Switching move orders does not help White win the pawn } ( 16. Bxf6 Qxf6 17. Nxd5 Qd6 { Black will win at least the h2 pawn back } ) 
+Qxd5 17. Bxf6 Bb7 $1 { The key zwischenzug! Black is threatening mate on g2 while defending the Queen. White has to defend g2 in the next move. After which, Black will safely recapture on f6, remaining up a piece for just one pawn. Svidler immediately resigned here. Let's use PIE to understand what has just happened. } ( 17... Bxf6 $4 18. Bh7 Kxh7 19. Qxd5 { This is the line Svidler had considered. However, Malaniuk was not obliged to recapture the f6 Bishop on the 17th move. 1. Piece interaction and responsibilities: (i) Black’s d8 Queen keeps an eye on d5. (ii) Black’s f6 Knight temporarily defends the Queen just before White plays Bxf6. (iii) Black’s c8 Bishop is ready to spring to life at b7, defending the Queen on d5 and threatening mate just in the nick of time. (iv) Black’s e8 Rook overprotects the e5 Bishop, which is attacked by the White f6 Bishop after move 17. 2. Strategical weaknesses: (i) White left g2 insufficiently defended. (ii) White’s h1-a8 diagonal is weak. 3a. Changes in the position that would make this particular combination fail: (i) If Black did not have the Rook on e8 defending the e5 Bishop. White will get away with the extra pawn after 16. Nxd5 Qxd5 17. Bxf6 Bb7 18. Bh7+ Kxh7 19. Qxd5 Bxd5 20. Bxe5 (ii) If Black did not have a Bishop on e5. The reason the combination would not work is that White will have a way of saving g2 and his f6 Bishop simultaneously with 16. Nxd5 Qxd5 17. Bxf6 Bb7 18. Qg4! Hence, to add on to step 1, the e5 Bishop is important to attack the f6 Bishop in this line. (iii) If White had his Rook on e1. The e5 Bishop will no longer be overprotected and this becomes an issue after 16. Nxd5 Qxd5 17. Bxf6 Bb7 18. Bh7+ Kxh7 19. Qxd5 Bxd5 20. Bxe5 (iv) If White had a Knight one move away from e3, such as f1. White will have 16. Nxd5 Qxd5 17. Bxf6 Bb7 18. Ne3 to simultaneously defend g2 and gain a valuable tempo on the d5 Queen, buying the time needed to save the f6 Bishop. 3b. Changes in the position that would still allow the tactic to work: (i) If White had a Knight one move away from f4. While a Knight can defend mate and attack the d5 Queen from f4, our e5 Bishop is watching that square. 16. Nxd5 Qxd5 17. Bxf6 Bb7 18. Nf4 Bxf4 } ) 
+
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11734468/"]
+[Date "????.??.??"]
+[Round "4.21"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #12 | Nihal Sarin - Einar Hjalti Jensson"]
+[Result "*"]
+[FEN "2rqr1k1/pb1nbp1p/1p2pnp1/2ppN3/3P1B2/2PBPN1Q/PP3PPP/3RK2R w K - 0 13"]
+
+ { This game was played in the Runavik Open back in 2017 and remains one of Sarin's fastest victories. His opponent resigned immediately after 13. Nxf7 but let's take a look at what could have happened } 13. { -KEY- } Nxf7 { It is worthwhile noting that aside from attacking the d8 Queen, 13. Nxf7 comes with an auxiliary threat of 14. Bxg6 hxg6 15. Qh8+ Kxf7 16. Ng5# } Kxf7 ( 13... Qc7 14. Bxg6 hxg6 15. Qh8 Kxf7 16. Ng5 ) 
+14. Ng5+ Kg8 15. Nxe6 ( 15. Qxe6 Kg7 16. Qf7 Kh8 17. Ne6 { Let's now carry out PIE. 1. Piece interaction and responsibilities: (i) White e5 Knight attacks f7. (ii) White f3 Knight is prepared to attack f7 and e6 . (iii) White Queen attacks e6. (iv) Every Black piece around the Queen traps her. 2. Strategical weaknesses: (i) f7 is unprotected. (ii) e6 is unprotected. (iii) All of White’s minor pieces and the Queen are poised to attack the Kingside. (iv) Black is extremely cramped because he has less space and has too many pieces. 3a. Changes in the position that would make this particular combination fail: (i) If Black’s e8 Rook were on f8, protecting f7. (ii) If Black’s e7 Bishop were on f8, allowing the e8 Rook to defend e6. (iii) If White did not have his Knights on e5 and f3, or his Queen on h3. 3b. Changes in the position that would still allow the tactic to work: (i) If White did not have a Bishop on d3. (ii) If White did not have a Bishop on f4. (iii) If Black’s c8 Rook were on a8. Even though this un-traps the Black Queen, we can play 15. Qxe6+ with an attack instead of 15. Nxe6. } ) 
+
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11734470/"]
+[Date "????.??.??"]
+[Round "4.22"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #13 | Alexander Alekhine - Ronald MacKay Bruce"]
+[Result "*"]
+[FEN "rn1qkb1r/pp3p1b/2p1pnpp/4N3/2B4P/6N1/PPPPQPP1/R1B1K2R w KQkq - 2 11"]
+
+ { This combination by the great Alekhine started from the Caro-Kann, Two Knights Attack. } 11. { -KEY- } Nxf7 { Forking the Queen and the Rook. It may seem that Black's best option is to take the Knight, but that leads to a forced mate. 1. Piece interaction and responsibilities: (i) White’s e5 Knight attacks f7. (ii) White’s c4 Bishop and e2 Queen attack e6. (iii) Black’s h6 pawn and h8 Rook trap the King. That said, even without those two pieces, White’s attack will still lead to victory but it is not as swift. 2. Strategical weaknesses: (i) f7 was unprotected. (ii) e6 was very poorly defended. (iii) Black’s light squares are extremely weak with the Bishop marooned at h7. It could have saved the day if it was defending either e6 or f7. 3a. Changes in the position that would make this particular combination fail: (i) If Black’s h7 Bishop were on a square that defends e6 or f7, such as c8 or g8. (ii) If Black’s Queen were on c7, overprotecting f7 . (iii) If Black’s f8 Bishop were on e7, since after 11. Nxf7 Kxf7 12. Qxe6+ Ke8, 13. Qf7+ is not checkmate. 3b. Changes in the position that would still allow the tactic to work: (i) If Black did not have a pawn on h6. This will provide an escape square for the King, but it is not a very good one. 11. Nxf7 Kxf7 12. Qxe6+ Kg7 13. Qf7+ Kh6 14. d3+ g5 15. hxg5# } Kxf7 12. Qxe6+ Kg7 { Forced. } 13. Qf7# 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11734471/"]
+[Date "????.??.??"]
+[Round "4.23"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #14 | Wei Yi – Lazaro Bruzon"]
+[Result "*"]
+[FEN "3qr1k1/1b1rbp2/p2p1np1/1p2p3/4P3/P1NBB2Q/1PP3PP/4RR1K w - - 0 21"]
+
+21. { -KEY- } Nd5 { Removing the f6 Knight from its defensive outpost } Nxd5 { Now that the Knight is no longer defending the King, Wei Yi brilliantly crashes through without even bothering to recapture the Knight. } ( 21... Bxd5 22. exd5 { White will continue with Qf3, g4 and g5, and the pressure on f7 is tremendous. If Black plays Nxd5, White will carry out a similar attack to what was seen in the game. } Nxd5 23. Rxf7 ) 
+22. Rxf7 $3 { Luring the King out for a walk. This sacrifice must be accepted because of the mate threat, Qh7# } Kxf7 ( 22... Nf6 23. Qe6 Bf8 24. Re7 Kh8 25. Qxf6 Kg8 26. Qxg6 Kh8 27. Qh7 ) 
+23. Qh7+ Ke6 24. exd5+ Kxd5 { Black is threatening to run with Kc6-c7-b8 } 25. Be4+ $1 { The only way to keep the attack going } Kxe4 26. Qf7 $1 { Taking away d5 } Bf6 27. Bd2+ Kd4 28. Be3+ Ke4 29. Qb3 $1 { Threatening Qd3# while keeping an eye on the d5 escape square } Kf5 30. Rf1+ Kg4 31. Qd3 Bxg2+ 32. Kxg2 Qa8+ 33. Kg1 Bg5 34. Qe2+ Kh4 35. Bf2+ Kh3 36. Be1 { With a decisive threat of 37. Rf3+ Kg4 38. Qg2+ Kh5 39. Rh3+ Bh4 40. Rxh4#, Bruzon resigned here. This is certainly a long line, but we can still apply PIE. To clarify, these observations are made on the position just before 21. Nd5 1. Piece interaction and responsibilities: (i) White’s c3 Knight is in a position to challenge the f6 Knight. (ii) White’s f1 Rook has an X-ray attack on f7. (iii) White’s h3 Queen is attacking h7. (iv) All of White’s remaining pieces are well-centralised, and are ready for the king hunt after the Black monarch gets drawn out. 2. Strategical weaknesses: (i) Black’s pieces are not defending the King well. Only the f6 Knight is a good defender. (ii) Black has too many open lines towards the King. 3a. Changes in the position that would make this particular combination fail: Given that all of White’s pieces are involved, changes in the position will likely alter the outcome of the attack. However, there are a few changes that will still allow the combination to work. These are listed in the next step. 3b. Changes in the position that would still allow the tactic to work: (i) If the e3 Bishop were on d2 or c1. In fact, the attack will be even more direct since the e1 Rook protects e4. When Black eventually plays 24…Kd5, we can respond with the same good move, 25. Be4+, where 25…Kxe4 is not possible. (ii) If the d3 Bishop were on e2 instead. After 23…Ke6, we have 24. Bg4+ and mate to follow. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11734472/"]
+[Date "????.??.??"]
+[Round "4.24"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #15 | Magnus Carlsen - Hikaru Nakamura"]
+[Result "*"]
+[FEN "3N4/kP6/P2p4/3Pp1p1/2KnPp2/5P2/5b2/8 w - - 0 59"]
+
+ { This game was played in the 2018 chess.com Speed Chess Championship finals. Up a piece for two pawns, Nakamura was winning here. However, after careful play, Carlsen managed to equalise by pushing his two queenside pawns far up the board. } 59. { -KEY- } Nf7 { The beginning of a crafty 5-move manoeuvre. The Knight was headed for d7 and the only direct way for Nakamura to stop it was to play 59...Be1 followed by Ba5 } Bh4 $4 { Nakamura overlooked Carlsen's idea } ( 59... Be1 60. Nxd6 Ba5 61. Nc8 Kb8 { The Black Bishop controls b6 and the White Knight is so near, yet so far from d7. } ) 
+60. Nxd6 g4 61. Nc8+ Kb8 62. Nb6 { Black cannot stop White from playing Nd7+ followed by b8=Q. It's time to analyse it using PIE 1. Piece interaction and responsibilities: (i) White’s a6-b7 pawn duo mutually defend each other. The a6 pawn directly defends b7 while the b7 pawn threatens to Queen, preventing Kxa6. (ii) White’s Knight is the only piece on the board that can realistically control b8. (iii) White’s d5 pawn prevents Black from bringing another piece to the defense with …Nc6 or …Ne6. 2. Strategical weaknesses: (i) Black has allowed White to advance his passed pawns too far up the board. (ii) Black did not have enough defensive power. The lone King was no match for the two pawns and Knight. 3a. Changes in the position that would make this particular combination fail: (i) If the d5 pawn were removed. Black would easily play Nd4-c6 to stop the pawns. (ii) If the White King were on an unfortunate square (such as a1) that allows the Black Knight to give check while making its way to a defensive square. Had the White King been on a1, Black could play 60…Nb3+ and 61…Nc5, ready to capture on a6 with the Knight next. White would be just one move too slow in this scenario. 3b. Changes in the position that would still allow the tactic to work: (i) If the White King were on a less active square that did not allow any Knight checks, such as h1. After 61. Nc8+ Kb8, White will always have two ways to displace the Black King, c8-b6-d7 as shown in the game, and c8-e7-c6, both of which cannot be stopped. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11734500/"]
+[Date "????.??.??"]
+[Round "4.25"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #16 | Anish Giri - Sam Shankland"]
+[Result "*"]
+[FEN "8/1p6/8/1P1k1K2/1P6/4B2n/8/8 w - - 0 45"]
+
+45. { -KEY- } b6 { Shankland resigned here forgetting that this is a theoretical draw. To draw, Black's King just needs to shuffle between c8, d8 and d7 and White has no way of displacing it or attacking b7. If the Black King could reach a8, that would also be a draw for the same reason. } ( 45. b6 Kd6 46. Kg4 Kd7 47. Kxh3 Kc8 48. Bf4 Kd8 49. Kg4 Kd7 50. Kf5 Kc8 51. Ke6 Kd8 52. Kf7 Kc8 53. Ke7 { Stalemate. 1. Piece interaction and responsibilities: (i) Black’s b7 pawn blocks the enemy pawns and sits on a light square, immune to the White dark-squared Bishop. Additionally, it also contributes to the stalemate resource. (ii) Black’s King prevents the White King from accessing b7 from c7 or c8 (iii) White’s b6 pawn takes the c7 and a7 squares away from the Black King, contributing to the stalemate resource. Moreover, the b6 pawn prevents the White King from using the b6 square to attack b7. 2. Strategical weaknesses: (i) White has the Bishop on the wrong colour (or Black has the pawn on the right colour) . (ii) White’s b6 pawn occupied a square which the White King would want for itself. Moreover, that pawn also took away the a7 and c7 squares, helping Black stalemate itself. 3a. Changes in the position that would make this particular fortress fail: (i) If White’s b6 pawn were anywhere else. (ii) If White had a light-squared Bishop. White would simply sacrifice the Bishop for the b7 pawn and win the pawn endgame. 3b. Changes in the position that would still allow the fortress to work: (i) If Black had a couple of extra pawns on the Kingside. The excess reserve tempi do not change the fact that Black’s King cannot be displaced from guarding the b7 pawn. } ) 
+Ng1 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11747441/"]
+[Date "????.??.??"]
+[Round "4.26"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #17 | Emanuel Lasker - Siegbert Tarrasch"]
+[Result "*"]
+[FEN "8/5KBB/p4b2/1pp1kb2/8/1P6/1P5P/8 b - - 0 37"]
+
+37... { -KEY- } Bxg7 38. Bxf5 Kxf5 39. Kxg7 { Many would mistakenly think this pawn endgame favours Black. However, Lasker knew this was, in fact, a draw and went on to trade Bishops confidently. } a5 40. h4 Kg4 41. Kg6 ( 41. Kf6 $4 { Starting the race on f6, the King is one move short of catching the Queenside pawns } c4 42. bxc4 bxc4 43. Ke5 c3 44. bxc3 a4 45. Kd4 a3 46. Kd3 a2 47. Kc2 a1=Q $11 ) 
+Kxh4 42. Kf5 Kg3 { This time, the King started his race from g6, which made all the difference } ( 42... c4 43. bxc4 bxc4 44. Ke4 c3 45. bxc3 a4 46. Kd3 a3 47. Kc2 a2 48. Kb2 ) 
+43. Ke4 Kf2 44. Kd5 Ke3 45. Kxc5 Kd3 46. Kxb5 Kc2 47. Kxa5 Kxb3 { 1. Piece interaction and responsibilities: (i) White’s h-pawn bought White an extra move, which was used to play 41. Kg6 (ii) White’s two Queenside pawns adequately held off Black’s majority. 2. Strategical weaknesses: Not applicable 3a. Changes in the position that would make this particular combination fail: (i) If Black had just one extra move. For example, if his a6 pawn were to start on a5 instead. (ii) If Black had an extra pawn on c7. At first glance, it might seem that a pawn on c7 does not contribute to the King-and-pawn race, but it does help Black to consolidate his Queenside more easily. For example, he could play 39... b4 40. h4 c4 41. bxc4 Kg4 42. Kg6 Kxh4 43. Kf5 a5 44. Ke4 a4 45. Kd3 c5 3b. Changes in the position that would still allow the tactic to work: (i) If the Kings started a square to White’s left (i.e. After move 39, White’s King on f7, and Black’s King on e5) . Being closer to the Queenside and further from the Kingside can only benefit White. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11747446/"]
+[Date "????.??.??"]
+[Round "4.27"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #18 | Alireza Firouzja - Giga Quparadze"]
+[Result "*"]
+[FEN "r4rn1/1pq3kp/p5p1/4pbQ1/2B1N3/2P2P2/PP3P2/2KR3R w - - 0 1"]
+
+1. { -KEY- } Rxh7+ $1 { Without this sacrifice, the h7 pawn will stave off White’s attack in several ways. Not only is ...h5 a possibility to blunt the h-file, Black can also play Kh8 to let the c7 Queen laterally defend h7 } ( 1. Qh4 Kh8 ) 
+Kxh7 2. Rh1+ Kg7 3. Qh4 { With the h7 pawn gone, Black has neither Kh8 nor h5 to save him here } Rf7 { Trying to escape through f8 } 4. Qh8+ Kf8 5. Bxf7 { Weakening the 7th rank to allow the White pieces to penetrate } Qxf7 6. Rh7 Qe6 7. Qg7+ Ke8 8. Nd6+ Qxd6 ( 8... Kd8 9. Qc7 ) 
+9. Qf7+ Kd8 10. Qxg8+ Qf8 11. Qxf8# { Now, let's carry out PIE. 1. Piece interaction and responsibilities: (i) One White Rook sacrificed itself for the h-pawn, paving the inroads for his brother. (ii) The other Rook was used to penetrate the newly opened h-file. (iii) The rest of White’s army was poised to attack the Black King. 2. Strategical weaknesses: (i) Black’s King hardly had any cover. (ii) Black’s already weak h-file was exacerbated by the g8 Knight, which prevented Black from defending with …Rh8 3a. Changes in the position that would make this particular combination fail: Interestingly, Black’s position was so bad that this combination will still work in one form or another despite certain minute changes to the position. I will show a few examples in step 3b. 3b. Changes in the position that would still allow the tactic to work: If the White Knight were on g4 instead of e4, we would have 1. Rxh7+ Kxh7 2. Rh1+ Kg7 3. Qh4 Rf7 4. Nxe5 where our Knight cannot be taken. 4…Qxe5 5. Qh8+ Kf8 6. Qxe5 If the White Knight were on f4 instead of e4, we can play 1. Rxh7+ Kxh7 2. Rh1+ Kg7 3. Nh5+ Kh8 4. Nf6+ If the White Knight were on d4 instead of e4, we can still play 1. Rxh7+ Kxh7 2. Rh1+ Kg7 3. Bxg8 Kxg8 4. Nxf5 Rxf5 5. Qxg6+ Qg7 6. Qxf5 with a decisive attack It may seem that the Knight near the enemy King was key to the attack’s success. But what if Black had somehow managed to play …Bxe4 to get rid of the pesky Knight and White responded with fxe4 (The only changes from the initial position are that the e4 Knight and f5 Bishop are off the board and our f3 pawn is on e4) ? We would need to play a preparatory move. 1. Rdg1 threatening Rxh7+ followed by Qxg6. Black might try 1. …Qd6 to defend g6 but comes 2. Rxh7+! Kxh7 3. Rh1+ Kg7 4. Qh4 Ne7 5. Qh6+ Kf6 6. Rh3 with a decisive attack, yet again. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11747448/"]
+[Date "????.??.??"]
+[Round "4.28"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #19 | Mikhail Tal - Vasily Smyslov"]
+[Result "*"]
+[FEN "r1bb1r1k/p4ppp/2p2n1N/7Q/2p5/2B2N2/qPP2PPP/2KR3R w - - 2 19"]
+
+19. { -KEY- } Qxf7 $1 { This sacrifice works despite the possible zwischenzug Queen checks Black has } Qa1+ { The Queen cannot be taken immediately because of back rank issues } ( 19... Rxf7 20. Rxd8 Rf8 21. Rxf8 Ng8 22. Rxg8 { Also, the Rook cannot run away because of the classic smothered mate pattern } ) 
+ ( 19... Re8 20. Qg8 Rxg8 21. Nf7 ) 
+20. Kd2 { The White King now blocks his own Rook from moving to d8 } Rxf7 ( 20... Qxd1 { This move is even worse than 20...Rxf7. Black will be down a full piece. } 21. Rxd1 Rxf7 22. Nxf7 Kg8 23. Nxd8 ) 
+21. Nxf7+ Kg8 22. Rxa1 Kxf7 { Smyslov resigned after a couple of moves. Let's execute PIE now. 1. Piece interaction and responsibilities: (i) White’s Queen attacked the f8 Rook and was prepared to sacrifice itself on g8 for a smothered mate. (ii) White’s h6 Knight aided the Queen in delivering the smothered mate. More importantly, it was ready to recapture on f7 with check. (iii) White’s d1 Rook was ready to deliver back rank mate on d8. 2. Strategical weaknesses: (i) Black did not defend his kingside sufficiently, in particular, the f7 square. (ii) Black had a weak back rank. (iii) d8 was unprotected. 3a. Changes in the position that would make this particular combination fail: (i) If Black’s back rank was more secure. For example, if the c8 Bishop were at b7, allowing the a8 Rook to defend d8. (ii) If f7 was sufficiently protected. For example, if Black had his a8 Rook on a7. 3b. Changes in the position that would still allow the tactic to work: (i) If White’s Knight were on e5 instead of h6. The only difference is that Black can play 19…Re8 and he is safe from a smothered mate, but White would still be winning in that variation. (ii) If White’s Knight were on g5 instead of h6. Black can, again, meet 19. Qxf7 with 19…Re8. But we have 20. Rhe1 to further add pressure to the back rank. Interestingly, the intuitive 19. Bxf6 (to remove the defender of h7) does not work. Black will play 19…Bf5 20. Bc3 Qa4 to threaten Qxc2#. White’s attack will run out of steam while Black’s pieces spring to life because White spent too much time taking the f6 Knight and then retreating. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11747450/"]
+[Date "????.??.??"]
+[Round "4.29"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Pattern #20 | Magnus Carlsen - Sergei Karjakin"]
+[Result "*"]
+[FEN "2R5/4bppk/1p1p4/5R1P/4PQ2/5P2/r4q1P/7K w - - 5 50"]
+
+50. { -KEY- } Qh6+ { This famous mate in 2 was played in the final match of the rapid tiebreaks in the 2016 World Championship between Magnus Carlsen and Sergei Karjakin. Whichever way Black takes the Queen, White would still have mate } gxh6 ( 50... Kxh6 51. Rh8 ) 
+51. Rxf7# { 1. Piece interaction and responsibilities: (i) White’s f5 Rook covered g5 and attacked f7. (ii) White’s c8 Rook covered the back rank and was ready to move to h8. (iii) White’s h5 pawn took away g6. (iii) White’s Queen either diverted the Black King from defending h8, or the g7 pawn from defending the 7th rank. 2. Strategical weaknesses: (i) White was dangerously active, with three major pieces and a far-advanced pawn near the Black King. (ii) Black had little defense – the e7 Bishop and the f7 and g7 pawns were ineffective in keeping the King safe. 3a. Changes in the position that would make this particular combination fail: (i) If Black somehow had f7 protected, such as having a Bishop on b3. (ii) If Black’s e7 Bishop were on f6, blocking the attack on f7. 3b. Changes in the position that would still allow the tactic to work: (i) If White did not have the h5 pawn – White would have 50. Rh5+ Kg6 51. Qf5# (ii) If Black had an extra pawn on h6. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11747463/"]
+[Date "????.??.??"]
+[Round "4.30"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Puzzle #6"]
+[Result "*"]
+[FEN "1rbqr1k1/p1p2pp1/5n1p/2bp4/7B/2NB4/PPP2PPP/R2Q1R1K w - - 0 13"]
+
+ { This game was played at the Nutcracker Rapid 2017 between Vladislav Artimiev (White) and Shakhriyah Mamedyarov (Black) . } 13. { -KEY- } Nxd5 { Mamedyarov must have been familiar with the game between Peter Svidler and Vladimir P Malaniuk (Pattern #11) and thought that the d5 pawn was taboo. However, there is a key difference in the position - Black does not have a Bishop on e5! Recall that we used PIE and concluded that a Black needed a Bishop on e5 to recapture on f6. } Qxd5 14. Bxf6 Bb7 15. Qg4 $1 { Had the Black c5 Bishop been on e5, Black could have played Bxf6 here. Instead, Mamedyarov was forced to simplify into a worse endgame, from which Artemiev managed to squeeze a win. } Qxg2+ 16. Qxg2 Bxg2+ 17. Kxg2 { This rather recent example shows the importance of PIE (particularly the third step here) in ensuring that we avoid getting rooked by such deceptively similar tactical patterns. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11747464/"]
+[Date "????.??.??"]
+[Round "4.31"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Puzzle #7"]
+[Result "*"]
+[FEN "rn1qk2r/pp3ppp/2p1p1b1/4N3/2BP2PP/2B1nP2/PPP5/R2QK2R w KQkq - 1 13"]
+
+ { Black is forking the d1 Queen and the critical c2 square. Is there a way to save both? } 13. { -KEY- } Qe2 { c2 cannot be saved. Hence, White sets up a subtle counterattack. The threat is Nxf7 and this resembles the game between Alexander Alekhine and Ronald MacKay Bruce (Pattern #13). However, at first glance, White's idea does not seem promising because Black has a Bishop on g6 defending f7. } Nxc2+ 14. Kf1 ( 14. Kf2 { is good too } ) 
+ ( 14. Kd2 $4 Nxa1 15. h5 Qg5 ) 
+Nxa1 15. h5 { Chasing the defender of f7 away } Bb1 16. Nxf7 { And the rest is very familiar territory. } ( 16. Nxf7 Kxf7 17. Qxe6 Kf8 18. Qf7 ) 
+
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11747465/"]
+[Date "????.??.??"]
+[Round "4.32"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Puzzle #8"]
+[Result "*"]
+[FEN "8/p1pk2p1/2b1R3/6rP/2PK4/1P6/P3B3/8 w - - 7 50"]
+
+ { This game was played between David Navara and Melkumyan Hrant at the 2019 Gibraltar Masters. Where should the Rook run to? } 50. { -KEY- } Re5 { Black will have to trade Rooks on White's terms. Otherwise, the White Rook would get active on the 5th rank. In the game, Hrant opted to trade rooks on g6 } ( 50. Rg6 Rxg6 51. hxg6 { The problem is that the g6 and g7 pawn blockade ensures that Black will get a draw. As soon as White converts his Queenside majority to a single passed pawn, Black will give the Bishop up for the pawn and scoot the King over to the h8 corner, if not f8. That endgame resembles the Giri – Shankland game (Pattern #16). } ) 
+
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11747469/"]
+[Date "????.??.??"]
+[Round "4.33"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Puzzle #9"]
+[Result "*"]
+[FEN "1R6/3r2pk/p5Rp/1b1p3P/1b1B1P2/2p3P1/8/6K1 w - - 0 48"]
+
+ { This is a blitz game played between Peter Svidler (White) and Magnus Carlsen (Black) . How did Svidler deal with the far-advanced passed c-pawn and the pesky Bishop pair? } 48. { -KEY- } Rxh6+ { An uncannily similar mating pattern to the one seen in the 2016 World Championships (Pattern #20). Except for this time, Carlsen is the victim. The piece layout may not be obvious, so allow me to show how the two positions compare. The h5 pawn and b8 Rook serve the same purposes as they did in Carlsen - Karjakin. Svidler's g6 Rook taking on h6 is similar to Carlsen's Queen sacrificed on h6 in the game with Karjakin. } Kxh6 ( 48... gxh6 49. Rh8 { Here, Svidler does not have Rf7# as seen in Carlsen's game with Karjakin. Instead, Svidler's Bishop covers g7 takes care of the mate } ) 
+49. Rh8# { Here, instead of having an f5 Rook cover g5, the f4 pawn does the same job } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/11747472/"]
+[Date "????.??.??"]
+[Round "4.34"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Puzzle #10"]
+[Result "*"]
+[FEN "8/8/8/8/p7/2KQ4/kp3P2/8 b - - 1 1"]
+
+ { This is an old game played back in 1929 between Fred Dewhirst Yates (White) and Frank Marshall (Black) . Yates was easily winning until his last move, Kc3. How can Black save himself? } 1... { -KEY- } b1=Q 2. Qxb1+ Kxb1 3. Kb4 Kb2 { Similar to the Lasker - Tarrasch game (Pattern #17), Black gains this free move by threatening to Queen his a-pawn } ( 3... Kc2 $4 4. f4 a3 5. Kxa3 ) 
+4. Kxa4 Kc3 5. f4 Kd4 6. f5 Ke5 7. f6 Kxf6 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643290/"]
+[Date "????.??.??"]
+[Round "4.35"]
+[White "3. Pattern Internalisation Essentials"]
+[Black "Chapter Conclusion"]
+[Result "*"]
+[FEN "8/8/8/8/pK6/8/5P2/1k6 b - - 0 1"]
+
+ { Congratulations on completing the third chapter of the course, Pattern Internalisation Essentials! In essence, the goal is to acquire new tactical motifs to strengthen your use of the Burger Technique. Eventually, just as identifying general motifs (e.g., unprotected pieces, trappable pieces, critical squares) becomes second nature, the new motifs acquired through PIE will likewise be recognised intuitively. Remember that there are always plenty of ways to use PIE. You have a lot of flexibility in deciding how much to focus on each aspect of the pattern. So, if you found yourself conducting PIE in a vastly different way from mine, don’t fret. As long as you have a more intimate understanding of the pattern at the end, you are doing it right! Additionally, I trust that this chapter has highlighted the importance of pattern recognition in chess. The faster you learn and understand patterns, the faster you will improve. While patterns can be learnt from anywhere and everywhere, the best place to apply PIE would be on your own games. This is because they are the most relevant to you. Not only will you learn patterns based on your opening repertoire and your style of games, but you will also become more familiar with your weaknesses, and the best course of action to rectify them. However, there is class of omnipresent patterns that will apply to you regardless of your rating or opening preference – Endgame patterns. Endgame patterns and ideas such as the one seen in the last puzzle need not be learnt on your own as you chance upon them in games (FYI, the endgame idea here is known as Reti’s Idea) . Instead, we can face common endgames head-on right away with the next chapter, Essential Theoretical Endgames. } 1... { -KEY- } Kb2 
+ *

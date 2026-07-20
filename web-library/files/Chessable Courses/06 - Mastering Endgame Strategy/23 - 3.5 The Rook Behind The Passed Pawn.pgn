@@ -1,0 +1,470 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12562060/"]
+[Date "????.??.??"]
+[Round "23.1"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "The rook behind the passed pawn"]
+[Result "*"]
+
+ { An old endgame principle is to place your rook behind the passed pawn, no matter whether it's yours or the opponent's. Leaving out a few exceptions, it remains highly applicable in today's practice. Let's see some examples on this theme, starting with a few classics. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553023/"]
+[Date "????.??.??"]
+[Round "23.2"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 208- Lasker- Em. vs. Rubinstein- A.- St Petersburg 1914"]
+[Result "1-0"]
+[FEN "5r2/8/6p1/1pkp4/5PP1/3K4/1P6/5R2 w - - 0 1"]
+
+ { The white rook is ideally placed behind the passed f-pawn, so Lasker starts pushing it. } 1. { -KEY- } f5 $1 gxf5 2. gxf5 Rf6 3. Rf4 $1 { Seizing the fourth rank. } b4 4. b3 { Black is now short of solid moves. Note that this is a consequence of his rook being awkwardly positioned in front of the passed pawn - he would very much have liked the two rooks to change places. } Rf7 ( { This lets the passed pawn advance one step further; but } 4... Kb5 5. Kd4 Kc6 6. Ke5 { was equally bad for Black. } ) 
+5. f6 Kd6 6. Kd4 Ke6 7. Rf2 $1 { Preparing a decisive switch of angle. } Kd6 ( { After } 7... Rxf6 8. Rxf6 Kxf6 9. Kxd5 { , followed by Kc4xb4-a5, White obviously wins. } ) 
+8. Ra2 $1 Rc7 ( { Or } 8... Rxf6 9. Ra6 { , transposing to the previous note. } ) 
+9. Ra6+ Kd7 10. Rb6 { In this desperate position, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553024/"]
+[Date "????.??.??"]
+[Round "23.3"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 209- Capablanca- JR. vs. Marshall- F.- St Petersburg 1914"]
+[Result "1-0"]
+[FEN "8/8/4p1k1/P7/1r6/2R5/6PK/8 w - - 0 1"]
+
+ { Here is a similar case. Anybody with basic endgame skills should find White's first move here! } 1. { -KEY- } Ra3 $1 { The rook behind the passed pawn. } ( { Obviously, } 1. a6 $2 Ra4 { would let Black achieve the same thing, with increased drawing chances. } ) 
+Rb7 2. a6 Ra7 3. Ra5 $1 { A move similar to Lasker's 3 Rf4 in the previous example. Black's king is now restricted, and the rest is easy. } Kf6 4. g4 Ke7 5. Kg3 Kd6 6. Kf4 Kc7 7. Ke5 Kd7 ( { Or } 7... Kb6 8. Ra1 Rg7 9. a7 $1 { and the g-pawn decides. } ) 
+8. g5 Ke7 9. g6 Kf8 10. Kxe6 Ke8 11. g7 Rxg7 12. a7 Rg6+ 13. Kf5 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553025/"]
+[Date "????.??.??"]
+[Round "23.4"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 210- Berg- E. vs. Bellon Lopez- J.- Gothenburg 2004"]
+[Result "1-0"]
+[FEN "8/7k/8/5r2/1P4p1/3R4/P1K5/8 b - - 0 1"]
+
+ { White's plan is rather obvious: advance his queenside pawns with the help of his king, while the rook should be sacrificed for the g-pawn at the right moment. } 1... { -KEY- } Rf2+ $2 ( { This check just helps White to improve his king. A better chance in practice was } 1... Rg5 $1 { placing the rook behind the passed pawn, when White would have to find } 2. a4 $1 ( { the natural } 1... Rf2+ 1. Rg3 $2 { allows } Kg6 3. Kd3 Kf5 4. a4 Ke5 $1 { when Black manages to use the king in the battle against the connected pawns, with a theoretical draw following } 5. Ke3 Rg8 6. b5 Kd5 7. Kf4 Ra8 8. Ra3 Kc5 9. Kxg4 Kb4 10. Ra1 Ka5 11. Kf5 Re8 { - Hecht, now that these have been confidently blocked } ) 
+g3 3. Rd1 g2 4. Rg1 Kg6 5. a5 Kf6 6. a6 Ke5 7. a7 Rg8 8. Kb3 $1 Kd5 ( 8... Ra8 9. Rxg2 Rxa7 10. Rd2 { is similar } ) 
+9. Rxg2 Ra8 10. Rc2 $1 ( { the materialistic } 9... Rf2+ 9. Rg7 $2 { only draws after } Kc6 { with some kind of fortress } ) 
+Rxa7 11. b5 Kd6 12. Kb4 $1 Rc7 13. Rd2 $1 { followed by b5-b6 and Kb5. } ) 
+2. Kb3 Kg6 3. a4 Kf5 4. a5 Ke4 ( { After } 4... Rf3 5. Kc4 Rxd3 6. Kxd3 Kf4 7. a6 { , only White queens. } ) 
+ ( 4... Kf4 { is refuted by } 5. a6 g3 6. Rxg3 $1 Kxg3 7. b5 $1 { (the impatient } 7. a7 $2 { runs into } Rf3 $1 { , when White can't stop the rook from reaching the a-file) etc, as observed by nayoncohr. } ) 
+5. Rd8 $1 { Unlike his opponent four moves ago, Berg pays attention to the idea of placing the rook behind the passed pawn. } ( { In contrast, } 5. Rc3 $2 Rf3 $1 { would eventually lead to a queen and pawn vs. queen ending. } ) 
+Rf3+ 6. Ka4 Rf1 7. Rg8 Rg1 ( { Or } 7... Kf3 8. a6 g3 9. Kb5 g2 10. a7 Ra1 11. Kb6 Kf2 12. b5 g1=Q $11 13. Rxg1 Kxg1 14. Kb7 { and White wins. } ) 
+8. Kb5 { Unable to parry the looming advance of the white pawns, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13128023/"]
+[Date "????.??.??"]
+[Round "23.5"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 211- Vasquez Schroder- R. vs. Hellsten- J.- Santiago 2005"]
+[Result "0-1"]
+[FEN "8/6kp/p5p1/2R3P1/7r/8/5K2/8 b - - 0 2"]
+
+ ( { This example is extracted from my book 'Play the Sicilian Kan'. If it was White to move, then } 1. Rc7 { , followed by Kg3 and Ra7, placing the rook in its optimum place behind the passed pawn, would probably suffice for a draw, despite the two pawn deficit. However, in the game it was Black's turn, and by a simple rook manoeuvre it was he who managed to put a rook on a7 . } ) 
+ { -KEY- } Rf4+ $1 2. Kg3 ( { On } 2. Ke3 { , Black can proceed as in the game: } Rf5 3. Rc7 Rf7 4. Rc5 Ra7 5. Ra5 Kf7 6. Kd4 Ke6 { Now if } 7. Kc5 { preventing the black king's walk to b6, then } Rd7 $1 { , starting actions on the opposite flank; e.g. } 8. Rxa6 Kf5 9. Ra5 Kf4 10. Kc6 Rd1 { , followed by Rh1-h5, winning the g5-pawn. } ) 
+Rf5 { Gaining a tempo. } ( { The immediate } 2... Rf7 { should work too; e.g. } 3. Ra5 Ra7 4. Kf4 Kf7 5. Ke5 Ke7 { with similar play to the previous note. } ) 
+3. Rc7+ Rf7 4. Rc5 Ra7 { Black has completed the rook manoeuvre and should now activate his king. } 5. Ra5 Kf7 { Heading for b6. } ( { Of course } 5... h6 $2 { would be completely counter-productive: } 6. gxh6 Kxh6 7. Kh4 Kg7 8. Kg4 Kf6 9. Kf4 { and White holds. As usually occurs, pawn exchanges favour the defending side. } ) 
+6. Kf4 Ke6 7. Ke4 Kd6 8. Kd4 Kc6 9. Kc4 Kb6 10. Re5 Rf7 ( { Avoiding the trap } 10... a5 $2 11. Re6 Kb7 12. Re7 Kb8 13. Re8 { with a draw. } ) 
+11. Kb3 ( { Or } 11. Re6 Ka5 12. Re5 Ka4 { followed by } 13. -- Rc7 ) 
+Rf3+ 12. Kb4 ( { After } 12. Kc4 Rf4 13. Kb3 Rf5 { , Black wins in similar fashion. } ) 
+a5+ 13. Ka4 Rf4+ 14. Kb3 Rf5 { Here, Black needs the pawn exchange in order to create a second passed pawn. } 15. Re7 Rxg5 16. Rxh7 Kc5 { The king is now directed to the more useful g-pawn. } 17. Rd7 { The white rook prevents that idea, but it can't stay on the d-file for long. } Rg4 18. Kc3 ( { Or } 18. Ra7 a4 19. Ka3 Kd5 20. Ra5 Ke4 $1 21. Rxa4 Kf3 { with an easy win. } ) 
+Rg3+ 19. Kc2 a4 20. Kb2 g5 21. Rd8 g4 22. Rd7 Rf3 23. Rg7 a3+ 24. Ka2 g3 25. Rd7 Kc4 26. Rd8 Rd3 27. Rg8 Kc3 28. Rg7 Kd2 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798762/"]
+[Date "????.??.??"]
+[Round "23.6"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Vasquez Schroder- R. vs. Hellsten- J.- #1"]
+[Result "0-1"]
+[FEN "8/6kp/p5p1/2R3P1/7r/8/5K2/8 b - - 0 2"]
+
+ ( { This example is extracted from my book 'Play the Sicilian Kan'. If it was White to move, then } 0... Kd2 0. Rc7 { , followed by Kg3 and Ra7, placing the rook in its optimum place behind the passed pawn, would probably suffice for a draw, despite the two pawn deficit. However, in the game it was Black's turn, and by a simple rook manoeuvre it was he who managed to put a rook on a7 . } ) 
+ { -KEY- } Rf4+ $1 2. Kg3 ( { On } 2. Ke3 { , Black can proceed as in the game: } Rf5 3. Rc7 Rf7 4. Rc5 Ra7 5. Ra5 Kf7 6. Kd4 Ke6 { Now if } 7. Kc5 { , preventing the black king's walk to b6, then } Rd7 $1 { , starting actions on the opposite flank; e.g. } 8. Rxa6 Kf5 9. Ra5 Kf4 10. Kc6 Rd1 { followed by Rh1-h5, winning the g5-pawn. } ) 
+Rf5 { Gaining a tempo. } ( { The immediate } 2... Rf7 { should work too; e.g. } 3. Ra5 Ra7 4. Kf4 Kf7 5. Ke5 Ke7 { with similar play to the previous note. } ) 
+3. Rc7+ Rf7 4. Rc5 Ra7 { Black has completed the rook manoeuvre and should now activate his king. } 5. Ra5 Kf7 { Heading for b6. } ( { Of course } 5... h6 $2 { would be completely counter-productive: } 6. gxh6 Kxh6 7. Kh4 Kg7 8. Kg4 Kf6 9. Kf4 { and White holds. As usually occurs, pawn exchanges favour the defending side. } ) 
+6. Kf4 Ke6 7. Ke4 Kd6 8. Kd4 Kc6 9. Kc4 Kb6 10. Re5 Rf7 ( { Avoiding the trap } 10... a5 $2 11. Re6 Kb7 12. Re7 Kb8 13. Re8 { with a draw. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798756/"]
+[Date "????.??.??"]
+[Round "23.7"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Vasquez Schroder- R. vs. Hellsten- J.- #2"]
+[Result "0-1"]
+[FEN "8/5r1p/pk4p1/4R1P1/2K5/8/8/8 w - - 0 11"]
+
+11. { -KEY- } Kb3 ( { Or } 11. Re6 Ka5 12. Re5 Ka4 { followed by } 13. -- Rc7 ) 
+Rf3+ ( { The immediate } 11... Rf5 { was perfectly fine as well, transposing to the end of the next subline. But in the game, we were already past move 70 so I was happy to accumulate some extra time on the clock. } ) 
+12. Kb4 ( { After } 12. Kc4 Rf4 13. Kb3 Rf5 { Black wins in similar fashion. } ) 
+a5+ 13. Ka4 Rf4+ 14. Kb3 Rf5 { Here, Black needs the pawn exchange in order to create a second passed pawn. } 15. Re7 Rxg5 16. Rxh7 Kc5 { The king is now directed to the more useful g-pawn. } 17. Rd7 { The white rook prevents that idea, but it can't stay on the d-file for long. } Rg4 18. Kc3 ( { Or } 18. Ra7 a4 19. Ka3 Kd5 20. Ra5 Ke4 $1 21. Rxa4 Kf3 { with an easy win. } ) 
+Rg3+ 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553027/"]
+[Date "????.??.??"]
+[Round "23.8"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 212- Barhudarian- R. vs. Rozentalis- E.- Stockholm 2007"]
+[Result "0-1"]
+[FEN "r7/5p2/2k3p1/p6p/R1KP4/8/5PPP/8 w - - 0 1"]
+
+ { Material is equal, but strategically Black is much better as he possesses an outside passed pawn (without rooks on the board, this factor would indeed be decisive) and, just as important, his rook is ideally placed behind it. } 1. { -KEY- } d5+ $2 { White follows the principle 'Passed pawns should advance!', but in this case the pawn will just become exposed on d5. Furhoff outlines a better plan: 1) fight for the kingside space with h2-h4; 2) take the e4-square from Black's king by f2-f3; 3) try to assign the blocking task on the a-file to the king, so that the rook can be used actively. } ( { A possible variation: } 1. h4 $1 f6 2. f3 { (apart from controlling the e4-square, this also enables a future g2-g4 in order to exchange pawns; besides, it makes sense to place the kingside pawns on different ranks, so that their future liquidation by the black rook takes more time) } f5 3. Kc3 Kb5 ( { or } 3. d5+ Kd5 4. Kd3 f4 5. Kc3 { continuing the waiting game } ) 
+4. Rc4 a4 5. Rc5 Kb6 6. Kb2 $1 a3 7. Ka2 { (now that the white rook has been liberated, it is ready to create disorder in the enemy camp) } Rd8 8. Rc4 Kb5 9. Rc5 Kb4 10. Rc6 Rxd4 11. Rb6 $1 ( { a clever intermediate check, avoiding } 11. Rxg6 $6 Rd2 { and the white king becomes cut off from the second rank; } ) 
+Kc3 12. Rxg6 Rxh4 13. Kxa3 { with chances for a draw - Furhoff. } ) 
+Kd6 2. Kd4 h4 $1 { A useful move that grabs some space and makes the h-pawn more powerful in a potential passed pawn race. } 3. f4 f6 4. h3 Ra7 $1 { Such a zugzwang method is typical when the stronger side has managed to place his rook behind the passed pawn. } 5. Ke4 ( { Obviously, any rook move, such as } 5. Ra1 { , runs into } a4 ) 
+Kc5 6. f5 g5 $1 { Avoiding pawn exchanges and limiting the enemy king. Now again White finds himself short of a solid move. } 7. Rd4 Re7+ ( 7... Kd6 { at once is also thinkable, although as observed by Anunnaki, after } 8. Ra4 Re7 9. Kd4 { , Black can't play } Re5 $2 { in analog fashion to the 11.Ra4 subline, due to } 10. Rxa5 { . That's why it makes sense to first deflect White's king from the d-pawn, using an intermediate check on e7. } ) 
+8. Kd3 Rd7 9. Ke4 Re7+ 10. Kd3 Kd6 $1 { The d-pawn is neutralized once and for all. } 11. Rc4 ( { Or } 11. Ra4 Re5 12. Rxa5 Rxd5 $1 13. Rxd5 Kxd5 { and Black wins thanks to his favourable pawn structure; e.g. } 14. Ke3 Ke5 15. Kf2 Kxf5 16. Kf3 Ke5 17. Ke3 f5 18. Kf3 Kd4 19. Kf2 Ke4 20. Ke2 f4 21. Kf2 f3 $1 22. gxf3 Kf4 23. Kg2 Ke3 { - Furhoff. } ) 
+Kxd5 12. Rd4+ Kc5 13. Rc4+ Kb5 14. Rc8 Re5 { Seeing that he'll lose a second pawn, White resigned. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/16850836/"]
+[Date "????.??.??"]
+[Round "23.9"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Barhudarian- R. vs. Rozentalis- E.- #1"]
+[Result "0-1"]
+[FEN "r7/5p2/2k3p1/p6p/R1KP4/8/5PPP/8 w - - 0 1"]
+
+ { Material is equal, but strategically Black is much better as he possesses an outside passed pawn (without rooks on the board, this factor would indeed be decisive) and, just as important, his rook is ideally placed behind it. } 1. { -KEY- } d5+ $2 { White follows the principle 'Passed pawns should advance!', but in this case the pawn will just become exposed on d5. Furhoff outlines a better plan: 1. fight for the kingside space with h2-h4; 2. take the e4-square from Black's king by f2-f3; 3. try to assign the blocking task on the a-file to the king, so that the rook can be used actively. } ( { A possible variation: } 1. h4 $1 f6 2. f3 { (apart from controlling the e4-square, this also enables a future g2-g4 in order to exchange pawns; besides, it makes sense to place the kingside pawns on different ranks, so that their future liquidation by the black rook takes more time) } f5 3. Kc3 Kb5 ( { or } 3. d5+ Kd5 4. Kd3 f4 5. Kc3 { continuing the waiting game } ) 
+4. Rc4 a4 5. Rc5 Kb6 6. Kb2 $1 a3 7. Ka2 { (now that the white rook has been liberated, it is ready to create disorder in the enemy camp) } Rd8 8. Rc4 Kb5 9. Rc5 Kb4 10. Rc6 Rxd4 11. Rb6 $1 ( { a clever intermediate check, avoiding } 11. Rxg6 $6 Rd2 { and the white king becomes cut off from the second rank } ) 
+Kc3 12. Rxg6 Rxh4 13. Kxa3 { with chances for a draw - Furhoff. } ) 
+Kd6 2. Kd4 h4 $1 { A useful move that grabs some space and makes the h-pawn more powerful in a potential passed pawn race. } 3. f4 f6 4. h3 Ra7 $1 { Such a zugzwang method is typical when the stronger side has managed to place his rook behind the passed pawn. } 5. Ke4 ( { Obviously, any rook move, such as } 5. Ra1 { runs into } a4 ) 
+Kc5 6. f5 g5 $1 { Avoiding pawn exchanges and limiting the enemy king. Now again White finds himself short of a solid move. } 7. Rd4 Re7+ ( 7... Kd6 { at once is also thinkable, although as observed by Anunnaki, after } 8. Ra4 Re7 9. Kd4 { , Black can't play } Re5 $2 { in analog fashion to the 11.Ra4 subline in the informational, due to } 10. Rxa5 { . That's why it makes sense to first deflect White's king from the d-pawn, using an intermediate check on e7. } ) 
+8. Kd3 Kd6 ( { The d-pawn is neutralized once and for all. The game actually went } 8... Rd7 9. Ke4 Re7 10. Kd3 Kd6 { . One way to explain this repetition of moves might be time trouble on Black's side. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553028/"]
+[Date "????.??.??"]
+[Round "23.10"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 213- Lipnitsky- I. vs. Smyslov- V.- USSR Championship- Moscow 1952"]
+[Result "1/2-1/2"]
+[FEN "6k1/6pp/8/2r2p2/P4P1P/3R2P1/8/5K2 b - - 0 2"]
+
+ ( { Now let's see some examples where it is the defender's rook that manages to place itself behind the passed pawn. This is indeed a fundamental defensive method in the endgame, whose power we recently witnessed in Caruana-Anand.With White to move, } 0... Kd6 0. Ra3 { would be very strong, but Smyslov will never let that happen. } ) 
+ { -KEY- } Rc1+ $1 2. Ke2 Ra1 { The rook goes behind the passed pawn. } 3. Rd4 ( { Or } 3. Rd8 Kf7 4. Ra8 Kg6 { with similar play as in the game, but with the white rook less efficiently located in front of the pawn. Generally speaking, if the rook can't be placed behind the pawn, then the side angle is the lesser evil. } ) 
+Ra3 $1 { Cutting the enemy king off from the third rank, while eyeing the weak g3-pawn. If we compare this endgame toExample 184 (Andersson-Christiansen), here White's chances are reduced by two factors: 1) the a4-pawn is more remote to the white king than Andersson's b5-pawn; 2) Lipnitsky's pawn structure is more vulnerable to an invasion by the black king. } 4. Kd2 Kf7 { There is no hurry to take the g3-pawn. } 5. Kc2 ( { Incidentally, had White prevented Black's next move by } 5. h5 { then after } Ke6 6. Kc2 Rxg3 7. Kb2 g5 $1 { Black achieves counterplay anyway - Smyslov. } ) 
+Kg6 $1 { Active defence; the king will be instrumental in Black's kingside play. } 6. Kb2 Rxg3 7. a5 Kh5 $1 { Thus Black doesn't just attack the h-pawn, he also prepares the defensive manoeuvre ...Rg6-a6. } 8. a6 Rg6 9. a7 ( { Or } 9. Ra4 Rb6 10. Kc3 Rb8 11. a7 Ra8 12. Kd4 Kxh4 13. Ke5 Kg4 14. Ra1 g6 { and White can't really make progress without jeopardizing the full point - Smyslov. } ) 
+Ra6 10. Rd7 g6 $1 ( { Black avoids getting his king cut off after } 10... Kxh4 11. Rxg7 ) 
+11. Rxh7+ Kg4 12. Kb3 Ra1 $1 ( { The impatient } 12... Kxf4 $2 { runs into } 13. Rc7 { , intending } Kg3 14. Rc3 $1 { , getting the rook to the a-file by means of an intermediate check no matter where Black's king goes. } ) 
+13. Kb4 Kxf4 14. Kb5 ( 14. Rc7 { can now be met by } Kg4 { since White's king on b4 obstructs the Rc4-a4 maneuver, which played a key role in the previous note. } ) 
+Kg3 { Black has managed to organize sufficient counterplay, and the rest is easy. } 15. Kb6 f4 16. h5 gxh5 17. Rxh5 f3 18. Rg5+ Kh2 19. Ra5 Rxa5 20. Kxa5 f2 21. a8=Q f1=Q 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798763/"]
+[Date "????.??.??"]
+[Round "23.11"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Lipnitsky- I. vs. Smyslov- V.- #1"]
+[Result "1/2-1/2"]
+[FEN "6k1/6pp/8/2r2p2/P4P1P/3R2P1/8/5K2 b - - 0 2"]
+
+ ( { Now let's see some examples where it is the defender's rook that manages to place itself behind the passed pawn. This is indeed a fundamental defensive method in the endgame, whose power we recently witnessed in Caruana-Anand.With White to move, } 0... f1=Q 0. Ra3 { would be very strong, but Smyslov will never let that happen. } ) 
+ { -KEY- } Rc1+ $1 2. Ke2 Ra1 { The rook goes behind the passed pawn. } 3. Rd4 ( { Or } 3. Rd8 Kf7 4. Ra8 Kg6 { with similar play as in the game, but with the white rook less efficiently located in front of the pawn. Generally speaking, if the rook can't be placed behind the pawn, then the side angle is the lesser evil. } ) 
+Ra3 $1 { Cutting the enemy king off from the third rank, while eyeing the weak g3-pawn. If we compare this endgame to Example 184 (Andersson-Christiansen), here White's chances are reduced by two factors: 1. the a4-pawn is more remote to the white king than Andersson's b5-pawn; 2. Lipnitsky's pawn structure is more vulnerable to an invasion by the black king. } 4. Kd2 Kf7 { There is no hurry to take the g3-pawn. } 5. Kc2 ( { Incidentally, had White prevented Black's next move by } 5. h5 { then after } Ke6 6. Kc2 Rxg3 7. Kb2 g5 $1 { , Black achieves counterplay anyway - Smyslov. } ) 
+Kg6 $1 { Active defence; the king will be instrumental in Black's kingside play. } 6. Kb2 Rxg3 7. a5 Kh5 $1 { Thus Black doesn't just attack the h-pawn, he also prepares the defensive manoeuvre ...Rg6-a6. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798758/"]
+[Date "????.??.??"]
+[Round "23.12"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Lipnitsky- I. vs. Smyslov- V.- #2"]
+[Result "1/2-1/2"]
+[FEN "8/6pp/8/P4p1k/3R1P1P/6r1/1K6/8 w - - 0 8"]
+
+8. { -KEY- } a6 Rg6 9. a7 ( { Or } 9. Ra4 Rb6 10. Kc3 Rb8 11. a7 Ra8 12. Kd4 Kxh4 13. Ke5 Kg4 14. Ra1 g6 { and White can't really make progress without jeopardizing the full point - Smyslov. } ) 
+Ra6 10. Rd7 g6 $1 ( { Black avoids getting his king cut off after } 10... Kxh4 11. Rxg7 ) 
+11. Rxh7+ Kg4 12. Kb3 Ra1 $1 ( { The impatient } 12... Kxf4 $2 { runs into } 13. Rc7 { , intending } Kg3 14. Rc3 $1 { , getting the rook to the a-file by means of an intermediate check no matter where Black's king goes. } ) 
+13. Kb4 Kxf4 14. Kb5 ( 14. Rc7 { can now be met by } Kg4 { since White's king on b4 obstructs the Rc4-a4 maneuver, which played a key role in the previous note. } ) 
+Kg3 { Black has managed to organize sufficient counterplay, and the rest is easy. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553029/"]
+[Date "????.??.??"]
+[Round "23.13"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 214- Grischuk- A. vs. Anand- V.- World Championship- Mexico City 2007"]
+[Result "1/2-1/2"]
+[FEN "8/5p2/5k1p/8/R3K1Pr/P4P2/8/8 b - - 0 1"]
+
+ { Black is seemingly in big danger, but Anand survived by transferring his rook to the back of the passed pawn. } 1... { -KEY- } Rh1 $1 ( { Black shouldn't play } 1... h5 $2 { , as after } 2. Ke3 hxg4 3. Rxg4 $1 { , a symmetric kingside pawn structure arises, which means he is lost - Anand. This thesis is easy to understand, since contrary to an asymmetric structure (e.g. pawns on g4 and f7), Black can't easily swap off those pawns, nor create a passed pawn. } ) 
+2. Rb4 { Grischuk opts for protecting the pawn from the side. } ( { In the event of } 2. Ra8 { Black could play } Ra1 { as in the game; e.g. } 3. a4 ( { or } 3. f4 Re1 4. Kd5 Rg1 $1 5. Rg8 Ra1 { etc. } ) 
+Kg5 4. a5 Re1 5. Kd4 Kf4 6. a6 Ra1 7. Kc5 Kxf3 8. Kb6 ( { if } 8. a7 { , then } Kf4 9. Kd6 Ra6 10. Ke7 f6 { etc. } ) 
+Kxg4 9. Rg8 Kf4 10. a7 h5 { and the h-pawn saves a draw. } ) 
+Ra1 3. a4 Kg6 4. Kd5 Ra3 { A good place for the rook, where it targets both of White's unprotected pawns. } 5. Kc6 ( { Or } 5. f4 f5 $1 6. gxf5 Kxf5 7. Kc4 h5 { and Black holds - Grivas. } ) 
+Rxf3 6. a5 f5 $1 { A key move, which creates a passed pawn on the h-file. } 7. a6 Ra3 8. gxf5+ ( { After } 8. Kb5 fxg4 9. Rxg4 Kf5 { , similar play occurs; } 10. Ra4 Rb3 11. Kc6 Rb8 12. a7 Ra8 13. Kb7 Re8 14. Rc4 h5 15. Rc8 Re7 16. Rc7 Re8 { and Black holds. } ) 
+Kxf5 9. Kb6 h5 { By now it is clear that Black has managed to create sufficient counterplay on the kingside. } 10. Rb5+ ( { Or } 10. a7 Rxa7 $1 { (a bridge with Rb5-a5 had to be avoided) } 11. Kxa7 Kg5 12. Kb6 h4 { with similar play. } ) 
+Kg4 11. Ra5 Rf3 12. a7 Rf8 13. a8=Q Rxa8 14. Rxa8 h4 15. Kc5 h3 16. Kd4 h2 17. Rh8 Kg3 18. Ke3 Kg2 19. Rg8+ Kf1 20. Rh8 Kg1 21. Rxh2 Kxh2 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798759/"]
+[Date "????.??.??"]
+[Round "23.14"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Grischuk- A. vs. Anand- V.- #1"]
+[Result "1/2-1/2"]
+[FEN "8/5p2/5k1p/8/R3K1Pr/P4P2/8/8 b - - 0 1"]
+
+ { Black is seemingly in big danger, but Anand survived by transferring his rook to the back of the passed pawn. } 1... { -KEY- } Rh1 $1 ( { Black shouldn't play } 1... h5 $2 { as after } 2. Ke3 hxg4 3. Rxg4 $1 { a symmetric kingside pawn structure arises, which means he is lost - Anand. This thesis is easy to understand, since contrary to an asymmetric structure (e.g. pawns on g4 and f7) , Black can't easily swap off those pawns, nor create a passed pawn. } ) 
+2. Rb4 { Grischuk opts for protecting the pawn from the side. } ( { In the event of } 2. Ra8 { Black could play } Ra1 { as in the game; e.g. } 3. a4 ( { or } 3. f4 Re1 4. Kd5 Rg1 $1 5. Rg8 Ra1 { etc. } ) 
+Kg5 4. a5 Re1 5. Kd4 Kf4 6. a6 Ra1 7. Kc5 Kxf3 8. Kb6 ( { if } 8. a7 { then } Kf4 9. Kd6 Ra6 10. Ke7 f6 { etc. } ) 
+Kxg4 9. Rg8 Kf4 10. a7 h5 { and the h-pawn saves a draw. } ) 
+Ra1 3. a4 Kg6 ( { Not } 3... Kg5 $2 4. Rb5 $1 { followed by a4-a5 and Rf5 -the "rook defends pawns" idea-, when White makes considerable progress. } ) 
+4. Kd5 Ra3 { A good place for the rook, where it targets both of White's unprotected pawns. } 5. Kc6 ( { Or } 5. f4 f5 $1 6. gxf5 Kxf5 7. Kc4 h5 { and Black holds - Grivas. } ) 
+Rxf3 6. a5 f5 $1 { A key move, which creates a passed pawn on the h-file. } 7. a6 Ra3 8. gxf5+ ( { After } 8. Kb5 fxg4 9. Rxg4 Kf5 { similar play occurs; e. g. } 10. Ra4 Rb3 11. Kc6 Rb8 12. a7 Ra8 13. Kb7 Rxa7 14. Rxa7 h5 { with a draw - Grivas. } ) 
+Kxf5 9. Kb6 h5 { By now it is clear that Black has managed to create sufficient counterplay on the kingside. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553030/"]
+[Date "????.??.??"]
+[Round "23.15"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 215- Riazantsev- A. vs. Dvoirys- S.- Cheliabinsk 2007"]
+[Result "1-0"]
+[FEN "R7/8/P4p2/5k2/4p3/4P3/r4PK1/8 w - - 0 1"]
+
+ { When examining rook endings with an extra pawn on the queenside, special attention should be paid to the location of that pawn - when it's on the sixth rank, the attacker's king can hide in front of it, whereas on the seventh, there is no such possibility - on the other hand, it creates tactical motifs related to a check with the attacker's rook. Here is one clarifying example.Black's rook is ideally placed on a2; unfortunately, his king has moved away from the 'safety zone' on g7-h7, a fact that White immediately exploits. } 1. { -KEY- } a7 $1 { Such an advance would make little sense if Black's king was on g7 or h7, but here Riazantsev has seen that he will soon be able to deliver a decisive rook check. } Ra1 2. f3 $1 { Clearing the way for the e-pawn. } exf3+ 3. Kxf3 Rf1+ 4. Kg2 Ra1 5. Kf2 $1 { White first improves his king; } ( { seeing that } 5. e4 $6 Kf4 $1 6. e5 Ra2 { would create unnecessary complications. } ) 
+Ra4 6. Kf3 ( { Again, } 6. e4 $6 { would be premature in view of } Kf4 $1 7. e5 Ra2 7. Ke1 Ke3 $1 { and thanks to the mating threat Black is ready to take back on e5 on the next move, as noticed by Neilthesculptor. } ) 
+Ra3 { The only defence against 7.e4+, but not for long. } 7. Ke2 Ra1 ( { Or } 7... Ra2 8. Kd3 { , approaching the enemy rook. } ) 
+8. e4+ $1 { With no mating threat or perpetual to worry about, the time is right for this key move. } Kf4 { Obviously, other replies run into a rook check. } 9. e5 $1 { Insisting on the exposure of Black's king. } Ra2+ 10. Kd1 Ra1+ 11. Kc2 ( { In view of } 11. Kc2 fxe5 ( 11. Kc2 Kxe5 12. Re8 ) 
+ ( { or } 11. Kc2 f5 12. e6 ) 
+12. Rf8 { , Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553031/"]
+[Date "????.??.??"]
+[Round "23.16"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 216- Gurevich- M. vs. Glek- I.- Vlissingen 2002"]
+[Result "1-0"]
+[FEN "6k1/5pp1/3r3p/R7/8/6P1/P4P1P/6K1 b - - 0 1"]
+
+ { The previous examples all had in common that one side possessed a passed pawn on the queenside. Such rook endings are indeed quite frequent in practice, and they have been extensively analysed within endgame theory. Here is one more ending of this type. } 1... { -KEY- } Rd2 { Black hurries to tie the enemy rook to the pawn, and prepares ...Ra2 whenever White moves the a-pawn. } 2. Kg2 ( { The space-gaining } 2. g4 $5 { was interesting as well, preventing Black from an ideal kingside structure with pawns on h5, g6 and f7. } ) 
+h5 3. a4 ( { a) Obviously, White does not benefit from the pawn trade after } 3. Rxh5 Rxa2 ) 
+ ( { b) But } 3. Kf3 { was also interesting, getting the king a bit closer to the a-pawn. } ) 
+Ra2 4. h4 g6 5. Ra8+ Kg7 6. a5 { White's main plan is the transfer of his king to the opposite flank, but first he advances the a-pawn to a6, since time will be a big issue once Black initiates his kingside counterplay. } Ra3 7. a6 Kf6 8. Kf1 Ra2 9. Kg1 Kf5 { In similar style toExample 213 (Lipnitsky-Smyslov), Black brings his king as close as possible to the white kingside pawns. } 10. Kg2 Ra3 11. Ra7 $1 Kf6 $1 ( { Gurevich's last move was an astute try in practice, in the sense that if Black continued his kingside offensive with } 11... f6 $2 { then White could change plans decisively with } 12. Ra8 Kg4 13. a7 $1 { - Gurevich. a) In similar spirit to the previous example, the black king is now far away from the 'safety zone' on g7-h7, and any active attempt would expose it to a rook check; e.g. } g5 $2 14. hxg5 fxg5 15. f3 ( { b) passive defence is equally insufficient, e.g. } 13... Kf5 14. f3 Ra2 15. Kf1 { and the white king walks all the way to h6, after which Rb8-b5+ and Kxg6 decides, which actually occurred in some games, such as W. Unzicker-E. Lundin, Amsterdam Olympiad 1954. } ) 
+ ( { c) Or } 13... Ra2 14. Rf8 Rxa7 15. Rxf6 { with mate. } ) 
+ ) 
+12. Kf1 Ra2 13. Ke1 Kg7 $6 { Having seen the rest of the game, this seems like the loss of a vital tempo. } ( { After } 13... Ke6 { it is not clear how White should continue; e.g. } 14. Kd1 $6 Rxf2 15. Rc7 Ra2 16. a7 f6 17. Kc1 Kf5 18. Kb1 Ra6 { with much better chances of a draw than in the game. } ) 
+14. Kd1 $1 { Evidently, White can't make progress without sacrificing a kingside pawn. } Kf6 ( { After } 14... Rxf2 15. Rc7 Ra2 16. a7 Kf6 17. Kc1 Kf5 ( { Gurevich suggests } 17... Ke6 18. Kb1 Ra5 19. Kc2 f5 20. Kb3 Kd6 { as a better option, although after } 21. Kb4 Ra1 22. Rg7 { Black is still a long way from the draw. } ) 
+18. Kb1 { It transpires that Black has no adequate square for his rook; e.g. } Ra4 ( { or } 18... Ra5 $2 19. Rc5 $1 ) 
+ ( { while } 18... Ra6 19. Rxf7 Kg4 $2 { is met by } 20. Rg7 $1 { intending } Kxg3 21. Rxg6 { - Gurevich } ) 
+19. Rxf7 Kg4 20. Rf4 $1 ) 
+15. Kc1 Rxf2 16. Kb1 $5 ( 16. Rc7 Ra2 17. a7 { was possible, transposing to the previous note, but Gurevich goes for more. } ) 
+Rf5 ( { Gurevich gave } 16... Rf3 $6 17. Kb2 Rxg3 18. Rxf7 Kxf7 19. a7 { as winning for White, although after } Rg2 20. Kb3 Rg3 21. Kb4 Rg4 22. Kb5 Rxh4 23. a8=Q $11 Rf4 { , it is actually a draw according to Nalimov's tablebases. Nevertheless, I suspect that Black's task remains difficult in practice. } ) 
+17. Rc7 { White finally switches to a better angle for his rook. } Rb5+ $2 { This just helps the white king to approach the a-pawn. } ( { Correct was } 17... Ra5 18. a7 Ke6 { transposing to 14...Rxf2 above; } ( { but not } 18... Kf5 $2 19. Rc5 $1 { - Gurevich. Such a deflecting check is the reason why the c-file is better than the b-file for the white rook here, so that Black's recapture doesn't come with check. } ) 
+ ) 
+18. Kc2 Ra5 19. a7 Kf5 20. Kb3 $1 { Preparing a bridge on a4, which would force Black to sacrifice his rook for the a-pawn much earlier than desired; i.e. when the white king is still rather close to the kingside. } ( { In contrast, after the obvious } 20. Rxf7 $6 Kg4 { followed by ...Kxg3, Black's drawing chances are improved. } ) 
+Kg4 ( { Or } 20... Ra1 21. Rxf7 Kg4 22. Rf4 $1 Kxg3 23. Ra4 { and wins - Gurevich. } ) 
+21. Rc4+ Kxg3 22. Ra4 Rxa7 23. Rxa7 Kxh4 24. Kc3 $1 ( { King first; after } 24. Rxf7 $2 Kg3 { the h-pawn saves Black. } ) 
+Kg3 25. Kd2 g5 ( { Or } 25... h4 26. Ke1 Kg2 27. Ra2 Kg1 28. Ra4 { etc - Gurevich. } ) 
+26. Rxf7 h4 27. Ke2 g4 28. Kf1 Kh2 29. Rf2+ Kh1 30. Rf4 h3 31. Kf2 h2 32. Re4 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798764/"]
+[Date "????.??.??"]
+[Round "23.17"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Gurevich- M. vs. Glek- I.- #1"]
+[Result "1-0"]
+[FEN "6k1/5pp1/3r3p/R7/8/6P1/P4P1P/6K1 b - - 0 1"]
+
+ { The previous examples all had in common that one side possessed a passed pawn on the queenside. Such rook endings are indeed quite frequent in practice, and they have been extensively analysed within endgame theory. Here is one more ending of this type. } 1... { -KEY- } Rd2 { Black hurries to tie the enemy rook to the pawn, and prepares ...Ra2 whenever White moves the a-pawn. } 2. Kg2 ( { The space-gaining } 2. g4 $5 { was interesting as well, preventing Black from an ideal kingside structure with pawns on h5, g6 and f7. } ) 
+h5 3. a4 ( { Obviously, White does not benefit from the pawn trade after } 3. Rxh5 Rxa2 ) 
+ ( { but } 3. Kf3 { was also interesting, getting the king a bit closer to the a-pawn. } ) 
+ ( { Starting with } 3. h4 { , fixing the kingside pawn structure at once, was also possible. } ) 
+Ra2 4. h4 g6 5. Ra8+ Kg7 6. a5 { White's main plan is the transfer of his king to the opposite flank, but first he advances the a-pawn to a6, since time will be a big issue once Black initiates his kingside counterplay. } Ra3 7. a6 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798765/"]
+[Date "????.??.??"]
+[Round "23.18"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Gurevich- M. vs. Glek- I.- #2"]
+[Result "1-0"]
+[FEN "8/R4p2/P4kp1/7p/7P/6P1/r4P2/4K3 b - - 0 13"]
+
+13... { -KEY- } Kg7 $6 14. Kd1 $1 { Evidently, White can't make progress without sacrificing a kingside pawn. } Kf6 ( { After } 14... Rxf2 15. Rc7 Ra2 16. a7 Kf6 17. Kc1 Kf5 ( { Gurevich suggests } 17... Ke6 18. Kb1 Ra5 19. Kc2 f5 20. Kb3 Kd6 { as a better option, although after } 21. Kb4 Ra1 22. Rg7 { Black is still a long way from the draw } ) 
+18. Kb1 { , it transpires that Black has no adequate square for his rook; e.g. } Ra4 ( { or } 18... Ra5 $2 19. Rc5 $1 ) 
+ ( { while } 18... Ra6 19. Rxf7 Kg4 $2 { is met by } 20. Rg7 $1 { , intending } Kxg3 21. Rxg6 { - Gurevich } ) 
+19. Rxf7 Kg4 20. Rf4 $1 ) 
+15. Kc1 Rxf2 16. Kb1 $5 ( 16. Rc7 Ra2 17. a7 { was possible, transposing to the previous note, but Gurevich goes for more. } ) 
+Rf5 ( { Gurevich gave } 16... Rf3 $6 17. Kb2 Rxg3 18. Rxf7 Kxf7 19. a7 { as winning for White, although after } Rg2 20. Kb3 Rg3 21. Kb4 Rg4 22. Kb5 Rxh4 23. a8=Q $11 Rf4 { it is actually a draw according to Nalimov's tablebases. Nevertheless, I suspect that Black's task remains difficult in practice. } ) 
+17. Rc7 { White finally switches to a better angle for his rook. } Rb5+ $2 { This just helps the white king to approach the a-pawn. } ( { Correct was } 17... Ra5 18. a7 Ke6 { , transposing to 14...Rxf2 above; } ( { but not } 18... Kf5 $2 19. Rc5 $1 { - Gurevich. Such a deflecting check is the reason why the c-file is better than the b-file for the white rook here, so that Black's recapture doesn't come with check. } ) 
+ ) 
+18. Kc2 Ra5 19. a7 Kf5 20. Kb3 $1 { Preparing a bridge on a4, which would force Black to sacrifice his rook for the a-pawn much earlier than desired; i.e. when the white king is still rather close to the kingside. } ( { In contrast, after the obvious } 20. Rxf7 $6 Kg4 { followed by ...Kxg3, Black's drawing chances are improved. } ) 
+Kg4 ( { Or } 20... Ra1 21. Rxf7 Kg4 22. Rf4 $1 Kxg3 23. Ra4 { and wins - Gurevich. } ) 
+21. Rc4+ Kxg3 22. Ra4 Rxa7 23. Rxa7 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798760/"]
+[Date "????.??.??"]
+[Round "23.19"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Gurevich- M. vs. Glek- I.- #3"]
+[Result "1-0"]
+[FEN "8/R4p2/6p1/7p/7P/1K4k1/8/8 b - - 0 23"]
+
+23... { -KEY- } Kxh4 24. Kc3 $1 ( { King first; after } 24. Rxf7 $2 Kg3 { the h-pawn saves Black. } ) 
+Kg3 25. Kd2 g5 ( { Or } 25... h4 26. Ke1 Kg2 27. Ra2 Kg1 28. Ra4 { etc - Gurevich. } ) 
+26. Rxf7 ( 26. Ke2 $6 f5 { would make things unnecessarily complex - hobbsey, who also observed that f7-f5 one move earlier ( } f5 { ) would be well met by } 26. Rg7 $1 ) 
+h4 27. Ke2 g4 28. Kf1 Kh2 29. Rf2+ Kh1 30. Rf4 h3 31. Kf2 h2 32. Re4 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553032/"]
+[Date "????.??.??"]
+[Round "23.20"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 217- Kamsky- G. vs. Karpov- A.- Linares 1994"]
+[Result "*"]
+[FEN "8/8/5R2/8/p3k3/8/6K1/r7 w - - 0 1"]
+
+ { As mentioned in the introduction to the current section, exceptions to the 'place your rook behind the passed pawn' principle exist. Here is one. } 1. { -KEY- } Rg6 $1 { Preparing a side attack, the correct angle in this particular rook ending, so as to prevent the black king from hiding on a2. } ( { The natural } 1. Ra6 $2 { would lose after } Kd3 2. Ra8 Kc3 3. Kf2 a3 4. Ra7 ( { or } 4. Ke2 a2 5. Kf2 Rh1 { etc. } ) 
+Kb3 5. Rb7 Ka2 6. Ke2 Rb1 7. Ra7 Kb2 8. Rb7 Ka1 9. Ra7 a2 { followed by 10...Kb2 - a position we already came across inExample 192 (Zhukova-Pogonina), with reversed colours and flanks. } ) 
+ ( { However, the similar } 1. Rh6 $5 { would also work, e.g. } Ke3 2. Rh4 { with a later rook transfer to the f-file, in similar fashion to the main line. } ) 
+Ke3 ( { In contrast, the black rook can't improve its angle; e.g. } 1... Rb1 $2 2. Rg4 ) 
+2. Rg4 $1 { Tying the enemy rook to the pawn. } ( { Placing the rook on the third rank is a bad idea: } 2. Rg3 $6 Kd2 3. Rf3 $2 ( { White could still draw by } 3. Rg4 a3 4. Rg3 Kc2 5. Rf3 a2 6. Rf2 { etc. } ) 
+Re1 { followed by 4...Re4, Kc2-b2 etc. } ) 
+a3 3. Rg3+ Ke4 ( { If the black king approaches by } 3... Kd2 { then } 4. Rf3 Kc2 5. Kh2 Kb2 6. Rf2 { again prevents the liberation of the enemy rook. } ) 
+4. Rb3 Ra2+ ( { a) } 4... a2 5. Ra3 ) 
+ ( { b) or } 4... Kd4 5. Rf3 { are draws. } ) 
+5. Kg3 Kd4 6. Rf3 Ra1 7. Kg2 $1 { Preventing the check on g1. Unable to make progress, Black agreed to a draw. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553033/"]
+[Date "????.??.??"]
+[Round "23.21"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 218- Gulko- B. vs. Dvoretsky- M.- USSR Championship- Yerevan 1975"]
+[Result "*"]
+[FEN "5k2/5pp1/1R2b2p/P1p5/8/4N2P/1P3rPK/8 b - - 0 1"]
+
+ { The idea of placing the rook behind the passed pawn is also relevant in other types of endings. Let's see a few examples, both from a defender's and an attacker's perspective.Thanks to his powerful outside passed pawn White is clearly better here, but Black could have made considerable resistance had he considered the idea that we are examining. } 1... { -KEY- } Rf4 $1 { Heading for a4 in order to control the passed pawn from the back. } ( { In contrast, the game went } 1... Re2 $2 2. a6 Rxe3 3. Rb8 Ke7 4. Rb7 $1 { and Black resigned, in view of 5.a7 next. } ) 
+2. Rb5 ( { a) Other attempts are less promising; e.g. } 2. a6 Ra4 ) 
+ ( { b) Or } 2. b4 Rxb4 $1 ) 
+ ( { c) While } 2. b3 { can be met by } Rf2 $1 { and the rook reaches the a-file anyway. } ) 
+Ke7 $1 ( { But not } 2... Re4 $6 3. Nd1 Re1 4. Nc3 c4 5. Rb4 $1 Ra1 6. Ra4 { with excellent winning chances - Dvoretsky. } ) 
+3. Rxc5 Rb4 4. Nd1 ( { a) Black is also okay after } 4. Rc2 Kd6 $1 { preparing ...Ra4 } ) 
+ ( { b) Or } 4. a6 Ra4 5. Rc7 Kd6 6. Ra7 Kc5 { followed by ...Kb6. } ) 
+Kd6 5. Rc3 Ra4 6. Ra3 Rxa3 7. bxa3 Kc5 8. Nc3 f5 { Intending g7-g5, ...Bc8 and ...Kc4, with good chances for a draw - Dvoretsky. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553034/"]
+[Date "????.??.??"]
+[Round "23.22"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 219- Tadic- B. vs. Miladinovic- I.- Serbian Championship- Pancevo 2006"]
+[Result "*"]
+[FEN "8/p7/2b5/8/2k5/3pP3/PR3K2/8 w - - 0 1"]
+
+ { In material terms White's advantage should be decisive, but the far-advanced d-pawn is a matter of concern. } 1. { -KEY- } Rb8 $1 { Heading for d8, in order to control the pawn from behind. } ( { Instead, the game went } 1. Rb3 $2 d2 2. Ke2 Ba4 3. Kxd2 { and a draw was agreed, in view of } Bxb3 4. axb3 Kxb3 ) 
+Bd5 ( { Or } 1... Be4 2. Ke1 Kc3 3. Rc8 Kb2 4. a4 Kb3 5. Kd2 a5 6. Rc3 Kb4 7. Rxd3 $1 { and wins - Müller. Let's make a few more moves: } Bxd3 8. Kxd3 Kxa4 9. Kc4 Ka3 10. e4 Kb2 11. e5 ( { but not } 10... Bd5 10. Kb5 $2 Kb3 $1 { on the king's route theme, with a draw; } ) 
+a4 12. e6 a3 13. e7 a2 14. e8=Q $11 a1=Q $11 15. Qe2 { with a quick mate after } Ka3 16. Qd3 Kb2 17. Qd2 Kb1 18. Kb3 { etc. } ) 
+2. Rd8 a5 ( { Obviously, } 2... d2 $2 { failed to } 3. Ke2 ) 
+3. Ke1 Bf7 4. Kd2 ( { White wins; e.g. } 4. Kd2 Kb4 5. Rd4 Ka3 6. Rxd3 Kxa2 7. Kc3 Ka3 8. Rd4 { - Müller. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13798761/"]
+[Date "????.??.??"]
+[Round "23.23"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Example 220- Botvinnik- M. vs. Zuidema- C.- Amsterdam 1966"]
+[Result "1-0"]
+[FEN "8/4k1bp/R5p1/3p4/2p2P2/6P1/7P/5K2 w - - 0 1"]
+
+ { In this final example, the white rook did really impressive work.Again White has a material advantage, but Black's connected passed pawns must be dealt with correctly. } 1. { -KEY- } Ra7+ $1 { Heading for c7, where the rook will control the enemy passed pawns, while participating in the battle for the opposite flank as well. } Kf8 ( { The desirable } 1... Kf6 $2 { failed to } 2. Rd7 ) 
+2. Rc7 c3 3. Ke2 h6 4. Kd3 d4 5. g4 { Having neutralized the enemy pawns, White is now ready to create a passed pawn of his own on the kingside. } Bf6 ( 5... g5 $1 6. f5 Bf6 { was more tenacious - Botvinnik, who also suggests the improvement 2.g4 (or 3.g4), followed by g4-g5, thus eliminating this defensive possibility. } ) 
+6. h4 $1 { Gaining space while facilitating the creation of a passed pawn. } Kg8 ( { After } 6... Bxh4 $2 7. Kxd4 Bf6 8. Kd5 $1 { , the entrance of White's king decides. } ) 
+7. Ke4 Bg7 8. g5 hxg5 9. hxg5 Kf8 10. Kd3 ( { Since } 10. f5 $6 gxf5 11. Kxf5 $2 { would run into } d3 { , Botvinnik instead prepares a zugzwang. } ) 
+Kg8 11. Rc6 Kf7 12. Ke4 $1 { Unfortunately for Black, he is now short of a solid move. } Bh8 13. Rc7+ Kg8 14. Rc8+ Kh7 15. f5 $1 { This advance works here, due to the awkward position of Black's king and bishop. } gxf5+ ( { Or } 15... d3 16. Kxd3 gxf5 17. g6 $1 Kg7 18. Kxc3 { and White wins comfortably thanks to the badly placed bishop on h8 - Botvinnik. } ) 
+16. Kxf5 Bg7 ( { Again } 16... d3 { is of no avail: } 17. g6 Kh6 ( { or } 17... Kg7 18. Rxc3 ) 
+18. Rxh8 Kg7 19. Rh7 Kg8 20. Rc7 d2 21. Kf6 { with mate. } ) 
+17. Re8 $1 { A clever switch of angle to create a mating threat on the h-file. } d3 ( { a) Or } 17... c2 18. g6 Kh6 19. Re2 $1 { with similar play. } ) 
+ ( { b) } 17... Bh8 { is equally insufficient due to } 18. g6 Kg7 19. Rc8 $1 { and the pawns fall by themselves. } ) 
+18. g6+ Kh6 19. Re3 $1 Bd4 ( { After } 19... Be5 20. Rxe5 Kg7 { (there was the threat of Re7-h7) } 21. Re7 Kg8 22. Kf6 { , White gives mate. } ) 
+20. Rxd3 c2 21. Rh3+ $1 { The rook again heads for c7 in order to control the passed pawn from behind. } Kg7 22. Rh7+ ( { Black resigned. Let's see a possible conclusion: } 22. Rh7 Kg8 23. Rc7 Bb2 24. Rxc2 Bd4 25. Rc7 Bb2 26. g7 $1 Kh7 ( 26. Rh7+ Bxg7 27. Kg6 { comes to the same thing; } ) 
+27. Rf7 $1 Bc3 ( { or } 27. Rh7+ Bxg7 28. Kg5 { with similar play; } ) 
+28. g8=Q Kxg8 29. Kg6 Bd4 30. Rd7 Bc5 31. Rd8 Bf8 32. Re8 { But note that if all the pieces are moved one file to the left (i.e. Ke5 , Rb7 and Pf6 vs. Kf8 and Ba2 ) it is a theoretical draw, a fact that we will come back to in the last example of this book. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553035/"]
+[Date "????.??.??"]
+[Round "23.24"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Botvinnik- M. vs. Zuidema- C.- #1"]
+[Result "1-0"]
+[FEN "8/4k1bp/R5p1/3p4/2p2P2/6P1/7P/5K2 w - - 0 1"]
+
+ { In this final example, the white rook did really impressive work.Again White has a material advantage, but Black's connected passed pawns must be dealt with correctly. } 1. { -KEY- } Ra7+ $1 { Heading for c7, where the rook will control the enemy passed pawns, while participating in the battle for the opposite flank as well. } Kf8 ( { The desirable } 1... Kf6 $2 { failed to } 2. Rd7 ) 
+2. Rc7 c3 3. Ke2 h6 4. Kd3 d4 5. g4 { Having neutralized the enemy pawns, White is now ready to create a passed pawn of his own on the kingside. } Bf6 ( 5... g5 $1 6. f5 Bf6 { was more tenacious - Botvinnik, who also suggests the improvement 2 g4 (or 3 g4), followed by g4-g5, thus eliminating this defensive possibility. } ) 
+6. h4 $1 { Gaining space while facilitating the creation of a passed pawn. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553058/"]
+[Date "????.??.??"]
+[Round "23.25"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Botvinnik- M. vs. Zuidema- C.- #2"]
+[Result "1-0"]
+[FEN "5k2/2R5/5bpp/8/3p1PPP/2pK4/8/8 b - - 0 6"]
+
+6... { -KEY- } Kg8 ( { After } 6... Bxh4 $2 7. Kxd4 Bf6 8. Kd5 $1 { , the entrance of White's king decides. } ) 
+7. Ke4 ( { A different move order with } 7. g5 { first also works. } ) 
+Bg7 8. g5 hxg5 9. hxg5 Kf8 10. Kd3 ( { Since } 10. f5 $6 gxf5 11. Kxf5 $2 { would run into } d3 { , Botvinnik instead prepares a zugzwang. } ) 
+Kg8 11. Rc6 Kf7 12. Ke4 $1 { Unfortunately for Black, he is now short of a solid move. } Bh8 13. Rc7+ Kg8 14. Rc8+ Kh7 15. f5 $1 { This advance works here, due to the awkward position of Black's king and bishop. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12553059/"]
+[Date "????.??.??"]
+[Round "23.26"]
+[White "3.5 The Rook Behind The Passed Pawn"]
+[Black "Botvinnik- M. vs. Zuidema- C.- #3"]
+[Result "1-0"]
+[FEN "2R4b/7k/6p1/5PP1/3pK3/2p5/8/8 b - - 0 15"]
+
+15... { -KEY- } gxf5+ ( { Or } 15... d3 16. Kxd3 gxf5 17. g6 $1 Kg7 18. Kxc3 { and White wins comfortably thanks to the badly placed bishop on h8 - Botvinnik. } ) 
+16. Kxf5 Bg7 ( { Again } 16... d3 { is of no avail: } 17. g6 Kh6 ( { or } 17... Kg7 18. Rxc3 ) 
+18. Rxh8 Kg7 19. Rh7 Kg8 20. Rc7 d2 21. Kf6 { with mate. } ) 
+17. Re8 $1 { A clever switch of angle to create a mating threat on the h-file. } d3 ( { Or } 17... c2 18. g6 Kh6 19. Re2 $1 { with similar play. } ) 
+ ( 17... Bh8 { is equally insufficient due to } 18. g6 Kg7 19. Rc8 $1 { and the pawns fall by themselves. } ) 
+18. g6+ Kh6 19. Re3 $1 Bd4 ( { After } 19... Be5 20. Rxe5 Kg7 { (there was the threat of Re7-h7) } 21. Re7 Kg8 22. Kf6 { , White gives mate. } ) 
+20. Rxd3 c2 21. Rh3+ $1 { The rook again heads for c7 in order to control the passed pawn from behind. } Kg7 22. Rh7+ ( { Black resigned. Let's see a possible conclusion: } 22. Rh7 Kg8 23. Rc7 Bb2 24. Rxc2 Bd4 25. Rc7 Bb2 26. g7 $1 Kh7 ( 26. Rh7+ Bxg7 27. Kg6 { comes to the same thing; } ) 
+27. Rf7 $1 Bc3 ( { or } 27. Rh7+ Bxg7 28. Kg5 { with similar play; } ) 
+28. g8=Q Kxg8 29. Kg6 Bd4 30. Rd7 Bc5 31. Rd8 Bf8 32. Re8 { But note that if all the pieces are moved one file to the left (i.e. Ke5, Rb7 and Pf6 vs. Kf8 and Ba2) it is a theoretical draw, a fact that we will come back to in the last example of this book. } ) 
+
+ 1-0

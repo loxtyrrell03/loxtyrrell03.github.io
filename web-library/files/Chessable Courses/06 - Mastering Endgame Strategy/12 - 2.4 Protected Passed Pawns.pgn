@@ -1,0 +1,112 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12539574/"]
+[Date "????.??.??"]
+[Round "12.1"]
+[White "2.4 Protected Passed Pawns"]
+[Black "Protected passed pawns"]
+[Result "*"]
+
+ { A protected passed pawn is a great asset in any endgame. The next one is a simple example. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520529/"]
+[Date "????.??.??"]
+[Round "12.2"]
+[White "2.4 Protected Passed Pawns"]
+[Black "Example 80 by Alburt- L."]
+[Result "*"]
+[FEN "8/8/2p2k2/pp3Pp1/6P1/PKP5/8/8 w - - 0 1"]
+
+ { Thanks to his protected passed pawn on f5, and its restricting effect on the enemy king, White is much better. With his next move he initiates an attack on the black queenside pawns. } 1. { -KEY- } a4 $1 ( { Also possible is } 1. c4 $5 { in the same spirit; e.g. } Ke5 2. Kc3 Kd6 ( { or } 2. a4 Kf6 3. cxb5 cxb5 4. Kd4 { and the king soon liquidates the enemy pawns } ) 
+3. cxb5 cxb5 4. Kd4 Kc6 5. Ke5 $1 b4 ( { equally hopeless is } 5. a4 a4 6. Kd4 Kd6 7. Kc3 Kc5 8. f6 Kd6 9. Kb4 { etc } ) 
+6. axb4 axb4 7. Kd4 $1 { and wins. } ) 
+Ke5 2. axb5 ( { But not } 2. c4 $2 b4 { and Black has created his own protected passed pawn with a draw - Alburt. } ) 
+cxb5 3. c4 a4+ ( { Now if } 3... b4 { then } 4. c5 { with a decisive square of separated passed pawns. } ) 
+4. Kc3 ( { In order to eliminate the most dangerous black pawn, the one on the c-file. In contrast, after } 4. Kb4 $2 a3 $1 5. Kxa3 bxc4 6. Kb4 Kd4 $1 7. f6 c3 { Black queens as well. } ) 
+bxc4 5. Kxc4 { Next White eliminates the a-pawn and brings his king to the opposite flank with a trivial win. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520530/"]
+[Date "????.??.??"]
+[Round "12.3"]
+[White "2.4 Protected Passed Pawns"]
+[Black "Example 81- Tal- M. vs. Fuchs- R.- Kislovodsk 1964"]
+[Result "1-0"]
+[FEN "8/4k3/1nB1pp1p/p3P1p1/3P1PPP/P1K5/8/8 w - - 0 1"]
+
+ ( { Black has just played ...g6-g5 to avoid 1.g5 fixing a weakness on g6 . Tal found a simple way of realizing his material advantage. } ) 
+1. { -KEY- } exf6+ $1 { This and the next two moves produce a strong protected passed pawn on the h-file. } Kxf6 2. fxg5+ hxg5 3. h5 $1 { From now on this pawn will severely limit Black's king. } Kg7 4. d5 $1 { The most attractive follow-up, which leaves the knight helpless against the invasion of the white king. } exd5 5. Kd4 Nc4 6. Bb5 $1 ( { More technical than } 6. a4 Kf6 { followed by ...Ne5 - Tal. } ) 
+Nd6 ( { Or } 6... Nxa3 7. Bd3 $1 { applying the magic distance, with an easy win after } Nc4 8. Bxc4 dxc4 9. Kxc4 { etc. } ) 
+7. Bd3 Ne8 8. Bf5 Nf6 9. Ke5 ( { In view of } 9. Ke5 Kf7 10. h6 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520531/"]
+[Date "????.??.??"]
+[Round "12.4"]
+[White "2.4 Protected Passed Pawns"]
+[Black "Example 82- Danielsson- R. vs. Larsson- J.- Swedish Team Championship 2007"]
+[Result "*"]
+[FEN "8/8/5p2/4p3/4P1pp/5PkP/6P1/5K2 w - - 0 1"]
+
+ { A protected passed pawn can also play the role of securing a draw. Here Black has just played ...g5-g4, making a last attempt at squeezing a point out of a drawish pawn ending. How would you react? } 1. { -KEY- } fxg4 $1 ( { The game went } 1. hxg4 $2 h3 $1 2. gxh3 Kxf3 $1 { (obstruction) } 3. Ke1 Kg3 4. Ke2 Kxh3 5. Kf3 Kh4 6. g5 fxg5 $1 { and White resigned. } ) 
+Kf4 2. Kf2 Kxe4 { Now Black enjoys a protected passed pawn on e5, but White is just in time to create his own one on the h-file. } 3. g3 $1 hxg3+ 4. Kxg3 Kd3 5. Kf2 $1 ( { Not } 5. h4 $2 e4 { and Black queens with check. } ) 
+e4 6. Ke1 Ke3 7. h4 $1 Kf4 8. h5 Kg5 9. Ke2 { Draw. } f5 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520532/"]
+[Date "????.??.??"]
+[Round "12.5"]
+[White "2.4 Protected Passed Pawns"]
+[Black "Example 83- Khalifman- A. vs. Shaposhnikov- E.- St Petersburg 1998"]
+[Result "0-1"]
+[FEN "8/r4pp1/1k5p/1p1p3P/1P1P2P1/1BK2P2/8/8 b - - 0 1"]
+
+ { Here White is trying to survive by means of a fortress, but Black's clever maneuver puts an end to any such illusions. } 1... { -KEY- } Rc7+ 2. Kb2 Rc4 $1 { Forcing a pawn ending where the protected passed pawn secures an easy win. } 3. Bxc4 bxc4 4. f4 ( { Or } 4. Ka2 Kb5 5. Ka3 c3 $1 { with similar play to the game. } ) 
+Kb5 ( 4... f6 { at once also works, as observed by Benner } ) 
+5. Ka3 ( { Or } 5. Kc3 Ka4 { and White soon runs out of moves - Hecht. } ) 
+f6 6. f5 c3 $1 { By trading the b- and c-pawns, Black makes the d4-pawn an easy target. } 7. Kb3 c2 ( { In view of } 7... c2 8. Kxc2 Kxb4 9. Kd3 Kb3 { etc, White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520533/"]
+[Date "????.??.??"]
+[Round "12.6"]
+[White "2.4 Protected Passed Pawns"]
+[Black "Example 84- Dearing- E. vs. Erenburg- S.- Budapest 2004"]
+[Result "1-0"]
+[FEN "2k5/pbn2p2/2p1p3/4P1p1/Nq2P3/1P1Q4/4BPP1/6K1 w - - 0 1"]
+
+ { The idea of creating a protected passed pawn can take place in earlier stages of the game as well. Here is one example.At this point Black was probably hoping to activate his position with ... c6-c5, but after the next, strong opposing move he never gets time for that. } 1. { -KEY- } Qd6 $1 Qxd6 ( { a) After } 1... a5 2. Nc5 ) 
+ ( { b) or } 1... Qe1 2. Bf1 Kb8 ( { if } 2... Ba6 { then } 3. Qf8 Kb7 4. Nc5 Kb6 5. Nd7 Ka5 6. Qa3 { - Erenburg } ) 
+3. Nc5 { Black is also suffering. } ) 
+2. exd6 Nb5 3. e5 { The protected passed pawn is a fact, while Black has a really bad bishop on b7. } Nd4 { Unfortunately for Black, the desirable } ( 3... f6 { fails tactically to } 4. Bxb5 cxb5 5. exf6 ) 
+4. Bc4 c5 ( { In the event of passive defence with } 4... Kd8 5. Nc5 Bc8 { one attractive plan is } 6. Kh2 { followed by Kh3-g4. } ) 
+5. Nxc5 Ba8 ( 5... Bd5 { was slightly more promising, although after } 6. Bxd5 exd5 7. Kh2 Nc6 8. Nd3 Kd7 9. Kg3 Ke6 ( { both here and later, } 9... f6 { fails to } 10. Nc5 ) 
+10. f4 $1 { White is winning - Erenburg. } ) 
+6. f3 Nc6 7. Nd3 Na5 8. Kf2 { With a healthy extra pawn and more active pieces, the rest is easy for White. } Kd7 9. Bb5+ Bc6 10. Nc5+ Ke8 11. b4 $1 Bxb5 12. bxa5 Bc6 13. Kg3 Bb5 14. Kg4 Bf1 15. g3 Be2 16. Ne4 Kd7 17. Nxg5 f6 18. exf6 Kxd6 19. Nh7 $1 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13786843/"]
+[Date "????.??.??"]
+[Round "12.7"]
+[White "2.4 Protected Passed Pawns"]
+[Black "Dearing- E. vs. Erenburg- S.- #1"]
+[Result "1-0"]
+[FEN "2k5/pbn2p2/2p1p3/4P1p1/Nq2P3/1P1Q4/4BPP1/6K1 w - - 0 1"]
+
+ { The idea of creating a protected passed pawn can take place in earlier stages of the game as well. Here is one example.At this point Black was probably hoping to activate his position with ... c6-c5, but after the next, strong opposing move he never gets time for that. } 1. { -KEY- } Qd6 $1 Qxd6 ( { a) After } 1... a5 2. Nc5 ) 
+ ( { b) or } 1... Qe1 2. Bf1 Kb8 ( { if } 2... Ba6 { then } 3. Qf8 Kb7 4. Nc5 Kb6 5. Nd7 Ka5 6. Qa3 { - Erenburg } ) 
+3. Nc5 { Black is also suffering. } ) 
+2. exd6 Nb5 3. e5 { The protected passed pawn is a fact, while Black has a really bad bishop on b7. } Nd4 ( { Unfortunately for Black, the desirable } 3... f6 { fails tactically to } 4. Bxb5 cxb5 5. exf6 ) 
+4. Bc4 c5 ( { In the event of passive defence with } 4... Kd8 5. Nc5 Bc8 { one attractive plan is } 6. Kh2 { followed by Kh3-g4. } ) 
+5. Nxc5 Ba8 ( 5... Bd5 { was slightly more promising, although after } 6. Bxd5 exd5 7. Kh2 Nc6 8. Nd3 Kd7 9. Kg3 Ke6 ( { both here and later, } 9... f6 { fails to } 10. Nc5 ) 
+10. f4 $1 { White is winning - Erenburg. } ) 
+6. f3 Nc6 7. Nd3 Na5 8. Kf2 { With a healthy extra pawn and more active pieces, the rest is easy for White. } 
+ 1-0

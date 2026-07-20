@@ -1,0 +1,308 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12610092/"]
+[Date "????.??.??"]
+[Round "3.1"]
+[White "1.2 Opposition"]
+[Black "Opposition"]
+[Result "*"]
+
+ { Opposition tends to be one of the first methods taught within pawn endings, and it is highly relevant to dominate it in practice. Let's start with a few simple examples. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504462/"]
+[Date "????.??.??"]
+[Round "3.2"]
+[White "1.2 Opposition"]
+[Black "Example 14 by Averbakh- Y."]
+[Result "*"]
+[FEN "8/8/p2k4/8/PP6/3K4/8/8 w - - 0 1"]
+
+1. { -KEY- } Kd4 $1 { Gaining the opposition; i.e. our king is placed in front of its counterpart. } ( { Of course } 1. Kc4 $2 Kc6 { is wrong, when it is Black who gains the opposition. } ) 
+Kc6 ( { After } 1... Ke6 2. Kc5 { the white king enters straight away. } ) 
+ ( { As for a pawn sacrifice with } 1... a5 2. b5 $1 { should win, if White uses his king accurately; } ( { White should evidently avoid } 1... Kc6 1. bxa5 $2 Kc6 { and Black draws no matter how many pawns there are on the a-file. The rook's pawn is usually the worst pawn for the stronger side in pawn endings, since there is only one side from which it can be assisted. As a consequence, the opposition loses its force and the weaker side draws if his king arrives in time to c7 or c8. In contrast, if we move all the pieces one file to the right - i.e. Ke4 , c4 and b4 vs. Ke6 and b5 , then } 2. cxb5 { is fully possible, provided that later on White sacrifices the upper pawn at the right moment and takes the opposition, as you can try out for yourself. } ) 
+ { e.g. } Kc7 3. Kc5 Kb7 4. Kd6 ( { not } 3... Kc6 3. b6 $2 Ka6 $1 ) 
+Kb6 5. Ke6 $1 { (in order to gain the opposition on the next move, now that Black has neither ... Kc6 nor ...Ka6 at his disposal) } Kc7 6. Ke7 { and the king enters after either } Kc8 7. Kd6 { or } Kb7 7. Kd7 ) 
+2. Ke5 $1 { King first! } ( { Renewing the opposition is rather useless due to } 2. Kc4 Kd6 { when } 3. b5 $2 { only leads to a draw. } ) 
+Kc7 { Trying to hold by diagonal opposition. } ( { After } 2... Kd7 3. Kd5 Kc7 4. Kc5 Kb7 5. Kd6 Kb6 6. a5 $1 Kb5 7. Kc7 Kxb4 8. Kb6 { White wins. } ) 
+3. Kd5 Kd7 4. a5 $1 { By means of this timely waiting move White regains the opposition. } ( { Of course } 4. Kc5 Kc7 5. a5 { works as well. } ) 
+Kc7 5. Kc5 Kb7 6. Kd6 Ka7 7. Kc7 Ka8 8. Kb6 { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504463/"]
+[Date "????.??.??"]
+[Round "3.3"]
+[White "1.2 Opposition"]
+[Black "Example 15 by Averbakh- Y."]
+[Result "*"]
+[FEN "8/8/p2k4/8/PP6/3K4/8/8 b - - 0 1"]
+
+ { Now let's examine the same position with Black to move. } 1... { -KEY- } Kd7 $1 { Applying the distant opposition. } ( { In contrast, after } 1... Kd5 $2 2. Kc3 $1 { White gains the opposition on the next move since the black king has neither c5 nor c7 at his disposal; e.g. } Kd6 3. Kd4 Kc6 4. Ke5 { and we are back in the previous example. } ) 
+2. Kc4 ( { a) After } 2. Kd4 Kd6 ) 
+ ( { b) } 2. Ke4 Ke6 ) 
+ ( { c) } 2. Kc3 Kc7 $1 ) 
+ ( { d) or } 2. Ke3 Ke7 $1 { Black again maintains the opposition. } ) 
+Kc6 { Draw. By now, we should outline some of the ideas used by both sides in these two examples: direct opposition (e.g. Kc6 vs. Kc4) , diagonal opposition (Kc7 vs. Ke5) , remote opposition (Kd7 vs. Kd3) , and corresponding squares (d4-d6, e4-e6, c3-c7, e3-e7, and c4-c6). The last term is a favourite of theoretical works, and it is good to dominate it in practical play as well – it tells us where to put our king when its counterpart is placed on a specific square. If there is no such square, then we are probably lost! A final thing to be extracted from these examples is the waiting move (e.g. a4-a5 in the previous example) , an idea that we will study more thoroughly later on in a later chapter about zugzwang (Chapter 6.1). } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504464/"]
+[Date "????.??.??"]
+[Round "3.4"]
+[White "1.2 Opposition"]
+[Black "Example 16 by Neustadtl- G."]
+[Result "*"]
+[FEN "8/8/8/4p1p1/8/5P2/6K1/3k4 w - - 0 1"]
+
+ ( { By now we should outline some of the ideas used by both sides in these two examples: direct opposition - e.g. } 0... Kc6 0. -- { Kc6 vs. Kc4 , diagonal opposition - } 1. -- { Kc7 vs. Ke5 , distant opposition - } 1. -- { Kd7 vs. Kd3 - and corresponding squares - d4-d6, e4-e6, c3-c7- e3-e7, and c4-c6. The last term is a favourite of theoretical works and it is good to dominate it in practical play too - it tells us where to put our king when its counterpart is placed on a specific square. If there is no such square, then we are probably lost! A final thing to be extracted from these examples is the waiting move (e.g. a4-a5 in the previous example) , an idea that we will study more thoroughly later on in the book. The following example is a study but its content is relevant in practice as well. White is a pawn down, and only accurate play with the king will let him save half a point. } ) 
+1. { -KEY- } Kh1 $1 { Distant opposition. } ( { The natural } 1. Kf1 $2 { loses after } Kd2 2. Kg2 ( 2. Kf2 { when both } Kd3 ( { and } 2. Kh1 g4 { win for Black. } ) 
+ ) 
+Ke2 3. Kg3 Kf1 { (a king's raid - more about that later in this chapter) } 4. Kg4 Kf2 { and wins. } ) 
+Kd2 ( { The tricky } 1... g4 $5 { should be met by } 2. Kg2 $1 { so that Black doesn't queen the e-pawn with check. After } Kd2 3. fxg4 { , both sides queen in the end, so it's a draw, as observed by Anunnaki. } ) 
+2. Kh2 { Using the 'corresponding squares' term, the h2-square corresponds to d2. } Kd3 3. Kh3 ( { Draw, since the black king is unable to reach f2 or f1; e.g. } 3. Kh3 Ke2 4. Kg2 Ke1 5. Kg1 Ke2 6. Kg2 Ke3 7. Kg3 ( { By the way, if we let the kings change place in the initial position, then White defends in an identical manner: } 1. Ke2 Kh3 2. Kd3 $1 Kh2 3. Kd2 { etc. } ) 
+ ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504465/"]
+[Date "????.??.??"]
+[Round "3.5"]
+[White "1.2 Opposition"]
+[Black "Example 17- Shevelev- A. vs. Lerner- K.- Israeli Team Championship 2003"]
+[Result "0-1"]
+[FEN "8/8/4p2p/8/3kp3/6P1/3K1P2/8 b - - 0 1"]
+
+ { Now let's see some of these ideas applied in practice.At first sight Black's winning process seems to be complicated by the doubled e-pawns, but Lerner came up with a clever idea. } 1... { -KEY- } e3+ $1 2. fxe3+ Ke4 3. Ke2 h5 $1 { A timely waiting move which secures the opposition. } ( 3... e5 $2 4. g4 { would let White achieve the same thing, with a draw. } ) 
+4. Kf2 ( { After } 4. Kd2 Kf3 { Black wins more easily. } ) 
+Kd3 5. Kf3 e5 $1 { Again taking the opposition. } 6. e4 ( { Or } 6. Kf2 e4 { and Black wins even without the g- and h-pawns on the board. } ) 
+Kd4 7. Kf2 Kxe4 8. Ke2 { It is White's turn to take the opposition, and this would have been enough for a draw if it wasn't for the g- and h-pawns. By the way, the fact that a greater number of pawns on the board favours the stronger side will be investigated inChapter Seven. } Kd4 ( { Another winning option was } 8... Kf5 { preparing to take the g3-pawn in exchange for the e-pawn, for example, } 9. Kf3 e4 10. Ke3 Kg4 11. Kxe4 Kxg3 { decisively obstructing White's king, as noticed by Benner. } ) 
+9. Kd2 e4 10. Ke2 e3 11. Ke1 Kd3 12. Kd1 e2+ ( { In view of } 12... e2 13. Ke1 Ke3 14. g4 h4 { White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504466/"]
+[Date "????.??.??"]
+[Round "3.6"]
+[White "1.2 Opposition"]
+[Black "Example 18- Szilagyi- P. vs. Bilek- I.- Hungarian Championship- Budapest 1965"]
+[Result "*"]
+[FEN "8/8/5p2/4k1p1/6Pp/5K2/7P/8 w - - 0 1"]
+
+ { A common situation in endgame practice - from two obvious moves one loses, and the other one makes a draw. } 1. { -KEY- } h3 $1 { Securing the g4-pawn is the main priority here. } ( { In contrast, the game saw the 'natural' } 1. Ke3 $2 { on which Black continued } h3 $1 { gaining the opposition, and after } 2. Kf3 Kd4 3. Kg3 Ke3 4. Kxh3 Kf4 5. Kg2 Kxg4 { White resigned. } ) 
+Kd4 2. Kf2 $1 { Temporarily applying diagonal opposition. } Kd3 ( { Or } 2... Ke4 3. Ke2 { and the black king won't enter, nor after } f5 4. gxf5 Kxf5 5. Kf3 ) 
+3. Kf3 { By regaining the direct opposition, White secures the draw. This kind of 'side' opposition will appear several times in the next section dealing with obstruction. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504467/"]
+[Date "????.??.??"]
+[Round "3.7"]
+[White "1.2 Opposition"]
+[Black "Example 19- Galliamova- A. vs. Gurieli- N.- European Team Championship- Debrecen 1992"]
+[Result "1/2-1/2"]
+[FEN "8/4k3/5p2/5Pp1/8/8/5K2/8 w - - 0 1"]
+
+ { A protected passed pawn is usually a big asset in any endgame, but here White can defend by applying different kinds of opposition depending on the location of Black's king. } 1. { -KEY- } Ke3 { Distant opposition. } ( { Of course the black king must not be allowed to reach e5 , and } 1. Kf3 $2 Kd6 2. Ke4 Kc5 $1 { would soon let her achieve that. By the way, a 'lazy' rule for pawn endings is to put your king on squares of the same colour as the opponent's king. It has several exceptions, for example when waiting moves with the pawns are involved, but it works surprisingly well on many occasions. } ) 
+Kd7 ( { Or } 1... Kd6 2. Kd4 Kc6 3. Kc4 { and Black can't break through; e.g. } Kb6 4. Kd4 $1 { (shifting to diagonal opposition) } Kb5 5. Kd5 Kb6 6. Kd4 { with a draw } ( { but not } 5... Kd7 5. Ke6 g4 7. Kxf6 g3 8. Ke7 g2 9. f6 g1=Q $11 10. f7 Qg7 11. Ke8 Kc6 $1 { and Black wins. } ) 
+ ) 
+ ( { As for } 1... Kf7 { trying to infiltrate via the h-file, White should apply corresponding squares: } 2. Ke4 Kg7 3. Kf3 Kh7 ( { or } 3... Kh6 4. Kg4 ) 
+4. Kg3 $1 { with a draw. Perhaps you have heard the term 'mined squares', which could be applied to this case; i.e. g4 is 'mined' whenever Black can reply ...Kh6. } ) 
+2. Kd3 $1 { Keeping the distant opposition. } ( { Evidently, both } 2. Kd4 $2 Kd6 ) 
+ ( { and } 2. Ke4 $2 Kc6 { would destroy the draw. } ) 
+Kc7 3. Kc3 Kb7 4. Kd3 ( { The distant opposition was no longer feasible } 4. Kb3 $2 g4 { , so White stays on a light square while awaiting Black's next move. } ) 
+Ka6 5. Kc4 $1 { Diagonal opposition. } Ka7 6. Kc3 Kb7 7. Kd3 Kb6 8. Kd4 Kc7 ( { As we already have seen, } 8... Kb5 9. Kd5 Kb6 10. Kd4 { is also drawn. } ) 
+9. Kc3 Kb6 10. Kd4 Ka5 11. Kc5 Ka6 12. Kc4 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13783166/"]
+[Date "????.??.??"]
+[Round "3.8"]
+[White "1.2 Opposition"]
+[Black "Galliamova- A. vs. Gurieli- N.- #1"]
+[Result "1/2-1/2"]
+[FEN "8/4k3/5p2/5Pp1/8/8/5K2/8 w - - 0 1"]
+
+ { A protected passed pawn is usually a big asset in any endgame, but here White can defend by applying different kinds of opposition depending on the location of Black's king. } 1. { -KEY- } Ke3 { Distant opposition. } ( { Of course the black king must not be allowed to reach e5, and } 1. Kf3 $2 Kd6 2. Ke4 Kc5 $1 { would soon let her achieve that. By the way, a 'lazy' rule for pawn endings is to put your king on squares of the same colour as the opponent's king. It has several exceptions, for example when waiting moves with the pawns are involved, but it works surprisingly well on many occasions. } ) 
+Kd7 ( { Or } 1... Kd6 2. Kd4 Kc6 3. Kc4 { and Black can't break through; e.g. } Kb6 4. Kd4 $1 { (shifting to diagonal opposition) } Kb5 5. Kd5 Kb6 6. Kd4 { with a draw } ( { but not } 5... Kd7 5. Ke6 g4 7. Kxf6 g3 8. Ke7 g2 9. f6 g1=Q $11 10. f7 Qg7 11. Ke8 Kc6 $1 { and Black wins. } ) 
+ ) 
+ ( { As for } 1... Kf7 { , trying to infiltrate via the h-file, White should apply corresponding squares: } 2. Ke4 Kg7 3. Kf3 Kh7 ( { or } 3... Kh6 4. Kg4 ) 
+4. Kg3 $1 { with a draw. Perhaps you have heard the term 'mined squares', which could be applied to this case; i.e. g4 is 'mined' whenever Black can reply ...Kh6. } ) 
+2. Kd3 $1 { Keeping the distant opposition. } ( { Evidently, both } 2. Kd4 $2 Kd6 ) 
+ ( { and } 2. Ke4 $2 Kc6 { would destroy the draw. } ) 
+Kc7 3. Kc3 Kb7 4. Kd3 ( { The distant opposition was no longer feasible ( } 4. Kb3 $2 g4 { ), so White stays on a light square while awaiting Black's next move. } ) 
+Ka6 5. Kc4 $1 { Diagonal opposition. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504468/"]
+[Date "????.??.??"]
+[Round "3.9"]
+[White "1.2 Opposition"]
+[Black "Example 20- Potkin- V. vs. Grischuk- A.- FIDE World Cup- Khanty-Mansiysk 2011"]
+[Result "0-1"]
+[FEN "8/8/1k4p1/5p1p/1PK1pP1P/6P1/8/8 w - - 0 1"]
+
+ { In this position the protected passed pawn on e4 is stronger than the outside passed pawn on b5, so White is struggling. } 1. { -KEY- } Kb3 $2 { This retreat lets Black win the game by 'corresponding squares'. } ( { Correct was } 1. b5 $1 e3 ( { or } 1. Kb3 Ka5 2. Kc5 e3 3. b6 e2 4. b7 e1=Q $11 5. b8=Q $11 { - Golubev } ) 
+ ( { while } 1. Kb3 Kb7 2. Kb3 { is equally unproductive } ) 
+2. Kd3 Kxb5 3. Kxe3 Kc4 4. Ke2 { and the diagonal opposition secures the draw. As we will see in the game, the fact that the b-pawn is captured on b4 instead of b5 makes a huge difference. Actually, the space factor (the more advanced your pawns, the better, so to speak) determines the result of many endgames. } ) 
+Kb5 ( { The immediate } 1... e3 { also works, as observed by chexmates. However, after } 2. Kc2 $5 Kb5 3. Kc3 { Black should make sure to play } Ka4 $1 { in order to obtain the side opposition after } 4. Kd3 Kxb4 5. Kxe3 Kc3 { , just like in the game. } ) 
+2. Kc3 e3 $1 ( { Also possible was } 2... Ka4 3. Kc4 e3 { transposing. } ) 
+3. Kd3 Kxb4 4. Kxe3 Kc3 $1 { Gaining the 'side' opposition, which will enable Black to win the g-pawn in the end. } 5. Ke2 Kc2 6. Ke3 ( { Obviously, } 6. Ke1 Kd3 { soon leads to the same thing. } ) 
+Kd1 $1 { Unfortunately for White, he doesn't have the corresponding 7.Kf1 at his disposal. } 7. Kf2 ( 7. Kd4 { runs into } Ke2 8. Ke5 Kf3 9. Kf6 Kxg3 10. Kxg6 Kg4 $1 { with a decisive zugzwang, as observed by Farciarz. } ) 
+Kd2 8. Kf3 Ke1 9. Ke3 ( { Or } 9. Kg2 Ke2 10. Kh2 Kf2 11. Kh3 Kg1 { etc - Golubev. } ) 
+Kf1 10. Kf3 Kg1 { In view of 11...Kg2 on the next move, White resigned. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504469/"]
+[Date "????.??.??"]
+[Round "3.10"]
+[White "1.2 Opposition"]
+[Black "Example 21- Ebralidze- A. vs. Bondarevsky- I.- USSR Championship- Tbilisi 1937"]
+[Result "*"]
+[FEN "8/7p/5K2/5N2/6k1/6P1/8/8 w - - 0 1"]
+
+ { Although the idea of the opposition is mainly seen in pawn endings, it occasionally turns up in other endgames as well, in particular when some piece is tied up to defensive tasks. Here are two examples. If we just consider his material advantage White should be easily winning; however, the active position of the black king and the reduced number of pawns makes the win rather difficult. } 1. { -KEY- } Ke5 $1 { Both sides are fighting for the 'side' opposition, and considering Black's spare tempo with the h-pawn, White places his king on a square of opposite colour to Black's. } ( { In contrast, the game went } 1. Ke6 $2 Kg5 ( { not } 1. Ke5 h5 $2 2. Kf6 ) 
+2. Ke5 h5 $1 { and Black gained the opposition. After } 3. Ke6 ( { or } 3. Ke4 Kg4 $1 ) 
+Kg6 $1 4. Ne3 { the players agreed a draw in view of } Kg5 5. Ke5 h4 6. g4 h3 { etc - Dvoretsky. } ) 
+Kg5 ( { The alternatives are no better: a) } 1... h5 2. Kf6 { and the king enters. } ) 
+ ( { b) } 1... h6 2. Kf6 $1 Kh5 3. Nxh6 $1 Kxh6 4. g4 { and wins. } ) 
+ ( { c) } 1... Kf3 2. Ke6 $1 Kg4 3. Kf6 { (triangulation) } Kh5 4. Ne3 { with a barrier and White wins easily. } ) 
+2. Ne3 { This is a so-called 'barrier', by which the knight and a pawn (or bishop) prevent the entrance of the enemy king. } h5 ( { Or } 2... h6 3. Ke4 h5 4. Kf3 h4 5. g4 { and wins. } ) 
+3. Nf5 { Simplest, in order to regain the opposition. } ( { Also possible is } 3. Ke4 { approaching his own pawn, just like in the previous line: } h4 4. g4 h3 5. Kf3 Kh4 ( { or } 5. Nf5 h2 6. Kg2 ) 
+6. Nf5 Kg5 7. Ng3 $1 ( { but not } 7. Kg3 $2 h2 ) 
+h2 8. Ne4 Kh4 9. Nf2 Kg5 10. Kg3 { etc. } ) 
+Kg4 ( { Or } 3... Kg6 4. Kf4 { with an elementary win. } ) 
+4. Kf6 Kf3 5. Kg5 { White wins. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504470/"]
+[Date "????.??.??"]
+[Round "3.11"]
+[White "1.2 Opposition"]
+[Black "Example 22- Averbakh- Y. vs. Matanovic- A.- USSR vs. Yugoslavia match- Belgrade 1961"]
+[Result "1-0"]
+[FEN "2b5/7p/p1k3p1/P2p1p2/1K3P2/3BP1P1/7P/8 w - - 0 1"]
+
+ { In this bishop ending Black has been forced to place several pawns on the 'wrong' colour (the same as his bishop) and White soon exploits the limited mobility of the enemy forces. } 1. { -KEY- } h4 $1 { In order to create a 'new front' on the kingside - more on this topic in the last chapter of this book. } Kd6 ( { After } 1... h5 { instead, White wins by playing } 2. Bc2 $1 { with the irresistible threat of Ba4-e8. } ) 
+2. h5 gxh5 { Now the f5-pawn turns into a serious weakness; } ( { but other moves like } 2... Kc6 { run into } 3. h6 $1 { with a similar decisive plan: Bc2-a4-e8xg6!. } ) 
+3. Kc3 $1 { Heading for d4 in order to enter with the king. Here Black resigned. Let's see a possible continuation indicated by Averbakh: } Kc5 4. Bf1 Bb7 ( { Obviously, } 4... Kd6 { or } Kc6 { runs into } 5. Kd4 ) 
+5. Be2 $1 { White should lose a tempo with his bishop so that it reaches d3 just when its black counterpart is on c8. } Bc8 6. Bd3 { Zugzwang; Black has run out of bishop moves. } d4+ { Black tries to obstruct the enemy king by a pawn sacrifice. } ( { After } 6... Kc6 7. Kd4 Kd6 8. Be2 Bb7 9. Bf1 $1 { (9.Bxh5 first is also possible) } Bc8 10. Bd3 { White gains the opposition, which means that his king will enter either on c5 or e5, with decisive effect. } ) 
+ ( { On } 6... h6 { (here or later) White simply repeats the previous bishop manoeuvre: } 7. Be2 Bb7 8. Bf1 $1 Bc8 9. Bd3 { with the same scenario. } ) 
+7. exd4+ Kd5 8. Bc4+ Kd6 ( { Or } 8... Ke4 9. d5 h4 10. gxh4 Kxf4 11. Kd4 $1 -- { followed by } 12. d6 { , and the black king proves fatally obstructed. } ) 
+9. d5 ( { A slower plan with } 9. Be2 { was also possible, as noticed by Alejandro Botta. White takes the h5-pawn, then places the bishop on the long diagonal, followed by Kc3-c4 and d4-d5. After that, the king goes to d4 and the bishop to d3, with a decisive zugzwang. For instance, } Bb7 10. Bxh5 Bc6 11. Be2 Bb7 12. Bf1 Bc8 13. Bg2 h6 14. Kc4 Bd7 15. d5 Bb5 16. Kd4 Bd7 17. Bf1 Bc8 18. Bd3 { (zugzwang) } Bb7 19. Bxf5 Bxd5 20. Bc8 { , etc. } ) 
+Kc5 { How to make progress? } 10. d6 $1 { An ingenious sacrifice in order to enter with the king. } Kxd6 11. Kd4 { Opposition. As we already know, there is a way to put an end to Black's bishop moves, so he is lost. } Bb7 12. Bf1 $1 Bc8 13. Bd3 { White soon wins; } ( { e.g. } 13. Bd3 Ke6 14. Kc5 { or } Kc6 14. Ke5 ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13783167/"]
+[Date "????.??.??"]
+[Round "3.12"]
+[White "1.2 Opposition"]
+[Black "Averbakh- Y. vs. Matanovic- A.- #1"]
+[Result "1-0"]
+[FEN "2b5/7p/p1k3p1/P2p1p2/1K3P2/3BP1P1/7P/8 w - - 0 1"]
+
+ { In this bishop ending Black has been forced to place several pawns on the 'wrong' colour (the same as his bishop) and White soon exploits the limited mobility of the enemy forces. } 1. { -KEY- } h4 $1 { In order to create a 'new front' on the kingside - more on this topic in the last chapter of this book. } Kd6 ( { After } 1... h5 { instead, White wins by playing } 2. Bc2 $1 { with the irresistible threat of Ba4-e8. } ) 
+2. h5 gxh5 { Now the f5-pawn turns into a serious weakness; } ( { but other moves like } 2... Kc6 { run into } 3. h6 $1 { with a similar decisive plan: Bc2-a4-e8xg6! } ) 
+3. Kc3 $1 { Heading for d4 in order to enter with the king. Here Black resigned, but let's see a possible continuation indicated by Averbakh: } Kc5 4. Bf1 Bb7 ( { Obviously, } 4... Kd6 { or } Kc6 { runs into } 5. Kd4 ) 
+5. Be2 $1 { White should lose a tempo with his bishop so that it reaches d3 just when its black counterpart is on c8. } Bc8 6. Bd3 ( { Zugzwang; Black has run out of bishop moves. In contrast, } 6. Bxh5 $2 { would run into } Kb5 { clinching the a5-pawn. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13783169/"]
+[Date "????.??.??"]
+[Round "3.13"]
+[White "1.2 Opposition"]
+[Black "Averbakh- Y. vs. Matanovic- A.- #2"]
+[Result "1-0"]
+[FEN "2b5/7p/p7/P1kp1p1p/5P2/2KBP1P1/8/8 b - - 0 6"]
+
+6... { -KEY- } d4+ { Black tries to obstruct the enemy king by a pawn sacrifice. } ( { After } 6... Kc6 7. Kd4 Kd6 8. Be2 Bb7 9. Bf1 $1 Bc8 10. Bd3 { White gains the opposition, which means that his king will enter either on c5 or e5, with decisive effect. } ) 
+ ( { On } 6... h6 { (here or later) White simply repeats the previous bishop manoeuvre: } 7. Be2 Bb7 8. Bf1 $1 Bc8 9. Bd3 { with the same scenario. } ) 
+7. exd4+ Kd5 8. Bc4+ Kd6 ( { Or } 8... Ke4 9. d5 h4 10. gxh4 Kxf4 11. Kd4 $1 -- { followed by } 12. d6 { , and the black king proves fatally obstructed. } ) 
+9. d5 ( { A slower plan with } 9. Be2 { was also possible, as noticed by Alejandro Botta. White takes the h5-pawn, then places the bishop on the long diagonal, followed by Kc3-c4 and d4-d5. After that, the king goes to d4 and the bishop to d3, with a decisive zugzwang. For instance, } Bb7 10. Bxh5 Bc6 11. Be2 Bb7 12. Bf1 Bc8 13. Bg2 h6 14. Kc4 Bd7 15. d5 Bb5 16. Kd4 Bd7 17. Bf1 Bc8 18. Bd3 { (zugzwang) } Bb7 19. Bxf5 Bxd5 20. Bc8 { , etc. } ) 
+Kc5 { How to make progress? } 10. d6 $1 { An ingenious sacrifice in order to enter with the king. } Kxd6 11. Kd4 { Opposition. As we already know, there is a way to put an end to Black's bishop moves, so he is lost. } Bb7 12. Bf1 $1 Bc8 13. Bd3 { White soon wins; } ( { e.g. } 13. Bd3 Ke6 14. Kc5 ) 
+ ( { or } 13. Bd3 Kc6 14. Ke5 ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504471/"]
+[Date "????.??.??"]
+[Round "3.14"]
+[White "1.2 Opposition"]
+[Black "Example 23- Brynell- S. vs. Sokolov- I.- Rilton Cup 2011"]
+[Result "1/2-1/2"]
+[FEN "8/8/5p2/8/6k1/R4p2/5PK1/2r5 w - - 0 1"]
+
+ { To round off this section, let's see some examples where one of the players had to consider the opposition factor when transposing into a pawn ending. Black has just played ...f4-f3+, confronting White with a typical endgame problem: transpose, or not transpose, to a pawn ending? } 1. { -KEY- } Rxf3 $1 ( { A well-calculated decision. After } 1. Kh2 $6 f5 { Black would retain some practical winning chances. } ) 
+Rg1+ 2. Kxg1 Kxf3 3. Kf1 f5 4. Ke1 Kg2 5. f4 $1 { The key move, which guarantees a later opposition against Black's king (or prevents him from occupying one of the key squares on e3, f3 and g3, if you prefer that term). } ( { Any other move loses; e.g. } 5. Ke2 $2 f4 6. f3 Kg3 7. Ke1 Kxf3 { (reaching a key square) } 8. Kf1 Ke3 { etc. } ) 
+Kg3 6. Ke2 Kxf4 7. Kf2 { Opposition, draw agreed. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504472/"]
+[Date "????.??.??"]
+[Round "3.15"]
+[White "1.2 Opposition"]
+[Black "Example 24- Zayac- E. vs. Matveeva- S.- Russian Women’s Championship- Samara 2005"]
+[Result "0-1"]
+[FEN "8/5kp1/8/8/4K1R1/8/5r2/8 w - - 0 1"]
+
+ { Despite the reduced material White is in some practical trouble due to her king being cut off from the f-file. } 1. { -KEY- } Ke3 ( { Correctly avoiding the transposition to a pawn ending by } 1. Rf4 $2 { when } Rxf4 2. Kxf4 Kf6 $1 { leads to a decisive opposition. } ) 
+ ( { Baburin also suggests } 1. Rg1 $1 { moving the rook to the edge, a sensible idea in the endgame and one that we will see more of in Chapter Three. } ) 
+Rf1 2. Ke4 Kf6 3. Rg3 ( { The text doesn't spoil the draw, but } 3. Rf4 $1 { was possible now; i.e. } Rxf4 4. Kxf4 { and it is White who takes the opposition. Such a 'bridge' is a common feature in rook endings, and we will meet this subject inChapter Three as well. } ) 
+g6 4. Ke3 Kf5 5. Ke2 ( { Again, } 5. Rf3 Rxf3 6. Kxf3 { was the simplest road to the draw - Baburin. } ) 
+Rf4 6. Ke3 g5 7. Rg1 $2 { White's hesitance to enter a pawn ending finally dooms her. } ( { After } 7. Rf3 $1 { she would soon draw by opposition; e.g. } Kg4 ( { or } 7. Rg1 Rxf3 8. Kxf3 ) 
+8. Rxf4 gxf4 9. Kf2 f3 10. Kf1 Kg3 11. Kg1 ) 
+ ( { Even } 7. Rg2 $1 g4 8. Rf2 { in the same spirit was possible - Baburin. } ) 
+g4 8. Ke2 ( { After } 8. Rg2 Rf3 9. Ke2 Kf4 { White lacks the space to save this rook ending; e.g. } 10. Ke1 ( { or } 10. Rg1 g3 { followed by ...Rf2 } ) 
+ ( { or } 10. Rh2 Kg3 $1 { with ...Kg2 and ...g4-g3 next } ) 
+g3 11. Ra2 Kg4 { and the black king will soon manage to assist the pawn. } ) 
+Kg5 9. Rf1 g3 $1 10. Ra1 ( { Or } 10. Rxf4 Kxf4 11. Ke1 Ke3 $1 12. Kf1 Kf3 { etc - Baburin. } ) 
+Kg4 11. Rh1 Re4+ ( { In view of } 11... Re4 12. Kd3 Re8 { or } 12. Kf1 Kf3 { White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13783168/"]
+[Date "????.??.??"]
+[Round "3.16"]
+[White "1.2 Opposition"]
+[Black "Zayac- E. vs. Matveeva- S.- #1"]
+[Result "1/2-1/2"]
+[FEN "8/5kp1/8/8/4K1R1/8/5r2/8 w - - 0 1"]
+
+ { Despite the reduced material White is in some practical trouble due to her king being cut off from the f-file. } 1. { -KEY- } Ke3 ( { Correctly avoiding the transposition to a pawn ending by } 1. Rf4 $2 { , when } Rxf4 2. Kxf4 Kf6 $1 { leads to a decisive opposition. } ) 
+ ( { Baburin also suggests } 1. Rg1 $1 { , moving the rook to the edge, a sensible idea in the endgame and one that we will see more of in Chapter Three. } ) 
+Rf1 2. Ke4 Kf6 3. Rf4+ $1 Rxf4+ 4. Kxf4 { And it is White who takes the opposition. Such a 'bridge' is a common feature in rook endings, and we will meet this subject inChapter Three as well. } 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12504473/"]
+[Date "????.??.??"]
+[Round "3.17"]
+[White "1.2 Opposition"]
+[Black "Example 25- Moreno Carnero- J. vs. Suba- M.- Spanish Team Championship 2004"]
+[Result "*"]
+[FEN "3k4/5p2/2P1b1p1/p3PpPp/B2K1P1P/8/8/8 w - - 0 1"]
+
+ { In this bishop ending White's space advantage and the fact that the enemy kingside pawns are placed on the 'wrong' colour made the win possible. } 1. { -KEY- } Kc5 Kc7 2. Kb5 Bd5 ( { The subtle sequence } 2... Ba2 $1 3. Kxa5 Bd5 $1 { (preventing Kb5-c5) } 4. Kb4 Kb6 $1 { (in the same spirit; instead, } Bxc6 $2 5. Bb3 { is similar to the game) would have kept Black within the drawing zone, as observed by Alejandro Botta. Certainly not an intuitive choice for most humans, and I don't think that even an experienced GM like Suba could be blamed for missing this over the board. After } 5. Kc3 ( 4... Bd5 4. Bb3 Kxc6 6. Bc4 Be6 $1 { is a key detail, improving the pawn structure before handing over the opposition to White in the pawn endgame. } ) 
+Be6 6. Kd4 Ba2 7. Bd1 { (or } 7. e6 $5 Bxe6 8. Ke5 Kc7 $1 { preventing 9.Kd6, when White seems unable to progress.) } Kxc6 8. Bf3 { , Black has } Kc7 $1 { , getting ready to take the opposition after } 9. Bd5 Bxd5 10. Kxd5 Kd7 { , something which they won't achieve in the game. } ) 
+3. Kxa5 Bxc6 ( { After } 3... Be4 4. Bb3 ) 
+ ( { or } 3... Be6 4. Kb5 Bd5 5. Kc5 Be6 6. Bd1 $1 { followed by Bf3-d5, White also wins comfortably. } ) 
+4. Bb3 $1 Be8 5. Bd5 $1 { Zugzwang, or diagonal opposition, name it as you like. } Kd8 6. Kb6 Ke7 7. Bc6 $1 { A well-calculated transposition to a pawn ending. } Bxc6 ( { After } 7... Bd7 8. Bxd7 Kxd7 9. Kb7 ) 
+ ( { or } 7... Kd8 8. Bxe8 Kxe8 9. Kc6 { White takes the opposition even earlier. } ) 
+8. Kxc6 Ke6 9. Kc5 { Triangulating without letting Black play ...Kd5. By the way, without the e5- and f7-pawns this would be a draw, similar toExample 20 (Potkin-Grischuk) had White played the correct 1.b5. } Ke7 10. Kb6 $1 Kd8 ( { The game actually went } 10... Kd7 11. Kb7 { and Black resigned. } ) 
+11. Kc6 { Black can no longer take the 'side' opposition by ...Ke6, and has to let the enemy king enter. } Ke8 12. Kd6 Kf8 ( { On } 12... Kd8 { there follows the same thing. } ) 
+13. e6 ( { White wins; e.g. } 13. e6 fxe6 14. Kxe6 Kg7 15. Ke7 Kg8 16. Kf6 Kh7 17. Kf7 ) 
+
+ *

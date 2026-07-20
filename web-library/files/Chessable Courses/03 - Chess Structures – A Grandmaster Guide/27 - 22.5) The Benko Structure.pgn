@@ -1,0 +1,106 @@
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1228025/"]
+[Date "????.??.??"]
+[Round "27.1"]
+[White "22.5) The Benko Structure"]
+[Black "Introduction"]
+[Result "*"]
+[FEN "4k3/4pp1p/3p2p1/2pP4/4P3/8/PP3PPP/4K3 w - - 0 1"]
+
+ { The Benko Structure } ( { This structure is actually specific to the Benko variation which begins with } 0... hxg5 0. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 { After the a6-pawn drops, Black is a pawn down but has some positional advantages to compensate for it. They are: 1. White has two pawn 'islands', while Black only has one rock-solid group of six pawns. 2. Black will place his rooks on the a- and b-files, pressuring White's a- and b-pawns, preventing their advance. 3. White does not have obvious targets and may have to limit himself to passive play for a long time in order to stabilize his position. Theory regards the Benko Gambit as being somewhat inferior, and in fact, it is rarely seen at the elite level nowadays. Nevertheless, it is an excellent practical weapon to be used when one absolutely needs to win with Black. Now, a big question is: How should White play? There are two main strategies to be followed, and they are often combined: 1. White must turn his queenside pawns into a fortress, which most probably will be on b3 and a4, combined with many minor pieces surrounding and defending these pawns. 2. Advance in the centre and obtain a central break with e4-e5 or maybe f4-f5. These ideas are borrowed from the asymmetric Benoni structure from Chapter 12, and they are White's only active plan. That is, White must try one of these breaks sooner or later. If instead White attempts to trade his b-pawn for Black's c5-pawn, then White's a-pawn will hardly be enough to win, as it will be an easy target for Black's pieces. } ) 
+1. -- 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551628/"]
+[Date "????.??.??"]
+[Round "27.2"]
+[White "22.5) The Benko Structure"]
+[Black "Isam Ortiz Suarez – Manuel Leon Hoyos"]
+[Result "0-1"]
+
+ { Isam Ortiz Suarez – Manuel Leon Hoyos, Havana 2011 Learning objective: This game illustrates how Black’s queenside initiative develops when White fails to create a fortress or a central break. } 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 d6 8. Bg2 Bg7 9. Nf3 Nbd7 10. O-O Nb6 11. Nh4 { The idea behind this relatively rare move is to protect the d5-pawn, in order to move the queen to c2 next. } ( { Much more common is } 11. Re1 { . } ) 
+O-O 12. Rb1 ( { Instead } 12. Qc2 { seems more precise, since now } Nc4 $6 { is met by } 13. b3 Ne5 14. Bb2 { with a stable position } ) 
+ ( { though after } 12. Qc2 Nfd7 13. Rd1 Qc7 14. Rb1 Nc4 15. b3 $6 Qa5 $1 { ⩱ Black is doing very well. } ) 
+Nc4 13. Qc2 ( { If } 13. b3 { then Black has time for } Qa5 $1 { since after: } 14. Qc2 ( 14. bxc4 $2 Qxc3 $17 ) 
+Na3 15. Bxa3 Qxa3 { Black is ready to regain the pawn, say after: } 16. Nf3 Nd7 17. Rfc1 ( { but not } 17. Ra1 $6 c4 $1 18. Rfc1 Rfc8 $17 ) 
+Bxc3 18. Qxc3 Bxe2 $15 ) 
+Qa5 14. a4 { White is trying to play b2-b3 to build a queenside fortress, but now: } Nd7 $1 { ⩱ This strong continuation threatens 15...Na3. } 15. Na2 ( { The careless } 15. Rd1 $2 { is met by: } Na3 $1 16. bxa3 Qxc3 17. Qxc3 Bxc3 $17 ) 
+ ( 15. Nd1 Rfb8 16. b3 Qb6 $1 { is also unpleasant for White, say after } 17. Nf3 Na5 18. Bg5 h6 $1 19. Be3 ( { but not } 19. Bxe7 $2 Re8 20. Bh4 Rxe2 $19 ) 
+Nf6 $15 { and the b3-pawn will fall sooner or later. } ) 
+Ncb6 $1 { A strong reply, attacking the a4-pawn and inviting b2-b3. } 16. Bg5 ( { Black is also better after: } 16. b3 c4 17. b4 Qxa4 18. Qd2 Ne5 19. Nc3 Qd7 $15 ) 
+Nxa4 { Black’s strategy has clearly succeeded, as he has recovered the pawn while maintaining the pressure on the queenside. It is clear that the pawn on b2 is weak while the c5-pawn is not. } ( { Even better was } 16... Qxa4 $1 17. Qxa4 Nxa4 { as after } 18. Bxe7 Rfe8 19. Bxd6 Bxe2 20. Rfe1 Bd3 $1 { White is losing too much material after: } 21. Rbc1 Bxb2 22. Rcd1 Bc4 23. Nc1 Nc3 $1 { -+ } ) 
+17. Rfc1 ( { Again, White must avoid } 17. Bxe7 $2 Rfe8 18. Bg5 Rxe2 { . } ) 
+Bb5 18. Bf1 Rfe8 19. Bd2 Qa6 20. b4 $6 ( { Or } 20. Nc3 Nxc3 21. Bxc3 Bxc3 22. bxc3 Bc4 $1 { attacking the d5-pawn, and after } 23. e4 Ne5 24. Kg2 Bxf1 25. Rxf1 Qc4 $1 { White is lost, due to his vulnerable c3- and e4-pawns. } ) 
+Rec8 $1 { ∓ } 21. Qe4 ( { If } 21. bxc5 Rxc5 { the position is almost symmetrical, but White cannot avoid losing material due to Black’s superior coordination. For example, } 22. Qd1 Nb2 23. Nb4 Nxd1 24. Nxa6 Bxa6 25. Rxd1 Nf6 $17 { when the d5-pawn is lost. } ) 
+Nf6 $1 22. Qf3 ( { After } 22. Qxe7 $2 Re8 23. Qc7 Nxd5 24. Qa5 Qc6 { White is lost as the queen is trapped. } ) 
+Bc4 $19 { White’s position collapses as the knight on a2 and the pawn on d5 are under attack. The rest is easy. } 23. Nc3 Nxc3 24. Bxc3 Nxd5 25. Bxg7 Kxg7 26. b5 Qa4 27. b6 Rcb8 28. b7 Ra7 29. e4 Bxf1 30. exd5 Ba6 31. Ra1 Qd4 32. Ra3 Rbxb7 33. Rca1 Rb6 34. h3 Qc4 { Final remarks 1. White’s strategy failed right from the opening, as he did not even get the time to play b2-b3 and a2-a4, and he was already facing serious threats. 2. Something remarkable about the Benko structure is how once Black regains the pawn, essentially all nearly-symmetrical positions favour Black. We see this very clearly in the notes to 20. Nc3 and 21. bxc5. Of course, Black’s problem is I should not say ”once” he regains the pawn, but ”if” he regains the pawn. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846203/"]
+[Date "????.??.??"]
+[Round "27.3"]
+[White "22.5) The Benko Structure"]
+[Black "Ortiz Suarez – Leon Hoyos #1"]
+[Result "*"]
+[FEN "r2q1rk1/4ppbp/b2p1np1/2pP4/2n4N/2N3P1/PP2PPBP/1RBQ1RK1 w - - 10 13"]
+
+13. b3 { Black has time for ...Qa5! } Qa5 $1 14. Qc2 ( 14. bxc4 $2 Qxc3 $17 ) 
+Na3 15. Bxa3 Qxa3 { Black is ready to regain the pawn. } 16. Nf3 Nd7 17. Rfc1 ( 17. Ra1 $6 c4 $1 18. Rfc1 Rfc8 $17 ) 
+Bxc3 18. Qxc3 Bxe2 $15 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846156/"]
+[Date "????.??.??"]
+[Round "27.4"]
+[White "22.5) The Benko Structure"]
+[Black "Ortiz Suarez – Leon Hoyos #2"]
+[Result "*"]
+[FEN "r4rk1/4ppbp/b2p1np1/q1pP4/P1n4N/2N3P1/1PQ1PPBP/1RB2RK1 b - a3 0 14"]
+
+14... Nd7 $1 { This strong continuation threatens 15... Na3. } 15. Rd1 $2 { This careless move is met by ...Na3! } Na3 $1 16. bxa3 Qxc3 17. Qxc3 Bxc3 $17 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846204/"]
+[Date "????.??.??"]
+[Round "27.5"]
+[White "22.5) The Benko Structure"]
+[Black "Ortiz Suarez – Leon Hoyos #3"]
+[Result "*"]
+[FEN "r4rk1/4ppbp/b2p1np1/q1pP4/P1n4N/2N3P1/1PQ1PPBP/1RB2RK1 b - a3 0 14"]
+
+14... Nd7 $1 { This strong continuation threatens 15... Na3. } 15. Na2 ( { The careless } 15. Rd1 $2 { is met by: } Na3 $1 16. bxa3 Qxc3 17. Qxc3 Bxc3 $17 ) 
+ ( 15. Nd1 Rfb8 16. b3 Qb6 $1 { is also unpleasant for White, say after } 17. Nf3 Na5 18. Bg5 h6 $1 19. Be3 ( { But not } 19. Bxe7 $2 Re8 20. Bh4 Rxe2 $19 ) 
+Nf6 $15 { and the b3-pawn will fall sooner or later. } ) 
+Ncb6 $1 { A strong reply, attacking the a4-pawn and inviting b2-b3. } 16. Bg5 ( { Black is also better after: } 16. b3 c4 17. b4 Qxa4 18. Qd2 Ne5 19. Nc3 Qd7 $15 ) 
+Qxa4 $1 17. Qxa4 Nxa4 18. Bxe7 Rfe8 19. Bxd6 Bxe2 20. Rfe1 Bd3 $1 { White is losing too much material. } 21. Rbc1 Bxb2 22. Rcd1 Bc4 23. Nc1 Nc3 $1 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846205/"]
+[Date "????.??.??"]
+[Round "27.6"]
+[White "22.5) The Benko Structure"]
+[Black "Ortiz Suarez – Leon Hoyos #4"]
+[Result "*"]
+[FEN "r3r1k1/3nppbp/q2p2p1/1bpP4/n6N/6P1/NPQBPP1P/1RR2BK1 w - - 6 20"]
+
+20. Nc3 Nxc3 21. Bxc3 Bxc3 22. bxc3 Bc4 $1 { Attacking the d5-pawn. } 23. e4 Ne5 24. Kg2 Bxf1+ 25. Rxf1 Qc4 $1 { White is lost, due to his vulnerable c3- and e4-pawns. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2846207/"]
+[Date "????.??.??"]
+[Round "27.7"]
+[White "22.5) The Benko Structure"]
+[Black "Ortiz Suarez – Leon Hoyos #5"]
+[Result "*"]
+[FEN "r3r1k1/3nppbp/q2p2p1/1bpP4/nP5N/6P1/N1QBPP1P/1RR2BK1 b - b3 0 20"]
+
+20... Rec8 $1 21. Qe4 ( { If } 21. bxc5 Rxc5 { the position is almost symmetrical, but White cannot avoid losing material due to Black's superior coordination. For example, } 22. Qd1 Nb2 23. Nb4 Nxd1 24. Nxa6 Bxa6 25. Rxd1 Nf6 $17 { when the d5-pawn is lost. } ) 
+Nf6 $1 22. Qf3 ( { After } 22. Qxe7 $2 Re8 23. Qc7 Nxd5 24. Qa5 Qc6 { White is lost as the queen is trapped. } ) 
+Bc4 $19 { White's position collapses as the knight on a2 and the pawn on d5 are under attack. The rest is easy. } 
+ *

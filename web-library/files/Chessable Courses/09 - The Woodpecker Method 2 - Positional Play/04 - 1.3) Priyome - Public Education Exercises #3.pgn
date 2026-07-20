@@ -1,0 +1,676 @@
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/46138293/"]
+[Date "????.??.??"]
+[Round "4.1"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 101 - Smyslov- Vassily vs. Weinstein- Norman"]
+[Result "1/2-1/2"]
+[FEN "r4rk1/1q1nppbp/pp1p1np1/3N4/1PPNP3/5PP1/PB2Q1KP/3R1R2 b - - 0 17"]
+
+17... { -KEY- } Rfe8 $11 { Black keeps the structure solid. Next move is ... b6-b5 or ...e7-e6. } ( 17... Nxd5 $6 { gives White the c6-square unregarding how he recaptures. } 18. cxd5 Bxd4 { Avoiding Nd4-c6. } 19. Bxd4 b5 20. h4 $14 ) 
+ ( 17... e6 $6 { allows the odd-looking } 18. Ne7 Kh8 19. Ndc6 { White goes for the d6-pawn. } Nb8 $1 { Fighting against the intruder. The following moves are the best: } ( { Black can't trap the knights in a good way, for example } 19... Rfe8 $2 20. Rxd6 Nf8 21. e5 Nh5 22. Qe4 { winning for so many reasons that I don't want to mention just one ... } ) 
+20. b5 axb5 21. cxb5 Rxa2 22. Rd2 Nxc6 23. Nxc6 Kg8 24. Ra1 Rxa1 25. Bxa1 d5 26. exd5 exd5 27. Bd4 $14 ) 
+
+ 1/2-1/2
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284804/"]
+[Date "????.??.??"]
+[Round "4.2"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 102 -Karpov- Anatoly vs. Kavalek- Lubomir"]
+[Result "1/2-1/2"]
+[FEN "r4rk1/pbpqppbp/1p4p1/n7/3PP3/2PBBP2/P2QN1PP/R4RK1 b - - 0 13"]
+
+13... { -KEY- } c5 { Black should not delay the usual Grunfeld move any longer. } ( 13... Rfd8 $6 14. Bh6 c5 15. Bxg7 Kxg7 16. d5 e6 17. c4 $16 { The last move becomes possible after the g7-bishop has been exchanged. } ) 
+14. Bh6 ( 14. d5 e6 $11 ) 
+ ( 14. dxc5 { is 'always' compensation – many moves are possible. } ) 
+cxd4 15. Bxg7 Kxg7 16. cxd4 Rac8 ( 16... Rac8 16. Rac1 { was the last move of the game. If White wanted more, the rooks had to be kept. Instead, Karpov offered a draw, which was accepted. } ) 
+
+ 1/2-1/2
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284805/"]
+[Date "????.??.??"]
+[Round "4.3"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 103 - Vaganian- Rafael vs. Karpov- Anatoly"]
+[Result "*"]
+[FEN "r4rk1/pb4qp/np1p4/2pP1p2/2P1pP2/PP1N2P1/3Q2BP/R2R2K1 w - - 0 23"]
+
+23. { -KEY- } Ne1 $14 { On the way towards e3, a blockading square where the knight puts pressure on f5 and controls the g4-square. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284806/"]
+[Date "????.??.??"]
+[Round "4.4"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 104 - Hort- Vlastimil vs. Petrosian- Tigran"]
+[Result "1/2-1/2"]
+[FEN "rnbq1rk1/pp2nppp/2pb4/3p4/3P1B2/2PB4/PP2NPPP/RN1Q1RK1 b - - 0 8"]
+
+8... { -KEY- } Bf5 $11 { Exchanging the bad bishop. With a move more, White would stop it with Qc2. } ( { The game continued: } 8... Bf5 8. Bxd6 Qxd6 10. Ng3 Bxd3 11. Qxd3 Nd7 12. Nd2 { The players agreed to a draw. } ) 
+ ( 8... Bg4 9. Bxd6 Qxd6 10. Qc2 $14 ) 
+
+ 1/2-1/2
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284807/"]
+[Date "????.??.??"]
+[Round "4.5"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 105 - Karpov- Anatoly vs. Hort- Vlastimil"]
+[Result "*"]
+[FEN "r2qkb1r/pp3ppp/2p1pn2/4Nb2/3P4/2P5/PP3PPP/R1BQKB1R w KQkq - 0 9"]
+
+9. { -KEY- } g4 Bg6 ( 9... Be4 10. f3 Bd5 11. c4 $18 ) 
+10. h4 { To avoid losing the bishop to h4-h5, Black has to allow the ugly ...f7xg6. } h5 11. g5 Nd5 12. Nxg6 fxg6 13. Qc2 $18 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284808/"]
+[Date "????.??.??"]
+[Round "4.6"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 106 - Pavlenko- Oleg vs. Kasparov- Garry"]
+[Result "*"]
+[FEN "3r1rk1/1q2bppp/pp1ppn2/2n5/2PQP3/1PN2PPN/PB4KP/3R1R2 b - - 0 17"]
+
+17... { -KEY- } b5 $1 ( { It's also possible to go for } 17... Rc8 { followed by ...b6-b5, but there's no reason to delay the pawn break. } ) 
+18. Nf2 ( { In the event of } 18. cxb5 axb5 $15 { White risks being left with a weak pawn on the queenside. } ) 
+Rc8 $15 ( 18... bxc4 19. Qxc4 d5 $11 { was Kasparov's choice. } ) 
+ ( 18... b4 19. Ne2 a5 { allows } 20. Qe3 $11 { intending Nd4-b5. } ) 
+19. cxb5 axb5 20. Qb4 Rb8 $15 { The queen is not the ideal blockading piece. I see my own style as being a symbiosis of the styles of Alekhine, Tal and Fischer. – Garry Kasparov } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/46138294/"]
+[Date "????.??.??"]
+[Round "4.7"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 107 - Petrosian- Tigran vs. Najdorf- Miguel"]
+[Result "1/2-1/2"]
+[FEN "r1b2rk1/p1q2ppp/1p3n2/n1pPp3/4P3/P1PB3P/1B2QPP1/R3K1NR b KQ - 0 14"]
+
+14... { -KEY- } c4 $1 { A must before White plays c3-c4. } ( 14... Ne8 15. c4 $14 ) 
+15. Bc2 { Black can push the pawns on the queenside... } Nb3 16. Rd1 ( 16. Bxb3 cxb3 { and White is not in time to pick up the b3-pawn, for example } 17. Nf3 a5 18. a4 Ba6 19. Qe3 Nd7 20. Nd2 Bc4 $17 ) 
+a5 $15 { Planning to reinforce the grip on the queenside with ...a5-a4 and ...b6-b5. Black is better due to White's passive dark-squared bishops. It can change diagonal, but that would leave the a3-pawn undefended. } 
+ 1/2-1/2
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284810/"]
+[Date "????.??.??"]
+[Round "4.8"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 108 - Karpov- Anatoly vs. Ljubojevic- Ljubomir"]
+[Result "*"]
+[FEN "r1r3k1/pp2ppbp/6p1/8/1n1PP3/4BB1P/P4PP1/3R1RK1 w - - 0 17"]
+
+17. { -KEY- } e5 { Opening the diagonal for the bishop on f3. Black doesn't have time to fortify the d5-square. Two illustrative lines: } Rab8 ( 17... Rc7 18. Rb1 Nxa2 19. Rb3 $16 { Followed by Ra1 on the next move. } ) 
+18. e6 $1 fxe6 19. Bf4 $16 { Black is in trouble. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284811/"]
+[Date "????.??.??"]
+[Round "4.9"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 109 - Sosonko- Gennadi vs. Karpov- Anatoly"]
+[Result "*"]
+[FEN "r2q1rk1/1b1nbpp1/p3p2p/2p5/1pNPP3/5NP1/PPQ2PBP/R2R2K1 w - - 0 19"]
+
+19. { -KEY- } d5 $16 { White's advantages are the passed pawn and the nice square on c4. } ( 19. dxc5 $2 { released Black's pieces. Sosonko tried to hang on to the pawn, but in vain: } Qc7 20. Rxd7 Qxd7 21. Nb6 Qb5 22. Nxa8 Rxa8 23. Rc1 Rc8 24. Nd4 Qxc5 { Black is at least fine. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284812/"]
+[Date "????.??.??"]
+[Round "4.10"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 110 - Tal- Mikhail vs. Kasparov- Garry"]
+[Result "*"]
+[FEN "r1b1r1k1/1pq1bppp/p1nppn2/8/P2NPP2/2N1B3/1PP1B1PP/R3QR1K b - - 0 12"]
+
+12... { -KEY- } Nxd4 $1 ( 12... Bd7 13. Qg3 $14 ) 
+ ( 12... Na5 13. Rd1 Nc4 14. Bc1 $14 ) 
+13. Bxd4 e5 { Equalizing in the centre. } 14. Be3 { In that case, Black should not allow f4-f5. } ( 14. fxe5 dxe5 15. Qg3 Bd8 $11 { The only move. Black defends the e-pawn and also the queen, thus threatening ...exd4. } ) 
+exf4 15. Bxf4 Be6 { Black's plan is ...Nd7-e5. The knight manoeuvre is a standard procedure in this structure, and worth remembering. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284813/"]
+[Date "????.??.??"]
+[Round "4.11"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 111 - Smyslov- Vasily vs. Koch- Berthold"]
+[Result "*"]
+[FEN "2rr2k1/pbq1bppp/1pp1pn2/4N3/2PP4/1P4P1/PBQ2PBP/R2R2K1 w - - 0 17"]
+
+17. { -KEY- } c5 $14 { Otherwise Black would have released the bishop with ...c6-c5. White is better on both wings, but it's more logical to play on the kingside where the b7-bishop can't take part, but the b2-bishop can. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284814/"]
+[Date "????.??.??"]
+[Round "4.12"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 112 - Karpov- Anatoly vs. Huebner- Robert"]
+[Result "*"]
+[FEN "r4rk1/1q2bp1p/p1bppnp1/1p6/3BPP2/P1N2BQ1/1PP3PP/3R1R1K w - - 0 17"]
+
+17. { -KEY- } f5 { White can exert further pressure with Qh3 or perhaps Qh4 (depending on the specific tactics after the reply ...e6-e5). Note that White should not rush to exchange on e6, as this would open space for Black's rook and deprive White of a potential f5-f6. } e5 18. Be3 $14 { White will continue to harass the knight on f6 with moves like Bg5 and Qh4. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284815/"]
+[Date "????.??.??"]
+[Round "4.13"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 113 - Petrosian- Tigran vs. Torre- Eugenio"]
+[Result "*"]
+[FEN "r2qkb1r/1b1n1ppp/p1p1pn2/1p6/3P4/P1NBPN2/1P3PPP/R1BQK2R w KQkq - 0 10"]
+
+10. { -KEY- } b4 { The only way to fight for an advantage is by stopping the move Black absolutely wants to play (...c6-c5). With ...c6-c5 unavailable, the b7-bishop will be passive for a long time. However, Black will attack the b-pawn (...a6-a5, ...Bd6, ...Qe7, ...Nd5) and will also look for a good moment to play ...e6-e5. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284816/"]
+[Date "????.??.??"]
+[Round "4.14"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 114 - Karpov- Anatoly vs. Smyslov- Vasily"]
+[Result "*"]
+[FEN "1r4k1/ppq1rp1p/6p1/2nB4/2P5/5R1P/PQ3PP1/3R2K1 w - - 0 24"]
+
+24. { -KEY- } h4 $16 { With control over the position, it's possible to attack the black king with h4-h5-h6, or sometimes h4-h5xg6. } h5 $2 ( 24... Rbe8 { does not trouble White after } 25. g3 { . } ) 
+25. Qf6 $18 { Threatening to take on g6. } ( { Even } 25. Rxf7 $5 Rxf7 26. Qf6 { wins. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284817/"]
+[Date "????.??.??"]
+[Round "4.15"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 115 - Gulko- Boris vs. Kasparov- Garry"]
+[Result "*"]
+[FEN "r2qk2r/1p1b1pb1/p2p1npp/2pPn3/P3P3/2N1BP2/1P2BNPP/R2QK2R b KQkq - 0 13"]
+
+13... { -KEY- } g5 $16 { Black stops f3-f4 (which would actually have trapped the knight) and prepares to manoeuvre on the dark squares with ...Ng6 and ...Nh5. You have to be able to play good moves in disadvantageous positions as well as good ones. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284818/"]
+[Date "????.??.??"]
+[Round "4.16"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 116 - Karpov- Anatoly vs. Bellon Lopez- Juan Manuel"]
+[Result "*"]
+[FEN "r3rbk1/1bqn1ppp/pp1ppn2/8/2PNPP2/2NBB3/PP2Q1PP/2RR3K w - - 0 15"]
+
+15. { -KEY- } b4 $5 { Stopping ...Nc5. } Rac8 ( 15... d5 $4 { cannot be played with Black's queen standing opposite the white rook. } 16. cxd5 $18 ) 
+16. Nb3 Qb8 17. a3 { Safest. We have a normal Hedgehog position. } ( 17. a4 $5 { prepares a4-a5 and Nxa5, but the b-pawn is a problem after: } Qa8 18. a5 d5 $5 ) 
+ ( 17. Bd2 { was Karpov's choice. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/46138295/"]
+[Date "????.??.??"]
+[Round "4.17"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 117 - Karpov- Anatoly vs. Franco Ocampos- Zenon"]
+[Result "1-0"]
+[FEN "r2qk2r/1b2bpp1/p2ppn1p/8/1p1BP1PP/2N2P2/PPPQ4/2KR1B1R w kq - 0 14"]
+
+14. { -KEY- } Na4 { Usually the correct square for the knight, blocking Black's a-pawn while looking forward towards b6. } ( 14. Ne2 Qa5 15. Kb1 e5 16. Be3 d5 $132 ) 
+Bc6 15. Nb6 ( 15. Qxb4 Rb8 16. Qa3 Qa5 $13 ) 
+Rb8 16. Nc4 $16 { When recording, I did not see how to meet } ( 16. Qf2 $16 ) 
+d5 17. Qe3 { A simple solution - Black has no good square to move the queen and renew the threat against the knight. } 
+ 1-0
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284820/"]
+[Date "????.??.??"]
+[Round "4.18"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 118 - Portisch- Lajos vs. Petrosian- Tigran"]
+[Result "*"]
+[FEN "r2q1k1r/1ppb1pb1/3p1np1/p2Pp3/1nP1P2p/2N1BPP1/PP2Q1BP/2KR2NR b - - 0 16"]
+
+16... { -KEY- } Bh6 $11 { Exchanging the passive restricted bishop and giving the king a square on g7. } ( 16... a4 { can be met with } 17. g4 { and it's too late for Black to exchange bishops; or } 17. a3 { first . After } Nh5 17. Qf2 Bh6 { it's possible to go } 18. f4 { as Black doesn't have an immediate knight jump to g4. } ) 
+17. f4 $6 Ng4 { This is good for Black. } 18. Bd2 $2 Nf2 $1 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284821/"]
+[Date "????.??.??"]
+[Round "4.19"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 119 - Andersson- Ulf vs. Karpov- Anatoly"]
+[Result "*"]
+[FEN "r1q2rk1/1bp1bppp/p3pn2/1p6/1n1P1B2/5NP1/PP1NPPBP/R1QR2K1 b - - 0 13"]
+
+13... { -KEY- } c5 $11 { Exchanging the backward (and threatened) pawn. The game continued for another eight moves. Guess the result... } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284822/"]
+[Date "????.??.??"]
+[Round "4.20"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 120 - Korchnoi- Viktor vs. Kasparov- Garry"]
+[Result "*"]
+[FEN "1rbqr1k1/1p3pbp/p2p1np1/2pPn3/P1N5/2N3PP/1P2PPB1/R1BQ1RK1 w - - 0 14"]
+
+14. { -KEY- } Na3 $1 { Keeping the knights (White has more space) and also stopping ... b7-b5. Black is fine according to current theory; but since White's last move is the only logical and critical try, it nevertheless qualifies as an exercise. } ( 14. Ne3 $2 b5 $17 ) 
+ ( 14. Nxe5 Rxe5 15. a5 b5 16. axb6 Rxb6 $11 { The a6- and b2-pawns are both weak. } ) 
+Nh5 $1 { Black opens up for ...f7-f5. } 15. e4 { Theory has been well established after more than a thousand games from this position. Theoretical details are not the topic of this book, but it's worth mentioning a few lines involving instructive and typical moves. } ( 15. g4 { gives Black multiple ways to sacrifice a piece for good compensation. } Bxg4 ( { ( } 15. e4 Nxg4 { and } Qh4 { also offer dynamic equality.) } ) 
+16. hxg4 Nxg4 { A spectacular drawing line continues: } 17. Qd3 Bxc3 18. bxc3 Re3 $1 19. Bxe3 Qh4 20. Rfd1 Re8 $1 21. Nc4 Nf4 ( { ( } 21. e4 Rxe3 $11 { is also good. ) } ) 
+22. Bxf4 Qxf2 23. Kh1 Qh4 24. Kg1 { With a draw. } ) 
+Bd7 ( { Kasparov played } 15... Rf8 { . } ) 
+16. a5 { Black must now choose between taking and sacrificing a pawn. } b5 $1 { This is the most reliable choice. } ( 16... Qxa5 17. g4 Nf6 18. f4 { Trapped! } Nexg4 19. hxg4 Nxg4 20. f5 { The position is approximately equal but White does have some attacking chances. } ) 
+17. axb6 Bb5 18. Naxb5 axb5 19. Nxb5 Qxb6 20. Na3 Qb3 $13 { Black is doing fine. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284823/"]
+[Date "????.??.??"]
+[Round "4.21"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 121 - Agzamov- Georgy vs. Karpov- Anatoly"]
+[Result "*"]
+[FEN "r1q2rk1/1b2bppp/p3pn2/1pp3B1/1n1P4/5NP1/PP2PPBP/RNQR2K1 w - - 0 14"]
+
+14. { -KEY- } Bxf6 $1 { Not being able to take back with the bishop, Black must accept doubled pawns. } gxf6 ( 14... Bxf6 15. a3 $1 ( { ( } 14... gxf6 14. dxc5 { allows } a5 $11 { and possibly ...Nb4-a6. ) } ) 
+Nd5 16. dxc5 $16 ) 
+15. a3 ( 15. Nc3 { was played in the game. As we will see below, it helps White to avoid obstructing the c-file. } ) 
+Nd5 16. Qh6 { White does not play for an immediate attack. An important reason why Black is unhappy with the doubled f-pawns is that the structure rules out ...e6-e5, which would now weaken the f5-square too much. } Rd8 17. Rc1 $14 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284824/"]
+[Date "????.??.??"]
+[Round "4.22"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 122 - Agzamov- Georgy vs. Karpov- Anatoly"]
+[Result "*"]
+[FEN "r2r2k1/5p1p/p3pp2/1pbb4/8/P4NP1/1P2PPBP/R2R2K1 w - - 0 20"]
+
+20. { -KEY- } Ne1 $1 { Exchanging bishops while preparing to put the knight on its best square, d3. } Bxg2 ( 20... Bb3 $2 { is critical but runs into a brilliant tactic: } 21. Rd3 $1 { (It's hard to spot short moves along an open file when it's possible to exchange.) } Rxd3 22. Nxd3 Rc8 23. Rc1 $18 ) 
+21. Kxg2 f5 22. Rxd8+ Rxd8 23. Nd3 Be7 24. Rc1 $14 { The squares on the c-file will not lead to anything concrete by themselves, but White can also try to improve the king and push the kingside pawns. For instance, h2-h3, g3-g4 and hxg4 could lead to an open h-file against Black's lonely h-pawn. The game went } ( 24. a4 bxa4 { and Karpov held a draw quite comfortably. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284825/"]
+[Date "????.??.??"]
+[Round "4.23"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 123 - Razuvaev- Yuri vs. Tal- Mikhail"]
+[Result "*"]
+[FEN "r1bqr1k1/1p1n1pbp/p2p1np1/2pP4/P7/2N2NPP/1P2PPB1/R1BQR1K1 b - - 0 12"]
+
+12... { -KEY- } Ne4 $1 { Black is happy to exchange pieces and open the diagonal for the g7-bishop. } 13. Nxe4 Rxe4 { The rook might continue to b4. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284826/"]
+[Date "????.??.??"]
+[Round "4.24"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 124 - Chandler- Murray vs. Anand- Viswanathan"]
+[Result "*"]
+[FEN "2rqk2r/3bbpp1/p1nppn1p/1p6/4PP2/1NN1BB2/PPPQ2PP/2KR3R b k - 0 13"]
+
+13... { -KEY- } Na5 $1 { In the Sicilian, Black's semi-open c-file tends to be worth more than White's d-file. Abstractly, I think this has something to do with the open part of the file being longer. (White can seldom put pawns on b3 and c3, unlike Black's equivalent formation with pawns on d6 and e6.) In this example, the fact that White has castled queenside makes the c-file especially relevant. To avoid the knight settling on c4, White needs to exchange it, thus facilitating the development of the enemy queen. } ( 13... b4 $6 14. Na4 $14 ) 
+14. Nxa5 Qxa5 15. Kb1 ( 15. e5 b4 $19 ) 
+b4 16. Ne2 O-O $15 ( { The game move } 16... Bc6 { could have been met by } 17. Qd3 O-O 18. Nd4 $11 { when White is okay. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284827/"]
+[Date "????.??.??"]
+[Round "4.25"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 125 - Huebner- Robert vs. Smyslov- Vasily"]
+[Result "*"]
+[FEN "r2q1rk1/1p2ppbp/1n3np1/p2P1b2/P2P4/1QN3P1/1P2NPBP/R1B2RK1 b - - 0 12"]
+
+12... { -KEY- } Bd3 { A creative route to attack the pawn on d5. (But a standard motif in the positions arising from this opening variation.) It's the best way to fight for equality. } 13. d6 $1 { White takes the last chance to exchange the doubled pawn for Black's b-pawn. } exd6 14. Bxb7 Rb8 { Black has some compensation along the b-file, with ...Bc4 and ...Nbd5 being the next two moves. } 15. Bf3 { Stockfish doesn't think Black has full compensation but, as stated previously, we still need to be able to find good moves in worse positions. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284828/"]
+[Date "????.??.??"]
+[Round "4.26"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 126 - Van der Wiel- John vs. Anand- Viswanathan"]
+[Result "*"]
+[FEN "r1bqk2r/4np1p/p1p1p1p1/8/2Nb4/3B4/PPP3PP/R1BQ1R1K w kq - 0 14"]
+
+14. { -KEY- } Bh6 $18 { Stopping Black from castling. Black's extra pawn is of little value. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284829/"]
+[Date "????.??.??"]
+[Round "4.27"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 127 - Karpov- Anatoly vs. Martinovic- Slobodan"]
+[Result "*"]
+[FEN "2r1r1k1/1p2b1pp/p1qppn2/4n3/P3P3/2N4Q/1PP1B1PP/R1B2R1K b - - 0 21"]
+
+21... { -KEY- } Bd8 $1 { A bishop on a5 puts pressure on White's centre. } ( { Black should avoid trading e-pawns, as } 21... Nxe4 $6 22. Qxe6 Kh8 23. Nxe4 Qxe4 24. Bf3 Qxc2 25. Bxb7 $14 { gives White an advantage on the light squares. } ) 
+22. Bd3 ( { White does not have time for } 22. a5 { due to } Nxe4 { , although perhaps this should still have been played. For instance, after } 23. Bh5 Ng6 24. Bg4 d5 $15 { Black stands better but White does have some compensation. } ) 
+Ba5 $17 ( 22... Rc7 { was played, but is overly cautious. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284830/"]
+[Date "????.??.??"]
+[Round "4.28"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 128 - Anand- Viswanathan vs. Howell- James"]
+[Result "*"]
+[FEN "r4r1k/1bqnbp1p/pp1p2p1/4p2n/P3P3/2N1BP2/1PPNBQPP/R2R2K1 b - - 0 16"]
+
+16... { -KEY- } f5 $1 { Increasing the scope of the b7-bishop, f8-rook and h5-knight. (The last by enabling the rook to cover the f4-square.) } 17. exf5 $2 { White should avoid the capture on f5 and instead give the bishop an escape square by: } ( 17. Qe1 $1 fxe4 ( { ( } 17. exf5 Ndf6 $13 { ) } ) 
+18. Ndxe4 Ndf6 $13 ) 
+d5 $17 { A strong intermediate move. } ( 17... gxf5 $6 18. Nc4 $13 { was the game. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284831/"]
+[Date "????.??.??"]
+[Round "4.29"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 129 - Khalifman- Alexander vs. Kengis- Edvins"]
+[Result "*"]
+[FEN "r1bq1rk1/1p2bppp/p2p1n2/4p3/P3PP2/2Nn1N2/1PP1Q1PP/R1B2RK1 w - - 0 12"]
+
+12. { -KEY- } cxd3 { Capturing towards the centre. Well, a better argument is that the pawn vacates its slightly vulnerable spot on the c-file, and now performs a useful function in covering the c4-square against a future bishop incursion. } ( 12. Qxd3 Qc7 $15 { is a standard Sicilian position where Black is happy with the bishop pair. Black puts a rook on c8, eying the c2-pawn. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/46138296/"]
+[Date "????.??.??"]
+[Round "4.30"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 130 - Tal- Mihail vs. Rozentalis- Eduardas"]
+[Result "1/2-1/2"]
+[FEN "2rr2k1/pbqnbppp/1p3n2/2pp4/3P4/1PNBPN2/PB2QPPP/2RR2K1 w - - 0 14"]
+
+14. { -KEY- } Bf5 $1 { Activating the bishop before Black plays ...Ne4. It is better on f5 than on b5 since: 1) Threatening it with ...g7-g6 slightly weakens the king 2) The bishop can stay on the diagonal (Bh3) 3) It pins the knight on d7 Including } ( 14. dxc5 bxc5 { before playing } 15. Bf5 $14 { has the downside that White can't go Ne5 anymore. } ) 
+g6 15. Bh3 Ra8 { Moving out of the pin before White has played Ne5. 14.Bf5 has paid off. } ( 15... Ne4 16. Nxe4 { Not necessary. } dxe4 17. Nd2 ( 16... Ra8 16. Ne5 Nxe5 $1 18. Bxc8 Nd3 $11 ) 
+Bf6 18. Ba3 $16 { White wins a pawn. } ) 
+ ( 15... c4 16. Ne5 $16 ) 
+16. Ne5 ( 16. Ba1 $16 { was interesting, to use the diagonal with Qb2. } ) 
+Nxe5 17. dxe5 Ne4 18. Nxe4 dxe4 19. e6 
+ 1/2-1/2
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284833/"]
+[Date "????.??.??"]
+[Round "4.31"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 131 - Anand- Viswanathan vs. Jansa- Vlastimil"]
+[Result "*"]
+[FEN "4rrk1/1pqnbppp/pNbpp3/P7/4P3/4B1P1/1PP2PBP/R2QR1K1 b - - 0 15"]
+
+15... { -KEY- } f5 $1 { Otherwise Black's rook would look – and be! – stupid. Still, White's position is to be preferred slightly since Black will soon have three pawn islands against two. (And with several minor pieces exchanged, the two centre pawns don't cramp White.) } ( 15... Nxb6 16. Bxb6 Qd7 17. c4 $16 ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284834/"]
+[Date "????.??.??"]
+[Round "4.32"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 132 - Karpov- Anatoly vs. Timman- Jan"]
+[Result "*"]
+[FEN "rn1q1rk1/p2p1pbp/1p4p1/2pPp3/2P1b3/1Q3NP1/PP2PPBP/R1B2RK1 w - - 0 11"]
+
+11. { -KEY- } Bh3 $1 { Taking the retreat square from Black's bishop, while preparing Ng5 or Nd2. } Bxf3 { Forced. } 12. Qxf3 $14 { White has space and the bishop pair. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284835/"]
+[Date "????.??.??"]
+[Round "4.33"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 133 - Moussa- Issa vs. Anand- Viswanathan"]
+[Result "*"]
+[FEN "r2q1rk1/1p1b1pbp/p2p1np1/P1pPn3/4P3/2N1BP2/1P1Q1NPP/R3KB1R b KQ - 0 13"]
+
+13... { -KEY- } b5 $1 { Black should act immediately to create counterplay. After h2-h3 followed by f3-f4, it would be too late. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284836/"]
+[Date "????.??.??"]
+[Round "4.34"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 134 - Marin- Mihail vs. Anand- Viswanathan"]
+[Result "*"]
+[FEN "r1b1r1k1/pp1nqpbp/2p3p1/2P1p2n/N3P3/5NP1/PPQ1BP1P/R1BR2K1 b - - 0 13"]
+
+13... { -KEY- } Nf8 { Allowing the bishop to develop, and at the same time manoeuvring towards d4. Black's next moves are likely to be ...Bg4, ...Ne6 and ...Rad8. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284837/"]
+[Date "????.??.??"]
+[Round "4.35"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 135 - Kasparov- Garry vs. Lutz- Christopher"]
+[Result "*"]
+[FEN "2r2r2/3q1pkp/pp4p1/1b1Pp2P/4P3/8/P2QNPP1/2RR2K1 w - - 0 23"]
+
+23. { -KEY- } h6+ $18 { The pawn will irritate Black for a long time. Even in rook endings, there might be back-rank mates or a rook penetration with Rh8xh7, leading to a dangerous passer. Taking into account the above advantage plus White's protected passed pawn and better minor piece, we can evaluate the game as positionally over. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284838/"]
+[Date "????.??.??"]
+[Round "4.36"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 136 - Karpov- Anatoly vs. Ribli- Zoltan"]
+[Result "*"]
+[FEN "q1r1n1k1/1brn1ppp/1p1pp3/p7/1PP1PP2/PN1Q2PP/2R3BK/2RN4 w - - 0 32"]
+
+32. { -KEY- } Nd4 $16 { Heading towards b5. No additional variations are needed. Ribli had missed that the b3-knight could reach b5, only considering Nd1-c3-b5. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284839/"]
+[Date "????.??.??"]
+[Round "4.37"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 137 - Kasparov- Garry vs. Torre- Eugenio"]
+[Result "*"]
+[FEN "r1q1kb1r/pp1npppp/2p2nb1/2PpN3/3P1BP1/1QN2P2/PP2P2P/R3KB1R w KQkq - 0 11"]
+
+11. { -KEY- } h4 { There's no acceptable defence against h4-h5. } h6 12. Nxg6 fxg6 $18 { The g6-pawn is too weak. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44285317/"]
+[Date "????.??.??"]
+[Round "4.38"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 138 - Arnason- Jon Loftur vs. Tal- Mikhail"]
+[Result "*"]
+[FEN "r2r2k1/1bq1bppp/ppnppn2/8/P3PPP1/1NN2B2/1PP1Q2P/R1B2R1K b - - 0 14"]
+
+14... { -KEY- } d5 $1 { A flank attack is best met by a counterattack in the centre. If Black delayed this break, White would secure an advantage with g4-g5. } 15. e5 ( 15. exd5 Nxd5 16. Nxd5 Rxd5 $17 { White's king is weak, regardless of whether or not the exchange sacrifice is accepted. } ( { ( } 16. e5 exd5 $15 { followed by ...d5-d4 gives Black a lesser advantage. ) } ) 
+ ) 
+Nd7 $17 ( { The exercise ends here, but let's see Tal's nice sacrifice: } 15... Nd7 15. Be3 Ndxe5 $1 17. fxe5 d4 18. Nd5 Rxd5 $1 19. Bxd5 dxe3 20. Be4 Nxe5 $19 { White surely regretted g2-g4. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284841/"]
+[Date "????.??.??"]
+[Round "4.39"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 139 - Kasparov- Garry vs. Short- Nigel"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1nb1pp/2p1pn2/3pNp2/2PP4/6P1/PP1NPPBP/R1BQ1RK1 w - - 0 9"]
+
+9. { -KEY- } Nd3 $1 { A normal white plan in the Stonewall is Nf3-e5-d3, Nd2-f3-e5 and finally eventually f2-f3 to kick away Black's knight from e4. It takes some time and leaves the h2-pawn undefended for a few moves, but Black's attacking tries with ...Qd8-e8-h5 and ...Nf6-g4 or ...Rf8-f6-h6 are more naive than dangerous. } ( 9. Ndf3 { is less effective due to } Nxe5 10. Nxe5 Nd7 $1 { when avoiding the exchange would leave the c4-pawn hanging. White keeps some edge, but the e5-square is worth less without knights. } ) 
+Ne4 10. Qc2 { Protecting the c4-pawn. } Bf6 ( 10... Nxd2 11. Bxd2 $16 { Black should keep the knight on e4 as long as possible. } ) 
+11. Nf3 $14 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284842/"]
+[Date "????.??.??"]
+[Round "4.40"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 140 - Karpov- Anatoly vs. Kasparov- Garry"]
+[Result "*"]
+[FEN "2r3k1/pp1qp1bp/6p1/n7/3PP3/3QB2P/P3N1P1/5RK1 w - - 0 20"]
+
+20. { -KEY- } d5 { Threatening Bxa7 and preparing both Bd4 and Nd4-e6. } Nc4 21. Bd4 e5 $1 ( { In the event of } 21... Ne5 $14 { White moves the queen and prepares Nf4-e6. } ) 
+22. dxe6 { White should not allow a good blockading knight on d6. } Qxe6 23. Bxg7 Kxg7 24. Nf4 { Black's king is weak but material is limited, which keeps White's advantage small. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284843/"]
+[Date "????.??.??"]
+[Round "4.41"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 141 - Karpov- Anatoly vs. Ehlvest- Jaan"]
+[Result "*"]
+[FEN "r3r1k1/pp1bqpbp/n1pp1np1/4p3/2PPP3/2N1BN1P/PP3PP1/R2QRBK1 w - - 0 12"]
+
+12. { -KEY- } c5 $1 { A standard move in similar positions, preparing Bxa6 while undermining Black's pawn centre (since there is no pawn on c7 defending d6). Here it's even stronger than usual – Black actually loses material. } exd4 ( 12... dxc5 13. dxe5 $18 ) 
+13. cxd6 Qxd6 14. e5 $18 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284844/"]
+[Date "????.??.??"]
+[Round "4.42"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 142 - Spassky- Boris vs. Hort- Vlastimil"]
+[Result "*"]
+[FEN "r1bqkbnr/pp1ppp1p/2n3p1/1Bp5/4P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 0 4"]
+
+4. { -KEY- } Bxc6 $14 { When f2-f4 is still possible (i.e. Nf3 has not been played), White gets a good version of the Rossolimo, continuing with the standard moves d2-d3, f2-f4, Nf3, O-O, Qe1 and so on. The doubled pawns make it difficult for Black to push pawns without creating a weakness. } ( { For example, } 4. Bxc6 bxc6 { followed by ...d7-d5 makes c5 weak. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284845/"]
+[Date "????.??.??"]
+[Round "4.43"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 143 - Karpov- Anatoly vs. Van der Wiel- John"]
+[Result "*"]
+[FEN "rqb1r1k1/p2n1ppp/2pbpn2/1p6/3P4/2N1PN2/PPQBBPPP/2R2RK1 w - - 0 13"]
+
+13. { -KEY- } Ne4 $1 { Increasing White's control over the weak squares on the c-file. } ( 13. Rfd1 $6 { is slow. } Bb7 { and it's too late to go Nc3-e4. } ) 
+Nxe4 14. Qxe4 Bb7 15. Bd3 f5 16. Qh4 $16 { Black can't push the c-pawn and there is always b2-b4 if necessary. Another threat is e3-e4. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284846/"]
+[Date "????.??.??"]
+[Round "4.44"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 144 - Kasparov- Garry vs. Andersson- Ulf"]
+[Result "*"]
+[FEN "3q1nk1/ppr1rppp/2p1bn2/3p4/3P1N2/2NBPP2/PP3QPP/4RR1K w - - 0 17"]
+
+17. { -KEY- } e4 { This is one of White's main positional plans in the Carlsbad structure. If Black doesn't react, White continues with e4-e5 (and later f3-f4-f5). } dxe4 18. fxe4 Rcd7 19. h3 ( 19. d5 $5 { This was Kasparov's move. While strong, there was no need to hurry. } cxd5 20. Bb5 Rc7 21. exd5 Bd7 ( { ( } 21. h3 Bxd5 $2 22. Rd1 $18 { ) } ) 
+22. Be2 $16 ) 
+Rxd4 $2 { Find the refutation. } 20. Ncd5 $18 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284847/"]
+[Date "????.??.??"]
+[Round "4.45"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 145 - Khalifman- Alexander vs. Lau- Ralf"]
+[Result "*"]
+[FEN "rnq2rk1/p3pp1p/1p4p1/2pP4/4P3/2b2N2/P3QPPP/1RB2RK1 w - - 0 15"]
+
+15. { -KEY- } e5 $1 { No return for Black's bishop. } Qf5 $6 ( { For better or worse, Black had to allow the bishop to be exchanged with } 15... Bd4 { , either now or on the next move. } ) 
+16. Rb3 Ba5 17. Nh4 $18 { White is not 'a' piece up on the kingside, but two or three pieces up. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284848/"]
+[Date "????.??.??"]
+[Round "4.46"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 146 - Anand- Viswanathan vs. Larsen- Bent"]
+[Result "*"]
+[FEN "r2q1rk1/1p1nppbp/2bp2p1/p7/2PBP3/1PN2P2/P2QB1PP/R4RK1 w - - 0 14"]
+
+14. { -KEY- } Be3 $1 { Avoiding exchanges as White has more space. The bishop stops Black from developing with ...Qb6. } ( 14. Bf2 $5 { also counts as a correct solution. The same general comments apply, although it feels slightly less active not to have the bishop operating on the c1-h6 diagonal. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284849/"]
+[Date "????.??.??"]
+[Round "4.47"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 147 - Karpov- Anatoly vs. Ljubojevic- Ljubomir"]
+[Result "*"]
+[FEN "3rr1k1/1p2qpp1/p1p3p1/8/PP1Pp3/4P3/2Q2PPP/1RR3K1 w - - 0 20"]
+
+20. { -KEY- } b5 $16 { There is no reason to delay the standard minority attack. It gives Black a weak pawn, and Ljubojevic decided to accept one on a6. It was lost on move 38. } ( 20. Qc5 $14 { gives White a lesser advantage. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284850/"]
+[Date "????.??.??"]
+[Round "4.48"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 148 - Yusupov- Artur vs. Karpov- Anatoly"]
+[Result "*"]
+[FEN "r2qnrk1/p2p1ppp/bpn1p3/2p5/2PPPP2/P1PB4/4N1PP/R1BQ1RK1 b - - 0 11"]
+
+11... { -KEY- } f5 $1 { Before continuing to attack the c-pawn, Black stops f4-f5 and thus limits the scope of all three of White's minor pieces, as well as the f1-rook. By the way, Karpov also played the same move against Yusupov four years later in Linares. } 
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284851/"]
+[Date "????.??.??"]
+[Round "4.49"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 149 - Haik- Aldo vs. Kasparov- Garry"]
+[Result "*"]
+[FEN "r2qr1k1/pp1b1pb1/3p1n1p/2nP2p1/2p1P3/2N2P1P/PPB1NBP1/R2Q1RK1 b - - 0 16"]
+
+16... { -KEY- } Nh5 $13 { Eying the dark squares, and intending to continue with ...Be5 and/or ...Nf4 soon. There's no need to be afraid of Bxc5. } ( 16... b5 $6 { is well met by } 17. Nd4 $14 { when White will do well on the light squares. } ) 
+
+ *
+
+[Event "The Woodpecker Method 2: Positional Play"]
+[Site "https://www.chessable.com/variation/44284852/"]
+[Date "????.??.??"]
+[Round "4.50"]
+[White "1.3) Priyome - Public Education Exercises #3"]
+[Black "Exercise 150 - Piket- Jeroen vs. Kasparov- Garry"]
+[Result "*"]
+[FEN "r2q1bk1/ppNb1r1p/3p1nn1/P2Pp3/1P2Ppp1/5P2/4BBPP/2RQNRK1 b - - 0 20"]
+
+20... { -KEY- } g3 $1 { Sacrificing a pawn and/or a rook to speed up the attack. } 21. hxg3 ( { The game went } 21. Nxa8 $2 Nh5 $1 { and Black won in great style. } ) 
+ ( { Kasparov's move was best, but } 21. hxg3 gxf2 22. Rxf2 Qxa8 { was also good enough. } ) 
+fxg3 ( 21... Nh5 $2 { allows } 22. g4 $1 Ng3 23. Nxa8 { intending } Qh4 $2 24. Bxa7 $18 { and the king escapes. } ) 
+22. Bxg3 Nh5 23. Bf2 ( 23. Bh2 $2 Bh6 24. Rc3 Bf4 { and the knights invade with decisive effect. } ) 
+Ngf4 
+ *

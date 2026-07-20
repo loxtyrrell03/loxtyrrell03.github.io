@@ -1,0 +1,596 @@
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1222514/"]
+[Date "????.??.??"]
+[Round "9.1"]
+[White "8) Najdorf Type I"]
+[Black "Introduction"]
+[Result "*"]
+[FEN "4k3/pp3ppp/3p4/3Pp3/8/8/PPP2PPP/4K3 w - - 0 1"]
+
+ { Najdorf Type I The structure studied in this chapter is typical of many Open Sicilians. It arises after White trades pieces on d5, and recaptures with the e-pawn. This frequently occurs in the Najdorf variation, but I should emphasize it is not limited to this variation. } ( { For example, we can obtain this structure after the sequence } 0... Qxf2 0. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8. exd5 { . } ) 
+ { This structure deserves careful study as the recapture exd5 dramatically changes the character of the game. Even players of the highest level transform their position with this recapture without properly assessing their chances in the resulting position. This structure provides a natural imbalance and offers interesting chances to both sides. The main plans are: White's plans 1. Advance the queenside majority with b2-b4 and c2-c4-c5. 2. On some occasions, after Black has played ...f7-f5, it is also possible to place a bishop along the b1-h7 diagonal and play g2-g4 breaking up Black's structure. This plan is rare, but when it works it does so spectacularly well. Black's plans 1. Expand on the kingside with ...f7-f5 and develop a kingside attack. 2. Restrict or undermine White's queenside expansion with a potential ...b7-b5. Bad bishops A recurring theme in these positions is the fight between White's light-squared bishop and Black's dark-squared bishop. Both of these bishops are considered bad according to classical strategic theory, as they run on the same colour as their respective most-advanced pawns (on d5 for White, e5 for Black). As we will learn in this chapter, Black's dark-squared bishop is not bad at all, while White's bishop is often restricted and even useless in some positions. This is a rule to be remembered. General strategy books would not teach us this rule, but we should remember it as an essential strategic element in this particular structure. The first game in this chapter is the relatively well-known game Grischuk - Zhang Zhong from 2001, in which White carries out a powerful queenside expansion to create a winning passed pawn. Later Zhang Zhong manages to create illustrative kingside counterplay which emphasizes Black's many attacking possibilities. The second game is an example of White's queenside expansion, followed by a strong kingside break with g2-g4. The third game is one from my own experience: a race between Black's kingside attack and White's passed central pawns. The last two games illustrate Black's plans in the fight between the bishops. The first of these examples is a positional treatment, while the second is a sharp tactical approach, both yielding convincing victories to Black. } 1. -- 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551054/"]
+[Date "????.??.??"]
+[Round "9.2"]
+[White "8) Najdorf Type I"]
+[Black "Alexander Grischuk vs. Zhang Zhong"]
+[Result "1-0"]
+
+ { Alexander Grischuk – Zhang Zhong, Shanghai 2001 Learning objectives: 1. The phase of this game after the diagram exemplifies how White can convert his queenside expansion into a winning passed pawn. 2. Then Black launches an interesting kingside counterattack, which illustrates many of the most typical attacking resources in this position. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3 Be7 9. Qd2 h5 10. a4 Nbd7 11. a5 Rc8 12. Be2 Qc7 13. O-O O-O 14. Kh1 Rfd8 15. Nc1 h4 16. Rd1 Nc5 17. Nd5 Bxd5 18. exd5 { I studied this game about ten years ago from Ftacnik’s analysis in the Mega Database. I could never forget the ideas presented in it, so I think this is a great starting point for our discussion. White has reached the thematic structure at a favourable stage. The expansion with b2-b4 followed by c2-c4-c5 is just a couple of moves away, while Black’s counterplay on the kingside is not particularly advanced. The game proceeded with: } Nh5 { Black launches a healthy kingside attack to counter White’s queenside play, but he is too far behind and will probably lose this race. } ( { If } 18... h3 $6 { simply } 19. g4 $1 { and Black does not have a way to break White’s kingside, for example after } Ncd7 ( { or } 19... e4 20. f4 $1 { ± } ) 
+20. c4 Rf8 21. Rg1 $1 Nh7 22. Rg3 $16 { the h3-pawn is lost, and White has nothing to fear on the kingside. } ) 
+ ( { Black could wait for the right time to play } ... h4-h3 { , though after } Ncd7 19. c4 Re8 20. b4 Nf8 21. Nb3 Qd7 22. Rac1 h3 23. g3 e4 24. f4 $14 { White’s king seems safe enough. } ) 
+19. b4 Nd7 20. c4 f5 { After } ( 20... Nf4 21. Bf1 $1 { there are no constructive continuations for Black, while } ( 20... f5 20. Bxf4 $6 exf4 22. Qxf4 $13 { is possible, though Black’s bishop gains activity, providing some compensation. } ) 
+ ) 
+21. c5 $1 { ± } Ndf6 ( { Of course not } 21... dxc5 $2 22. d6 { . } ) 
+22. c6 $1 { Threatening Bb6 gaining an exchange. } Rf8 ( 22... bxc6 { is met by } 23. Bxa6 $1 Nxd5 24. Bc4 { and White wins after either } Nhf6 ( { or } 24... Qb8 25. b5 ) 
+25. Bb6 ) 
+23. b5 $1 { The reader should remember this break very well, as it forces the creation of a decisive passed pawn on the a-file. } ( { If instead } 23. cxb7 $2 Qxb7 $14 { makes it harder to create a passed pawn on the queenside. } ) 
+ ( { Or } 23. Bb6 Qb8 24. c7 Rxc7 25. Bxc7 Qxc7 { when White is better, but the situation is far from clear. } ) 
+axb5 ( { White is winning after } 23... Bd8 24. b6 Qf7 25. cxb7 Qxb7 26. Qd3 $1 { . } ) 
+24. Bxb5 Bd8 { Clearing a route to f7 for the queen. } 25. cxb7 Qxb7 26. Bc6 Qf7 27. a6 $18 { The game is won for White, but the rest is still a very interesting exhibition of Black’s tactical ideas and threats on the kingside. } f4 28. Bf2 e4 29. a7 $1 ( { But not } 29. fxe4 $2 Nxe4 { and suddenly White is lost, for example: } 30. Qe1 Qf5 31. Ra3 Nhg3 $1 32. Kg1 h3 33. a7 Nxf2 34. Qxf2 Bb6 $1 { A nice finish! } 35. Qxb6 Qc2 { with forced checkmate. } ) 
+Ng3+ $5 { Keeping the game complicated. } ( { The attack is over after: } 29... e3 $6 30. Bxe3 fxe3 31. Qxe3 $18 ) 
+30. Bxg3 $1 { The only move. } ( { Instead the alternative } 30. hxg3 $2 hxg3 31. a8=Q $11 Rxa8 32. Rxa8 Qh5 33. Kg1 exf3 { is simply losing for White. For example, } 34. gxf3 Ne4 $1 35. fxe4 Qh2 36. Kf1 f3 37. Bxg3 Qh1 $1 38. Kf2 Bb6 ) 
+hxg3 ( { Interesting is } 30... fxg3 $5 { since the tempting } 31. a8=Q $2 { spoils the game after } Rxa8 32. Rxa8 exf3 33. Rxd8 Rxd8 34. gxf3 Ng4 $1 { with complications. } ) 
+ ( { Instead } 30... fxg3 { should be met by } 31. Qf4 $1 { winning, as the attack is over. } ) 
+31. Qxf4 Qh5 32. h3 exf3 33. Qxf3 Ne4 $5 { A very funny resource! } 34. Qxh5 Nf2+ 35. Kg1 Bb6 { It might seem like Black’s strategy worked, but after: } 36. Kf1 $1 { It only looks scary, but in fact White is winning. } ( { But not: } 36. a8=Q $4 Nxd1 37. Kh1 Rf1 ) 
+Nxh3+ 37. Ke1 Nf4 38. Qf3 { Final remarks 1. White’s idea of playing c5-c6 followed by b4-b5 was essential in the creation of a strong passed pawn. Other approaches would have made White’s queenside progress much slower. 2. Despite starting late, Black’s counterplay proved quite dangerous. One may wonder how things would have turned out if Black had just one extra move? } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725248/"]
+[Date "????.??.??"]
+[Round "9.3"]
+[White "8) Najdorf Type I"]
+[Black "Grischuk vs. Zhong #1"]
+[Result "*"]
+[FEN "2rr2k1/1pq1bpp1/p2p1n2/P1nPp3/7p/4BP2/1PPQB1PP/R1NR3K b - - 0 18"]
+
+18... h3 19. g4 { And Black does not have a way to break White’s kingside. } e4 20. f4 $1 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725250/"]
+[Date "????.??.??"]
+[Round "9.4"]
+[White "8) Najdorf Type I"]
+[Black "Grischuk vs. Zhong #2"]
+[Result "*"]
+[FEN "2rr2k1/1pq1bpp1/p2p1n2/P1nPp3/7p/4BP2/1PPQB1PP/R1NR3K b - - 0 18"]
+
+18... h3 19. g4 $1 { And Black does not have a way to break White’s kingside. } Ncd7 20. { -KEY- } c4 Rf8 21. Rg1 Nh7 22. Rg3 $16 { The h3-pawn is lost, and White has nothing to fear on the kingside. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725251/"]
+[Date "????.??.??"]
+[Round "9.5"]
+[White "8) Najdorf Type I"]
+[Black "Grischuk vs. Zhong #3"]
+[Result "*"]
+[FEN "2rr2k1/1pq1bpp1/p2p1n2/P1nPp3/7p/4BP2/1PPQB1PP/R1NR3K b - - 0 18"]
+
+18... Nh5 19. b4 Nd7 20. c4 f5 ( { After } 20... Nf4 21. Bf1 $1 { there are no constructive continuations for Black, while } 21. Bxf4 $6 exf4 22. Qxf4 $13 { is possible, though Black’s bishop gains activity, providing some compensation. } ) 
+21. c5 $1 Ndf6 ( { Of course not } 21... dxc5 $2 22. d6 { . } ) 
+22. c6 $1 { Threatening Bb6 gaining an exchange. } Rf8 ( 22... bxc6 { is met by } 23. Bxa6 $1 Nxd5 24. Bc4 { and White wins after either } Nhf6 ( { or } 24... Qb8 25. b5 ) 
+25. Bb6 ) 
+23. b5 $1 { The reader should remember this break very well, as it forces the creation of a decisive passed pawn on the a-file. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725253/"]
+[Date "????.??.??"]
+[Round "9.6"]
+[White "8) Najdorf Type I"]
+[Black "Grischuk vs. Zhong #4"]
+[Result "*"]
+[FEN "2rr2k1/1pqnbpp1/p2p4/P2Pp2n/1PP4p/4BP2/3QB1PP/R1NR3K b - - 0 20"]
+
+20... Nf4 21. Bf1 $1 { Black has no constructive continuations. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725254/"]
+[Date "????.??.??"]
+[Round "9.7"]
+[White "8) Najdorf Type I"]
+[Black "Grischuk vs. Zhong #5"]
+[Result "*"]
+[FEN "2rr2k1/1pq1b1p1/p1Pp1n2/P2Ppp1n/1P5p/4BP2/3QB1PP/R1NR3K b - - 0 22"]
+
+22... bxc6 23. Bxa6 $1 Nxd5 24. Bc4 { White wins. } Nf6 ( { Or } 24... Qb8 25. b5 ) 
+25. Bb6 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725257/"]
+[Date "????.??.??"]
+[Round "9.8"]
+[White "8) Najdorf Type I"]
+[Black "Grischuk vs. Zhong #6"]
+[Result "*"]
+[FEN "2rb1rk1/5qp1/P1Bp1n2/3P3n/4pp1p/5P2/3Q1BPP/R1NR3K w - - 0 29"]
+
+29. fxe4 $2 Nxe4 { And suddenly White is lost. } 30. Qe1 Qf5 31. Ra3 Nhg3+ 32. Kg1 h3 33. a7 Nxf2 34. Qxf2 Bb6 $1 { A nice finish! } 35. Qxb6 Qc2 { With forced checkmate. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725258/"]
+[Date "????.??.??"]
+[Round "9.9"]
+[White "8) Najdorf Type I"]
+[Black "Grischuk vs. Zhong #7"]
+[Result "*"]
+[FEN "2rb1rk1/5qp1/P1Bp1n2/3Pp2n/5p1p/5P2/3Q1BPP/R1NR3K b - - 0 28"]
+
+28... e4 29. a7 $1 Ng3+ $5 { Keeping the game complicated. } ( { The attack is over after: } 29... e3 $6 30. Bxe3 fxe3 31. Qxe3 $18 ) 
+30. Bxg3 $1 { The only move. } ( { Instead the alternative } 30. hxg3 $2 hxg3 31. a8=Q $11 Rxa8 32. Rxa8 Qh5 33. Kg1 exf3 { is simply losing for White. For example, } 34. gxf3 Ne4 $1 35. fxe4 Qh2 36. Kf1 f3 37. Bxg3 Qh1 $1 38. Kf2 Bb6 ) 
+hxg3 ( { Interesting is } 30... fxg3 $5 { since the tempting } 31. a8=Q $2 { spoils the game after } Rxa8 32. Rxa8 exf3 33. Rxd8 Rxd8 34. gxf3 Ng4 $1 { with complications. } ) 
+ ( { Instead } 30... fxg3 { should be met by } 31. Qf4 $1 { winning, as the attack is over. } ) 
+31. Qxf4 Qh5 32. h3 exf3 33. Qxf3 Ne4 $5 { A very funny resource! } 34. Qxh5 Nf2+ 35. Kg1 Bb6 { It might seem like Black’s strategy worked, but... } 36. Kf1 $1 { It only looks scary, but in fact White is winning. } ( { But not: } 36. a8=Q $4 Nxd1 37. Kh1 Rf1 ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551055/"]
+[Date "????.??.??"]
+[Round "9.10"]
+[White "8) Najdorf Type I"]
+[Black "Viktor Bologan vs. Baris Esen"]
+[Result "1-0"]
+
+ { Viktor Bologan – Baris Esen, Konya 2012 Learning objective: This game illustrates how White may combine his queenside expansion with kingside threats. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3 h5 9. Qd2 Nbd7 10. Nd5 Bxd5 11. exd5 { We reach the thematic structure with a standard theoretical position. There are over 150 games with this position, and both players stay within the theory for several more moves. } g6 12. Be2 Bg7 13. Na5 Qc7 14. c4 b6 $6 { This is a standard idea, but after studying this game I believe White’s queenside plans are just stronger than Black’s kingside counterplay. } ( { I would recommend } 14... e4 $5 15. f4 $6 ( { preferable is } 14... b6 14. O-O exf3 16. Bxf3 { with approximately level chances } ) 
+Ng4 16. Bxg4 hxg4 17. O-O f5 { when Black had a good position in Mamedov – Korobov, Moscow 2011. } ) 
+15. Nc6 Nb8 { Offering a favourable knight trade. } 16. Nb4 { This knight will be essential in White’s queenside plans, hence it should stay on the board. } ( { But not } 16. Nxb8 $6 Rxb8 17. O-O O-O 18. Rac1 ( { or } 18. b4 e4 ) 
+a5 { (a key move, preventing b2-b4) } 19. b3 Nd7 { when Black had a comfortable position in Hajnal – Papp, Hungary 2008. } ) 
+Nbd7 17. O-O O-O 18. Rac1 ( { PH: Inspired by modern computers, current players would consider something like } 18. g4 $5 { , when after } hxg4 19. fxg4 { the g4-pawn controls Black from carrying out the desirable ...f5 break. Black might try } e4 { , as the desirable } 19. f4 { would leave the g4-pawn hanging, but after } 19. gxh5 $14 { White is doing well. } ) 
+Nc5 ( { If } 18... Nh7 { , trying to accelerate kingside play, then: } 19. Nc6 f5 ( 19... Nb8 $2 { no longer works, on account of } 20. Nxb8 Raxb8 21. b4 $1 Rfe8 22. c5 $16 { as White is breaking on the queenside far too quickly } ) 
+20. b4 Rae8 21. Bd1 $5 { ± This is similar to the game; White’s chances are much better, as he has strong plans on both flanks. } ) 
+ ( { Alternatively, trying to open lines with } 18... e4 { can be met by } 19. f4 $1 { since there is no time for } Ng4 $6 20. Bxg4 hxg4 { because of } 21. f5 $1 { with advantage. } ) 
+19. Nc2 a5 { Preventing b2-b4. } ( 19... e4 { is met by } 20. f4 $1 { keeping the e4-square unavailable to Black’s knights, and threatening f4-f5 } ( 19... a5 19. Nd4 $5 { is also worth considering } ) 
+Ng4 21. Bd4 Bxd4 22. Nxd4 Qe7 ( { but not } 22... f5 $2 23. b4 Nd7 24. Ne6 { and wins } ) 
+23. Bxg4 hxg4 24. f5 $1 { ± with a strong attack. } ) 
+ ( { If } 19... Rae8 20. b4 Ncd7 21. Na1 $5 { (planning Nb3 and c4-c5) } a5 $5 ( { if Black tries } 21... h4 22. Nb3 Nh5 { then } 23. c5 $1 { ± and the queenside collapses } ) 
+22. bxa5 bxa5 23. Nc2 $14 { followed by Na3-b5. } ) 
+20. Na3 $14 { Surprisingly, this advanced position has occurred in no fewer than five games (White scored 80%) . This is an indication of how typical, and how strong, this knight manoeuvre is. } Nh7 $6 ( { More accurate was } 20... h4 $5 21. Nb5 Qe7 22. Bd1 Nh5 23. b3 f5 24. a3 h3 $1 { allowing Black to continue fighting, though White’s position was still preferable in Goloshchapov – Anisimov, Russia 2006. } ) 
+ ( { PH: Flores Rios suggests } 20... h4 { , but White can go for this pawn with } 21. Qe1 h3 22. g4 $1 { , and } e4 { can be met by } 23. f4 { when White keep things under control. } ) 
+21. Nb5 Qe7 22. b3 f5 ( 22... e4 { does not work well after } 23. Bf4 $1 Be5 24. Bxe5 Qxe5 25. f4 $1 Qe7 26. f5 $16 { creating a kingside attack and isolating the e4-pawn. } ) 
+23. Bd1 $1 { The right plan. } Bf6 ( { The try } 23... e4 $6 { is met by } 24. Bc2 exf3 25. gxf3 $1 { when only White benefits from the opening of new lines, for example } Rfe8 26. Rce1 Qd7 27. Kh1 { followed by Rg1 with a near decisive advantage. } ) 
+ ( { Whereas the attempt } 23... f4 { , hoping to play 24...e4 , is met by } 24. Bxc5 $1 bxc5 25. Bc2 $16 { preventing } e5-e4 { and obtaining a big advantage due to the control of the light squares and Black’s bad bishop. } ) 
+24. Bc2 $16 { The reader should pay close attention to how powerful White’s light-squared bishop is in this position. This bishop not only neutralizes Black’s plans on the kingside, but also creates the potential threat g2-g4 blowing up the f5-g6-h5 pawn barrier. } Rad8 25. Rce1 Ng5 26. a3 Nf7 $2 { The decisive mistake. } ( { A better defence was } 26... Ra8 { but after } 27. Nxd6 $5 ( { another option is } 26... Nf7 26. Kh1 { preparing the strong g2-g4 break } ) 
+Nxf3 ( { or } 27... Qxd6 28. Bxg5 $18 ) 
+28. gxf3 Qxd6 29. Kh1 $16 { Black is under serious pressure down the g-file. } ) 
+27. b4 axb4 ( { Or } 27... Nd7 28. Na7 Ra8 29. Nc6 Qe8 30. g4 $1 { +- which is similar to the game. } ) 
+28. axb4 Nd7 29. Na7 Ra8 ( 29... Qe8 30. Nc6 Ra8 { transposes to the game. } ) 
+30. Nc6 Qe8 31. g4 $1 { +- Successfully breaking through Black’s kingside pawn structure. } Ra2 ( { If } 31... hxg4 32. fxg4 f4 33. Bxf4 $1 { winning a pawn because of the pin down the e-file. } ) 
+32. gxf5 g5 { Black attempts to build a fortress, but the game is lost beyond repair. The rest is simple and somewhat irrelevant, hence I leave it without much comment. } 33. Qd1 Kh7 34. Bb1 Ra8 35. Kh1 Rg8 36. Rg1 Rg7 37. Rg2 Qc8 38. h4 $1 { Opening up the position! } gxh4 39. Rg6 ( { Better was } 39. Rxg7 $1 Kxg7 40. Rg1 Kf8 41. Qd2 { winning on the spot due to the threat of Bh6 . } ) 
+Qa6 40. Reg1 Kh8 41. f4 Rh7 42. Qe2 h3 43. fxe5 dxe5 44. Bc1 Re8 45. Bb2 Qc8 46. Qe3 Qc7 47. Be4 Qd6 48. Bc1 Qf8 49. Qxh3 { Black’s position falls apart little by little. } Nd6 50. Bd3 Ra8 51. Bb2 Nf7 52. Qg3 Re8 53. Re1 Bg7 54. Re6 Bf6 55. Rg1 Rg7 56. Qh2 Ng5 57. Be2 Rh7 58. Rxg5 Bxg5 59. Nxe5 { The fortress is finally destroyed. } Rxe6 60. Nxd7+ Kg8 61. Nxf8 { Final remarks 1. Special attention should be played to the notes to Black’s moves 16 and 18. The essential element in trading those knights is whether Black will be able to play ...a6-a5 preventing b2-b4. If that is the case, then Black will generally do well since the queenside play loses most of its strength. 2. The bishop transfer Bd1-c2 followed by the kingside break g2-g4 is extremely powerful. 3. After analyzing this position one might be left with the impression that Black’s kingside play is not really going anywhere if White knows his way around. In the game this was true, but Black could certainly have improved his chances with the safer 14... e4 as suggested above. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725279/"]
+[Date "????.??.??"]
+[Round "9.11"]
+[White "8) Najdorf Type I"]
+[Black "Bologan vs. Esen #1"]
+[Result "*"]
+[FEN "r3k2r/1pqn1pb1/p2p1np1/N2Pp2p/8/4BP2/PPPQB1PP/R3K2R w KQkq - 0 14"]
+
+14. c4 e4 $5 15. f4 $6 ( { Preferable is } 15. O-O exf3 16. Bxf3 { with approximately level chances. } ) 
+Ng4 16. Bxg4 hxg4 17. O-O f5 { When Black had a good position in Mamedov – Korobov, Moscow 2011. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2829145/"]
+[Date "????.??.??"]
+[Round "9.12"]
+[White "8) Najdorf Type I"]
+[Black "Bologan vs. Esen #2"]
+[Result "*"]
+[FEN "r3k2r/2qn1pb1/pp1p1np1/N2Pp2p/2P5/4BP2/PP1QB1PP/R3K2R w KQkq - 0 15"]
+
+15. Nc6 Nb8 { Offering a favourable knight trade. } 16. Nb4 { This knight will be essential in White's queenside plans, hence it should stay on the board. } ( { But not } 16. Nxb8 $6 Rxb8 17. O-O O-O 18. Rac1 ( { Or } 18. b4 e4 ) 
+a5 { (a key move, preventing b2-b4) } 19. b3 Nd7 { when Black had a comfortable position in Hajnal Papp, Hungary 2008. } ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725301/"]
+[Date "????.??.??"]
+[Round "9.13"]
+[White "8) Najdorf Type I"]
+[Black "Bologan vs. Esen #3"]
+[Result "*"]
+[FEN "r4rk1/2qn1pb1/pp1p1np1/3Pp2p/1NP5/4BP2/PP1QB1PP/2R2RK1 b - - 0 18"]
+
+18... Nh7 { If ...Nh7, trying to accelerate kingside play, then... } 19. Nc6 f5 ( 19... Nb8 $2 { no longer works, on account of } 20. Nxb8 Raxb8 21. b4 Rfe8 22. c5 { as White is breaking on the queenside far too quickly } ) 
+20. b4 Rae8 21. Bd1 $5 { This is similar to the game; White's chances are much better, as he has strong plans on both flanks. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725307/"]
+[Date "????.??.??"]
+[Round "9.14"]
+[White "8) Najdorf Type I"]
+[Black "Bologan vs. Esen #4"]
+[Result "*"]
+[FEN "r4rk1/2qn1pb1/pp1p1np1/3Pp2p/1NP5/4BP2/PP1QB1PP/2R2RK1 b - - 0 18"]
+
+18... e4 { Alternatively, trying to open lines with ...e4 can be met by f4! } 19. f4 $1 Ng4 $11 20. Bxg4 hxg4 21. f5 $1 { With advantage. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725308/"]
+[Date "????.??.??"]
+[Round "9.15"]
+[White "8) Najdorf Type I"]
+[Black "Bologan vs. Esen #5"]
+[Result "*"]
+[FEN "r4rk1/4qpbn/1p1p2p1/pNnPp2p/2P5/1P2BP2/P2QB1PP/2R2RK1 b - - 0 22"]
+
+22... f5 23. Bd1 $1 { The right plan. } Bf6 ( { The try } 23... e4 $6 { is met by } 24. Bc2 exf3 25. gxf3 $1 { when only White benefits from the opening of new lines, for example } Rfe8 26. Rce1 Qd7 27. Kh1 { followed by Rg1 with a near decisive advantage. } ) 
+ ( { Whereas the attempt } 23... f4 { , hoping to play 24... e4, is met by } 24. Bxc5 $1 bxc5 25. Bc2 $16 { preventing ...e5-e4 and obtaining a big advantage due to the control of the light squares and Black’s bad bishop. } ) 
+24. Bc2 { The reader should pay close attention to how powerful White’s light-squared bishop is in this position. This bishop not only neutralizes Black’s plans on the kingside, but also creates the potential threat g2-g4 blowing up the f5-g6-h5 pawn barrier. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725310/"]
+[Date "????.??.??"]
+[Round "9.16"]
+[White "8) Najdorf Type I"]
+[Black "Bologan vs. Esen #6"]
+[Result "*"]
+[FEN "3r1rk1/4q3/1p1p1bp1/pNnPppnp/2P5/PP2BP2/2BQ2PP/4RRK1 b - - 0 26"]
+
+26... Nf7 27. b4 axb4 ( { Or } 27... Nd7 28. Na7 Ra8 29. Nc6 Qe8 30. g4 $1 { +- which is similar to the game. } ) 
+28. axb4 Nd7 29. Na7 Ra8 ( 29... Qe8 30. Nc6 Ra8 { transposes to the game. } ) 
+30. Nc6 Qe8 31. g4 $1 { +- Successfully breaking through Black’s kingside pawn structure. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725311/"]
+[Date "????.??.??"]
+[Round "9.17"]
+[White "8) Najdorf Type I"]
+[Black "Bologan vs. Esen #7"]
+[Result "*"]
+[FEN "r1q5/3n1nrk/1pNp1b2/3PpPpp/1PP4P/4BP2/6R1/1B1QR2K b - - 0 38"]
+
+38... gxh4 39. Rxg7+ $1 Kxg7 40. Rg1+ Kf8 41. Qd2 { Winning on the spot due to the threat of Bh6. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551063/"]
+[Date "????.??.??"]
+[Round "9.18"]
+[White "8) Najdorf Type I"]
+[Black "Mauricio Flores Rios vs. Neuris Delgado Ramirez"]
+[Result "1-0"]
+
+ { Mauricio Flores Rios – Neuris Delgado, American Continental Championship 2009 Learning objective: This game is an interesting example of Black’s kingside attack against White’s passed central pawns. } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f3 e5 7. Nb3 Be7 8. Be3 O-O 9. Qd2 Be6 10. Nd5 Bxd5 11. exd5 Nb8 { We have reached the thematic position. White will try to expand on the queenside with the usual c2-c4-c5. } 12. Be2 Nbd7 13. Na5 { Opening the way for b2-b4. } Qc7 14. c4 $5 ( { Similar is: } 14. O-O Bd8 $1 15. b4 ( { of course, returning with the knight would be inconsistent: } 15. Nb3 $6 Nb6 $1 16. Bxb6 Qxb6 17. Kh1 a5 $15 ) 
+Qb8 $1 { Threatening ...Bxa5 destroying White’s queenside structure. } 16. Nb3 Bb6 $11 { Trading dark-squared bishops ensures a good position for Black, as in the game Cubas – Delgado Ramirez, Asuncion 2010. } ) 
+Nh5 $5 { This ambitious move is typical, opening the way for ...f7-f5. The resulting position is objectively preferable for White, but rather complicated in a practical game. } ( { Simpler and somewhat preferable was } 14... Bd8 $5 15. b4 Qc8 16. Nb3 Bb6 ( 16... b6 $5 ) 
+ { trading dark-squared bishops with level chances in Kernazhitsky – Chernyshov, Zalakaros 2005, since after } 17. c5 dxc5 18. Rc1 { then simply } c4 $1 { ⩱. } ) 
+15. b4 $1 { A precise move order. } ( { Weaker is } 15. O-O Nf4 16. b4 ( { but not } 16. Bd1 $6 { because of } Bd8 $1 17. b4 Qc8 18. Nb3 Qxc4 ) 
+Nxe2 17. Qxe2 f5 { with level chances. } ) 
+f5 ( { White is ready to meet } 15... Nf4 { with } 16. Bd1 $1 { . It is a good idea to keep this bishop on the board, for example after } f5 17. Rc1 Rf7 18. O-O { ± Black is in trouble, due to the threat of Bb3 followed by c4-c5. } ) 
+16. O-O Rf6 $6 { This plan is interesting but somewhat too slow. } ( { An alternative was } 16... Rae8 17. Rac1 b6 18. Nc6 Bh4 { with a complicated position. } ) 
+17. Rfd1 Rg6 18. Rac1 { Preparing a c4-c5 break. } b6 { During the game I thought at first that this was an excellent decision, as I had to decide between passively going back to b3, or placing my knight on c6. I was unsure if the knight on c6 would be useful at all, but fortunately for me, I found a tactical resource to refute Black’s plan. } ( { An alternative was } 18... Nf4 19. Bxf4 exf4 20. Kh1 $16 { when Black is likely to lose a pawn on the kingside, but there is some counterplay associated with the control of the dark squares. } ) 
+ ( { If Black simply waits with } 18... Rf8 $6 { then } 19. c5 $1 { opens the queenside favourably. } ) 
+19. Nc6 $1 { The key to this move becomes clear in the next two moves. } ( { Incorrect is } 19. Nb3 $2 { Since c4-c5 is no longer strong, and Black may develop a strong kingside initiative, such as: } Qd8 ( { Another option is: } 19. Nc6 Rf8 $5 ) 
+20. Kh1 ( { Or } 20. Bd3 e4 $1 21. fxe4 f4 22. Bd4 f3 { with attacking chances for Black. } ) 
+Bh4 21. Bd3 e4 22. fxe4 f4 { There is nothing better than giving up the exchange with: } 23. Bxf4 ( { Bad is } 23. Bd4 $2 f3 $1 { with a winning attack, since } 24. gxf3 $6 { loses to } Ng3 $3 25. hxg3 Bxg3 { followed by ...Qh4 deciding the game. } ) 
+Nxf4 24. Qxf4 Bg5 25. Qf2 Bxc1 26. Rxc1 Ne5 $15 ) 
+Bh4 20. Bd3 Rf8 ( { The alternative was } 20... f4 21. Bf2 Bxf2 22. Qxf2 $16 { followed by a2-a4-a5 with very good prospects. } ) 
+21. Qc2 $1 { Unexpectedly winning a pawn, since f5 cannot be protected. } e4 $1 { A good decision: Black has to give up a pawn, but does it in the form of a typical sacrifice obtaining some compensation. } ( { But not } 21... Rgf6 $2 22. Ne7 { . This is the point of White’s 19th move, which was probably missed by Black: } Kh8 23. Nxf5 { Winning even more material. } ) 
+22. fxe4 $2 { Certainly not the right way to make use of the advantage, as it allows Black good compensation. } ( 22. Be2 $1 { was accurate, forcing material gain under better circumstances: } f4 ( { if } 22. fxe4 exf3 $2 23. Bxf3 Bg5 24. Bxg5 Rxg5 25. h4 $1 { +- } ) 
+23. Qxe4 $1 { I missed this move, when White should be winning, though Black retains some practical chances. If } fxe3 24. Qxh4 Nf4 { , then the intermezzo } 25. Ne7 { saves the day: } Kh8 26. Nxg6 { or } Kf7 26. Qxf4 { . } ) 
+f4 { The reader should be familiar with this type of pawn sacrifice; Black gives up a pawn, but gains space on the kingside, as well as the e5-square for a knight. Chances are balanced again. } 23. Bf2 ( { Or } 23. Bd4 f3 { with a dangerous attack. } ) 
+f3 24. g3 Ne5 $1 { A precise move order. } ( { Weaker is: } 24... Nxg3 $6 25. Bxg3 $1 ( { but not } 24... Ne5 24. hxg3 $6 Ne5 26. Nxe5 dxe5 27. Kf1 Bxg3 28. Bxg3 Rxg3 { with reasonable compensation for the piece } ) 
+Ne5 ( { but not } 25... Bxg3 $2 26. Ne7 $18 ) 
+26. Nxe5 dxe5 27. Kf2 { White should be winning with precise play, though Black still has some practical chances with } Qd8 $5 { . For example } 28. c5 $2 ( { better is } 27... Ne5 27. Rg1 $16 ) 
+Bxg3 29. hxg3 Rxg3 $1 30. Kxg3 Qg5 $11 { forcing a perpetual check, since } 31. Kh2 $2 ( 30... Ne5 30. Kf2 $11 ) 
+ { loses to } Rf4 { with forced mate. } ) 
+25. Nxe5 dxe5 { The reader should examine this critical position carefully. Black has employed a pawn sacrifice which is typical of this structure, and now White’s position seems to be on the verge of losing, on account of potential piece sacrifices on g3, followed by a mating attack. When I reached this position however, I was somewhat optimistic, since I had calculated: } 26. Kf1 $1 { Which is apparently the only move, and the beginning of an interesting idea. I decided to bring the king to a safer place, even at the cost of material, to be able subsequently to push the c- and d-pawns decisively. } ( { Instead, attempting to consolidate the kingside with } 26. Bf1 $2 { fails to } Qd8 27. c5 Nxg3 $1 { with a decisive attack: } 28. hxg3 Bxg3 29. Bxg3 Rxg3 30. Kf2 ( { or } 30. Kh1 f2 { with forced checkmate } ) 
+Qh4 { White cannot escape. For example: } 31. Ke3 f2 $1 32. Ke2 Qg4 33. Kd2 Qf4 34. Ke2 Qe3 ) 
+ ( { Similar is } 26. c5 $2 Bxg3 $1 27. hxg3 Nxg3 28. Bxg3 Rxg3 29. Kf1 Qd8 $1 { followed by ...Qg5 winning. } Qd7 { also works. } ) 
+Bg5 { Preparing the ...Qd7-h3 invasion. } ( { Of course not } 26... Qd7 $2 27. gxh4 { . } ) 
+ ( { The piece sacrifice } 26... Nxg3 $5 { is still possible: } 27. hxg3 { and now } Bxg3 ( { or } 27... Rxg3 $5 { with unclear position } ) 
+ { leads to a draw after the forced line: } 28. Bxg3 Rxg3 29. Qh2 $1 Rg2 30. Qh3 Qd8 $1 31. Rc2 Qg5 32. Rxg2 fxg2 33. Kg1 Qf4 34. Kxg2 Rf6 { Black’s attack could be dangerous, therefore White should choose: } 35. Qc8 $1 Kf7 36. Qd7 Kf8 ( { but not } 36... Kg6 $2 37. Rg1 $1 { +- } ) 
+37. Rf1 Rg6 38. Kh1 Rh6 39. Kg2 Rg6 { A very nice perpetual check. } ) 
+27. Ke1 $1 { A prophylactic move, freeing the f1-square in order to reply to 27... Qd7 with 28. Bf1 preventing the deadly invasion on h3. } ( { Instead, the natural } 27. Rb1 $2 { allows } Qc8 $1 { when the entry on } 28. h3 { is decisive, for example: } 28. Ke1 Qh3 29. Bg1 f2 $1 { Opening the f-file decisively. } 30. Bxf2 Rgf6 31. Bg1 Rf1 $1 32. Bxf1 Qxf1 ) 
+Qd7 $5 ( { Or } 27... Bxc1 28. Rxc1 { is similar to the game. } ) 
+28. Bf1 { Necessary and effective, keeping Black’s offensive under control. } Nf6 ( { If } 28... Bxc1 29. Rxc1 Nf6 30. c5 { transposes to the note to the next move. } ) 
+29. c5 $1 { Black’s initiative has been neutralized, and now the pawns start marching. } ( { Again } 29. Rb1 $2 { , keeping the exchange, gives Black some initiative after: } Ng4 $5 ) 
+Ng4 { Creating the threats ...Nxh2, ...Ne3 or ...Be3. } ( { If } 29... Bxc1 30. Rxc1 { White has more than enough compensation for the exchange: } Ng4 ( { or } 30... Rg4 31. Bd3 ) 
+31. c6 Qd6 32. Qb3 $1 { ± Black’s threats have come to a stop, while the passed pawns are very strong. } ) 
+30. d6 { One more step toward promotion; the threat is c5-c6-c7 nearly winning. In addition, this move creates the possible check Qb3, protecting the e3-square against ...Be3 or ...Ne3. } ( { PH: } 30. c6 $1 { would have won an important tempo and given White a technically winning position. } ) 
+bxc5 ( { Necessary was } 30... Nxf2 $1 31. Kxf2 Rh6 32. h4 Qg4 { with a very unclear position. } ) 
+ ( { The capture } 30... Nxh2 $2 { is way too slow: } 31. c6 Qc8 32. c7 { followed by d6-d7 winning. } ) 
+ ( { And of course not: } 30... Be3 $2 31. Bxe3 Nxe3 32. Qb3 Kh8 33. Qxe3 $18 ) 
+31. bxc5 Bxc1 $2 { The decisive mistake. } ( { Again, necessary was } 31... Nxf2 $1 32. Kxf2 Rh6 { with an unclear position. } ) 
+32. c6 $1 { +- A very important intermediate move, after which White is just winning. } Qc8 ( { Or: } 32... Qd8 33. c7 Qd7 34. Rxc1 $18 ) 
+ ( { If } 32... Be3 33. cxd7 Bxf2 34. Qxf2 Nxf2 35. Bc4 $1 Kh8 36. Kxf2 { the endgame is winning with the transfer Bf7-e8. } ) 
+33. Qxc1 { White is an exchange down, but the two pawns on the 6th rank decide the game. } Nxf2 ( { Again there is no time for } 33... Nxh2 { because of: } 34. c7 $1 Qd7 35. Ba6 $18 ) 
+34. Kxf2 Rh6 35. h3 $1 { Black’s threats are completely neutralized, and the rest of the game is just a tactical exhibition. } Qb8 $5 { An interesting resource during time trouble, searching for counterplay with 36...Qb6. } ( 35... Rxh3 $2 { fails to: } 36. d7 Rh2 37. Kg1 Qc7 38. Kxh2 $18 ) 
+36. Qc4+ Kh8 37. Qb5 { Blocking the queen’s invasion. } Qc8 38. Qc5 { An X-ray attack against the rook on f8. } Rg8 39. d7 $1 { This rather paradoxical pawn advance decides the game nicely. Typically, one should push pawns onto squares of the opposite colour to one’s bishop, but here we can make an exception for tactical reasons. } ( 39. c7 $5 { +- would be more conceptual. } ) 
+Qc7 40. d8=Q { This is the motive behind the previous move; Black is now unable to prevent the promotion of the c6-pawn. } Rxd8 41. Rxd8+ Qxd8 42. c7 Qc8 43. Qe7 $1 { Threatening Qd8 with checkmate. } Rf6 ( { If } 43... Re6 { White has the nice variation } 44. Qd8 Re8 45. Qxe8 $1 Qxe8 46. Ba6 { followed by promotion and winning with an extra piece. } ) 
+44. Ba6 $1 ( { A neat final blow. Black resigned since his pieces are overloaded in the defence of the 8th rank: } 44. Ba6 Qg8 45. c8=Q $11 ( { Or } 44. Ba6 Rxa6 45. Qd8 ) 
+ ( { Or } 44. Ba6 Qxa6 45. Qd8 ) 
+ { Final remarks 1. A critical factor during the opening phase was whether Black would be able to exchange pieces, reducing White’s queenside potential. The comments to moves 14 and 15 deserve special attention. 2. Despite some tactical inaccuracies, Black’s kingside potential proved dangerous throughout the game. 3. The reader should remember the typical pawn sacrifice ...e5-e4 followed by ...f5-f4. 4. The most exciting moment in this game is probably when White plays Kf1-e1 giving up the exchange in order to secure his king and continue advancing his central passed pawns. } ) 
+
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725316/"]
+[Date "????.??.??"]
+[Round "9.19"]
+[White "8) Najdorf Type I"]
+[Black "Flores Rios vs. Delgado Ramirez #1"]
+[Result "*"]
+[FEN "r4rk1/ppqnbppp/3p1n2/N2Pp3/8/4BP2/PPPQB1PP/R3K2R w KQ - 0 14"]
+
+14. O-O Bd8 $1 15. b4 ( { Of course, returning with the knight would be inconsistent: } 15. Nb3 Nb6 16. Bxb6 Qxb6 17. Kh1 a5 $15 ) 
+Qb8 { Threatening ...Bxa5 destroying White’s queenside structure. } 16. Nb3 Bb6 $1 { Trading dark-squared bishops ensures a good position for Black, as in the game Cubas – Delgado Ramirez, Asuncion 2010. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725321/"]
+[Date "????.??.??"]
+[Round "9.20"]
+[White "8) Najdorf Type I"]
+[Black "Flores Rios vs. Delgado Ramirez #2"]
+[Result "*"]
+[FEN "r4rk1/ppqnbppp/3p1n2/N2Pp3/2P5/4BP2/PP1QB1PP/R3K2R b KQ - 0 14"]
+
+14... Nh5 15. b4 $1 { A precise move order. } ( { Weaker is } 15. O-O Nf4 16. b4 ( { But not } 16. Bd1 $6 { because of } Bd8 $1 17. b4 Qc8 18. Nb3 Qxc4 ) 
+Nxe2 17. Qxe2 f5 { with level chances. } ) 
+Nf4 { White is ready to meet ...Nf4. } 16. Bd1 $1 { It is a good idea to keep this bishop on the board. } f5 17. Rc1 Rf7 18. O-O $16 { Black is in trouble, due to the threat of Bb3 followed by c4-c5. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2830686/"]
+[Date "????.??.??"]
+[Round "9.21"]
+[White "8) Najdorf Type I"]
+[Black "Flores Rios vs. Delgado Ramirez #3"]
+[Result "*"]
+[FEN "r5k1/ppqnb1pp/3p2r1/N2Ppp1n/1PP5/4BP2/P2QB1PP/2RR2K1 b - - 0 18"]
+
+18... b6 19. Nc6 $1 { The key to this move becomes clear in the next two moves. } ( { Incorrect is } 19. Nb3 $2 { Since c4-c5 is no longer strong, and Black may develop a strong kingside initiative, such as: } Qd8 ( { Another option is: } 19. Nc6 Rf8 $5 ) 
+20. Kh1 ( { Or } 20. Bd3 e4 $1 21. fxe4 f4 22. Bd4 f3 { with attacking chances for Black. } ) 
+Bh4 21. Bd3 e4 22. fxe4 f4 { There is nothing better than giving up the exchange with: } 23. Bxf4 ( { Bad is } 23. Bd4 $2 f3 $1 { with a winning attack, since } 24. gxf3 $6 { loses to } Ng3 25. hxg3 Bxg3 { followed by ...Qh4 deciding the game. } ) 
+Nxf4 24. Qxf4 Bg5 25. Qf2 Bxc1 26. Rxc1 Ne5 $15 ) 
+Bh4 20. Bd3 Rf8 ( { The alternative was } 20... f4 21. Bf2 Bxf2 22. Qxf2 $16 { followed by a2-a4-a5 with very good prospects. } ) 
+21. Qc2 $1 { Unexpectedly winning a pawn, since f5 cannot be protected. } e4 { A good decision: Black has to give up a pawn, but does it in the form of a typical sacrifice obtaining some compensation. } ( { But not } 21... Rgf6 $2 22. Ne7 { . This is the point of Whites 19th move, which was probably missed by Black: } Kh8 23. Nxf5 { Winning even more material. } ) 
+22. Be2 $1 { Accurate, forcing material gain under better circumstances. } f4 ( 22... exf3 $2 23. Bxf3 Bg5 24. Bxg5 Rxg5 25. h4 $1 ) 
+23. Qxe4 $1 { I missed this move, when White should be winning, though Black retains some practical chances. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2725324/"]
+[Date "????.??.??"]
+[Round "9.22"]
+[White "8) Najdorf Type I"]
+[Black "Flores Rios vs. Delgado Ramirez #4"]
+[Result "*"]
+[FEN "5rk1/p1qn2pp/1pNp2r1/3Ppp1n/1PP4b/3BBP2/P2Q2PP/2RR2K1 w - - 0 21"]
+
+21. Qc2 e4 $1 22. fxe4 $2 { Certainly not the right way to make use of the advantage, as it allows Black good compensation. } ( 22. Be2 $1 { was accurate, forcing material gain under better circumstances: } f4 ( { If } 22. fxe4 exf3 $2 23. Bxf3 Bg5 24. Bxg5 Rxg5 25. h4 $1 { +- } ) 
+23. Qxe4 $1 { I missed this move, when White should be winning, though Black retains some practical chances. } ) 
+f4 { The reader should be familiar with this type of pawn sacrifice; Black gives up a pawn, but gains space on the kingside, as well as the e5-square for a knight. Chances are balanced again. } 23. Bf2 ( { Or } 23. Bd4 f3 { with a dangerous attack. } ) 
+f3 24. g3 Ne5 $1 { A precise move order. } ( { Weaker is: } 24... Nxg3 $6 25. Bxg3 $1 ( { But not } 24... Ne5 24. hxg3 $6 Ne5 26. Nxe5 dxe5 27. Kf1 Bxg3 28. Bxg3 Rxg3 { with reasonable compensation for the piece. } ) 
+Ne5 ( { But not } 25... Bxg3 $2 26. Ne7 $18 ) 
+26. Nxe5 dxe5 27. Kf2 { White should be winning with precise play, though Black still has some practical chances with } Qd8 $5 { . For example } 28. c5 $2 ( { Better is } 27... Ne5 27. Rg1 $16 ) 
+Bxg3 29. hxg3 Rxg3 $1 30. Kxg3 Qg5 $11 { forcing a perpetual check, since } 31. Kh2 $2 ( 30... Ne5 30. Kf2 $11 ) 
+ { loses to } Rf4 { with forced mate. } ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2737618/"]
+[Date "????.??.??"]
+[Round "9.23"]
+[White "8) Najdorf Type I"]
+[Black "Flores Rios vs. Delgado Ramirez #5"]
+[Result "*"]
+[FEN "5rk1/p1q3pp/1p1p2r1/3PN2n/1PP1P2b/3B1pP1/P1Q2B1P/2RR2K1 b - - 0 25"]
+
+25... dxe5 { The reader should examine this critical position carefully. Black has employed a pawn sacrifice which is typical of this structure, and now White’s position seems to be on the verge of losing, on account of potential piece sacrifices on g3, followed by a mating attack. When I reached this position however, I was somewhat optimistic, since I had calculated: } 26. Kf1 $1 { Which is apparently the only move, and the beginning of an interesting idea. I decided to bring the king to a safer place, even at the cost of material, to be able subsequently to push the c- and d-pawns decisively. } ( { Instead, attempting to consolidate the kingside with } 26. Bf1 $2 { fails to } Qd8 27. c5 Nxg3 $1 { with a decisive attack: } 28. hxg3 Bxg3 29. Bxg3 Rxg3 30. Kf2 ( { or } 30. Kh1 f2 { with forced checkmate } ) 
+Qh4 { White cannot escape. For example: } 31. Ke3 f2 $1 32. Ke2 Qg4 33. Kd2 Qf4 34. Ke2 Qe3 ) 
+ ( { Similar is } 26. c5 $2 Bxg3 $1 27. hxg3 Nxg3 28. Bxg3 Rxg3 29. Kf1 Qd8 $1 { followed by ...Qg5 winning. } ) 
+Bg5 { Preparing the ...Qd7-h3 invasion. } ( { Of course not } 26... Qd7 $2 27. gxh4 { . } ) 
+ ( { The piece sacrifice } 26... Nxg3 $5 { is still possible: } 27. hxg3 { and now } Bxg3 ( { or } 27... Rxg3 $5 { with unclear position } ) 
+ { leads to a draw after the forced line: } 28. Bxg3 Rxg3 29. Qh2 $1 Rg2 30. Qh3 Qd8 $1 31. Rc2 Qg5 32. Rxg2 fxg2 33. Kg1 Qf4 34. Kxg2 Rf6 { Black’s attack could be dangerous, therefore White should choose: } 35. Qc8 $1 Kf7 36. Qd7 Kf8 ( { but not } 36... Kg6 $2 37. Rg1 $1 { +- } ) 
+37. Rf1 Rg6 38. Kh1 Rh6 39. Kg2 Rg6 { A very nice perpetual check. } ) 
+27. Ke1 $1 { A prophylactic move, freeing the f1-square in order to reply to 27... Qd7 with 28. Bf1 preventing the deadly invasion on h3. } ( { Instead, the natural } 27. Rb1 $2 { allows } Qc8 $1 { when the entry on } 28. h3 { is decisive, for example: } 28. Ke1 Qh3 29. Bg1 f2 $1 { Opening the f-file decisively. } 30. Bxf2 Rgf6 31. Bg1 Rf1 $1 32. Bxf1 Qxf1 ) 
+Qd7 $5 ( { Or } 27... Bxc1 28. Rxc1 { is similar to the game. } ) 
+28. Bf1 { Necessary and effective, keeping Black’s offensive under control. } Nf6 ( { If } 28... Bxc1 29. Rxc1 Nf6 30. c5 { transposes to the note to the next move. } ) 
+29. c5 $1 { Black’s initiative has been neutralized, and now the pawns start marching. } ( { Again } 29. Rb1 $2 { , keeping the exchange, gives Black some initiative after: } Ng4 $5 ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2737621/"]
+[Date "????.??.??"]
+[Round "9.24"]
+[White "8) Najdorf Type I"]
+[Black "Flores Rios vs. Delgado Ramirez #6"]
+[Result "*"]
+[FEN "5rk1/p2q2pp/1p4r1/2PPp1b1/1P2P1n1/5pP1/P1Q2B1P/2RRKB2 w - - 0 30"]
+
+30. d6 Nxf2 $1 { Necessary. } 31. Kxf2 Rh6 32. h4 Qg4 { With a very unclear position. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2737624/"]
+[Date "????.??.??"]
+[Round "9.25"]
+[White "8) Najdorf Type I"]
+[Black "Flores Rios vs. Delgado Ramirez #7"]
+[Result "*"]
+[FEN "5rk1/p2q2pp/3P2r1/2P1p1b1/4P1n1/5pP1/P1Q2B1P/2RRKB2 b - - 0 31"]
+
+31... Bxc1 $2 { The decisive mistake. } ( { Again, necessary was } 31... Nxf2 $1 32. Kxf2 Rh6 { with an unclear position. } ) 
+32. c6 $1 { +- A very important intermediate move, after which White is just winning. } Qc8 ( { Or: } 32... Qd8 33. c7 Qd7 34. Rxc1 $18 ) 
+ ( { If } 32... Be3 33. cxd7 Bxf2 34. Qxf2 Nxf2 35. Bc4 $1 Kh8 36. Kxf2 { the endgame is winning with the transfer Bf7-e8. } ) 
+33. Qxc1 { White is an exchange down, but the two pawns on the 6th rank decide the game. } Nxf2 ( { Again there is no time for } 33... Nxh2 { because of: } 34. c7 $1 Qd7 35. Ba6 $18 ) 
+34. Kxf2 Rh6 35. h3 $1 { Black’s threats are completely neutralized, and the rest of the game is just a tactical exhibition. } Qb8 $5 { An interesting resource during time trouble, searching for counterplay with 36...Qb6. } ( 35... Rxh3 $2 { fails to: } 36. d7 Rh2 37. Kg1 Qc7 38. Kxh2 $18 ) 
+36. Qc4+ Kh8 37. Qb5 { Blocking the queen’s invasion. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551065/"]
+[Date "????.??.??"]
+[Round "9.26"]
+[White "8) Najdorf Type I"]
+[Black "Judit Polgar vs. Leinier Dominguez Perez"]
+[Result "0-1"]
+
+ { Judit Polgar – Leinier Dominguez Perez, FIDE World Cup, Khanty-Mansiysk 2011 Learning objective: This game illustrates the difference in quality and potential between White’s bad light-squared bishop, and Black’s ‘bad’ dark-squared bishop. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4 O-O 9. O-O Qc7 10. Bb3 Be6 11. Qe2 Rc8 12. Rfd1 b5 13. Bg5 Nbd7 14. Rac1 b4 15. Nd5 Bxd5 16. Bxf6 Nxf6 17. exd5 $2 { A very questionable positional decision. } ( { Better was } 17. Bxd5 Nxd5 18. Rxd5 Qc4 $5 19. Qxc4 Rxc4 20. Nd2 Rc6 { when Black has only a microscopic advantage after } 21. c4 $1 { . } ) 
+ { The reader should study this position carefully, as it is essential for the understanding of the chapter. As we have studied in the previous games, White’s plan is to accomplish an expansion on the queenside with the usual b2-b4, c2-c4-c5; we know this is not going to happen in this game. Still, it is possible for White to open the queenside with c2-c3, but is this really going to help? The answer is no. There is a bigger factor hiding in the positional background and the reader should learn this once and forever. White’s biggest problem is the qualitative difference between the bishops. Although both bishops are momentarily blocked, only Black’s bishop has active prospects, either on the diagonal a1-h8, or the diagonal g1-a7. Meanwhile, White’s bishop will be a spectator throughout the entire game. It is not uncommon for players of the white pieces (even at the top level) to go into this kind of position without seriously accounting for this problem, and this game is a wonderful illustration of how to convert Black’s positional advantage into a full point. } Qd7 $1 { ⩱ Covering the a4-square, and so preventing White from improving her bishop with Ba4-c6. } 18. Bc4 Qa7 { The manoeuvre ...Qd7-a7 has prevented White’s bishop from moving to c6. Note that this bishop will not move again (or do anything) for the rest of the game. } ( { Another option was } 18... Rc5 $5 { since } 19. Bxa6 $2 Nxd5 $17 { gives Black a big advantage due to his central control. } ) 
+19. c3 ( { If White insists with } 19. Bb3 { , intending to follow with Ba4-c6, then } Rc5 { pressures the d5-pawn, preventing the manoeuvre } ( { or } 19. c3 Qd7 $5 20. Bc4 Rc5 { as explained above. } ) 
+ ) 
+ ( { Even } 19. c3 Bd8 { is very good for Black. } ) 
+bxc3 20. Rxc3 Bd8 { Transferring the bishop to b6 where it will exert strong pressure on f2. } 21. Ng5 $6 { Polgar does not like passive defence, and prefers to embark on a questionable attack. } ( { More natural was } 21. Rdc1 { but Black can slowly improve his position: } Rab8 22. R3c2 a5 23. b3 a4 $15 ) 
+ ( { Another option is } 21. Nd2 Rab8 22. b3 ( { but not } 22. Bxa6 $2 Rxc3 23. bxc3 Nxd5 $17 ) 
+a5 23. Rdc1 Bb6 24. Rf3 { threatening Rxf6 with counterplay, but after } Qe7 { White cannot solve her problems. For example: } 25. Ne4 Nxe4 26. Qxe4 g6 $15 { followed by ...f7-f5 , and note that the optimistic } 27. g4 $2 { intending to prevent } f7-f5 { is refuted by 27...f5! since } 28. gxf5 $2 { loses the rook to } Qg5 { . } ) 
+a5 22. Rf3 $6 { The position is not well-suited for kingside operations, and Black easily neutralizes any possible threats. Nevertheless, it is difficult to suggest a better approach. } ( { Trading knights with } 22. Ne4 Nxe4 23. Qxe4 { is similar to the game: } Rab8 24. b3 ( { or } 24. Rc2 a4 $15 ) 
+a4 $15 ) 
+ ( { A worthy alternative was } 22. a4 $5 { preventing Black from playing ...a5-a4 , though after } Bb6 23. Rf3 Qe7 24. b3 g6 $15 { Black progresses slowly with ...Bc5 , ...Rab8 and later a kingside expansion with ...f7-f5 and ...e5-e4 . } ) 
+Qe7 23. b3 $6 { This move makes it easier for Black to carry out a desirable break. } ( { A better option was } 23. Ne4 { , though after } Nxe4 24. Qxe4 Rab8 25. Qe2 g6 $15 { Black enjoys a pleasing positional edge due to his much better bishop and his chances to expand with ...f7-f5 . } ) 
+a4 $1 { ∓ Logical and very strong, as it opens the a-file for Black’s rook, and forces the creation of a weak b3-pawn. } 24. Rh3 ( { If } 24. bxa4 Rxa4 25. Bb5 Rb4 26. Bc6 ( { or } 26. Rb3 Rxb3 27. axb3 e4 $5 { ∓ } ) 
+h6 27. Nh3 Rcb8 { winning because of the invasion down the b-file and the poor coordination of White’s forces. Note how the light-squared bishop is still doing nothing. } ) 
+ ( { If } 24. Ba6 $6 Rc7 25. bxa4 h6 $1 26. Nh3 ( 26. Ne4 $4 Nxe4 27. Qxe4 Rxa6 $19 ) 
+Nxd5 $1 { regaining the pawn with dividends. } ) 
+g6 25. Qc2 axb3 26. axb3 Bb6 ( { Even stronger was the concrete } 26... e4 $1 27. Qe2 Qe5 28. Rg3 Ra1 $1 { threatening ...Rxe1 followed by ...Ra8-a1 } 29. Rxa1 Qxa1 30. Qf1 Qe5 { (threatening ...Nh5) } 31. Qe2 Ra8 { when White’s position is hopeless. } ) 
+27. Rf1 Ng4 { A logical move, but not the strongest. } ( { Even better was } 27... e4 $1 { threatening ...e4-e3 with a winning position, for example: } 28. Kh1 Ng4 $1 29. Nxe4 Rxc4 $3 30. Qxc4 Qxe4 31. Qxe4 Nxf2 $19 { The reader should not be fooled into thinking this is ”just tactics” and Black has been very lucky. All these tactical resources are the result of Black’s strategic superiority, particularly White’s inability to fight for the dark squares. } ) 
+28. Ne4 ( { But not } 28. Nxh7 $2 { due to } Nxf2 $1 { -+ demolishing White’s defence, e.g. } 29. Rxf2 $6 Ra1 { . } ) 
+f5 29. Rg3 Nf6 ( { Even stronger was } 29... Rf8 $1 { keeping the knights on the board: } 30. Nc3 e4 31. Nd1 ( 30... Nf6 30. Nxe4 { is met by } Qe5 $1 { threatening ...Ra1 } 32. Nc3 Nxf2 $1 { -+ } ) 
+Ra1 { White is losing, for example: } 32. Rc3 Qa7 33. h3 Nxf2 $1 34. Nxf2 Ra2 35. Qc1 Bxf2 $19 ) 
+30. Nxf6+ Qxf6 31. Rd3 Rc7 32. Qc3 Rca7 { This is a good moment to stop and reflect upon the last few moves. Black has achieved the typical expansion ...f7-f5, placed a bishop on the strong f2-a7 diagonal, and opened the a-file, which he is now ready to invade. Meanwhile, White has accomplished absolutely nothing. I am certainly not trying to say that Judit Polgar has been completely outplayed; in fact both players have made some inaccuracies. My point is that the position after move 17 gives Black excellent prospects and very clear plans, while White does not have constructive ideas, and even the very best players would struggle to find something productive to do. } 33. Rd2 Bd4 34. Qd3 Ra1 35. g3 Rxf1+ 36. Kxf1 Bc5 { Preparing ...e5-e4 gaining more space. } 37. Kg2 e4 38. Qe2 Re8 39. f3 { This ugly move is necessary, because of Black’s threat of ...f5-f4-f3. } ( { Waiting with } 39. Ra2 { loses to } f4 $1 40. gxf4 ( 40. f3 Qd4 { or } 40. Kh1 f3 41. Qe1 e3 { are both hopeless } ) 
+Qxf4 { when White is defenceless. For example: } 41. Kh1 Re5 42. Qf1 Rh5 43. Qg2 Rg5 44. Qh3 ( { or } 44. Qf1 Qf3 45. Qg2 Qxg2 ) 
+Bxf2 45. Ra8 Kg7 $19 ) 
+exf3+ 40. Qxf3 Re3 { Black’s position is practically winning, as only a computer would be precise enough to defend this position in the long run. Even the smallest mistake would cost White the game. } 41. Qf1 ( { Instead, the natural } 41. Qf4 $2 { loses to } Re1 $1 { (threatening ...Be3) } 42. Ra2 Rg1 $1 43. Kh3 g5 { with forced checkmate. } ) 
+Qe5 { Threatening ...Qe4. } ( { More precise was } 41... Qe7 $1 42. Qf4 Re1 { and now the natural } 43. Ra2 $2 { loses to } Be3 $1 44. Qf3 Rg1 45. Kh3 Qg5 { exactly as in the game, while after } 43. Qf3 Rg1 44. Kh3 Qf6 $5 { White’s position is nearly lost too; the threat is ...g6-g5-g4 . } ) 
+42. Qf4 { The only defence. } Qe7 43. Ra2 Re1 44. b4 $2 { A blunder in an extremely difficult position. } ( { A better defence was } 44. Bd3 { but after } Kg7 $1 { White is running out of moves. For example, the natural sequence } 45. Rc2 $6 Qf7 $1 46. Bc4 $2 { loses to } Rg1 47. Kh3 h6 $1 { followed by ...g6-g5-g4 checkmating soon. } ) 
+ ( { Or: } 44. Bf1 Re4 45. Qf3 Re3 46. Qf4 Rxb3 $17 ) 
+Be3 $19 45. Qf3 ( { Also hopeless is: } 45. Qh4 g5 46. Qh5 Qe4 47. Kh3 ( 47. Qf3 Rg1 ) 
+g4 48. Kh4 Qe7 49. Qg5 Qxg5 ) 
+Rg1+ 46. Kh3 Qg5 { White resigned due to the threatened ...Qh6+. Final remarks 1. White’s light-squared bishop was memorably useless in this game. The reader should never forget the tremendous imbalance between the bishops. 2. White’s biggest mistake was 17. exd5. Since Polgar was close to equality after 17. Bxd5 I would dare to assume she did not expect her position to be so bad after this structure transformation. Players of all levels fall into this strategic mistake very often, and it is something to be remembered. 3. The expansion with ...g7-g6, ...f7-f5, ...e5-e4 is standard and a strong plan if carried out with the appropriate preparation. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2737670/"]
+[Date "????.??.??"]
+[Round "9.27"]
+[White "8) Najdorf Type I"]
+[Black "Polgar vs. Dominguez Perez #1"]
+[Result "*"]
+[FEN "r1r3k1/2qnbppp/p2p1B2/3bp3/1p2P3/1B3N2/PPP1QPPP/2RR2K1 b - - 0 16"]
+
+16... Nxf6 17. Bxd5 { The best option. } Nxd5 18. Rxd5 Qc4 $5 19. Qxc4 Rxc4 20. Nd2 Rc6 { When Black has only a microscopic advantage. } 21. c4 $1 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2737672/"]
+[Date "????.??.??"]
+[Round "9.28"]
+[White "8) Najdorf Type I"]
+[Black "Polgar vs. Dominguez Perez #2"]
+[Result "*"]
+[FEN "r1r3k1/2q1bppp/p2p1n2/3bp3/1p2P3/1B3N2/PPP1QPPP/2RR2K1 w - - 0 17"]
+
+17. exd5 $2 { A very questionable positional decision. } ( { Better was } 17. Bxd5 Nxd5 18. Rxd5 Qc4 $5 19. Qxc4 Rxc4 20. Nd2 Rc6 { when Black has only a microscopic advantage after } 21. c4 $1 { . } ) 
+ { The reader should study this position carefully, as it is essential for the understanding of the chapter. As we have studied in the previous games, White’s plan is to accomplish an expansion on the queenside with the usual b2-b4, c2-c4-c5; we know this is not going to happen in this game. Still, it is possible for White to open the queenside with c2-c3, but is this really going to help? The answer is no. There is a bigger factor hiding in the positional background and the reader should learn this once and forever. White’s biggest problem is the qualitative difference between the bishops. Although both bishops are momentarily blocked, only Black’s bishop has active prospects, either on the diagonal a1-h8, or the diagonal g1-a7. Meanwhile, White’s bishop will be a spectator throughout the entire game. It is not uncommon for players of the white pieces (even at the top level) to go into this kind of position without seriously accounting for this problem, and this game is a wonderful illustration of how to convert Black’s positional advantage into a full point. } Qd7 $1 { ⩱ Covering the a4-square, and so preventing White from improving her bishop with Ba4-c6. } 18. Bc4 Qa7 { The manoeuvre ...Qd7-a7 has prevented White’s bishop from moving to c6. Note that this bishop will not move again (or do anything) for the rest of the game. } ( { Another option was } 18... Rc5 $5 { since } 19. Bxa6 $2 Nxd5 $17 { gives Black a big advantage due to his central control. } ) 
+19. c3 ( { If White insists with } 19. Bb3 { , intending to follow with Ba4-c6, then } Rc5 { pressures the d5-pawn, preventing the manoeuvre, or } Qd7 $5 20. Bc4 Rc5 { as explained above. } ) 
+bxc3 20. Rxc3 Bd8 { Transferring the bishop to b6 where it will exert strong pressure on f2. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2737674/"]
+[Date "????.??.??"]
+[Round "9.29"]
+[White "8) Najdorf Type I"]
+[Black "Polgar vs. Dominguez Perez #3"]
+[Result "*"]
+[FEN "r1rb2k1/4qppp/3p1n2/p2Pp1N1/2B5/5R2/PP2QPPP/3R2K1 w - - 0 23"]
+
+23. b3 a4 $1 { ∓ Logical and very strong, as it opens the a-file for Black’s rook, and forces the creation of a weak b3-pawn. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2737678/"]
+[Date "????.??.??"]
+[Round "9.30"]
+[White "8) Najdorf Type I"]
+[Black "Polgar vs. Dominguez Perez #4"]
+[Result "*"]
+[FEN "r1r3k1/4qp1p/1b1p1np1/3Pp1N1/2B5/1P5R/2Q2PPP/3R2K1 w - - 0 27"]
+
+27. Rf1 e4 $1 { Threatening ...e4-e3 with a winning position. } 28. Kh1 Ng4 29. Nxe4 Rxc4 30. Qxc4 Qxe4 31. Qxe4 Nxf2+ $19 { The reader should not be fooled into thinking this is ”just tactics” and Black has been very lucky. All these tactical resources are the result of Black’s strategic superiority, particularly White’s inability to fight for the dark squares. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551066/"]
+[Date "????.??.??"]
+[Round "9.31"]
+[White "8) Najdorf Type I"]
+[Black "Jonny Hector vs. Richard Rapport"]
+[Result "0-1"]
+
+ { Jonny Hector – Richard Rapport, Malmo 2013 Learning objective: This game is a tactical illustration of how Black’s dark-squared bishop is much more powerful than White’s light-squared bishop. } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 a6 8. Qe2 Qc7 9. O-O-O Bd7 10. Bb3 b5 11. Nxc6 $6 { This may not be exactly a mistake, but it is heading in the wrong direction. } ( { Another option was } 11. f3 $5 { . } ) 
+Bxc6 12. Bd4 Be7 13. Bxf6 Bxf6 14. Nd5 Bxd5 ( { Of course not: } 14... exd5 $2 15. exd5 $16 ) 
+15. exd5 e5 { It seems as if White has been heading toward this position since 11.Nxc6, and here we are. Was this a good decision? Based on what we have learned in the previous games, the answer is ”Definitely not!” White’s standard plan in this position is to expand his majority on the queenside, but this is unthinkable after queenside castling. Moreover, the bishop on b3 is restricted by its own pawns, basically doing nothing, while Black’s bishop on f6 has a strong potential to press against White’s king, say after the typical pawn sacrifice ...e5-e4! Objectively speaking, this position is slightly better for Black, but in practice Black already has a big advantage since White has no real targets to attack. } 16. Rd3 { Attempting to neutralize Black’s attack through active play on the queenside. } ( { In the event of } 16. Kb1 O-O 17. c3 Rfb8 18. Bc2 a5 $15 { Black may comfortably push on the queenside, and sacrifice with ...e5-e4 opening the long diagonal whenever convenient. } ) 
+Qd7 17. Rc3 a5 18. a3 O-O ( { Black could have damaged White’s queenside immediately with: } 18... b4 $1 19. Bc4 { threatening Bb5 } ( { the alternative } 18... O-O 18. Rc6 { does not help after: } bxa3 20. bxa3 O-O { ∓ } ) 
+O-O ( 19... bxc3 $4 20. Bb5 $18 ) 
+20. Rb3 Rfb8 $17 { With a powerful attack. } ) 
+19. Rc6 a4 ( { Another option was } 19... Rfb8 { (preparing ...a5-a4 followed by ...b5-b4) } 20. Ba2 ( { of course not } 19... a4 19. c3 $6 b4 $1 ) 
+e4 $5 { ⩱ with good active play for Black. } ) 
+20. Ba2 b4 $5 ( { An interesting practical chance in the spirit of the position, but } 20... Rac8 $5 { also deserves attention. } ) 
+21. axb4 a3 22. b3 { Accepting an inferior position; White will ineffectively attempt to keep Black’s initiative under control. } ( { A better defence was } 22. c3 { though after } e4 $5 { White’s position is very difficult to play despite being only slightly better for Black. As an example, consider } 23. Qxe4 $6 ( { Better is: } 23. b5 axb2 24. Kxb2 Rfb8 $13 ) 
+ { – just one imprecision, and everything falls apart: } Qa7 $1 24. Kb1 axb2 25. Qc4 Qxf2 $19 ) 
+e4 $1 { ∓ Opening the long diagonal for the bishop on f6. This is a dream position for Black, as the bishop on a2 is out of the game, while the a3-pawn is a strong attacking resource. Once again in this fight of opposite-coloured bishops, Black’s bishop proves far superior regardless of White having more pawns. } 23. Re1 ( { Capturing the pawn with } 23. Qxe4 $2 { only opens lines for Black’s decisive attack: } Rfe8 24. Qf3 ( { or } 24. Qd3 Qg4 $1 25. g3 Re2 $19 ) 
+Re5 25. Rd1 Rae8 { White is defenceless against the plan ...Re2 , ...Qe7-e5-b2 , which is very similar to the game. } ) 
+g6 { A somewhat strange move, probably protecting the 8th rank!? Black’s position is so good that he can afford some creativity. } ( { More direct was } 23... Qf5 24. Qxe4 Qxf2 25. Qe2 Qf4 26. Kb1 Qxb4 { with a near-decisive advantage. } ) 
+24. f4 $2 { A poor decision in a very difficult situation. } ( { Better was } 24. b5 { , reinforcing the rook on c6 to keep the c-file blocked, but after } Qf5 { (threatening ... Qe5-b2) } 25. c3 Bg5 26. Kd1 ( 26. Kb1 $2 e3 27. Ka1 exf2 28. Rf1 Rae8 $19 ) 
+Qxd5 27. Kc2 Rab8 $17 { White’s position continues to be fragile. } ) 
+ ( { If } 24. Rc4 Rac8 $5 25. Rxe4 Bc3 26. Rd1 Rfe8 $17 { White’s pieces remain trapped in a cage. } ) 
+ ( { Of course not } 24. Qxe4 $4 Rfe8 { . } ) 
+exf3 25. Qxf3 Rae8 $1 { -+ White is basically a piece down and cannot parry Black’s multiple mating threats. The rest of the game is easy, but fun to watch. } 26. Rd1 ( { Exchanging rooks doesn’t help: } 26. Rxe8 Qxe8 $1 27. Kd2 ( 27. Qxf6 $4 Qe1 ) 
+Qe5 { With multiple winning threats, such ...Qb2xa2 or ...Re8 with a mating attack. } ) 
+Bg5+ 27. Kb1 Re3 28. Qf1 Qe7 { Threatening ...Qe5-b2#. } 29. Rc4 Re8 30. Rcd4 Qe5 31. Qc4 ( { If White just waits with } 31. h3 { then } Re1 $1 32. Rxe1 Qxe1 33. Rd1 Qc3 { is checkmating. } ) 
+Re1 ( { Checkmate is unstoppable: } 31... Re1 31. Qd3 Rxd1 33. Qxd1 Qxd4 $1 34. Qxd4 Re1 35. Qd1 Rxd1 { Final remarks 1. In both this game and the previous one, Black’s bishop played an essential role in attacking White’s king. This time, Black used the strong diagonal a1-h8. 2. This battle was even more imbalanced than in the previous game, as White’s king on the queenside basically prevents any attempt to expand the queenside majority. } ) 
+
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2737679/"]
+[Date "????.??.??"]
+[Round "9.32"]
+[White "8) Najdorf Type I"]
+[Black "Hector vs. Rapport #1"]
+[Result "*"]
+[FEN "r3k2r/3q1ppp/3p1b2/pp1Pp3/8/1BR5/PPP1QPPP/2K4R w kq - 0 18"]
+
+18. a3 { Black could have damaged White’s queenside immediately. } b4 $1 19. Bc4 { Threatening Bb5. } ( { The alternative } 19. Rc6 { does not help after: } bxa3 20. bxa3 O-O { ∓ } ) 
+O-O ( 19... bxc3 $4 20. Bb5 $18 ) 
+20. Rb3 Rfb8 $17 { With a powerful attack. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2737682/"]
+[Date "????.??.??"]
+[Round "9.33"]
+[White "8) Najdorf Type I"]
+[Black "Hector vs. Rapport #2"]
+[Result "*"]
+[FEN "r4rk1/3q1ppp/2Rp1b2/1p1Pp3/p7/PB6/1PP1QPPP/2K4R w - - 0 20"]
+
+20. Ba2 b4 $5 ( { An interesting practical chance in the spirit of the position, but } 20... Rac8 $5 { also deserves attention. } ) 
+21. axb4 a3 22. b3 { Accepting an inferior position; White will ineffectively attempt to keep Black’s initiative under control. } ( { A better defence was } 22. c3 { though after } e4 $5 { White’s position is very difficult to play despite being only slightly better for Black. As an example, consider } 23. Qxe4 $6 ( { Better is: } 23. b5 axb2 24. Kxb2 Rfb8 $13 ) 
+ { – just one imprecision, and everything falls apart: } Qa7 $1 24. Kb1 axb2 25. Qc4 Qxf2 $19 ) 
+e4 $1 { ∓ Opening the long diagonal for the bishop on f6. This is a dream position for Black, as the bishop on a2 is out of the game, while the a3-pawn is a strong attacking resource. Once again in this fight of opposite-coloured bishops, Black’s bishop proves far superior regardless of White having more pawns. } 
+ *

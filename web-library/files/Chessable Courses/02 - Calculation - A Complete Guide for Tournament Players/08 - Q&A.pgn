@@ -1,0 +1,156 @@
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643179/"]
+[Date "????.??.??"]
+[Round "8.1"]
+[White "Q&A"]
+[Black "Q&A Introduction"]
+[Result "*"]
+
+ { Five months after the launch of this course, I asked for your feedback in a course announcement to collect all your burning questions. I truly appreciate your responses because they not only help me improve the content, but also show your diligence in studying my course. I took the cue from your questions and revised the entire course. However, as I am writing this, many of you have already completed the original version of the course. It would be rather difficult to sift through the whole course and scour for the changes. To make it convenient for you, I have compiled all the updates and answers to your questions in this Q&A chapter. For those who have already gone through the updated version of the course in full, please bear with the repetition. After all, there is no harm going through some material a second time. } 1. -- 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643180/"]
+[Date "????.??.??"]
+[Round "8.2"]
+[White "Q&A"]
+[Black "Why do I not recommend CCT?"]
+[Result "*"]
+
+ { I am sure many of you have heard that candidate moves should strictly be calculated in this order: Checks, captures, and threats (also known as CCT) . This is because tactics often arise from these forcing moves. However, there are a few downsides to adopting this method as our primary calculation framework. For one, if the best move happened to be a “quiet” threat, much effort would be wasted calculating irrelevant checks and captures. Even worse, if the best move is defensive, then you are barking up the wrong tree if you consider only checks, captures, and threats. Furthermore, there are plenty of useless checks that shouldn't occupy our attention at all. Let's look at an example. } 1. { -KEY- } e4 d5 { We should not waste any time calculating } 2. Bb5+ $4 { because Black can solidify the centre while gaining a tempo. } c6 { Hence, to avoid any 'false alarms', I recommend identifying the exact preconditions to tactics such as unprotected pieces, trappable pieces, etc. After all, the presence of checks, captures, and threats, do not indicate tactics as reliably as the presence of tactical motifs. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643182/"]
+[Date "????.??.??"]
+[Round "8.3"]
+[White "Q&A"]
+[Black "How do we distinguish between hanging and unprotected pieces?"]
+[Result "*"]
+[FEN "1r5k/1r3pp1/pP2p2p/P5Q1/7P/8/5PP1/7K w - - 0 1"]
+
+ { ‘Is a Queen that is defended ONCE and attacked ONCE by a pawn still considered an unprotected piece?’ ‘Is a pawn attacked by TWO Rooks and defended by ONE pawn still considered a hanging piece?’ ‘I saw a piece that has ONE direct high-valued defender, TWO X-ray attackers, ONE low-valued X-ray defender, is within forking range of this Knight, and is on a critical diagonal, and … … Is it hanging or unprotected??’ I have received many variants of such questions. In a practical setting, the definition of hanging and unprotected pieces is not as important as recognising the threats and potential threats lurking behind. As a general guide, a hanging piece is clearly under threat while an unprotected piece can potentially be under threat. Take for example, the g5 Queen defended once and attacked once by an enemy pawn. It is, by definition, unprotected because it has equal number of attackers and defenders. However, given the Queen’s exceptionally high value, it is under threat and therefore effectively hanging. } 1. { -KEY- } Qe5 { Consider another scenario where the b6 pawn is defended by another pawn and attacked by a two Rooks. With two attackers to one defender, the pawn is hanging by definition. However, at stake here is two mere pawns for a Rook. This means ...Rxb6 is a non-starter and so the pawn is not under any real threat. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643183/"]
+[Date "????.??.??"]
+[Round "8.4"]
+[White "Q&A"]
+[Black "Why are they called 'unprotected' pieces?"]
+[Result "*"]
+
+ { Why do I call a piece, with say 2 attackers and 2 defenders, ‘unprotected’ (may also be called ‘undefended’) ? To understand why, we need to consider the most straightforward definition of an unprotected piece and its implication. An unprotected piece is a piece that is not protected (i.e., 0 defenders) . It should also have 0 attackers. Why? The moment it has one or more attackers, it would be classified as a hanging piece instead. The reason unprotected pieces are even worth identifying is that they are one attacker away from becoming hanging pieces. Since pieces with an equal number of attackers and defenders share this key characteristic, such pieces should also be considered unprotected. If you’d like to see how pieces with 0 attackers and 0 defenders are categorically the same as those with an equal number of attackers as defenders, I refer you to this page By the way, this definition of unprotected/undefended pieces is shared by renowned chess instructors. Here are a couple of examples - Simply copy & paste the link and it will take you to the exact timestamp in the video: National Master ‘Jerry’ from ChessNetwork defining unprotected pieces: https://www.youtube.com/watch?v=E5XmaAshsB4 International Master John Bartholomew referring to the h4 Rook (with 0 attackers and 0 defenders) as undefended: https://youtu.be/Ao9iOeK_jvU?t=2756 Grandmaster Daniel Naroditsky labelling the g1 Rook (with one attacker and one defender) as undefended: https://www.youtube.com/watch?v=K8QMjqu0_MY&t=2060s } 1. -- 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643184/"]
+[Date "????.??.??"]
+[Round "8.5"]
+[White "Q&A"]
+[Black "How do we apply calculation techniques to fast games?"]
+[Result "*"]
+[FEN "6k1/5ppp/8/8/7P/6P1/r4P2/2R3K1 w - - 0 1"]
+
+ { How do we apply a lengthy thought process such as the Burger Technique to fast games and how do we know when to use it? The Burger Technique is largely about identifying motifs. Tactical motifs not only tell us where to look for tactics, but also when to look for tactics. If there are no motifs, we don’t bother looking for tactics. On the other hand, if there is even just one unprotected piece on board, we should seek to exploit it. This means that you need to always remain alert to all tactical motifs to know when to spot tactics. For most, this requires too much effort and time. Therefore, we need to develop an unconscious competency to spot such motifs. You can start by using the Burger Technique slowly and deliberately on untimed puzzles. This will strengthen your intuition to spot tactical motifs. Eventually, this will become such second nature that you will know to go for the kill as soon as a motif presents itself, even in fast games. Not convinced this is possible? Let’s consider a simple chess skill you have completely mastered and turn the question around – How do you know when to look out for back rank mates in your fast games? Well, you’ve simply gotten so good at it that you are not only able to find it in puzzles, but also know to execute it when they present themselves. You don’t even need to think about when to look out for back rank mates. In the same way, repeated practice using the Burger Technique sharpens your intuition to spot other motifs such as trappable pieces and critical squares just as quickly and comfortably as you would for back rank mates. For an example of this in action, I refer you to the conclusion of Chapter 1. } 1. { -KEY- } Rc8# 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643185/"]
+[Date "????.??.??"]
+[Round "8.6"]
+[White "Q&A"]
+[Black "How do we combine PIE with Burger Technique?"]
+[Result "*"]
+[FEN "2r1kb1r/pp4pp/1n3p2/4pb2/1n6/1BP2PB1/PP1N2PP/2KRN2R b k - 0 1"]
+
+ { The success of your calculation heavily depends on the tactical motifs you spot. In the Burger Technique chapter, we have learnt a few general ones (e.g., unprotected pieces, trappable pieces, critical squares) . However, you are not limited to these motifs. With PIE, you can acquire new motifs that will influence your calculation. For example, in this position, our strong light-squared Bishop pointing at White’s King combined with our Rook’s pressure on c3 counts as tactical motifs because they resemble the preconditions of Boden’s mate. Given these clues, the goal is to land our dark-squared Bishop on a3, but our b4 Knight is currently in the way. Therefore, we must look for a move that efficiently gets rid of our Knight, and what better way than to do so with check? } 1... { -KEY- } Nxa2+ 2. Bxa2 Rxc3+ 3. bxc3 ( 3. Nc2 Rxc2 4. Kb1 Rxd2 ) 
+Ba3# { For an additional example with explanations, I refer you to this page } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643186/"]
+[Date "????.??.??"]
+[Round "8.7"]
+[White "Q&A"]
+[Black "Superposition vs Reciprocal Thinking"]
+[Result "*"]
+[FEN "1k3r2/6RP/1p5n/7P/P1P5/1P6/2P2p2/5K2 b - - 1 1"]
+
+ { You may think that the Superposition Technique is overly complicated and is therefore always less preferred over Reciprocal Thinking. However, there are positions where Reciprocal Thinking proves arduous and the best way to tackle them is to use the Superposition Technique. As an example, let's revisit Puzzle #21 from Chapter 2 and solve it using Reciprocal Thinking instead of the Superposition Technique. To recap, Reciprocal Thinking requires us to first calculate one line and diagnose the cause of failure if it doesn't work. Let's suppose the following line is the first line we consider. } 1... { -KEY- } Nf5 2. Rf7 Ng3+ 3. Kxf2 Rxf7+ 4. Kxg3 Rxh7 5. Kg4 { After calculating through this first line, Reciprocal Thinking hits a roadblock. There are several possible causes of failures, and it is challenging to pinpoint exactly the wrong move (s) . Any of the following diagnoses are plausible: - White's h5 pawn is the cause of failure and we should consider ways to get rid of it ahead of time. - The reason we can't win is that we lost our f-pawn, and we should figure a line that preserves it. - We could have given White's King an extra tempo somewhere along the line, allowing White to defend the h-pawn just in the nick of time. Let's reset the position and use the superposition technique instead. } ( 1. Kg4 Nf5 2. Rf7 Ne3 { Here, we recognise that Ng3+ is similar, so we calculate both lines at once. } 3. Kxf2 Rxf7 4. Kxe3 { Had we played 2...Ng3+, White's King would be on g3. } Rxh7 { At the end of the day, it's easy to see we much rather have White's King on e3 rather than g3, so 2...Ne3+ is the winning move. } ) 
+ Z0 { As you can see, the Superposition Technique is much better suited than Reciprocal Thinking here because it draws emphasis to the 'Ng3+ or Ne3+' dilemma. In summary, in positions with multiple similar candidate moves, it is better to use the Superposition Technique because: 1. You only need to calculate one line, which speeds up your calculation. 2. Comparison between the variations is much clearer because you can see the all the resulting positions at once. 3. It draws attention to the critical move where the branch occurs. However, the advantage of Reciprocal Thinking over the Superposition Technique should not be understated: 1. It can be used in a much wider range of positions, and does not have the requirement for multiple similar candidate moves. 2. It can help you find candidate moves that were not even on your radar. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643187/"]
+[Date "????.??.??"]
+[Round "8.8"]
+[White "Q&A"]
+[Black "How do we review this course? #1"]
+[Result "*"]
+
+ { To explain how to review the course, I must first explain the importance of reviewing your mistakes. The biggest reason many chess players fall short of their full potential is that they review their mistakes ineffectively. From my observation, after a typical player notices a missed tactic in the post-game analysis, they might simply find out why the engine’s suggestion is better, make a brief conclusion, and never take a second look at it. The problem with such an approach is that minimal learning takes place. Instead, you should analyse your mistakes methodically by asking yourself the key question, ‘What could I have done to avoid this mistake?’. This answer can usually be found using the techniques taught in this course. When articulated concisely, it will strengthen your tactical intuition and increase your chances of finding similar tactics when they present themselves in real games. To see this review process in action, I will give you a moderately challenging puzzle (compared to what we have seen in this course so far) on the next page. Do not be too disheartened if you are unable to solve it promptly. In any case, we will review the puzzle together and I will show how you can maximise your learning through the process. } 1. -- 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643188/"]
+[Date "????.??.??"]
+[Round "8.9"]
+[White "Q&A"]
+[Black "How do we review this course? #2"]
+[Result "*"]
+[FEN "rnb1kbnr/pp2pppp/8/3P4/8/q4N2/P2B1PPP/1R1QKB1R w Kkq - 1 1"]
+
+ { White to play and win. } 1. { -KEY- } Qc2 Bd7 { Saving the Bishop } 2. Bb5 { Threatening Qc8# and Bb4 to trap the Black Queen } Na6 { Covering c8 and b4 } 3. Bxd7+ Kxd7 4. Rxb7+ Ke8 5. Qc6+ Kd8 6. Qd7# { Mate. If you got it wrong, ask yourself the key question, “What could you have done to find all these moves?”. If you got it right, how could you have found the moves more efficiently? In either case, I’d like you to write down your response before moving to the next page or watching the video. If you are clueless, do not fret. With the benefit of having the correct moves now revealed, try to execute the Burger Technique on the initial position. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643189/"]
+[Date "????.??.??"]
+[Round "8.10"]
+[White "Q&A"]
+[Black "How do we review this course? #3"]
+[Result "*"]
+[FEN "rnb1kbnr/pp2pppp/8/3P4/8/q4N2/P2B1PPP/1R1QKB1R w Kkq - 1 1"]
+
+ { The way to approach this puzzle is to use the Burger Technique and recognise 2 key motifs - The unprotected c8 Bishop, and the trappable a3 Queen, who only has the squares a2, a3, c5, and d6. The closest way to trapping the Queen is 1. Bb4, which covers all the squares except a2. Therefore, we should look for a move that defends a2 with tempo. And what better way to do it by attacking c8? } 1. { -KEY- } Qc2 { We begin by visualising 1. Qc2, which 'forks' a2 and c8. But before rushing to play it, we should likewise systematically find a defence for Black. We can do this by applying the Burger Technique from Black's perspective - How can Black save c8 and the Queen simultaneously? } Bd7 { Saving the Bishop while creating an a4 escape square for the Queen. Now it is time for us to use the Burger Technique for White again. It remains that trapping Black's Queen is a key motif, but another one is the critical c8 square. If not for the d7 Bishop, Qc8 is mate! So we look for a move that wins back the a4 square while wrestling with the d7 Bishop for the c8 square. } ( 1... Nd7 { This saves the Bishop but not the Queen } 2. Bb4 ) 
+ ( 1... Na6 2. Bb5 Bd7 { Transposes to the main line } ( 2... Kd8 { With Black's King stuck in the middle of an open board, any natural move by White wins here, but the most direct is } 3. Ne5 $1 { And we are crashing through on f7 } ) 
+ ) 
+2. Bb5 { Threatening Qc8# and Bb4 to trap the Black Queen. Using the Burger Technique for Black again, we need to find a move that defends c8 while preventing Bb4. } Na6 { Covering c8 and b4 } 3. Bxd7+ { The rest of the combination is rather straightforward. After all, it is often a good idea to draw the enemy King to the centre with heavy pieces controlling the adjacent open files. } Kxd7 4. Rxb7+ Ke8 5. Qc6+ Kd8 6. Qd7# { I expect you would have taken at least a minute or two to read through how I arrived at the correct moves. My challenge to you now is to return to the starting position and repeat the entire problem-solving process from memory. Articulate it aloud and use a stopwatch to time yourself. Remember, the task is not simply to regurgitate the correct moves, but to really follow each step in the problem-solving process. Be sure to include all the motifs, including recognising the trappable Queen, unprotected c8 Bishop, and thereafter, the critical c8 square for your Queen, and so on until you arrive at checkmate. Once you are done, repeat it again and aim to beat your previous timing before continuing to read from here. _________________________________ I’m sure your second run was faster than your first. With enough repetition, you will need less and less time to explain the tactic. At some point, you mind will run faster than your mouth can. This is when you have truly understood and internalised the tactic. And that’s how you review your mistakes. Then how do we review this course? Or any course for that matter? When Chessable calls you to review your moves, it is important to avoid playing from memory alone. Instead, you should reconstruct your analysis and reason your way to the memorised move just like what we have done for this puzzle. This ensures that you are reviewing both the move, and the REASON that move should be played. So, when I see you back here in 4 hours for the review, don’t just rush to play out the moves, but really repeat my entire thought process for this puzzle. And do the same for all your Chessable courses. It will slow you down a lot, but the work you put in will return you massive dividends. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643190/"]
+[Date "????.??.??"]
+[Round "8.11"]
+[White "Q&A"]
+[Black "How do we approach 'unsolvable' positions? #1"]
+[Result "*"]
+
+ { We have discussed that the best way to review your mistakes is by asking ‘What could I have done to avoid this mistake?’ and responding to the question concisely and promptly. Various techniques such as The Burger Technique and Reciprocal Thinking covered in this course enable you to do so efficiently. However, there are times where you struggle to answer this question. This is largely because you are unaware of the underlying pattern. In fact, some positions are only solvable with the knowledge of very specific patterns. Consider the following puzzle (on the next page) . } 1. -- 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643191/"]
+[Date "????.??.??"]
+[Round "8.12"]
+[White "Q&A"]
+[Black "How do we approach 'unsolvable' positions? #2"]
+[Result "*"]
+[FEN "r4rk1/1b1p1ppp/ppn3n1/4qNBQ/2B1P3/2P5/P1P3PP/R4RK1 w - - 0 1"]
+
+1. { -KEY- } Bf6 $3 Qc5+ ( 1... Qxf6 2. Nh6 { Discovered attack on Black's Queen } gxh6 3. Rxf6 ) 
+ ( 1... gxf6 2. Qh6 { with Qg7# to follow. } ) 
+2. Kh1 Qxc4 3. Qh6 $3 { Threatening Qxg7# } gxh6 4. Nxh6# { This tactic from the game Ove Kinnmark vs Strem is practically impossible to solve by identifying conventional tactical motifs (such as unprotected pieces and trappable pieces) alone. You could never arrive at the right move without knowing this exact pattern. So, what are we to do? There is no other way than to go through this pattern repeatedly and internalise it. This means executing PIE on this position so that similar puzzles become solvable in the future. And if you think that this pattern is too obscure to be worth internalising, have a look at the game Vasilios Kotronias vs Daniel John King. It goes to show patterns do repeat more often than we realise and that we should internalise every new pattern with utmost seriousness. In so doing, you expand your repertoire of tactical motifs and can handle a wider range of positions. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/18643192/"]
+[Date "????.??.??"]
+[Round "8.13"]
+[White "Q&A"]
+[Black "Course Conclusion"]
+[Result "*"]
+
+ { Summarising the entire course, here is a guide to your chess calculation training: WHILE SOLVING PUZZLES OR PLAYING GAMES: 1. Whenever you are solving puzzles or playing slow games, conscientiously execute the steps of the Burger Technique. 2. In these puzzles or games, you may incorporate various forms of reciprocal thinking (typical reciprocal thinking, identifying the King’s escape squares, and the Superposition Technique) in step 3 of the Burger Technique as you deem fit. 3. For endgame positions, you may incorporate various endgame tactical ideas discussed in Chapter 5. With enough practice doing 1. to 3., you will start to instinctively execute the calculation techniques in real games when it is called for. WHILE STUDYING CHESS: 4. Whenever you realise you made a mistake, ask yourself ‘What could I have done to avoid this mistake?’. After you obtain a precise and concise answer, repeat it to yourself several times until you feel confident in your understanding of the tactic. 5. If you feel like you found a tactic far too slowly, ask yourself ‘How could I have arrived at the solution faster?’ and follow the same process as 4. 6. If there is no reasonable way to arrive at the right move, use the four steps of PIE to internalise the combination. 7. When reviewing moves on Chessable, remind yourself of why the memorised move is best rather than just thoughtlessly playing from memory. 8. As you study theoretical endgames, always keep in mind how the positions can transpose among themselves. In this way, you are able to develop general endgame principles on your own. 9. Identify your most common calculation mistakes (dismissing tactical motifs, unfamiliarity with patterns, and poor visualisation) and work on them. 10. Train your visualisation with the blindfold chess exercises. } 1. -- 
+ *

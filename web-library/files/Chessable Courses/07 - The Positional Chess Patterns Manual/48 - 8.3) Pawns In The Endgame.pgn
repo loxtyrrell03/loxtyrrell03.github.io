@@ -1,0 +1,72 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/40024050/"]
+[Date "????.??.??"]
+[Round "48.1"]
+[White "8.3) Pawns In The Endgame"]
+[Black "Pawn Breaks"]
+[Result "*"]
+[FEN "3r2r1/pp3p2/3kpp2/3p3p/3P3P/2PK2P1/PP3P2/4R2R b - - 0 1"]
+
+ { The majority of the ideas centering around pawns have already been covered in the previous chapter, so we will not focus on these here. Instead, the main positional topic has to do with avoiding placing your pawns on the wrong color in certain types of endgames. We'll cover a few examples of these soon. Before we do this, let's show a couple of positions to illustrate and recap some of the concepts previously introduced. } 1... { -KEY- } Rg4 $1 { Black uses the pseudo outpost on g4 to activate the rook, benefiting from the fact that f3 would weaken the g3 pawn. } 2. Ke3 b5 { Looking to launch a minority attack, discussed in the chapter on 'Pawn Play'. } 3. Kf3 a5 4. Rc1 Rc8 { Occupying the semi-open file. } 5. Rhd1 f5 $1 { Trying to undouble the pawns by playing the pawn break with ...f4, which would at the same time damage White's kingside pawn chain. } 6. a3 a4 { Fixing the backward pawn on b2. } 7. Kg2 f4 $1 8. Rd3 f6 { Activating the central pawn majority. } 9. Kh3 e5 10. dxe5+ fxe5 11. Re1 $2 ( { Under pressure, White makes a significant mistake. Much more resilient was } 11. Rcd1 { . } ) 
+fxg3 12. fxg3 e4 $1 { The protected passed pawn is very strong here, Black is already winning. } 13. Rde3 Rf8 $1 { Occupying the open file and threatening to invade along the seventh rank. } 14. R1e2 Rg7 15. Re1 Rgf7 16. R1e2 Ke5 17. Kg2 { White is largely shuffling the pieces around, as they lack an active plan. Black's space advantage is suffocating them across all flanks. } Rf3 18. Rxf3 Rxf3 19. Re1 d4 $19 { Black will win due to a combination of the strong passed pawn, and the possibility to target White's b2 pawn once lines of attack are opened up. We can see from this lightly annotated sequence that a lot of the positional concepts that you will seek to use in the endgame have already been covered in previous chapters. This is true both in the case of general concepts (space, outposts, open files) as well as pawn play concepts (pawn breaks, minority attack, pawn majorities, passed pawns, etc). } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/40024051/"]
+[Date "????.??.??"]
+[Round "48.2"]
+[White "8.3) Pawns In The Endgame"]
+[Black "Strong Pawns"]
+[Result "*"]
+[FEN "6k1/1r1b1pp1/5n2/1P1p3p/r2N4/pRR2P2/P3NKPP/8 w - - 0 1"]
+
+ { In this example, White can use their knowledge of strong pawns (flank pawns, connected pawns) to force a winning endgame. } 1. { -KEY- } Rxa3 $1 { Initiating a series of exchanges, in order to simplify the position and force a winning endgame. } Rxa3 2. Rxa3 Bxb5 { White knows that Black has to capture the pawn, since otherwise connected passed pawns are too strong. } 3. Rb3 $1 { The bishop is struck, forcing the rooks off. } Ba6 4. Rxb7 Bxb7 { The presence of a flank pawn makes Black's defensive task close to impossible. To make matters worse, Black also has an isolated pawn on d5, an easy target for the White king. } 5. Ke3 $1 Kf8 6. h4 $1 { Fixing the pawns on light squares is helpful since Black's bishop is on a light square. } Ne8 7. Nb5 $1 { Preventing the knight from reaching a more active square by blocking d6 and c7. } Ke7 8. Kd4 { Activating the king, the topic of the final section of this chapter. } Kd7 9. Kc5 Ba6 10. Ned4 { White has excellent piece coordination, and will soon be ready to advance their a-pawn. } Bb7 11. a4 { Black has no way of fighting against White's continued advances. In this game we saw various themes, both broadly speaking and specific to pawns. In particular, White's simplifying sequence was based on an understanding of the strength of both connected pawns as well as outside (flank) passed pawns. The other helpful detail was that Black had an isolated pawn on d5 which was poorly placed on the same color as their bishop. Speaking of which, pawns on the same color as one's bishop is the central theme in the remaining examples of the section. Let's check out what is meant by this now. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/40024052/"]
+[Date "????.??.??"]
+[Round "48.3"]
+[White "8.3) Pawns In The Endgame"]
+[Black "Pawn On Wrong Color 1"]
+[Result "*"]
+[FEN "8/p3k2p/4p3/P3P1p1/3K4/6PB/4b2P/8 b - - 0 1"]
+
+ { Very often you will reach a minor piece endgame with either bishop vs bishop or bishop vs knight. In such cases, it's important to be cautious when thinking about placing your pawns on the same color as your bishop. In the following game, GM Sergei Zhigalko has an equal endgame against Magnus Carlsen. However, with his next move things immediately go downhill. } 1... { -KEY- } g4 $2 ( { Waiting patiently with a move like } 1... Bf3 $11 { was enough to hold the balance. The pawn on g5 and the light-squared bishop do a great job of stopping the White king from breaking into the enemy camp on the kingside. } ) 
+2. Bg2 { Suddenly, the position is already losing. } Kd7 3. Be4 h6 4. Ke3 $1 { This is the problem. Now Black is imbalanced along the dark squares, with his most central pawns (g4 and e6) both only able to control light squares. } Bd1 5. Kf4 Kc7 { In comparison, we can see that Magnus has arranged his pawns on the right squares. They coordinate with the bishop to keep the enemy king at bay. } 6. Bd3 $1 { Preparing to reroute the bishop to target the e6 pawn. } Kc6 7. Bc4 $1 Kd7 { Having just stepped forward, the king is forced to step back immediately. The other drawback of Black's strategy is revealed: White can attack the enemy pawns with his bishop, while Black cannot do likewise. } 8. Bb5+ Ke7 9. Bc6 $1 { The bishop may be zigzagging around the board, but it is not purposeless. Its next target in sight is the g4 pawn! } Be2 10. Be4 Kf7 { The most stubborn defense, taking away the g6 square. } ( { In the game Black lost quickly after } 10... Bd1 { since now White was able to play } 11. Bg6 Kd7 12. Bh5 $18 { The pawn on g4 falls. } ) 
+11. Bc2 $1 { The Black bishop is now stuck on e2, since if it steps on to the f3 square then White will reply with 12.h3! } Kg7 ( 11... Bf3 { The problem here is that White can exploit the fact that the g4 pawn is the only defender of the bishop. } 12. h3 $1 h5 13. h4 $1 { 14.Kg5 will come next. } ) 
+ ( { If } 11... Ke7 { then } 12. Bg6 { . } ) 
+12. Bb3 { Targeting the e6 pawn. } Kf7 13. Ke3 $1 { The bishop is forced to abandon the d1-h5 diagonal. } Bb5 ( 13... Bf3 { runs into the same problem of } 14. h3 $18 ) 
+14. Bd1 $1 { The attack on the g4 pawn forces Black into placing one of his remaining dark-squared pawns on a light square, making their position still more vulnerable. } h5 15. Kf4 Kg6 16. Bc2+ Kh6 { The problem is that since the h-pawn no longer controls the g5 entry point, Black's king is tied down to its defense. } 17. Bb3 $1 { Back to tormenting the e6 pawn! } Bd7 18. Ke4 $1 { With the Black king far away from the queenside, now is the perfect time to strike on the other flank. } Kg7 19. Kd4 Kf8 20. Kc5 Ke7 { The king has scrambled back just in time to protect the d6 entry point. } 21. Bc2 $1 { The painful maneuvering continues. Now the threat is 22.Bg6. } Be8 { Black's position is hanging on by a thread. The bishop on e8 is covering two critical squares: c6 and g6. In such situations, the devastating blow often comes at the hands of zugzwang. } 22. Bd3 $1 { White spots that the opponent is paralysed, and simply passes the move! } Bf7 ( 22... Kd7 { is not possible since after } 23. Bb5 Ke7 24. Bxe8 Kxe8 25. Kd6 $18 { the pawn ending is lost. } ) 
+23. Kc6 { In an ironic end, it is the only dark-squared pawn on a7 that is the first to fall. Black can resign here as White's passed a-pawn will decide matters. This example was admittedly a very challenging one, with lots of maneuvering. The important thing is not so much the difficulty level but rather the ideas in action. We see that once Black played the initial mistake with 1...g4? it led to a chink in his armor that set the foundation for an eventual defeat. Slowly, White used a mix of tactics and other techniques like zugzwang to force an entry along the weakened dark squares. Black for their part was unable to generate any counterplay since White's pawns were all sitting on dark squares, making them immune from attacks by the enemy bishop. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/40024053/"]
+[Date "????.??.??"]
+[Round "48.4"]
+[White "8.3) Pawns In The Endgame"]
+[Black "Pawn On Wrong Color 2"]
+[Result "*"]
+[FEN "8/p5p1/3k3p/P2bpp2/1P2pP1P/2K1P1P1/8/3B4 w - - 0 1"]
+
+ { Here's another easier example of the same effect in action. In this case, Magnus with the White pieces was able to quickly dispatch GM Andrew Tang due to the combination of two advantages: the right color pawns, and the 2 vs 1 pawn majority on the queenside. } 1. { -KEY- } Be2 Bf7 2. Bc4 ( 2. b5 $2 { White must remain vigilant to not give up control of dark squares by pushing the pawns too soon. } exf4 $1 3. gxf4 Kc5 $11 { With the king able to step on to c5, the game is now completely equal. e.g. } 4. b6 axb6 5. axb6 Kxb6 6. Kd4 $11 { Black cannot hope to make use of their extra pawn, since the structure and king activity are both in White's favor. } ) 
+Bh5 3. Ba6 { Magnus is scouting for the easy prey on f5. } Bf7 4. Bc8 exf4 ( { Keeping the central tension with } 4... Bg6 { would not have changed anything, since after } 5. fxe5 Kxe5 6. b5 Kd6 7. b6 axb6 8. axb6 $18 { While the Black king monitors the passed b-pawn, White will capture all of Black's kingside pawns! } ) 
+5. gxf4 g6 { A nasty consequence of having one pawn on the wrong color is that the other pawns tend to follow suit, as they form chains to defend each other. } 6. Kd4 Bb3 7. Ba6 { Black resigned here. Let's show how the game might have played out: } Bf7 8. Bc4 Be8 9. b5 Bd7 10. b6 axb6 11. axb6 Be8 ( 11... Kc6 12. Bb5 $1 { wins on the spot. } ) 
+12. Bd5 { As in the previous example, Black is in zugzwang. The bishop cannot move without allowing Bf7. } Kd7 13. Kc5 { The king pushes deeper into the position, threatening 14.Bc6+. } Kc8 14. Kd6 Kb8 15. Ke7 Bb5 16. Kf6 { The pawns are defenseless, and the White king is hungry! So far we have only looked at examples involving bishop vs bishop. However, the same often holds true when battling with bishop vs knight as in the next position. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/40024054/"]
+[Date "????.??.??"]
+[Round "48.5"]
+[White "8.3) Pawns In The Endgame"]
+[Black "Pawn On Wrong Color 3"]
+[Result "*"]
+[FEN "8/7p/4kpb1/1p1p2p1/1P1P2P1/4N2P/5P1K/8 b - - 0 38"]
+
+ { This game brings back painful memories for me. I was playing for Ireland at the 2018 Olympiad and after playing a rather poor game throughout, I had managed to carve my way back into an equal position. In my desire to simplify the game, I made a grave positional error. So far throughout the course, you have been challenged to find the best move on many occasions. Now that we're approaching the finishing line, let's have a light-hearted change of pace. Can you find the terrible positional move that I played?! } 38... { -KEY- } f5 $2 { Correct! This was indeed the bad move that I played! :) Miraculously, Black is not yet lost. However, now the defense becomes much more tricky. } ( 38... h6 $11 { A normal move like this would have guaranteed the draw, since there is no way for White to make progress. There is no schema that White can apply to break the fortress. There are only two vulnerabilities in the Black position: the f5 square and the b5 square. Currently Black has the f5 square under control, while if White maneuvers their knight to c3 (or a3) in order to hit the b5 pawn then Black can always step their bishop back to e8 to protect the pawn on b5. } ) 
+39. gxf5+ $1 { White does not want to allow my pawn to reach the dark square on f4. } Bxf5 40. Kg3 { This is the problem. While the computer might scream that there is still a path to equality, the position has become dangerous and one more slip will be immediately fatal. } h6 $2 { The losing move. Arranging the kingside pawns on dark squares makes sense at first glance, but the problem is that they will not stay there for long. } ( 40... Be4 $1 { The only move that holds. The clever point is that after } 41. Kg4 Kf6 42. f3 { Black now has a saving resource with } Bf5 $1 { since after } 43. Nxf5 h5 44. Kxh5 Kxf5 45. Kh6 Kf6 $11 { The opposition secures a draw, in spite of Black being a pawn down. } ) 
+41. h4 $1 { White goes for pawn exchanges in order to activate his king. For a third example in a row, the defending side is in zugzwang! } gxh4+ ( 41... Bg6 { Moving the bishop loses control of the g4 square. } 42. hxg5 hxg5 43. Kg4 $18 { There is no way to avoid losing either the g5 or d5 pawn. } ) 
+42. Kxh4 Bg6 { Stopping Kh5 for now. } 43. Kg4 Be8 44. Kf4 Bg6 45. Ng4 $1 { The same technique as in previous examples. White targets the lone dark-squared pawn to force it to move on to a light square. } h5 { The g5 square has become an entry point for the enemy king. I could have resigned here, but struggled on for a few more moves: } 46. Ne3 Bd3 47. Kg5 Be2 48. Ng2 { The knight will jump to f4 next and grab the h5 pawn, so I resigned in Zaibi,A - Astaneh Lopez,A (2018). This concludes the section. The main takeaway is that it pays to stay alert and avoid placing your pawns on the same color as your bishop unless you have an excellent reason for doing so. While there are exceptions to any rule, this advice is pretty reliable and if you are ever unsure of the best way to arrange your pawns it is almost always best to default to the opposite color as your bishop. In this way, they will form a good team with your piece: the bishop will control one set of squares, while the pawns will protect the other set. There is only one more section left in this chapter, and indeed in the entire course! And so, it seems fitting to conclude our work by focusing on the one piece that has remained mostly silent until now - the King! } 
+ *

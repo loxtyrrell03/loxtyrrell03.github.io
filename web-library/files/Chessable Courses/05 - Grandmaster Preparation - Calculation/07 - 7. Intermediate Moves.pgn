@@ -1,0 +1,467 @@
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788539/"]
+[Date "????.??.??"]
+[Round "7.1"]
+[White "7. Intermediate Moves"]
+[Black "Intermediate Moves"]
+[Result "*"]
+[FEN "8/2Rr2kp/4qp2/pp2p1pP/4P1P1/P2P1Q2/5P2/6K1 w - - 0 35"]
+
+ { Intermediate Moves Jacob Aagaard – Jonathan Rowson, Hamilton 2004 White to play This position is from the tournament where I got my second GM norm. I started excellently with 5½/6 and had a full point lead. I then sailed towards the norm with three draws while Jonathan won his last three games, taking the first prize. Happiness for both, you might say. I would not quite say that this was the case with this game. Jonathan clearly considered himself to be the better player and was out to beat me, but in the end I had the only serious chance to win the game. Unhappiness for both, if you have to ask... } 35. -- 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788540/"]
+[Date "????.??.??"]
+[Round "7.2"]
+[White "7. Intermediate Moves"]
+[Black "Tamaz Gelashvi vs. Alexander Goldin"]
+[Result "*"]
+[FEN "2r1rbk1/pb3ppp/1pn5/3n4/5q2/P2BNN2/1B2QPPP/2RR2K1 w - - 0 20"]
+
+ { There are a few tactical themes that could have been included in this book without seeming out of place. The desperado is an obvious one to name. But desperado scenarios are relatively rare and do not fit in a small list of calculation techniques. However, almost all complicated tactical games include some kind of intermediate moves, if not in the actual play, then at least in the heads of the players. The idea is simple and not unlike comparison. By inserting a move at a relevant time you change the properties of the position a little bit and they are suddenly in your favour. A closely related technique, which I would rank as being in the outskirts of calculation mainstream techniques, is trying to change the move order. Sometimes they are so closely related that you cannot tell them apart. The first example is a bit like that. Tamaz Gelashvili – Alexander Goldin, Orlando 2011 Black has just taken a pawn on d5 with the idea that } ( 20. Nxd5 $2 { would be met with } Rxe2 { and 21...Rxb2. White needs to look for something else, and all he could come up with was the rather unenergetic } ) 
+ ( 20. Bxh7 $6 Kxh7 21. Rxd5 { After this both players made additional mistakes before Black won on move 39. At this point, the best move was } Kg8 $1 { with even chances. } ) 
+ { But let us try to imagine that White had spent a minute or so looking for other options, and realized that he had an opportunity to start an attack on the kingside. } 20. Rc4 $1 { This energetic move would have forced Black to enter complications, as all normal-looking moves are easily refuted. Retreating with the queen along the b8-h2 diagonal ends in disaster on the kingside after both Bxh7+ and the less rushed, but not really less energetic Ng5. In sort of the same way, } ( 20. Rc4 Qh6 21. Rh4 { leads to immediate disaster, so with no retreats available, Black needs to push forward. } ) 
+Rxe3 { If we continue to think that White was looking for candidate moves and saw his last move, probably he also saw that this reply was forced. But at this point, he might have decided to throw out the line, as } ( 20... Rxe3 20. fxe3 Qxe3 $15 { is pretty bleak. After the exchange of queens the knight will arrive on e3 and Black wins the exchange back. } ) 
+ { But White has a better option available. } 21. Bxh7+ $3 { You can discuss whether it is 20.Rc4 or this that is the intermediate move. Chess is played move by move, but our way of thinking is in concepts. Here the idea is either to get the rook up to the fourth rank before executing the planned capture on h7 and recapture on d5 – or it is a planned capture on h7 with an intermediate rook swing to the fourth, forcing Black to give up an exchange? It is all up to how you think and, in this case, neither way can be considered better than the other. } Kh8 { If Black now takes the bishop with } ( 21... Kxh7 { then White has } 22. Qc2 { almost winning the queen. Black can resist with } Re4 { but White is better: } 23. Rxe4 Nce7 24. Qd3 Qf5 25. Nd4 Nf4 26. Rxf4 Qxd3 27. Rxd3 $16 ) 
+22. fxe3 Qxe3+ 23. Qf2 $1 { This move can also easily be overlooked, but it is actually not so mysterious. Black is not allowed to put a knight on e3. } Bc5 { A natural move and also the best defensive try. Whether Black takes on f2 first or plays } ( 23... Kxh7 24. Rxd5 Qxf2 { does not really matter. The line is the same: } 25. Kxf2 Bc5 26. Rcxc5 $1 { The easiest is to return the exchange for clarity, but it is not forced. } ( 25... Bc5 25. Ke1 $14 { is also quite okay, if somewhat inferior. } ) 
+bxc5 27. Rd7 Nd8 28. Ng5 Kg6 29. Nxf7 $1 Nxf7 30. Rxb7 $16 { White has good winning chances with his strongly placed rook and better minor piece. Black’s drawing chances are made up by the passed pawn and the relatively small number of remaining pawns. } ) 
+24. Rxc5 { This time around White does not have a choice. } Qxc5 ( 24... bxc5 25. Rxd5 { transposes to 23...Kxh7 as discussed above. } ) 
+25. Bf5 $1 { Here there is a small yet important difference from the 23...Kxh7 line. After } ( 25. Qxc5 $6 bxc5 26. Rxd5 Kxh7 27. Rd7 Nd8 28. Ng5 Kg6 29. Nxf7 Nxf7 30. Rxb7 { it would appear that we have the same position until you notice that the king is on g1 instead of f2. Actually, this difference is quite important. Black is in time to play } Rd8 $1 { and generate counterplay against the white king and white bishop. Black should draw without too much hassle. } ) 
+Qxf2+ 26. Kxf2 Rd8 27. Ng5 Kg8 28. Ne6 $1 fxe6 { The lesser evil. After } ( 28... Rd6 29. Nxg7 $16 { Black faces all kinds of tactical problems, not least of all the pin down the d-file. } ) 
+29. Bxe6+ Kf8 30. Rxd5 Rxd5 31. Bxd5 Ne5 32. Bxb7 Nd3+ 33. Ke3 Nxb2 34. Kd4 { White has definite winning chances in this ending. His king is very active and he has the possibility of creating a passed pawn on the kingside. However, I still believe that the ending is within drawing limits, not least because Black can hope for an ending with a bishop and h-pawn, which White will not be able to win. So, even though this elegant tactical idea does not lead to a forced win, it would have provided Black with great problems just to get to this unpleasant ending. In practical terms, this would mean time trouble, poor defence and probably a white victory. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788541/"]
+[Date "????.??.??"]
+[Round "7.3"]
+[White "7. Intermediate Moves"]
+[Black "Jacob Aagaard vs. Jonathan Rowson"]
+[Result "1/2-1/2"]
+[FEN "8/2Rr2kp/4qp2/pp2p1pP/4P1P1/P2P1Q2/5P2/6K1 w - - 0 35"]
+
+ { Intermediate moves are not that different from candidate moves in their technique. The main point is to have them on the radar and look for them at the right times. In the following game, I actually considered the right move, but I was still too emotionally connected to moving my rook for me to do anything else. Basically, I was a bit nervous. Jacob Aagaard – Jonathan Rowson, Hamilton 2004 As said, I did consider giving the check with the pawn during the game, but besides the mate arising if he should take it, I did not really understand the value of it during the game. } ( 35. h6 $1 { After this, Black would be forced to put his king on f7 for not very complex reasons. } Kf7 ( 35. Kd4 Kg8 $2 { for example, loses to } 36. Rc8 Kf7 37. Rh8 { This does not look like an important change to the position at this point, but if we continue with the moves played in the game we shall see that it quickly becomes so. } ) 
+36. Rc5 Rb7 ( 36. Kd4 b4 $5 { also exists, but White has no reason to worry. After } 37. Rxa5 b3 38. Rb5 $16 { the extra pawn is useful and White has excellent winning chances. } ) 
+37. d4 exd4 38. e5 { The black king is awkwardly placed on f7. White is simply better and will continue to be so for a long time, unless Black collapses quickly. } Re7 39. exf6 Qe4 40. Qg3 $16 ) 
+35. Rc5 $2 Rb7 36. d4 exd4 37. e5 Rf7 $1 { Compared to 35.h6+ Black is certainly happy here. Access to the f7-square has come in quite conveniently. Importantly, I never got another chance to flick in the pawn check. I should have grabbed the chance when it was there. The game ended with a draw in not too many moves. } 38. Rxb5 fxe5 39. Qe4 Rf4 40. Qb7+ Rf7 $1 { The king could also retreat to g8 without any worries, but to Jonathan’s credit it should be mentioned that he saw the refutation of } ( 40... Qf7 $2 { at the board. } 41. h6 $3 { and now, either } Kxh6 { Or } ( 41... Kg6 42. Rb6 Rf6 43. Qe4 Kxh6 44. Rb7 $1 ) 
+42. Qh1 $1 Kg6 43. Rb6 Rf6 44. Qe4 Kh6 45. Rb7 { and White wins in both cases. } ) 
+41. Qe4 Rf4 42. Qb7+ Rf7 43. Qe4 
+ 1/2-1/2
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788542/"]
+[Date "????.??.??"]
+[Round "7.4"]
+[White "7. Intermediate Moves"]
+[Black "Kjetil Lie vs. Sune Berg Hansen"]
+[Result "*"]
+[FEN "r2q1rk1/b1p1npp1/p4n1p/1p2pNN1/2b1P2P/2P2Q2/PPB2PP1/R1B1K2R w KQ - 0 18"]
+
+ { The last example shows quite a normal scenario for intermediate moves and why it is so important to have them included as part of your training regimen. Kjetil Lie – Sune Berg Hansen, Porto Carras 2011 In the game, White played } ( 18. Ne3 $11 { and was outplayed gradually until he lost on move 49. } ) 
+18. Nxh6+ $1 { Obviously, this is one of the first moves a grandmaster would look at, but without the right follow-up the attraction is rather limited. For example: } ( 18. Nxh6+ gxh6 19. Qxf6 hxg5 20. Bxg5 { offers White some compensation, but Black is generally all right. And this is the case with all lines that include looking exclusively on the kingside. } ) 
+gxh6 19. b3 $3 { A very difficult move that neither of the players considered during the game. Their focus was simply elsewhere, which shows the potential power of having intermediate moves in your arsenal. Notice that 18 b3 did not work either. Black can retreat the bishop to e6, or first take on f5 and when White recaptures with the pawn play ...Bd5. Again there could be a discussion about whether b2-b3 or the knight sacrifice is the intermediate move. And again it would be a bit like discussing whether it is the drums or the bass which is out of sync. The thinking is that of intermediate moves, caring about the labelling is the thinking of... well, let’s just not go there. At this point, Black has various options, all of them leading to a clear advantage for White. We shall look at them individually. } ( 19. b3 Be6 20. Qxf6 { gives White a great position. Now } Ng6 $16 { is objectively best, but obviously not what Black would generally consider desirable. The fantastic point behind the whole operation is that } ( 20. b3 hxg5 $2 { is met with: } 21. Qh6 $3 { White’s attack on the dark squares is tremendous and Black cannot come up with an adequate defence. For example: } g4 22. Bg5 f6 23. Bxf6 Rxf6 24. Qxf6 Bd7 25. O-O-O { and White’s attack is irresistible. } ) 
+ ) 
+ ( 19. b3 Qd6 { is rather defeatist, but is probably the best move. White is more than comfortable after } 20. bxc4 bxc4 21. Nh3 Kg7 22. Rb1 $16 { but the game continues. } ) 
+Kg7 20. bxc4 hxg5 $6 { This also cannot be recommended. The last chance would be } ( 20... Qd6 21. Nh3 bxc4 22. Rb1 { which transposes to 19...Qd6. White is close to winning. } ) 
+21. hxg5 Nh7 { Black is also in big trouble after } ( 21... Nd7 22. cxb5 axb5 23. Bb3 Ng6 24. Rh7 $1 { and White has a winning attack. } ) 
+22. Bb3 Ng6 ( 22... Qd6 23. Rh6 Ng6 { is another defensive try, but simple play with } 24. cxb5 axb5 25. Bd2 { and 26.0–0–0 gives a winning attack. } ) 
+23. Rxh7+ Kxh7 24. Qh5+ Kg8 25. c5 $1 { White wins. Notice the double effect of the last move, preventing ...Qd6 at the same time as the bishop’s diagonal is opened. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788543/"]
+[Date "????.??.??"]
+[Round "7.5"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #1"]
+[Result "1-0"]
+[FEN "N4k1r/pp1b1pbp/8/4n1B1/3q4/8/PP3Pp1/R2QR1K1 w - - 0 20"]
+
+ { Movsesian – Caruana, Moscow (blitz) 2010 } { _ } 20. Be7+ $1 { A nice intermediate move. Black cannot take the bishop as his knight would be pinned. } ( 20. Rxe5 Qxe5 21. Qxd7 Qxg5 { would result in a particularly murky situation. } ) 
+Kg8 21. Rxe5 $1 { The real point – Black loses a piece. } Bxe5 ( 21... Qxe5 22. Qxd7 h5 23. Nc7 Rh6 24. Nd5 { seems to be equally hopeless. } ) 
+22. Qxd4 Bxd4 23. Rd1 Bxf2+ 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788544/"]
+[Date "????.??.??"]
+[Round "7.6"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #2"]
+[Result "*"]
+[FEN "2r2rk1/pp2ppb1/6bp/3PB1p1/3pn3/1N3B1P/Pq3PP1/R2QR1K1 w - - 0 20"]
+
+ { Romanov – Shirov, Warsaw (rapid) 2011 } { _ } 20. Bxe4 { White missed an easy win in this rapid game. } Bxe5 21. Bxg6 fxg6 { Here } 22. Re2 $1 { would have decided the game instantly. Instead, White played the horrific: } ( 22. Rxe5 $4 Rxf2 23. Qg4 Rcc2 24. Kh1 Rxg2 { and had to resign. 0–1 } ) 
+
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788545/"]
+[Date "????.??.??"]
+[Round "7.7"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #3"]
+[Result "1-0"]
+[FEN "r1b1r1k1/ppp3bp/2n2qp1/4pp2/2P5/BQN1P1P1/P4PBP/1R1R2K1 w - - 0 16"]
+
+ { Salem – Beliavsky, Khanty-Mansiysk (ol) 2010 } { _ } 16. Bd5+ $1 { Before attacking the c7-pawn, White throws in this little intermediate move. After } ( 16. Nb5 $6 Qf7 17. Bd5 Be6 $1 { Black would even be better, were it not for the strong move } 18. Bd6 $3 { leading to complications slightly favouring White. } ) 
+Re6 ( 16... Kh8 17. Nb5 { And } ( 16... Be6 17. Qxb7 { are both equally hopeless. } ) 
+ ) 
+17. Nb5 Ne7 18. Bxe6+ Bxe6 19. Nxc7 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788546/"]
+[Date "????.??.??"]
+[Round "7.8"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #4"]
+[Result "1-0"]
+[FEN "8/pppR1pk1/2nr2p1/4p1Pp/4Q2P/2P2R2/qP3P2/2K5 w - - 0 29"]
+
+ { Mamedov – Organdziev, Plovdiv 2010 } { _ } 29. Qa4 $1 ( 29. Rdxf7 $6 { would, of course, give White a considerable advantage, but we should not fail to look for ways we can improve things. } ) 
+Qd5 ( 29... Qxa4 { would allow a direct mate. } ) 
+ { Now White has won a useful tempo. } 30. Rdxf7+ Qxf7 31. Rxf7+ Kxf7 32. Qb3+ { White won on move 55. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788547/"]
+[Date "????.??.??"]
+[Round "7.9"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #5"]
+[Result "1-0"]
+[FEN "7r/ppk1pQ2/5b1p/1q3p2/8/5BP1/P4P1P/3R2K1 w - - 0 25"]
+
+ { Kulaots – Fauland, Aix-les-Bains 2011 } { _ } 25. a4 $3 { You can also call this a decoy. The thing is that White improves his position rather than immediately trying to attack the black king. } Qxa4 { Black is lost in all cases; the queen has to give up her perfect position. } ( 25... Qc5 26. Qb3 b6 27. Qd3 { and Black is killed on the light squares. } ) 
+ ( 25... Qb4 26. Qa2 $1 { shows another benefit of the pawn sacrifice. } Rd8 27. Qc2 $1 ( 26... Qxa4 26. Rc1 $5 Kb8 28. Rb1 { also wins. But after } ) 
+ ( 26... Qxa4 26. Rb1 $4 Rd2 $1 { White is missing a check on g8. } ) 
+Qc3 28. Qxc3 Bxc3 29. Rc1 Rd3 30. Be2 { White wins. } ) 
+ ( 25... Qb6 26. Qa2 $1 { and wins. } ) 
+26. Rb1 { 26 Qd5 and } ( 26. Rc1 Kb8 27. Rb1 { were other wins available. } ) 
+Qd4 27. Qe6 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788548/"]
+[Date "????.??.??"]
+[Round "7.10"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #6"]
+[Result "1-0"]
+[FEN "2R2b1k/5q2/1p5p/p2P1p2/P4p1B/1P2rB2/5K1P/6R1 w - - 0 48"]
+
+ { Malakhov – Bosiocic, Sibenik 2010 } { _ } 48. Bh5 $1 { A fine initial sacrifice. } Qxh5 { Now comes an important change of direction. } 49. Bf6+ $1 ( 49. Rxf8 $2 { is flawed on account of } Kh7 50. Rh8 Kxh8 51. Bf6 Kh7 52. Rg7 Kh8 53. Rg5 Kh7 54. Rxh5 Kg6 $1 { ending with a drawn ending. } ) 
+Kh7 50. Rc7+ $1 { The real point of the exercise. The road to g7 is finally cleared. } Be7 51. Rg7+ Kh8 52. Rg5+ ( { Chessable Note: } 52. Rgxe7 Kg8 53. Rc8 Qe8 54. Rcxe8 { is a forced mate and stronger than } 52. Rg5 ) 
+Bxf6 53. Rxh5 { White wins on points. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788549/"]
+[Date "????.??.??"]
+[Round "7.11"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #7"]
+[Result "*"]
+[FEN "r4k2/2p3p1/1p1qrn1p/p4R2/P5PP/1Q6/1B3P2/5RK1 b - - 0 24"]
+
+ { Yu Yangyi – Jumabayev, Moscow 2011 } { _ } 24... { -KEY- } Rae8 $3 { Black is in trouble, but could have saved the game with the help of a nice intermediate move. In the game White was winning after: } ( 24... Ke8 $2 25. Rd1 $1 Qe7 26. g5 hxg5 ( 26... Re1 27. Rxe1 Qxe1 28. Kh2 Ng4 29. Kg2 $18 ) 
+27. hxg5 Nh7 ( 27... Re1 28. Rxe1 Qxe1 29. Kh2 Ng4 30. Kg3 Qg1 31. Kh4 $18 ) 
+28. Ba3 Re1 29. Kh2 Qe6 30. Rxe1 { 1-0 } ) 
+25. g5 ( 25. Ba3 c5 26. g5 { does not improve White’s chances. Black can still force a draw with } Re3 { But now has the extra option of continuing the fight with: } ( 26. g5 Re4 $5 27. Qg3 Qxg3 28. fxg3 Rxa4 29. Bc1 hxg5 30. hxg5 Re6 31. gxf6 gxf6 32. Rxf6 Rxf6 33. Rxf6 Ke7 { when the endgame is quite complex. } ) 
+ ) 
+Re3 $1 { The point. Black escapes with a perpetual check, as it is White who would have to defend after } 26. Qc2 $6 R3e4 $1 27. Qd1 $1 Qb4 28. Bxf6 Rg4+ 29. Kh2 Qe4 30. Qf3 Rxh4+ 31. Kg3 gxf6 32. Rxf6+ Kg7 $15 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788550/"]
+[Date "????.??.??"]
+[Round "7.12"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #8"]
+[Result "0-1"]
+[FEN "r2r2k1/pb2ppbp/q5p1/2Q1P2n/P2p4/1P4PP/NB2PPB1/1R3RK1 b - - 0 19"]
+
+ { Cornette – Hamdouchi, Mulhouse 2011 } { _ } 19... { -KEY- } Nxg3 $1 { A strong prelude to the exchange on g2. The immediate } ( 19... Bxg2 20. Kxg2 Qb7 21. Kg1 { is not so bad for White, although he remains uncoordinated. } ) 
+20. fxg3 { White can actually win a piece with } ( 20. Nb4 Nxe2 21. Kh2 Qe6 22. Bxb7 { but after } Bxe5 { the Black attack is clearly decisive. For example: } 23. f4 Nxf4 24. Kg1 Bd6 25. Qc2 Rab8 26. Qe4 Qxh3 { and Black wins. } ) 
+Bxg2 ( 20... Rac8 $2 { would be a bad intermediate move. After } 21. Qb5 { White wins. } ) 
+21. Rf2 { White sort of gives up but plays on at the same time. The point of the combination was of course that after } ( 21. Kxg2 Qxe2 22. Kg1 ( 22. Rf2 $6 Qe4 { just picks up the rook on b1. } ) 
+ { Black has } Qe3 $1 { with the ideas } 23. Kg2 { And } ( 23. Kh1 Qxg3 ) 
+Rac8 $1 { both with a winning attack for Black. } ) 
+Bxh3 22. Nb4 Qe6 23. Nc6 Rd7 24. Ba3 Re8 25. Kh2 Bf5 26. Rd1 Be4 27. Nxd4 Qxe5 28. Nf5 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788551/"]
+[Date "????.??.??"]
+[Round "7.13"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #9"]
+[Result "0-1"]
+[FEN "4rbk1/1r1q1ppp/2b2n2/R3p1N1/2P5/6NP/1PQ2PP1/2B1R1K1 b - - 0 24"]
+
+ { E. Berg – Adams, Gibraltar 2012 } { _ } 24... { -KEY- } h6 $1 { Black would also have the initiative after } ( 24... Bb4 $6 { but White can avoid losing anything with } 25. Rd1 Qc8 26. Ra1 $15 ) 
+25. Nf3 { After } ( 25. N5e4 Nxe4 { White should give up the exchange with } 26. Rxe4 { with a poor position... As after } ( 26. Nxe4 $6 Bb4 { White no longer has } 27. Rd1 { because of } Bxe4 $1 { winning a piece. } ) 
+ ) 
+Bxf3 26. gxf3 Bb4 27. Rexe5 ( 27. Rd1 { gives Black the extra option of } Qxh3 { when after } 28. Rb5 e4 $1 29. fxe4 ( 29. Nxe4 Nxe4 30. fxe4 Qg4 31. Kf1 Rxb5 32. cxb5 Bc5 { also gives Black a winning attack. White does not lose immediately, but his position is so ruined it could be called a collection of rocks. } ) 
+Rxb5 30. cxb5 h5 $1 { Black has a deadly attack. } ) 
+Bxa5 28. Rxa5 Qxh3 29. Bd2 Rd7 30. Bc3 Red8 31. Ra1 Nh5 32. Nxh5 Qxh5 33. Ba5 Re8 34. Qa4 Qh3 35. Qc6 Re6 36. Qa8+ Kh7 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788552/"]
+[Date "????.??.??"]
+[Round "7.14"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #10"]
+[Result "1-0"]
+[FEN "rn2r1kb/1b3p1p/pq1p1np1/1p1P4/2pNPB2/2N4P/PPBQ1PP1/R3R1K1 w - - 0 19"]
+
+ { Manolache – Ardelean, Sarata Monteoru 2011 } { _ } 19. { -KEY- } Nf5 $1 gxf5 ( 19... Nh5 20. Nxd6 $18 ) 
+20. Bh6 f4 $1 { The only defensive try, but not good enough. } ( 20... Bg7 { loses elementarily to } 21. Bxg7 Kxg7 22. Qg5 { While Black is completely overrun after } ) 
+ ( 20... Nh5 21. Qg5 Ng7 22. exf5 { where the attack comes way too fast: } Rxe1 23. Rxe1 f6 24. Qxf6 Nd7 25. Qg5 Rf8 26. Re7 Rf7 27. Ne4 { and White wins. } ) 
+21. Qxf4 Nh5 22. Qh4 Re5 { White is also winning after } ( 22... Ng7 23. e5 $1 { attacking h7. And } ( 22... Nd7 23. Qxh5 Ne5 24. Be3 Qc7 25. f4 ) 
+ ) 
+23. Be3 $1 { The point. White now gets f2-f4 in with a winning attack. } Qc7 24. f4 Nxf4 25. Bxf4 Nd7 26. Re3 Bg7 27. Rg3 Kh8 28. Qg4 Rg8 29. Bh6 Rg5 30. Bxg5 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788553/"]
+[Date "????.??.??"]
+[Round "7.15"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #11"]
+[Result "0-1"]
+[FEN "1r2qrk1/Qp2P1bp/3p1n2/B3p3/5p2/3N1Pp1/PP2B1P1/2R2RK1 b - - 0 25"]
+
+ { Lach – Dworakowska, Warsaw 2011 } { _ } 25... { -KEY- } Qh5 $1 { A tempting sacrifice that works because of a fine detail. } ( 25... Ra8 26. Qb6 Qh5 $1 { transposes. } ) 
+26. exf8=Q+ Bxf8 $1 ( 26... Rxf8 $2 27. Rfd1 { would not work. Black has no big threats. } ) 
+27. Rfe1 ( 27. Rfd1 { does not change anything. } ) 
+Ra8 $1 { The point. The white queen does not have any good squares at her disposal. } 28. Bb6 $6 ( 28. Qxa8 Qh2 29. Kf1 Qh1 { Objectively, the best try was } ( 28. Qb6 $5 Nd5 29. Bd1 { although after } Nxb6 30. Bb3 Kh8 31. Bxb6 Ra6 $1 { it is now the bishop which is out of squares. After } 32. Bf2 Rc6 { Black should win, but there will still be a lot of play before this happens. } ) 
+ ) 
+Qh2+ { Black could also have decided the game with } ( 28... Rxa7 $5 { with the point that } 29. Bxa7 b6 $3 30. Bxb6 Nd5 { would give an important tempo to play Ne3, after which Black will win quickly. } ) 
+ ( 28... Rxa7 $5 29. Bxa7 b6 $3 30. Bxb6 Nd5 ) 
+29. Kf1 Qh1+ 30. Bg1 Rxa7 31. Nb4 Ra8 $6 { Black was probably running out of time here. } ( 31... d5 $1 { was stronger, but Black managed to win the game on move 45 anyway. } ) 
+
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788554/"]
+[Date "????.??.??"]
+[Round "7.16"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #12"]
+[Result "*"]
+[FEN "6rk/2R1Q1np/p1bp1p2/5P2/2P5/P4P2/1q4PP/4R2K w - - 0 42"]
+
+ { Solak – Karjakin, Dresden (ol) 2008 } { _ } 42. c5 $1 { This is stronger than the immediate } ( 42. Rxc6 $2 { which would be a disaster because of } Nxf5 { with an inconvenient double threat. And following } 43. Qe2 Qxe2 44. Rxe2 Nd4 { White would have to fight for a draw in the endgame after } 45. Rxd6 Nxe2 46. Rxf6 Rg6 { and might not be successful. } ( 42. h3 $2 { would allow Black to escape with a draw after } Bxf3 $1 43. gxf3 Qf2 44. Qe2 Qh4 $1 { with counterplay against h3 and a route for the knight to g3. } 45. Rg1 Qxh3 46. Qh2 Qxf3 47. Qg2 Qh5 48. Qh2 Qf3 $11 { After } ) 
+ ( 42. Rf1 $5 { White would retain some advantage, but a lot of play remains. } ) 
+ ) 
+dxc5 { Black has nothing better. } ( 42... Bxf3 43. gxf3 Qf2 44. Qe2 { does not work for Black this time around. } ) 
+43. Rxc6 Re8 ( 43... Nxf5 { can now be met with } 44. Qxf6 { and it is time to resign. This is the crucial improvement over 42 Rxc6. } ) 
+44. Qxe8+ Nxe8 45. Rxe8+ Kg7 46. Re7+ Kf8 47. Re1 { White is winning in this complex ending. He eventually ran short of time and made some mistakes, allowing Black to get back in the game. Final justice was served when Black blundered and lost on move 96. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788555/"]
+[Date "????.??.??"]
+[Round "7.17"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #13"]
+[Result "*"]
+[FEN "r1b3kr/4bpNp/p3pn1B/1p2q3/8/1nN2Q2/PPP3PP/R4R1K b - - 0 18"]
+
+ { S. Salov – Huschenbeth, Khanty-Mansiysk (ol) 2010 } { _ } 18... Bd6 $1 { would have won quickly. In the game, } ( 18... Nxa1 $2 19. Qxa8 Ng4 20. Qxc8 Bf8 21. Bf4 { led to complicated play. Black erred and lost in 29 moves. } ) 
+ ( 18... Ra7 $2 19. Rae1 { is directly winning for White: } Qc7 20. Ne8 $1 { and Black is mated – e.g. by Qxf6! } ) 
+19. g3 Ra7 { Or } ( 19... Rb8 { Black is winning because of the weakness of the light squares. } ) 
+ { For example: } 20. Rae1 Bb7 { with an extra rook for Black. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788556/"]
+[Date "????.??.??"]
+[Round "7.18"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #14"]
+[Result "1-0"]
+[FEN "2r1k2r/pp2bp1B/4p1p1/1bnpP3/1q6/4BN2/PP3PPP/1QRR2K1 w k - 0 19"]
+
+ { Fedorchuk – Anton Guijarro, Madrid 2010 } { _ } 19. { -KEY- } Rd4 $1 { White is better after } ( 19. Bxg6 { but with } Qg4 $1 { Black would be able to put up a lot of resistance. Instead White found an intermediate move preparing the combination. } ) 
+Bc4 ( 19... Qa5 { is no better. After } 20. b4 Qa6 21. Bxg6 $1 fxg6 22. bxc5 Rg8 23. Rb4 { White is in control, even if Black does not have to resign immediately. However, postponing death is not the same as living. } ) 
+20. Bxg6 fxg6 21. Rcxc4 $1 { A nice shot. } Qxc4 ( 21... dxc4 22. Qxg6 { leads directly to mate. The black king cannot run away. } ) 
+22. Rxc4 dxc4 23. Qxg6+ Kd7 24. Nd4 a6 25. f4 Rhf8 26. f5 exf5 27. e6+ Kd8 28. Nxf5 Rf6 29. Qg8+ Rf8 30. Qh7 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788557/"]
+[Date "????.??.??"]
+[Round "7.19"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #15"]
+[Result "1-0"]
+[FEN "r3rbk1/p2b1p2/4pBpp/2ppP2P/2q5/P1P5/1P1Q1PPN/R3R1K1 w - - 0 25"]
+
+ { Volkov – Miroshnichenko, Nakhchivan 2011 } { _ } 25. { -KEY- } b3 $1 { White decoys the black queen, leading to a winning attack. White has a more elaborate win with } ( 25. hxg6 fxg6 26. b3 Qxb3 27. Ng4 Kh7 28. Bg5 $3 hxg5 29. Qxg5 { followed by Re3. The game is much simpler for a human. } ) 
+ ( 25. Re3 Qf4 $1 { would make it much harder for White to continue his attack. } ) 
+Qxb3 26. Ng4 Kh7 27. Re3 Qc4 ( 27... gxh5 28. Qd3 Kg8 29. Rg3 { and White wins. } ) 
+28. hxg6+ $6 { Good enough to win, but it made more sense to play } ( 28. Nxh6 $1 { immediately, and win the f7-pawn if the knight is not captured. } ) 
+fxg6 29. Nxh6 Qf4 30. Nf7 Kg8 31. Nh8 $1 d4 ( 31... Bh6 32. Qe2 { and wins. } ) 
+32. cxd4 cxd4 33. Qd3 Qf5 34. Qxd4 Bc6 35. Rg3 Be4 36. Nxg6 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788558/"]
+[Date "????.??.??"]
+[Round "7.20"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #16"]
+[Result "*"]
+[FEN "1k1r2r1/pp1bqp1p/2n2n2/1N6/Qb1N2p1/4P3/PB2BPPP/R4RK1 b - - 0 17"]
+
+ { Wahlbom – Compton, Gibraltar 2011 } { _ } 17... { -KEY- } a6 $1 { There are certainly strong threats against the black king and Black should feel nervous. However, with an intermediate move, he is able to save the game. } ( 17... Qe4 18. Bd3 $1 { is a disaster for Black. For example, } Qd5 { Or } ( 18... Qxd3 19. Rad1 Qe4 20. Nxc6 { and mate to follow. } ) 
+19. Nc2 ) 
+18. Nxc6+ ( 18. a3 Nxd4 19. Bxd4 Bd6 { gives quite a complicated game where Black may have good chances of starting a serious attack. A fantasy line could be } 20. Bd3 Rg5 $1 21. Bxf6 Qxf6 22. Qd4 Qxd4 23. Nxd4 Rc5 { and life is sweeter for Black. } ) 
+Bxc6 19. Bxf6 Qxf6 $2 { Black is so close, but still misses } ( 19... Qe4 $1 { when the threat of mate is rather annoying for White. He has no choice but to look for a draw after } 20. Be5 Ka8 21. Nc7 Ka7 22. Nb5 ) 
+20. Qxb4 $16 { White won on move 46. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788559/"]
+[Date "????.??.??"]
+[Round "7.21"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #17"]
+[Result "1-0"]
+[FEN "1r4k1/1pR2p2/1Pr1b2p/2B1b3/1PB1p3/6P1/5P2/5RK1 w - - 0 32"]
+
+ { Aagaard – Isonzo, Arco 2005 } { _ } 32. { -KEY- } Rxc6 Bxc4 33. Rc1 Be6 ( 33... bxc6 34. Rxc4 f5 35. Be3 { and White wins. } ) 
+34. Bd6 $1 { The intermediate move – very simple really. Instead, } ( 34. Rxe6 $2 fxe6 35. Be3 $16 { was the game. I won on move 64, but was greatly disappointed with my play. I was sure I had the win in my hands earlier, and walking back to the hotel it was not difficult to work out the win in my head. } ) 
+bxc6 35. Bxb8 Bxb8 36. Rxc6 Bd7 37. Rc4 Kf8 38. b7 { White wins. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788560/"]
+[Date "????.??.??"]
+[Round "7.22"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #18"]
+[Result "1-0"]
+[FEN "3r4/1p4bk/1q1prnpp/p7/2P2B2/1PN2Q2/P5PP/3R1R1K w - - 0 27"]
+
+ { Robson – Belous, Moscow 2012 } { _ } 27. Bxh6 $3 { White has only one immediate win. } ( 27. Nd5 Nxd5 28. Qxd5 Rf6 $16 { favours White, but this spectacular intermediate move is better. } ) 
+Bxh6 ( 27... Kxh6 28. Qh3 Nh5 29. Nd5 { followed by 30 Qxe6 is a fairly simple win. } ) 
+28. Nd5 Nxd5 { White now has a check on f7. } 29. Qf7+ Bg7 30. Qxe6 Ne3 ( 30... Nc7 31. Qg4 { would also lead to a winning attack. The threat is Qh4+: } Re8 32. Qh3 Kg8 33. Qd7 d5 34. Qf7 Kh7 35. Rf3 { winning. } ) 
+31. Rd3 Nf5 32. Rxf5 { Black is mated. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1812307/"]
+[Date "????.??.??"]
+[Round "7.23"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #19"]
+[Result "1-0"]
+[FEN "2b1k2r/r1qnbppp/p3p3/1Pp5/1n1PP2N/2QB4/1P1N1PPP/R1B2RK1 w k - 0 17"]
+
+ { Victor Bologan – Ernesto Inarkiev, Poikovsky 2013 } { _ } 17. { -KEY- } dxc5 $1 ( 17. b6 $6 { is an intermediate move, but not a good one. } Nxb6 ( 17. dxc5 Qxb6 18. dxc5 Qb8 $1 { is also okay for Black. } ) 
+18. dxc5 Qxc5 { This is fine for Black on account of an accurate line. } 19. Qxg7 Rf8 20. Be2 Nc2 $1 { Important intermediate moves. } ( 20. dxc5 Bxh4 { surprisingly loses to } 21. Nf3 Be7 22. Be3 Qc7 23. Ng5 { and Black’s position collapses. } ) 
+21. Rb1 Nd4 $1 { Black will take on h4 on the next move with a messy position resulting. } ) 
+Nxc5 $6 { This simply loses. Sometimes it can be difficult to understand what a player missed. The key idea in the position is found after } ( 17... Nxd3 { when White has a fine intermediate move in } 18. b6 $3 { forcing the knight away from the control of the f6-square, making ...Bf6 impossible. } Nxb6 19. Qxg7 $1 { and everything hangs for Black. } Qe5 { is forced. } 20. Qxe5 Nxe5 21. cxb6 Rb7 22. Nhf3 Nxf3 23. Nxf3 Rxb6 24. Be3 $1 { ± White has an extra pawn, but of course, the game is not decided yet. Good technique will be required to convert the advantage into a full point. } ) 
+18. Qxb4 { Simple chess. 18 Be2 and 18 Qxg7 also won. The concept is a bit complex, but essentially, after } ( 18. Qxg7 Rf8 19. Be2 Bxh4 20. Nc4 Rb7 21. Bh6 Be7 22. e5 { Black is without a future. For example: } axb5 23. Nd6 Bxd6 24. exd6 Qxd6 25. Ra8 Rc7 26. Rc1 { and Black has an extra piece, but more or less all of his pieces are liable to fall with check and most will not be avenged. } ) 
+Bxh4 $6 { This offers no resistance, but White also wins after } ( 18... Nxd3 19. Qd4 $1 { with a decisive triple attack. } O-O 20. Qxd3 Bxh4 21. Nf3 Be7 22. Be3 { is the most sane line. White wins. } ) 
+19. b6 Nxd3 20. Qa4+ Qd7 21. bxa7 Bb7 22. Qxd7+ Kxd7 23. Nf3 Nxc1 24. Raxc1 Bd8 25. Rfd1+ Ke7 26. Rc8 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788562/"]
+[Date "????.??.??"]
+[Round "7.24"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #20"]
+[Result "*"]
+[FEN "2r1r3/6bk/p7/2P5/2Bnq1NK/P3B2P/8/2RRQ3 b - - 0 40"]
+
+ { Navara – Colin, Aix-les-Bains 2011 } { _ } 40... Bf6+ $1 { In the game, Black made his task difficult: } ( 40... Nf3 $6 41. Kg3 Nxe1 42. Rxe1 Rf8 { Black was still winning easily after } ( 42... Be5 $1 43. Kf2 Rf8 44. Kg1 Bd4 $1 45. Rcd1 Bxe3 46. Nxe3 Qh4 { when White’s defence is falling away. } ) 
+43. Bf2 Rf3 44. Kh2 Qf4 45. Kg2 Rf8 $6 ( 45... Bd4 $1 { was stronger. Black wins. } ) 
+46. Rc2 Rxa3 47. Bd5 Kh8 $2 ( 47... Bd4 $1 { was still winning. } ) 
+48. c6 Rc3 ( 48... Rd3 { also seems to lead to a draw after complicated play: } 49. c7 Rxd5 50. c8=Q $11 Qf3 51. Kh2 Rxc8 52. Rxc8 Kh7 53. Re3 Be5 54. Rxe5 Rxe5 55. Rc7 Kg8 56. Rc8 Kg7 57. Rc7 Kf8 58. Rc8 Ke7 59. Bh4 Kd6 60. Nxe5 Qe2 61. Kg1 Qxe5 62. Rg8 { and White should hold. } ) 
+49. Rxc3 Bxc3 50. Re3 Qd4 51. Bf3 Qc4 52. Bg3 Rxf3 53. Rxf3 Qxc6 54. Ne5 Qd5 55. Ng6 Kh7 56. Ne7 Qe4 57. Nf5 a5 58. Bd6 Be1 59. Bg3 Bxg3 60. Nxg3 Qd5 61. Ne2 a4 62. Nc3 Qd2 63. Kg3 a3 64. Rf7 Kg6 65. Rf6 Kg7 66. Rf3 Qe1 67. Kg2 Kg6 68. Kh2 a2 69. Nxa2 Qe2 70. Kg3 Qxa2 71. Rf4 Qa3 72. Kg2 Kg5 73. Rg4 Kf5 74. Kh2 Qb2 75. Kg1 Qe2 76. Kh1 Qf2 77. Rg2 Qe1 78. Rg1 Qe4 79. Kh2 Qc2 80. Rg2 Qc7 81. Kh1 Kf4 82. Kh2 { 1/2-1/2 } ( 40... Qe7 { leads to a draw after } 41. Bg5 Qxe1 42. Rxe1 Nf5 { with perpetual check. After } ) 
+ ( 40... Nf5 $2 41. Kh5 $1 { White would be on his way to the full point: } Qc6 42. Rd6 $1 Nxd6 43. cxd6 Qxd6 44. Bf7 { and the extra material will count. } ) 
+ { The simplest way to win was: 40...Bf6+! The transfer of the bishop from g7 to e5 improves on the win of material and converts it into a mating attack. } ) 
+41. Kg3 ( 41. Bg5 Bxg5 42. Kxg5 Nf3 43. Kf6 Qf4 ) 
+Be5+ $1 42. Kh4 ( 42. Kf2 Rf8 { wins everything. And } ( 42. Nxe5 Qxe5 43. Kg2 Qe4 { is almost worse. } ) 
+ ) 
+Nf3+ 43. Kh5 Qg6# 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788563/"]
+[Date "????.??.??"]
+[Round "7.25"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #21"]
+[Result "1-0"]
+[FEN "r3kb1r/pp3p2/2p1np2/8/2Q1p1P1/2N4P/PP3qB1/1K1R3R w kq - 0 21"]
+
+ { Tikkanen – Grover, Wijk aan Zee 2012 } { _ } 21. { -KEY- } Nxe4 $1 { White has a very attractive sacrifice at his disposal, but it is important to have a small intermediate move included in the combination to make it work. } Qxg2 22. Rhg1 $3 { It is more natural to investigate: } ( 22. Nxf6 Ke7 23. Rd7 $2 { It should be said that White is still winning after } ( 23. Rhg1 $1 { although it is slightly inaccurate compared to the game, for reasons that are too unimportant to discuss. } ) 
+Kxf6 24. Rf1 Kg5 25. Rdxf7 Re8 $1 { But not } ( 25. Rhg1 Bg7 $2 { as } 26. R7f2 $1 Qxh3 27. Rf5 Kh4 28. Qe4 { with Rh1 on the cards wins for White. } ) 
+26. R1f5 Kg6 { It turns out that this is not as dangerous as it looks for Black. White should consider taking the perpetual check. } ) 
+Qh2 ( 22... Qf3 23. Rgf1 { wins instantly. } ) 
+23. Nxf6+ Ke7 24. Rd7+ $1 { Now this combination works. White has the important extra options of checking with the g-pawn and using the e4-square for the queen. } Kxf6 25. Rf1+ Kg5 26. Rf5+ Kh6 ( 26... Kg6 27. Qe4 $1 { leaves Black without a move. } ) 
+27. Rdxf7 { The simplest, although } ( 27. g5 Kg6 28. Rf6 Kxg5 29. Rdxf7 Qxh3 30. Rxe6 { also wins. } ) 
+Ng7 ( 27... Re8 { is mate in three: } 28. g5 Kg6 29. R5f6 Kxg5 30. Qg4 { After } ( 27... Qg1 28. Rf1 Qe3 { White has various winning moves, for example: } 29. g5 Qxg5 30. R1f6 Kh5 31. Qe2 Kh4 32. Rxe6 { and Black cannot avoid mate for long. } ) 
+ ) 
+28. g5+ Kh7 29. g6+ Kxg6 30. R7f6+ { Black resigned. } Kh7 31. Rh6+ $1 Kxh6 32. Qh4+ Nh5 33. Qxh5+ Kg7 34. Qf7+ Kh6 35. Rh5# 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788564/"]
+[Date "????.??.??"]
+[Round "7.26"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #22"]
+[Result "*"]
+[FEN "5r1k/pQ4p1/2p3p1/P1b5/5p2/4BRPq/1P6/5RK1 b - - 0 33"]
+
+ { Poulton – Shaw, West Bromwich (var) 2002 } { _ } 33... { -KEY- } Kh7 $3 { Black does not have any direct active move, but he can improve his situation without offering his opponent any way out of his predicament. After } ( 33... fxe3 $2 34. Rxf8 Kh7 35. Qxc6 { Black has no win: } Bd4 36. Qe4 e2 { and it is time to take a draw with } 37. Qxd4 Qxg3 { Also } ) 
+ ( 33... Re8 $2 34. Bxc5 fxg3 35. R3f2 gxf2 36. Bxf2 { gives Black nothing more than perpetual check. } ) 
+34. Bxc5 ( 34. gxf4 { would be attractive, if the X-ray attack on e3 did not exist. } Bxe3 { and wins. } ) 
+fxg3 35. R3f2 ( 35. Qxg7 Kxg7 36. Bxf8 { does not improve anything. After } Kg8 { White has nothing better than } 37. R1f2 { giving up a rook with a lost ending. } ) 
+gxf2+ 36. Rxf2 Rd8 $1 { Black has a winning attack. } 37. Qf7 Rd1+ 38. Rf1 Qg4+ 39. Kh1 ( 39. Kf2 Rd2 40. Ke3 Qe2 { and everything goes. } ) 
+Rd5 40. Bd6 Qh3+ 41. Bh2 Rd2 { Black wins. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788565/"]
+[Date "????.??.??"]
+[Round "7.27"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #23"]
+[Result "1-0"]
+[FEN "2r2r1k/4Npbp/p2p1np1/7P/q2BP1P1/1b3P2/2PQ4/1K1R1B1R w - - 0 20"]
+
+ { Solak – Milenkovic, Nova Gorica 2011 } { _ } 20. { -KEY- } cxb3 Rb8 $1 { The first intermediate move. White should have expected this. } ( 20... Qxb3 21. Bb2 { is pretty hopeless. Black can try } Nxe4 22. fxe4 Rb8 { but White is winning after: } 23. hxg6 $1 Qxb2 24. Qxb2 Rxb2 25. Kc1 h6 26. e5 Ra2 27. Rxd6 ) 
+21. h6 $3 { This is the only winning move. You have to be pretty cool to see that Black is not threatening anything. After } ( 21. Bb5 Qxb3 22. Qb2 Qxb2 23. Bxb2 gxh5 $1 24. gxh5 Ne8 $1 { White’s advantage would have been kept to a minimum. } ) 
+Rxb3+ 22. Kc1 ( 22. Bb2 $2 { would be mistaken. After } Rxb2 $1 23. Qxb2 Qxd1 24. Ka2 Qa4 { Black escapes with a draw. } ) 
+Qa3+ 23. Bb2 Qc5+ 24. Qc2 $1 ( 24. Kb1 { is also possible, but the move in the game is clearer. } ) 
+Qe3+ 25. Rd2 $1 { Again, White needs to be accurate. After } ( 25. Kb1 $2 Rfb8 26. hxg7 Kxg7 { White has to find } 27. Rh3 $1 { to escape with a draw. } ) 
+Rfb8 ( 25... Qe1 26. Qd1 { is over, too. } ) 
+26. hxg7+ Kxg7 27. Nd5 ( 27. Bxf6 { was simpler. } ) 
+Qe1+ 28. Rd1 Qa5 29. Bxf6+ Kf8 30. Rxh7 Rb1+ 31. Qxb1 Rxb1+ 32. Kxb1 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1788566/"]
+[Date "????.??.??"]
+[Round "7.28"]
+[White "7. Intermediate Moves"]
+[Black "Exercise #24"]
+[Result "0-1"]
+[FEN "6k1/1p2p1b1/3pp1p1/8/p1q5/4RB2/1P2NrP1/1KBR4 b - - 0 25"]
+
+ { Lintchevski – Azarov, Warsaw (rapid) 2011 } { _ } 25... a3 $1 ( 25... b5 $6 26. Rd2 b4 27. Rc2 Qb5 28. Bg4 Rf5 $2 ( 28... Bh6 $1 29. Bxe6 Kg7 30. Bc4 Qd7 $17 { would still have kept a lot of pressure on White. } ) 
+ { After the move played, Black eventually won on move 38, but White could have more or less equalized with: } 29. Ng3 $1 Re5 30. Bxe6 Kh7 31. Ne4 $132 Bh6 32. Nxd6 $1 exd6 33. Rc7 Kh8 34. Rc8 { with perpetual check. } ( 25... g5 $6 { is the right idea, but the wrong execution. After } 26. Rd2 $1 { ⩱ Black has nothing special on account of } g4 $2 27. Re4 $1 { ⩲ } ) 
+ { The correct move was 25...a3!! The rook cannot take the pawn on account of ...Rxe2, so White’s options are limited. } ) 
+26. bxa3 g5 $1 { With the unstoppable threat of ...g4. } 27. Rd2 g4 { Black wins on account of } 28. Re4 Qb3+ 
+ 0-1

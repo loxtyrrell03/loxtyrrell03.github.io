@@ -1,0 +1,110 @@
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9415264/"]
+[Date "????.??.??"]
+[Round "8.1"]
+[White "7. Ruy Lopez: Anti-Berlin - 4.d3 with 5.c3"]
+[Black "Anti-Berlin 4.d3 & 5.c3 & 6.d4 Italian transposition"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to futility of White's attempts in the Berlin Endgame. } Bc5 5. c3 ( { A starting point of this chapter. This is considered a more accurate move than } 5. O-O { , because it prevents ...Nd4. However, it gives Black an attractive possibility of an immediate strike in the centre. } ) 
+ { -KEY- } d5 $1 ( { Of course } 5... O-O { and } d6 { are viable alternatives, but the text is the most active and direct way of solving Black's opening problems. I offer a similar approach of aiming at ... d5 instead of ...d6 against the Giuoco Piano. } ) 
+6. d4 { First of all, this will just transpose to a later chapter on the Italian Game. } exd4 7. e5 Ne4 8. cxd4 Bb6 { transposes to the 4.d4 exd4 5.e5 d5 6.Bb5 Ne4 7. cd4 Bb6 line of the Italian Game. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9415265/"]
+[Date "????.??.??"]
+[Round "8.2"]
+[White "7. Ruy Lopez: Anti-Berlin - 4.d3 with 5.c3"]
+[Black "Anti-Berlin 4.d3 & 5.c3 & 6.Nxe5 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to futility of White's attempts in the Berlin Endgame. } Bc5 5. c3 ( { A starting point of this chapter. This is considered a more accurate move than } 5. O-O { , because it prevents ...Nd4. However, it gives Black an attractive possibility of an immediate strike in the centre. } ) 
+d5 $1 ( { Of course } 5... O-O { and } d6 { are viable alternatives, but the text is the most active and direct way of solving Black's opening problems. I offer a similar approach of aiming at ...d5 instead of ...d6 against the Giuoco Piano. } ) 
+6. Nxe5 { This move has not been the most popular, as Black has no problems demonstrating full compensation for the pawn. -KEY- } O-O 7. Nxc6 bxc6 8. Bxc6 Bxf2+ $1 { The reckless pawn-grabbing meets a strong retort. } 9. Kxf2 Ng4+ 10. Kg1 Qf6 { A double threat! } 11. Qe2 Qxc6 12. h3 Nf6 13. Nd2 Ba6 $11 { White will most likely need to return the pawn to complete his development. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9415266/"]
+[Date "????.??.??"]
+[Round "8.3"]
+[White "7. Ruy Lopez: Anti-Berlin - 4.d3 with 5.c3"]
+[Black "Anti-Berlin 4.d3 & 5.c3 & 6.Nxe5 #02"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to futility of White's attempts in the Berlin Endgame. } Bc5 5. c3 ( { A starting point of this chapter. This is considered a more accurate move than } 5. O-O { , because it prevents ...Nd4. However, it gives Black an attractive possibility of an immediate strike in the centre. } ) 
+d5 $1 ( { Of course } 5... O-O { and } d6 { are viable alternatives, but the text is the most active and direct way of solving Black's opening problems. I offer a similar approach of aiming at ...d5 instead of ...d6 against the Giuoco Piano. } ) 
+6. Nxe5 { This move has not been the most popular, as Black has no problems demonstrating full compensation for the pawn. } O-O 7. Bxc6 { -KEY- } bxc6 8. O-O { White is catching up with development but loses the extra pawn. } dxe4 9. d4 Bd6 10. Nd2 Bb7 { The bishop pair is Black's main compensation for the pawn weaknesses. } 11. Ndc4 Qc8 $1 { A key move move, stepping out of Bg5 and preparing both ...c5 and ...Qe6. } 12. Re1 c5 13. Nxd6 cxd6 { The bishop pair is lost, but the pawn structure gets rectified. } 14. Nc4 Qe6 15. Na5 Ba6 $11 { Black has fine, active play. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9415270/"]
+[Date "????.??.??"]
+[Round "8.4"]
+[White "7. Ruy Lopez: Anti-Berlin - 4.d3 with 5.c3"]
+[Black "Anti-Berlin 4.d3 & 5.c3 & 6.Nbd2 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to futility of White's attempts in the Berlin Endgame. } Bc5 5. c3 ( { A starting point of this chapter. This is considered a more accurate move than } 5. O-O { , because it prevents ...Nd4. However, it gives Black an attractive possibility of an immediate strike in the centre. } ) 
+d5 $1 ( { Of course } 5... O-O { and } d6 { are viable alternatives, but the text is the most active and direct way of solving Black's opening problems. I offer a similar approach of aiming at ...d5 instead of ...d6 against the Giuoco Piano. } ) 
+6. Nbd2 { -KEY- } dxe4 { Black could do without this move for a while, but that would only give White an additional possibility of exd5, Bc4, b3, Ne4 etc. } 7. dxe4 O-O 8. O-O Qe7 9. b4 { This space grab is not particularly effective here, as White does not achieve anything tangible by it. } Bd6 10. a3 a5 11. Rb1 Rd8 { White expands on the queenside and Black should look for counterplay on the kingside especially with ...Nh5-f4. A sample line goes: } 12. Qc2 axb4 13. axb4 Bd7 14. Bd3 Nh5 15. g3 Qf6 16. Be2 Bg4 $11 { Black is comfortably equal again. His kingside play may prove more significant than White's queenside tries. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9415271/"]
+[Date "????.??.??"]
+[Round "8.5"]
+[White "7. Ruy Lopez: Anti-Berlin - 4.d3 with 5.c3"]
+[Black "Anti-Berlin 4.d3 & 5.c3 & 6.Nbd2 #02"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to futility of White's attempts in the Berlin Endgame. } Bc5 5. c3 ( { A starting point of this chapter. This is considered a more accurate move than } 5. O-O { , because it prevents ...Nd4. However, it gives Black an attractive possibility of an immediate strike in the centre. } ) 
+d5 $1 ( { Of course } 5... O-O { and } d6 { are viable alternatives, but the text is the most active and direct way of solving Black's opening problems. I offer a similar approach of aiming at ...d5 instead of ...d6 against the Giuoco Piano. } ) 
+6. Nbd2 dxe4 { Black could do without this move for a while, but that would only give White an additional possibility of exd5, Bc4, b3, Ne4 etc. } 7. dxe4 O-O 8. O-O Qe7 9. Qc2 { -KEY- } a5 10. a4 Nb8 $1 { The same idea as in the 9.Qe2 line. The position has a non-forcing character and is clearly harmless for Black, so I believe it is useless to drag the variation further. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/9415272/"]
+[Date "????.??.??"]
+[Round "8.6"]
+[White "7. Ruy Lopez: Anti-Berlin - 4.d3 with 5.c3"]
+[Black "Anti-Berlin 4.d3 & 5.c3 & 6.Nbd2 #03"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to futility of White's attempts in the Berlin Endgame. } Bc5 5. c3 ( { A starting point of this chapter. This is considered a more accurate move than } 5. O-O { , because it prevents ...Nd4. However, it gives Black an attractive possibility of an immediate strike in the centre. } ) 
+d5 $1 ( { Of course } 5... O-O { and } d6 { are viable alternatives, but the text is the most active and direct way of solving Black's opening problems. I offer a similar approach of aiming at ...d5 instead of ...d6 against the Giuoco Piano. } ) 
+6. Nbd2 dxe4 { Black could do without this move for a while, but that would only give White an additional possibility of exd5, Bc4, b3, Ne4 etc. } 7. dxe4 O-O 8. O-O Qe7 9. Qe2 { -KEY- } a5 { It's not like we were particularly afraid of b4 but if White didn't play let's just stop it and improve our position on the queenside. } 10. a4 Nb8 $1 { The key maneuver to remember. It originates from correspondence chess and was used over the board by Grischuk against Navara and Ivanchuk in 2017. Black achieves comfortable play by rerouting the knight to the more desirable d7 square. } 11. Nb3 Bd6 12. Bg5 h6 13. Bh4 Nbd7 ( { There is no need to play } 13... g5 { , giving White a tempting possibility of } 14. Nxg5 $5 { } ( { It's just more natural to develop the knight first. } 13... Rd8 { can even run into } 14. Nxe5 { intending f4 and e5 . } ) 
+ ) 
+14. h3 Rd8 { The rook occupies the only open file, but most importantly vacates the f8-square for the ...Nf8-g6 maneuver. } 15. Rfd1 Nf8 16. Bg3 Be6 ( { It is important not to fall into the } 16... Nh5 $2 17. Bxe5 $1 { trap. } ) 
+17. Nbd2 Nh5 18. Bh2 $6 { This was dubious. } Ng6 $15 { Black already took over the initiative in Navara-Grischuk, EU-chT 2017 } { _ } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/15043858/"]
+[Date "????.??.??"]
+[Round "8.7"]
+[White "7. Ruy Lopez: Anti-Berlin - 4.d3 with 5.c3"]
+[Black "Anti-Berlin 4.d3 & 5.c3 & 6.exd5 #01"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to the futility of White's attempts in the Berlin Endgame. } Bc5 5. c3 ( { A starting point of this chapter. This is considered a more accurate move than } 5. O-O { , because it prevents ...Nd4. However, it gives Black an attractive possibility of an immediate strike in the centre. } ) 
+d5 $1 ( { Of course } 5... O-O { and } d6 { are viable alternatives, but the text is the most active and direct way of solving Black's opening problems. I offer a similar approach of aiming at ... d5 instead of ...d6 against the Giuoco Piano. } ) 
+6. exd5 { -KEY- } Qxd5 7. Bc4 { A must, as Bxf2 was threatened. } Qd8 $5 ( 7... Qd6 { has been played almost exclusively, but I find the text move much more practical, as Black does not have to worry about all the potential attacks against the queen (Nbd2-e4/c4, b4, a4, Ba3, etc.) and can continue with harmonious development. } ) 
+8. Bg5 { This move has been recommended by Nils Grandelius on Chessable. It has to be admitted that it is a serious attempt for an advantage.' } h6 9. Bh4 $6 { This is inaccurate, but it was played in a high-level encounter Shankland - Mamedyarov, Saint Louis 2021. } g5 $1 { A very concrete move after which Black is taking over the initiative. } 10. Bg3 e4 { That's it, we are putting White under severe pressure. } 11. Qe2 Qe7 12. dxe4 Nxe4 { Black is about to take on g3 gaining two bishops with a tiny edge. } 
+ *
+
+[Event "From Berlin to Rio: 1.e4 e5 for Black"]
+[Site "https://www.chessable.com/variation/15043859/"]
+[Date "????.??.??"]
+[Round "8.8"]
+[White "7. Ruy Lopez: Anti-Berlin - 4.d3 with 5.c3"]
+[Black "Anti-Berlin 4.d3 & 5.c3 & 6.exd5 #02"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 { The so-called anti-Berlin, which was long considered completely harmless but has been gaining more and more popularity in recent years due to the futility of White's attempts in the Berlin Endgame. } Bc5 5. c3 ( { A starting point of this chapter. This is considered a more accurate move than } 5. O-O { , because it prevents ...Nd4. However, it gives Black an attractive possibility of an immediate strike in the centre. } ) 
+d5 $1 ( { Of course } 5... O-O { and } d6 { are viable alternatives, but the text is the most active and direct way of solving Black's opening problems. I offer a similar approach of aiming at ... d5 instead of ...d6 against the Giuoco Piano. } ) 
+6. exd5 Qxd5 7. Bc4 { A must, as Bxf2 was threatened. } Qd8 $5 ( 7... Qd6 { has been played almost exclusively, but I find the text move much more practical, as Black does not have to worry about all the potential attacks against the queen (Nbd2-e4/c4, b4, a4, Ba3, etc.) and can continue with harmonious development. } ) 
+8. Bg5 { This move has been recommended by Nils Grandelius on Chessable. It has to be admitted that it is a serious attempt for an advantage.' } h6 9. Bxf6 { -KEY- } Qxf6 10. Nbd2 { White exchanged his bishop for our knight arguing that now Black's queen is misplaced and he can easily push pawns on the queenside while we don't have any targets. Indeed White has nice control and our bishops aren't too threatening at the moment, but there is a nice plan for us. } Bb6 $1 ( { Not mentioned by Grandelius. Black steps out of the Ne4-Nxc5 idea and prepares ...Bf5 and ...O-O-O. He considers mainly } 10... O-O { and after } 11. O-O Bb6 12. Re1 Bg4 13. h3 Bh5 14. Bd5 { it's not much, but White is slightly better. } ) 
+11. O-O Bf5 12. Ne4 ( 12. Re1 O-O-O { is fine too. } ) 
+Qe7 13. b4 { A logical queenside expansion, which should not, however, discourage Black from castling the long way. } O-O-O 14. Qe2 Rhe8 { Reinforcing the centre. If White waits with a4 now, the plan of ...Kb8, ...Bc8 and ...f5 should give Black adequate counterplay. } 15. a4 a5 16. Rfe1 f6 $11 { Just reinforcing the e5-point again. White has no clear way to proceed on the queenside, e.g. } 17. Bb5 Bd7 18. bxa5 Nxa5 19. Rab1 Kb8 $11 { Black's king is a bit more exposed, but he has a better structure. } 
+ *

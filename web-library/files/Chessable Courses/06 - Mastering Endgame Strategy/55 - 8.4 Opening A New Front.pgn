@@ -1,0 +1,308 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12686803/"]
+[Date "????.??.??"]
+[Round "55.1"]
+[White "8.4 Opening A New Front"]
+[Black "Opening a new front"]
+[Result "*"]
+
+ { In the later stages of the game, it is often difficult to realize a positional advantage if the opponent has only one weakness, or in wider terms, one single burden. In the endgame this is particularly evident, as the reduced material tends to have a relieving effect upon the defence. Thus a key idea for the attacker is to create an additional burden, such as a weak enemy pawn, an entry square, an open file, or a passed pawn of his own, in order to exhaust the opponent's defences.When starting such action we often aren't sure about what kind of burden will appear in the end, and this is the reason why I prefer the more general term 'new front' to the usual 'the principle of two weaknesses'. By the way, note that the number of burdens (two, three, four, etc) isn't the main point here - what counts is the effect caused upon the defender.Throughout the book we came across many cases of opening a new front; e.g. in Averbakh-Matanovic, Tiviakov-Anand, Smyslov-Karlsson, Savchenko-Couso, Kacheishvili-Atakisi, and others. In fact, the whole section on fixing pawns in Chapter Four involved this idea. Here are some further examples. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13200865/"]
+[Date "????.??.??"]
+[Round "55.2"]
+[White "8.4 Opening A New Front"]
+[Black "Example 486- Eljanov- P. vs. Kosic- D.- Turin Olympiad 2006"]
+[Result "1-0"]
+[FEN "8/1n3kpp/1Bb1pp2/pp6/3KPP2/PP6/4B1PP/8 w - - 0 1"]
+
+ { Thanks to his bishop pair and more active king White is much better, but Black has managed, using a barrier, to set up a fortress on the queenside. } 1. { -KEY- } h4 $1 { Opening a new front on the opposite flank. } ( { a) Less was promised by } 1. e5 f5 2. g4 fxg4 3. Bxg4 g6 ) 
+ ( { b) Or } 1. Bf3 Ke7 2. e5 Bxf3 3. gxf3 f5 4. a4 bxa4 5. bxa4 Kd7 { with } 6. -- Kc6 { next. } ) 
+Ke7 2. g4 Kd6 3. e5+ { Avoiding 3...e5+ while clearing the b1-h7 diagonal for the bishop. } fxe5+ 4. fxe5+ Ke7 5. Bd3 g6 ( { Or } 5... h6 6. h5 Kf7 7. Ke3 $1 Ke7 8. Kf4 Kf7 9. g5 { with similar play. } ) 
+6. h5 $1 { Such pawn breaks, with the purpose of creating new weaknesses, are typical when possessing the bishop pair in the endgame. We saw some related cases in Examples 275 (Gurevich-Sandipan) and 277 (Illescas-Krasenkow). } gxh5 7. gxh5 h6 8. Be2 Kf7 9. Kc3 Kg7 10. Bd3 Kf7 11. b4 { Finally fixing the b5-pawn. This means that White will no longer be able to enter with the king via b4-a5 but, as we will see next, he has other plans. } a4 12. Be3 Kg7 13. Kd4 Be8 14. Be2 ( { A good alternative was } 14. Be4 $1 Nd8 15. Kc5 Bxh5 16. Kxb5 { with similar play as after White's 20th move in the game. } ) 
+Bc6 15. Bf4 Kh7 16. Bf1 $1 { Losing a tempo. } Kg7 17. Bd3 { Zugzwang - one of Black's various burdens (the b5-pawn, the entry square on c5, the h6-pawn and the h1-a8 diagonal) can no longer be carried on his shoulders. } Be8 18. Be4 { Destroying the enemy barrier. } Nd8 19. Kc5 Bxh5 20. Kxb5 { Such positions with mutual passed pawns are much to the liking of the bishop pair. } Be8+ ( { After } 20... Bg6 21. Bg2 Bc2 22. Kb6 Kg6 23. Kc7 Kf5 24. Bh2 Nf7 25. b5 { , White also wins - Müller. } ) 
+21. Kc5 h5 22. Bg5 Nf7 23. Bf6+ { Helpless against the looming advance of the b-pawn, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676288/"]
+[Date "????.??.??"]
+[Round "55.3"]
+[White "8.4 Opening A New Front"]
+[Black "Eljanov- P. vs. Kosic- D.- #1"]
+[Result "1-0"]
+[FEN "8/1n3kpp/1Bb1pp2/pp6/3KPP2/PP6/4B1PP/8 w - - 0 1"]
+
+ { Thanks to his bishop pair and more active king White is much better, but Black has managed, using a barrier, to set up a fortress on the queenside. } 1. { -KEY- } h4 $1 { Opening a new front on the opposite flank. } ( { a) Less was promised by } 1. e5 f5 2. g4 fxg4 3. Bxg4 g6 ) 
+ ( { b) Or } 1. Bf3 Ke7 2. e5 Bxf3 3. gxf3 f5 4. a4 bxa4 5. bxa4 Kd7 6. -- { with } Kc6 { next. } ) 
+Ke7 2. g4 Kd6 3. e5+ { Avoiding 3...e5+ while clearing the b1-h7 diagonal for the bishop. } fxe5+ 4. fxe5+ Ke7 5. Bd3 g6 ( { Or } 5... h6 6. h5 Kf7 7. Ke3 $1 Ke7 8. Kf4 Kf7 9. g5 { with similar play. } ) 
+6. h5 $1 { Such pawn breaks, with the purpose of creating new weaknesses, are typical when possessing the bishop pair in the endgame. We saw some related cases in Examples 275 (Gurevich-Sandipan) and 277 (Illescas-Krasenkow). } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13200948/"]
+[Date "????.??.??"]
+[Round "55.4"]
+[White "8.4 Opening A New Front"]
+[Black "Example 487- Kharlov- A. vs. Petukhov- V.- Russian Team Championship 2005"]
+[Result "1-0"]
+[FEN "2r5/1prkn2p/p1bp1pp1/P2p1p2/1N1P4/1P2PB2/2PK1PPP/R6R w - - 0 1"]
+
+ { In view of the chronic weakness on d5 White is better, but how to progress? } 1. { -KEY- } h3 $1 { Preparing g2-g4 with a new front on the kingside. } Ke6 ( { If } 1... h5 { , then } 2. g4 $1 { anyway, when at least one file is cleared for the rooks. } ) 
+2. g4 Rh8 3. Rag1 fxg4 4. hxg4 ( { Another option was } 4. Bxg4 $5 f5 5. Bf3 { with h4-h5 next, in order to create a weakness on g6 - Roiz. } ) 
+g5 $6 { Black enables ...Be8-g6, but 'don't move your pawns where you are weaker' goes an old saying. } ( { A safer choice was } 4... h6 { followed by ...Kf7-g7 - Roiz. } ) 
+5. Rh6 Be8 6. Bh1 $1 { Preparing f2-f4 with increased pressure on Black. } ( 6. e4 dxe4 7. Bxe4 Bg6 8. Bxg6 Nxg6 9. Re1 Kf7 10. Nd5 Rcc8 { and Black keeps the material balance. } ) 
+Bg6 7. f4 Be4 $2 { A tactical slip. } ( { Correct was } 7... Kf7 $1 8. c3 ( { not } 7... Be4 7. f5 $6 Kg7 { and 9... Bf7; } ) 
+Kg7 9. Rh3 Be4 10. Bxe4 dxe4 { with an inferior, but materially balanced position. } ) 
+8. fxg5 Ng8 9. Bxe4 dxe4 10. d5+ Kf7 ( { Or } 10... Ke5 11. Rf1 $1 Nxh6 12. gxh6 { with mate - Roiz. } ) 
+11. g6+ $1 { Perhaps Black had overlooked this intermediate check, which preserves White's extra pawn. } Kg7 12. Rxh7+ Rxh7 13. gxh7 Kxh7 14. c4 $1 { Kharlov clears a path for his knight along c2-d4, and takes a first step in the future advance of the queenside pawn majority. } Kg6 15. Nc2 Nh6 16. Kc3 Nf7 ( { Or } 16... Rg7 17. Nd4 Kf7 18. Rh1 $1 { when both } Rg6 ( { and } 18... Nxg4 19. Nf5 ) 
+19. Nf5 Nxf5 20. gxf5 { followed by Kd4, are terminal for Black - Roiz. } ) 
+17. Nd4 Ne5 18. g5 $1 { A clever temporary sacrifice to activate the rook. } f5 ( { If } 18... fxg5 { then } 19. Ne6 Re7 ( { or } 19... Nf3 20. Rxg5 $1 Nxg5 21. Nxc7 Kf5 22. Ne6 $1 { heading for d8; } ) 
+20. Rxg5 Kf6 21. Rg8 { with an overwhelming advantage. } ) 
+19. Rh1 Ng4 20. Ne6 Rc8 ( { Or } 20... Re7 21. Rh8 Nxe3 22. Rh6 Kf7 23. Rh7 Ke8 24. g6 { etc - Roiz. } ) 
+21. Rh3 Rb8 22. b4 b6 23. axb6 Rxb6 24. Rh8 Ne5 ( { If } 24... Nxe3 { then } 25. Rh6 Kf7 26. g6 { etc. } ) 
+25. Rh6+ Kf7 26. Rf6+ ( { In view of his hopeless position after } 26. Rf6 Ke7 27. Nd4 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676314/"]
+[Date "????.??.??"]
+[Round "55.5"]
+[White "8.4 Opening A New Front"]
+[Black "Kharlov- A. vs. Petukhov- V.- #1"]
+[Result "1-0"]
+[FEN "2r5/1prkn2p/p1bp1pp1/P2p1p2/1N1P4/1P2PB2/2PK1PPP/R6R w - - 0 1"]
+
+ { In view of the chronic weakness on d5 White is better, but how to progress? } 1. { -KEY- } h3 $1 { Preparing g2-g4 with a new front on the kingside. } Ke6 ( { If } 1... h5 { then } 2. g4 $1 { anyway, when at least one file is cleared for the rooks. } ) 
+2. g4 Rh8 3. Rag1 fxg4 4. hxg4 ( { Another option was } 4. Bxg4 $5 f5 5. Bf3 { with h4-h5 next, in order to create a weakness on g6 - Roiz. } ) 
+g5 $6 { Black enables ...Be8-g6, but 'don't move your pawns where you are weaker' goes an old saying. } ( { A safer choice was } 4... h6 { followed by ... Kf7-g7 - Roiz. } ) 
+5. Rh6 Be8 6. Bh1 $1 { Preparing f2-f4 with increased pressure on Black. } ( 6. e4 dxe4 7. Bxe4 Bg6 8. Bxg6 Nxg6 9. Re1 Kf7 10. Nd5 Rcc8 { and Black keeps the material balance. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676289/"]
+[Date "????.??.??"]
+[Round "55.6"]
+[White "8.4 Opening A New Front"]
+[Black "Kharlov- A. vs. Petukhov- V.- #2"]
+[Result "1-0"]
+[FEN "6n1/1pr4k/p2p1p2/P2P4/1NP1p1P1/1P2P3/3K4/6R1 b - - 0 14"]
+
+14... { -KEY- } Kg6 15. Nc2 Nh6 16. Kc3 Nf7 ( { Or } 16... Rg7 17. Nd4 Kf7 18. Rh1 $1 { when both } Rg6 ( { and } 18... Nxg4 19. Nf5 ) 
+19. Nf5 Nxf5 20. gxf5 { followed by Kd4, are terminal for Black - Roiz. } ) 
+17. Nd4 Ne5 18. g5 $1 { A clever temporary sacrifice to activate the rook. } f5 ( { If } 18... fxg5 { then } 19. Ne6 Re7 ( { or } 19... Nf3 20. Rxg5 $1 Nxg5 21. Nxc7 Kf5 22. Ne6 $1 { heading for d8 } ) 
+20. Rxg5 Kf6 21. Rg8 { with an overwhelming advantage. } ) 
+19. Rh1 Ng4 20. Ne6 ( 20. Rh3 { first is also possible, as noticed by Neilthesculptor. } ) 
+Rc8 ( { Or } 20... Re7 21. Rh8 Nxe3 22. Rh6 Kf7 23. Rh7 Ke8 24. g6 { etc - Roiz. } ) 
+21. Rh3 Rb8 22. b4 b6 23. axb6 Rxb6 24. Rh8 Ne5 ( { If } 24... Nxe3 { then } 25. Rh6 Kf7 26. g6 { etc. } ) 
+25. Rh6+ Kf7 26. Rf6+ ( { In view of his hopeless position after } 26. Rf6 Ke7 27. Nd4 { Black resigned. } ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13891744/"]
+[Date "????.??.??"]
+[Round "55.7"]
+[White "8.4 Opening A New Front"]
+[Black "Example 488- Sokolov- I. vs. Salov- V.- Madrid 1994"]
+[Result "1-0"]
+[FEN "1r1r4/4kp2/3p2p1/pPpBpb1p/P1P5/4PPP1/3R1KP1/3R4 w - - 0 1"]
+
+ { In this endgame, the pawn structure speaks clearly in White's favour: the protected passed pawn on b5 is a constant headache for Black, who also suffers from weak points at d5 and d6. However, for the moment Salov has everything defended, and it is evident that White should try to add some complexity to the position. } 1. { -KEY- } Rf1 $1 { Preparing the opening of a new front on the f-file. } Rb6 ( { Here and later } 1... Be6 { was possible in order to swap the active enemy bishop, although after } 2. e4 Bxd5 3. Rxd5 { followed by Ke3 and f3-f4 or g3-g4, White keeps a clear initiative. Interestingly, Salov had declined the exchange of bishops on d5 a few moves earlier, whereas Sokolov in his 'Chess Informant' notes suggested it. } ) 
+2. Ke1 ( 2. e4 { or } 2. Ke2 { seemed more natural, but Sokolov is not in a hurry, aware that the opponent can't undertake anything active. } ) 
+Rf8 3. Ke2 Rbb8 4. e4 Bc8 5. Ke3 Rb6 6. Rdf2 $1 { White has deployed his forces in an ideal way, and now waits for the right moment to clear the f-file. } Bd7 ( { In the event of } 6... f6 { Dautov indicates the sacrifice } 7. g4 $1 hxg4 8. Rh1 { when both } gxf3 ( { and } 8... Be6 9. fxg4 Bxd5 10. cxd5 { followed by Kd3-c4 } ) 
+9. Rh7 Kd8 10. gxf3 Bd7 11. Rfh2 { preparing Rg7 and Rhh7, clearly favour White. } ) 
+7. g4 $1 { The right pawn, so as to clear two files in one strike. } ( 7. f4 $6 f6 { is less convincing; e.g. } 8. f5 g5 9. Rh1 Rh8 10. g4 Be8 11. g3 Rh6 12. Rfh2 Rh8 13. gxh5 Rh6 14. g4 Bf7 15. Bxf7 Kxf7 16. Rd2 Ke7 17. Rhd1 Rh8 18. Rh1 Rh6 { and Black holds - Dautov. } ) 
+hxg4 ( { Or } 7... h4 8. g5 { with ideas like 9.f4 and 9.Rh1 - Sokolov. } ) 
+8. fxg4 Be6 ( { Seeing that } 8... f6 $6 9. g5 f5 10. Rh1 { would be very unpleasant for him, Salov finally accepts the exchange of bishops. } ) 
+9. g5 { Fixing a target on f7. } Rbb8 10. Rf6 $1 { Provoking the capture on d5. } Bxd5 ( { A waiting move like } 10... Rbc8 { runs into } 11. Bxe6 fxe6 12. Rxf8 Rxf8 13. Rxf8 Kxf8 14. b6 { , when Black's king is too far away from the b-pawn, as observed by Gobyaya. } ) 
+11. cxd5 $1 { The correct recapture so as to enable a future entrance of the king on the queenside. } Rb7 12. Kd3 Rd7 13. Kc4 Rb7 14. R1f3 ( { The immediate } 14. Rh1 { was also strong. } ) 
+Rbb8 15. Rh3 $1 { The last straw - in order to resist the invasion of the enemy rook, Black will have to abandon defensive tasks on other parts of the board. This is indeed the essence of the 'new front' theme. } Rh8 ( { Or } 15... Rb6 16. Rh7 Ke8 17. g3 $1 { with a decisive zugzwang - Sokolov; e.g. } Ke7 18. Rxg6 ) 
+16. Rxh8 Rxh8 17. b6 $1 { Of course; with credit to White's 11th move. } Rh1 18. Kb5 c4 ( { Seeing that } 18... Rb1 19. Ka6 { is hopeless for him, Salov opts for drastic measures. } ) 
+19. b7 ( { Evidently, } 19. Kxc4 $4 Rb1 { would ruin all White's previous efforts - Dautov. } ) 
+c3 20. Ka6 Rb1 ( { Or } 20... c2 21. b8=Q $11 c1=Q $11 22. Qb7 { with a quick mate. } ) 
+21. Rf3 c2 22. Rc3 { With Ka7 and b7-b8Q coming up, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676290/"]
+[Date "????.??.??"]
+[Round "55.8"]
+[White "8.4 Opening A New Front"]
+[Black "Sokolov- I. vs. Salov- V.- #1"]
+[Result "1-0"]
+[FEN "1r1r4/4kp2/3p2p1/pPpBpb1p/P1P5/4PPP1/3R1KP1/3R4 w - - 0 1"]
+
+ { In this endgame, the pawn structure speaks clearly in White's favour: the protected passed pawn on b5 is a constant headache for Black, who also suffers from weak points at d5 and d6. However, for the moment Salov has everything defended, and it is evident that White should try to add some complexity to the position. } 1. { -KEY- } Rf1 $1 { Preparing the opening of a new front on the f-file. } Rb6 ( { Here and later } 1... Be6 { was possible in order to swap the active enemy bishop, although after } 2. e4 Bxd5 3. Rxd5 { followed by Ke3 and f3-f4 or g3-g4, White keeps a clear initiative. Interestingly, Salov had declined the exchange of bishops on d5 a few moves earlier, whereas Sokolov in his 'Chess Informant' notes suggested it. } ) 
+2. Ke1 ( 2. e4 { or } 2. Ke2 { seemed more natural, but Sokolov is not in a hurry, aware that the opponent can't undertake anything active. } ) 
+Rf8 3. Ke2 Rbb8 4. e4 Bc8 5. Ke3 Rb6 6. Rdf2 $1 { White has deployed his forces in an ideal way, and now waits for the right moment to clear the f-file. } Bd7 ( { In the event of } 6... f6 { Dautov indicates the sacrifice } 7. g4 $1 hxg4 8. Rh1 { when both } gxf3 ( { and } 8... Be6 9. fxg4 Bxd5 10. cxd5 { followed by Kd3-c4 } ) 
+9. Rh7 Kd8 10. gxf3 Bd7 11. Rfh2 { preparing Rg7 and Rhh7, clearly favour White. } ) 
+7. g4 $1 { The right pawn, so as to clear two files in one strike. } ( 7. f4 $6 f6 { is less convincing; e.g. } 8. f5 g5 9. Rh1 Rh8 10. g4 Be8 11. g3 Rh6 12. Rfh2 Rh8 13. gxh5 Rh6 14. g4 Bf7 15. Bxf7 Kxf7 16. Rd2 Ke7 17. Rhd1 Rh8 18. Rh1 Rh6 { and Black holds - Dautov. } ) 
+hxg4 ( { Or } 7... h4 8. g5 -- { with ideas like } 9. f4 { and } 9. Rh1 { - Sokolov. } ) 
+8. fxg4 Be6 ( { Seeing that } 8... f6 $6 9. g5 f5 10. Rh1 { would be very unpleasant for him, Salov finally accepts the exchange of bishops. } ) 
+9. g5 { Fixing a target on f7. } Rbb8 10. Rf6 $1 { Provoking the capture on d5. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676316/"]
+[Date "????.??.??"]
+[Round "55.9"]
+[White "8.4 Opening A New Front"]
+[Black "Sokolov- I. vs. Salov- V.- #2"]
+[Result "1-0"]
+[FEN "1r3r2/4kp2/3pbRp1/pPpBp1P1/P1P1P3/4K3/6P1/5R2 b - - 0 10"]
+
+10... { -KEY- } Bxd5 ( { A waiting move like } 10... Rbc8 { runs into } 11. Bxe6 fxe6 12. Rxf8 Rxf8 13. Rxf8 Kxf8 14. b6 { , when Black's king is too far away from the b-pawn, as observed by Gobyaya. } ) 
+11. cxd5 $1 { The correct recapture so as to enable a future entrance of the king on the queenside. } Rb7 12. Kd3 Rd7 13. Kc4 Rb7 14. R1f3 ( { The immediate } 14. Rh1 { was also strong. } ) 
+Rbb8 15. Rh3 $1 { The last straw - in order to resist the invasion of the enemy rook, Black will have to abandon defensive tasks on other parts of the board. This is indeed the essence of the 'new front' theme. } Rh8 ( { Or } 15... Rb6 16. Rh7 Ke8 17. g3 $1 { with a decisive zugzwang - Sokolov; e.g. } Ke7 18. Rxg6 ) 
+16. Rxh8 Rxh8 17. b6 $1 { Of course; with credit to White's 11th move. } Rh1 18. Kb5 c4 ( { Seeing that } 18... Rb1 19. Ka6 { is hopeless for him, Salov opts for drastic measures. } ) 
+19. b7 ( { Evidently, } 19. Kxc4 $4 Rb1 { would ruin all White's previous efforts - Dautov. } ) 
+c3 20. Ka6 Rb1 ( { Or } 20... c2 21. b8=Q $11 c1=Q $11 22. Qb7 { with a quick mate. } ) 
+21. Rf3 c2 22. Rc3 { With Ka7 and b7-b8Q coming up, Black resigned. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676291/"]
+[Date "????.??.??"]
+[Round "55.10"]
+[White "8.4 Opening A New Front"]
+[Black "Example 489- Heinatz- T. vs. Hellsten- J.- German League 2000"]
+[Result "0-1"]
+[FEN "6k1/1b3p1p/p3p1p1/8/4P3/r2B3P/P2R1PP1/5K2 b - - 0 1"]
+
+ { Black is better thanks to his more active rook and bishop, but obviously it is no big advantage. To win such positions you usually need some mistakes from your opponent, so your task is to create the opportunities for him! } 1... { -KEY- } g5 $1 { Fixing the h3-pawn as a future target while preparing ...Kg7-f6-e5. } ( { Less precise was } 1... Kg7 $6 2. h4 $1 ) 
+2. Ke2 Kg7 3. g3 $6 ( { a) A natural choice; so as to meet } 3. g3 Kf6 { with the restrictive } 4. f4 { but now the kingside structure becomes less stable. } ) 
+ ( { b) Active defence with } 3. Rb2 Bc6 4. Rb6 $1 { was preferable; e.g. } Be8 ( { or } 4. g3 Rxa2 5. Ke3 { recovering the pawn at once; } ) 
+5. Bc4 $1 { (both here and on the next move, the a6-pawn is poisoned) } Kf6 6. Kd2 $1 { heading for c2-b2, when Black has nothing better than } Bb5 { simplifying to a draw. } ) 
+Bc6 $1 4. Rb2 ( { a) Due to Black's previous move, } 4. f4 $2 { fails here to } gxf4 5. gxf4 Bb5 $1 6. Bxb5 axb5 7. h4 Rh3 ) 
+ ( { b) But the active } 4. Rc2 $5 { was possible; e.g. } Ba4 5. Rc5 $1 Rxa2 6. Ke3 h6 7. Ra5 { with an impending draw. } ) 
+Kf6 ( { Now how should White cope with the threat of } 5... Ke5 { - ? } ) 
+5. Kd2 $2 { A useless move provoked by time trouble. } ( { a) } 5. f4 $2 { was equally bad due to } gxf4 6. gxf4 Bb5 7. Bxb5 Rxh3 $1 { and Black wins a pawn. } ) 
+ ( { b) On the other hand, } 5. Ke3 { seems rather natural. However, Black could lose a tempo by } Bd7 $1 { exploiting the fact that White has no solid reply. } ( 5. Kd2 Bb5 6. Rb3 { is unconvincing; } ) 
+ ( { while } 5. Kd2 Ke5 { can be met by } 6. f4 ) 
+ { There could follow } 6. Kd2 ( { not } 6. Rc2 $2 Bb5 ) 
+h5 $1 { (working on a new front) } 7. Ke3 ( { or } 7. h4 $6 g4 ) 
+h4 8. gxh4 gxh4 9. f4 e5 $1 10. f5 Bb5 11. Rb3 Rxa2 12. Bxb5 axb5 13. Kf3 Kg5 $1 14. Rxb5 Ra3 { and 15...Kf4 next, with good winning prospects. } ) 
+ ( { c) Thus White's best chance is probably } 5. Rb6 { when Black could reply } Be8 $1 6. Bc4 a5 { followed by h7-h5, just as before. Contrary to the 3.Rb2 subline, here } 7. Kd2 Ke5 8. Kc2 $2 { runs into } Rf3 $1 { when the defects of 3.g3 make themselves remembered. } ) 
+Ke5 6. Rb6 ( { Or } 6. f3 f5 $1 7. exf5 exf5 { with strong pressure. } ) 
+Bxe4 7. Bxa6 Rxa2+ 8. Ke3 { In a pure rook ending or bishop ending, White would have good drawing chances in such a structure; but with both of them on the board, he won't be able to parry the attack on the h3-pawn. } Ra3+ 9. Ke2 Bf3+ ( { Another good option was } 9... Bf5 { softening up that pawn for the rook. } ) 
+10. Kd2 Bg2 11. Bd3 h5 $1 { Pawn trades usually favour the defender, and this is no exception. } 12. h4 gxh4 13. gxh4 Ra4 { Conquering the h-pawn, with an easy win. } ( { There followed } 13... Ra4 14. Rb5 Bd5 15. Rb8 Rxh4 16. Be2 Rh1 17. Ke3 h4 18. Rh8 Bg2 19. Rh5 f5 20. f3 h3 21. Rh6 Rc1 22. Kd2 Rc6 23. Ke3 Rc3 24. Kf2 Rc2 25. Ke3 { and the rest of this endgame was covered inExample 418 at the beginning of Chapter Seven. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13891745/"]
+[Date "????.??.??"]
+[Round "55.11"]
+[White "8.4 Opening A New Front"]
+[Black "Example 490- Nikolic- P. vs. Movsesian- S.- Polanica Zdroj 1996"]
+[Result "1-0"]
+[FEN "8/r6p/p1pk1pp1/R3p3/8/1P2K1P1/P3PP1P/8 w - - 0 1"]
+
+ { White is evidently better in this rook ending, but the weak pawns on a6 and c6 alone won't be enough for victory. } 1. { -KEY- } g4 $1 { A key advance in order to open a new front on the kingside. Note that on most other moves Black could reply 1...h5!, gaining some space and avoiding a future target on the h-file, an idea that we are familiar with from the 'Space' section in Chapter Six. } h6 ( { a) The active } 1... c5 $2 { backfires after } 2. Kd3 Kc6 3. Kc4 { - Stohl. } ) 
+ ( { b) While } 1... h5 $5 { is well met by } 2. gxh5 gxh5 3. f4 $1 { intending f4xe5+ and Ke4. } ) 
+2. h4 Ra8 { Awaiting White's next step. } ( { Instead, active defence with } 2... f5 $2 { would just help the opponent after } 3. gxf5 gxf5 4. f4 $1 { when the f5-pawn turns into a target. } ) 
+3. b4 Ra7 4. a3 { An ideal structure in such positions, reinforcing White's control of the a5- and c5-squares. } Ra8 5. Kd3 Ra7 6. e3 Ra8 7. f4 $1 { Nikolic resumes the work on the new front. } ( { After } 7. f4 { there is now the threat of } -- 8. fxe5 fxe5 9. Ke4 ) 
+exf4 8. exf4 Kc7 { Black prepares ...Kb6 and ...Rd8+ in order to activate his rook, but White is first to create new threats on the kingside. } 9. h5 $1 { This advance is bound to create some weakness in the enemy camp. Note that, from a5, the rook is able to act on both flanks at the same time. } gxh5 ( { a) After } 9... g5 10. Ke4 { the king invades via f5-g6 with decisive effect. } ) 
+ ( { b) While the sacrifice } 9... Rg8 { makes little sense after } 10. Rxa6 gxh5 11. gxh5 Rg4 12. Ke4 Rh4 13. Ra5 { and White defends everything - Stohl. } ) 
+10. Rxh5 ( { Less promising is } 10. gxh5 $6 Kd6 11. Ke4 Ke6 12. Rc5 Rc8 13. a4 Kd6 14. Kf5 Rb8 $1 { with counterplay for Black. } ) 
+Rg8 11. Rh4 $1 ( { Nikolic avoids } 11. Rxh6 $6 Rxg4 12. Rxf6 Rg3 13. Ke4 Rxa3 { , when the draw is not far away. } ) 
+Kd7 ( { A counterstrike with } 11... f5 { permits } 12. gxf5 Rg3 13. Ke4 Rxa3 14. f6 $1 { followed by Kf5, when the f6-pawn becomes very dangerous. } ) 
+12. Ke4 Ke6 13. Kf3 $1 { Liberating the rook from the defence of the g4-pawn. Thus White doesn't just renew the threat to h6, he also prepares to return the rook to the queenside, where Black's pawns have been rather abandoned by the ... Kc7-d7-e6 manoeuvre. } Rh8 14. Rh5 Rh7 15. Kg3 $1 { A useful move before switching flank with the rook. Once it reaches h5, the king will become a powerful attacking piece. } Rd7 16. Ra5 Ra7 17. Kh4 Kf7 18. Kh5 Kg7 19. f5 $1 ( { Seeing that } 19. Rc5 Rc7 20. a4 $6 { runs into } Rb7 21. Rxc6 Rxb4 22. Rxa6 Rxf4 { Nikolic secures the f-pawn in advance. Meanwhile, Black has no corresponding prophylaxis at his disposal, and must shed a vital tempo. } ) 
+Kh7 20. Rc5 Rc7 21. a4 $1 Kg7 22. b5 { White's positional assets are finally converted into material gains. Note the impact of a second front - with the kings on, say, d4 and d7 instead, the plan with b4-b5 wouldn't have been nearly as effective. } axb5 23. axb5 Rb7 24. bxc6 Rc7 25. Rc1 $1 { Zugzwang. The other rook retreats also work, by the way. } Rc8 ( { If } 25... Kh7 { then } 26. Rd1 $1 { is the simplest way to victory; e.g. } Rxc6 27. Rd7 Kg8 28. Kg6 { (winning a tempo thanks to the mating threat - this is the reason why 25 Rc1 was more precise than 25.Rd5) } Kf8 29. Rf7 Ke8 30. Rxf6 Rc4 31. Kh5 -- { followed by } 32. Rxh6 { - Stohl. } ) 
+26. c7 Kf7 27. Rc6 ( { Nikolic of course avoids } 27. Kxh6 $4 Rh8 ) 
+Kg7 28. Kh4 $1 { Heading for the opposite flank. } Kf7 29. Kg3 ( { After } 29. Kg3 Ke7 30. Kf4 Kf7 31. Ke4 Ke7 32. Kd5 { both } Kf7 33. Kd6 ( { and } 32. Kg3 Kd7 33. Rxf6 { are terminal, so Black resigned. } ) 
+ ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676292/"]
+[Date "????.??.??"]
+[Round "55.12"]
+[White "8.4 Opening A New Front"]
+[Black "Nikolic- P. vs. Movsesian- S.- #1"]
+[Result "1-0"]
+[FEN "8/r6p/p1pk1pp1/R3p3/8/1P2K1P1/P3PP1P/8 w - - 0 1"]
+
+ { White is evidently better in this rook ending, but the weak pawns on a6 and c6 alone won't be enough for victory. } 1. { -KEY- } g4 $1 { A key advance in order to open a new front on the kingside. Note that on most other moves Black could reply 1...h5!, gaining some space and avoiding a future target on the h-file, an idea that we are familiar with from the 'Space' section in Chapter Six. } h6 ( { a) The active } 1... c5 $2 { backfires after } 2. Kd3 Kc6 3. Kc4 { - Stohl. } ) 
+ ( { b) While } 1... h5 $5 { is well met by } 2. gxh5 gxh5 3. f4 $1 { intending f4xe5+ and Ke4. } ) 
+2. h4 Ra8 { Awaiting White's next step. } ( { Instead, active defence with } 2... f5 $2 { would just help the opponent after } 3. gxf5 gxf5 4. f4 $1 { when the f5-pawn turns into a target. } ) 
+3. b4 Ra7 4. a3 { An ideal structure in such positions, reinforcing White's control of the a5- and c5-squares. } Ra8 5. Kd3 Ra7 6. e3 Ra8 7. f4 $1 { Nikolic resumes the work on the new front. } ( { After } 7. f4 { there is now the threat of } -- 8. fxe5 fxe5 9. Ke4 ) 
+exf4 8. exf4 Kc7 { Black prepares ...Kb6 and ...Rd8+ in order to activate his rook, but White is first to create new threats on the kingside. } 9. h5 $1 { This advance is bound to create some weakness in the enemy camp. Note that, from a5, the rook is able to act on both flanks at the same time. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676317/"]
+[Date "????.??.??"]
+[Round "55.13"]
+[White "8.4 Opening A New Front"]
+[Black "Nikolic- P. vs. Movsesian- S.- #2"]
+[Result "1-0"]
+[FEN "r7/2k5/p1p2ppp/R6P/1P3PP1/P2K4/8/8 b - - 0 9"]
+
+9... { -KEY- } gxh5 ( { a) After } 9... g5 10. Ke4 { the king invades via f5-g6 with decisive effect. } ) 
+ ( { b) While the sacrifice } 9... Rg8 { makes little sense after } 10. Rxa6 gxh5 11. gxh5 Rg4 12. Ke4 Rh4 13. Ra5 { and White defends everything - Stohl. } ) 
+10. Rxh5 ( { Less promising is } 10. gxh5 $6 Kd6 11. Ke4 Ke6 12. Rc5 Rc8 13. a4 Kd6 14. Kf5 Rb8 $1 { with counterplay for Black. } ) 
+Rg8 11. Rh4 $1 ( { Nikolic avoids } 11. Rxh6 $6 Rxg4 12. Rxf6 Rg3 13. Ke4 Rxa3 { when the draw is not far away. } ) 
+Kd7 ( { A counterstrike with } 11... f5 { permits } 12. gxf5 Rg3 13. Ke4 Rxa3 14. f6 $1 { followed by Kf5, when the f6-pawn becomes very dangerous. } ) 
+ ( { However after } 11... Kd7 { Movsesian is now ready for f6-f5, since his king would be one step closer to White's f-pawns in such a scenario } ) 
+12. Ke4 { Nikolic prevents the plan of f6-f5 mentioned in the previous note, and also sets up the threat of 13.Kf5, which forces Black's king to e6. The merits of this action will become evident in the next note. } Ke6 13. Kf3 $1 { Liberating the rook from the defence of the g4-pawn. Thus White doesn't just renew the threat to h6, he also prepares to return the rook to the queenside, where Black's pawns have been rather abandoned by the ... Kc7-d7-e6 manoeuvre. } Rh8 14. Rh5 Rh7 15. Kg3 $1 { A useful move before switching flank with the rook. Once it reaches h5, the king will become a powerful attacking piece. } Rd7 16. Ra5 Ra7 17. Kh4 Kf7 18. Kh5 Kg7 19. f5 $1 ( { Seeing that } 19. Rc5 Rc7 20. a4 $6 { runs into } Rb7 21. Rxc6 Rxb4 22. Rxa6 Rxf4 { Nikolic secures the f-pawn in advance. Meanwhile, Black has no corresponding prophylaxis at his disposal, and must shed a vital tempo. } ) 
+Kh7 20. Rc5 Rc7 21. a4 $1 Kg7 22. b5 { White's positional assets are finally converted into material gains. Note the impact of a second front - with the kings on, say, d4 and d7 instead, the plan with b4-b5 wouldn't have been nearly as effective. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676318/"]
+[Date "????.??.??"]
+[Round "55.14"]
+[White "8.4 Opening A New Front"]
+[Black "Nikolic- P. vs. Movsesian- S.- #3"]
+[Result "1-0"]
+[FEN "8/2r3k1/p1p2p1p/1PR2P1K/P5P1/8/8/8 b - - 0 22"]
+
+22... { -KEY- } axb5 23. axb5 Rb7 24. bxc6 Rc7 25. Rc1 $1 { Zugzwang. The other rook retreats also work, by the way. } Rc8 ( { If } 25... Kh7 { then } 26. Rd1 $1 { is the simplest way to victory; e.g. } Rxc6 27. Rd7 Kg8 28. Kg6 { (winning a tempo thanks to the mating threat - this is the reason why 25.Rc1 was more precise than 25.Rd5) } Kf8 29. Rf7 Ke8 30. Rxf6 Rc4 31. Kh5 { followed by 32 Rxh6 - Stohl. } ) 
+26. c7 Kf7 27. Rc6 ( { Nikolic of course avoids } 27. Kxh6 $4 Rh8 ) 
+Kg7 28. Kh4 $1 { Heading for the opposite flank. } Kf7 29. Kg3 ( { After } 29. Kg3 Ke7 30. Kf4 Kf7 31. Ke4 Ke7 32. Kd5 { both } Kf7 33. Kd6 ( { and } 32. Kg3 Kd7 33. Rxf6 { are terminal, so Black resigned. } ) 
+ ) 
+
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12676293/"]
+[Date "????.??.??"]
+[Round "55.15"]
+[White "8.4 Opening A New Front"]
+[Black "Example 491- Lobron- E. vs. Gurevich- M.- Munich 1993"]
+[Result "0-1"]
+[FEN "8/p2b4/8/3pk1p1/1P4P1/2K1PB2/8/8 w - - 0 1"]
+
+ { The next, complex example highlights the usage of zugzwang when working on multiple fronts.Thanks to his more active king and the weak pawn on g4, Black has a clear advantage in this bishop ending. Note that the d5-pawn is hardly a weakness, since it will be ready to advance as soon as the white king leaves the third rank. } 1. { -KEY- } Kd3 { Lobron makes a waiting move with the king, so that the bishop keeps controlling both the g4-pawn and the entry square on e4. } Bb5+ 2. Kd2 ( { After } 2. Kc3 Ba6 { a first zugzwang emerges. The bishop should keep the e4-square under control, but if it moves to g2 or h1, then 3...Be2 follows. Thus White must move his king; e.g. } 3. Kd2 { and after } d4 { similar play arises as in the game. } ) 
+d4 { A small triumph for Black - the opponent is further pushed back and a future path along d5-c4 is cleared for the king. } 3. Bb7 { Another waiting move. } ( { a) Here and later, } 3. exd4 $2 Kxd4 { clearly favours Black, whose king now occupies a dominant position, with the b4-pawn in sight. } ) 
+ ( { b) On the other hand, after } 3. Bb7 { Black does not benefit from } dxe3 $6 4. Kxe3 { at any moment. As a result, the tension is likely to remain for a while. } ) 
+ ( { c) But } 3. Bd1 $5 { was a good alternative, so as to keep the bishop close to the f3-square, and at the same time enable checks at c2 or b3 if Black's king moves to e4 or d5 respectively. There can follow } Ke4 4. Bc2 d3 5. Bb3 Bd7 6. Bd1 $1 Be6 7. Ba4 { (thanks to the previous move, the bishop reaches a more active diagonal) } Kf3 8. Kxd3 Bxg4 9. e4 { White's idea is simple: sacrifice the bishop for the g-pawn in order to leave the opponent with a rook's pawn and the 'wrong' bishop. Black would like avoid this scenario by shepherding the g-pawn with the bishop, but in that case White's e-pawn will be ready to advance; e.g. } Kf2 ( { or } 9. Bb7 Be6 10. Bd1 $1 Kf4 11. Kd4 g4 12. Bxg4 $1 Bxg4 13. Kc3 { followed by Kb2-a1 and White achieves his goal, the pawns on b4 and e4 having no relevance; } ) 
+10. e5 Bf5 11. Kd4 g4 12. Bc6 g3 13. Kc5 Bg4 14. Kd6 Bf3 15. Bxf3 Kxf3 16. e6 { will lead to a draw. } ) 
+Be8 $1 { Gurevich prepares the following plan: 1. chase away the white bishop from the long diagonal by ...Bg6-e4; 2. transfer his own bishop to the h3-c8 diagonal in order to tie its white colleague to the g4-pawn; 3. place the king on d5. As we will see next, if this plan succeeds then White might end up in zugzwang. } 4. Bf3 Bg6 5. Bb7 $2 { This lazy move seems like the decisive mistake. } ( { Again } 5. Bd1 $1 { was called for; e.g. } Be4 ( { or } 5. Bb7 Bb1 6. Bf3 Ba2 7. Kd3 ) 
+6. Ke2 $1 Bc6 7. Kd2 Bb5 ( { if } 7. Bb7 Ke4 { then } 8. Bc2 Kf3 9. Bd1 ) 
+8. Bf3 { and Black has not progressed. } ) 
+Be4 $1 6. Bc8 ( { a) The pawn ending arising after } 6. Bxe4 $2 Kxe4 7. exd4 Kxd4 { is easily won for Black. } ) 
+ ( { b) But } 6. Ba6 { was more tenacious. There can follow } Bc6 7. Be2 ( { if } 7. Bd3 { then } Bd7 8. Be2 Kd5 $1 { with the same zugzwang that later emerges in the game; } ) 
+ ( { on the other hand, } 7. Kd3 dxe3 8. Kxe3 Bd7 9. Be2 Kd5 10. Bf1 $1 Bxg4 11. Ba6 { might yield some slight hope of survival, related to a bishop sacrifice for the g-pawn as in the 3 Bd1 subline; } ) 
+Ke4 8. Bd3 Kd5 9. Ke2 { White seems to be holding his own; } ( { on } 9. Be2 { there follows the same reply; } ) 
+ { but after } Bd7 $1 { Black achieves a similar zugzwang as later on in the game; } 10. Bf5 ( { e.g. } 10. e4 Ke5 11. Kf3 Bc6 12. b5 ( { it is unpleasant to place all the pawns on the 'wrong' colour, but } 12. Bc2 Bb5 13. Bb1 { failed to } Bc4 $1 { followed by d4-d3, and the king enters via d4; } ) 
+ { then } Bd7 13. Bc4 Kd6 { and the weakness on b5 decides matters after } 14. Bd3 Kc5 15. e5 Bxb5 16. Bxb5 Kxb5 17. Ke4 Kc5 18. e6 Kd6 ) 
+ ( 10. Kf3 $2 dxe3 { drops a pawn; } ) 
+Bb5 $1 ( { but not } 10. Bc8 Bxf5 $2 11. gxf5 dxe3 12. b5 $1 { gaining space with a draw; } ) 
+11. Kd2 Kc4 $1 { and Black should win; e.g. } 12. Bd3 Kxb4 13. exd4 Bxd3 14. Kxd3 a5 15. Ke4 a4 16. d5 Kc5 $1 { and the a-pawn queens with check. } ) 
+Bc6 7. Ba6 ( { a) After } 7. Kd3 Bb5 8. Kd2 Kd5 { Black's king enters decisively via c4 - Gurevich } ) 
+ ( { b) While } 7. Bf5 Kd5 8. Bd3 Bd7 9. Be2 { runs into } Bc8 $1 { repeating the zugzwang. } ) 
+Bd7 8. Be2 Kd5 $1 { Gurevich has reached his goal. The white bishop must cover both weaknesses: the g4-pawn and the entry square on c4. As it is already performing that task, a waiting move is needed for White. However, there is none available, with the king tied to the e3-pawn. } 9. Bf3+ { The least of evils - Lobron lets the enemy king enter via c4, in exchange for the d4-pawn. } ( 9. Kd3 { failed to } Bb5 { with an easily won pawn ending. The pawn moves aren't advisable either. } ) 
+Kc4 10. Be2+ Kxb4 11. exd4 a5 { Black's plan is now simple: advance the a-pawn in order to deflect the white king, and then eliminate the enemy pawns with his own king. } ( 11... Bc6 $6 { was less convincing due to } 12. Ba6 $1 { obstructing the a-pawn. } ) 
+12. Kc2 ( { After } 12. Bf3 Kb3 13. d5 ( { or } 13. Kc1 Kc4 14. d5 Kd3 $1 { heading for e4, and the white pawns will soon fall } ) 
+Kb2 14. Bd1 a4 15. Bxa4 Bxa4 { Black wins by 16...Bd7 on the next move. } ) 
+Bc6 $1 { Heading for the great blockading square on d5. } 13. Kb2 Bd5 14. Bd3 { Lobron resigned at the same time. } ( { There could have followed } 14. Bd3 a4 15. Kc2 a3 16. Bf5 Bb3 17. Kb1 Kc3 { and Black wins comfortably - Gurevich. } ) 
+
+ 0-1

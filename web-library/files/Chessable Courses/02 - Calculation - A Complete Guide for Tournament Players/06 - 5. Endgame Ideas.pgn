@@ -1,0 +1,325 @@
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12010349/"]
+[Date "????.??.??"]
+[Round "6.1"]
+[White "5. Endgame Ideas"]
+[Black "Introduction to Endgame Ideas"]
+[Result "*"]
+
+ { By now, you would have learnt almost everything you need for calculation mastery. However, using only the techniques from earlier chapters may not be sufficient to handle a small set of quirky endgame positions. Right now, this is the only chink in the armour. Hence, I have designed this chapter to equip you with new motifs and techniques to deal with these positions. Without further ado, let’s get started on the first one. } 1. -- 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12026754/"]
+[Date "????.??.??"]
+[Round "6.2"]
+[White "5. Endgame Ideas"]
+[Black "Fortresses"]
+[Result "*"]
+[FEN "1kq5/8/8/8/4N3/8/6B1/6K1 w - - 0 1"]
+
+ { A fortress is an ecosystem of mutual protection that the opponent cannot disrupt. Generally, after a fortress is created, only passive play is required to hold the draw. Sometimes, you can create fortresses using your knowledge of well-known theoretical endings. Other times, you may not be so fortunate and need to create an original fortress on your feet. To create an impregnable fortress, we need to ensure that the answer to the following three questions is a resounding ‘No’: 1. Does the attacker have any useful pawn breaks? 2. Can the attacker’s pieces, even when placed on their best plausible squares, disrupt the fortress? 3. Can the attacker force zugzwang? } 1. { -KEY- } Kh2 { In this position, there are clearly no pawns, so the first question is taken care of. To answer the second question, we must first identify the fortress. Here, White’s King defends the Bishop, which defends the Knight. At the same time, the Bishop and Knight create a force field around the White King, while the White King controls all the squares around the h1 corner. This means that neither the Black King nor the Black Queen can penetrate the fortress. To hold the draw, the White King simply needs to wait around in the safety of his fortress of three squares (h1, g1, and h2) . And all that’s left is the third question: Can Black force zugzwang? Let’s imagine a scenario where White’s King is on g1 and cannot legally move to h1 or h2. For that to happen, the Black Queen would have to be on the h-file. Wherever on the h-file she may be, White can always make a waiting move, Bh1. I chose Bh1 because it still leaves both of White’s pieces protected. After Bh1, the Bishop would lose control over f1 and h3. Our next task is to consider if there is any configuration of Black pieces where temporarily losing control over f1 or h3 is critical. There isn’t any such configuration. Hence, the fortress will hold. To put this into practice, I will present you with two positions. Your task is to determine the result (White wins, Black wins, or draw) . The solutions will be revealed in the positions after those. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12045836/"]
+[Date "????.??.??"]
+[Round "6.3"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #1"]
+[Result "*"]
+[FEN "5r2/6pk/4Q3/1bP2P2/6p1/6K1/8/8 w - - 5 49"]
+
+ { This is a game between Magnus Carlsen (White) and Veselin Topalov (Black) . It seems as though White can push the c-pawn to win the Black Bishop. Is the resulting position enough for the win? } 49. { -KEY- } c6 { The answer is on the next page } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12045842/"]
+[Date "????.??.??"]
+[Round "6.4"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #1 (Answer)"]
+[Result "*"]
+[FEN "5r2/6pk/4Q3/1bP2P2/6p1/6K1/8/8 w - - 5 49"]
+
+49. { -KEY- } c6 Bxc6 ( 49... Rf6 50. c7 Ba6 51. c8=Q $11 Bxc8 52. Qxc8 { And we transpose back to the main variation. } ) 
+50. Qg6+ Kg8 51. Qxc6 Rf6 52. Qe8+ { Initially, it might seem that the Rook can oscillate between f6 and h6 indefinitely. But working through the three questions, we find that there is a way for White to force zugzwang. } Kh7 53. Kxg4 Rh6 54. Kf4 Rf6 55. Ke5 Rh6 56. Qe6 { Black cannot routinely play ...Rf6 because of Qxf6. ...Kh8 does not work either because of Qxh6, where White wins the resulting endgame } Rf6 ( 56... Rxe6 57. fxe6 Kg8 58. Kd6 g5 59. e7 Kf7 60. Kd7 ) 
+ ( 56... Rf6 57. Qxf6 gxf6 58. Kxf6 Kg8 59. Ke7 ) 
+ ( 56... Kh8 57. Qxh6 gxh6 58. Ke6 Kg7 59. Ke7 h5 60. f6 ) 
+
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046245/"]
+[Date "????.??.??"]
+[Round "6.5"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #2"]
+[Result "*"]
+[FEN "8/qk6/8/7p/7P/4R1P1/5P1K/8 b - - 0 1"]
+
+ { White is down in material but seems to have his pieces seem decently coordinated. What is the evaluation? } 1... { -KEY- } Kc6 { The answer is on the next page } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046312/"]
+[Date "????.??.??"]
+[Round "6.6"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #2 (Answer)"]
+[Result "*"]
+[FEN "8/qk6/8/7p/7P/4R1P1/5P1K/8 b - - 0 1"]
+
+ { This position is drawn. The easiest way for White to get the half point is to keep the f2 pawn permanently defended. Hence, the Rook should move to the secure f4 square. } 1... { -KEY- } Kc6 2. Rf3 Kd5 3. Rf4 { The Black King is permanently cut out of the action. Even if Black miraculously traded his Queen for White's Rook and three pawns, the resulting pawn endgame is still drawn. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12038829/"]
+[Date "????.??.??"]
+[Round "6.7"]
+[White "5. Endgame Ideas"]
+[Black "Schematic Thinking"]
+[Result "*"]
+
+ { In the first part of this chapter on fortresses, schematic thinking was implicitly introduced. Recall that we had to determine the result of a few positions. Instead of calculating every possible 50-move variation to check if the position was drawn, we needed to assess only the attacker’s critical plans. Such is the beauty of schematic thinking. Schematic Thinking is thinking in terms of plans rather than specific moves. The idea is not to be bogged down with many variations initially. Once we have a sense of how the game should be steered, we can delve deeper by working on candidate moves. Likewise, when approaching other types of endgames, we should first identify the long-term goals. These include a potential configuration of pieces, freeing one of our pieces, or resolving a weakness. These long-term goals in themselves can serve as new tactical motifs we can work with. We can then consider candidate moves based on these motifs. Now let’s practice schematic thinking with a couple of puzzles. } 1. -- 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046700/"]
+[Date "????.??.??"]
+[Round "6.8"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #3"]
+[Result "*"]
+[FEN "K1k5/4n3/8/8/8/8/P1P5/8 b - - 0 1"]
+
+ { What is the end position we are aiming for and how do we work towards it? } 1... { -KEY- } Nc6 { The plan here is to trap the White King in the corner and wait with Kc7-Kc8-Kc7-Kc8. After zugzwang eventually forces White to push his a2 pawn to a7, we will reroute our Knight to b6 or c7 to deliver checkmate. White's only hope is stalemate but his c-pawn will still have a couple of legal moves. Hence, White's goal is to push the c-pawn as far as it can (to c5) before pushing his a-pawn. Let’s consider a likely scenario a few moves later: It is Black to play, White’s pawns are on c5 and a7 while our King is on c8 and our Knight is still on c6. We can play Nc6-Nb4-Nd5-Nb6# in the time it takes for White to play c5-c6-c7. However, if Black’s King were on c7 instead of c8, the pawn would be stopped on the c6 square and White will get his stalemate. Can White achieve this position where our King is on c7 instead of c8? Yes. This is because he has the option to lose/gain tempi by starting with either c3 or c4. Black does not have this luxury. The King must strictly oscillate between c7 and c8. This means we need to start our Knight reroute a move earlier when White’s pawn is on a6. This position can be seen after White’s 6 move in the main variation. } 2. c4 Kc7 3. a4 Kc8 4. c5 Kc7 5. a5 Kc8 6. a6 { If our King moves to c7, White's pawn will be locked at a6 and he will escape thanks to stalemate. We must start our Knight reroute now. } Nd4 ( 6... Nb4 $4 7. Ka7 Nd5 8. c6 Kc7 9. Ka8 { Aside from heading for either c7 OR b6, the Black Knight must also control the a7 square to prevent Ka7 } ) 
+7. Ka7 Kc7 { We must stop Kb6 } 8. c6 ( 8. Ka8 Nb5 9. c6 { This transposes to the main variation } Kc8 10. c7 Nxc7 11. Ka7 Nd5 12. Ka8 Kc7 13. Ka7 Ne7 14. Ka8 Nc8 15. a7 Nb6 ) 
+Nb5+ 9. Ka8 Kc8 10. c7 Nxc7+ 11. Ka7 Nd5 { Again, we must stop Kb6 } 12. Ka8 { Now our next goal is to control a7 with our Knight while preparing for either Nb6# OR Nc7#. The two candidates are b5 and c8. At the same time, our King should be on c7 to prevent Kb6. That means Nd5-Nc3-Nb5-Nc7# will not be possible. Instead, we should go for Nd5-Ne7-Nc8-Nb6# } Kc7 ( 12... Nc3 $4 { Heading for c7 via b5 is not possible. We don't have enough time } 13. a7 ( 12... Kc7 12. Ka7 { Even if White played Ka7, we cannot win with the Nb5-Nc7# plan } Kc7 14. Ka8 Nb5 15. a7 { If only c7 were vacant } ) 
+ ) 
+13. Ka7 Ne7 14. Ka8 Nc8 15. a7 Nb6# 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046719/"]
+[Date "????.??.??"]
+[Round "6.9"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #4"]
+[Result "*"]
+[FEN "3n4/7p/6p1/2kp2P1/1P3P2/4K3/4B3/8 b - - 0 1"]
+
+ { This is a game between Maxime Vachier-Lagrave (White) and Sam Shankland (Black) . What are some possible goals and how do we work towards them? } 1... { -KEY- } Kxb4 $1 2. Kd4 Nc6+ $1 3. Kxd5 Kc3 $3 { The only way White can win is by promoting the two pawns. They are currently fixed on dark squares. This means they cannot be defended by the light-squared Bishop. Therefore, the only goal is to activate our King and attack those pawns. Nothing else matters, not even our Knight. } 4. Kxc6 { The c6 Knight stopped both Ke5 and Ke6 } ( 4. Ke6 Nd4 ) 
+Kd2 5. Bc4 Ke3 { The White pawns are helpless on dark squares } 6. Bg8 Kxf4 7. Bxh7 Kxg5 { Shankland managed to clinch half a point from this game because he recognised that White's pawns were weak on dark squares, and all that he needed to do is activate the King. The Knight could have attacked the pawns but 2...Ne6 would be well met by 3. Ke5 } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046736/"]
+[Date "????.??.??"]
+[Round "6.10"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #5"]
+[Result "*"]
+[FEN "1B4bk/7p/3Rp3/8/8/r7/4p3/4K3 w - - 0 1"]
+
+1. { -KEY- } Ra6 { Our goal is to play Be5#. We can threaten it by moving our d6 Rook while attacking the Black Rook with either Ra6 or Rd3. Ra6 forces ...Re3 while Rd3 forces ...Ra5. Which is worse for Black? } ( 1. Rd3 Ra5 { Black's Rook has many squares along the fifth rank to keep an eye on the critical e5 square. Black will escape with ...Kg7 next } ) 
+Re3 { Forcing the Black Rook to the very short e-file. Our next goal is to force the Rook of the e-file. There are only three squares we need to take care of, e3, e4, and e5. Since our King is glued to the e1 square, it is up to the rest of our pieces. How can our Rook and Bishop control a total of three squares? From the a-file, our Rook can control one square at a time, so it is up to the Bishop watch over the remaining two squares. For our Bishop to control two squares on the e-file, it will have to be on f4, where it controls e3 and e5. The final square, e4, is for our Rook to control. Now we have the final position in mind - our Bishop should be on f4 while our Rook should be on a4. But let's not forget that Black is just one move (...Kg7) away from removing all mating ideas. This is why all our moves need to come with tempo } 2. Ra3 $1 { Forcing 2...Re4 so that we can we can play 3. Ra4 with tempo } ( 2. Bf4 $4 Re4 3. Ra4 Rxf4 4. Rxf4 ) 
+Re4 $1 3. Ra4 Re3 4. Bf4 $1 { All the squares along the e-file are taken away. Black will either get mated or lose his Rook. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12026755/"]
+[Date "????.??.??"]
+[Round "6.11"]
+[White "5. Endgame Ideas"]
+[Black "Applying Theoretical Endgames"]
+[Result "*"]
+
+ { As we have learnt in Chapter 4 (Essential Theoretical Endgames) , memorising the winning/drawing methods and being familiar with evaluations of basic positions will help us steer unclear positions towards favourable ones. This is because we can effectively terminate our calculation the moment we arrive at a theoretical position within our repertoire of endgames. In the following puzzles, we will practice applying the theoretical positions we have learnt from in the previous chapter. } 1. -- 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046750/"]
+[Date "????.??.??"]
+[Round "6.12"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #6"]
+[Result "*"]
+[FEN "6k1/5rpp/5b2/8/8/4B1K1/8/2R5 w - - 0 1"]
+
+1. { -KEY- } Rc8+ { Black's dark-squared Bishop cannot control the h1 corner. This means that White can draw if he trades his Rook and Bishop for Black's Rook and g7 pawn. } Rf8 2. Rxf8+ Kxf8 3. Bh6 $1 { threatening Bxg7 } gxh6 { With two rook pawns and the wrong Bishop, Black cannot win this one. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046751/"]
+[Date "????.??.??"]
+[Round "6.13"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #7"]
+[Result "*"]
+[FEN "8/1p4k1/8/2Q1p2P/3qPp2/3P1Pp1/4K3/8 w - - 1 1"]
+
+1. { -KEY- } Qxd4 exd4 2. e5 { The e- and h-pawns are as far from each other as they are from the promotion rank. As we have learnt from the previous chapter, this means that they can queen on their own. All that is left is a quick calculation to see which side queens first. } b5 3. e6 ( 3. e6 b4 4. e7 Kf7 5. h6 b3 6. h7 b2 7. e8=Q Kxe8 8. h8=Q { White is one move faster } ) 
+
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12026765/"]
+[Date "????.??.??"]
+[Round "6.14"]
+[White "5. Endgame Ideas"]
+[Black "Stalemate"]
+[Result "*"]
+[FEN "6k1/7p/p7/P1p5/2p5/2P5/P7/3K4 w - - 2 1"]
+
+ { Stalemate is not merely the result of one side playing the ending carelessly. As we will see in the following positions, stalemate is a key defensive resource that can be deployed even at the highest level when facing an imminent loss. Generally speaking, as the defender, there are two strategies to force stalemate. The first can be used when your King already has no (or very few) legal moves. All you need to do is craftily jettison your remaining pieces on the correct squares, in the correct order. The second strategy is to rush to trap your King with your own pieces. To set this up, you need to identify all the squares that the opponent controls on the board. Every one of them. Afterwards, it will be clear where all your pieces belong to create the stalemate refuge. For example, in this position Black is about to use his h-pawn to draw the enemy King to the kingside and then capture all the undefended queenside pawns with his own King. Just before thinking about resigning, White should try and find a stalemate refuge here. } 1. { -KEY- } Kc2 { Now that we have highlighted all the squares under Black’s control, it is clear that the White King should be headed for a4. Once the monarch reaches a4, we will complete our stalemate refuge with a3. And there is nothing Black can do to stop this plan. } h5 2. Kb2 h4 3. Ka3 h3 4. Ka4 h2 5. a3 { Now let’s practice stalemating ourselves with the following puzzles. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046752/"]
+[Date "????.??.??"]
+[Round "6.15"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #8"]
+[Result "*"]
+[FEN "1k6/2q2p2/1Q3p2/KP3P1p/P6P/8/8/8 b - - 2 1"]
+
+1... { -KEY- } Ka8 { Black's King has no moves in the corner. To force stalemate, we simply need to give up our Queen on c7. } 2. Ka6 Qc8+ { We can repeat the position after 3. Ka5 Qc7 } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046753/"]
+[Date "????.??.??"]
+[Round "6.16"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #9"]
+[Result "*"]
+[FEN "8/p7/2k1K3/2p5/PpP5/1P6/8/8 b - - 0 1"]
+
+ { It seems like White's King will outflank ours and the c5 pawn will drop. } 1... { -KEY- } Kb6 { After an eventual Kxc5, White will control the b6 and b5 squares. For us to achieve stalemate, our King belongs on a5 and our a7 pawn belongs on a6. } 2. Kd6 a6 3. Kd5 Ka5 { and c5 cannot be taken because of stalemate. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046855/"]
+[Date "????.??.??"]
+[Round "6.17"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #10"]
+[Result "*"]
+[FEN "8/7p/6P1/6P1/5rk1/1B2p3/7P/6K1 w - - 0 1"]
+
+ { Aside from stalemating ourselves, we need to keep an eye for stalemating possibilities that our defending opponent has. We can do so by checking which squares we are controlling. } 1. { -KEY- } Bd1+ e2 2. Bxe2+ Kxg5 3. g7 Kh6 4. g8=R $1 { Black's King is extremely low on squares, and we need to ensure that Black cannot sacrifice his Rook for stalemate. } ( 4. g8=Q $4 Rg4 5. Qxg4 { Stalemate } ) 
+
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12026773/"]
+[Date "????.??.??"]
+[Round "6.18"]
+[White "5. Endgame Ideas"]
+[Black "Zugzwang"]
+[Result "*"]
+
+ { A zugzwang is a situation in which the obligation to make a move in one's turn is a serious disadvantage. This happens most often in endgames because the defender will not have innocuous moves to pass the turn to the opponent. You can think of zugzwang as the evil cousin of stalemate. In the case of stalemate, the defender is fortunate that his lack of freedom earns him a half point. Whereas for zugzwang, the losing side’s severe immobility leaves him with no choice other than a poor move. Recall the two strategies one can use to cheat death with stalemate. The first involves jettisoning your pieces when your King’s movement is already restricted. The second requires you to actively trap your King and other pieces. Therefore, we can also force our opponent into zugzwang by using exactly the same strategies – either punish your opponent when his position is already cramped, or find ways to limit his freedom. Now let’s practice creating zugzwangs. } 1. -- 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12130927/"]
+[Date "????.??.??"]
+[Round "6.19"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #11"]
+[Result "*"]
+[FEN "8/5kpR/5p2/5P2/7K/7P/8/6r1 b - - 6 1"]
+
+1... { -KEY- } Kg8 { Stopping 2. Rh8 } 2. Rh5 { White has no moves. All we need is a waiting move. } Rg2 { White must give up the Rook now. } 3. Rg5 fxg5+ { Not } ( 3... Rxg5 $4 { Always watch out for stalemate! } ) 
+
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046961/"]
+[Date "????.??.??"]
+[Round "6.20"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #12"]
+[Result "*"]
+[FEN "8/6k1/4pp1p/2p4K/p1P1PP1P/P7/1P6/8 b - h3 0 1"]
+
+1... { -KEY- } f5 $1 { Restricting White's King's movement. Now White is in zugzwang and can only make bad pawn moves } 2. exf5 exf5 3. b4 axb3 4. a4 b2 5. a5 b1=Q 6. a6 Qd1# 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12026774/"]
+[Date "????.??.??"]
+[Round "6.21"]
+[White "5. Endgame Ideas"]
+[Black "Illusion of Freedom"]
+[Result "*"]
+[FEN "3k4/7P/2PN4/8/8/1K6/8/b7 w - - 3 1"]
+
+ { Sometimes, a long-ranged piece may seem quite free on an open board. However, upon further analysis, you may realise that every potential square it can go is somehow not available due to a myriad of tactics (such as a skewer or a fork) . This is what I call the Illusion of Freedom. } 1. { -KEY- } Ka2 { For example, in this position, Black’s Bishop seems spoilt for choice with all the squares along the a1-h8 diagonal. However, as it turns out, no matter where the Bishop goes, the White Knight will eventually win it with a fork. Let’s explore the variations. } Bh8 ( 1... Be5 2. Nf7 ) 
+ ( 1... Bc3 2. c7 Kxc7 3. Nb5 ) 
+ ( 1... Bd4 2. c7 Kxc7 3. Nb5 ) 
+ ( 1... Bf6 2. c7 Kxc7 3. Ne8 ) 
+ ( 1... Bg7 2. c7 Kxc7 3. Ne8 ) 
+2. Nf7+ { Similar to this example, many Illusion of Freedom puzzles involve Knight forks and double attacks. Therefore, knowing the Knight well is winning half the battle against this quirky set of puzzles. And that is exactly what this section focuses - to help you become a Knight virtuoso. A key part of understanding the Knight’s peculiar movement lies in recognising its interaction with colour complexes. On the most fundamental level, a Knight on a light square will control dark squares only. Conversely, a Knight on a dark square controls light squares only. Building on this observation, this means that two pieces are forkable by a Knight only if they are on the same colour complex. In this position, the Black King would either be on d8 or c7 (depending on whether we played c7+) , both of which are dark squares. This was the reason Black’s dark-squared Bishop had no escape from the Knight. The Knight was on d6 (a dark square) , ready to jump to the neighbouring light squares to fork the two Black pieces on dark squares. As you work your way through the next few puzzles, we will see this concept in action in scenarios where the Knight needs to make more than two moves and where the Superposition Technique can be used. Keeping the colour complexes in mind, let’s see the Illusion of Freedom in action. } 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046963/"]
+[Date "????.??.??"]
+[Round "6.22"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #13"]
+[Result "*"]
+[FEN "1k6/3K1b2/8/8/1N6/8/4B3/8 w - - 0 1"]
+
+1. { -KEY- } Nc6+ { Forcing 1...Ka8 } Ka8 ( 1... Kb7 2. Nd8 ) 
+2. Bf3 { Now White has a potent discovered attack and Black's Bishop is trapped. This is because White's Knight is on a light square, ready to move to a dark square. From there, it will give a discovered check while attacking the light square that the Black Bishop is on. } Ba2 ( 2... Bg8 3. Ne7 ) 
+ ( 2... Bg6 3. Ne7 ) 
+ ( 2... Bc4 3. Na5 ) 
+ ( 2... Bb3 3. Na5 ) 
+3. Nb4+ Ka7 4. Nxa2 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046964/"]
+[Date "????.??.??"]
+[Round "6.23"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #14"]
+[Result "*"]
+[FEN "5N2/N7/2P2p1p/2qp1kpP/8/3PP2P/8/3K4 w - - 0 1"]
+
+1. { -KEY- } c7 Qxc7 { Forced } 2. Nb5 { To efficiently confirm if the Black Queen is trapped, we will need to use the Superposition Technique. Wherever the Queen goes, we will have the option to play 3.Nd4+, forcing 3...Ke5. After that, we will have yet another option to play 4.Ng6+ which forces 4...Kd6. This means that the Black King is in a superposition of three squares - f5, e5, and d6. Whichever square allows a Knight fork, we will force the King there. Bearing this in mind and returning to the current position, if the Queen moves to a light square, we should leave the King on f5, a light square, and look for a Knight fork. If the Queen moves to a dark square, we should play 3.Nd4+, forcing the King to move to e5, a dark square. After 3...Ke5, we should look for a Knight fork. If the King and Queen still cannot be forked, all is not lost. We can play 4.Ng6+, forcing the Black King to d6, a different dark square, before looking for a Knight fork again. Using the Superposition Technique in this way, working through all the variations will be a breeze. } Qg7 ( 2... Qb6 3. Nd4 Ke5 4. Nd7 ) 
+ ( 2... Qa5 3. Nd4 Ke5 4. Nc6 ) 
+ ( 2... Qb7 3. Nd6 ) 
+ ( 2... Qb8 3. Nd4 Ke5 4. Nc6 ) 
+ ( 2... Qd8 3. Nd4 Ke5 4. Nc6 ) 
+ ( 2... Qg3 3. Nd4 Ke5 4. Ng6 Kd6 5. Nf5 ) 
+ ( 2... Qh2 3. Nd4 Ke5 4. Nf3 ) 
+ ( 2... Qe7 3. Nd4 Ke5 4. Ng6 ) 
+ ( 2... Qf7 3. Nd6 ) 
+ ( 2... Qc6 3. Nd4 ) 
+ ( 2... Qc5 3. Nd4 Ke5 4. Nd7 ) 
+3. Nd4+ Ke5 4. Ng6+ Kd6 5. Nf5+ 
+ *
+
+[Event "Calculation: A Complete Guide for Tournament Players"]
+[Site "https://www.chessable.com/variation/12046965/"]
+[Date "????.??.??"]
+[Round "6.24"]
+[White "5. Endgame Ideas"]
+[Black "Puzzle #15"]
+[Result "*"]
+[FEN "k7/pN6/8/3B1r2/5B1K/8/8/8 w - - 0 1"]
+
+ { Black is forking both our Bishops. How should we deal with that? } 1. { -KEY- } Bg2 $3 Rxf4+ 2. Kg3 { The Rook is trapped because the Knight singularly controls both light and dark squares. If the Black Rook moves to a light square, the White Knight is ready to move away from b7 to create a discovered check while attacking the light square that the Rook is on If the Black Rook moves to a dark square, the b7 Knight will move to a dark square and give a discovered check. Black will be forced to move his King to b8, a dark square. With both the Rook and King on a dark square, as well as our Knight ready to hop to a light square, we will have a Knight fork. } Rf8 ( 2... Rf7 3. Nd6 Kb8 4. Nxf7 ) 
+ ( 2... Rf6 3. Nc5 Kb8 4. Nd7 Kc7 5. Nxf6 ) 
+ ( 2... Rf5 3. Nd6 Kb8 4. Nxf5 ) 
+ ( 2... Rd4 3. Na5 Kb8 4. Nc6 Kc7 5. Nxd4 ) 
+ ( 2... Rc4 3. Nd6 Kb8 4. Nxc4 ) 
+ ( 2... Rb4 3. Nc5 Kb8 4. Na6 Kc8 5. Nxb4 ) 
+ ( 2... Ra4 3. Nc5 Kb8 4. Nxa4 ) 
+3. Nc5+ { The Knight forces the King to b8, leaving the Rook and King in forking range } Kb8 4. Nd7+ Kc8 5. Nxf8 
+ *

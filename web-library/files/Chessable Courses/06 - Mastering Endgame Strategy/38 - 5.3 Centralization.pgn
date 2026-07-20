@@ -1,0 +1,174 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12631404/"]
+[Date "????.??.??"]
+[Round "38.1"]
+[White "5.3 Centralization"]
+[Black "Centralization"]
+[Result "*"]
+
+ { Another key idea in endgames with queens on the board is centralization. Queens, in contrast to rooks, control more squares the more centrally placed they are, and the fact that usually only one queen can occupy the centre at a time makes the latter a treasured area. We saw proof of this idea in Polugaevsky-Tal; here are some more examples. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630164/"]
+[Date "????.??.??"]
+[Round "38.2"]
+[White "5.3 Centralization"]
+[Black "Example 316- Lisitsin- G. vs. Capablanca- JR.- Moscow 1935"]
+[Result "0-1"]
+[FEN "8/5p2/1p2pkp1/1P4qp/3P4/5P1P/1Q3KP1/8 b - - 0 1"]
+
+ { Thanks to his active queen and more compact pawn structure, Black is better. } 1... { -KEY- } Qd5 $1 { Centralizing the queen and ruling out any tricks with d4-d5. } 2. Ke3 e5 ( { a) This thrust helps Black to approach with his king; exploiting the fact that } 2... e5 3. dxe5 $2 Qxe5 { would leave the b5-pawn doomed. } ) 
+ ( { b) An alternative strategy was } 2... h4 $5 { followed by ...g6-g5, in order to gain space and fix a favourable kingside structure. } ) 
+3. f4 ( { Perhaps } 3. Qb4 $5 { was a better choice, preparing to swap the central pawns on the next move. } ) 
+exf4+ ( { Of course not } 3... exd4 $2 4. Qxd4 Qxd4 5. Kxd4 { when Black is forced to secure a draw by } Ke6 ) 
+4. Kxf4 Ke6 { The king gets ready to replace the queen on d5 at some moment. } 5. h4 f6 6. Ke3 ( { The attempt to swap queens by } 6. Qe2 Kd6 7. Qe4 { runs into } g5 8. hxg5 Qxg5 $1 9. Kf3 Qxb5 10. Qf4 Kd7 $1 { keeping the extra pawn, since } 11. Qxf6 $2 { fails to } Qf1 ) 
+Qc4 7. g3 ( 7. Qb1 $5 Qc3 8. Ke2 { was more active; e.g. } f5 9. Qa2 Kd6 10. Qa8 $1 { with some counterplay. } ) 
+g5 $1 { Opening a new front on the kingside. } ( 7... Kd5 $6 8. Qg2 { was less constructive. } ) 
+8. hxg5 fxg5 9. Qh2 $2 { A misguided counterattack. } ( { The immediate } 9. Ke4 { was correct; e.g. } g4 10. Kf4 Kf6 11. Ke4 Qe6 12. Kd3 Qd5 13. Qf2 Kg6 { when Black keeps a clear, but not decisive advantage. } ) 
+Qb3+ 10. Ke4 g4 $1 { By creating a mating threat on f3, Black finally wins a pawn, and the rest is easy for Capablanca. } 11. Qe2 ( 11. Qf2 $1 { giving up the other pawn instead was a lesser evil, e.g., } Qxb5 12. Qa2 Kf6 13. Qf2 { pushing away Black's king from the center, in order to go d4-d5 next. } ) 
+Qxg3 12. Qc4+ Ke7 13. Qc8 Qf3+ 14. Ke5 Qf6+ $1 15. Kd5 Qd6+ ( { In view of } 16... Qe6 { , White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13880817/"]
+[Date "????.??.??"]
+[Round "38.3"]
+[White "5.3 Centralization"]
+[Black "Example 317- Taimanov- M. vs. Gligoric- S.- Santa Fe 1960"]
+[Result "1-0"]
+[FEN "8/2q5/5kp1/3p3p/8/5PP1/P4QK1/8 w - - 0 1"]
+
+ { The position looks about equal, but White has a small trump in his outside passed pawn. } 1. { -KEY- } Qd4+ $1 { Bringing the queen a bit closer to the action. } ( { Less to the point was } 1. a4 $6 Qc4 { with ...d5-d4 next. } ) 
+Ke6 $6 ( { Black should have challenged the opponent's idea by } 1... Qe5 { , as after } 2. Qxe5 Kxe5 { , the outside passed pawn is compensated by the active black king; e.g. } 3. a4 Kd4 4. Kf2 ( { or } 3... Ke6 3. a5 $2 Kc5 5. Kf2 Kb5 6. Ke3 Kxa5 7. Kd4 g5 $1 { and so on; } ) 
+Kc4 5. f4 Kb4 6. Ke3 Kc3 $1 7. Ke2 Kc2 { with a draw by repetition. } ) 
+2. Qd3 $1 Kf6 ( { This defence of g6 costs a pawn; but Gligoric wasn't keen on } 2... Qg7 3. a4 { when the a-pawn spells big trouble for Black. } ) 
+3. Qxd5 Qc2+ 4. Kh3 Qc1 $6 { Exposing the queen to an exchange on f4, a fact that Taimanov exploits. } ( { a) Instead, } 4... Qc8 $2 { failed to } 5. Kh4 $1 ) 
+ ( { b) But } 4... g5 $1 { would have put up more resistance - Shipov. } ) 
+ ( { c) While } 4... Qf2 5. f4 Qf1 6. Qg2 Qd1 { also offered him drawing chances - Taimanov. } ) 
+5. Qd4+ $1 Ke6 ( { a) The king is forced to abandon the pawns, since both } 5... Kf7 6. Qf4 ) 
+ ( { b) And } 5... Kg5 6. Qe5 Kh6 7. Qf4 $1 { let White swap queens. Similarly, the king can't go to the f-file next move either. } ) 
+6. Qe4+ Kd7 7. Kh4 $1 { Very nice, parrying the mate and activating the king at the same time. } Qd2 8. Qe5 $1 { Safeguarding the g3-pawn, while indirectly preparing the trade of the pawns on a2 and g6. } ( 8. Qxg6 $6 { (or 8 a4?) was less opportune due to } Qh2 { and } 9. -- Qxg3 ) 
+Qxa2 9. Kg5 Qf2 ( { Or } 9... Qf7 10. Qf6 { - Taimanov. } ) 
+10. Qf4 Qb6 11. Qf7+ Kc8 12. Qxg6 Qd8+ ( { On } 12... Qe3 { Taimanov had planned } 13. Kxh5 Qxf3 14. Qg4 $1 { and the same situation is reached two moves later. } ) 
+13. Kxh5 Qd5+ 14. Kh4 Kb8 15. Qg5 Qd1 { The rest is easy, with the pawns shielding the king. } 16. Qf4+ Ka7 17. Qe3+ Ka6 18. g4 Qd6 19. f4 Qh6+ 20. Kg3 Kb5 21. Qd3+ Ka4 22. g5 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630165/"]
+[Date "????.??.??"]
+[Round "38.4"]
+[White "5.3 Centralization"]
+[Black "Taimanov- M. vs. Gligoric- S.- #1"]
+[Result "1-0"]
+[FEN "8/2q5/5kp1/3p3p/8/5PP1/P4QK1/8 w - - 0 1"]
+
+ { The position looks about equal, but White has a small trump in his outside passed pawn. } 1. { -KEY- } Qd4+ $1 { Bringing the queen a bit closer to the action. } ( { Less to the point was } 1. a4 $6 Qc4 { with ...d5-d4 next. } ) 
+Ke6 $6 ( { Black should have challenged the opponent's idea by } 1... Qe5 { as after } 2. Qxe5 Kxe5 { the outside passed pawn is compensated by the active black king; e.g. } 3. a4 Kd4 4. Kf2 ( { or } 3... Ke6 3. a5 $2 Kc5 5. Kf2 Kb5 6. Ke3 Kxa5 7. Kd4 g5 $1 { and so on; } ) 
+Kc4 5. f4 Kb4 6. Ke3 Kc3 $1 7. Ke2 Kc2 { with a draw by repetition. } ) 
+2. Qd3 $1 Kf6 ( { This defence of g6 costs a pawn; but Gligoric wasn't keen on } 2... Qg7 3. a4 { when the a-pawn spells big trouble for Black. } ) 
+ ( { On the other hand, the unexpected } 2... Qc4 $1 { was called for, in the spirit of betting on the passed pawn. After } 3. Qxg6 { (of course, not } 3. Qxc4 $4 dxc4 4. Kf2 g5 { and Black's separated passed pawns decide matters) } Kd7 { the d-pawn is already a concern for White. One try here would be } 4. Qg7 Kc6 5. Qh6 Kc5 6. Qd2 d4 7. Kf2 { in order to control it, but even so Black enjoys a lot of activity. } ) 
+3. Qxd5 Qc2+ 4. Kh3 Qc1 $6 { Exposing the queen to an exchange on f4, a fact that Taimanov exploits. } ( { a) Instead, } 4... Qc8 $2 { failed to } 5. Kh4 $1 ) 
+ ( { b) But } 4... g5 $1 { would have put up more resistance - Shipov. } ) 
+ ( { c) While } 4... Qf2 5. f4 Qf1 6. Qg2 Qd1 { also offered him drawing chances - Taimanov. } ) 
+5. Qd4+ $1 Ke6 ( { a) The king is forced to abandon the pawns, since both } 5... Kf7 6. Qf4 ) 
+ ( { b) And } 5... Kg5 6. Qe5 Kh6 7. Qf4 $1 { let White swap queens. Similarly, the king can't go to the f-file next move either. } ) 
+6. Qe4+ Kd7 7. Kh4 $1 { Very nice, parrying the mate and activating the king at the same time. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13880818/"]
+[Date "????.??.??"]
+[Round "38.5"]
+[White "5.3 Centralization"]
+[Black "Taimanov- M. vs. Gligoric- S.- #2"]
+[Result "1-0"]
+[FEN "8/3k4/6p1/7p/4Q2K/5PP1/P7/2q5 b - - 0 7"]
+
+7... { -KEY- } Qd2 8. Qe5 $1 { Safeguarding the g3-pawn, while indirectly preparing the trade of the pawns on a2 and g6. } ( 8. Qxg6 $6 { (or 8 a4?) was less opportune due to } Qh2 { and 9...Qxg3+. } ) 
+Qxa2 9. Kg5 Qf2 ( { Or } 9... Qf7 10. Qf6 { - Taimanov. } ) 
+10. Qf4 Qb6 11. Qf7+ Kc8 12. Qxg6 Qd8+ ( { On } 12... Qe3 { Taimanov had planned } 13. Kxh5 Qxf3 14. Qg4 $1 { and the same situation is reached two moves later. } ) 
+13. Kxh5 Qd5+ 14. Kh4 Kb8 15. Qg5 Qd1 16. Qf4+ { The rest is easy, with the pawns shielding the king. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630166/"]
+[Date "????.??.??"]
+[Round "38.6"]
+[White "5.3 Centralization"]
+[Black "Example 318- Milman- L. vs. Hungaski- R.- US Team Championship 2011"]
+[Result "0-1"]
+[FEN "8/5Q2/pk2p3/2n2p2/2q5/5BP1/5PK1/8 b - - 0 1"]
+
+ { The centralization idea can also come handy in the presence of more pieces on the board. Here Black enjoys a healthy extra pawn, but before starting its advance he decides to limit the enemy queen. } 1... { -KEY- } Qd4 $1 { A perfect place for the queen, where she controls a lot of important squares and even eyes the f2-pawn. } ( { a) The obvious } 1... a5 { was less practical because of } 2. Qg7 $1 a4 3. Qb2 { with ideas like } Qb3 4. Qd4 a3 $2 5. Qd6 Kb5 6. Be2 Kb4 7. Qb6 { and White even wins. } ) 
+ ( { b) While } 1... Ka5 { at once also complicates things, in view of } 2. Qc7 Kb4 3. Qb6 Kc3 4. Qa5 Qb4 5. Qa1 ) 
+2. Qf8 { The following series of checks doesn't really lead White anywhere, but it was difficult to give him good advice. } Ka5 { King first! } ( { Of course } 2... a5 $2 3. Qb8 Ka6 4. Be2 { had to be avoided. } ) 
+3. Qb8 Nd3 4. Qc7+ Kb4 5. Qb7+ Kc3 6. Qc7+ Kb2 $1 ( { Less is promised by } 6... Kd2 $6 7. Qa5 ) 
+7. Qb7+ Kc1 8. Qc7+ Qc5 { Forcing an easily won minor piece ending. } 9. Qc6 Kd2 10. Qxc5 Nxc5 11. g4 fxg4 12. Bxg4 a5 13. f4 a4 14. f5 exf5 15. Bxf5 a3 16. Bb1 Kc1 17. Ba2 Kb2 ( { In view of } 18... Nb3 { coming next, White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13880819/"]
+[Date "????.??.??"]
+[Round "38.7"]
+[White "5.3 Centralization"]
+[Black "Milman- L. vs. Hungaski- R.- #1"]
+[Result "0-1"]
+[FEN "8/5Q2/pk2p3/2n2p2/2q5/5BP1/5PK1/8 b - - 0 1"]
+
+ { The centralization idea can also come handy in the presence of more pieces on the board. Here Black enjoys a healthy extra pawn, but before starting its advance he decides to limit the enemy queen. } 1... { -KEY- } Qd4 $1 { A perfect place for the queen, where she controls a lot of important squares and even eyes the f2-pawn. } ( { a) The obvious } 1... a5 { was less practical because of } 2. Qg7 $1 a4 3. Qb2 { with ideas like } Qb3 4. Qd4 a3 $2 5. Qd6 Kb5 6. Be2 Kb4 7. Qb6 { and White even wins. } ) 
+ ( { b) While } 1... Ka5 { at once also complicates things, in view of } 2. Qc7 Kb4 3. Qb6 Kc3 4. Qa5 Qb4 5. Qa1 ) 
+2. Qf8 { The following series of checks doesn't really lead White anywhere, but it was difficult to give him good advice. } Ka5 { King first! } ( { Of course } 2... a5 $2 3. Qb8 Ka6 4. Be2 { had to be avoided. } ) 
+3. Qb8 Nd3 4. Qc7+ Kb4 { Walking on dark squares makes perfect sense considering the color of the enemy bishop. } 5. Qb7+ Kc3 6. Qc7+ Kb2 $1 ( { Less is promised by } 6... Kd2 $6 7. Qa5 ) 
+7. Qb7+ Kc1 8. Qc7+ Qc5 { Forcing an easily won minor piece ending. } 
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/13880820/"]
+[Date "????.??.??"]
+[Round "38.8"]
+[White "5.3 Centralization"]
+[Black "Milman- L. vs. Hungaski- R.- #2"]
+[Result "0-1"]
+[FEN "8/2Q5/p3p3/2q2p2/8/3n1BP1/5PK1/2k5 w - - 0 9"]
+
+9. { -KEY- } Qc6 Kd2 10. Qxc5 Nxc5 11. g4 fxg4 12. Bxg4 a5 13. f4 a4 14. f5 exf5 15. Bxf5 a3 16. Bb1 Kc1 17. Ba2 Kb2 ( { In view of } 17... Kb2 17. -- Nb3 { coming next, White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630167/"]
+[Date "????.??.??"]
+[Round "38.9"]
+[White "5.3 Centralization"]
+[Black "Example 319- Hernandez- G. vs. Korchnoi- V.- Merida (8th matchgame) 1996"]
+[Result "0-1"]
+[FEN "6k1/pp3p2/4pp1p/8/3P1P2/P5Pq/1P2Q2P/1K6 b - - 0 1"]
+
+ { Thanks to his more active queen and the chronic weakness on d4, Black is a bit better. His first priority is to improve the queen. } 1... { -KEY- } Qf5+ 2. Kc1 Qd5 $1 { The weak d4-pawn is already starting to make itself felt. } 3. Qf2 f5 { The next step in Black's plan is to open a new front on the kingside by ...h6-h5-h4 and ...Kh7-g6-h5 - Gershon. } 4. Kc2 Qc4+ 5. Kd2 Qb3 6. Kc1 Qd3 { Korchnoi adjusts his plans slightly and regroups the queen to e4. } 7. Qd2 Qe4 $1 { Here and later, Black has no reason to swap his active queen. } 8. b3 Kg7 { Resuming the plan indicated in the third note. } 9. a4 Kg6 10. Qd1 ( { After } 10. Kb2 h5 { it is not clear what should White do next. } ) 
+Qe3+ 11. Kc2 h5 12. Qd3 ( { Obviously, } 12. d5 $2 { failed to } Qc5 ) 
+Qf2+ ( { The queens are needed on the board in order to keep White's king away. Instead after } 12... Qxd3 $2 13. Kxd3 h4 14. Ke3 Kh5 15. Kf3 { followed by h2-h3 Black would not be able to progress. } ) 
+13. Qd2 Qg1 14. Kb2 h4 $1 { Finally, Black's play takes concrete shape. } 15. gxh4 Kh5 16. d5 $1 { Seeing that he is being left with weak pawns on the kingside, Hernandez looks for counterplay on the rest of the board. } exd5 17. Qxd5 Qxh2+ 18. Ka3 Qxf4 19. Qxb7 ( 19. Qxf7 Kxh4 20. Qxb7 { was preferable - Hecht, when Black could consider } Qd6 21. Ka2 Qd2 22. Ka3 f4 { keeping some chances for a win. } ) 
+Qd6+ 20. Ka2 Qd2+ 21. Ka3 Qc1+ 22. Kb4 $6 { This just helps the black queen to find a better square on e6; } ( { so } 22. Ka2 { was preferable - Hecht. } ) 
+Qe1+ 23. Kb5 ( { In the event of } 23. Ka3 Qa1 24. Kb4 Qd4 $1 { Black manages to centralize his queen, with definite winning chances after } 25. Ka3 f4 26. Qxf7 Kxh4 ) 
+Qe6 $1 24. b4 $6 ( { a) Or } 24. Qxa7 Qxb3 25. Ka5 f4 { with similar play to the previous note } ) 
+ ( { b) But } 24. Qf3 { first was a better move order; e.g. } Kxh4 25. Qf4 Kh5 26. b4 { with more resistance than in the game. } ) 
+f4 $1 { Betting on the passed pawn. } 25. Qf3+ ( { After } 25. Qxa7 f3 26. Qa8 Qe2 27. Kb6 f2 { Black wins by using the enemy h-pawn as a shield; e. g. } 28. Qh8 Kg4 29. Qg7 Kh3 30. Qc3 Kh2 31. Qc7 Kg2 32. Qc6 Qf3 33. Qc2 Kh1 { - Gershon. } ) 
+Qg4 { This resource would not have been possible had White played 24.Qf3+ first. } 26. Qd5+ Kxh4 27. Qh1+ Kg5 28. Qc1 Qd7+ ( { In view of } 28... Qd7 29. Ka5 ( { or } 28... Qd7+ 28. Ka6 Qxa4 30. Kb7 Qxb4 ) 
+Qd8 30. Kb5 Qb6 31. Kc4 Qc6 { - Hecht, White resigned. } ) 
+
+ 0-1
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12630181/"]
+[Date "????.??.??"]
+[Round "38.10"]
+[White "5.3 Centralization"]
+[Black "Hernandez- G. vs. Korchnoi- V.- #1"]
+[Result "0-1"]
+[FEN "6k1/pp3p2/4pp1p/8/3P1P2/P5Pq/1P2Q2P/1K6 b - - 0 1"]
+
+ { Thanks to his more active queen and the chronic weakness on d4, Black is a bit better. His first priority is to improve the queen. } 1... { -KEY- } Qf5+ 2. Kc1 Qd5 $1 { The weak d4-pawn is already starting to make itself felt. } 3. Qf2 f5 { The next step in Black's plan is to open a new front on the kingside by ... h6-h5-h4 and ...Kh7-g6-h5 - Gershon. } 4. Kc2 Qc4+ 5. Kd2 Qb3 6. Kc1 Qd3 { Korchnoi adjusts his plans slightly and regroups the queen to e4. } 7. Qd2 Qe4 $1 { Here and later, Black has no reason to swap his active queen. } 
+ 0-1

@@ -1,0 +1,520 @@
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813906/"]
+[Date "????.??.??"]
+[Round "9.1"]
+[White "9. Traps"]
+[Black "Traps"]
+[Result "*"]
+[FEN "r2q1rk1/pp3ppp/n1pb4/3p1b2/2PPn3/1QNB1N2/PP3PPP/R1B1R1K1 b - - 0 11"]
+
+ { Traps Vasily Emelin – Boris Avrukh, Alma-Ata 1991 Black to play Boris Avrukh found a nice trick here with Black that won a pawn. Although it should not have led to an advantage, his opponent suddenly faced quite unexpected problems and was not up to solving them in the most energetic form. Setting a trap in chess is one of the least respected skills – and at the same time one of the most effective. How many times have I heard an opponent complain that he was “much better” and that I would not have won the game, had it not been for the “dirty trap I had set for him.” Thank you for the compliment! I play chess because I enjoy it, and the thing that I enjoy is the mental battle for supremacy. Such success can be achieved through deep strategic play (my favourite) , a brilliant attack (my competence) or through a last-moment trick in an otherwise hopeless position (more common than even I would like to admit) . Personally, I do not like increments in the time control; I think it is people’s right to get into time trouble and blunder their pieces – and it is my joy to exploit it! } 11... -- 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813907/"]
+[Date "????.??.??"]
+[Round "9.2"]
+[White "9. Traps"]
+[Black "Jasmin Bejtovic vs. Jacob Aagaard"]
+[Result "*"]
+[FEN "r2qk2r/ppp2pb1/2n1b2p/3p2n1/3P4/2PB1N2/PP1N3P/R1BQ1RK1 w kq - 0 13"]
+
+ { In this chapter, we shall train the ability to set traps. Obviously, there is a psychological element to it from the game scenario that we cannot simulate here – and in a greater sense than with the other techniques in this book. But still, there are some guiding principles that we can use to develop our ability to set effective traps. First of all, we should ensure that they are not overly naïve. The bait should not be too obvious. Secondly, it is good to mask them as a “normal” move. In the following game I fell for one of those: Jasmin Bejtovic – Jacob Aagaard, Helsingor 2010 Although I did not find the official refutation of the dodgy variation of the King’s Gambit I tricked my opponent into playing (beginning with 1 e4 d6 2 f4 e5!) , my position was still vastly superior at this point. But my carelessness was effectively exploited by my opponent. } 13. Nb3 $5 { An innocent-looking move. In a poor superficial moment, I decided not to allow the knight to come to c5. } b6 $2 ( 13... Qd6 $1 { ∓ would have been better. White cannot play } 14. Nc5 $6 { because of } Nxd4 $1 15. cxd4 Nxf3 16. Qxf3 Bxd4 { winning. Had I been fully awake, this is probably what I would have played. Instead, I continued pretty much as I would have done in a blitz game. } ) 
+14. Bb5 $1 { Suddenly, I was in all sorts of problems. I was just intending } ( 14. Bb5 Qd7 { with the idea of ...a6. But suddenly, I realised that after } 15. Na5 $1 bxa5 16. Qa4 { I would be in for a serious kicking. As a result, I went from much better to being on the run in just one move. Quite a successful moment for my opponent. } ) 
+Qd6 ( 14... Qd7 15. Na5 $1 bxa5 16. Qa4 ) 
+15. Ne5 { → The tables have clearly turned. I had to defend a horrible position for most of the game, although I later got my chances and eventually drew just past move 40. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813908/"]
+[Date "????.??.??"]
+[Round "9.3"]
+[White "9. Traps"]
+[Black "Boris Avrukh vs. Namig Guliyev"]
+[Result "1-0"]
+[FEN "r2qk2r/pp1bbp1p/2n1pp2/6B1/Q1ppN3/5N2/PP3PPP/2KR1B1R w kq - 0 12"]
+
+ { The best traps are in my opinion moves that also have other attributes, and at times, it can be hard to distinguish between traps and pure prophylaxis. If our opponent is threatening something and we prevent it, and yet he goes for it anyway, because he does not understand the significance of our last move, does it count as a trap? Boris Avrukh – Namig Guliyev, Turin (ol) 2006 White has won a piece, but his bishop does not have a good square. For example } ( 12. Bh6 f5 $1 13. Ng3 Nb4 { and the white queen is lost. } ) 
+ { But Boris is quite resourceful and finds a prophylactic idea that includes a small trap: } 12. Bh4 $1 { The best move, as well as a trap. } Nb4 $2 { Black gets too greedy and tries to win the queen. Personally, I would think this is rather naïve and if I had been in Black’s position, against an opponent of Avrukh’s calibre, I would have been more suspicious. Or this is at least something I like to tell myself. To avoid being disillusioned, I will not check my games to see whether this is true or not! . } ( 12... Rc8 $132 { was better. } ) 
+13. Qxb4 $1 Bxb4 14. Nxf6+ Kf8 15. Rxd4 $16 { White’s attack is easy to underestimate; he has only two pieces for the queen. But it is already close to unstoppable. } Qa5 $6 { This gets blasted off the board. } ( 15... Be7 16. Nxd7 Ke8 { was maybe better. But after } 17. Nf6 Bxf6 18. Rxd8 Bxd8 19. Bg3 { White’s technical advantage is quite significant. } ) 
+16. Nxd7+ Ke8 17. Nf6+ Kf8 18. Ne5 $5 ( 18. Bxc4 { here and on the previous move was allegedly stronger. But as White has a winning attack anyway, we skate past this effortlessly. } ) 
+h5 19. Bxc4 Kg7 $6 { The best defensive try was } ( 19... Bc3 $1 { when White is close to winning, but after } 20. Ned7 Kg7 21. Rd3 Bxf6 22. Bxf6 Kh6 23. Bc3 $1 { he will face a continuous technical challenge to prove this. } ) 
+20. Nfd7 $1 { Black is not going to make it. } Rhc8 21. Kb1 b5 22. Bf6+ Kg8 23. Rh4 $1 Be7 24. Bxe7 Rxc4 25. Nf6+ Kg7 26. Rxh5 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813909/"]
+[Date "????.??.??"]
+[Round "9.4"]
+[White "9. Traps"]
+[Black "Vasily Emelin vs. Boris Avrukh"]
+[Result "0-1"]
+[FEN "r2q1rk1/pp3ppp/n1pb4/3p1b2/2PPn3/1QNB1N2/PP3PPP/R1B1R1K1 b - - 0 11"]
+
+ { A trap is basically anything that can be used against your opponent. Sometimes the objective evaluation of the position might not even change significantly for it to have a strong effect. Or in other words: you should never underestimate the element of surprise. In the next example, we shall see a scenario where White does not lose his advantage by falling for the trap, but the requirements on him increase – and probably at a moment when his confidence was seriously dented. Vasily Emelin – Boris Avrukh, Alma-Ata 1991 } { _ } 11... dxc4 $5 { Playable, although not the best, but containing a devious idea. Again I would like to point out how a normal-looking move can contain venom that is not visible to the naked eye. Black’s objectively best play was perhaps } ( 11... Nac5 12. dxc5 Nxc5 13. Bxf5 Nxb3 14. axb3 { when it is not clear who has the advantage. } ) 
+12. Qxc4 $6 { More ambitious was } ( 12. Bxc4 { and although Black has decent play after } Nxc3 13. bxc3 b5 14. Bf1 Nc7 { with reasonable control of the light squares, I have a tendency to like White. } ) 
+Bxh2+ $1 { Surprise! } 13. Kxh2 Nd6 { It is not hard to imagine the effect losing a pawn in this way would have had on White. You miss one thing like this and suddenly your confidence is in freefall. } 14. Qb3 Bxd3 15. Bg5 Qc7 { White had probably not fully recovered from the shock of losing a pawn and therefore did not spot that his position was still playable. But chess is, of course, a game and the practical decisions are what decides the outcome. } 16. Re7 $6 ( 16. Bf4 $1 { with the threat of Ne5-c4 was strong. Black should play } Qd8 $1 { when the best White has is probably } 17. Bg5 { with a draw. But instead White simply ran out of steam and lost without further real struggle. } ) 
+Qc8 $15 17. Bf4 Bc4 18. Qc2 Nf5 19. Re5 Be6 20. g4 $6 Ne7 $19 21. Kg3 Nb4 22. Qd2 Ng6 23. Ne4 Nd5 24. Bh6 Bxg4 25. Nd6 Qd7 26. Bxg7 Kxg7 27. Rh1 h5 28. Rhxh5 Rh8 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813910/"]
+[Date "????.??.??"]
+[Round "9.5"]
+[White "9. Traps"]
+[Black "Baskaran Adhiban vs. Maxim Turov"]
+[Result "0-1"]
+[FEN "rnqr2k1/2p1bpp1/p1b1p2p/3PP3/1pP2N2/5NP1/P4PBP/R2Q1RK1 b - - 0 19"]
+
+ { Finally, I want to say just a few words about general resistance. There are times when you will be unquestionably on the run with your opponent shooting everything he’s got at you as if you were the bear running around the track in the shooting tent. At such times, traps can be useful, but please do not despair and try for cheap tricks and traps just because they can come in handy at some point. Even when hope is slim, it is not gone. In such a scenario, it is generally a good idea to look for variations and positions where it is difficult for your opponent to find a win, rather than trying one-move traps. The general notion is that, if it is hard for you to find the decisive blow, your opponent is more likely to struggle as well. While fighting to find ways to prolong your agony, if not downright escape the pain, it is sensible to look for ways for the opponent to make mistakes as well and be prepared with a surprise or two. Baskaran Adhiban – Maxim Turov, Wijk aan Zee 2012 Black is dead lost. However, he found a very nice way of making his opponent’s job far more difficult. The natural move was probably } ( 18... Be8 { but White is winning in several ways. For example: } 19. Nd4 c5 { and now either } 20. d6 { Or } ( 19... Rh8 19. Ndxe6 $1 fxe6 21. d6 Ra7 22. Nxe6 { and Black’s position is clearly crumbling. } ) 
+ { So Black has to come up with something that makes White’s job at least a little bit harder. } ) 
+g5 $5 ( 18... exd5 $6 19. cxd5 g5 { is a poor version. Besides the computer solution of } 20. e6 $1 { White also has the human win } ( 19... g5 19. Bh3 $5 { when Black’s position collapses: } g4 21. e6 gxh3 22. exf7 Kf8 23. Qc2 Bxd5 24. Qh7 Bxf7 25. Ne5 { with a mating attack. } ) 
+ ) 
+19. Nh5 $6 { White is relying on a pawn-break in the centre. Turov was hoping for this and had a surprising answer prepared. White was winning after } ( 19. Nd4 $1 gxf4 20. Qg4 Kf8 ( 20. Nh5 Kh8 21. Qxf4 Bg5 22. Qxf7 { and the black position is falling apart. } ) 
+21. Qh5 exd5 22. Qxh6 { followed by e5-e6 and Bh3 with a decisive attack on the light squares. Also strong was the less natural } ) 
+ ( 19. Nxe6 $5 fxe6 20. Qc2 Be8 21. Nd4 { when it is hard to believe that Black will survive, even though a direct win does not exist. } ) 
+exd5 $1 20. e6 $2 ( 20. Nd4 $1 { is the strongest move, and the endgame after } dxc4 21. Bxc6 Nxc6 22. Nxc6 Rxd1 23. Nxe7 Kf8 24. Nxc8 Rxa1 25. Rxa1 Rxc8 { should not hold for Black in the long run. But in the long run, we are all dead; the job of the soldier is to fight to live another day, not to concern himself with what may happen beyond then. } ) 
+Qxe6 $1 21. Re1 { Apparently, White was of the understanding that he was about to win here. But Turov had a surprise for him. } ( 21. Nd4 { is no longer strong. Black can play } Qg6 { with a good position. } ) 
+dxc4 $3 { The surprise. White was expecting things such as } ( 21... Qg6 22. Ne5 { And } ) 
+ ( 21... Qg4 22. Rxe7 Qxh5 23. Qe1 Nd7 24. Nd4 Bb7 25. Ne6 $1 { in both cases with a winning attack. } ) 
+ { Basically, White has fallen into a well hidden trap after which the win is no longer obvious. } 22. Qc1 $2 { Stronger was: } ( 22. Qb1 $1 { White would retain an advantage after: } Qd6 23. Ne5 Bxg2 24. Nxf7 $1 { The difficult move to spot perhaps? } Qd3 $1 25. Nxd8 Qxb1 26. Raxb1 Bxd8 27. Kxg2 Nc6 $14 { White has winning chances here, but his task has been made increasingly difficult. In the game, he was already worse. } ) 
+Qf5 $1 23. Re5 ( 23. Rxe7 Bxf3 24. Qxc4 Bxg2 25. Kxg2 c5 $17 ) 
+Qg6 $2 ( 23... Qd7 $1 { ∓ was stronger. The advantage is now returned to White, but after having blown it once he is already quite insecure in his play and clearly struggling with his time consumption. All in all I am tempted to say that Black won convincingly. } ) 
+24. Rxe7 Qxh5 25. Ne5 Bxg2 26. Kxg2 Qe2 27. Nc6 Qd3 28. Nxd8 Qxd8 29. Re4 c3 30. Qd1 $2 ( 30. Rxb4 Qd5 31. f3 Nc6 32. Re4 $14 ) 
+Nc6 $17 31. Rc4 Ne5 32. Qxd8+ Rxd8 33. Rc5 f6 34. a3 a5 35. axb4 axb4 36. Rxc7 Rd7 37. Raa7 Rxc7 38. Rxc7 g4 39. h3 Nd3 40. Kf1 gxh3 41. Kg1 Ne1 42. Kh2 c2 43. Kxh3 b3 { The ability to find ways for the opponent to go wrong is as important as any other way to win in chess. I hope working through the exercises here will help you in improving this ability. If not, then count yourself lucky that there will not be any traps reappearing in the tests later in the book! } 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813911/"]
+[Date "????.??.??"]
+[Round "9.6"]
+[White "9. Traps"]
+[Black "Exercise #1"]
+[Result "1-0"]
+[FEN "R7/2k3r1/2p5/4P3/3P1R2/1p6/5KP1/8 b - - 0 43"]
+
+ { McShane – Mamedyarov, Lausanne 2003 } { _ } 43... { -KEY- } b2 $1 { Black does not have any choice, so the exercise is a bit weird. But the point is to see the trap White can fall into. There is nothing else, of course. } 44. Rff8 $2 { White appears to stop the pawn from promoting, but it is an illusion. White would have won easily with } ( 44. Ra7 Kb6 45. Rxg7 b1=Q $11 46. g4 { although some time would have to be invested. } ) 
+b1=Q $4 { Black falls for the illusion too. } ( 44... Kb6 $1 { would have been a cold shower. After } 45. Rab8 Rb7 46. Rxb7 Kxb7 47. Rf7 Ka6 $1 { White has to find } 48. Rf6 b1=Q $11 49. Rxc6 Kb5 50. Rf6 $1 { in order to secure the draw. The rook will make it to f3 and we have a fortress. } ) 
+45. Ra7+ Qb7 46. Rxb7+ Kxb7 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813912/"]
+[Date "????.??.??"]
+[Round "9.7"]
+[White "9. Traps"]
+[Black "Exercise #2"]
+[Result "0-1"]
+[FEN "5rk1/3nppbp/3p1np1/1P1P4/1p2P2P/5N2/1PQ2PP1/r2NK2R b K - 0 17"]
+
+ { Raetsky – Avrukh, Biel 1996 } { _ } 17... Nc5 $5 { Fishing. } 18. Nd2 $2 { White falls for the trick. After } ( 18. e5 b3 19. Qd2 Nfe4 20. Qe3 { Black would have a hard defence in front of him. } ) 
+Rc1 $1 { Oops! The queen is trapped. } 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813913/"]
+[Date "????.??.??"]
+[Round "9.8"]
+[White "9. Traps"]
+[Black "Exercise #3"]
+[Result "1-0"]
+[FEN "r4rk1/1b1nbppp/1qp1p3/p3P3/1p1PB3/P4N2/1P3PPP/R1BQ1RK1 w - - 0 16"]
+
+ { Avrukh – Ramesh, Ubeda 2001 } { _ } 16. Bg5 $1 { A good move with quite a common trap behind it. } Bxg5 $2 17. Bxh7+ $1 { Black certainly saw this, but it looks as if White has little to follow up with. This is true, but on this occasion little is quite enough. } Kxh7 18. Nxg5+ Kg6 ( 18... Kh6 { does not fare better. } 19. Qg4 $1 { with the threat of Qh4+, Qh7+, f4+ and Qh3# is quite a significant event. Black is dead lost. } ) 
+19. Qg4 f5 20. Qg3 $1 { The dangers have not receded for the black king. } Qxd4 $6 ( 20... c5 { was objectively best. White can of course take on e6, but even stronger is } 21. dxc5 $1 Qc6 ( 21... Nxc5 22. Nxe6 Kf7 23. Qxg7 $1 { and White wins. } ) 
+22. Nxe6 Kf7 23. Nd4 Qxc5 24. Nxf5 Qxe5 25. Nd6 { and White reaches a winning endgame. } ) 
+21. Ne4+ Kf7 { White also wins after } ( 21... Kh7 22. Qh4 Kg6 23. Qg5 { Because of } Kf7 { Or } ( 23... Kh7 24. Qh5 Kg8 25. Ng5 ) 
+24. Rad1 ) 
+22. Rad1 $1 { Black resigned. } Qxe4 23. Rxd7+ Ke8 24. Qxg7 { Leads to mate. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813914/"]
+[Date "????.??.??"]
+[Round "9.9"]
+[White "9. Traps"]
+[Black "Exercise #4"]
+[Result "0-1"]
+[FEN "5r2/p3npk1/2nq2p1/2Np1bN1/1rpP2BP/4PQ2/P4PK1/R4R2 b - - 0 24"]
+
+ { Rewitz – Aagaard, Denmark 2011 } { _ } 24... { -KEY- } c3 $5 { ∓ Black has a big positional advantage but still has to prove it. I took a shortcut. } 25. Rac1 $2 { White did not see the trap set by the last move. } Bxg4 26. Qxg4 Qxc5 $1 { Oops! } 27. a3 Rc4 28. Qf4 Nxd4 $5 { A practical solution. There was no real counterplay after } ( 28... Qxa3 29. h5 gxh5 { but having read a few too many Stephen King novels, I was seeing ghosts! } ) 
+29. exd4 Qxd4 30. Qxd4+ Rxd4 31. Rxc3 Rxh4 32. f4 Nf5 33. Rc7 Ne3+ 34. Kg3 Rg4+ 35. Kf3 Rxg5 36. Kxe3 Rg3+ 37. Kd4 Rxa3 38. f5 Ra4+ 39. Kxd5 Ra5+ 40. Ke4 Re8+ 41. Kd4 Rd8+ 42. Ke4 Re8+ 43. Kd4 Rxf5 44. Rxf5 gxf5 45. Rxa7 Kg6 46. Kd3 f4 47. Ra4 Kg5 48. Ra7 f6 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813915/"]
+[Date "????.??.??"]
+[Round "9.10"]
+[White "9. Traps"]
+[Black "Exercise #5"]
+[Result "*"]
+[FEN "8/1p3k1p/p6B/4Rp2/P4Prb/1P1K4/2P4P/8 b - - 0 32"]
+
+ { Tiviakov – Aagaard, Bratto 2007 } { _ } 32... { -KEY- } Bf6 $1 { I would have been okay after the normal } ( 32... Rg2 { but found a nice little trap. } ) 
+33. Rxf5 $2 { I was a bit shocked that he fell for it, which explains why I did not make more out of the situation later on. } Kg6 34. Ke4 Rg1 $1 { He had missed this move. } 35. Rxf6+ Kxf6 36. Bg5+ Kg6 37. h4 Re1+ 38. Kd4 { This ending is winning, but I decided to “secure the draw” with } h6 $2 { offering at the same time. I would say I was not emotionally prepared for the turn of luck in a game against a player I respect immensely and where I had been a pawn down earlier on. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813916/"]
+[Date "????.??.??"]
+[Round "9.11"]
+[White "9. Traps"]
+[Black "Exercise #6"]
+[Result "0-1"]
+[FEN "2r1kb1r/3bpppp/p2q1nn1/1p1P4/8/PBN1BN2/1P2QPPP/R3K2R b KQk - 0 15"]
+
+ { Dittmar – Aagaard, Arco 2006 } { _ } 15... Bg4 $5 { I emerged from the opening as I wanted, with a tricky position. Unfortunately, it was most tricky for me! However, I found a simple trap here. The trap is mainly psychological. I hoped my opponent was uncomfortable with the pin and would therefore try to break it immediately. } 16. h3 $2 { Falling for it. White should not be afraid of double pawns, but instead play } ( 16. O-O Nh4 17. Rac1 { with the better game. } ) 
+Bxf3 17. Qxf3 $2 { Continuing down the same road. } Nh4 $17 { Oops! } 18. Qg3 Qxg3 19. fxg3 Nxg2+ 20. Kf2 Nxe3 21. Kxe3 { Black won on move 55. } 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813917/"]
+[Date "????.??.??"]
+[Round "9.12"]
+[White "9. Traps"]
+[Black "Exercise #7"]
+[Result "0-1"]
+[FEN "2r3k1/pp3pp1/5n1p/b1qp4/8/2NQPN1P/PP3PP1/2R3K1 b - - 0 22"]
+
+ { May – Aagaard, Isle of Man 2003 } { _ } 22... Ne4 $5 { As well as setting a trap, this is also a good move, but obviously, there were a number of decent ones. The main point was demonstrated in the game. } 23. Ne2 $2 { Falling for it. } ( 23. Nd2 { with a just about equal position was better. } ) 
+Qxc1+ $1 24. Nxc1 Rxc1+ { White resigned. } 25. Kh2 Rh1+ $1 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813918/"]
+[Date "????.??.??"]
+[Round "9.13"]
+[White "9. Traps"]
+[Black "Exercise #8"]
+[Result "1-0"]
+[FEN "2r3k1/p1b2ppp/2n3q1/2Pp4/Qr1P4/N4N2/5PPP/R3R1K1 w - - 0 26"]
+
+ { El Kher – Aagaard, Nyborg 2001 } { _ } 26. { -KEY- } Qa6 $1 { I lost a few times to Henrik during the time I coached him. Only afterwards did I manage to get him! I guess I had conflicted emotions about playing him. Anyway, here he outfoxes me again. } ( 26. Qd1 { was only level. } ) 
+Rcb8 $2 { Correct was } ( 26... Rd8 $1 27. Nb5 Bb8 $14 { and Black is sort of okay. } ) 
+27. Nb5 $1 { A nice trick, but not the only good option. } ( 27. Nc2 $5 Rb2 28. Ne3 { would also have been strong. The d5-pawn cannot be defended by the queen on account of 29 Nc4! } ) 
+Bf4 28. Nxa7 Nxa7 29. Qxa7 h5 30. Qd7 Rb1 31. Raxb1 Rxb1 32. Qe8+ Kh7 33. g3 Rxe1+ 34. Qxe1 Bc7 35. Kg2 Bd8 36. Qe8 Bf6 37. c6 Qc2 38. Qd7 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813919/"]
+[Date "????.??.??"]
+[Round "9.14"]
+[White "9. Traps"]
+[Black "Exercise #9"]
+[Result "0-1"]
+[FEN "3r1k1r/1p3qp1/p3Rn1p/2b2P2/7B/8/PPP1Q1PP/4RK2 b - - 0 24"]
+
+ { Volodarsky – Batrakov, Correspondence 2009 } { _ } 24... g5 $5 { A very simple trap, which was entirely wasted on an e-mail game. After } 25. Bf2 { the game was unclear, though Black eventually won. The trap was, of course, } ( 25. fxg6 $2 Ng4 $1 { transposing into a winning endgame on account of } 26. gxf7 $6 Nxh2 ) 
+
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813920/"]
+[Date "????.??.??"]
+[Round "9.15"]
+[White "9. Traps"]
+[Black "Exercise #10"]
+[Result "1/2-1/2"]
+[FEN "1k6/4qp2/5p2/KP3P1p/P2Q3P/8/8/8 b - - 0 44"]
+
+ { Chigorin – Schlechter, Ostend 1905 } { _ } 44... Qc7+ $5 { White is completely winning, of course, but Black tried a last trap. } 45. Qb6+ $2 { White falls for it, hoping for immediate simplicity through the exchange of queens. } ( 45. b6 { won easily, of course. } ) 
+Ka8 $1 { White must have been absolutely stunned the moment he realized what he had done. Taking the queen is stalemate and } 46. Ka6 Qc8+ 47. Ka5 { is a perpetual. So the players agreed a draw. } 
+ 1/2-1/2
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813921/"]
+[Date "????.??.??"]
+[Round "9.16"]
+[White "9. Traps"]
+[Black "Exercise #11"]
+[Result "1-0"]
+[FEN "r1bq1rk1/ppp1p1b1/2np2pp/1B2Pp2/3P1BnP/2N2N2/PPP2PP1/R2QK2R w KQ - 0 10"]
+
+ { Schandorff – Kristiansen, Denmark 2012 } { _ } 10. Qe2 $1 { White is preparing 0–0–0 at the same time as just defending the e5-pawn. Black had prepared an idea, but was not aware that it was unsound. } Nxd4 $2 { Black falls for it. } ( 10... dxe5 11. dxe5 e6 12. Rd1 Qe7 { would not be far from equality. } ) 
+11. Nxd4 dxe5 { Apparently, Black will regain his piece with interest? } 12. Nf3 $1 { No! The queen would be trapped after } ( 12. Nf3 exf4 13. Rd1 ) 
+ { So Black played: } Qd6 13. Rd1 Qb4 14. Qc4+ { and lost without a fight. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813922/"]
+[Date "????.??.??"]
+[Round "9.17"]
+[White "9. Traps"]
+[Black "Exercise #12"]
+[Result "0-1"]
+[FEN "r1b1rqk1/pp1n1pp1/2pb3p/4p3/2PP3Q/1P2BN2/P3BPPP/R4RK1 b - - 0 15"]
+
+ { J. Grant – Aagaard, Oban 2005 } { _ } 15... exd4 $5 { I knew that } ( 15... e4 16. Nd2 g5 17. Qh3 Nf6 18. g4 $15 { would be quite comfortable for me. But then I found a nice little trick. } ) 
+16. Nxd4 $2 ( 16. Qxd4 { was necessary: } Bc5 $15 ) 
+Nf6 $1 { –+ Suddenly I am threatening not only ...g5, but also ...Re4!. Black won on move 38. } 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813923/"]
+[Date "????.??.??"]
+[Round "9.18"]
+[White "9. Traps"]
+[Black "Exercise #13"]
+[Result "*"]
+[FEN "4k3/1p3r1p/2pPK3/P1P4r/1p2P3/8/1R6/8 w - - 0 59"]
+
+ { McShane – Kramnik, London 2011 } { _ } 59. { -KEY- } a6 $5 { In this lost endgame, McShane kept finding tricks. This was the last one. } Rh6+ $1 { Kramnik is alert. It was tempting to decide to mate his opponent with } ( 59... Rg7 $2 { but then White saves the game with: } 60. Rg2 $3 ( 59... Rh6+ 59. d7 $2 { on the other hand, does not work: } Rxd7 61. a7 Rd8 62. Rxb4 Rxc5 63. Rxb7 Rh5 64. e5 Rh6 65. Kf5 Rh1 { and Black wins. } ) 
+Rh6 61. Ke5 Re7 62. dxe7 bxa6 63. Ra2 { and Black’s advantage is not enough to claim the full point. As well as the game move order, } ) 
+ ( 59... bxa6 60. Rxb4 Rh6 { also works, of course. } ) 
+60. Ke5 bxa6 61. Rxb4 Ra7 62. Rb8+ Kf7 63. Rc8 Re6+ 64. Kf5 a5 65. Rh8 Rf6+ 66. Ke5 Kg7 67. Rc8 a4 68. Rxc6 a3 69. d7 a2 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813924/"]
+[Date "????.??.??"]
+[Round "9.19"]
+[White "9. Traps"]
+[Black "Exercise #14"]
+[Result "*"]
+[FEN "6k1/1pp2r1p/4K2P/p1PP4/P3P3/1P5R/8/3r4 w - - 0 48"]
+
+ { McShane – Kramnik, London 2011 } { _ } 48. { -KEY- } d6 $1 { McShane here went for a trick with 48 d6! } c6 { Simple and calm. You can feel the frustrations Kramnik suffered during the game from not being able to eliminate all counterplay quickly. Here a reasonable alternative was } ( 48... Rg1 $5 { While it was less natural to play } ) 
+ ( 48... cxd6 $6 49. cxd6 Rg1 50. e5 { when the pawns offer some counterplay. Black should still win with accurate play, but already this is a disappointment when you are a rook up! The main tricks were of course that the natural move of bringing in the king with } ) 
+ ( 48... Kf8 $2 { would lose to } 49. Rf3 $3 Rxf3 50. dxc7 { There is a similar story after } ) 
+ ( 48... b6 $2 49. Rg3 $1 Kf8 { when White is winning with both } 50. Rf3 $1 { and 50.Rg7!? } ) 
+49. Ke5 Kf8 50. Rh2 Rg1 51. b4 axb4 52. Rb2 Rg5+ 53. Ke6 Rg6+ 54. Ke5 Rxh6 { We have reached the previous exercise. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813925/"]
+[Date "????.??.??"]
+[Round "9.20"]
+[White "9. Traps"]
+[Black "Exercise #15"]
+[Result "1/2-1/2"]
+[FEN "6k1/p4pp1/1pr4p/2b5/P1P5/1PBr1P2/2R1RPKP/8 w - - 0 25"]
+
+ { Su.B. Hansen – Aagaard, Hillerod 2010 } { _ } 25. { -KEY- } b4 $1 { It is not clear if White should give the check on e8 first, which the computer says is strongest, or just play as he did. But in terms of setting a trap, the text move was certainly very clever. } Rg6+ $6 { I fell straight for it, of course. After } ( 25... Bd6 { White can give the check or play } 26. Red2 { in both cases with some advantage. } ) 
+26. Kf1 Bd6 $2 { Already I should have been cautious with } ( 26... Rd1 27. Re1 Rxe1 28. Bxe1 Bf8 { although I fear for my health after } 29. Rd2 { But maybe it is not so bad. } ) 
+ { In the game, I had to accept the poor consequences after: } 27. Re8+ Kh7 28. Ke2 $1 { ± My rook is trapped. I played the only thing I could, but knew that my position was lost. } Rxc3 29. Rxc3 Bxb4 30. Rd3 Rg2 31. Kf1 Rxh2 32. Kg1 ( 32. Rd7 $5 ) 
+Rh5 ( 32... Rh4 { was better, but the ending is a drag. } ) 
+33. Rd5 $1 f5 34. Rc8 a5 35. Rc6 $2 { Missing the chance to win the game. I saw the idea during play, but had no alternatives. The more active } ( 35. Rc7 $1 { was strong. My intention was } Bc5 { but after } 36. f4 { I have problems with the g7-pawn. For example: } Rh4 37. Rxf5 Rg4 38. Kf1 Kg6 39. Rff7 Bd4 40. Ke2 { and the position feels increasingly shaky. } ) 
+Bc5 36. f4 Rh3 $1 { Black now has enough counterplay. } 37. Rcxc5 bxc5 38. Rxc5 Rc3 
+ 1/2-1/2
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1928436/"]
+[Date "????.??.??"]
+[Round "9.21"]
+[White "9. Traps"]
+[Black "Exercise #16"]
+[Result "*"]
+[FEN "4b3/7R/3P1kp1/4p3/5p1P/5Br1/6P1/7K b - - 0 56"]
+
+ { Carlsen – McShane, London 2009 } { _ } 56... Kf5 $1 { Not the best move, but as nothing works, you might as well try a trick. Black cannot save the game at all. For example: } ( 56... g5 57. hxg5 Kxg5 58. d7 Bxd7 59. Rxd7 Kf5 60. Rf7 Ke6 61. Rf8 $18 { and Black will never achieve the drawing idea of ...e5-e4. Even worse is } ) 
+ ( 56... Ke6 $2 57. Re7 { The game went } ) 
+ ( 56... e4 57. Bxe4 Re3 { but it was no challenge for Carlsen to find } 58. Bd5 $1 { Threatening 59 d7! After } Kf5 59. Kh2 $5 Re5 60. Bf3 Kf6 61. d7 { Black resigned. } ) 
+57. d7 $2 { This move falls for the trick. } ( 57. Rf7 { is the way to win: } Bxf7 58. d7 e4 59. Be2 { and Black cannot do anything. For example: } Re3 60. d8=Q $11 Rxe2 61. Qg5 Ke6 62. Qg4 { and wins. } ) 
+Bxd7 58. Rxd7 e4 $1 59. Rd5+ ( 59. Bd1 f3 60. gxf3 Rh3 61. Kg2 Rxh4 62. Bc2 Ke6 $1 { and Black escapes to a bishop and rook vs. rook ending, which is holdable. } ) 
+Ke6 60. Bxe4 Re3 $1 { The bishop is trapped. White has nothing better than: } 61. Rg5 Rxe4 62. Rxg6+ Kf5 { Black should hold. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813927/"]
+[Date "????.??.??"]
+[Round "9.22"]
+[White "9. Traps"]
+[Black "Exercise #17"]
+[Result "1-0"]
+[FEN "4rr1k/pbq4p/1pn2ppQ/2pBp3/P1N1Pn2/2P2N2/1P3PPP/3RR1K1 w - - 0 19"]
+
+ { K. Müller – McShane, Lippstadt 2000 } { _ } 19. { -KEY- } Nh4 $5 { White would be better after } ( 19. g3 { 19 b3 or 19 Rd2. Instead, he went for a little trick. } ) 
+Ne7 $2 { If McShane had spotted the trick, he would have played the strong } ( 19... Nd8 $1 { with the threat of ...Nf7! trapping the queen. Here White only keeps the balance with } 20. Nd6 $1 Qxd6 21. Bxb7 Qc7 22. Bd5 Nf7 23. Bxf7 $11 ) 
+20. Bxb7 Ng8 $6 { This is rather naive play. What did Black think White intended? To lose the queen? Technically better was } ( 20... Qxb7 21. Nd6 { but this was of course not McShane’s intention. } ) 
+21. Nxg6+ Nxg6 { Probably McShane thought he was winning with his double threat? This only illustrates my point that we should always look half a move deeper than we intuitively tend to. } 22. Qh3 $1 { This must have come as a surprise. The bishop is immune because of Rd7, so White has won a pawn. } f5 23. exf5 Nf4 24. Qf3 Nf6 25. Rd6 Rg8 26. Rxf6 e4 27. Rxe4 Rd8 28. Ne3 Nxg2 29. Nxg2 Qxb7 30. Rfe6 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1813928/"]
+[Date "????.??.??"]
+[Round "9.23"]
+[White "9. Traps"]
+[Black "Exercise #18"]
+[Result "0-1"]
+[FEN "8/6pk/7q/6p1/8/p4Q2/6K1/8 b - - 0 74"]
+
+ { Agdestein – Aagaard, Dresden (ol) 2008 } { _ } 74... g4 $5 { I had messed this winning queen ending up completely. But in the end I found a cheap trap. } 75. Qxa3 Qc6+ 76. Kg3 $2 { White draws easily with } ( 76. Kg1 { Black can play ...Qf3 and ...g3, only to be met with Qxg7+! and a claim of a draw. } ) 
+Qf3+ 77. Qxf3 gxf3 78. Kxf3 Kh6 $1 { He had clearly missed this move. Black just wins. } 79. Kg4 Kg6 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1814990/"]
+[Date "????.??.??"]
+[Round "9.24"]
+[White "9. Traps"]
+[Black "Exercise #19"]
+[Result "1-0"]
+[FEN "1n1r1rk1/5ppp/ppq1p3/8/2P1Q3/1P3NP1/P2R1PKP/3R4 w - - 0 25"]
+
+ { Greet – Hammer, Gausdal 2007 } { _ } 25. Ng5 $1 { Asking around the office for traps, Andrew came up with this sweet one. The move played was also strong, but maybe } ( 25. Qf4 { with a clear edge, was at least as good. } ) 
+Rxd2 26. Rxd2 h6 $2 { Falling for the trap. Black, of course, has a hard life after } ( 26... Qxe4 27. Nxe4 Rc8 $16 { but the ending is by no means lost by force. } ) 
+27. Rd6 $1 { A nice trick shot. } Qxe4+ 28. Nxe4 { The b-pawn drops, and White won the ending on move 59. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1814991/"]
+[Date "????.??.??"]
+[Round "9.25"]
+[White "9. Traps"]
+[Black "Exercise #20"]
+[Result "1-0"]
+[FEN "5rk1/1p1b1ppp/1q2p3/3pP3/Pp1P3P/nP3N2/B2Q1PP1/2R3K1 w - - 0 26"]
+
+ { D. Howell – Hillarp Persson, Oslo 2008 } { _ } 26. Rc5 $1 Bxa4 $2 { Falling for the trap, though Black was worse anyway. } 27. bxa4 b3 28. a5 $1 bxa2 29. axb6 a1=Q+ 30. Rc1 { Black resigned. He will end up a piece down. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1814992/"]
+[Date "????.??.??"]
+[Round "9.26"]
+[White "9. Traps"]
+[Black "Exercise #21"]
+[Result "0-1"]
+[FEN "r4rk1/1p5p/pB2q1p1/P2pb3/4n3/1NPQ2P1/1P5P/R2R2K1 b - - 0 33"]
+
+ { Dolmatov – Razuvaev, Rostov-on-Don 1993 } { _ } 33... Ng5 $1 { This position was given on ChessBase.com with the obituary of Razuvaev. He was a fine writer and it was sad to see him die in his sixties. In this position, he sets a nice trap for his opponent. Defending the d-pawn with } ( 33... Nf6 $14 { leaves White with the more pleasant position. } ) 
+34. Qxd5 $2 { White should first play } ( 34. Nc5 $5 { intending to take the d-pawn next move. Black then has a spectacular way to force a draw, but nothing more: } Bd4 $3 35. cxd4 Nh3 36. Kg2 $2 ( 36. Kh1 Nf2 37. Kg1 Nh3 $11 ) 
+Rf2 37. Kh1 Qg4 38. Rf1 Raf8 $1 39. Rae1 R8f3 40. Qd1 Rxh2 41. Kxh2 Qxg3 42. Kh1 Rf2 { and Black wins everything. } ) 
+Bd4+ $3 { Certainly, this must have come as a stunning blow for White. } 35. Rxd4 Nf3+ 36. Kg2 Nxd4 37. Qxe6+ ( 37. Qxd4 Qxb3 { is even worse. } ) 
+Nxe6 $17 { Black won on move 78. } 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1814993/"]
+[Date "????.??.??"]
+[Round "9.27"]
+[White "9. Traps"]
+[Black "Exercise #22"]
+[Result "*"]
+[FEN "5rk1/pp4p1/3N2Q1/6P1/3P3p/P4p1q/1P6/4K1B1 w - - 0 39"]
+
+ { Hanley – Shaw, Hinckley Island 2009 } { _ } 39. Bf2 $1 { This would have been a beautiful trap. This was kindly provided by John Shaw, who assures me that he would have fallen for the trap, had his opponent set it. Knowing him well I believe this completely, especially as he had very little time to play the last two moves before the time control. The game ended: } ( 39. d5 $2 { Making it easy. } f2 40. Bxf2 Qh1 { White resigned. Black has 41...Qf3+. } ) 
+ { Now } ( 39. Bf2 Qd7 { is calm and winning. But instead John would certainly have played: } ) 
+Qh1+ $2 40. Kd2 Qf1 $2 { A plausible sequence in time trouble. } ( 40... Qh3 $1 { ± is better, but not likely. } ) 
+41. Qe6+ Kh8 42. g6 $3 { A fantastic conclusion. Black can now give a check on e2 and be entirely lost in the ending, or play } Qxf2+ 43. Kc3 $1 { when bizarrely there is no way to avoid mate. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1814994/"]
+[Date "????.??.??"]
+[Round "9.28"]
+[White "9. Traps"]
+[Black "Exercise #23"]
+[Result "1-0"]
+[FEN "4rr1k/ppq2ppp/3b4/4pb2/7Q/1BP1RN1P/PP3PP1/4R1K1 w - - 0 21"]
+
+ { Janev – Solak, Cappelle la Grande 2012 } { _ } 21. Qg5 $5 Bg6 $2 { This looks like a trap, but actually Black has fallen into a trap of White’s making. } ( 21... Be6 { was better, when it is a debate if White has any advantage at all. I would guess not. } ) 
+22. Nxe5 $1 { This pawn was supposed to be protected by a tactic. } Rxe5 { This is what Black was relying on, as } ( 22... Bxe5 23. Rxe5 f6 24. Rxe8 { is just a pawn down. } ) 
+23. Rxe5 f6 { It looks as if Black is winning a piece, but actually he is just losing a pawn. } 24. Qxg6 $3 { At this point Black might have realized how things were going, but it was too late. } fxe5 ( 24... hxg6 $2 { does not work. After } 25. R1e4 $1 { Black will be mated: } g5 { Or } ( 25... Rf7 26. Re8 Bf8 27. Rxf8 Rxf8 28. Rh4 ) 
+26. Rh4 gxh4 27. Rh5 ) 
+25. Qh5 g6 26. Qh4 Rf4 27. Qg5 $16 { White won on move 83. } 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1814995/"]
+[Date "????.??.??"]
+[Round "9.29"]
+[White "9. Traps"]
+[Black "Exercise #24"]
+[Result "*"]
+[FEN "3rr3/2q2pbk/p5pp/1pn5/3P4/5RNP/P1BQ1PP1/2R3K1 w - - 0 25"]
+
+ { Zherebukh – Stukopin, Moscow 2012 } { _ } 25. { -KEY- } Nf5 $1 { White can keep equality easily with } ( 25. Qf4 { but White could also play for a win with a little trap. In the game, White played weakly with } ( 25. Ne2 $2 Qe7 $15 { and lost on move 51. } ) 
+ ) 
+gxf5 $2 { This move falls into a rather elaborate trap. Whereas after the simple } ( 25... Qa7 $1 26. Nxg7 Kxg7 { the position would be roughly equal. } ) 
+26. Rxf5 $3 { This is the point Black could easily overlook. The trap was to make Black think that White was intending to play } ( 26. Bxf5 $6 Kg8 { when the knight on c5 would in fact not be hanging. White would be able to save the game only with the brilliant } 27. Rd3 $1 { leading to equality after } Rd5 28. Rxc5 Rxc5 29. dxc5 Qxc5 ) 
+Kg8 ( 26... Kh8 { also does not work out for Black. After } 27. Rxc5 Qxc5 { White has } 28. Qd3 $1 f5 29. dxc5 Rxd3 30. Bxd3 { with serious winning chances. } ) 
+27. Rxc5 Qd6 ( 27... Qxc5 28. Bh7 { and wins. } ) 
+28. Bb3 $1 ( 28. d5 h5 29. Qg5 Kf8 $1 { ∞ is nothing special. } ( 28. Rc7 $5 Qxd4 29. Qxd4 Bxd4 30. Bb3 Rf8 31. R7c6 $14 { also puts Black under pressure. } ) 
+ ) 
+Qxd4 29. Qc2 $16 { ± White has a strong attack on the light squares. For example: } Qd3 30. Rf5 Rf8 31. Qxd3 Rxd3 32. Rc6 { And Black will lose material and struggle with his structure afterwards. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1814996/"]
+[Date "????.??.??"]
+[Round "9.30"]
+[White "9. Traps"]
+[Black "Exercise #25"]
+[Result "0-1"]
+[FEN "4nr1k/5Pr1/bqp2p1p/p3pP1Q/P3N2P/2P1P3/2B2R2/6RK b - - 0 37"]
+
+ { Su. B. Hansen – Aronian, Porto Carras 2011 } { _ } 37... Qxe3 $5 { The Danish Grandmaster was shaking with nerves, having outplayed his famous opponent completely. However, the World No. 2 tried one last trick. } ( 37... Rfxf7 { was objectively best, but White is winning after } 38. Rg6 Qxe3 39. Ng5 $1 { as well as after a whole lot of other ideas. } ) 
+38. fxe8=Q $4 { Hansen falls for the trick. He was slowly reaching out for the pawn and I as team captain standing right behind him could not do anything to stop him. At least, not without tarnishing my name and the reputation of Danish chess for a generation. Okay, I regret not coughing, but I didn’t. } ( 38. Rg6 Qh3 39. Kg1 Rfxf7 40. Bb3 { is a nice win. } ) 
+ { Aronian (with no sign of understanding the emotional events taking place in his opponent) asked immediately after the game: 'Why did you not play } ( 38. Rxg7 Nxg7 39. Qg6 $1 { and you are winning.' } ) 
+ { The answer must be that he did not see anything wrong with what he did! The Chairman of the Danish federation was the arbiter of the adjacent match and later on said he did not manage to see everything that happened in the game, 'But Sune, could you not have played } ( 38. Ng5 { ?' } ) 
+Qh3+ 39. Rh2 Rxg1+ { Now Sune saw the problem and resigned with a pained expression on his face. } 40. Kxg1 Qf1# 
+ 0-1
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1814997/"]
+[Date "????.??.??"]
+[Round "9.31"]
+[White "9. Traps"]
+[Black "Exercise #26"]
+[Result "*"]
+[FEN "3rr1k1/pb2qppp/1p2pn2/2p1N3/2PP1Q2/1P6/P3BPPP/R2R2K1 w - - 0 18"]
+
+ { Aagaard – Bui Vinh, Budapest 2002 } { _ } 18. dxc5 $5 { I had missed some of the games in this event due to illness. I showed up to this game because my opponent had the chance to expand his already achieved GM-norm. I wanted to ruin this in person, not by telephone. } Qxc5 $2 ( 18... bxc5 $11 { was the correct move. } ) 
+19. Bh5 $1 Rxd1+ ( 19... Nxh5 20. Qxf7 Kh8 21. Qxh5 { is simple. } ) 
+20. Rxd1 Rf8 { At this point, my snot-infested head was unable to think more than two moves ahead, and I immediately abandoned the possible combination: } 21. Bxf7+ $1 { Instead, I played } ( 21. Bf3 $2 { ⩲ offered a draw and crawled back to my sick bed. } ) 
+Rxf7 22. Nxf7 Qc6 { As I mentioned, I just stopped here, unable to think. } 23. Nh6+ $1 { Going for a solid positional edge. } gxh6 24. f3 Kf7 25. Qb8 $1 ( 25. Qxh6 $5 { ± } ) 
+b5 26. Qxa7 bxc4 27. bxc4 Kg6 28. c5 $16 { White's advantage is bordering on being decisive. } 
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1814998/"]
+[Date "????.??.??"]
+[Round "9.32"]
+[White "9. Traps"]
+[Black "Exercise #27"]
+[Result "1-0"]
+[FEN "1r1qr1k1/5pb1/4p1p1/2ppP1N1/7Q/Pb4P1/1Pn2PB1/R1B1R1K1 w - - 0 26"]
+
+ { McNab – Jacobs, Manchester 1982 } { _ } 26. { -KEY- } Be3 $1 { Setting quite a serious trap. My former teammate Dr McNab is in action against the future chief editor of Everyman Chess (and also good friend of mine) . His attack has led nowhere, but as anyone who has ever lost to him will know, he is very tricky indeed. Colin saw that } ( 26. Qh7 Kf8 27. Qh4 { would suggest a draw, on account of } Nxe1 $2 { He cannot remember if he considered the computer’s suggestion of } ( 27. Be3 Re7 $5 { which leads to unclear play. I am honestly a bit disappointed with his poor recall. } ) 
+28. Nh7 Kg8 29. Bg5 $1 { ± } ) 
+d4 $2 { Falling into the trap by weakening the e4-square. Something like } ( 26... Rb5 { would have kept control. White can of course still draw with } 27. Qh7 Kf8 28. Qh4 $1 { This time Black cannot avoid the drawing } Kg8 { without ending in trouble. After } ( 28... Re7 $2 { the stars are not the same and Black is lost after } 29. Nh7 Ke8 30. Qf6 $3 ) 
+ ) 
+27. Qh7+ Kf8 28. Nxf7 $1 { Now there is no talk of a draw. } Kxf7 { There are alternatives, but no pleasant ones. } ( 28... Qd7 { is the computer’s suggestion. White wins after } 29. Nd6 dxe3 30. fxe3 Nxe1 31. Rxe1 Bc2 32. e4 Bd3 33. Re3 Re7 34. Rf3 Rf7 35. Nxf7 Bxe4 36. Rf4 Bf5 37. Nd6 { and 38 g4. } ) 
+ { Obviously, this need not be calculated all the way. White is evidently winning early on – how can be answered later on. } 29. Bh6 Rg8 30. Re4 $1 { Making excellent use of the e4-square. } g5 31. Rg4 Nxa1 32. Bxg5 Bc2 33. Rf4+ Bf5 34. Rxf5+ exf5 35. Qxf5+ Bf6 36. Bxf6 Qc8 37. Bd5+ Ke8 38. Qh5+ Kd7 39. Qf7# 
+ 1-0
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1814999/"]
+[Date "????.??.??"]
+[Round "9.33"]
+[White "9. Traps"]
+[Black "Exercise #28"]
+[Result "*"]
+[FEN "1R6/4rppk/2p2q1p/4pP2/8/1B4QP/P3rPP1/6K1 w - - 0 33"]
+
+ { Tukmakov – Karpov, Leningrad 1973 } { _ } 33. Kf1 $1 { I borrowed this from an article by Mark Dvoretsky on ChessCafe in retaliation for the fact that he used a position I had originally discovered in the same article! Well, actually I just really liked the position and wanted to use it, so I was very pleased when I saw he had the other position and I could feel justified about using it. Besides, it was Mark who suggested I should have traps in this book in the first place. White is just lost, so any trick is worth a try. The inattentive player might fall for it! } Rd2 { Unfortunately, Karpov was never famous for his lack of concentration. He sees the trap and avoids it with the only winning move. } ( 33... Rd7 $2 { is refuted by } 34. Bxf7 $1 { and White has a saving check on g6. With the idea } ( 33... Rd2 33. Kxe2 $2 Qd6 $1 ) 
+ { The main point of the trap is } ) 
+ ( 33... Rb2 $2 34. Qg6 $3 { and White draws after } fxg6 { Or } ( 34... Qxg6 35. fxg6 Kxg6 36. Bxf7 { and even though you claim that White is a bit better here, it is minimal. } ) 
+35. Bg8 Kh8 36. Bb3 { with perpetual check. } ) 
+ ( 33... Qd6 $2 34. f6 $3 { +- would be very unfortunate. And } ) 
+ ( 33... Re4 { is met with: } 34. Qg6 $3 Qxg6 35. fxg6 Kxg6 36. Bc2 f5 37. Bxe4 fxe4 38. Rc8 $11 ) 
+
+ *
+
+[Event "Grandmaster Preparation: Calculation"]
+[Site "https://www.chessable.com/variation/1815000/"]
+[Date "????.??.??"]
+[Round "9.34"]
+[White "9. Traps"]
+[Black "Exercise #29"]
+[Result "1-0"]
+[FEN "4r1k1/p1r2pp1/2p1qb2/8/Q2p2P1/P2N1P1p/1PR1P2P/4R1K1 w - - 0 26"]
+
+ { Arkell – Holland, Wycombe 2012 } { _ } 26. { -KEY- } Qa5 $1 { White is strategically busted in the Tarrasch Defence – something that can easily happen. He finds a brilliant trap to turn things around. } Qe3+ $6 { Black sees what looks like a winning sequence, but he is actually being led into a very deep trap. Black could have won the game with } ( 26... Qb3 $1 { with variations such as: } 27. Rd2 Rce7 28. Qh5 { and here } c5 $1 { is strongest. But also attractive is the trap } ( 28... Be5 $5 { when rather than } 29. Kf1 $1 { You could easily imagine yourself playing } ( 28... Qe3+ 28. Kh1 { when Black wins immediately with } Bf4 $3 ) 
+ ) 
+ ) 
+27. Kf1 $1 Bh4 $2 ( 27... Qe7 { would probably still favour Black, but he certainly has reason to regret his previous move. } ) 
+28. Qxc7 Qxd3 { Black is threatening everything – for example ...Qxf3+ with mate next move. But White has a miracle save: } 29. Qd8 $3 Rxd8 30. exd3 Bxe1 31. Kxe1 { The tables have turned and Black has a slightly inferior endgame. } Re8+ 32. Re2 Rxe2+ $2 { This leads to a lost pawn ending. Black still had reasonable saving chances after } ( 32... Rb8 $1 { ⩲ } ) 
+33. Kxe2 f5 34. f4 $1 fxg4 35. Kf2 c5 36. b3 a5 37. a4 { White is in control and won on move 58. } 
+ 1-0

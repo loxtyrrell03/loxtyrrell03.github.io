@@ -1,0 +1,135 @@
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12538831/"]
+[Date "????.??.??"]
+[Round "11.1"]
+[White "2.3 Separated passed pawns"]
+[Black "Separated passed pawns"]
+[Result "*"]
+
+ { Now let's examine some positions with separated passed pawns. } 1. -- 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520522/"]
+[Date "????.??.??"]
+[Round "11.2"]
+[White "2.3 Separated passed pawns"]
+[Black "Example 73 by Levenfish and Smyslov"]
+[Result "*"]
+[FEN "8/8/1R6/1P4k1/1r4P1/6K1/8/8 w - - 0 1"]
+
+ { When possessing separated passed pawns, a key idea is to abandon one of them in order to secure the advance of the other one, as in the present example. } 1. { -KEY- } Kf3 $1 { White heads at once for the opposite flank. } ( 1. Rb8 $2 Rxg4 2. Kf3 Rb4 { would let Black escape to a draw; e.g. } 3. b6 Kf6 4. b7 ( { or } 4. Ke3 Ke6 5. b7 Kd7 ) 
+Kg7 $1 { with a draw. } ) 
+Rf4+ ( { a) Now } 1... Rxg4 $2 { fails to } 2. Rg6 $1 Kxg6 3. Kxg4 ) 
+ ( { b) While } 1... Rb3 { doesn't work either due to } 2. Ke4 Kxg4 3. Kd5 Kf5 4. Kc6 Ke6 5. Rb8 { and White wins with ease. Note that in endings with rook and pawn vs. rook, if the defending king can't reach its preferred location in front of the pawn, then the knight's pawn is particularly powerful, since there is no 'shorter side' available for the defending king (more on this subject in Chapter Three). } ) 
+2. Ke3 Rxg4 3. Kd3 Kf5 4. Kc3 Ke5 5. Rc6 $1 { Cutting the enemy king off from the c-file. } ( { In contrast, } 5. Rb8 $2 { lets Black approach the king by } Kd6 $1 { as observed by fairnoelia. Here } 6. Rc8 { comes too late in view of } Kd7 7. Rc6 Rg8 $1 { (7...Rh4 in waiting fashion also works) } 8. Kb4 Rc8 { - on the topic of building a bridge - } 9. Rxc8 Kxc8 10. Ka5 Kb7 { etc. } ) 
+Kd5 6. Rc8 ( { White wins quickly; e.g. } 6. Rc8 Rg6 7. Kb4 { followed by Ka5, b5-b6 etc. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520523/"]
+[Date "????.??.??"]
+[Round "11.3"]
+[White "2.3 Separated passed pawns"]
+[Black "Example 74- Sunye Neto- J. vs. Velimirovic- D.- Rio de Janeiro Interzonal 1979"]
+[Result "1-0"]
+[FEN "8/5k2/7P/P3P1K1/8/3b4/8/8 w - - 0 1"]
+
+ { The further apart, the more powerful are separated passed pawns. Here White doesn't just possess two rook's pawns, he has also managed to advance them quite far, yet the win is not trivial. } 1. { -KEY- } Kf4 $1 { Zugzwang. } ( { a) More straightforward moves won't work; e.g. } 1. a6 $2 Bxa6 2. e6 Kg8 $1 3. e7 Bb5 ) 
+ ( { b) Or } 1. e6 $2 Kxe6 2. a6 Kf7 $1 3. a7 Be4 4. h7 Kg7 { and Black has again managed to assign the defensive tasks in a correct way. } ) 
+ ( { c) } 1. Kh5 $6 { doesn't make much sense after } Bc4 { , when White would have to revert to the main line by } 2. Kg5 { , getting ready to meet } Bd3 { with } 3. Kf4 $1 ) 
+Bc4 ( { a) Nothing helps; e.g. } 1... Ke6 2. a6 ) 
+ ( { b) Or } 1... Kg6 2. e6 Kxh6 3. e7 Bb5 4. a6 Kg7 5. a7 ) 
+2. Ke4 $1 ( 2. h7 $2 Kg7 { After 2.Ke4 Black's bishop proves overloaded, so he resigned. Let's make a few more moves: } ) 
+Ba6 3. e6+ Kg6 4. e7 Bb5 5. a6 { White wins. } 
+ 1-0
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520524/"]
+[Date "????.??.??"]
+[Round "11.4"]
+[White "2.3 Separated passed pawns"]
+[Black "Example 75- Hellsten- J. vs. Stojanovic- D.- Belgrade 2002"]
+[Result "1/2-1/2"]
+[FEN "4k3/1Pbn4/5P2/5K2/8/3R4/8/8 w - - 0 1"]
+
+ ( { The previous example reminds me of a tragicomical endgame of my own.Of course White is easily winning, and it probably won't take you many seconds to find } 1. f7 { However, in time trouble I decided to carry out the combination 'the other way around'. } ) 
+1. { -KEY- } Rxd7 $4 Kxd7 2. Kg6 ( { At this point I was just waiting for } 2. Kg6 Ke8 3. Kg7 Be5 4. b8=Q { but Black wisely assigned his defensive tasks in a different way. } ) 
+Bd6 $1 ( { Draw agreed in view of } 3... Kc7 { next. } ) 
+
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520525/"]
+[Date "????.??.??"]
+[Round "11.5"]
+[White "2.3 Separated passed pawns"]
+[Black "Example 76"]
+[Result "*"]
+[FEN "8/3k4/8/2P5/5P2/8/8/K7 w - - 0 1"]
+
+ { Separated passed pawns are also frequent in pawn endings, and there is even a rule saying that when they form a square together with their queening squares, they prove decisive. } 1. { -KEY- } f5 { Creating a square on c5-c8-f8-f5. } ( { a) White wins immediately; e.g. } 1. f5 Ke7 ( { or } 1. f5 Kc6 2. f6 ) 
+2. c6 Kd6 3. f6 ) 
+ ( { b) On the other hand, } 1. Kb2 $2 { would be a gross error due to } Kc6 { and Black draws. } ) 
+
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520526/"]
+[Date "????.??.??"]
+[Round "11.6"]
+[White "2.3 Separated passed pawns"]
+[Black "Example 77"]
+[Result "*"]
+[FEN "6k1/8/5P1P/8/ppp5/8/1K6/8 w - - 0 1"]
+
+ { You have probably seen the present, curious example before. The white passed pawns form a square, but they can't move while the black king remains on g8; thus White should use his king in a way that makes Black run out of pawn moves. } 1. { -KEY- } Kb1 $1 a3 ( { Similar play arises after } 1... b3 2. Kb2 ) 
+ ( { or } 1... c3 2. Kc2 ) 
+2. Ka2 c3 3. Kb3 { We have reached a case of mutual zugzwang - the one who moves, loses. } a2 4. Kxa2 c2 5. Kb2 b3 6. Kc1 { White wins. Incidentally, note that separated passed pawns often increase their value when pawn endings are reached, due to the king's limited defensive power. } 
+ *
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520527/"]
+[Date "????.??.??"]
+[Round "11.7"]
+[White "2.3 Separated passed pawns"]
+[Black "Example 78- Short- N. vs. Hillarp Persson- T.- Malmö 2009"]
+[Result "1/2-1/2"]
+[FEN "8/4k1p1/3p4/3P4/pP2r3/P2R4/1P3K2/8 b - - 0 1"]
+
+ { In exchange for the pawn deficit Black has the more active rook, though he should evidently be on his guard against a possible rook exchange. Hillarp found a clever idea. } 1... { -KEY- } g5 $1 { This passed pawn will soon prove useful. } ( { In contrast, approaching the king with } 1... Kf6 $6 { permits } 2. b5 { and the b-pawn becomes very dangerous. } ) 
+2. Re3 ( { A tempting choice; but with hindsight White should probably try } 2. Kf3 { or } 2. b3 { instead. } ) 
+Re5 $1 ( { Of course not } 2... Rxe3 $2 3. Kxe3 { when the protected passed pawn on b4 decides the game. } ) 
+3. Rxe5+ ( { After } 3. Kf3 Kd7 { Black should also be able to draw. } ) 
+dxe5 { Black's idea becomes clear: his separated passed pawns will keep the enemy king busy. } 4. b5 Kd6 5. b6 Kd7 $1 ( { The only move; since both } 5... e4 $2 6. Ke3 ) 
+ ( { and } 5... g4 $2 6. Kg3 { would lose on the spot. } ) 
+6. Kf3 Kd6 7. Kf2 Kd7 8. Kf3 Kd6 9. Ke3 ( { Or } 9. Kg3 e4 $1 { with similar play. } ) 
+g4 $1 ( { Now the separated passed pawns mutually protect themselves, just like their white counterparts, by the way. A different move order with } 9... Kd7 10. Ke4 g4 $1 { also works. } ) 
+10. Ke4 Kd7 11. Ke3 Kd6 12. Ke4 Kd7 13. Ke3 
+ 1/2-1/2
+
+[Event "Mastering Endgame Strategy"]
+[Site "https://www.chessable.com/variation/12520528/"]
+[Date "????.??.??"]
+[Round "11.8"]
+[White "2.3 Separated passed pawns"]
+[Black "Example 79- Velikhanli- F. vs. Nadir- S.- Abu Dhabi 2003"]
+[Result "1-0"]
+[FEN "3R4/p3p3/2p1k3/2P1p3/4r3/1P5P/P4K2/8 b - - 0 1"]
+
+ { Here is a final example, which shows once more that in pawn endings the separated passed pawns can often prove stronger than their connected counterparts. } 1... { -KEY- } Rd4 $2 ( { A tempting, but fatal choice. By means of the threat } 2... Rd2 { Black manages to 'fix' his pawn structure, but he has overlooked his opponent's active possibilities in the pawn ending that now arises. } ) 
+ ( { Something like } 1... Rf4 2. Kg3 ( { or } 1... Rd4 1. Ke3 Rh4 ) 
+Rf7 $1 { followed by ...e5-e4, ...Ke5 etc, was preferable. } ) 
+2. Rxd4 exd4 3. b4 $1 ( { The key move, by which White prepares the creation of a second passed pawn by b4-b5. An alternative move order with } 3. h4 Kf5 4. b4 { also works. } ) 
+ ( { However, } 3. a4 $2 { should be avoided in view of } a5 $1 { with a 'one pawn stops two' situation. } ) 
+a6 ( { Or } 3... Kf5 4. h4 { with similar play. } ) 
+4. h4 ( 4. a4 { first is also OK. } ) 
+Kf5 5. a4 $1 ( 5. h5 { first also works. } ) 
+Ke4 ( { Equally useless is } 5... e5 6. h5 Kg5 7. b5 { etc. } ) 
+6. h5 ( 6. Ke2 $5 { is an even simpler way, when again White's separated passed pawns are too much to handle for Black's king, as observed by HorseyChess. } ) 
+Kf5 ( { After } 6... Kd3 7. h6 Kc2 8. h7 d3 9. h8=Q $11 d2 10. Qh7 Kc1 { White can win both by } 11. Qh6 { approaching with the queen in staircase fashion, } ( { and } 10... Kf5 10. Qxe7 d1=Q $11 12. Qe1 $1 { followed by b4-b5 after exchanging queens - Hecht. } ) 
+ ) 
+7. h6 ( { An inverted move order with } 7. b5 { also works, for example, } cxb5 8. axb5 axb5 9. c6 Ke6 10. h6 { and only White queens. } ) 
+Kg6 8. b5 
+ 1-0

@@ -1,0 +1,93 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39735329/"]
+[Date "????.??.??"]
+[Round "23.1"]
+[White "4.3) Protecting The Centre"]
+[Black "Anticipating Pawn Breaks"]
+[Result "*"]
+[FEN "r2q1rk1/1p1np1bp/p1p1p1p1/3pP3/P2P4/2N1BP2/1PPQ2PP/R3K2R w KQ - 0 1"]
+
+ { In our final section of the chapter, we'll cover some of the most common methods or techniques for protecting the centre. These are: 1. Anticipating pawn breaks 2. Changing the structure 3. Tactics & calculation 4. Color complex strategy 5. Transforming the advantage Let's now turn to the first of these. Here, White has the better central control with the d4/e5 chain. However, Black is threatening to undermine this chain by playing the ...c5 pawn break, so White must be alert. } 1. { -KEY- } Ne2 $1 { This move would have been the most positional approach, preparing to meet Black's potential pawn break on c5. } ( 1. Bh6 $2 { In the game White played this move, giving up all of his advantage. } Bxh6 $1 2. Qxh6 { The queen by herself does not pose a serious threat to the Black king, while now White's pawn on d4 has lost its support. } c5 $1 3. Qd2 $2 { Immediately going wrong. } ( 3. Ne2 { was best, though after } Qb6 $13 { Black has a lot of pressure. } ) 
+cxd4 4. Qxd4 Rc8 5. O-O Rc4 6. Qd2 Qb6 $19 { White's position is falling apart, with the b2 pawn about to be captured. } ) 
+ ( 1. O-O $5 { would also have been a good way of continuing. } c5 2. Ne2 $1 { White may not yet have played c2-c3, but they can do so on the next move since Black is not yet ready to capture on d4. } cxd4 $6 { The problem with this move is that now the e6 pawn is too weak: } 3. Nxd4 Kf7 { Black has to awkwardly defend the pawn. } 4. f4 $1 { White uses the f-pawn as a way of keeping the central structure solid, keeping a big advantage. This approach could be characterised as a hybrid approach, interweaving dynamic ideas with positional play. } ) 
+c5 2. c3 $1 cxd4 3. cxd4 { The structure is solid, and White now has a game-winning edge due to the enforced passivity of both of Black's minor pieces. The only things they must do is to complete their development and make sure that Black is unable to stir up significant counterplay on the queenside. Let's see how play might unfold. } Qb6 4. Kf2 { The king is best placed on f2, as White will want to play h2-h4-h5 soon to soften up Black's kingside. } Rfc8 5. h4 Rc4 { For now Black appears to be making progress on the queenside, but White has identified a good piece configuration that will keep things under control. } 6. h5 Rac8 7. Qd3 $1 { This is White's idea. The attack against g6 robs Black of the time to take on b2. } gxh5 8. Rxh5 Nf8 9. b3 $1 { White's queenside setup is very harmonious, robbing Black of any chance to make further progress. } Rc2 10. Rc1 $1 { Challenging the only active piece. } Rxc1 11. Bxc1 $18 { Black controlling the open c-file is not meaningful, as White has all the possible entry points covered. Over the coming moves, White will continue to build up the pressure on the kingside The key behind White's success was to anticipate the pawn break available to Black and prepare to meet it with c2-c3. While in this example it was possible to maintain the ideal pawn chain, this will not always be the case. Sometimes the best course of action will be to give up part of your central chain, as in our next example. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39735330/"]
+[Date "????.??.??"]
+[Round "23.2"]
+[White "4.3) Protecting The Centre"]
+[Black "Changing The Structure"]
+[Result "*"]
+[FEN "rnbq1rk1/pp2ppbp/1n1p2p1/2p1P3/3P1P2/2PB1N2/PP4PP/RNBQ1RK1 w - - 0 1"]
+
+ { In some situations, you may have to make a change to the structure in order to be able to maintain central control. } 1. { -KEY- } dxc5 $1 { The only path to an advantage! By changing the structure White prevents the d4 pawn from becoming a source of counterplay for the opponent. } ( 1. Qe2 $6 { White cannot hope to keep the structure as is, since Black's pieces are well-placed to pressure the d4 point. } cxd4 $1 2. cxd4 Nc6 { Suddenly the d4 pawn is feeling a little shaky. } 3. Nc3 ( { If } 3. Be3 { then after } Nd5 { the bishop would come under fire, so White develops the knight instead. } ) 
+Bg4 $1 { Threatening to capture on d4 next. } 4. Be3 dxe5 $1 { By exchanging a second pair of pawns, the black queen is ready to influence the game along the d-file. } 5. dxe5 Bxf3 { Stripping White of the last defender of the d4 square. } 6. Rxf3 Nd4 $1 7. Bxd4 { White is forced to part ways with the bishop pair. } Qxd4 8. Kh1 Rfd8 $11 { Black has no problems here in spite of White's f4/e5 pawn chain, since they have reduced the material on the board and activated their pieces. You might notice that this way of playing is similar to the examples seen in the 'Overextension' section of the chapter on Space. } ) 
+dxc5 2. Qe2 Qc7 3. Nbd2 Bg4 { Black's bishop does not have many squares to choose from, so they decide to give it up in the hope that an exchange of minor pieces will ease the space constraints. } ( 3... f6 $2 { This pawn break is not a good idea for Black here, since after } 4. exf6 exf6 { If ...Bxf6 instead the Black structure is left fractured and permanently weak. } 5. f5 $18 { White cuts off ...f5 ideas for Black while also launching a nasty attack on the kingside. } ) 
+4. h3 Bxf3 5. Qxf3 { White now adds the bishop pair to their list of positional assets. } Nc6 6. Ne4 { Targeting the c5 pawn. } Nd7 7. Be3 Rad8 8. Rad1 { White's pieces are well-placed, while Black is struggling to find any targets. } ( { White should avoid falling into the trap after } 8. Nxc5 $2 Nxc5 9. Bxc5 Nxe5 $19 { when suddenly Black is the side that is winning. } ) 
+b6 $2 { Now Black's knight on d7 is starved of forward jumps, restricting Black's activity. } 9. h4 $18 { With everything under control in the centre, White is now ready to shift focus to the kingside. Black's complete lack of counterplay translates into an objectively lost position. The key idea behind White's strategy was changing the structure with 1.dxc5, after which there were no convincing pawn breaks or ways of generating piece activity for Black. Once the situation in the centre had been consolidated, White then turned to an attack on the kingside. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39735331/"]
+[Date "????.??.??"]
+[Round "23.3"]
+[White "4.3) Protecting The Centre"]
+[Black "Tactics & Calculation 1"]
+[Result "*"]
+[FEN "r1b2rk1/ppp2ppp/2nqp3/3n4/3P2P1/2N2N2/PPPQ1P1P/2KR1B1R w - - 0 1"]
+
+ { Positional understanding by itself is usually not sufficient, you must also be ready to take advantage of tactical opportunities as well as commit to calculating lines that at times can be quite challenging to work out. This is the topic we'll explore in this example and the next. This position was reached in an online game between Magnus Carlsen and GM Minh Le. White has the superior central control with the pawn on d4, but the weak square on f4 is a source of counterplay for Black. Can you find the strong 2-move sequence that Magnus found to not only maintain, but even increase his central advantage? } 1. { -KEY- } Nb5 $1 { A very clever idea, indirectly addressing the weakness of the f4 square. } ( 1. Ne4 $2 { This move seems more natural, but in fact after } Qf4 $11 { Black has no problems due to the exchange of queens and the weakness of the f4 square. } ) 
+Qd8 ( { The point is that if } 1... Qf4 $6 { then after } 2. Qxf4 Nxf4 3. Nxc7 $16 { White wins a pawn. } ) 
+2. c4 $1 { Correct! White now turns his attention to kicking the knight away. } Nf6 3. Rg1 $16 { White already has a near-winning position, as now the advanced g-pawn is an asset in the context of a looming kingside attack while the weak square on f4 is inaccessible to the Black pieces. In your games, tactical resources like the above may help to bail you out in situations where your central advantage is delicate or under threat in any way. Let's take a look at one more example of this. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39735332/"]
+[Date "????.??.??"]
+[Round "23.4"]
+[White "4.3) Protecting The Centre"]
+[Black "Tactics & Calculation 2"]
+[Result "*"]
+[FEN "rnb1kb1r/pp3ppp/1n6/2pPP3/3q4/2N3P1/PP5P/R1BQKBNR w KQkq - 0 1"]
+
+ { Black's opening play has gone horribly wrong and White's powerful central pawns leave them with an objectively winning advantage. However, White will have to demonstrate precise calculation if they want to maximise their advantage. Can you find the best move? } 1. { -KEY- } Bb5+ $1 { Correct! This move is best, with a forcing line in mind. } ( 1. Qxd4 $2 { The exchange of queens would throw away the advantage. } cxd4 2. Nb5 Nxd5 3. Nxd4 Bc5 $17 { Black is left with the healthier structure and better development. } ) 
+Bd7 { Black is in trouble, but the piece pressure offers practical chances for the opponent to go wrong. } 2. Qe2 $1 { White keeps the queens on the board. This is ideal given that White's central pawns offer fantastic attacking opportunities. However, this move requires White to have calculated the consequences of Black's next capture. } ( 2. Bf4 { would also be a path to an advantage, but the text move is strongest. } ) 
+Nxd5 { Objectively this move is a mistake, but it is the most testing move in practice as White has only one path to an advantage. } ( 2... Be7 $2 { A quiet move does not trouble White. e.g. } 3. Nf3 Qg4 4. Bf4 O-O 5. Bd3 $18 { White's central advantage is safe. } ) 
+3. e6 $1 { The key idea! Black's king is in trouble. } fxe6 ( 3... Bxb5 { This move will also not save Black. } 4. Qxb5 Kd8 5. Qxb7 { There are many winning continuations, but the most direct works well. } Nxc3 6. Bg5 f6 7. bxc3 Qxc3 8. Kf2 Qxa1 9. Ne2 $1 { The last precise move that was needed. Now Black has to give up their queen since a move like ...Qe5 leaves Black in trouble after Rd1+. } Qxh1 10. Qxh1 fxg5 11. Qxa8 $18 { White's queen is far stronger than Black's rook and bishop. We can see from this analysis that sometimes the variations that will test your calculation skill are those that never actually appear on the board! } ) 
+4. Qxe6+ Kd8 ( 4... Be7 { loses a piece after } 5. Bxd7 Nxd7 6. Nxd5 $18 ) 
+5. Bg5+ $1 { Again, White must find this move in order to keep a winning advantage. } Be7 6. Qxd5 Qxd5 7. Bxe7+ $1 { This is the point. Now Black's king will be exposed on e7. } Kxe7 8. Nxd5+ { By capturing the queen with check, Black is not in time to recover their material by playing ...Bxb5. The crazy thing about this entire line is that White needed to have seen up to this point six moves earlier when playing 2.Qe2, highlighting the key role that calculation plays in defending a positional advantage. Next up, we'll revisit the topic of color complexes in the context of protecting the centre. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39735333/"]
+[Date "????.??.??"]
+[Round "23.5"]
+[White "4.3) Protecting The Centre"]
+[Black "Color Complex Strategy"]
+[Result "*"]
+[FEN "r2q1rk1/1p4pb/p3pb1p/2PpNn2/PP6/3B4/3B1PPP/2RQ1RK1 w - - 0 1"]
+
+ { In some instances, you will find yourself with a more complex power struggle in the centre. In the following position, White stands better because of the occupation of the weak square on e5. However, things could quickly sour if they allow Black to mobilise their central pawns. } 1. { -KEY- } Re1 $1 { Defending the knight and stopping Black from mobilising their pawns. } ( 1. Nf3 $2 { In the game White responded to the attack on their knight by retreating, but this move is a major mistake. } e5 $1 { Mobilising the centre, and threatening ...e4 next. Black is already practically winning. } ) 
+Qc7 2. Bf4 $1 { White sets up a bind along the dark squares. } g5 { Targeting the defender of the knight. } 3. Bxf5 $1 { A powerful in-between move. By removing the knight, Black no longer controls the g3 square. } Bxf5 4. Bg3 $18 { White has firm control over the dark squares, and soon they will be ready to exploit their 3 vs 2 pawn majority on the queenside. In essence, White pursued a color complex strategy in order to keep Black's pawns from advancing. I find this example particularly instructive in that it shows the two sides of the battle for central dominance. Black had the superior pawn presence, while White had the superior piece control. In the end, White was able to keep the pawns at bay and so was able to keep the advantage. Our final example involves willingly giving up central pawn control and is an important option to keep in mind in order to maintain flexible thinking at all times. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39735334/"]
+[Date "????.??.??"]
+[Round "23.6"]
+[White "4.3) Protecting The Centre"]
+[Black "Transforming The Advantage"]
+[Result "*"]
+[FEN "r4rk1/bpp2pp1/p3bn1p/4p3/3PP2N/5QNP/PPq2PP1/R1B1K2R w KQ - 0 1"]
+
+ { In this example White has the greater central pawn presence, but on the other hand Black has a lot of piece pressure against it. Can you find the only winning move for White? } 1. { -KEY- } O-O $1 { White remains tactically alert, and offers up the centre. Having avoided the tactical pitfalls, White is now in fact winning since they have a concrete idea in store after Black captures on d4. } ( 1. d5 $2 { In the game White chose to advance, but this walks into a well-disguised tactical blow: } Nxe4 $1 { A beautiful move, converting Black's piece activity into material gains and destroying the centre in the process. } 2. Nxe4 ( 2. Qxe4 Qxf2 3. Kd1 Rad8 $19 { White is lost as their king is trapped in the centre of the board and, to make matters worse, the knight on g3 is hanging. } ) 
+ ( 2. dxe6 Bxf2 $19 ) 
+Bxd5 $19 { There is no way to defend the knight on e4, so Black will recover the piece on their next move and emerge with a winning position. } ) 
+ ( 1. dxe5 $2 { is also a mistake, and is once again met by a powerful piece sacrifice: } Bc4 $1 { Cutting off the exit route for White's king. } 2. exf6 Rad8 ( { Threatening } 3. O-O Rd1 { when after } 4. Qxd1 Qxf2 { is mate. } ) 
+3. Bf4 Bb6 $1 { Threatening ...Ba5+. } 4. b4 { Stopping the threat, but leaving a weak square on c3 that Black immediately exploits. } Bxf2 $1 { The finishing blow. } 5. Qxf2 Qc3 6. Bd2 { The only alternative to avoid getting mated is to play Qd2 instead, but there White loses a tremendous amount of material. } Qxa1 7. Bc1 Qxc1 ) 
+Bxd4 ( { If } 1... Kh7 { then White could continue with d4-d5 and keep their centre. However, it turns out that they would have an even stronger move. } 2. Bxh6 $1 Kxh6 3. dxe5 $18 { White recovers their piece with a winning position, since if the Black knight moves then Qh5# would follow. } ) 
+ ( 1... Bc4 { It's worth nothing that an idea like this move doesn't quite work, not only because White could play dxe5 here, but also because White has great influence on the f5 square, which belongs to what we could call the 'expanded centre'. So for example, White might continue: } 2. Nhf5 { when the best line for Black runs as follows: } Bxf1 3. Nxg7 $1 Bxd4 4. Qxf6 Qxf2 5. Qxf2 Bxf2 6. Kxf2 Kxg7 7. Nf5 Kg6 8. Kxf1 $18 { The two minor pieces are much stronger than Black's extra rook, so White is winning. } ) 
+2. Bxh6 $1 { Correct! White relies on this tactical possibility to ensure a winning advantage in spite of losing their edge in the centre. } Bxb2 3. Rae1 $1 { The entire queenside is abandoned, but the kingside attack is already unstoppable. } Kh8 4. Nh5 $1 Nxh5 5. Qxh5 gxh6 6. Qxh6+ Kg8 7. Re3 { Black will soon be checkmated. In this example we once again saw the power of tactical alertness, both defensively and offensively. And, while the focus of this section has been on protecting your centre, it's important to consider that on occasion the best course of action will be to focus on more dynamic paths to an advantage instead of fixating on maintaining your pawn formation. This brings the section, and indeed the chapter, to a close. I hope you've enjoyed it and that it's helped you to build upon the work done in previous chapters. Next, you can review the chapter summary, or jump straight into the puzzle set if you'd like. } 
+ *

@@ -1,0 +1,556 @@
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1225866/"]
+[Date "????.??.??"]
+[Round "15.1"]
+[White "14) KID Type I"]
+[Black "Introduction"]
+[Result "*"]
+[FEN "4k3/pp3ppp/3p4/3Pp3/4P3/8/PP3PPP/4K3 w - - 0 1"]
+
+ { This structure most commonly appears in the King's Indian, the Queen's Indian and the Ruy Lopez. In my own games, I often encountered this structure with Black, and I lost many games without really understanding why. For this reason, when writing this book I considered this structure to be one of my main interests and I decided it deserves a separate chapter from other King's Indian positions, as the character of the game is somewhat different. The difference between this structure and those in the following two chapters is the open c-file. This file plays a major role and Black's ability to stay in the game will depend on whether he knows what to do with it. The questions are: A) Should Black proceed with a kingside attack regardless of the open c-file? B) Should he fight for the control of this file? The problem with Strategy A is that White's forces may penetrate down the c-file, distracting Black from a kingside attack. For example, if White were to place a rook on the seventh rank, it would be difficult for Black's kingside play to continue making progress. The problem with Strategy B is that White's spatial advantage often guarantees control of the c-file in the long run. White has more space thanks to his central chain e4-d5. If the position is not too simplified then this space translates into being able to manoeuvre more easily. In such cases, although Black may control the c-file at an early stage, it will be White who will ultimately profit from it, or from queenside play in general. This is not to say Black's queenside attempts are always doomed, but the reader should understand that Black's spatial disadvantage and White's lack of weaknesses will make it difficult for Black to gain an advantage from queenside play alone. Despite these difficulties, I believe approaches A and B are both valid given the right circumstances. Ideally, they could even be combined, though this is hard to accomplish in practice. Now, let's discuss specific plans for each side. White's plans 1. If Black controls the c-file, the main task is to cover Black's entry points (especially c2), and then manoeuvre to fight for the control of this file. 2. If White possesses the c-file, then prepare a seventh-rank invasion which is likely to capture the b7-pawn. 3. Expand on the queenside with a2-a4-a5 to gain space, limit Black's mobility and create potentially strong passed pawns once Black's queenside pawns are captured. 4. If Black plays ...b7-b5, then break with a2-a4, and even the manoeuvre Nb4-c6 deserves consideration. Black's plans 1. If entry points are available, or if White's c-file is vulnerable, then double rooks on the c-file, and possibly invade the seventh rank by placing a rook on c2. This is ideal, but hard to achieve. 2. Create kingside counterplay with ...f7-f5xe4 to open the f-file. This can be followed by ...Bg7-f6-g5 to create kingside threats, and possibly ...h7-h5-h4-h3. 3. If White's play is particularly slow, then ...f7-f5, followed by ...f5-f4 and ...g6-g5-g4 might work. 4. Transfer the dark-squared bishop from g7 to b6 via f6-d8. The reader should pay close attention to Black's Plans 2 and 3. As stated above, White can easily create diversions on the c-file, preventing Black from focusing on the kingside. This means Black's kingside play should give priority to speed. For this reason, the typical plan ...f7-f5-f4 followed by ...g6-g5-g4 could be too slow, and Black's Plan 2 is more likely to yield results. Black's Plan 3 would only work well if White's queenside play was really slow. Examples 1 and 2 of this chapter will illustrate how White gains control of the queenside (and the c-file) despite Black's seemingly being in control at an earlier stage. Then, Example 3 illustrates White's excellent winning chances in the endgame. The reader should notice the similarity between this endgame and those endgames studied in Chapter 11. After Example 3 a fragment of a game illustrates Black's dream position in this structure, and later we see two more realistic examples of Black's play. The first of these showcases Black's kingside counterplay with ...f7-f5 while the second illustrates Black's queenside opportunities once some pieces come off the board. We also see Black's Plan 4 put in practice to yield excellent results. } 1. -- 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551552/"]
+[Date "????.??.??"]
+[Round "15.2"]
+[White "14) KID Type I"]
+[Black "Magnus Carlsen vs. Luke McShane"]
+[Result "1-0"]
+
+ { Magnus Carlsen – Luke McShane, London Classic 2009 Learning objective: This game is an example of Black’s inability to create counterplay despite initially having control of the c-file. The first twenty moves of this game are irrelevant to this chapter, hence I leave them without comment. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8. Re1 Qe8 9. Bf1 c6 10. Rb1 Bg4 11. d5 c5 12. Be2 Kh8 13. a3 Bd7 14. b4 b6 15. Bg5 Ng8 16. Nb5 f6 17. Bh4 Qe7 18. Nd2 Nh6 19. Nf1 Rfc8 20. Ne3 Nc7 21. bxc5 Nxb5 ( { An interesting alternative was } 21... bxc5 $5 { ⩲ and this structure is studied in the next chapter. } ) 
+22. cxb5 Rxc5 { We have reached the position of interest. The reader should examine this position very carefully and try to make an assessment of it. After analyzing this game, I would advise the reader to contrast his initial opinion and his final opinion. I imagine it might be quite different. In his analysis of this game, McShane wonders if going into this position } ( { with 21...Nxb5 } ) 
+ { was the right decision. His original evaluation indicated that he would have sufficient counterplay with his rooks on the c-file, but as he points out, there are no entry points. This is a phenomenon which I have observed far too many times in my own experience, and in those games I have analyzed. Black’s position is reasonably good in appearance, but the truth is that it is very difficult to find counterplay, and although it is Black who is temporarily in control of the only open file, only White can really benefit from queenside play, as we will see in this game. } 23. f3 $1 { ⩲ A simple move that should be remembered. It provides extra support to the chain e4-d5, and it allows the bishop to come back to f2 in order to press against Black’s queenside. } ( { As McShane points out, } 23. a4 $2 { is a serious imprecision, since after } g5 24. Bg3 f5 { White is forced to destroy his ”glorious” e4-d5 chain with } 25. exf5 ( { but not } 25. f3 $2 f4 ) 
+Nxf5 { . Now the d5-pawn has been weakened, while the bishop on g3 is temporarily useless. A possible continuation is } 26. Rc1 Rxc1 27. Qxc1 Rc8 28. Qd2 Rc5 { with level chances. } ) 
+Rac8 24. Bd3 { Something to note is how White can improve slowly, while Black can’t. The move 24.Bd3 clears e2 for the queen, prepares against ...f6-f5, and gives extra protection to the c2-square. Meanwhile, Black controls the c-file, but cannot do much with it. } ( { Less accurate is } 24. Bf2 { since Black immediately gains counterplay with } f5 $1 { . A possible continuation is } 25. Bd3 fxe4 26. fxe4 Bf6 27. a4 Bg5 { and Black is closer to equality than in the game. } ) 
+Qf8 { There is nothing better than spending a tempo to prepare ...f6-f5. White was planning to follow with a3-a4, Qe2, Nc4 and only then bring his bishop back to f2. Black cannot afford to wait with his queen on e7, as ...f6-f5 is his only constructive plan. } ( { Attempting to ”use” the c-file with } 24... Rc3 { does not really go anywhere after } 25. a4 { when White can continue with his plans, ignoring the rook on c3 } ( { but not } 24... Qf8 24. Rb3 $6 { since trading pieces alleviates Black’s space problems } ) 
+ { and Black cannot insist with } Ra3 $2 { since the rook gets trapped after: } 26. Nc4 Rc3 ( { or } 26... Ra2 27. Qb3 $18 ) 
+27. Rb4 $18 { Followed by Qd2 . } ) 
+25. Bf2 { There is nothing else to do on h4, so the bishop comes to f2, aiming at the queenside. } f5 26. a4 { Getting ready to create a weakness in Black’s camp with a4-a5. } R5c7 ( { Black is not ready to close the position with } 26... f4 $2 { as White continues with the typical manoeuvre } 27. Nc2 R5c7 28. Nb4 { followed by Nc6 with a near-winning position. For example: } g5 29. h3 { (preventing ...g5-g4) } Ng8 30. Nc6 h5 31. a5 g4 32. axb6 axb6 33. Bxb6 Rb7 34. Ba7 $1 { Followed by b5-b6 and Ba6 winning, while Black’s kingside attack is not getting anywhere; and if } Bxc6 $6 35. dxc6 Rxa7 36. b6 { and the passed pawns decide the game. } ) 
+27. h3 { This prophylactic move protects the g4-square, and prepares against a future ...f5-f4 followed by ...g6-g5-g4. } ( { If } 27. Nc2 { , to follow with Nb4-c6, then McShane was ready establish contact on the kingside with } g5 28. Nb4 g4 { with counterplay. } ) 
+Bf6 28. Qd2 { Preparing a4-a5 to create a weakness on the queenside. } ( { If } 28. Nc2 { McShane intended to gain counterplay with } fxe4 29. fxe4 g5 { followed by ...g5-g4 with reasonable fighting chances. For example: } 30. g4 ( { or } 30. Qd2 g4 31. Be3 Ng8 32. hxg4 Bxg4 { with counterplay; } ) 
+ ( { but not } 30. Qe2 $6 g4 31. h4 g3 $1 32. Bxg3 Qg7 33. Bf2 Rg8 { with excellent compensation for the pawn } ) 
+Ng8 31. Nb4 Ne7 32. Nc6 Ng6 33. a5 Nf4 34. Bf1 h5 { With sharp tactical complications. } ) 
+ ( { PH: An alternative I would consider is } 28. Qe2 { followed by putting the knight on c4 immediately. } ) 
+Bg5 ( { If } 28... f4 $6 29. Nc2 g5 30. Nb4 Nf7 31. a5 $1 { ± and White’s attack arrives faster. PH: After 30.Nb4, Black has an interesting try in } g4 $5 31. hxg4 Bxg4 { , if White takes the piece then Black gets a strong attack with a knight on g4 and queen on h6. However, White can simply run away with } 32. Kf1 { . } ) 
+29. a5 { Black must make a difficult decision between having a weak pawn on b6, or a weak pawn on a7. } fxe4 $6 ( { It was preferable to play } 29... bxa5 30. Qxa5 ( 29... fxe4 29. Ra1 $5 { ⩲ is safer } ) 
+ { when Black’s position requires precision, but is quite playable. For example: } Qf6 31. Nc4 $5 { (threatening Bxa7) } fxe4 ( { but not } 31... Rxc4 $2 32. Bxc4 Rxc4 33. Qxa7 { and the passed b-pawn decides the game } ) 
+32. fxe4 Bf4 $1 { And the position is very far from clear since } 33. Bxa7 $2 { is refuted by } Bxh3 $1 { with a winning attack. } ) 
+30. fxe4 $6 ( { Better was } 30. axb6 $1 { forcing a weakness on b6 , rather than a7; } axb6 31. fxe4 $16 { is similar to the game. } ) 
+Nf7 $6 { Once again allowing White to create a weakness on b6. } ( { The correct way was } 30... bxa5 31. Qxa5 Bf4 $14 { with a playable position for Black. } ) 
+31. axb6 axb6 32. Qe2 Rb7 33. Nc4 $16 { And as I said ten moves ago, only White is going to benefit from queenside play. The weakness on b6 is crippling, and prevents Black from creating further threats on the kingside. The battle is strategically won; now let’s see how Carlsen utilizes his advantage. } Qd8 34. Rf1 Kg7 35. Kh1 { Again, White can slowly improve his position, while Black’s pieces are cramped and have little to do. } ( { As McShane points out, } 35. Bxb6 $2 { gives away most of the advantage after: } Rxb6 36. Qf2 ( { or } 36. Rxf7 Kxf7 37. Qf2 Kg7 38. Nxb6 Bh4 $1 39. g3 ( 39. Qe3 Bg5 40. Qf2 Bh4 $11 ) 
+Bxg3 40. Qxg3 Qxb6 { with a drawn position } ) 
+Rxb5 37. Qxf7 Kh6 $14 ) 
+Be8 36. Qb2 Nh6 { And as usually happens, passive defence leads to mistakes. } ( { A better defence was } 36... Ra8 37. Ra1 $5 Rxa1 38. Rxa1 Bh4 39. Bg1 Qb8 40. Ra6 Bd8 41. Be3 $16 { when Black’s position is extremely difficult to hold. } ) 
+ { Black missed the tactical shot: } 37. Bxb6 $1 Qe7 $1 { The only move to stay in the game. } ( { Weak is: } 37... Qd7 $2 38. Nxe5 $1 dxe5 39. Qxe5 Kg8 40. Bd4 $18 ) 
+ ( { Black loses by force after: } 37... Rxb6 38. Qf2 $1 { (threatening Qf8# as well as Nxb6) } Bxb5 ( 38... Rxb5 $4 39. Qf8 ) 
+39. Nxb6 $1 Bxd3 40. Nxc8 Bxf1 41. Qa7 $1 Kh8 42. Rb8 { With a winning attack, for example: } Ng8 ( 42... Bd3 $2 43. Nxd6 ) 
+43. Rb7 Nf6 44. Nb6 { Followed by Rb8 . } ) 
+38. Qf2 $6 { We are close to the time control on move 40, and Carlsen makes some imprecisions. } ( { The most accurate was } 38. Ba5 $1 Bxb5 ( { or } 38. Qf2 Rxb5 39. Bb4 Rd8 40. Nxd6 $1 { +- } ) 
+39. Nxd6 Qxd6 40. Bxb5 { with a near-winning position. } ) 
+Rcb8 39. Rb3 Ng8 { Aiming for ...Nf6-h5 with some counterplay. } 40. Be2 { Covering the h5-square. } Nf6 { And we have passed the time control. } 41. Bf3 Rxb6 { This is an interesting practical resource, but Carlsen manages to find a beautiful way to refute it. } ( { The alternative McShane suggests is } 41... Nd7 42. Ba7 Ra8 43. b6 Nc5 44. Rbb1 h5 45. Na5 Rbxa7 46. bxa7 Qxa7 47. Nc4 Qc7 { when Black’s defence is hard to break. } ) 
+42. Nxb6 Qc7 43. h4 Bh6 { The knight on f6 is now defenceless. } 44. Na4 $1 { Threatening 45.Nc3, forcing Black to capture. } Rxb5 { But now: } 45. Be2 $1 Rxb3 46. Qxf6+ Kg8 47. Nc5 $1 { This is the key to White’s last four moves: the knight is immune, and Black’s position is near collapse due to the threats Ne6 and Bg4-e6. } Rg3 { Making things easier for White. } ( { If } 47... dxc5 $4 48. d6 Qf7 ( { or } 48... Qd7 49. Bc4 ) 
+49. d7 $1 Qxd7 50. Bc4 { with forced mate. } ) 
+ ( { Or: } 47... Qxc5 $4 48. Qe6 Kg7 49. Qe7 Kg8 50. Qxe8 Kg7 51. Qf8 ) 
+ ( { The best defence was } 47... Rb2 { but after the forcing sequence } 48. Bg4 Bg7 49. Ne6 Qf7 50. Nxg7 Qxf6 51. Rxf6 Kxg7 52. Rxd6 { the endgame should be winning for White. } ) 
+48. Ne6 Qf7 49. Qxf7+ Bxf7 50. Rb1 $1 Be8 ( { Suicidal is } 50... Bxe6 $2 51. dxe6 { when the threat is Rb8 followed by e6-e7-e8=Q: } Bf8 52. Rb8 Kg7 53. Rb7 Kf6 ( { or } 53... Kg8 54. e7 $18 ) 
+54. Rf7 $18 ) 
+51. Bf3 $18 { Black cannot defend without the help of his trapped rook, thus his position is lost. The rest of the game is interesting, but irrelevant to our chapter, so I give it without further comments. The reader may find some interesting annotations (by McShane) to the rest of this game in Chessbase Magazine. } Kf7 52. Rb7+ Kf6 53. Rxh7 Bf4 54. Nxf4 exf4 55. e5+ dxe5 56. d6 e4 57. Bxe4 Re3 58. Bd5 Kf5 59. Kh2 Re5 60. Bf3 Kf6 61. d7 { Final remarks 1. The option 21...bxc5 deserves serious consideration and the reader should study it carefully in the next chapter. 2. Although Black controlled the c-file, he was unable to use it. White was able to gradually gain control of the queenside thanks to his spatial advantage. 3. Since Black had nothing to gain on the queenside, all attention should be directed to kingside play. The break ...f6-f5 was absolutely necessary, and unlike many other King’s Indian positions, advancing ...f5-f4 was not always a good idea. In fact, on moves 26-29 it would have been a poor decision since this would slow down the creation of kingside threats, while White can create a strong queenside attack very quickly. In general, White’s queenside play can distract Black’s forces rather easily once the c-file is open. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655580/"]
+[Date "????.??.??"]
+[Round "15.3"]
+[White "14) KID Type I"]
+[Black "Carlsen - McShane #1"]
+[Result "*"]
+[FEN "r3qrnk/p2b2bp/np1p1pp1/1NpPp3/1PP1P2B/P4N2/4BPPP/1R1QR1K1 b - - 0 17"]
+
+17... Qe7 { The f3 knight's ideal square will be e3 where it prevents f5 in the future and also controls the c2 and c4 squares if the c-file opens (which happened so in the game). But how to make that happen? } 18. Nd2 $1 Nh6 19. Nf1 Rfc8 20. Ne3 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655584/"]
+[Date "????.??.??"]
+[Round "15.4"]
+[White "14) KID Type I"]
+[Black "Carlsen - McShane #2"]
+[Result "*"]
+[FEN "r1r4k/p2bq1bp/1p1p1ppn/1PPPp3/4P2B/P3N3/4BPPP/1R1QR1K1 b - - 0 22"]
+
+22... Rxc5 23. f3 $1 { A simple move that should be remembered. It provides extra support to the chain e4-d5, and it allows the bishop to come back to f2 in order to press against Black’s queenside. } Rac8 24. Bd3 { Something to note is how White can improve slowly, while Black can’t. The move 24. Bd3 clears e2 for the queen, prepares against ...f6-f5, and gives extra protection to the c2-square. Meanwhile, Black controls the c-file, but cannot do much with it. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655581/"]
+[Date "????.??.??"]
+[Round "15.5"]
+[White "14) KID Type I"]
+[Black "Carlsen - McShane #3"]
+[Result "*"]
+[FEN "r6k/p2bq1bp/1p1p1ppn/1PrPp3/4P2B/P3N3/4BPPP/1R1QR1K1 w - - 0 23"]
+
+23. a4 $2 { As McShane points out, this is a serious imprecision. } g5 24. Bg3 f5 25. exf5 ( { White is forced to destroy his ”glorious” e4-d5 chain. But not } 25. f3 $2 f4 ) 
+Nxf5 { Now the d5-pawn has been weakened, while the bishop on g3 is temporarily useless which definitely assures Black equal chances. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655585/"]
+[Date "????.??.??"]
+[Round "15.6"]
+[White "14) KID Type I"]
+[Black "Carlsen - McShane #4"]
+[Result "*"]
+[FEN "2r2q1k/p2b2bp/1p1p2pn/1PrPpp2/P3P3/3BNP2/5BPP/1R1QR1K1 b - - 0 26"]
+
+26... f4 $2 { Black is not ready to close the position with ...f4, as White continues with a typical manoeuvre. } 27. Nc2 R5c7 28. Nb4 { Followed by Nc6 with a near-winning position. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655586/"]
+[Date "????.??.??"]
+[Round "15.7"]
+[White "14) KID Type I"]
+[Black "Carlsen - McShane #5"]
+[Result "*"]
+[FEN "2r2qnk/p1rb2b1/1pNp4/PP1Pp1pp/4Pp2/3B1P1P/5BP1/1R1QR1K1 b - - 0 1"]
+
+1... g4 2. axb6 axb6 3. Bxb6 Rb7 4. Ba7 $1 { Followed by b5-b6 and Ba6 winning, while Black’s kingside attack is not getting anywhere. } Bxc6 $6 5. dxc6 Rxa7 6. b6 { The passed pawns decide the game. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655587/"]
+[Date "????.??.??"]
+[Round "15.8"]
+[White "14) KID Type I"]
+[Black "Carlsen - McShane #6"]
+[Result "*"]
+[FEN "2r2q1k/p2b2bp/1p1p2pn/1PrPpp2/P3P3/3BNP2/5BPP/1R1QR1K1 b - - 0 26"]
+
+26... R5c7 27. h3 $1 { This prophylactic move protects the g4-square, and prepares against a future ...f5-f4 followed by ...g6-g5-g4. } ( { If } 27. Nc2 { , to follow with Nb4-c6, then McShane was ready to establish contact on the kingside with } g5 28. Nb4 g4 { with counterplay. } ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655588/"]
+[Date "????.??.??"]
+[Round "15.9"]
+[White "14) KID Type I"]
+[Black "Carlsen - McShane #7"]
+[Result "*"]
+[FEN "2rqb3/1r3nkp/1p1p2p1/1P1Pp1b1/2N1P3/3B3P/1Q3BP1/1R3R1K b - - 0 36"]
+
+36... Ra8 37. Ra1 $1 Rxa1 38. Rxa1 Bh4 39. Bg1 Qb8 40. Ra6 Bd8 41. Be3 $16 { Black’s position is extremely difficult to hold. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655589/"]
+[Date "????.??.??"]
+[Round "15.10"]
+[White "14) KID Type I"]
+[Black "Carlsen - McShane #8"]
+[Result "*"]
+[FEN "2rqb3/1r4kp/1B1p2pn/1P1Pp1b1/2N1P3/3B3P/1Q4P1/1R3R1K b - - 0 37"]
+
+37... Qd7 $6 38. Nxe5 dxe5 39. Qxe5+ Kg8 40. Bd4 $18 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655591/"]
+[Date "????.??.??"]
+[Round "15.11"]
+[White "14) KID Type I"]
+[Black "Carlsen - McShane #9"]
+[Result "*"]
+[FEN "1r2b3/2q3kp/1N1p1np1/1P1Pp1b1/4P2P/1R3B2/5QP1/5R1K b - - 0 43"]
+
+43... Bh6 { The knight on f6 is now defenceless. } 44. Na4 $1 { Threatening 45. Nc3, forcing Black to capture. } Rxb5 45. Be2 $1 Rxb3 46. Qxf6+ Kg8 47. Nc5 $1 { This is the key to White’s last four moves: the knight is immune, and Black’s position is near collapse due to the threats Ne6 and Bg4-e6. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551553/"]
+[Date "????.??.??"]
+[Round "15.12"]
+[White "14) KID Type I"]
+[Black "Radoslaw Wojtaszek vs. Dariusz Swiercz"]
+[Result "1-0"]
+
+ { Radoslaw Wojtaszek – Dariusz Swiercz, Warsaw 2011 Learning objective: This game reinforces the idea that White is ultimately the one who can gain control of the c-file, despite Black having extra moves. In particular, the reader should notice Black’s lack of targets. } 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Nd2 O-O 6. Nf3 dxc4 7. Qc2 Nc6 8. Qxc4 Bd6 $6 { This opening imprecision allows White to gain a firm control of the centre. } ( { Better was } 8... Qd5 9. O-O Bxd2 10. Qxd5 exd5 11. Bxd2 Re8 12. e3 Bf5 { with reasonable chances for Black. } ) 
+9. O-O Qe7 10. e4 e5 11. d5 Nb8 12. Qc2 Nbd7 13. Nc4 Nb6 { We have reached an interesting position. White has a notable advantage because of his good control of the centre, and the backward c7-pawn, but how shall he take advantage of these factors? } 14. Nxd6 $1 cxd6 { And the resulting position is the beginning of our study. We have reached the structure of this chapter, and this is the moment to assess the position. At first sight it might seem that Black is doing completely fine, as he may soon start to fight for the c-file with ...Bd7 and ...Rac8. Moreover, Black’s dark-squared bishop (the bad bishop) has already been traded so he should have nothing to worry about. Unfortunately for Black, reality is not so simple. The biggest problem is that, as in the previous game, White has a significant space advantage due to the favourable e4-d5 vs e5-d6 chain. Despite Black’s temporary activity, White will be able to reorganize his pieces more efficiently and emerge with a dominating position. } 15. a4 $1 { A good continuation, to proceed with a4-a5 gaining space. } Bg4 ( { If } 15... a5 { preventing a4-a5, the weird-looking } 16. Nh4 $5 { prevents Bg4xf3 thus putting Black in a difficult position as he cannot develop his bishop. } Qd8 ( { but not } 16... Bd7 $2 17. Qb3 $1 { winning a pawn } ) 
+ ( { or } 16... Bg4 $2 17. f3 $1 Bh5 18. Qb3 Nc8 19. Nf5 Qc7 20. Bd2 { followed with Rac1 with domination } ) 
+17. b3 Bd7 18. Ba3 Nc8 19. Rfc1 $16 { Black’s forces are against the wall due to their lack of space. } ) 
+ ( { If } 15... Bd7 { then } 16. b3 Rac8 17. Qd3 $14 { gives White a promising advantage due to his extra space and the weak d6-pawn. } ) 
+16. Nd2 $5 { This is an interesting approach. Wojtaszek begins the knight transfer to c4 immediately, as he knows Black’s pieces do not have targets to attack. } ( { A worthy option was } 16. a5 Nbd7 ( { or } 16. Nd2 Bxf3 17. Bxf3 Nbd7 18. b4 $14 { when White’s bishops are very strong despite the closed nature of the position } ) 
+17. b4 $14 { with a significant space advantage. } ) 
+Be2 { Black is simply ”hitting the air”. } ( { If } 16... Rac8 17. Qd3 { White has a very pleasing advantage. An illustrative continuation is } Qd7 18. b3 Bh3 19. a5 Na8 20. Nc4 Nc7 21. f4 $1 { ± with a strong positional advantage. } ) 
+ ( { Another option was } 16... Rfc8 17. Qd3 Nbd7 18. Qe3 { and Black really has nothing to aim for. } a5 19. b3 Nc5 20. Nc4 Qc7 21. Ba3 b6 22. Rac1 $16 { and Black has no good counterplay against the positional threat of f2-f4. } ) 
+17. Re1 Rac8 { Black really does seem to have some initiative, but this is only a facade. } 18. Qb1 { The queen is awkwardly placed, but this is only temporary. } Bh5 ( { The bishop becomes an easy target after } 18... Ba6 $2 19. b4 $1 { threatening b4-b5. } Bc4 20. Bh3 Rc7 21. Ra3 { Threatening Rc3 followed by a4-a5, and after } Nfd7 22. Rc3 Rfc8 23. a5 Na8 24. Nxc4 Rxc4 25. Rxc4 Rxc4 26. Be3 { White has a winning positional advantage; this is very similar to Polugaevsky – Ivkov from Chapter 11. } ) 
+ ( { Or } 18... Bc4 $2 19. b3 Ba6 20. b4 { transposing into the variation above. } ) 
+19. a5 Nbd7 { Black’s pieces slowly go back to their passive positions. } ( 19... Nc4 20. Nf1 $5 { White keeps as many pieces on the board as possible, while threatening b2-b3 trapping the knight } ( { also possible is } 19... Nbd7 19. Qd3 Nxd2 21. Bxd2 { with excellent chances for White } ) 
+b6 21. axb6 Nxb6 ( { even worse is } 21... axb6 22. b3 Na5 23. Be3 $16 ) 
+22. Qd3 Rc7 23. Ne3 $16 { Black has many weaknesses and there is no semblance of counterplay. } ) 
+20. b4 { Covering the c5-square, and gaining more space. } Bg6 21. Qd3 { The queen is back on the board, and it becomes clear that Black did not accomplish anything during the last five moves. } Nh5 { Attempting to create counterplay with the usual ...f7-f5. } 22. Bh3 { A good decision, preventing Black’s counterplay and taking control of an important diagonal. } ( { Incorrect was } 22. Nf1 { due to } f5 $1 23. f3 $14 { when White preserves an advantage, but at least Black can aim for activity on the f-file. } ) 
+Rc7 23. Nf1 Ndf6 24. f3 $16 { Note how the bishop on h3 prevents Black from doubling his rooks on the c-file. His position is already hopeless. } h6 25. Ne3 Nh7 26. Bd2 Ng5 27. Bg2 Qd7 28. Rac1 Rxc1 ( { Fighting for the c-file with } 28... Rfc8 { can be met by } 29. Rxc7 Rxc7 30. b5 $5 { gaining more space on the queenside, preparing Bb4 or b5-b6 or a5-a6, with a huge advantage. } ) 
+29. Rxc1 Nh3+ ( { Instead } 29... Rc8 $2 { loses on the spot to } 30. Rxc8 Qxc8 31. Nc4 Qc7 32. f4 $1 { when Black is losing a piece after } Nh7 33. f5 ) 
+30. Kf1 Ng5 ( { Again } 30... Rc8 { runs into a nice tactical refutation: } 31. Rxc8 Qxc8 32. Qc4 $1 Qd7 ( { or } 32... Qxc4 33. Nxc4 Ng5 34. Nxd6 $18 ) 
+33. a6 $1 bxa6 34. Qc6 $1 { When the knight on h3 is hanging and } Qxc6 $2 { fails to } 35. dxc6 Ng5 36. c7 ) 
+31. Qc2 $18 { White has gained undisputed control of the c-file, and Black still has no counterplay; the rest is easy. } a6 32. Ke1 Qb5 33. Qc4 Qa4 34. h4 Nxe4 { A desperate hope for counterplay. } ( { Or } 34... Nh7 35. Kf2 { followed by Qc7 taking the queenside pawns and winning. } ) 
+35. fxe4 Nxg3 36. Kf2 Nh5 37. b5 $1 { Offering to trade queens to clarify the position. } Qa3 38. Bb4 Qb2+ 39. Rc2 Qb1 40. Bxd6 { Final remarks 1. White’s decision to modify the structure with 14. Nxd6 was fully justified. Wojtaszek was able to see into the future of the game and realize that the c-file would ultimately belong to White, while Black would not be able to gain any counterplay. 2. A key move for White was 22. Bh3, preventing Black’s counterplay with ...f7-f5. After this move Black falls into a passive and rather desperate position. 3. The reader should see a close similarity between this position and the games Polugaevsky – Ivkov and Smeets – Tiviakov from Chapter 11, in which White inevitably gains control of the c-file due to his spatial advantage. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655521/"]
+[Date "????.??.??"]
+[Round "15.13"]
+[White "14) KID Type I"]
+[Black "Wojtaszek - Swiercz #1"]
+[Result "*"]
+[FEN "2r2rk1/pp2qppp/1n1p1n2/3Pp3/P3P3/6P1/1P1NbPBP/RQB1R1K1 b - - 0 18"]
+
+18... Ba6 $2 { The bishop becomes an easy target. } 19. b4 $1 { Threatening b4-b5. } Bc4 20. Bh3 Rc7 21. Ra3 { Threatening Rc3 followed by a4-a5. } Nfd7 22. Rc3 Rfc8 23. a5 Na8 24. Nxc4 Rxc4 25. Rxc4 Rxc4 26. Be3 { White has a winning positional advantage; this is very similar to Polugaevsky – Ivkov from Chapter 11. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655579/"]
+[Date "????.??.??"]
+[Round "15.14"]
+[White "14) KID Type I"]
+[Black "Wojtaszek - Swiercz #2"]
+[Result "*"]
+[FEN "2r2rk1/pp1nqppp/3p1nb1/P2Pp3/1P2P3/3Q2P1/3N1PBP/R1B1R1K1 b - - 0 21"]
+
+21... Nh5 { Attempting to create counterplay with the usual ...f7-f5. } 22. Bh3 { A good decision, preventing Black’s counterplay and taking control of an important diagonal. } ( { Incorrect was } 22. Nf1 { due to } f5 $1 23. f3 $14 { when White preserves an advantage, but at least Black can aim for activity on the f-file. } ) 
+Rc7 23. Nf1 Ndf6 24. f3 $16 { Note how the bishop on h3 prevents Black from doubling his rooks on the c-file. His position is already hopeless. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655592/"]
+[Date "????.??.??"]
+[Round "15.15"]
+[White "14) KID Type I"]
+[Black "Wojtaszek - Swiercz #3"]
+[Result "*"]
+[FEN "r1b2rk1/1p2qppp/1n1p1n2/p2Pp3/P3P2N/6P1/1PQ2PBP/R1B2RK1 b - - 0 16"]
+
+16... Qd8 17. b3 Bd7 18. Ba3 Nc8 19. Rfc1 $16 { Black’s forces are against the wall due to their lack of space. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2655594/"]
+[Date "????.??.??"]
+[Round "15.16"]
+[White "14) KID Type I"]
+[Black "Wojtaszek - Swiercz #4"]
+[Result "*"]
+[FEN "2r2rk1/pp2qppp/1n1p1n2/P2Pp2b/4P3/6P1/1P1N1PBP/RQB1R1K1 b - - 0 19"]
+
+19... Nc4 20. Nf1 $5 { White keeps as many pieces on the board as possible, while threatening b2-b3 trapping the knight. } b6 21. axb6 Nxb6 ( { Even worse is } 21... axb6 22. b3 Na5 23. Be3 $16 ) 
+22. Qd3 Rc7 23. Ne3 $16 { Black has many weaknesses and there is no semblance of counterplay. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2659354/"]
+[Date "????.??.??"]
+[Round "15.17"]
+[White "14) KID Type I"]
+[Black "Wojtaszek - Swiercz #5"]
+[Result "*"]
+[FEN "5rk1/ppr1qpp1/3p1nbp/P2Pp2n/1P2P3/3Q1PPB/7P/R1B1RNK1 w - - 0 25"]
+
+25. Ne3 { White's bishop on h3 is very strong controlling the important diagonal h3-c8 and most importantly the c8 square thereby preventing Black's rook to get doubled. Black must find a way to kick this bishop back but how? } Nh7 $1 { The only move for Black to not get strategically lost immediately! } 26. Bd2 Ng5 $1 27. Bg2 Qd7 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2659356/"]
+[Date "????.??.??"]
+[Round "15.18"]
+[White "14) KID Type I"]
+[Black "Wojtaszek - Swiercz #6"]
+[Result "*"]
+[FEN "5rk1/pprq1pp1/3p2bp/P2Pp1nn/1P2P3/3QNPP1/3B2BP/2R1R1K1 b - - 0 28"]
+
+28... Rfc8 { Fighting for the c-file. } 29. Rxc7 Rxc7 30. b5 $5 { Gaining more space on the queenside, preparing Bb4 or b5-b6 or a5-a6, with a huge advantage. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2659385/"]
+[Date "????.??.??"]
+[Round "15.19"]
+[White "14) KID Type I"]
+[Black "Wojtaszek - Swiercz #7"]
+[Result "*"]
+[FEN "5rk1/pp1q1pp1/3p2bp/P2Pp1nn/1P2P3/3QNPP1/3B2BP/2R3K1 b - - 0 29"]
+
+29... Rc8 $2 { This loses on the spot. } 30. Rxc8+ Qxc8 31. Nc4 Qc7 32. f4 $1 Nh7 { Black is losing a piece. } 33. f5 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2659388/"]
+[Date "????.??.??"]
+[Round "15.20"]
+[White "14) KID Type I"]
+[Black "Wojtaszek - Swiercz #8"]
+[Result "*"]
+[FEN "5rk1/pp1q1pp1/3p2bp/P2Pp2n/1P2P3/3QNPPn/3B2BP/2R2K2 b - - 0 30"]
+
+30... Rc8 { Again, this runs into a nice tactical refutation. } 31. Rxc8+ Qxc8 32. Qc4 $1 Qd7 33. a6 $1 bxa6 34. Qc6 $1 { When the knight on h3 is hanging. } Qxc6 $2 35. dxc6 Ng5 36. c7 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551554/"]
+[Date "????.??.??"]
+[Round "15.21"]
+[White "14) KID Type I"]
+[Black "White’s endgame prospects"]
+[Result "1-0"]
+[FEN "1qrb2k1/1p1r1pp1/p2p1nnp/P2Pp3/1PB1P3/4BNPP/5P2/1QRR2K1 w - - 0 23"]
+
+ { White’s endgame prospects If White manages to expand on the queenside with a2-a4-a5 or something similar, then even after trading all major pieces and some minor pieces, he should have excellent winning chances due to his spatial edge. The following fragment is an example. The game Beliavsky – Carlhammar, Gibraltar 2009, reached the position in the diagram. White has expanded on the queenside already, securing a significant spatial advantage. } 23. Bf1 $5 { White is willing to simplify the position to head for an endgame he considers to be winning. } ( { White could have also fought for the c-file after: } 23. Qd3 Rdc7 24. Rc2 Nd7 25. Rdc1 $16 { When Black needs high precision to stay in the game. For example, } Ne7 $2 ( { better was } 25. Bf1 Ngf8 ) 
+ { loses due to: } 26. Bb6 $1 Nxb6 27. axb6 Rd7 28. Bb5 $1 { And after } Rxc2 29. Rxc2 axb5 30. Qxb5 { the rook on d7 is hanging, and there is nothing better than } Nc6 31. dxc6 bxc6 32. Rxc6 { . } ) 
+Rdc7 24. Nd2 Rxc1 ( { If } 24... b5 { White is much better after } 25. axb6 $1 Rxc1 26. Rxc1 Rxc1 27. Qxc1 Bxb6 28. Bxb6 Qxb6 29. Qb2 $5 { since the weak a6-pawn will be a problem sooner or later. } ) 
+25. Rxc1 Rxc1 26. Qxc1 Qc7 27. Qxc7 Bxc7 { Trading pieces is supposed to alleviate Black’s spatial problem, but here this will not be enough. } 28. h4 $1 { Threatening the decisive Bh3-c8 attacking the b7-pawn. } Nf8 ( { A better defence was } 28... Kf8 { though after } 29. Bh3 Ne7 30. Kg2 Ke8 31. Kf3 Kd8 32. Nc4 Nd7 33. g4 $5 { White will expand on the kingside with excellent winning chances. } ) 
+29. Bh3 N8d7 ( 29... N6d7 { does not help: } 30. Nc4 f6 ( { or } 30... Kh7 31. Bb6 $1 Nxb6 ( 31... Bxb6 32. axb6 $18 ) 
+32. axb6 Bb8 33. Bc8 $18 ) 
+31. h5 $1 { Fixing another weakness. } Kf7 32. Kg2 Ke7 33. Bf5 Kf7 { And now White has many winning methods, such as } 34. Bb6 $1 Bb8 35. Ne3 Ke7 36. Be6 $1 Nxe6 37. Nf5 Kf7 38. dxe6 Kxe6 39. Nxg7 Kf7 40. Nf5 { followed by Nxh6 . } ) 
+30. g4 $1 { Gaining even more space. } Nb8 31. g5 hxg5 32. hxg5 Nfd7 33. Nc4 Kf8 34. Kf1 Ke7 35. Ke2 Kd8 36. f4 $1 { +- The decisive break. Black will be unable to resist the opening of more lines due to his poor piece placement, his weaknesses and his lack of space. } f6 ( { White is also winning after } 36... exf4 37. Bxf4 Ke7 38. Be3 Kd8 39. Bd4 g6 40. Kf3 Ke7 41. Kf4 { with the threat of e4-e5. Black will fall into zugzwang sooner or later. } ) 
+37. Kf3 Nf8 ( { Or } 37... fxg5 38. fxe5 Nxe5 39. Nxe5 dxe5 40. Bxg5 Ke8 41. Bc8 { and wins. } ) 
+38. gxf6 gxf6 39. fxe5 fxe5 40. Bg5+ Ke8 41. Bc8 { And the b7-pawn is finally lost. } Nfd7 42. Bxb7 { Final remarks 1. I would like to emphasize that White’s plan of trading rooks and queens with 23. Bf1 was not the only way to proceed. The endgame was far superior, but victory was not completely guaranteed. 2. It would have been interesting for White to first press in the middlegame a little longer with 23. Qd3, as I believe Black did not really have the resources to maintain control of the c-file had White found the right continuation. } 
+ 1-0
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2847333/"]
+[Date "????.??.??"]
+[Round "15.22"]
+[White "14) KID Type I"]
+[Black "White's Endgame Prospects #1"]
+[Result "*"]
+[FEN "1qrb2k1/1p1r1pp1/p2p1nnp/P2Pp3/1PB1P3/4BNPP/5P2/1QRR2K1 w - - 0 1"]
+
+1. Bf1 $5 { White is willing to simplify the position to head for an endgame he considers to be winning. White could have also fought for the c-file after: } ( 1. Qd3 Rdc7 2. Rc2 Nd7 3. Rdc1 $16 { When Black needs high precision to stay in the game. For example } Ne7 $2 { loses due to } ( 3. Bf1 Ngf8 { Was better. } ) 
+4. Bb6 $1 Nxb6 5. axb6 Rd7 6. Bb5 $1 { And after } Rxc2 7. Rxc2 axb5 8. Qxb5 { the Rook on d7 is hanging, and there is nothing better than } Nc6 9. dxc6 bxc6 10. Rxc6 ) 
+Rdc7 2. Nd2 Rxc1 ( 2... b5 { White is much better after } 3. axb6 $1 Rxc1 4. Rxc1 Rxc1 5. Qxc1 Bxb6 6. Bxb6 Qxb6 7. Qb2 $5 { since the weak a6-pawn will be a problem sooner or later. } ) 
+3. Rxc1 Rxc1 4. Qxc1 Qc7 5. Qxc7 Bxc7 { Trading pieces is supposed to alleviate Blacks spatial problem, but here this will not be enough. } 6. h4 $1 { Threatening the decisive Bh3-c8 attacking the b7-pawn. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2847334/"]
+[Date "????.??.??"]
+[Round "15.23"]
+[White "14) KID Type I"]
+[Black "White's Endgame Prospects #2"]
+[Result "*"]
+[FEN "6k1/1pbn1pp1/p2p1n1p/P2Pp3/1P2P2P/4B1PB/3N1P2/6K1 w - - 4 8"]
+
+8. g4 $1 { Gaining even more space. } Nb8 9. g5 hxg5 10. hxg5 Nfd7 11. Nc4 Kf8 12. Kf1 Ke7 13. Ke2 Ke8 14. f4 $18 { The decisive break. Black will be unable to resist the opening of more lines due to his poor piece placement, his weaknesses and his lack of space. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2340763/"]
+[Date "????.??.??"]
+[Round "15.24"]
+[White "14) KID Type I"]
+[Black "How should Black play?"]
+[Result "0-1"]
+[FEN "2r1rbk1/2qbnpp1/p1pp1n1p/1p1Pp3/P1P1P3/1P3N2/R1B2PPP/2BQRNK1 b - - 0 1"]
+
+ { How should Black play? White’s previous three wins were very convincing, and the reader may wonder how Black is supposed to play. I want to answer this question by first showing a short fragment from the game Bouaziz – Beliavsky, Szirak 1987. After a Ruy Lopez opening, the game reached the position in the diagram, and now Black turned into the structure we are studying with: } 1... cxd5 2. cxd5 { And now: } Ng6 $1 { This is a good move for two reasons. Black will improve his least-useful piece by playing ...Be7-d8-b6 while the knight on g6 is ready to jump to f4. Note how difficult it is for White to cover all the knight jumps when Black’s knights are on f6 and g6; it seems like Black always has something useful to do. } ( { A different continuation, such as } 18... bxa4 19. bxa4 Rb8 20. Qe2 a5 21. Ne3 Ng6 22. g3 Rec8 23. Bd2 $14 { , gives White a dominating position after Bd3 and Nc4 . Once again Black lacks queenside targets. } ) 
+3. axb5 $2 ( { PH: This is actually a big mistake. } 3. g3 { keeps the tension favorably. } ) 
+axb5 4. Bd2 Be7 5. Qa1 ( { If } 21. Bd3 Nf4 $5 ( 21. Qa1 Bd8 { might be too slow, and after } 22. g3 Qb8 23. Qe2 Bb6 24. Ne3 { White secures a stable position with prospects for an advantage } ) 
+ { Black has good counterplay after } 22. Bxf4 exf4 23. Qd2 Qc3 $1 { with a dynamic balance. } ) 
+ ( 21. g3 $5 { deserves attention too. } ) 
+Bd8 6. Rc1 Qb8 7. Bd3 ( { Of course } 23. Ra7 $2 { simply cooperates with Black, and after } Bb6 24. Ra2 Bg4 25. Ne1 Nf4 $1 { ∓ Black has serious kingside threats. } ) 
+Bb6 { It took five moves to bring this bishop from the useless f8-square to the powerful b6-square; it was worth it. This bishop covers the entry points a7 and c7, and exerts pressure against White’s kingside. } 8. Rxc8 ( { Black is at least equal after } 24. Be3 Rxc1 25. Qxc1 Rc8 26. Qa1 Nf4 27. Bxf4 exf4 ) 
+Rxc8 9. g3 $6 ( { Better is } 25. h3 Nh5 26. Ne3 Ngf4 27. Bf1 { with a level game. } ) 
+Ng4 10. Be1 $6 ( { White is only slightly worse after: } 26. Ne3 Nxe3 27. Bxe3 Bxe3 28. fxe3 Bg4 $5 ) 
+f5 $1 { ⩱ Black’s dreams come true. Now he is able to undermine White’s central pawn structure without having to lose control of the open file on the queenside. I should say White did not play well enough, and in practice Black will rarely be able to accomplish such an ideal position. Nevertheless, it is good for the reader to know what to hope for. Black had a significant advantage after: } 11. exf5 Ne7 12. Nh4 Nxd5 13. Ng6 Ngf6 14. Qd1 Qb7 15. g4 Be8 16. Ng3 Nf4 { The rest of the game is irrelevant to our purposes. Final remarks 1. It should be noted that, unlike the previous three examples, Black transferred into this pawn structure under good conditions. 2. The conditions were good because there was time for the plan ...Be7-d8-b6 to be executed, and because Black’s knights were well placed on f6 and g6. In addition, White was not in time to claim queenside space with a2-a4-a5. The following two games are more recent and much more realistic executions of Black’s plans. } 
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2847335/"]
+[Date "????.??.??"]
+[Round "15.25"]
+[White "14) KID Type I"]
+[Black "How Should Black Play #1"]
+[Result "*"]
+[FEN "2r1rbk1/2qbnpp1/p2p1n1p/1p1Pp3/P3P3/1P3N2/R1B2PPP/2BQRNK1 b - - 1 2"]
+
+2... Ng6 $1 { This is a good move for two reasons. Black will improve his least-useful piece by playing ...e7-d8-b6 while the knight on g6 is ready to jump to f4. Note how difficult it is for White to cover all the knight jumps when Blacks knights are on f6 and g6; it seems like Black always has something useful to do. A different continuation, such as } ( 2... bxa4 3. bxa4 Rb8 4. Qe2 a5 5. Ne3 Ng6 6. g3 Rec8 7. Bd2 $14 { gives White a dominating position after Bd3 and Nc4. Once again Black lacks Queenside targets. } ) 
+3. axb5 axb5 4. Bd2 Be7 5. Qa1 ( 5. Bd3 Nf4 $5 { Black has good counterplay after } ( 5. Qa1 Bd8 { Might be too slow, and after } 6. g3 Qb8 7. Qe2 Bb6 8. Ne3 { White secures a stable position with prospects for an advantage. } ) 
+6. Bxf4 exf4 7. Qc2 Qc3 $1 { with a dynamic balance. } ) 
+Bd8 6. Rc1 Qb8 7. Bd3 ( { Of course } 7. Ra7 $2 { simply cooperates with Black, and after } Bb6 8. Ra2 Bg4 9. Ne1 Nf4 $1 { ∓ Black has serious Kingside threats. } ) 
+Bb6 { It took five moves to bring this bishop from the useless f8-square to the powerful b6-square; it was worth it. This bishop covers the entry points a7 and c7, and exerts pressure against Whites kingside. } 8. Rxc8 ( { Black is at least equal after } 8. Be3 Rxc1 9. Qxc1 Rc8 10. Qa1 Nf4 11. Bxf4 exf4 ) 
+Rxc8 9. g3 $6 ( { Better is } 9. h3 Nh5 10. Ne3 Ngf4 11. Bf1 { with a level game. } ) 
+Ng4 10. Be1 $6 f5 $15 { Blacks dreams come true. Now he is able to undermine Whites central pawn structure without having to lose control of the open file on the queenside. I should say White did not play well enough, and in practice Black will rarely be able to accomplish such an ideal position. Nevertheless, it is good for the reader to know what to hope for. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551556/"]
+[Date "????.??.??"]
+[Round "15.26"]
+[White "14) KID Type I"]
+[Black "Ruslan Ponomariov vs. Teimour Radjabov"]
+[Result "0-1"]
+
+ { Ruslan Ponomariov – Teimour Radjabov, Medias 2010 Learning objective: This game illustrates Black’s chances for kingside play based on the ...f7-f5 break. } 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 e5 7. Bg5 c6 8. Qd2 Nbd7 9. d5 h6 10. Be3 ( { The pawn is immune as } 10. Bxh6 { is met by } Nxe4 $1 11. Nxe4 Qh4 12. g3 Qxh6 13. Qxh6 Bxh6 { with approximately level chances. } ) 
+cxd5 11. cxd5 { We have reached the position of interest. The two earlier games should have been enough to convince the reader that White’s spatial advantage is quite promising. Black needs to find a concrete way to react or he will be dominated as in the earlier examples. } a6 ( { If Black plays } 11... Ne8 { , attempting to create counterplay immediately with ...f7-f5 , then } 12. O-O-O $5 { gives a promising position after } Kh7 13. h4 Nc5 14. h5 g5 15. g4 $16 { when White had a huge positional advantage in Zaja – Zufic, Bosnia 2011. } ) 
+12. Nc1 ( { If } 12. O-O-O h5 ( 12. Nc1 b5 $5 ) 
+13. Kb1 b5 { and Black will have sufficient counterplay on the queenside. } ) 
+ ( { Again } 12. Bxh6 { is met by } Nxe4 $1 { . } ) 
+b5 { This is a double-edged decision; it gains some space on the queenside, but it weakens the c6-square. } ( { I would have preferred } 12... Kh7 $5 13. Be2 Ne8 14. O-O f5 { with a playable position for Black. } ) 
+13. Be2 Nb6 14. O-O { White has decided to castle kingside, and Black has no time to lose – he must play ...f7-f5 as soon as possible. } Kh7 { Protecting the h6-pawn, preparing ...Nh5 and ...f7-f5. } 15. b4 { Fixing the b5-pawn to create a weakness on the queenside with a2-a4. } ( { An interesting option was } 15. b3 $5 { covering the c4-square and preparing Nd3-b4-c6. } Bb7 ( { If Black simply proceeds with his kingside plans with } 15. b4 Nh5 { then the manoeuvre } 16. Nd3 f5 17. Nb4 { causes him serious trouble. For example: } Nf4 18. Nc6 Qc7 19. Rac1 $16 ) 
+16. Nd3 Rc8 17. Rfc1 $14 { With a comfortable advantage, followed by a2-a4 weakening Black’s queenside. } ) 
+Nh5 16. a4 Nc4 { A necessary decision. } ( { If } 16... bxa4 17. Nxa4 Nxa4 18. Rxa4 $16 { Black’s queenside is weak and easily accessible to White’s forces. } ) 
+17. Bxc4 bxc4 { This is a good moment to weigh up the situation. White has managed to create a serious weakness on the queenside – the c4-pawn. Meanwhile, Black is ready to embark on a kingside attack with ...f7-f5. Chances are somewhat favourable to White, but the situation is far from clear, which is generally what Black players hope for in King’s Indian structures. } 18. N1e2 { Protecting the f4-square. } ( { Attempting to capture the c4-pawn immediately with } 18. Qa2 { is met by } Nf4 $1 19. Qxc4 Qg5 20. Bxf4 exf4 { when Black has excellent compensation for the pawn, due to his strong bishops. } ) 
+f5 19. exf5 ( { If } 19. Qa2 $6 { Rogozenko suggests } f4 20. Bf2 g5 21. h3 Nf6 22. Qxc4 h5 { with counterplay. In my opinion, White struggles even to find equality in this position, for example: } 23. Qc6 Rb8 24. Rfb1 g4 25. b5 ( { or } 25. hxg4 hxg4 26. b5 g3 $5 { with an attack } ) 
+gxf3 26. gxf3 Bxh3 27. bxa6 { It seems that White is ”getting there” but after the strong sequence: } Rxb1 $1 28. Rxb1 Ng4 $3 { Black obtains a crushing attack after } 29. fxg4 Qg5 30. Kh2 hxg4 { . } ) 
+ ( { PH: Here the computer line is quite impressive: } 19. b5 f4 20. Bf2 g5 21. h3 Nf6 { and it looks like White is ripe for the slaughter on the kingside with ...h5 and ...g4 coming, but: } 22. b6 h5 23. a5 g4 24. Bh4 { Just ignoring Black's initiative! } gxh3 25. gxh3 Bxh3 26. Rf2 { and with Rh2 coming, White is incredibly solid and Black's extra pawn is meaningless. } ) 
+gxf5 20. f4 $6 { After this move the position is simply unclear. Note how the attention is now far away from Black’s weakened queenside. } ( { As Rogozenko suggests, } 20. Qa2 { was a better continuation, but after } Qf6 21. Qxc4 Qg6 { Black can grab some compensation by creating tactical threats such as } 22. Qd3 Bd7 23. Rab1 Rg8 { . And now the careless: } 24. Kh1 $2 ( { instead } 24. g3 { allows White to retain a small edge } ) 
+ { is met by: } e4 $1 25. Qd2 ( { or } 25. fxe4 Bxc3 $19 ) 
+f4 $1 26. Bxf4 Bxc3 27. Nxc3 Nxf4 $17 ) 
+Bd7 21. Rab1 Re8 22. Kh1 Rb8 { All Black’s pieces are doing something for his position. } 23. Rf3 Nf6 { Aiming to play ...Ng4. } 24. h3 Nh5 { Now that the g3-square is weakened, the knight returns to h5. Black’s position is easier to conduct. } 25. Bg1 $2 { Too slow. White is not really going anywhere, and Black now has a free hand to move around the board and create threats against White’s kingside. } ( { Stronger was } 25. b5 $5 { creating a passed pawn to distract Black’s attention: } axb5 26. axb5 Rb7 27. b6 Qf6 { with a complex position. } ) 
+e4 26. Re3 ( { Healthier was } 26. Rff1 $5 { but after } Bxc3 $1 { White must choose between } 27. Qxc3 ( { or } 27. Nxc3 Ng3 { losing an exchange. } ) 
+Bxa4 { losing a pawn } ) 
+Qh4 $17 { Suddenly White’s position is very vulnerable, and there is just no time to grab the weak c4-pawn. Black’s counterplay has succeeded. } 27. Bh2 Rg8 28. Qd1 Rb7 $6 ( { Black was immediately winning after } 28... Bxc3 $1 29. Nxc3 ( { even worse is } 28... Rb7 28. Rxc3 Qf2 30. Qf1 Qxf1 31. Rxf1 Rxb4 { as pointed out by Rogozenko } ) 
+Nxf4 30. Bxf4 Qxf4 { when White has no compensation for the pawn. } ) 
+29. Qf1 Rgb8 { Now the b4-pawn is lost. } 30. g3 Qd8 31. b5 axb5 32. axb5 Nf6 33. g4 Bxb5 34. Qg2 ( 34. gxf5 { doesn’t help: } Be8 $1 35. Rxb7 Rxb7 36. Ng3 Bf7 37. Qxc4 Qa5 { Winning the d5-pawn and later the game. } ) 
+Bd7 $19 { White has no compensation for the pawn, and the rest is relatively simple. } 35. Rg1 fxg4 36. hxg4 Nxg4 37. Rg3 Qh4 38. Rxg4 Bxg4 39. Qxg4 Qxg4 40. Rxg4 { White has gained two pieces for a rook, but after: } Rb2 $1 { White’s pieces are tied up and soon he will lose material. } 41. f5 R8b3 { Threatening ...Bxc3. } 42. f6 ( { If } 42. Rg3 { then: } Be5 43. Re3 Rxc3 $1 44. Nxc3 ( { or } 44. Rxc3 Bxc3 45. Nxc3 e3 $19 ) 
+Rxh2 $19 ) 
+Bxf6 43. Nxe4 Bh8 44. N4g3 c3 { It is amusing that Ponomariov never found the time to capture the weak c4-pawn, and now this very pawn decides the game for Black. } 45. Rc4 Be5 46. Nc1 Rb1 47. Ne2 R3b2 48. Bg1 Rc2 ( { White resigns. He is in semi-zugzwang, since } 48... Rc2 48. Re4 { loses to } Rd2 { followed by ...c3-c2. } ) 
+ ( { And } 48... Rc2 48. Kg2 $2 { fails to } Rbxc1 { . Final remarks 1. Once Black’s kingside play got started, his queenside weaknesses became less and less important. 2. White’s strategy in this game was generally correct, but his play was imprecise. White had a safe advantage after 15. b3, and even 20. Qa2 was enough to secure a small edge. } ) 
+
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2847336/"]
+[Date "????.??.??"]
+[Round "15.27"]
+[White "14) KID Type I"]
+[Black "Ponomariov - Radjabov #1"]
+[Result "*"]
+[FEN "r1bq1rk1/pp1n1pb1/3p1npp/3Pp3/4P3/2N1BP2/PP1QN1PP/R3KB1R b KQ - 1 11"]
+
+ { We have reached the position of interest. The two earlier games should have been enough to convince the reader that Whites spatial advantage is quite promising. Black needs to find a concrete way to react or he will be dominated as in the earlier examples. } 11... a6 ( { If Black plays } 11... Ne8 { attempting to immediately create counterplay with ... f7-f5, then } 12. O-O-O $5 { gives a promising position after } Kh7 13. h4 Nc5 14. h5 g5 15. g4 $16 { when White had a huge positional advantage in Zaja - Zufic, Bosnia 2011. } ) 
+12. Nc1 ( 12. O-O-O h5 ( 12. Nc1 b5 $5 ) 
+13. Kb1 b5 { And Black will have sufficient counterplay on the Queenside. } ) 
+ ( 12. Bxh6 { Is met by } Nxe4 $1 ) 
+b5 { This is a double-edged decision; it gains some space on the queenside, but it weakens the c6-square. } ( 12... Kh7 $5 { 13.Be2 Ne8 } 14. O-O { f5 with a playable position for Black. } ) 
+13. Be2 Nb6 14. O-O { White has decided to castle kingside, and Black has no time to lose he must play ...f7-f5 as soon as possible. } Kh7 { Protecting the h6-pawn, preparing ...h5 and ...f7-f5. } 15. b4 { Fixing the b5-pawn to create a weakness on the queenside with a2-a4. } Nh5 16. a4 Nc4 { A necessary decision. } 17. Bxc4 bxc4 { This is a good moment to weigh up the situation. White has managed to create a serious weakness on the queenside the c4-pawn. Meanwhile, Black is ready to embark on a kingside attack with ...f7-f5. Chances are somewhat favourable to White, but the situation is far from clear, which is generally what Black players hope for in Kings Indian structures. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2847337/"]
+[Date "????.??.??"]
+[Round "15.28"]
+[White "14) KID Type I"]
+[Black "Ponomariov - Radjabov #2"]
+[Result "*"]
+[FEN "r1bq1r2/5pbk/pn1p1npp/1p1Pp3/4P3/2N1BP2/PP1QB1PP/R1N2RK1 w - - 5 15"]
+
+15. b3 { An interesting option, covering the c4-square and preparing Nd3-b4-c6. } Bb7 ( { If Black simply proceeds with his Kingside plans with } 15... Nh5 { then the manoeuvre } 16. Nd3 f5 17. Nb4 { causes him serious trouble. For example: } Nf4 18. Nc6 Qc7 19. Rac1 $16 ) 
+16. Nd3 Rc8 17. Rfc1 $14 { With a comfortable advantage, followed by a2-a4 weakening Black's Queenside. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2847338/"]
+[Date "????.??.??"]
+[Round "15.29"]
+[White "14) KID Type I"]
+[Black "Ponomariov - Radjabov #3"]
+[Result "*"]
+[FEN "r1bq1r2/5pbk/pn1p2pp/1p1Pp2n/PP2P3/2N1BP2/3QB1PP/R1N2RK1 b - - 1 16"]
+
+16... bxa4 17. Nxa4 Nxa4 18. Rxa4 $16 { Black's Queenside is weak and easily accessible to White's forces. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2847339/"]
+[Date "????.??.??"]
+[Round "15.30"]
+[White "14) KID Type I"]
+[Black "Ponomariov - Radjabov #4"]
+[Result "*"]
+[FEN "r2qr3/3b2bk/p2p3p/3Ppp1n/PPp2P2/2N1B3/3QN1PP/1R3R1K b - - 5 22"]
+
+22... Rb8 { All Blacks pieces are doing something for his position. } 23. Rf3 Nf6 { Aiming to play ...Ng4. } 24. h3 Nh5 { Now that the g3-square is weakened, the knight returns to h5. Blacks position is easier to conduct. } 25. Bg1 $2 { Too slow. White is not really going anywhere, and Black now has a free hand to move around the board and create threats against Whites kingside. } ( { Stronger was } 25. b5 $5 { creating a passed pawn to distract Black's attention: } axb5 26. axb5 Rb7 27. b6 Qf6 { with a complex position. } ) 
+e4 26. Re3 ( 26. Rff1 $5 { but after } Bxc3 { White must choose between } 27. Qxc3 Bxa4 { losing a pawn, or } 27. Nxc3 Ng3 { losing an exchange. } ) 
+Qh4 $17 { Suddenly Whites position is very vulnerable, and there is just no time to grab the weak c4-pawn. Blacks counterplay has succeeded. } 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/1551557/"]
+[Date "????.??.??"]
+[Round "15.31"]
+[White "14) KID Type I"]
+[Black "Dalibor Stojanovic vs. Ding Liren"]
+[Result "0-1"]
+
+ { Dalibor Stojanovic – Ding Liren, Istanbul Olympiad 2012 Learning objectives: 1. This game illustrates Black’s effective queenside play once the position is somewhat simplified. 2. Later in the game we see the battle between White’s light-squared bishop and Black’s dark-squared bishop, where Black executes the strong ...Bf6-d8-b6 manoeuvre and manages to win convincingly. } 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 b6 8. Nc3 Bb7 9. Qe2 g6 10. Bc2 Bg7 11. Rd1 Nbd7 12. Nf3 Qc7 13. Bf4 e5 14. Bg5 h6 15. Bxf6 Nxf6 16. Ba4+ Ke7 { We have reached a very interesting position, corresponding to the Najdorf Type II. As the reader may recall, one of the key issues in that structure is the control of the d5-square, thus we know White must be doing okay at the very least. However, comparing this position with the game Tiviakov – Anand from that chapter, we see a crucial difference: White has the wrong bishop. Typically, the light-squared bishop can be very effective on b3 if the c-pawn is still on c2; as an example, take the game Almasi – Aagaard from that chapter. In the present case though, the light-squared bishop has few prospects as it is blocked by the c4-pawn, which means Black is doing fine. } 17. Nd5+ $2 { This is a very unfortunate positional decision; the kind of mistake I hope you will not make after reading this book. White chooses a very bad occasion to go into the structure studied in this chapter. } ( { Playing this position in the spirit of a Najdorf Type II yields only equality, for example: } 17. Bc2 Rhc8 18. Bd3 Kf8 19. Nd2 h5 20. Nf1 Bh6 { with level chances. } ) 
+ ( { But instead, White could have prepared } . Nd5 { , hoping to obtain this chapter’s structure under favourable circumstances. I believe the strongest move was: } 17. Rac1 Rac8 18. Rc2 ( 18. Nd5 $2 { is premature due to: } Nxd5 19. cxd5 $2 Qxc1 $17 ) 
+Rhd8 $2 { Permitting White’s positional threat. } ( 18. Nd5+ Qxc4 $2 { loses to } 19. Nd5 Bxd5 20. Rxc4 Bxc4 21. Qe3 ) 
+ ( { Correct is } 18. Nd5+ Qb8 { anticipating } 19. Nd5 { , and now } 19. b4 $5 { ⩲ gives a small advantage to White. } ) 
+19. Nd5 $1 Nxd5 20. cxd5 Qb8 21. Bc6 $16 { White invades down the c-file, while Black’s dark-squared bishop is far away from the action. } ) 
+Nxd5 18. cxd5 { And this is a key position to analyze. The reader should ask: what is the difference between this position and Wojtaszek – Swiercz? Black is not well prepared to pursue counterplay with ...f7-f5, but under these conditions he does not even have to. The main point is that there are only two minor pieces on the board, and in particular White is missing his typically strong dark-squared bishop. Black’s pieces have sufficient space to manoeuvre, thus the position is roughly equal, or even slightly preferable for Black due to the awkward location of White’s light-squared bishop. } b5 ( { Another alternative was } 18... Rhc8 $5 { securing control of the c-file. It is possible that Black wanted to prevent } 19. Bc6 $5 { getting rid of the bad light-squared bishop } ( { but not } 18... b5 18. Rac1 $2 Qxc1 20. Rxc1 Rxc1 21. Ne1 Rac8 $17 ) 
+ ( 18... b5 18. Ne1 $6 { is met by } Qc4 $1 { ⩱ } ) 
+Bxc6 20. dxc6 Qxc6 21. Qd3 { when White has reasonable compensation for the pawn, but it is Black who can play for an advantage. } ) 
+ ( { PH: After } 18... Rhc8 { the computer likes } 19. Rd3 $5 { , from where the rook can come either to c3 or to the f-file: } b5 20. Bd1 a5 21. h4 $5 { , intending h5, and if } h5 22. Ng5 { , intending Rf3.. } ) 
+19. Bb3 ( { The alternative was } 19. Bc2 { aiming to play Bd3 followed by a2-a4, and then } Bc8 $1 { is a good option, relocating the bishop and keeping an eye on an eventual ...f7-f5 . } 20. Bd3 Qb6 21. a4 Bd7 22. axb5 axb5 { Black has nothing to fear. } ) 
+Rhc8 20. Ne1 ( { PH: Too passive. } 20. h4 $1 { and White is just better. } ) 
+Qb6 21. a4 bxa4 22. Bxa4 Kf8 { This gives White an interesting opportunity. } ( { More precise was } 22... a5 23. Nc2 Kf8 { transposing into the game. } ) 
+23. Nc2 ( { Somewhat better was } 23. Rd3 { trying to disrupt Black’s queenside play to some extent: } a5 24. Rb3 Qa7 25. Bb5 { with approximately level chances. } ) 
+a5 24. Qe3 Rc5 25. Ne1 Ba6 26. Bc6 { The bishop does not do much on c6, but the real problem with this move is a small tactical detail which becomes clear after move 28. } ( { Better was } 26. b3 Rb8 { when Black’s position is slightly better, but White is very likely to hold since Black’s dark-squared bishop cannot enter the fray yet. } ) 
+Rb8 27. Nd3 Bxd3 $1 { This is a strong decision, giving up the pair of bishops at the right moment. } ( { Another option was } 27... Rc2 $5 28. Qxb6 Rxb6 29. h3 { but White seems to hold well enough. } ) 
+28. Qxd3 ( { And not } 28. Rxd3 $2 Qxb2 $17 { winning a pawn. } ) 
+Bf6 $1 { ⩱ This is the key to Black’s previous move. White’s queen has moved away from e3, so the h6-pawn no longer needs protection. I cannot overstate how much I like this move; the idea is to bring the dark-squared bishop into the game via d8-b6, which is similar to the game Polgar – Dominguez from Chapter 8. We have reached a very unpleasant position for White. This is one of those cases where the presence of opposite-coloured bishops does not help the defending side. White will be dominated on the dark squares while the bishop on c6 is basically doing nothing. } ( { But certainly not } 28... Qxb2 $4 29. Rdb1 ) 
+29. g3 h5 ( { Again } 29... Qxb2 $4 { loses to } 30. Rab1 { . } ) 
+ ( { An alternative was } 29... Qb3 $5 { (threatening ...Qxd3 and then ...Rxb2) and now } 30. Qxb3 Rxb3 31. Rd2 Bd8 $5 { ⩱ is similar to the game } ( { instead, gaining a pawn with } 31... Bg5 32. Re2 Rc1 33. Rxc1 Bxc1 34. Ba4 Rxb2 35. Rxb2 Bxb2 { leads to a drawish endgame } ) 
+ ) 
+30. Rdb1 Qb4 ( { Stronger was: } 30... Qb3 31. Qxb3 Rxb3 32. Ra3 Rb4 $17 ) 
+31. Ra4 $6 { An imprecise defence. } ( { Slightly better was } 31. Qe2 Kg7 32. Ba4 Bg5 33. Kg2 Qd2 $5 34. Qxd2 Bxd2 $15 { which is similar to the game, but White is better prepared to defend his weaknesses. } ) 
+Qb3 32. Qxb3 Rxb3 33. Kg2 ( { A better defence was } 33. Ra2 Bd8 34. Ba4 Rb4 35. f3 f5 $1 36. exf5 gxf5 37. Rd1 Bb6 $17 { when White’s position is very uncomfortable due to the weak pawns on b2 and d5 . } ) 
+Bd8 { Threatening ...Rc2 and ...Bb6. } 34. Ra3 Rb4 35. Ra4 { Unfortunately for White, there is nothing better than this move, and now: } Rxa4 36. Bxa4 Rc4 37. Bb5 Rxe4 $19 { This position and the rest of the game are very similar to Polgar – Dominguez from Chapter 8. In fact, it is the same structure only with an extra pawn on a5. The rest of the game is a pleasing illustration of imposing the advantage with opposite-coloured bishops. } 38. b3 Rb4 39. Bd3 Rd4 40. Bc4 Bb6 { Threatening ...Rd2. } 41. Rb2 Rd1 42. Re2 f5 43. h4 e4 { The reader should notice how Black has expanded with ...f7-f5 and ...e5-e4, exactly as Dominguez did in the game mentioned above. } 44. Rb2 Kg7 { Black threatens to follow up with ...Kf6-e5 and ...f5-f4. } 45. f4 { Preventing the potential ...f5-f4, but now the e4-pawn is passed and very strong. White’s position is hopeless, but the rest of the game is even nicer. } ( { White cannot wait and allow Black’s plan with } 45. Rc2 Kf6 46. Ra2 Ke5 47. Rc2 f4 $1 { (threatening ...f4-f3) } 48. gxf4 Kxf4 49. Re2 Bd8 { and the h4-pawn is lost. } ) 
+Rg1+ 46. Kh2 Rc1 47. Kg2 Bc5 48. Ra2 Bb4 { White has been locked up. } 49. Bb5 Rc3 50. Bc4 Kf6 51. Kh2 Ke7 { The king marches decisively to the queenside. } 52. Kg2 Kd8 53. Kh2 Rxc4 $1 { A very nice final blow – even my engine does not believe it at first – but Black is completely winning after this sacrifice. } ( { Of course } 53... Kc7 $5 { followed by ...Kb6-c5 and ...a5-a4 is also winning. } ) 
+54. bxc4 Kc7 55. Kg2 Kb6 56. Kf2 ( 56. Ra1 { doesn’t help: } Kc5 57. Rc1 a4 58. Kf2 a3 59. Ke3 Ba5 { Followed by ...Kb4 winning. } ) 
+Kc5 57. Rc2 a4 ( { White resigns. White is unable to prevent the promotion of the a-pawn after: } 57... a4 57. Ke2 a3 59. Ke3 Ba5 $1 { Clearing the b4-square for the king: } 60. Ke2 Kb4 61. Kd1 Kb3 { Final remarks 1. The resemblance between this game and Polgar – Dominguez from Chapter 8 is astonishing, and the reader is encouraged to revisit that game. This similarity only reinforces how similar pawn structures have similar plans and strategic elements. 2. White was unable to gradually increase his queenside predominance (as often occurs in this structure) because two minor pieces were already off the board on move 18, and because his light-squared bishop was of little use. 3. Black’s most essential move was 28...Bf6, bringing the bishop into the game via d8-b6. This thematic manoeuvre is something to remember, as the bishop became much stronger than White’s bishop on c6. } ) 
+
+ 0-1
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2847340/"]
+[Date "????.??.??"]
+[Round "15.32"]
+[White "14) KID Type I"]
+[Black "Stojanovic - Liren #1"]
+[Result "*"]
+[FEN "r6r/1bq1kpb1/pp1p2pp/3Pp3/B3P3/5N2/PP2QPPP/R2R2K1 b - - 1 18"]
+
+ { And this is a key position to analyze. The reader should ask: what is the difference between this position and Wojtaszek Swiercz? Black is not well prepared to pursue counterplay with ...f7-f5, but under these conditions he does not even have to. The main point is that there are only two minor pieces on the board, and in particular White is missing his typically strong dark-squared bishop. Blacks pieces have sufficient space to manoeuvre, thus the position is roughly equal, or even slightly preferable for Black due to the awkward location of Whites light-squared bishop. } 18... Rhc8 $5 { Securing control of the c-file. } 19. Rac1 ( 19. Bc6 $5 { getting rid of the bad light-squared Bishop. } Bxc6 20. dxc6 Qxc6 21. Qd3 { when White has reasonable compensation for the pawn, but it is Black who can play for an advantage. } ) 
+ ( 19. Ne1 $6 { is met by } Qc4 $1 { ⩱ } ) 
+Qxc1 20. Rxc1 Rxc1+ 21. Ne1 Rac8 $17 
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2847342/"]
+[Date "????.??.??"]
+[Round "15.33"]
+[White "14) KID Type I"]
+[Black "Stojanovic - Liren #2"]
+[Result "*"]
+[FEN "r4k2/5pb1/bqBp2pp/p1rPp3/4P3/4Q3/1P3PPP/R2RN1K1 b - - 6 26"]
+
+26... Rb8 27. Nd3 Bxd3 $1 { This is a strong decision, giving up the pair of bishops at the right moment. } ( { Another option was } 27... Rc2 $5 28. Qxb6 Rxb6 29. h3 { but White seems to hold well enough. } ) 
+28. Qxd3 Bf6 $15 { This is the key to Blacks previous move. Whites queen has moved away from e3, so the h6-pawn no longer needs protection. I cannot overstate how much I like this move; the idea is to bring the dark-squared bishop into the game via d8-b6, which is similar to the game Polgar Dominguez from Chapter 8. We have reached a very unpleasant position for White. } ( { This is one of those cases where the presence of opposite-coloured bishops does not help the defending side. White will be dominated on the dark squares while the bishop on c6 is basically doing nothing. But certainly not } 27... Bf6 27. Rxd3 Qxb2 $17 { winning a pawn. } ) 
+
+ *
+
+[Event "Chess Structures – A Grandmaster Guide"]
+[Site "https://www.chessable.com/variation/2847343/"]
+[Date "????.??.??"]
+[Round "15.34"]
+[White "14) KID Type I"]
+[Black "Stojanovic - Liren #3"]
+[Result "*"]
+[FEN "3b1k2/5p2/2Bp2p1/p1rPp2p/Rr2P3/6P1/1P3PKP/1R6 b - - 6 35"]
+
+35... Rxa4 36. Bxa4 Rc4 37. Bb5 Rxe4 $19 { This position and the rest of the game are very similar to Polgar-Dominguez from Chapter 8. In fact, it is the same structure only with an extra pawn on a5. The rest of the game is a pleasing illustration of imposing the advantage with opposite-coloured bishops. } 38. b3 Rb4 39. Bd3 Rd4 40. Bc4 Bb6 { Threatening ... Rd2. } 41. Rb2 Rd1 42. Re2 f5 43. h4 e4 { The reader should notice how Black has expanded with ...f7-f5 and ...e5-e4, exactly as Dominguez did in the game mentioned above. } 
+ *

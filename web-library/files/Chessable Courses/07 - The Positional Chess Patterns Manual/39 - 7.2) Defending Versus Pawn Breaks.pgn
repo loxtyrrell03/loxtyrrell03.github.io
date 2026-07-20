@@ -1,0 +1,121 @@
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967634/"]
+[Date "????.??.??"]
+[Round "39.1"]
+[White "7.2) Defending Versus Pawn Breaks"]
+[Black "Stopping The Advance 1"]
+[Result "*"]
+[FEN "2k1r2r/1pp3pp/p3np2/3Np2P/1PP3P1/4P3/P1P1K3/3R3R b - - 0 1"]
+
+ { Most of the time, the right way to defend against pawn breaks is to stop them in their tracks! Find the best move for Black here. } 1... { -KEY- } h6 $11 { Correct! By stopping the h6 break Black keeps a healthy kingside structure. } ( 1... Rhf8 $2 { A careless move would leave Black on the back foot after } 2. h6 $1 g6 3. Rdf1 { Suddenly Black has no good way of saving the f6 pawn, since } f5 { runs into trouble after } 4. gxf5 gxf5 5. Rh5 $18 ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967635/"]
+[Date "????.??.??"]
+[Round "39.2"]
+[White "7.2) Defending Versus Pawn Breaks"]
+[Black "Stopping The Advance 2"]
+[Result "*"]
+[FEN "r4rk1/2p3b1/1p1p2q1/p2Ppbpp/2P1N3/5P1P/PP2QBP1/4RRK1 w - - 0 1"]
+
+ { This position was reached in the online game Carlsen,M - Theodorou,N (2023) . Can you find the move that Magnus played in order to put a stop to Black's plans? } 1. { -KEY- } g4 $1 { A powerful example of prophylaxis, with White making their own pawn break in order to stop Black's threat of ...g4, which would have opened up lines against the White king. } ( 1. a3 $2 { Allowing the pawn break would be a big mistake. } g4 $1 2. hxg4 hxg4 { Black has opened up the h-file, which makes White's king a lot less safe. Importantly, Black can now activate their dark-squared bishop via the h6 square in the future. Finally, the move ...gxf3 may also be very strong. } ) 
+hxg4 2. hxg4 $1 { Correct! With the pawn break stopped, White can use his better structure to press the opponent. } ( 2. fxg4 $6 { would throw away any advantage, with Black able to invade along the open file after } Bxe4 3. Qxe4 Qxe4 4. Rxe4 Rf3 $11 { Black's more active rooks offset White's superior structure. } ) 
+Bd7 ( 2... Bxe4 { Capturing on e4 may have been best, but it's understandable that Black did not want to do this since then it is clear that White's dark-squared bishop is permanently superior to Black's. } 3. fxe4 Rf4 { This square (which we study as a 'power outpost' in the Outposts section) is very attractive for Black's rook, but in this particular case White is ready to evict it immediately. } 4. Bg3 $1 Rf7 5. Rf5 $16 { In the end it is White's power outpost on f5 that turns out to be much more effective. } ) 
+3. Kg2 $16 { White consolidates the position and will perhaps look to use the h-file in the near future. White's minor pieces are much better than Black's, while the g5 pawn is an enduring weakness. The backward pawn on f3 is not a major concern as it is easily defended. } ( 3. Be3 $2 { Magnus blundered in the game, forgetting that here Black could have played 3...Bxg4! winning a pawn. } ) 
+
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967636/"]
+[Date "????.??.??"]
+[Round "39.3"]
+[White "7.2) Defending Versus Pawn Breaks"]
+[Black "Stopping The Advance 3"]
+[Result "*"]
+[FEN "r2qk2r/1bp2pp1/1p1p3p/2nPp3/pnP1P3/2N1QPP1/PP2N2P/1BKR3R w kq - 0 1"]
+
+ ( { Sometimes the opponent will threaten multiple pawn breaks at once. In this game, Magnus Carlsen had the White pieces against GM Bortnyk. He spots that Black has two pawn breaks ( } 1. -- a3 { and } c6 { ) and finds a way to stop both of them. } ) 
+1. { -KEY- } Nb5 $1 { The a3 square is now covered, while ...c6 would leave the d6 pawn too weak. } Ba6 $4 { Black tries to dislodge the knight, though this is a major blunder. } ( 1... c6 $2 2. dxc6 Bxc6 3. Nxd6 { with a winning position for White. } ) 
+ ( 1... a3 $2 2. Nxa3 $18 { Black has lost a pawn without inflicting any damage to White's structure. } ) 
+2. Nec3 $2 { It's curious how focused both players were on the positional aspects of the position, as Magnus also overlooks the problem of Black's trapped knight. } ( 2. Qd2 $1 { This is the big problem that both players overlooked. All of a sudden the knight on b4 is trapped. } Bxb5 3. cxb5 $18 { White will capture on b4 next. } ) 
+a3 { Black plays the break anyway, but here it does not work. } 3. Nxa3 $18 { White is close to objectively winning since Black has no compensation for the pawn. So far we have looked at situations where the defending side was able to stop the pawn break by force. Let's now take a look at what you can do when it is not possible to directly prevent a pawn break. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967637/"]
+[Date "????.??.??"]
+[Round "39.4"]
+[White "7.2) Defending Versus Pawn Breaks"]
+[Black "Positioning The Pieces 1"]
+[Result "*"]
+[FEN "r6r/pp1n1pk1/2p1p1p1/q6p/2bPPP1P/2PN4/P1Q1B1P1/R4RK1 b - - 0 1"]
+
+ { Black is unable to stop White's threatened f4-f5 pawn break under good circumstances. In cases like this, a helpful question to ask yourself is the following: 'Given that the pawn break will happen, where would I like my pieces to be when it happens?' } 1... { -KEY- } Rhf8 $1 { Black anticipates the pawn break, and gets ready to position their rooks optimally on f8 and e8 to deal with the opening up of lines as well as the weakening of Black's kingside structure. } ( 1... Rad8 $2 { This was played in the game. However, now after } 2. f5 $1 exf5 3. exf5 Rhf8 4. fxg6 fxg6 5. Nf4 $1 Bf7 6. Bd3 { White is winning, since there is no way for Black to defend the g6 pawn. } ) 
+ ( 1... f5 $6 { Technically, Black could have stopped the pawn break. However, this would allow White to consider e4-e5 in the future, and would also leave Black's g6 and e6 pawns chronically weak. } ) 
+2. f5 exf5 3. exf5 Rae8 $1 4. fxg6 { White seeks out a similar plan to what we saw against 1...Rad8. However, this time Black is much better prepared. } fxg6 5. Nf4 { Black appears to be about to lose the pawn on g6, but because of their clever piece positioning, they are ready to meet White's tactical threats. } Rxf4 $1 { Eliminating White's powerful knight. The pressure against the e2 bishop ensures that this is not an exchange sacrifice but instead a fair trade of one minor piece for another. } 6. Bxc4 ( 6. Rxf4 $2 { loses after } Rxe2 $19 { Black is up material and has the more active pieces. } ) 
+Qc7 $15 { Black has organised their forces well, and if either side is better it is Black. After all, White's position is not without its defects. Notice the weakness of the h4 pawn and a possible outpost on g4 for Black's knight to seek out. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967638/"]
+[Date "????.??.??"]
+[Round "39.5"]
+[White "7.2) Defending Versus Pawn Breaks"]
+[Black "Positioning The Pieces 2"]
+[Result "*"]
+[FEN "r2qk2r/pp1nbppp/2p1p1b1/3nP3/2BP1P2/P1N3N1/1P4PP/R1BQ1RK1 b kq - 0 11"]
+
+ { In the last example, we saw how Black positioned their pieces as well as possible to prepare for the inevitable pawn break. I should have followed a similar strategy in the game Timoshenko,G - Astaneh Lopez, A (2012) . } 11... { -KEY- } N7b6 $1 { Black gains time against White's light-squared bishop. } ( 11... O-O $6 { This was my choice in the game. However, it's a poor decision as White is immediately able to break on the kingside. } 12. f5 $1 exf5 13. Nxd5 cxd5 14. Bxd5 $16 { White is dominating in the centre. His d-pawn has the potential to become a protected passed pawn, while Black's f5 pawn will likely fall in the next few moves. } ) 
+12. Bb3 ( 12. Bxd5 $6 Nxd5 13. f5 exf5 14. Nxf5 Bxf5 15. Rxf5 Qd7 $11 { With the reduction of material and the loss of White's strong light-squared bishop, the pawn break ceases to have a devastating effect. Black will soon castle kingside to buffer the defense of the f7 pawn. Additionally, Black has enduring pressure against White's central d4-pawn. } ) 
+Qd7 $1 { By organizing my pieces this way, I would have taken the sting out of the pawn break. } 13. Qf3 { White could renew the threat by bringing their queen to support the break. } O-O-O $5 { Even if Black is unable to stop the break, castling long will take away White's chance at a kingside attack. } 14. f5 Bxf5 15. Nxf5 exf5 16. Qxf5 Qxf5 $1 { The mass exchange of pieces leaves the pawn break without teeth. } 17. Rxf5 f6 $1 { Black plays a break of his own, undermining the White centre. } 18. Ne4 fxe5 19. Rxe5 Rhe8 $11 { Black has no problems here, and if White is not careful their isolated queen's pawn on d4 might become a target in the future. One final and much rarer method to defend against a pawn break is by taking the most aggressive path. Let's take a look at what we mean with the next example. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967639/"]
+[Date "????.??.??"]
+[Round "39.6"]
+[White "7.2) Defending Versus Pawn Breaks"]
+[Black "Counter-Breaking"]
+[Result "*"]
+[FEN "r2qk2r/pp3pb1/2n1p1p1/3pP2p/2pP1PPn/N1P5/PPBBQ2P/R4RK1 w kq - 0 1"]
+
+ { Black has just played the move ...h7-h5. It turns out that the only good way for White to meet this move is through a break of their own! } 1. { -KEY- } f5 $1 { A case of attack being the best form of defense! White responds to the pawn break with a break of their own, which turns out to be much more powerful than the opponent's. } ( 1. h3 $2 { White would give away all of their advantage by defending the pawn. In fact, this would take away their possibility to ever play the f4-f5 pawn break. Let's show why this is the case: } hxg4 2. hxg4 Qb6 3. Rab1 O-O-O $1 { Black's king is now safe and the moment has passed. White should play a move like b2-b3 here, as this pawn break is now the most attractive given that Black's king has parked itself on the queenside. If instead White insists on the f4-f5 pawn break, their position would immediately collapse: } 4. f5 $2 gxf5 5. gxf5 Bxe5 $19 { Black is up a pawn and White's king is unlikely to survive the attack. } ) 
+ ( 1. g5 $2 { This move would be very anti-positional, as it leaves Black with a power outpost on f5. } Ne7 $15 { This is one possible continuation for Black. Next, they will pivot with their h4 knight to f5. The position is objectively around equal, but in practical terms it's hard to play for White as they lack a clear plan. } ) 
+hxg4 2. fxe6 $1 { With the in-between capture, White splits the enemy pawn chain in two. } Nf3+ { Black may have been banking on this check, but White has a strong reply. } ( 2... fxe6 $2 3. Qxg4 $18 { Black's position collapses as e6 and g6 are too weak. Additionally, White is threatening the move Bd2-g5 next, winning a piece. } ) 
+3. Rxf3 $1 ( 3. Kh1 $2 Rxh2 4. Qxh2 Nxh2 $19 { with a decisive material advantage. } ) 
+gxf3 4. exf7+ $1 { An important in-between move completes the winning sequence for White. From here the Black king will be unable to find a safe home. } Kxf7 { After } ( 4... Kf8 5. Qxf3 $18 { Material is roughly level but White has too many other advantages like a safer king, space, and the bishop pair. } ) 
+5. Qxf3+ Kg8 6. Rf1 $1 { Black has no good defense against the combined pressure on d5 and g6. } ( { But not } 6. Bxg6 $2 { , since after } Nxe5 $1 7. dxe5 Qb6 $13 { Black is back in the game. } ) 
+Ne7 $2 { Black tries to defend the g6 pawn, but gets mated: } 7. Qf7+ Kh7 8. Rf3 Qc8 9. e6 $18 { There is nothing to do against the threat of Rh3#. In this and the previous example, it was clear that the defending side needed to capture in response to the pawn break. Sometimes however, the question of whether you should capture the enemy pawn or whether it is best to ignore it is a lot less certain. Let's take a look at a couple of examples of this next. } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967640/"]
+[Date "????.??.??"]
+[Round "39.7"]
+[White "7.2) Defending Versus Pawn Breaks"]
+[Black "Ignoring vs Capturing 1"]
+[Result "*"]
+[FEN "r2q1rk1/1ppnn1bp/p2p2p1/3Ppp2/2P1P3/2N2Q1P/PPB2PP1/1RB2RK1 w - - 0 1"]
+
+ { Black has just played ...f5, forcing White to decide between capturing the pawn or ignoring it for now. } 1. { -KEY- } b4 $1 { The correct decision. White eyes up their own pawn break on the centre/queenside, which is where they have a large space advantage. A series of pawn exchanges on c5 would also open up the b-file, which is in White's favour as they already have a rook placed on b1. } ( 1. exf5 $2 { It would be a mistake to capture the pawn. In general, you will want to capture if you a) improve your piece activity and/or b) improve your structure. In this case, the capture would have the opposite effect on both. } Nxf5 { The knight is headed to the powerful d4 outpost. } ( 1. b4 gxf5 $5 { Black could instead have captured with the pawn, improving their structure. } ) 
+2. Be4 Nd4 3. Qd1 Nc5 $11 { Black has at least equality due to their powerful central knights. } ) 
+fxe4 ( 1... f4 $6 { The pawn advance is not scary as this would leave Black weak along the light squares. This would play into White's hands since they are the only side with the light-squared bishop. Besides this, White has the c4-c5 pawn break that is far more dangerous than Black's slow kingside attack. } ) 
+2. Qg4 $1 { White ignores the pawn for now, preferring to wait and capture it with the knight on the next move. } Nf5 3. Nxe4 Nd4 { Black has maneuvered their knight to the powerful d4 outpost, but this is not too worrying since White can play around this piece. Meanwhile, Black's passive bishop on g7 is a serious long-term problem. } 4. Bd3 $16 { In the near future White will break on the queenside with either b4-b5 or c4-c5. We'll close out the section with one more example, where you will have to decide for yourself how to meet the pawn break! } 
+ *
+
+[Event "The Positional Chess Patterns Manual"]
+[Site "https://www.chessable.com/variation/39967641/"]
+[Date "????.??.??"]
+[Round "39.8"]
+[White "7.2) Defending Versus Pawn Breaks"]
+[Black "Ignoring vs Capturing 2"]
+[Result "*"]
+[FEN "r4rk1/1nqbb1p1/1n1p3p/1ppPpp2/4P3/1PP2N1P/2B2PP1/1RBQRNK1 w - - 0 1"]
+
+ ( { Black has once again played the ...f5 pawn break. In this case, do you think it's best to play } 1. exf5 { or to support the centre with } 1. N1d2 $2 ) 
+1. { -KEY- } exf5 $1 { Correct! Here the situation is very different since White can target the light squares after a series of exchanges on f5. } ( 1. N1d2 $6 { Ignoring the pawn break here would not be a good idea. } f4 $1 2. c4 b4 $17 { White does not have much play anywhere on the board, and they are now lacking in space on the kingside. Unlike in the previous example where White had active possibilities on the queenside, here there is no such counterplay. To make matters worse, Black's light-squared bishop will assist an eventual pawn break on g4. } ) 
+Bxf5 2. Bxf5 $1 { Once the light-squared bishops come off, Black is left horribly imbalanced along the light squares. } Rxf5 3. Qd3 $1 Rf7 4. c4 $1 { Stabilising the centre, and challenging Black's remaining light-squared pawn. } ( 4. Qxb5 $6 Nxd5 $13 { is a lot less clear. } ) 
+b4 { Black keeps the b-file shut down. } 5. Ng3 $16 { White will likely play Bc1-e3 next, perhaps followed by Nf3-d2-e4. After this, they can contest the a-file with Rb1-a1. We can see how in this example, the pawn break proved disastrous for Black after the series of exchanges on f5. Your judgment of pawn breaks will improve as you develop your overall positional understanding, since each situation must be considered in the context of the various positional elements at play. So far in the chapter we have focused on pawn breaks, either as the attacking side or the defender. In the two sections that follow, we'll take a look at ways in which you can use your pawns to target the opponent's structure and minor pieces. See you there. } 
+ *
