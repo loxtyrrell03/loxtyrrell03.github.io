@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-19T23:35:49.235Z",
+  "generatedAt": "2026-07-20T00:50:19.373Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -16,6 +16,396 @@
     "Southall Congress 260620 U2400 player games/04 1900 - Mokhber-Garcia, Sebastian [cc Sebastian443 high]/sebastian white prep.pgn"
   ],
   "files": [
+    {
+      "type": "file",
+      "name": "Opening Books - GM Bestseller Shelf Catalogue",
+      "filename": "Opening Books - GM Bestseller Shelf Catalogue.pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/00 Shelf Guide/Opening Books - GM Bestseller Shelf Catalogue.pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/00%20Shelf%20Guide/Opening%20Books%20-%20GM%20Bestseller%20Shelf%20Catalogue.pdf",
+      "lastModified": 1784507151562.645,
+      "sizeBytes": 37722
+    },
+    {
+      "type": "file",
+      "name": "Jaan Ehlvest - Grandmaster Opening Preparation (Official Sample)",
+      "filename": "Jaan Ehlvest - Grandmaster Opening Preparation (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/01 General and Method/Jaan Ehlvest - Grandmaster Opening Preparation (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/01%20General%20and%20Method/Jaan%20Ehlvest%20-%20Grandmaster%20Opening%20Preparation%20(Official%20Sample).pdf",
+      "lastModified": 1784506629862.3765,
+      "sizeBytes": 167821
+    },
+    {
+      "type": "file",
+      "name": "Paul van der Sterren - FCO Fundamental Chess Openings (Official Sample)",
+      "filename": "Paul van der Sterren - FCO Fundamental Chess Openings (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/01 General and Method/Paul van der Sterren - FCO Fundamental Chess Openings (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/01%20General%20and%20Method/Paul%20van%20der%20Sterren%20-%20FCO%20Fundamental%20Chess%20Openings%20(Official%20Sample).pdf",
+      "lastModified": 1784506629526.5864,
+      "sizeBytes": 83151
+    },
+    {
+      "type": "file",
+      "name": "Parimarjan Negi - 1.e4 vs French Caro-Kann and Philidor (Official Sample)",
+      "filename": "Parimarjan Negi - 1.e4 vs French Caro-Kann and Philidor (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/02 White - 1.e4/Parimarjan Negi - 1.e4 vs French Caro-Kann and Philidor (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/02%20White%20-%201.e4/Parimarjan%20Negi%20-%201.e4%20vs%20French%20Caro-Kann%20and%20Philidor%20(Official%20Sample).pdf",
+      "lastModified": 1784506630325.5796,
+      "sizeBytes": 256163
+    },
+    {
+      "type": "file",
+      "name": "Parimarjan Negi - 1.e4 vs Minor Defences (Official Sample)",
+      "filename": "Parimarjan Negi - 1.e4 vs Minor Defences (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/02 White - 1.e4/Parimarjan Negi - 1.e4 vs Minor Defences (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/02%20White%20-%201.e4/Parimarjan%20Negi%20-%201.e4%20vs%20Minor%20Defences%20(Official%20Sample).pdf",
+      "lastModified": 1784506632059.865,
+      "sizeBytes": 138227
+    },
+    {
+      "type": "file",
+      "name": "Parimarjan Negi - 1.e4 vs the Sicilian I Najdorf (Official Sample)",
+      "filename": "Parimarjan Negi - 1.e4 vs the Sicilian I Najdorf (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/02 White - 1.e4/Parimarjan Negi - 1.e4 vs the Sicilian I Najdorf (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/02%20White%20-%201.e4/Parimarjan%20Negi%20-%201.e4%20vs%20the%20Sicilian%20I%20Najdorf%20(Official%20Sample).pdf",
+      "lastModified": 1784506630894.442,
+      "sizeBytes": 219057
+    },
+    {
+      "type": "file",
+      "name": "Parimarjan Negi - 1.e4 vs the Sicilian II (Official Sample)",
+      "filename": "Parimarjan Negi - 1.e4 vs the Sicilian II (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/02 White - 1.e4/Parimarjan Negi - 1.e4 vs the Sicilian II (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/02%20White%20-%201.e4/Parimarjan%20Negi%20-%201.e4%20vs%20the%20Sicilian%20II%20(Official%20Sample).pdf",
+      "lastModified": 1784506631400.8337,
+      "sizeBytes": 150596
+    },
+    {
+      "type": "file",
+      "name": "Parimarjan Negi - 1.e4 vs the Sicilian III (Official Sample)",
+      "filename": "Parimarjan Negi - 1.e4 vs the Sicilian III (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/02 White - 1.e4/Parimarjan Negi - 1.e4 vs the Sicilian III (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/02%20White%20-%201.e4/Parimarjan%20Negi%20-%201.e4%20vs%20the%20Sicilian%20III%20(Official%20Sample).pdf",
+      "lastModified": 1784506631825.798,
+      "sizeBytes": 178404
+    },
+    {
+      "type": "file",
+      "name": "Boris Avrukh - GM Repertoire 1A The Catalan (Official Sample)",
+      "filename": "Boris Avrukh - GM Repertoire 1A The Catalan (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/03 White - 1.d4/Boris Avrukh - GM Repertoire 1A The Catalan (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/03%20White%20-%201.d4/Boris%20Avrukh%20-%20GM%20Repertoire%201A%20The%20Catalan%20(Official%20Sample).pdf",
+      "lastModified": 1784506632387.1592,
+      "sizeBytes": 255235
+    },
+    {
+      "type": "file",
+      "name": "Boris Avrukh - GM Repertoire 1B The Queen's Gambit (Official Sample)",
+      "filename": "Boris Avrukh - GM Repertoire 1B The Queen's Gambit (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/03 White - 1.d4/Boris Avrukh - GM Repertoire 1B The Queen's Gambit (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/03%20White%20-%201.d4/Boris%20Avrukh%20-%20GM%20Repertoire%201B%20The%20Queen's%20Gambit%20(Official%20Sample).pdf",
+      "lastModified": 1784506632579.081,
+      "sizeBytes": 156706
+    },
+    {
+      "type": "file",
+      "name": "Boris Avrukh - GM Repertoire 2A King's Indian and Gruenfeld (Official Sample)",
+      "filename": "Boris Avrukh - GM Repertoire 2A King's Indian and Gruenfeld (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/03 White - 1.d4/Boris Avrukh - GM Repertoire 2A King's Indian and Gruenfeld (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/03%20White%20-%201.d4/Boris%20Avrukh%20-%20GM%20Repertoire%202A%20King's%20Indian%20and%20Gruenfeld%20(Official%20Sample).pdf",
+      "lastModified": 1784506632780.3953,
+      "sizeBytes": 157985
+    },
+    {
+      "type": "file",
+      "name": "Boris Avrukh - GM Repertoire 2B Dynamic Systems (Official Sample)",
+      "filename": "Boris Avrukh - GM Repertoire 2B Dynamic Systems (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/03 White - 1.d4/Boris Avrukh - GM Repertoire 2B Dynamic Systems (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/03%20White%20-%201.d4/Boris%20Avrukh%20-%20GM%20Repertoire%202B%20Dynamic%20Systems%20(Official%20Sample).pdf",
+      "lastModified": 1784506632948.1218,
+      "sizeBytes": 148900
+    },
+    {
+      "type": "file",
+      "name": "Victor Bologan - The Powerful Catalan (Official Sample)",
+      "filename": "Victor Bologan - The Powerful Catalan (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/03 White - 1.d4/Victor Bologan - The Powerful Catalan (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/03%20White%20-%201.d4/Victor%20Bologan%20-%20The%20Powerful%20Catalan%20(Official%20Sample).pdf",
+      "lastModified": 1784506633120.7593,
+      "sizeBytes": 199389
+    },
+    {
+      "type": "file",
+      "name": "Alexander Delchev - The Modern Reti (Official Sample)",
+      "filename": "Alexander Delchev - The Modern Reti (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/04 White - English and Reti/Alexander Delchev - The Modern Reti (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/04%20White%20-%20English%20and%20Reti/Alexander%20Delchev%20-%20The%20Modern%20Reti%20(Official%20Sample).pdf",
+      "lastModified": 1784506636230.6858,
+      "sizeBytes": 2049140
+    },
+    {
+      "type": "file",
+      "name": "Mihail Marin - English Opening Volume One (Official Sample)",
+      "filename": "Mihail Marin - English Opening Volume One (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/04 White - English and Reti/Mihail Marin - English Opening Volume One (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/04%20White%20-%20English%20and%20Reti/Mihail%20Marin%20-%20English%20Opening%20Volume%20One%20(Official%20Sample).pdf",
+      "lastModified": 1784506633268.7659,
+      "sizeBytes": 151796
+    },
+    {
+      "type": "file",
+      "name": "Mihail Marin - English Opening Volume Three (Official Sample)",
+      "filename": "Mihail Marin - English Opening Volume Three (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/04 White - English and Reti/Mihail Marin - English Opening Volume Three (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/04%20White%20-%20English%20and%20Reti/Mihail%20Marin%20-%20English%20Opening%20Volume%20Three%20(Official%20Sample).pdf",
+      "lastModified": 1784506633594.8408,
+      "sizeBytes": 130002
+    },
+    {
+      "type": "file",
+      "name": "Mihail Marin - English Opening Volume Two (Official Sample)",
+      "filename": "Mihail Marin - English Opening Volume Two (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/04 White - English and Reti/Mihail Marin - English Opening Volume Two (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/04%20White%20-%20English%20and%20Reti/Mihail%20Marin%20-%20English%20Opening%20Volume%20Two%20(Official%20Sample).pdf",
+      "lastModified": 1784506633450.0073,
+      "sizeBytes": 201961
+    },
+    {
+      "type": "file",
+      "name": "Michael Roiz - The Berlin Defence (Official Sample)",
+      "filename": "Michael Roiz - The Berlin Defence (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/05 Black - 1.e4 e5/Michael Roiz - The Berlin Defence (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/05%20Black%20-%201.e4%20e5/Michael%20Roiz%20-%20The%20Berlin%20Defence%20(Official%20Sample).pdf",
+      "lastModified": 1784506644925.1687,
+      "sizeBytes": 136734
+    },
+    {
+      "type": "file",
+      "name": "Victor Bologan - Black Weapons in the Open Games (Official Sample)",
+      "filename": "Victor Bologan - Black Weapons in the Open Games (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/05 Black - 1.e4 e5/Victor Bologan - Black Weapons in the Open Games (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/05%20Black%20-%201.e4%20e5/Victor%20Bologan%20-%20Black%20Weapons%20in%20the%20Open%20Games%20(Official%20Sample).pdf",
+      "lastModified": 1784506642988.8025,
+      "sizeBytes": 7125566
+    },
+    {
+      "type": "file",
+      "name": "Victor Bologan - Ruy Lopez for Black (Official Sample)",
+      "filename": "Victor Bologan - Ruy Lopez for Black (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/05 Black - 1.e4 e5/Victor Bologan - Ruy Lopez for Black (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/05%20Black%20-%201.e4%20e5/Victor%20Bologan%20-%20Ruy%20Lopez%20for%20Black%20(Official%20Sample).pdf",
+      "lastModified": 1784506644742.9019,
+      "sizeBytes": 1626942
+    },
+    {
+      "type": "file",
+      "name": "Adrien Demuth - The Modernized Sicilian Kan (Official Sample)",
+      "filename": "Adrien Demuth - The Modernized Sicilian Kan (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/06 Black - Sicilian/Adrien Demuth - The Modernized Sicilian Kan (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/06%20Black%20-%20Sicilian/Adrien%20Demuth%20-%20The%20Modernized%20Sicilian%20Kan%20(Official%20Sample).pdf",
+      "lastModified": 1784506658664.2715,
+      "sizeBytes": 8601372
+    },
+    {
+      "type": "file",
+      "name": "Antonios Pavlidis - The Sicilian Taimanov (Official Sample)",
+      "filename": "Antonios Pavlidis - The Sicilian Taimanov (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/06 Black - Sicilian/Antonios Pavlidis - The Sicilian Taimanov (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/06%20Black%20-%20Sicilian/Antonios%20Pavlidis%20-%20The%20Sicilian%20Taimanov%20(Official%20Sample).pdf",
+      "lastModified": 1784506645132.161,
+      "sizeBytes": 198105
+    },
+    {
+      "type": "file",
+      "name": "Emanuel Berg - French Defence Volume Three (Official Sample)",
+      "filename": "Emanuel Berg - French Defence Volume Three (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/07 Black - Other vs 1.e4/Emanuel Berg - French Defence Volume Three (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/07%20Black%20-%20Other%20vs%201.e4/Emanuel%20Berg%20-%20French%20Defence%20Volume%20Three%20(Official%20Sample).pdf",
+      "lastModified": 1784506660068.525,
+      "sizeBytes": 235215
+    },
+    {
+      "type": "file",
+      "name": "Emanuel Berg - French Defence Volume Two (Official Sample)",
+      "filename": "Emanuel Berg - French Defence Volume Two (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/07 Black - Other vs 1.e4/Emanuel Berg - French Defence Volume Two (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/07%20Black%20-%20Other%20vs%201.e4/Emanuel%20Berg%20-%20French%20Defence%20Volume%20Two%20(Official%20Sample).pdf",
+      "lastModified": 1784506659759.397,
+      "sizeBytes": 222563
+    },
+    {
+      "type": "file",
+      "name": "Mihail Marin - The Pirc Defence (Official Sample)",
+      "filename": "Mihail Marin - The Pirc Defence (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/07 Black - Other vs 1.e4/Mihail Marin - The Pirc Defence (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/07%20Black%20-%20Other%20vs%201.e4/Mihail%20Marin%20-%20The%20Pirc%20Defence%20(Official%20Sample).pdf",
+      "lastModified": 1784506660225.8428,
+      "sizeBytes": 137907
+    },
+    {
+      "type": "file",
+      "name": "Tiger Hillarp Persson - The Modern Tiger (Official Sample)",
+      "filename": "Tiger Hillarp Persson - The Modern Tiger (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/07 Black - Other vs 1.e4/Tiger Hillarp Persson - The Modern Tiger (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/07%20Black%20-%20Other%20vs%201.e4/Tiger%20Hillarp%20Persson%20-%20The%20Modern%20Tiger%20(Official%20Sample).pdf",
+      "lastModified": 1784506660546.8657,
+      "sizeBytes": 283350
+    },
+    {
+      "type": "file",
+      "name": "Victor Bologan - Bologan's Caro-Kann (Official Sample)",
+      "filename": "Victor Bologan - Bologan's Caro-Kann (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/07 Black - Other vs 1.e4/Victor Bologan - Bologan's Caro-Kann (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/07%20Black%20-%20Other%20vs%201.e4/Victor%20Bologan%20-%20Bologan's%20Caro-Kann%20(Official%20Sample).pdf",
+      "lastModified": 1784506659348.8691,
+      "sizeBytes": 293432
+    },
+    {
+      "type": "file",
+      "name": "Alexander Delchev and Evgenij Agrest - The Safest Gruenfeld (Official Sample)",
+      "filename": "Alexander Delchev and Evgenij Agrest - The Safest Gruenfeld (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/08 Black - 1.d4 and Flank/Alexander Delchev and Evgenij Agrest - The Safest Gruenfeld (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/08%20Black%20-%201.d4%20and%20Flank/Alexander%20Delchev%20and%20Evgenij%20Agrest%20-%20The%20Safest%20Gruenfeld%20(Official%20Sample).pdf",
+      "lastModified": 1784506662514.6147,
+      "sizeBytes": 1743219
+    },
+    {
+      "type": "file",
+      "name": "Gawain Jones - King's Indian 1 (Official Sample)",
+      "filename": "Gawain Jones - King's Indian 1 (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/08 Black - 1.d4 and Flank/Gawain Jones - King's Indian 1 (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/08%20Black%20-%201.d4%20and%20Flank/Gawain%20Jones%20-%20King's%20Indian%201%20(Official%20Sample).pdf",
+      "lastModified": 1784506660717.864,
+      "sizeBytes": 150624
+    },
+    {
+      "type": "file",
+      "name": "Gawain Jones - King's Indian 2 (Official Sample)",
+      "filename": "Gawain Jones - King's Indian 2 (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/08 Black - 1.d4 and Flank/Gawain Jones - King's Indian 2 (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/08%20Black%20-%201.d4%20and%20Flank/Gawain%20Jones%20-%20King's%20Indian%202%20(Official%20Sample).pdf",
+      "lastModified": 1784506660838.9214,
+      "sizeBytes": 139535
+    },
+    {
+      "type": "file",
+      "name": "Lars Schandorff - The Semi-Slav (Official Sample)",
+      "filename": "Lars Schandorff - The Semi-Slav (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/08 Black - 1.d4 and Flank/Lars Schandorff - The Semi-Slav (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/08%20Black%20-%201.d4%20and%20Flank/Lars%20Schandorff%20-%20The%20Semi-Slav%20(Official%20Sample).pdf",
+      "lastModified": 1784506661239.2793,
+      "sizeBytes": 151944
+    },
+    {
+      "type": "file",
+      "name": "Marian Petrov - The Modern Benoni (Official Sample)",
+      "filename": "Marian Petrov - The Modern Benoni (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/08 Black - 1.d4 and Flank/Marian Petrov - The Modern Benoni (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/08%20Black%20-%201.d4%20and%20Flank/Marian%20Petrov%20-%20The%20Modern%20Benoni%20(Official%20Sample).pdf",
+      "lastModified": 1784506661393.4976,
+      "sizeBytes": 229511
+    },
+    {
+      "type": "file",
+      "name": "Michael Roiz - The Nimzo-Indian Defence (Official Sample)",
+      "filename": "Michael Roiz - The Nimzo-Indian Defence (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/08 Black - 1.d4 and Flank/Michael Roiz - The Nimzo-Indian Defence (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/08%20Black%20-%201.d4%20and%20Flank/Michael%20Roiz%20-%20The%20Nimzo-Indian%20Defence%20(Official%20Sample).pdf",
+      "lastModified": 1784506660980.5742,
+      "sizeBytes": 155001
+    },
+    {
+      "type": "file",
+      "name": "Michael Roiz - The Queen's Indian Defence (Official Sample)",
+      "filename": "Michael Roiz - The Queen's Indian Defence (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/08 Black - 1.d4 and Flank/Michael Roiz - The Queen's Indian Defence (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/08%20Black%20-%201.d4%20and%20Flank/Michael%20Roiz%20-%20The%20Queen's%20Indian%20Defence%20(Official%20Sample).pdf",
+      "lastModified": 1784506661114.9436,
+      "sizeBytes": 134572
+    },
+    {
+      "type": "file",
+      "name": "Mihail Marin - Dutch Sidelines (Official Sample)",
+      "filename": "Mihail Marin - Dutch Sidelines (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/08 Black - 1.d4 and Flank/Mihail Marin - Dutch Sidelines (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/08%20Black%20-%201.d4%20and%20Flank/Mihail%20Marin%20-%20Dutch%20Sidelines%20(Official%20Sample).pdf",
+      "lastModified": 1784506661590.6018,
+      "sizeBytes": 138881
+    },
+    {
+      "type": "file",
+      "name": "Mihail Marin - Leningrad Dutch (Official Sample)",
+      "filename": "Mihail Marin - Leningrad Dutch (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/08 Black - 1.d4 and Flank/Mihail Marin - Leningrad Dutch (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/08%20Black%20-%201.d4%20and%20Flank/Mihail%20Marin%20-%20Leningrad%20Dutch%20(Official%20Sample).pdf",
+      "lastModified": 1784506661489.8975,
+      "sizeBytes": 139473
+    },
+    {
+      "type": "file",
+      "name": "Boris Avrukh - Beating 1.d4 Sidelines (Official Sample)",
+      "filename": "Boris Avrukh - Beating 1.d4 Sidelines (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/09 Sidelines and Specialists/Boris Avrukh - Beating 1.d4 Sidelines (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/09%20Sidelines%20and%20Specialists/Boris%20Avrukh%20-%20Beating%201.d4%20Sidelines%20(Official%20Sample).pdf",
+      "lastModified": 1784506662769.3816,
+      "sizeBytes": 137459
+    },
+    {
+      "type": "file",
+      "name": "Kiril Georgiev - Fighting the London System (Official Sample)",
+      "filename": "Kiril Georgiev - Fighting the London System (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/09 Sidelines and Specialists/Kiril Georgiev - Fighting the London System (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/09%20Sidelines%20and%20Specialists/Kiril%20Georgiev%20-%20Fighting%20the%20London%20System%20(Official%20Sample).pdf",
+      "lastModified": 1784506663225.0972,
+      "sizeBytes": 111509
+    },
+    {
+      "type": "file",
+      "name": "Victor Mikhalevski - Beating Minor Openings (Official Sample)",
+      "filename": "Victor Mikhalevski - Beating Minor Openings (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/Opening Books/09 Sidelines and Specialists/Victor Mikhalevski - Beating Minor Openings (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/Opening%20Books/09%20Sidelines%20and%20Specialists/Victor%20Mikhalevski%20-%20Beating%20Minor%20Openings%20(Official%20Sample).pdf",
+      "lastModified": 1784506662653.0962,
+      "sizeBytes": 126236
+    },
     {
       "type": "file",
       "name": "game 1",
@@ -541,8 +931,8 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/00 Verbytski, Oleg/00 Verbytski, Oleg - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/00%20Verbytski%2C%20Oleg/00%20Verbytski%2C%20Oleg%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/00 Verbytski, Oleg - Southall U2400 OTB prep/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/00%20Verbytski%2C%20Oleg%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
       "lastModified": 1782165568000,
       "sizeBytes": 1421223
     },
@@ -551,18 +941,8 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/00 Verbytski, Oleg/06 Verbytski, Oleg - Chess.com demyan7777/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/00%20Verbytski%2C%20Oleg/06%20Verbytski%2C%20Oleg%20-%20Chess.com%20demyan7777/chunk-001.pgn",
-      "lastModified": 1782165668000,
-      "sizeBytes": 2348277
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/01 Figeac, Aurelien/01 Figeac, Aurelien - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/01%20Figeac%2C%20Aurelien/01%20Figeac%2C%20Aurelien%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/01 Figeac, Aurelien - Southall U2400 OTB prep/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/01%20Figeac%2C%20Aurelien%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
       "lastModified": 1782165819000,
       "sizeBytes": 113745
     },
@@ -571,8 +951,8 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma/02 Onuoha, Obioma - Chess.com obiosky/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma/02%20Onuoha%2C%20Obioma%20-%20Chess.com%20obiosky/chunk-001.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma - Chess.com obiosky/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma%20-%20Chess.com%20obiosky/chunk-001.pgn",
       "lastModified": 1782166180000,
       "sizeBytes": 26214185
     },
@@ -581,8 +961,8 @@
       "name": "chunk-002",
       "filename": "chunk-002.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma/02 Onuoha, Obioma - Chess.com obiosky/chunk-002.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma/02%20Onuoha%2C%20Obioma%20-%20Chess.com%20obiosky/chunk-002.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma - Chess.com obiosky/chunk-002.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma%20-%20Chess.com%20obiosky/chunk-002.pgn",
       "lastModified": 1782166180000,
       "sizeBytes": 1884193
     },
@@ -591,8 +971,18 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma/02 Onuoha, Obioma - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma/02%20Onuoha%2C%20Obioma%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma - Lichess obiosky/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma%20-%20Lichess%20obiosky/chunk-001.pgn",
+      "lastModified": 1782167044000,
+      "sizeBytes": 6691003
+    },
+    {
+      "type": "file",
+      "name": "chunk-001",
+      "filename": "chunk-001.pgn",
+      "extension": "pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma - Southall U2400 OTB prep/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
       "lastModified": 1782214075000,
       "sizeBytes": 352771
     },
@@ -601,8 +991,8 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/03 Lapidus, Alexey M/03 Lapidus, Alexey M. - Chess.com alex_lapidus (stale identity)/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/03%20Lapidus%2C%20Alexey%20M/03%20Lapidus%2C%20Alexey%20M.%20-%20Chess.com%20alex_lapidus%20(stale%20identity)/chunk-001.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/03 Lapidus, Alexey M. - Chess.com alex_lapidus (stale identity)/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/03%20Lapidus%2C%20Alexey%20M.%20-%20Chess.com%20alex_lapidus%20(stale%20identity)/chunk-001.pgn",
       "lastModified": 1782216846000,
       "sizeBytes": 274261
     },
@@ -611,8 +1001,8 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/03 Lapidus, Alexey M/03 Lapidus, Alexey M. - Lichess ALexChess2010_2022/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/03%20Lapidus%2C%20Alexey%20M/03%20Lapidus%2C%20Alexey%20M.%20-%20Lichess%20ALexChess2010_2022/chunk-001.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/03 Lapidus, Alexey M. - Lichess ALexChess2010_2022/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/03%20Lapidus%2C%20Alexey%20M.%20-%20Lichess%20ALexChess2010_2022/chunk-001.pgn",
       "lastModified": 1782221202000,
       "sizeBytes": 4144056
     },
@@ -621,8 +1011,8 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/03 Lapidus, Alexey M/03 Lapidus, Alexey M. - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/03%20Lapidus%2C%20Alexey%20M/03%20Lapidus%2C%20Alexey%20M.%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/03 Lapidus, Alexey M. - Southall U2400 OTB prep/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/03%20Lapidus%2C%20Alexey%20M.%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
       "lastModified": 1782223503000,
       "sizeBytes": 397658
     },
@@ -631,8 +1021,8 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian/04 Mokhber-Garcia, Sebastian - Chess.com Sebastian443/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Chess.com%20Sebastian443/chunk-001.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian - Chess.com Sebastian443/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Chess.com%20Sebastian443/chunk-001.pgn",
       "lastModified": 1782225282000,
       "sizeBytes": 26212203
     },
@@ -641,8 +1031,8 @@
       "name": "chunk-002",
       "filename": "chunk-002.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian/04 Mokhber-Garcia, Sebastian - Chess.com Sebastian443/chunk-002.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Chess.com%20Sebastian443/chunk-002.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian - Chess.com Sebastian443/chunk-002.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Chess.com%20Sebastian443/chunk-002.pgn",
       "lastModified": 1782225282000,
       "sizeBytes": 26214170
     },
@@ -651,8 +1041,8 @@
       "name": "chunk-003",
       "filename": "chunk-003.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian/04 Mokhber-Garcia, Sebastian - Chess.com Sebastian443/chunk-003.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Chess.com%20Sebastian443/chunk-003.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian - Chess.com Sebastian443/chunk-003.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Chess.com%20Sebastian443/chunk-003.pgn",
       "lastModified": 1782225282000,
       "sizeBytes": 6516827
     },
@@ -661,8 +1051,8 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian/04 Mokhber-Garcia, Sebastian - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian - Southall U2400 OTB prep/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
       "lastModified": 1782227087000,
       "sizeBytes": 1010690
     },
@@ -671,8 +1061,8 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/05 Balmond, Tom/05 Balmond, Tom - Chess.com Tom_Balmond/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/05%20Balmond%2C%20Tom/05%20Balmond%2C%20Tom%20-%20Chess.com%20Tom_Balmond/chunk-001.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/05 Balmond, Tom - Chess.com Tom_Balmond/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/05%20Balmond%2C%20Tom%20-%20Chess.com%20Tom_Balmond/chunk-001.pgn",
       "lastModified": 1782227999000,
       "sizeBytes": 3093069
     },
@@ -681,10 +1071,20 @@
       "name": "chunk-001",
       "filename": "chunk-001.pgn",
       "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/05 Balmond, Tom/05 Balmond, Tom - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/05%20Balmond%2C%20Tom/05%20Balmond%2C%20Tom%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/05 Balmond, Tom - Southall U2400 OTB prep/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/05%20Balmond%2C%20Tom%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
       "lastModified": 1782228271000,
       "sizeBytes": 310605
+    },
+    {
+      "type": "file",
+      "name": "chunk-001",
+      "filename": "chunk-001.pgn",
+      "extension": "pgn",
+      "path": "Databases/Desktop/Southall Congress 260620 U2400/06 Verbytski, Oleg - Chess.com demyan7777/chunk-001.pgn",
+      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/06%20Verbytski%2C%20Oleg%20-%20Chess.com%20demyan7777/chunk-001.pgn",
+      "lastModified": 1782165668000,
+      "sizeBytes": 2348277
     },
     {
       "type": "file",
