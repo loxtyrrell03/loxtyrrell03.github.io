@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-20T00:50:19.373Z",
+  "generatedAt": "2026-07-20T01:48:03.606Z",
   "sourceName": "EnCroissant",
   "pinnedPaths": [
     "My classical games",
@@ -16,6 +16,586 @@
     "Southall Congress 260620 U2400 player games/04 1900 - Mokhber-Garcia, Sebastian [cc Sebastian443 high]/sebastian white prep.pgn"
   ],
   "files": [
+    {
+      "type": "file",
+      "name": "AI Chess Coach Library - Complete Bestseller Shelf Catalogue",
+      "filename": "AI Chess Coach Library - Complete Bestseller Shelf Catalogue.pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/00 Master Library Guide/AI Chess Coach Library - Complete Bestseller Shelf Catalogue.pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/00%20Master%20Library%20Guide/AI%20Chess%20Coach%20Library%20-%20Complete%20Bestseller%20Shelf%20Catalogue.pdf",
+      "lastModified": 1784508714120.4292,
+      "sizeBytes": 117221
+    },
+    {
+      "type": "file",
+      "name": "Boris Gelfand and Jacob Aagaard - Dynamic Decision Making in Chess (Official Sample)",
+      "filename": "Boris Gelfand and Jacob Aagaard - Dynamic Decision Making in Chess (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/01 Strategy and Positional Play/Boris Gelfand and Jacob Aagaard - Dynamic Decision Making in Chess (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/01%20Strategy%20and%20Positional%20Play/Boris%20Gelfand%20and%20Jacob%20Aagaard%20-%20Dynamic%20Decision%20Making%20in%20Chess%20(Official%20Sample).pdf",
+      "lastModified": 1784508563460.604,
+      "sizeBytes": 184815
+    },
+    {
+      "type": "file",
+      "name": "Boris Gelfand and Jacob Aagaard - Technical Decision Making in Chess (Official Sample)",
+      "filename": "Boris Gelfand and Jacob Aagaard - Technical Decision Making in Chess (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/01 Strategy and Positional Play/Boris Gelfand and Jacob Aagaard - Technical Decision Making in Chess (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/01%20Strategy%20and%20Positional%20Play/Boris%20Gelfand%20and%20Jacob%20Aagaard%20-%20Technical%20Decision%20Making%20in%20Chess%20(Official%20Sample).pdf",
+      "lastModified": 1784508563536.5637,
+      "sizeBytes": 252147
+    },
+    {
+      "type": "file",
+      "name": "Davorin Kuljasevic - Beyond Material (Official Sample)",
+      "filename": "Davorin Kuljasevic - Beyond Material (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/01 Strategy and Positional Play/Davorin Kuljasevic - Beyond Material (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/01%20Strategy%20and%20Positional%20Play/Davorin%20Kuljasevic%20-%20Beyond%20Material%20(Official%20Sample).pdf",
+      "lastModified": 1784508564111.346,
+      "sizeBytes": 286159
+    },
+    {
+      "type": "file",
+      "name": "Jacob Aagaard - Grandmaster Preparation - Strategic Play (Official Sample)",
+      "filename": "Jacob Aagaard - Grandmaster Preparation - Strategic Play (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/01 Strategy and Positional Play/Jacob Aagaard - Grandmaster Preparation - Strategic Play (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/01%20Strategy%20and%20Positional%20Play/Jacob%20Aagaard%20-%20Grandmaster%20Preparation%20-%20Strategic%20Play%20(Official%20Sample).pdf",
+      "lastModified": 1784508563481.132,
+      "sizeBytes": 242211
+    },
+    {
+      "type": "file",
+      "name": "Jan Markos - Under the Surface, Second Edition (Official Sample)",
+      "filename": "Jan Markos - Under the Surface, Second Edition (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/01 Strategy and Positional Play/Jan Markos - Under the Surface, Second Edition (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/01%20Strategy%20and%20Positional%20Play/Jan%20Markos%20-%20Under%20the%20Surface%2C%20Second%20Edition%20(Official%20Sample).pdf",
+      "lastModified": 1784508564111.346,
+      "sizeBytes": 380445
+    },
+    {
+      "type": "file",
+      "name": "Johan Hellsten - Mastering Chess Strategy (Official Sample)",
+      "filename": "Johan Hellsten - Mastering Chess Strategy (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/01 Strategy and Positional Play/Johan Hellsten - Mastering Chess Strategy (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/01%20Strategy%20and%20Positional%20Play/Johan%20Hellsten%20-%20Mastering%20Chess%20Strategy%20(Official%20Sample).pdf",
+      "lastModified": 1784508564197.5232,
+      "sizeBytes": 299455
+    },
+    {
+      "type": "file",
+      "name": "Konstantin Sakaev and Konstantin Landa - The Complete Manual of Positional Chess, Volume 1 (Official Sample)",
+      "filename": "Konstantin Sakaev and Konstantin Landa - The Complete Manual of Positional Chess, Volume 1 (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/01 Strategy and Positional Play/Konstantin Sakaev and Konstantin Landa - The Complete Manual of Positional Chess, Volume 1 (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/01%20Strategy%20and%20Positional%20Play/Konstantin%20Sakaev%20and%20Konstantin%20Landa%20-%20The%20Complete%20Manual%20of%20Positional%20Chess%2C%20Volume%201%20(Official%20Sample).pdf",
+      "lastModified": 1784508563517.4368,
+      "sizeBytes": 292368
+    },
+    {
+      "type": "file",
+      "name": "Konstantin Sakaev and Konstantin Landa - The Complete Manual of Positional Chess, Volume 2 (Official Sample)",
+      "filename": "Konstantin Sakaev and Konstantin Landa - The Complete Manual of Positional Chess, Volume 2 (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/01 Strategy and Positional Play/Konstantin Sakaev and Konstantin Landa - The Complete Manual of Positional Chess, Volume 2 (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/01%20Strategy%20and%20Positional%20Play/Konstantin%20Sakaev%20and%20Konstantin%20Landa%20-%20The%20Complete%20Manual%20of%20Positional%20Chess%2C%20Volume%202%20(Official%20Sample).pdf",
+      "lastModified": 1784508563768.9905,
+      "sizeBytes": 295521
+    },
+    {
+      "type": "file",
+      "name": "Mauricio Flores Rios - Chess Imbalances - A Grandmaster Guide (Official Sample)",
+      "filename": "Mauricio Flores Rios - Chess Imbalances - A Grandmaster Guide (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/01 Strategy and Positional Play/Mauricio Flores Rios - Chess Imbalances - A Grandmaster Guide (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/01%20Strategy%20and%20Positional%20Play/Mauricio%20Flores%20Rios%20-%20Chess%20Imbalances%20-%20A%20Grandmaster%20Guide%20(Official%20Sample).pdf",
+      "lastModified": 1784508563537.0647,
+      "sizeBytes": 296509
+    },
+    {
+      "type": "file",
+      "name": "Mauricio Flores Rios - Chess Structures - A Grandmaster Guide (Official Sample)",
+      "filename": "Mauricio Flores Rios - Chess Structures - A Grandmaster Guide (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/01 Strategy and Positional Play/Mauricio Flores Rios - Chess Structures - A Grandmaster Guide (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/01%20Strategy%20and%20Positional%20Play/Mauricio%20Flores%20Rios%20-%20Chess%20Structures%20-%20A%20Grandmaster%20Guide%20(Official%20Sample).pdf",
+      "lastModified": 1784508563479.1304,
+      "sizeBytes": 182136
+    },
+    {
+      "type": "file",
+      "name": "Sam Shankland - Small Steps 2 Success (Official Sample)",
+      "filename": "Sam Shankland - Small Steps 2 Success (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/01 Strategy and Positional Play/Sam Shankland - Small Steps 2 Success (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/01%20Strategy%20and%20Positional%20Play/Sam%20Shankland%20-%20Small%20Steps%202%20Success%20(Official%20Sample).pdf",
+      "lastModified": 1784508563685.2493,
+      "sizeBytes": 134317
+    },
+    {
+      "type": "file",
+      "name": "Alexander Panchenko - Mastering Chess Middlegames (Official Sample)",
+      "filename": "Alexander Panchenko - Mastering Chess Middlegames (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/02 Middlegame and Pawn Structures/Alexander Panchenko - Mastering Chess Middlegames (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/02%20Middlegame%20and%20Pawn%20Structures/Alexander%20Panchenko%20-%20Mastering%20Chess%20Middlegames%20(Official%20Sample).pdf",
+      "lastModified": 1784508564259.385,
+      "sizeBytes": 237196
+    },
+    {
+      "type": "file",
+      "name": "Ivan Sokolov - Chess Middlegame Strategies, Volume 1 (Official Sample)",
+      "filename": "Ivan Sokolov - Chess Middlegame Strategies, Volume 1 (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/02 Middlegame and Pawn Structures/Ivan Sokolov - Chess Middlegame Strategies, Volume 1 (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/02%20Middlegame%20and%20Pawn%20Structures/Ivan%20Sokolov%20-%20Chess%20Middlegame%20Strategies%2C%20Volume%201%20(Official%20Sample).pdf",
+      "lastModified": 1784508564274.9058,
+      "sizeBytes": 166766
+    },
+    {
+      "type": "file",
+      "name": "Ivan Sokolov - Winning Chess Middlegames, Revised Edition (Official Sample)",
+      "filename": "Ivan Sokolov - Winning Chess Middlegames, Revised Edition (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/02 Middlegame and Pawn Structures/Ivan Sokolov - Winning Chess Middlegames, Revised Edition (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/02%20Middlegame%20and%20Pawn%20Structures/Ivan%20Sokolov%20-%20Winning%20Chess%20Middlegames%2C%20Revised%20Edition%20(Official%20Sample).pdf",
+      "lastModified": 1784508564282.418,
+      "sizeBytes": 735169
+    },
+    {
+      "type": "file",
+      "name": "Jacob Aagaard and Renier Castellanos - Mastering Chess Exchanges (Official Sample)",
+      "filename": "Jacob Aagaard and Renier Castellanos - Mastering Chess Exchanges (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/02 Middlegame and Pawn Structures/Jacob Aagaard and Renier Castellanos - Mastering Chess Exchanges (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/02%20Middlegame%20and%20Pawn%20Structures/Jacob%20Aagaard%20and%20Renier%20Castellanos%20-%20Mastering%20Chess%20Exchanges%20(Official%20Sample).pdf",
+      "lastModified": 1784508564394.0247,
+      "sizeBytes": 276690
+    },
+    {
+      "type": "file",
+      "name": "Johan Hellsten - Understanding Chess Exchanges (Official Sample)",
+      "filename": "Johan Hellsten - Understanding Chess Exchanges (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/02 Middlegame and Pawn Structures/Johan Hellsten - Understanding Chess Exchanges (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/02%20Middlegame%20and%20Pawn%20Structures/Johan%20Hellsten%20-%20Understanding%20Chess%20Exchanges%20(Official%20Sample).pdf",
+      "lastModified": 1784508564505.1157,
+      "sizeBytes": 701242
+    },
+    {
+      "type": "file",
+      "name": "John Nunn - Understanding Chess Middlegames (Official Sample)",
+      "filename": "John Nunn - Understanding Chess Middlegames (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/02 Middlegame and Pawn Structures/John Nunn - Understanding Chess Middlegames (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/02%20Middlegame%20and%20Pawn%20Structures/John%20Nunn%20-%20Understanding%20Chess%20Middlegames%20(Official%20Sample).pdf",
+      "lastModified": 1784508564491.5981,
+      "sizeBytes": 78166
+    },
+    {
+      "type": "file",
+      "name": "Jorg Hickl - The Power of Pawns (Official Sample)",
+      "filename": "Jorg Hickl - The Power of Pawns (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/02 Middlegame and Pawn Structures/Jorg Hickl - The Power of Pawns (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/02%20Middlegame%20and%20Pawn%20Structures/Jorg%20Hickl%20-%20The%20Power%20of%20Pawns%20(Official%20Sample).pdf",
+      "lastModified": 1784508564469.5676,
+      "sizeBytes": 202701
+    },
+    {
+      "type": "file",
+      "name": "Axel Smith - Pump Up Your Rating (Official Sample)",
+      "filename": "Axel Smith - Pump Up Your Rating (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/03 Thinking and Calculation/Axel Smith - Pump Up Your Rating (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/03%20Thinking%20and%20Calculation/Axel%20Smith%20-%20Pump%20Up%20Your%20Rating%20(Official%20Sample).pdf",
+      "lastModified": 1784508565046.8706,
+      "sizeBytes": 276276
+    },
+    {
+      "type": "file",
+      "name": "Barry Hymer and Peter Wells - Chess Improvement - It's All in the Mindset (Official Sample)",
+      "filename": "Barry Hymer and Peter Wells - Chess Improvement - It's All in the Mindset (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/03 Thinking and Calculation/Barry Hymer and Peter Wells - Chess Improvement - It's All in the Mindset (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/03%20Thinking%20and%20Calculation/Barry%20Hymer%20and%20Peter%20Wells%20-%20Chess%20Improvement%20-%20It's%20All%20in%20the%20Mindset%20(Official%20Sample).pdf",
+      "lastModified": 1784508565866.4963,
+      "sizeBytes": 1368908
+    },
+    {
+      "type": "file",
+      "name": "Davorin Kuljasevic - How to Study Chess on Your Own (Official Sample)",
+      "filename": "Davorin Kuljasevic - How to Study Chess on Your Own (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/03 Thinking and Calculation/Davorin Kuljasevic - How to Study Chess on Your Own (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/03%20Thinking%20and%20Calculation/Davorin%20Kuljasevic%20-%20How%20to%20Study%20Chess%20on%20Your%20Own%20(Official%20Sample).pdf",
+      "lastModified": 1784508565054.4314,
+      "sizeBytes": 314360
+    },
+    {
+      "type": "file",
+      "name": "Jacob Aagaard - Grandmaster Preparation - Calculation (Official Sample)",
+      "filename": "Jacob Aagaard - Grandmaster Preparation - Calculation (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/03 Thinking and Calculation/Jacob Aagaard - Grandmaster Preparation - Calculation (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/03%20Thinking%20and%20Calculation/Jacob%20Aagaard%20-%20Grandmaster%20Preparation%20-%20Calculation%20(Official%20Sample).pdf",
+      "lastModified": 1784508564647.9424,
+      "sizeBytes": 609244
+    },
+    {
+      "type": "file",
+      "name": "Jacob Aagaard - Grandmaster Preparation - Thinking Inside the Box (Official Sample)",
+      "filename": "Jacob Aagaard - Grandmaster Preparation - Thinking Inside the Box (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/03 Thinking and Calculation/Jacob Aagaard - Grandmaster Preparation - Thinking Inside the Box (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/03%20Thinking%20and%20Calculation/Jacob%20Aagaard%20-%20Grandmaster%20Preparation%20-%20Thinking%20Inside%20the%20Box%20(Official%20Sample).pdf",
+      "lastModified": 1784508564565.086,
+      "sizeBytes": 252963
+    },
+    {
+      "type": "file",
+      "name": "Jan Markos and David Navara - The Secret Ingredient (Official Sample)",
+      "filename": "Jan Markos and David Navara - The Secret Ingredient (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/03 Thinking and Calculation/Jan Markos and David Navara - The Secret Ingredient (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/03%20Thinking%20and%20Calculation/Jan%20Markos%20and%20David%20Navara%20-%20The%20Secret%20Ingredient%20(Official%20Sample).pdf",
+      "lastModified": 1784508565062.9448,
+      "sizeBytes": 214484
+    },
+    {
+      "type": "file",
+      "name": "Jonathan Rowson - Chess for Zebras (Official Sample)",
+      "filename": "Jonathan Rowson - Chess for Zebras (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/03 Thinking and Calculation/Jonathan Rowson - Chess for Zebras (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/03%20Thinking%20and%20Calculation/Jonathan%20Rowson%20-%20Chess%20for%20Zebras%20(Official%20Sample).pdf",
+      "lastModified": 1784508565199.4175,
+      "sizeBytes": 83108
+    },
+    {
+      "type": "file",
+      "name": "Jonathan Rowson - The Seven Deadly Chess Sins (Official Sample)",
+      "filename": "Jonathan Rowson - The Seven Deadly Chess Sins (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/03 Thinking and Calculation/Jonathan Rowson - The Seven Deadly Chess Sins (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/03%20Thinking%20and%20Calculation/Jonathan%20Rowson%20-%20The%20Seven%20Deadly%20Chess%20Sins%20(Official%20Sample).pdf",
+      "lastModified": 1784508565046.8706,
+      "sizeBytes": 68414
+    },
+    {
+      "type": "file",
+      "name": "Jonathan Tisdall - Improve Your Chess Now, New Edition (Official Sample)",
+      "filename": "Jonathan Tisdall - Improve Your Chess Now, New Edition (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/03 Thinking and Calculation/Jonathan Tisdall - Improve Your Chess Now, New Edition (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/03%20Thinking%20and%20Calculation/Jonathan%20Tisdall%20-%20Improve%20Your%20Chess%20Now%2C%20New%20Edition%20(Official%20Sample).pdf",
+      "lastModified": 1784508565738.9297,
+      "sizeBytes": 883874
+    },
+    {
+      "type": "file",
+      "name": "Michael Adams and Philip Hurtado - Think Like a Super-GM (Official Sample)",
+      "filename": "Michael Adams and Philip Hurtado - Think Like a Super-GM (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/03 Thinking and Calculation/Michael Adams and Philip Hurtado - Think Like a Super-GM (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/03%20Thinking%20and%20Calculation/Michael%20Adams%20and%20Philip%20Hurtado%20-%20Think%20Like%20a%20Super-GM%20(Official%20Sample).pdf",
+      "lastModified": 1784508564950.6292,
+      "sizeBytes": 260340
+    },
+    {
+      "type": "file",
+      "name": "R.B. Ramesh - Improve Your Chess Calculation (Official Sample)",
+      "filename": "R.B. Ramesh - Improve Your Chess Calculation (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/03 Thinking and Calculation/R.B. Ramesh - Improve Your Chess Calculation (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/03%20Thinking%20and%20Calculation/R.B.%20Ramesh%20-%20Improve%20Your%20Chess%20Calculation%20(Official%20Sample).pdf",
+      "lastModified": 1784508565116.1455,
+      "sizeBytes": 1205663
+    },
+    {
+      "type": "file",
+      "name": "Axel Smith - The Woodpecker Method 2 (Official Sample)",
+      "filename": "Axel Smith - The Woodpecker Method 2 (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/04 Tactics and Combinations/Axel Smith - The Woodpecker Method 2 (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/04%20Tactics%20and%20Combinations/Axel%20Smith%20-%20The%20Woodpecker%20Method%202%20(Official%20Sample).pdf",
+      "lastModified": 1784508565713.207,
+      "sizeBytes": 620532
+    },
+    {
+      "type": "file",
+      "name": "Axel Smith and Hans Tikkanen - The Woodpecker Method (Official Sample)",
+      "filename": "Axel Smith and Hans Tikkanen - The Woodpecker Method (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/04 Tactics and Combinations/Axel Smith and Hans Tikkanen - The Woodpecker Method (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/04%20Tactics%20and%20Combinations/Axel%20Smith%20and%20Hans%20Tikkanen%20-%20The%20Woodpecker%20Method%20(Official%20Sample).pdf",
+      "lastModified": 1784508565577.2034,
+      "sizeBytes": 742623
+    },
+    {
+      "type": "file",
+      "name": "Danny Gormally - Mating the Castled King (Official Sample)",
+      "filename": "Danny Gormally - Mating the Castled King (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/04 Tactics and Combinations/Danny Gormally - Mating the Castled King (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/04%20Tactics%20and%20Combinations/Danny%20Gormally%20-%20Mating%20the%20Castled%20King%20(Official%20Sample).pdf",
+      "lastModified": 1784508566013.212,
+      "sizeBytes": 227888
+    },
+    {
+      "type": "file",
+      "name": "David Smerdon - The Complete Chess Swindler (Official Sample)",
+      "filename": "David Smerdon - The Complete Chess Swindler (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/04 Tactics and Combinations/David Smerdon - The Complete Chess Swindler (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/04%20Tactics%20and%20Combinations/David%20Smerdon%20-%20The%20Complete%20Chess%20Swindler%20(Official%20Sample).pdf",
+      "lastModified": 1784508565802.0637,
+      "sizeBytes": 319040
+    },
+    {
+      "type": "file",
+      "name": "Karsten Muller and Claus-Dieter Meyer - The Magic of Chess Tactics 2 (Official Sample)",
+      "filename": "Karsten Muller and Claus-Dieter Meyer - The Magic of Chess Tactics 2 (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/04 Tactics and Combinations/Karsten Muller and Claus-Dieter Meyer - The Magic of Chess Tactics 2 (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/04%20Tactics%20and%20Combinations/Karsten%20Muller%20and%20Claus-Dieter%20Meyer%20-%20The%20Magic%20of%20Chess%20Tactics%202%20(Official%20Sample).pdf",
+      "lastModified": 1784508566190.8801,
+      "sizeBytes": 1858835
+    },
+    {
+      "type": "file",
+      "name": "Martin Weteschnik - Chess Tactics from Scratch (Official Sample)",
+      "filename": "Martin Weteschnik - Chess Tactics from Scratch (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/04 Tactics and Combinations/Martin Weteschnik - Chess Tactics from Scratch (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/04%20Tactics%20and%20Combinations/Martin%20Weteschnik%20-%20Chess%20Tactics%20from%20Scratch%20(Official%20Sample).pdf",
+      "lastModified": 1784508566030.759,
+      "sizeBytes": 192151
+    },
+    {
+      "type": "file",
+      "name": "Jacob Aagaard - Grandmaster Preparation - Attack and Defence (Official Sample)",
+      "filename": "Jacob Aagaard - Grandmaster Preparation - Attack and Defence (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/05 Attack and Defence/Jacob Aagaard - Grandmaster Preparation - Attack and Defence (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/05%20Attack%20and%20Defence/Jacob%20Aagaard%20-%20Grandmaster%20Preparation%20-%20Attack%20and%20Defence%20(Official%20Sample).pdf",
+      "lastModified": 1784508566099.7078,
+      "sizeBytes": 287963
+    },
+    {
+      "type": "file",
+      "name": "Johan Hellsten - Mastering Chess Defence (Official Sample)",
+      "filename": "Johan Hellsten - Mastering Chess Defence (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/05 Attack and Defence/Johan Hellsten - Mastering Chess Defence (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/05%20Attack%20and%20Defence/Johan%20Hellsten%20-%20Mastering%20Chess%20Defence%20(Official%20Sample).pdf",
+      "lastModified": 1784508566262.5767,
+      "sizeBytes": 751835
+    },
+    {
+      "type": "file",
+      "name": "Ger van Perlo - Van Perlo's Endgame Tactics, Modernized and Improved Edition (Official Sample)",
+      "filename": "Ger van Perlo - Van Perlo's Endgame Tactics, Modernized and Improved Edition (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/06 Endgames/Ger van Perlo - Van Perlo's Endgame Tactics, Modernized and Improved Edition (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/06%20Endgames/Ger%20van%20Perlo%20-%20Van%20Perlo's%20Endgame%20Tactics%2C%20Modernized%20and%20Improved%20Edition%20(Official%20Sample).pdf",
+      "lastModified": 1784508567001.555,
+      "sizeBytes": 667373
+    },
+    {
+      "type": "file",
+      "name": "Jacob Aagaard - Conceptual Rook Endgames (Official Sample)",
+      "filename": "Jacob Aagaard - Conceptual Rook Endgames (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/06 Endgames/Jacob Aagaard - Conceptual Rook Endgames (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/06%20Endgames/Jacob%20Aagaard%20-%20Conceptual%20Rook%20Endgames%20(Official%20Sample).pdf",
+      "lastModified": 1784508566557.079,
+      "sizeBytes": 438864
+    },
+    {
+      "type": "file",
+      "name": "Jacob Aagaard - Grandmaster Preparation - Endgame Play (Official Sample)",
+      "filename": "Jacob Aagaard - Grandmaster Preparation - Endgame Play (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/06 Endgames/Jacob Aagaard - Grandmaster Preparation - Endgame Play (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/06%20Endgames/Jacob%20Aagaard%20-%20Grandmaster%20Preparation%20-%20Endgame%20Play%20(Official%20Sample).pdf",
+      "lastModified": 1784508566585.7773,
+      "sizeBytes": 291113
+    },
+    {
+      "type": "file",
+      "name": "Jacob Aagaard and Steffen Nielsen - Endgame Labyrinths (Official Sample)",
+      "filename": "Jacob Aagaard and Steffen Nielsen - Endgame Labyrinths (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/06 Endgames/Jacob Aagaard and Steffen Nielsen - Endgame Labyrinths (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/06%20Endgames/Jacob%20Aagaard%20and%20Steffen%20Nielsen%20-%20Endgame%20Labyrinths%20(Official%20Sample).pdf",
+      "lastModified": 1784508566690.6768,
+      "sizeBytes": 160060
+    },
+    {
+      "type": "file",
+      "name": "Jesus de la Villa - 100 Endgame Patterns You Must Know (Official Sample)",
+      "filename": "Jesus de la Villa - 100 Endgame Patterns You Must Know (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/06 Endgames/Jesus de la Villa - 100 Endgame Patterns You Must Know (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/06%20Endgames/Jesus%20de%20la%20Villa%20-%20100%20Endgame%20Patterns%20You%20Must%20Know%20(Official%20Sample).pdf",
+      "lastModified": 1784508566528.0293,
+      "sizeBytes": 932827
+    },
+    {
+      "type": "file",
+      "name": "Jesus de la Villa - 100 Endgames You Must Know (Official Sample)",
+      "filename": "Jesus de la Villa - 100 Endgames You Must Know (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/06 Endgames/Jesus de la Villa - 100 Endgames You Must Know (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/06%20Endgames/Jesus%20de%20la%20Villa%20-%20100%20Endgames%20You%20Must%20Know%20(Official%20Sample).pdf",
+      "lastModified": 1784508566262.076,
+      "sizeBytes": 261277
+    },
+    {
+      "type": "file",
+      "name": "Johan Hellsten - Mastering Endgame Strategy (Official Sample)",
+      "filename": "Johan Hellsten - Mastering Endgame Strategy (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/06 Endgames/Johan Hellsten - Mastering Endgame Strategy (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/06%20Endgames/Johan%20Hellsten%20-%20Mastering%20Endgame%20Strategy%20(Official%20Sample).pdf",
+      "lastModified": 1784508566667.8943,
+      "sizeBytes": 250854
+    },
+    {
+      "type": "file",
+      "name": "John Nunn - Nunn's Chess Endings, Volume 1 (Official Sample)",
+      "filename": "John Nunn - Nunn's Chess Endings, Volume 1 (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/06 Endgames/John Nunn - Nunn's Chess Endings, Volume 1 (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/06%20Endgames/John%20Nunn%20-%20Nunn's%20Chess%20Endings%2C%20Volume%201%20(Official%20Sample).pdf",
+      "lastModified": 1784508566533.7163,
+      "sizeBytes": 114869
+    },
+    {
+      "type": "file",
+      "name": "Mark Dvoretsky - Dvoretsky's Endgame Manual, Sixth Edition (Official Sample)",
+      "filename": "Mark Dvoretsky - Dvoretsky's Endgame Manual, Sixth Edition (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/06 Endgames/Mark Dvoretsky - Dvoretsky's Endgame Manual, Sixth Edition (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/06%20Endgames/Mark%20Dvoretsky%20-%20Dvoretsky's%20Endgame%20Manual%2C%20Sixth%20Edition%20(Official%20Sample).pdf",
+      "lastModified": 1784508566472.6033,
+      "sizeBytes": 536681
+    },
+    {
+      "type": "file",
+      "name": "Sam Shankland - Theoretical Rook Endgames (Official Sample)",
+      "filename": "Sam Shankland - Theoretical Rook Endgames (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/06 Endgames/Sam Shankland - Theoretical Rook Endgames (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/06%20Endgames/Sam%20Shankland%20-%20Theoretical%20Rook%20Endgames%20(Official%20Sample).pdf",
+      "lastModified": 1784508566400.572,
+      "sizeBytes": 120583
+    },
+    {
+      "type": "file",
+      "name": "Jonathan Rowson - The Moves That Matter (Official Sample)",
+      "filename": "Jonathan Rowson - The Moves That Matter (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/07 Practical Improvement and Computer Chess/Jonathan Rowson - The Moves That Matter (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/07%20Practical%20Improvement%20and%20Computer%20Chess/Jonathan%20Rowson%20-%20The%20Moves%20That%20Matter%20(Official%20Sample).pdf",
+      "lastModified": 1784508567265.489,
+      "sizeBytes": 701964
+    },
+    {
+      "type": "file",
+      "name": "Matthew Sadler - The Silicon Road to Chess Improvement (Official Sample)",
+      "filename": "Matthew Sadler - The Silicon Road to Chess Improvement (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/07 Practical Improvement and Computer Chess/Matthew Sadler - The Silicon Road to Chess Improvement (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/07%20Practical%20Improvement%20and%20Computer%20Chess/Matthew%20Sadler%20-%20The%20Silicon%20Road%20to%20Chess%20Improvement%20(Official%20Sample).pdf",
+      "lastModified": 1784508566825.084,
+      "sizeBytes": 457000
+    },
+    {
+      "type": "file",
+      "name": "Matthew Sadler and Natasha Regan - Game Changer (Official Sample)",
+      "filename": "Matthew Sadler and Natasha Regan - Game Changer (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/07 Practical Improvement and Computer Chess/Matthew Sadler and Natasha Regan - Game Changer (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/07%20Practical%20Improvement%20and%20Computer%20Chess/Matthew%20Sadler%20and%20Natasha%20Regan%20-%20Game%20Changer%20(Official%20Sample).pdf",
+      "lastModified": 1784508567205.2476,
+      "sizeBytes": 864173
+    },
+    {
+      "type": "file",
+      "name": "Matthew Sadler and Steve Giddins - Re-Engineering the Chess Classics (Official Sample)",
+      "filename": "Matthew Sadler and Steve Giddins - Re-Engineering the Chess Classics (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/07 Practical Improvement and Computer Chess/Matthew Sadler and Steve Giddins - Re-Engineering the Chess Classics (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/07%20Practical%20Improvement%20and%20Computer%20Chess/Matthew%20Sadler%20and%20Steve%20Giddins%20-%20Re-Engineering%20the%20Chess%20Classics%20(Official%20Sample).pdf",
+      "lastModified": 1784508567115.816,
+      "sizeBytes": 789401
+    },
+    {
+      "type": "file",
+      "name": "Jan Timman - Timman's Titans (Official Sample)",
+      "filename": "Jan Timman - Timman's Titans (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/08 Master Games and Chess Wisdom/Jan Timman - Timman's Titans (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/08%20Master%20Games%20and%20Chess%20Wisdom/Jan%20Timman%20-%20Timman's%20Titans%20(Official%20Sample).pdf",
+      "lastModified": 1784508567706.2725,
+      "sizeBytes": 373184
+    },
+    {
+      "type": "file",
+      "name": "Judit Polgar - A Game of Queens (Official Sample)",
+      "filename": "Judit Polgar - A Game of Queens (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/08 Master Games and Chess Wisdom/Judit Polgar - A Game of Queens (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/08%20Master%20Games%20and%20Chess%20Wisdom/Judit%20Polgar%20-%20A%20Game%20of%20Queens%20(Official%20Sample).pdf",
+      "lastModified": 1784508567874.1333,
+      "sizeBytes": 945186
+    },
+    {
+      "type": "file",
+      "name": "Judit Polgar - From GM to Top Ten (Official Sample)",
+      "filename": "Judit Polgar - From GM to Top Ten (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/08 Master Games and Chess Wisdom/Judit Polgar - From GM to Top Ten (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/08%20Master%20Games%20and%20Chess%20Wisdom/Judit%20Polgar%20-%20From%20GM%20to%20Top%20Ten%20(Official%20Sample).pdf",
+      "lastModified": 1784508567485.6255,
+      "sizeBytes": 277484
+    },
+    {
+      "type": "file",
+      "name": "Judit Polgar - How I Beat Fischer's Record (Official Sample)",
+      "filename": "Judit Polgar - How I Beat Fischer's Record (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/08 Master Games and Chess Wisdom/Judit Polgar - How I Beat Fischer's Record (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/08%20Master%20Games%20and%20Chess%20Wisdom/Judit%20Polgar%20-%20How%20I%20Beat%20Fischer's%20Record%20(Official%20Sample).pdf",
+      "lastModified": 1784508567427.2778,
+      "sizeBytes": 257039
+    },
+    {
+      "type": "file",
+      "name": "Mihail Marin - Learn from the Legends 2 (Official Sample)",
+      "filename": "Mihail Marin - Learn from the Legends 2 (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/08 Master Games and Chess Wisdom/Mihail Marin - Learn from the Legends 2 (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/08%20Master%20Games%20and%20Chess%20Wisdom/Mihail%20Marin%20-%20Learn%20from%20the%20Legends%202%20(Official%20Sample).pdf",
+      "lastModified": 1784508567324.7205,
+      "sizeBytes": 516893
+    },
+    {
+      "type": "file",
+      "name": "Mihail Marin - Learn from the Legends, Third Edition (Official Sample)",
+      "filename": "Mihail Marin - Learn from the Legends, Third Edition (Official Sample).pdf",
+      "extension": "pdf",
+      "path": "AI Chess Coach Library/08 Master Games and Chess Wisdom/Mihail Marin - Learn from the Legends, Third Edition (Official Sample).pdf",
+      "url": "files/AI%20Chess%20Coach%20Library/08%20Master%20Games%20and%20Chess%20Wisdom/Mihail%20Marin%20-%20Learn%20from%20the%20Legends%2C%20Third%20Edition%20(Official%20Sample).pdf",
+      "lastModified": 1784508567774.613,
+      "sizeBytes": 1819746
+    },
     {
       "type": "file",
       "name": "Opening Books - GM Bestseller Shelf Catalogue",
@@ -415,676 +995,6 @@
       "url": "files/Blindfold%20games/game%201.pgn",
       "lastModified": 1779035667000,
       "sizeBytes": 910
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/loxty_chesscom/chunk-001.pgn",
-      "url": "files/Databases/Desktop/loxty_chesscom/chunk-001.pgn",
-      "lastModified": 1783340883000,
-      "sizeBytes": 107608
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-001.pgn",
-      "lastModified": 1783632805000,
-      "sizeBytes": 26211805
-    },
-    {
-      "type": "file",
-      "name": "chunk-002",
-      "filename": "chunk-002.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
-      "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-002.pgn",
-      "lastModified": 1783632805000,
-      "sizeBytes": 26213603
-    },
-    {
-      "type": "file",
-      "name": "chunk-003",
-      "filename": "chunk-003.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Online Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
-      "url": "files/Databases/Desktop/Online%20Games/Chess.com/IfanRJ_chesscom/chunk-003.pgn",
-      "lastModified": 1783632805000,
-      "sizeBytes": 4103640
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Online Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Online%20Games/Chess.com/loxi-ty_chesscom/chunk-001.pgn",
-      "lastModified": 1784502402719.44,
-      "sizeBytes": 24636659
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Behr, Rufus/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Behr%2C%20Rufus/chunk-001.pgn",
-      "lastModified": 1783341842000,
-      "sizeBytes": 132998
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Bevis, Noah/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Bevis%2C%20Noah/chunk-001.pgn",
-      "lastModified": 1782161859000,
-      "sizeBytes": 686653
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Bryant, Jeffrey/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Bryant%2C%20Jeffrey/chunk-001.pgn",
-      "lastModified": 1783341953000,
-      "sizeBytes": 177939
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Cont, Arya/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Cont%2C%20Arya/chunk-001.pgn",
-      "lastModified": 1783342580000,
-      "sizeBytes": 558949
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Georgiev, Ivan/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Georgiev%2C%20Ivan/chunk-001.pgn",
-      "lastModified": 1783344754000,
-      "sizeBytes": 128405
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Kawuma, Steven Male/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Kawuma%2C%20Steven%20Male/chunk-001.pgn",
-      "lastModified": 1782162360000,
-      "sizeBytes": 218220
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Large, Peter G/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Large%2C%20Peter%20G/chunk-001.pgn",
-      "lastModified": 1782165411000,
-      "sizeBytes": 799356
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Mesropyan, Hayk/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Mesropyan%2C%20Hayk/chunk-001.pgn",
-      "lastModified": 1782162722000,
-      "sizeBytes": 579979
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Muppidi, Anirudh/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Muppidi%2C%20Anirudh/chunk-001.pgn",
-      "lastModified": 1783636132000,
-      "sizeBytes": 134535
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Poderico, Francesco/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Poderico%2C%20Francesco/chunk-001.pgn",
-      "lastModified": 1783636257000,
-      "sizeBytes": 199262
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Redmill, Simon/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Redmill%2C%20Simon/chunk-001.pgn",
-      "lastModified": 1782163143000,
-      "sizeBytes": 103472
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Rubeck, Jonathan/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Rubeck%2C%20Jonathan/chunk-001.pgn",
-      "lastModified": 1782156068000,
-      "sizeBytes": 433871
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Sharma, Josh/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Sharma%2C%20Josh/chunk-001.pgn",
-      "lastModified": 1782159983000,
-      "sizeBytes": 188796
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Sheikh, Anum/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Sheikh%2C%20Anum/chunk-001.pgn",
-      "lastModified": 1782164098000,
-      "sizeBytes": 755072
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Sieczkowski, Adam/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Sieczkowski%2C%20Adam/chunk-001.pgn",
-      "lastModified": 1782164549000,
-      "sizeBytes": 444557
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Sooraj M R/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Sooraj%20M%20R/chunk-001.pgn",
-      "lastModified": 1782164895000,
-      "sizeBytes": 699605
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Sturt, Charles A/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Sturt%2C%20Charles%20A/chunk-001.pgn",
-      "lastModified": 1782165047000,
-      "sizeBytes": 100251
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Opponent Prep/Oxford FIDE Congress U2300/oxford fide congress u2300 prep - Van Neerven, Yvon/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Opponent%20Prep/Oxford%20FIDE%20Congress%20U2300/oxford%20fide%20congress%20u2300%20prep%20-%20Van%20Neerven%2C%20Yvon/chunk-001.pgn",
-      "lastModified": 1782165287000,
-      "sizeBytes": 421279
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/oxford fide congress u2300 prep - Large, Peter G/chunk-001.pgn",
-      "url": "files/Databases/Desktop/oxford%20fide%20congress%20u2300%20prep%20-%20Large%2C%20Peter%20G/chunk-001.pgn",
-      "lastModified": 1782165504000,
-      "sizeBytes": 1139956
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/oxford fide congress u2300 prep - Mesropyan, Hayk/chunk-001.pgn",
-      "url": "files/Databases/Desktop/oxford%20fide%20congress%20u2300%20prep%20-%20Mesropyan%2C%20Hayk/chunk-001.pgn",
-      "lastModified": 1782165524000,
-      "sizeBytes": 605927
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/oxford fide congress u2300 prep - Sharma, Josh/chunk-001.pgn",
-      "url": "files/Databases/Desktop/oxford%20fide%20congress%20u2300%20prep%20-%20Sharma%2C%20Josh/chunk-001.pgn",
-      "lastModified": 1782160840000,
-      "sizeBytes": 188514
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Personal/My classical games/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Personal/My%20classical%20games/chunk-001.pgn",
-      "lastModified": 1783337591000,
-      "sizeBytes": 182704
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Plimsol Chess.com prep last year 2/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Plimsol%20Chess.com%20prep%20last%20year%202/chunk-001.pgn",
-      "lastModified": 1780212244000,
-      "sizeBytes": 21258119
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Reference/Master games 2026-04-25 04-14/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Reference/Master%20games%202026-04-25%2004-14/chunk-001.pgn",
-      "lastModified": 1783113946000,
-      "sizeBytes": 193552
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Reference/Master games 2026-04-25 05-22/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Reference/Master%20games%202026-04-25%2005-22/chunk-001.pgn",
-      "lastModified": 1783129909000,
-      "sizeBytes": 8029971
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/Carlsen, Magnus repertoire/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Repertoires/Carlsen%2C%20Magnus%20repertoire/chunk-001.pgn",
-      "lastModified": 1783135412000,
-      "sizeBytes": 26214106
-    },
-    {
-      "type": "file",
-      "name": "chunk-002",
-      "filename": "chunk-002.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/Carlsen, Magnus repertoire/chunk-002.pgn",
-      "url": "files/Databases/Desktop/Repertoires/Carlsen%2C%20Magnus%20repertoire/chunk-002.pgn",
-      "lastModified": 1783135412000,
-      "sizeBytes": 26214128
-    },
-    {
-      "type": "file",
-      "name": "chunk-003",
-      "filename": "chunk-003.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/Carlsen, Magnus repertoire/chunk-003.pgn",
-      "url": "files/Databases/Desktop/Repertoires/Carlsen%2C%20Magnus%20repertoire/chunk-003.pgn",
-      "lastModified": 1783135412000,
-      "sizeBytes": 13458358
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-001.pgn",
-      "lastModified": 1783138825000,
-      "sizeBytes": 26214377
-    },
-    {
-      "type": "file",
-      "name": "chunk-002",
-      "filename": "chunk-002.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-002.pgn",
-      "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-002.pgn",
-      "lastModified": 1783138825000,
-      "sizeBytes": 26214298
-    },
-    {
-      "type": "file",
-      "name": "chunk-003",
-      "filename": "chunk-003.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-003.pgn",
-      "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-003.pgn",
-      "lastModified": 1783138825000,
-      "sizeBytes": 26214288
-    },
-    {
-      "type": "file",
-      "name": "chunk-004",
-      "filename": "chunk-004.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-004.pgn",
-      "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-004.pgn",
-      "lastModified": 1783138825000,
-      "sizeBytes": 26214168
-    },
-    {
-      "type": "file",
-      "name": "chunk-005",
-      "filename": "chunk-005.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-005.pgn",
-      "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-005.pgn",
-      "lastModified": 1783138825000,
-      "sizeBytes": 26214282
-    },
-    {
-      "type": "file",
-      "name": "chunk-006",
-      "filename": "chunk-006.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-006.pgn",
-      "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-006.pgn",
-      "lastModified": 1783138825000,
-      "sizeBytes": 26214291
-    },
-    {
-      "type": "file",
-      "name": "chunk-007",
-      "filename": "chunk-007.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-007.pgn",
-      "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-007.pgn",
-      "lastModified": 1783138825000,
-      "sizeBytes": 26214348
-    },
-    {
-      "type": "file",
-      "name": "chunk-008",
-      "filename": "chunk-008.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-008.pgn",
-      "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-008.pgn",
-      "lastModified": 1783138825000,
-      "sizeBytes": 26214195
-    },
-    {
-      "type": "file",
-      "name": "chunk-009",
-      "filename": "chunk-009.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-009.pgn",
-      "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-009.pgn",
-      "lastModified": 1783138825000,
-      "sizeBytes": 26214241
-    },
-    {
-      "type": "file",
-      "name": "chunk-010",
-      "filename": "chunk-010.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/IfanRJ repertoire/chunk-010.pgn",
-      "url": "files/Databases/Desktop/Repertoires/IfanRJ%20repertoire/chunk-010.pgn",
-      "lastModified": 1783138825000,
-      "sizeBytes": 7557506
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/Loxi-ty repertoire/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Repertoires/Loxi-ty%20repertoire/chunk-001.pgn",
-      "lastModified": 1783341255000,
-      "sizeBytes": 26214351
-    },
-    {
-      "type": "file",
-      "name": "chunk-002",
-      "filename": "chunk-002.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/Loxi-ty repertoire/chunk-002.pgn",
-      "url": "files/Databases/Desktop/Repertoires/Loxi-ty%20repertoire/chunk-002.pgn",
-      "lastModified": 1783341255000,
-      "sizeBytes": 26214348
-    },
-    {
-      "type": "file",
-      "name": "chunk-003",
-      "filename": "chunk-003.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/Loxi-ty repertoire/chunk-003.pgn",
-      "url": "files/Databases/Desktop/Repertoires/Loxi-ty%20repertoire/chunk-003.pgn",
-      "lastModified": 1783341255000,
-      "sizeBytes": 26214143
-    },
-    {
-      "type": "file",
-      "name": "chunk-004",
-      "filename": "chunk-004.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Repertoires/Loxi-ty repertoire/chunk-004.pgn",
-      "url": "files/Databases/Desktop/Repertoires/Loxi-ty%20repertoire/chunk-004.pgn",
-      "lastModified": 1783341255000,
-      "sizeBytes": 21702530
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Sameera Kodukula Prep/00 Kodukula, Sameera/00 Kodukula, Sameera - Lichess broadcast games/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/00%20Kodukula%2C%20Sameera/00%20Kodukula%2C%20Sameera%20-%20Lichess%20broadcast%20games/chunk-001.pgn",
-      "lastModified": 1782916518000,
-      "sizeBytes": 95448
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Sameera Kodukula Prep/00 Kodukula, Sameera/00 Kodukula, Sameera - Lichess SameeraKodukula/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/00%20Kodukula%2C%20Sameera/00%20Kodukula%2C%20Sameera%20-%20Lichess%20SameeraKodukula/chunk-001.pgn",
-      "lastModified": 1782912636000,
-      "sizeBytes": 168477
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Sameera Kodukula Prep/00 Kodukula, Sameera/00 Kodukula, Sameera - OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/00%20Kodukula%2C%20Sameera/00%20Kodukula%2C%20Sameera%20-%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1782912631000,
-      "sizeBytes": 26731
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Sameera Kodukula Prep/00 Kodukula, Sameera/00 Kodukula, Sameera - World Chess 853760/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Sameera%20Kodukula%20Prep/00%20Kodukula%2C%20Sameera/00%20Kodukula%2C%20Sameera%20-%20World%20Chess%20853760/chunk-001.pgn",
-      "lastModified": 1782917500000,
-      "sizeBytes": 3498317
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/00 Verbytski, Oleg - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/00%20Verbytski%2C%20Oleg%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1782165568000,
-      "sizeBytes": 1421223
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/01 Figeac, Aurelien - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/01%20Figeac%2C%20Aurelien%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1782165819000,
-      "sizeBytes": 113745
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma - Chess.com obiosky/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma%20-%20Chess.com%20obiosky/chunk-001.pgn",
-      "lastModified": 1782166180000,
-      "sizeBytes": 26214185
-    },
-    {
-      "type": "file",
-      "name": "chunk-002",
-      "filename": "chunk-002.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma - Chess.com obiosky/chunk-002.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma%20-%20Chess.com%20obiosky/chunk-002.pgn",
-      "lastModified": 1782166180000,
-      "sizeBytes": 1884193
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma - Lichess obiosky/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma%20-%20Lichess%20obiosky/chunk-001.pgn",
-      "lastModified": 1782167044000,
-      "sizeBytes": 6691003
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/02 Onuoha, Obioma - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/02%20Onuoha%2C%20Obioma%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1782214075000,
-      "sizeBytes": 352771
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/03 Lapidus, Alexey M. - Chess.com alex_lapidus (stale identity)/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/03%20Lapidus%2C%20Alexey%20M.%20-%20Chess.com%20alex_lapidus%20(stale%20identity)/chunk-001.pgn",
-      "lastModified": 1782216846000,
-      "sizeBytes": 274261
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/03 Lapidus, Alexey M. - Lichess ALexChess2010_2022/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/03%20Lapidus%2C%20Alexey%20M.%20-%20Lichess%20ALexChess2010_2022/chunk-001.pgn",
-      "lastModified": 1782221202000,
-      "sizeBytes": 4144056
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/03 Lapidus, Alexey M. - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/03%20Lapidus%2C%20Alexey%20M.%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1782223503000,
-      "sizeBytes": 397658
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian - Chess.com Sebastian443/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Chess.com%20Sebastian443/chunk-001.pgn",
-      "lastModified": 1782225282000,
-      "sizeBytes": 26212203
-    },
-    {
-      "type": "file",
-      "name": "chunk-002",
-      "filename": "chunk-002.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian - Chess.com Sebastian443/chunk-002.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Chess.com%20Sebastian443/chunk-002.pgn",
-      "lastModified": 1782225282000,
-      "sizeBytes": 26214170
-    },
-    {
-      "type": "file",
-      "name": "chunk-003",
-      "filename": "chunk-003.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian - Chess.com Sebastian443/chunk-003.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Chess.com%20Sebastian443/chunk-003.pgn",
-      "lastModified": 1782225282000,
-      "sizeBytes": 6516827
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/04 Mokhber-Garcia, Sebastian - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/04%20Mokhber-Garcia%2C%20Sebastian%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1782227087000,
-      "sizeBytes": 1010690
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/05 Balmond, Tom - Chess.com Tom_Balmond/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/05%20Balmond%2C%20Tom%20-%20Chess.com%20Tom_Balmond/chunk-001.pgn",
-      "lastModified": 1782227999000,
-      "sizeBytes": 3093069
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/05 Balmond, Tom - Southall U2400 OTB prep/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/05%20Balmond%2C%20Tom%20-%20Southall%20U2400%20OTB%20prep/chunk-001.pgn",
-      "lastModified": 1782228271000,
-      "sizeBytes": 310605
-    },
-    {
-      "type": "file",
-      "name": "chunk-001",
-      "filename": "chunk-001.pgn",
-      "extension": "pgn",
-      "path": "Databases/Desktop/Southall Congress 260620 U2400/06 Verbytski, Oleg - Chess.com demyan7777/chunk-001.pgn",
-      "url": "files/Databases/Desktop/Southall%20Congress%20260620%20U2400/06%20Verbytski%2C%20Oleg%20-%20Chess.com%20demyan7777/chunk-001.pgn",
-      "lastModified": 1782165668000,
-      "sizeBytes": 2348277
     },
     {
       "type": "file",
