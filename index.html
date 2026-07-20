@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Site retired</title>
+    <style>
+      :root { color-scheme: dark; font-family: system-ui, sans-serif; }
+      body { margin: 0; display: grid; min-height: 100vh; place-items: center; background: #111318; color: #f1f3f5; }
+      main { max-width: 32rem; padding: 2rem; text-align: center; }
+      p { color: #adb5bd; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Site retired</h1>
+      <p>This GitHub Pages site no longer hosts the En Croissant phone app.</p>
+    </main>
+    <script>
+      Promise.all([
+        "serviceWorker" in navigator
+          ? navigator.serviceWorker.getRegistrations().then((items) => Promise.all(items.map((item) => item.unregister())))
+          : Promise.resolve(),
+        "caches" in window
+          ? caches.keys().then((keys) => Promise.all(keys.map((key) => caches.delete(key))))
+          : Promise.resolve(),
+      ]).catch(() => {});
+    </script>
+  </body>
+</html>
